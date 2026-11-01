@@ -13,3 +13,10 @@
 - b003 ltwm-08616（Renault ZOE）、ltwm-08617（Opel Movano）：uncertain，缺案例說明（sites.wpp.com 雲端連不上）。
 - b004 ltwm-08625（Opening Act）、ltwm-08626（Love Has No Labels KISS）、ltwm-08631（Getty）：uncertain，缺官方說明。
 - 重複候選：無。
+
+## b005–b007（2026-11-02 雲端第一輪）
+- b005 ltwm-08635（THE DNA JOURNEY）已加【爭議】：被指參與者是演員、丹麥科學家質疑 DNA 邏輯，momondo 有回應。驗收員認為屬「被指控用演員造假」，符合規則卡，建議保留；請維護者確認。
+- b007 ltwm-08664（Marriott M LIVE）：in 檔 brand 空白，建議填 MARRIOTT INTERNATIONAL；圖用 Digiday 照片（非官方素材，官方 case board 看不出點子）。
+- b006 ltwm-08647（THE TRAFFICKING EXAM）：驗收員補到 WARC 來源後拿掉 uncertain，但仍缺技術細節，也沒有圖，請決定留空或另找。
+- b007 ltwm-08659（Chat Yourself）、ltwm-08660（Gorillaz）：圖是影片畫面，看不出 App，找不到更好的。
+- 重複候選：無。

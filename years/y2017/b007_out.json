@@ -43,7 +43,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 case board 的 image_candidates 是全黑分鏡格，不用；改用 PC Gamer 報導圖（遊戲畫面）。官方卡片需登入，內容依 VICE、IBTimes 報導整理，PC Gamer 頁面開過但讀稿未引用其內文。未發現造假、抄襲或撤獎指控；搜尋只看到模組釋出時網路上的反同志留言，屬一般評論，未寫入。官方獎項另有銅獅（遊戲品牌整合），金獅為創新類應用創新。"
+  "note": "官方 case board 的 image_candidates 是全黑分鏡格，不用；改用 PC Gamer 報導圖（遊戲畫面）。官方卡片需登入，內容依 VICE、IBTimes 報導整理，PC Gamer 頁面開過但讀稿未引用其內文。未發現造假、抄襲或撤獎指控；搜尋只看到模組釋出時網路上的反同志留言，屬一般評論，未寫入。官方獎項另有銅獅（遊戲品牌整合），金獅為創新類應用創新。 2026-11-01 Opus 驗：事實抽查 VICE、IBTimes（70 名 NPC、JulioNiB、Alesso、Pete Tong、8-Bit Bastard、無償；原本可被破壞、Pulse 槍擊後改成打不死）相符。圖看過，PC Gamer 遊戲畫面看得出遊行，可用。"
  },
  {
   "id": "ltwm-08658",
@@ -67,7 +67,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "巴西 Faber-Castell 推出 AR 手機應用，手機鏡頭對準不同顏色的環保鉛筆，鉛筆就變成一種巴西森林動物",
+  "idea_one_liner": "鉛筆品牌 Faber-Castell 巴西推出 AR 手機應用，手機鏡頭對準不同顏色的環保鉛筆，鉛筆就變成一種巴西森林動物",
   "brand_display": "Faber-Castell 無盡森林 AR 應用",
   "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜行動類金獅 Mobile Gold Lion｜代理商：DAVID THE AGENCY, São Paulo\n\n【背景】Faber-Castell 有一條 EcoLápis（環保鉛筆）產品線，用 100% 再造林木材製成，包含 12 色彩色鉛筆與 1 支石墨鉛筆。品牌想讓小朋友知道，這些鉛筆保護的不只是樹木。\n\n【點子】把每一種顏色的鉛筆變成一種巴西森林動物。David 聖保羅辦公室的創意副總 Rafael Donato 的說法是：每支環保鉛筆裡都住著一隻動物，而你正在幫忙保護牠。\n\n【執行】應用程式叫 Floresta Sem Fim（The Never-Ending Forest，無盡森林），在 Android 與 iOS 都能下載，由 David 創意、工作室 VZ Lab 開發（另一篇報導寫的是 Vetor Lab）。孩子用手機相機對準某個顏色的鉛筆，畫面就出現對應的巴西動物，並顯示牠的資訊。孩子可以下載動物線稿，用鉛筆手工上色，再用 AR 讓自己畫的版本動起來，也能和解鎖的動物合照、收集、分享。官方作品圖上可以看到木紋質感的低多邊形動物，如 Lobo Guará（鬃狼）、Arara Canindé（藍黃金剛鸚鵡）、Tamanduá Bandeira（大食蟻獸）、Lagarto Teiú（蜥蜴），站在同樣木紋質感的森林裡。\n\n資料來源：\nhttps://www.virtualrealitymarketing.com/?p=10593\nhttps://www.meioemensagem.com.br/ultimas-noticias/faber-castell-lanca-aplicativo-de-realidade-aumentada\nhttps://www.dandad.org/work/d-ad-awards-archive/the-never-ending-forest-app",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 行動類金獅, Mobile Gold Lion, 行動類, Mobile, Faber-Castell, 輝柏嘉, 輝柏, DAVID, DAVID The Agency, DAVID São Paulo, 文具, 鉛筆, 彩色鉛筆, 環保鉛筆, EcoLápis, Ecopencil, 再造林, 環保, 永續, 兒童, 教育, 擴增實境, AR, 手機應用, App, 行動應用, 遊戲化, 動物, 巴西森林動物, 森林, 巴西, Brazil, 無盡森林, Floresta Sem Fim, Never-Ending Forest, 手繪, 上色, 線稿, 合照, 收集, 木紋, 低多邊形, VZ Lab, 鬃狼, 金剛鸚鵡, 大食蟻獸, 蜥蜴",
@@ -82,7 +82,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "in 檔沒有 image_candidates。官方 lovethework 卡片未準備，圖用 Virtual Reality Marketing 的案例圖（工作室 VZ Lab 的案例頁，非官方 case board）。開發工作室兩篇報導寫法不同（VZ Lab／Vetor Lab），讀稿兩者都寫。動物隻數有的來源寫 12、有的寫 13，讀稿未寫隻數。VRM 頁面和 Meio & Mensagem 的下載量、成效未寫入。未發現造假或撤獎指控。"
+  "note": "in 檔沒有 image_candidates。官方 lovethework 卡片未準備，圖用 Virtual Reality Marketing 的案例圖（工作室 VZ Lab 的案例頁，非官方 case board）。開發工作室兩篇報導寫法不同（VZ Lab／Vetor Lab），讀稿兩者都寫。動物隻數有的來源寫 12、有的寫 13，讀稿未寫隻數。VRM 頁面和 Meio & Mensagem 的下載量、成效未寫入。未發現造假或撤獎指控。 2026-11-01 Opus 驗：一句話補品牌身分。圖看過，是 App 內低多邊形動物畫面，非官方但看得出點子，可用。",
+  "idea_one_liner_r0": "巴西 Faber-Castell 推出 AR 手機應用，手機鏡頭對準不同顏色的環保鉛筆，鉛筆就變成一種巴西森林動物"
  },
  {
   "id": "ltwm-08659",
@@ -141,7 +142,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "義大利推出臉書 Messenger 聊天機器人，初期阿茲海默症患者回答約 50 題個人資料後，隨時能向自己「問」回記憶",
+  "idea_one_liner": "義大利高齡研究網絡 Italia Longeva 做了聊天機器人，初期失智患者先答約 50 題個資，忘記時再問它",
   "brand_display": "Italia Longeva Chat Yourself",
   "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜行動類金獅 Mobile Gold Lion、行動類銀獅 Mobile Silver Lion、創意數據類銅獅 Creative Data Bronze Lion、行動類銅獅 Mobile Bronze Lion×2、製藥類銅獅 Pharma Bronze Lion｜代理商：Y&R ITALIA, Milan\n\n【背景】Italia Longeva 是義大利的高齡與長壽研究網絡。阿茲海默症早期的病人會開始忘記家人名字、回家的路、同樣的事問很多次，但還沒到需要完全依賴別人。Y&R 米蘭辦公室想做的是實用工具，不是又一支宣導。\n\n【點子】把臉書的 Messenger 變成病人的「備用記憶」。Chat Yourself 的名字就是「跟自己聊天」：病人自己先輸入答案，之後再向這個聊天機器人問回來。\n\n【執行】第一次使用時，程式會問約 50 題，涵蓋住家、工作、家人、健康與生活習慣。之後病人隨時可以問，例如孩子的名字、怎麼回家、各種期限、過敏等只有本人知道的資訊。使用者也可以設定個人化通知，提醒早餐或吃藥的時間，並提醒「這裡隨時有支援」。點子出自 Young & Rubicam，技術由 Nextopera 支援，由 Italia Longeva 掛名支持，另有老年醫學、神經與心理專家參與調整。使用者透過臉書專頁 @chatyourselfitalia 免費使用。官方影片分鏡可見一位戴眼鏡的女士端著插了一根蠟燭的蛋糕走進客廳。\n\n資料來源：\nhttps://www.dica33.it/notizie/34965/chat-yourself-software-alleato-dei-malati-alzheimer.asp\nhttps://www.italpress.com/?p=69764\nhttps://www.selfstorming.com/tools/libraries/campaigns/chat-yourself",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 行動類金獅, Mobile Gold Lion, 行動類銀獅, Mobile Silver Lion, 行動類銅獅, Mobile Bronze Lion, 創意數據類銅獅, Creative Data Bronze Lion, 製藥類銅獅, Pharma Bronze Lion, 行動類, Mobile, 創意數據類, Creative Data, 製藥類, Pharma, 數據驅動消費產品, Data Driven Consumer Product, 病患參與工具, Patient Engagement Utilities, Italia Longeva, 義大利高齡長壽網絡, Y&R, Y&R Milan, Y&R Italia, Young & Rubicam, 醫療, 健康, Healthcare, 阿茲海默症, Alzheimer, 失智, 記憶, 備用記憶, 聊天機器人, Chatbot, Messenger, Facebook Messenger, 臉書, 通知, 推播, 個人資料, 公益, 非營利, 義大利, Italy, 長者, 銀髮, 自主, 尊嚴, 生日蛋糕",
@@ -156,7 +157,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "in 檔唯一圖是分鏡格（女士端蛋糕、看不出點子），改用官方影片 YouTube 縮圖（是男子戴耳機，同樣看不出 App 本身，找不到更好的圖，請驗收員決定）。官方卡片需登入。來源：義大利 Dica33、Italpress 報導（皆為 2018 年的記者會報導）、Selfstorming（二手整理）。Selfstorming 的新聞篇數、成效、「臉書認可為最佳實踐」等說法未寫入。報導對各方角色說法略有不同（Selfstorming 提 MSD 贊助與專家團隊，義大利報導提 Nextopera 與 Italia Longeva 掛名），讀稿只寫兩邊一致的部分。官方獎項共 6 項。未發現造假或撤獎指控。"
+  "note": "in 檔唯一圖是分鏡格（女士端蛋糕、看不出點子），改用官方影片 YouTube 縮圖（是男子戴耳機，同樣看不出 App 本身，找不到更好的圖，請驗收員決定）。官方卡片需登入。來源：義大利 Dica33、Italpress 報導（皆為 2018 年的記者會報導）、Selfstorming（二手整理）。Selfstorming 的新聞篇數、成效、「臉書認可為最佳實踐」等說法未寫入。報導對各方角色說法略有不同（Selfstorming 提 MSD 贊助與專家團隊，義大利報導提 Nextopera 與 Italia Longeva 掛名），讀稿只寫兩邊一致的部分。官方獎項共 6 項。未發現造假或撤獎指控。 2026-11-01 Opus 驗：一句話原句主詞是「義大利」，改為機構。圖看過：YouTube 縮圖與 hq1-3 自動截圖都是人物（男子、家庭慶生、教授訪談），看不出 App；Selfstorming og:image 也是同一張，維持原圖，算找不到好圖。",
+  "idea_one_liner_r0": "義大利推出臉書 Messenger 聊天機器人，初期阿茲海默症患者回答約 50 題個人資料後，隨時能向自己「問」回記憶"
  },
  {
   "id": "ltwm-08660",
@@ -196,20 +198,19 @@
   "awards_unverified": [],
   "idea_one_liner": "英國虛擬樂團 Gorillaz 為新專輯做混合實境 App，發行日全球 500 多地點辦 AR 派對，到場才能聽專輯",
   "brand_display": "Gorillaz 官方 App",
-  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜行動類金獅 Mobile Gold Lion、音樂娛樂類銀獅 Entertainment Lions for Music Silver Lion、行動類銀獅 Mobile Silver Lion｜代理商：B-REEL, New York\n\n【背景】虛擬樂團 Gorillaz 由音樂人 Damon Albarn 與藝術家 Jamie Hewlett 在 1998 年創立，沉寂約七年後推出第五張錄音室專輯《Humanz》。兩人對這張專輯的想像是「世界末日的派對」，B-Reel 受託為專輯發行做一個行銷作品。\n\n【洞察】B-Reel 的創意總監 Davor Kravac 說，樂團就像品牌，總在找更有情感的方式說故事；他們也決定這個體驗要「讓所有人都能用」，而不是只給最新的高階手機。\n\n【點子】把專輯發行做成一場全球最大的地理定位聆聽派對，用混合實境把 Gorillaz 帶進現實世界。\n\n【執行】App 結合真實世界、AR、VR 與 360 度影片。使用者從現實場景開始，會有虛擬物件浮上來，成為進入 Gorillaz 房子的入口；房子一個房間一個房間地逛，Gorillaz 四位卡通成員 2D、Russel、Murdoc、Noodle 在裡面出現。專輯 4 月 28 日發行當天，App 叫使用者去找指定的「派對」地點，做法類似《Pokémon Go》的道館，到了才能在 App 裡聽整張專輯，並配上虛擬特效與裝置。官方稱這是涵蓋東京到聖地牙哥、500 多個地點的活動。B-Reel 說大約三個月就把虛擬房子做出來。\n\n資料來源：\nhttps://marketingdive.com/news/how-b-reel-helped-gorillaz-throw-a-virtual-house-party-for-the-end-of-the-w/447077\nhttps://www.oneclub.org/awards/theoneshow/-award/30133/gorillaz-app\nhttps://www2.eurobest.com/winners/2017/mobile/",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜行動類金獅 Mobile Gold Lion、音樂娛樂類銀獅 Entertainment Lions for Music Silver Lion、行動類銀獅 Mobile Silver Lion｜代理商：B-REEL, New York\n\n【背景】虛擬樂團 Gorillaz 由音樂人 Damon Albarn 與藝術家 Jamie Hewlett 在 1998 年創立，沉寂約七年後推出第五張錄音室專輯《Humanz》。兩人對這張專輯的想像是「世界末日的派對」，B-Reel 受託為專輯發行做一個行銷作品。\n\n【洞察】B-Reel 的創意總監 Davor Kravac 說，樂團就像品牌，總在找更有情感的方式說故事；他們也決定這個體驗要「讓所有人都能用」，而不是只給最新的高階手機。\n\n【點子】把專輯發行做成一場全球最大的地理定位聆聽派對，用混合實境把 Gorillaz 帶進現實世界。\n\n【執行】App 結合真實世界、AR、VR 與 360 度影片。使用者從現實場景開始，會有虛擬物件浮上來，成為進入 Gorillaz 房子的入口；房子一個房間一個房間地逛，Gorillaz 四位卡通成員 2D、Russel、Murdoc、Noodle 在裡面出現。專輯 4 月 28 日發行當天，App 叫使用者去找指定的「派對」地點，做法類似《Pokémon Go》的道館，到了才能在 App 裡聽整張專輯，並配上虛擬特效與裝置。官方稱這是涵蓋東京到聖地牙哥、500 多個地點的活動。B-Reel 說大約三個月就把虛擬房子做出來。\n\n資料來源：\nhttps://marketingdive.com/news/how-b-reel-helped-gorillaz-throw-a-virtual-house-party-for-the-end-of-the-w/447077\nhttps://www.oneclub.org/awards/theoneshow/-award/30133/gorillaz-app",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 行動類金獅, Mobile Gold Lion, 行動類銀獅, Mobile Silver Lion, 音樂娛樂類銀獅, Entertainment Lions for Music Silver Lion, 行動類, Mobile, 音樂娛樂類, Entertainment Lions for Music, 音樂內容的觀眾參與與發行策略, Audience Engagement & Distribution Strategy for Music Content, Gorillaz, 大猩猩樂團, Humanz, B-Reel, B-Reel New York, B-Reel London, 音樂, 專輯, 專輯發行, 虛擬樂團, 卡通樂團, Damon Albarn, Jamie Hewlett, 混合實境, Mixed Reality, 擴增實境, AR, 虛擬實境, VR, 360 度影片, 手機應用, App, 地理定位, Geolocation, 聆聽派對, 房子派對, House Party, Humanz House Party, 世界末日, 2D, Murdoc, Noodle, Russel, 全球, 英國, United Kingdom, 地點打卡",
   "category": "行銷案例",
   "references": [
    "https://marketingdive.com/news/how-b-reel-helped-gorillaz-throw-a-virtual-house-party-for-the-end-of-the-w/447077",
-   "https://www.oneclub.org/awards/theoneshow/-award/30133/gorillaz-app",
-   "https://www2.eurobest.com/winners/2017/mobile/"
+   "https://www.oneclub.org/awards/theoneshow/-award/30133/gorillaz-app"
   ],
   "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/ce39af63fab34725bb821cc4d31468ea/storyboard_000002.jpg",
   "image_shows": "電視測試圖樣式的畫面，中間圓圈裡是紅髮的 Murdoc 在黑板寫井字遊戲，旁邊有藍髮的 2D，底部寫 GLZ、192000 lines",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "只有分鏡格可用（官方影片裡的 Gorillaz 角色畫面），看不出 App 本身。成效數字（下載量、國家數、榜單）各來源不一致（Marketing Dive、One Show、官方卡片說法不同），讀稿未寫。Eurobest 頁面我只讀到摘要（Gorillaz App，Eurobest Grand Prix），讀稿只用其作為來源。官方獎項另含 Entertainment Lions for Music 銀獅。未發現造假或撤獎指控。"
+  "note": "只有分鏡格可用（官方影片裡的 Gorillaz 角色畫面），看不出 App 本身。成效數字（下載量、國家數、榜單）各來源不一致（Marketing Dive、One Show、官方卡片說法不同），讀稿未寫。Eurobest 頁面我只讀到摘要（Gorillaz App，Eurobest Grand Prix），讀稿只用其作為來源。官方獎項另含 Entertainment Lions for Music 銀獅。未發現造假或撤獎指控。 2026-11-01 Opus 驗：Eurobest 頁寫手只讀到摘要，從 references 與資料來源移除。圖看過：分鏡格是 Gorillaz 角色畫面，看不出 App，無官方 case board，維持。"
  },
  {
   "id": "ltwm-08661",
@@ -268,21 +269,23 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "澳洲心理健康機構 Headspace 做了像拼字檢查的反霸凌外掛，孩子打字出現霸凌字眼，就被畫上紅線提醒改寫",
+  "idea_one_liner": "澳洲青少年心理健康基金會 headspace 做 Chrome 外掛 Reword，孩子打出霸凌字眼就被紅線劃掉，提醒先想想再送出",
   "brand_display": "Headspace Reword",
-  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜創意數據類金獅 Creative Data Gold Lion、設計類金獅 Design Gold Lion、設計類銀獅 Design Silver Lion、創意數據類銅獅 Creative Data Bronze Lion、設計類銅獅 Design Bronze Lion、媒體類銅獅 Media Bronze Lion｜代理商：LEO BURNETT MELBOURNE\n\n【背景】澳洲 Headspace 要推出一個反霸凌工具，對象是常用社群的年輕人與擔心的家長。過去的反霸凌做法多半著重在事後通報，Leo Burnett 墨爾本辦公室把焦點轉到「發出霸凌訊息的人」身上。\n\n【點子】做一個「霸凌版拼字檢查」。像文書軟體的拼字檢查會在錯字下畫線一樣，Reword 在使用者輸入傷人字詞時，用紅色刪除線畫掉，提醒他重新考慮再送出。\n\n【執行】Reword 是一個 JavaScript 外掛，不是單純的髒話過濾，而是用自建的字詞資料庫比對孩子打的字串，抓出霸凌的詞與語氣。紅色刪除線的視覺像老師批改作業的紅筆。跳出的提醒文字是「你會對朋友這樣說嗎？不要再製造一個受害者」。為了讓資料庫跟得上流行語，系統開放孩子自己提交新的霸凌字詞，使用者因此也成為共同創作者。官方影片中，一群穿淺藍制服的學童走在人行道上，官方影片縮圖是黑白畫面的少女，臉前的「hate」被紅線劃掉。\n\n資料來源：\nhttps://www.selfstorming.com/tools/libraries/campaigns/headspace-reword\nhttps://awardonline.com/awards/38th-award-awards-annual/gold-2016-digital-apps-charity-reword",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜創意數據類金獅 Creative Data Gold Lion、設計類金獅 Design Gold Lion、設計類銀獅 Design Silver Lion、創意數據類銅獅 Creative Data Bronze Lion、設計類銅獅 Design Bronze Lion、媒體類銅獅 Media Bronze Lion｜代理商：LEO BURNETT MELBOURNE\n\n【背景】headspace 是澳洲的國家青少年心理健康基金會（National Youth Mental Health Foundation）。headspace 的新聞稿指出，澳洲年輕人之間每年約有 46.3 萬起網路霸凌；72% 的青少年一天上網不只一次，58% 會上 Facebook。\n\n【點子】做一個「霸凌版的拼字檢查」：像文書軟體會在錯字下畫線，Reword 在使用者打出傷人的字眼時，直接用一條紅線把字劃掉，讓他在送出之前再想一次。它不禁止任何字，只是提醒。\n\n【執行】Reword 由 headspace 與 Leo Burnett Melbourne 共同推出，2016 年 3 月上線，是免費的 Google Chrome 外掛。孩子在網頁上打字時，外掛即時比對霸凌字詞，把冒犯的字用紅線劃掉，並跳出提醒：「你會對朋友這樣說嗎？不要再製造一個受害者（Would you say this to a friend? Don't create another victim.）」。外掛認不出所有的新說法，所以開放使用者提交新的霸凌字詞，讓團隊考慮加入，年輕人因此一起參與編寫字庫。Reword 也被推廣到澳洲 250 多所學校。官方影片縮圖是黑白畫面中的少女，臉前的「hate」被紅線劃掉。\n\n資料來源：\nhttps://headspace.org.au/our-organisation/media-releases/a-new-online-tool-reword-is-changing-cyberbullying-behaviour/\nhttps://csmonitor.com/Technology/2016/0324/Can-one-red-line-cut-out-cyberbullying-Reword-insults-a-tweet-at-a-time\nhttps://www.selfstorming.com/tools/libraries/campaigns/headspace-reword",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 創意數據類金獅, Creative Data Gold Lion, 設計類金獅, Design Gold Lion, 設計類銀獅, Design Silver Lion, 創意數據類銅獅, Creative Data Bronze Lion, 設計類銅獅, Design Bronze Lion, 媒體類銅獅, Media Bronze Lion, 創意數據類, Creative Data, 創意數據強化, Creative Data Enhancement, 社群數據, Social Data, 設計類, Design, 應用程式設計, Apps, 使用者介面與使用歷程, UX Interface & User Journey, 社群參與, Social Engagement, 媒體類, Media, 科技運用, Use of Technology, Headspace, Leo Burnett, Leo Burnett Melbourne, 非營利組織, 心理健康, 青少年, 反霸凌, Anti-bullying, 網路霸凌, Cyberbullying, 瀏覽器外掛, Browser Extension, Chrome 外掛, 拼字檢查, Spellcheck, 紅色刪除線, 紅筆, 字詞資料庫, 眾包, Crowdsourcing, 澳洲, Australia, 學校, 學童, 軟體工具, 行為改變",
   "category": "行銷案例",
   "references": [
-   "https://www.selfstorming.com/tools/libraries/campaigns/headspace-reword",
-   "https://awardonline.com/awards/38th-award-awards-annual/gold-2016-digital-apps-charity-reword"
+   "https://headspace.org.au/our-organisation/media-releases/a-new-online-tool-reword-is-changing-cyberbullying-behaviour/",
+   "https://csmonitor.com/Technology/2016/0324/Can-one-red-line-cut-out-cyberbullying-Reword-insults-a-tweet-at-a-time",
+   "https://www.selfstorming.com/tools/libraries/campaigns/headspace-reword"
   ],
   "image_url": "https://img.youtube.com/vi/FHP1EjXdYrI/hqdefault.jpg",
   "image_shows": "黑白畫面中一位少女站在走廊，臉前的 hate 一字被一條紅線劃掉",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "uncertain：官方卡片需登入，LBB 頁面連不上，只有 Selfstorming（二手整理）與 AWARD 的獲獎名單，缺 Headspace、Leo Burnett 或第一手報導的完整案例描述，請驗收員補查。讀稿的【背景】與策略轉向來自 Selfstorming 的整理，不是原始文件。Selfstorming 的研究與成效數字（79% 等）未寫入。分鏡格（學童走路）與官方影片 YouTube 縮圖不同，以後者為主圖。官方獎項共 6 項。未發現造假或撤獎指控。"
+  "note": "uncertain：官方卡片需登入，LBB 頁面連不上，只有 Selfstorming（二手整理）與 AWARD 的獲獎名單，缺 Headspace、Leo Burnett 或第一手報導的完整案例描述，請驗收員補查。讀稿的【背景】與策略轉向來自 Selfstorming 的整理，不是原始文件。Selfstorming 的研究與成效數字（79% 等）未寫入。分鏡格（學童走路）與官方影片 YouTube 縮圖不同，以後者為主圖。官方獎項共 6 項。未發現造假或撤獎指控。 2026-11-01 Opus 驗：補到第一手來源：headspace 官方新聞稿與 Christian Science Monitor，依此改寫讀稿與一句話、拿掉 uncertain。原稿的「JavaScript 外掛、自建資料庫、紅筆像老師批改」等只出自 Selfstorming，已刪；AWARD 名單頁移出來源。新聞稿的下載量、改寫率、霸凌減少百分比屬成效，未寫入。另：搜尋結果顯示 Reword 在 2016 坎城也得過獎，與本 2017 官方名單無衝突，僅記錄。圖看過，可用。",
+  "idea_one_liner_r0": "澳洲心理健康機構 Headspace 做了像拼字檢查的反霸凌外掛，孩子打字出現霸凌字眼，就被畫上紅線提醒改寫"
  },
  {
   "id": "ltwm-08662",
@@ -327,7 +330,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "法國 Canal+ 為影集《年輕教宗》做出人工智慧教宗 AiMEN，專門在社群上回覆人們的貼文，附上對應的聖經經文",
+  "idea_one_liner": "法國付費電視台 Canal+ 為影集《年輕教宗》做出人工智慧教宗 AiMEN，在社群上讀人們的留言，回覆一句對應的聖經經文",
   "brand_display": "Canal+ AiMEN 人工智慧教宗",
   "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜創意數據類金獅 Creative Data Gold Lion、創意數據類銀獅 Creative Data Silver Lion、創意數據類銅獅 Creative Data Bronze Lion、媒體類銅獅 Media Bronze Lion｜代理商：BETC, Paris\n\n【背景】Canal+ 為宣傳原創影集《年輕教宗》（The Young Pope），找 BETC 巴黎辦公室做社群宣傳。影集的教宗是個不照傳統走的現代教宗，品牌想讓這個角色在網路上先「活」起來。\n\n【點子】BETC 的想法是把這位教宗發展成一個人工智慧，在網路與社群上對人們傳播「上帝的話」，用相當嗆辣、不一樣的口氣。\n\n【執行】專案名 AiMEN（Ai 加 Amen）。製作公司 Make Me Pulse 用 IBM Watson 的自然語言分類器，搭配機器學習演算法與情緒分析，去理解使用者在 Facebook、Twitter、YouTube 上留言的情緒脈絡，再從約 39000 句聖經經文的資料庫挑出最貼切的一句回覆。團隊的目標是監看 100 萬則網路留言並盡量即時回應。例如有人說自己餓了，可能被回覆「人活著不是單靠食物」這類經文。官方圖片上，穿白色教宗服的人物側臉上方是 AiMEN 字樣與 Canal+ 標誌。\n\n資料來源：\nhttps://www.makemepulse.com/case-study/the-young-pope-aimen\nhttps://www.selfstorming.com/tools/libraries/campaigns/aimen",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 創意數據類金獅, Creative Data Gold Lion, 創意數據類銀獅, Creative Data Silver Lion, 創意數據類銅獅, Creative Data Bronze Lion, 媒體類銅獅, Media Bronze Lion, 創意數據類, Creative Data, 數據敘事, Data Storytelling, 即時數據運用, Use of Real-time Data, 社群數據, Social Data, 媒體類, Media, 社群平台運用, Use of Social Platforms, Canal+, Canal Plus, BETC, BETC Paris, Make Me Pulse, 電視頻道, 影集, 年輕教宗, The Young Pope, 教宗, 聖經, 聖經經文, AiMEN, 人工智慧, AI, IBM Watson, 機器學習, 情緒分析, 自然語言處理, 社群聆聽, 即時回覆, 聊天機器人, Bot, Facebook, Twitter, YouTube, 法國, France, 幽默, 嗆辣, 宗教, 角色扮演, Jude Law",
@@ -341,7 +344,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片需登入。來源是製作公司 Make Me Pulse 的案例頁與 Selfstorming（二手整理）。影集名稱與「餓了回覆經文」的例子來自 Selfstorming，製作公司頁面寫的是 HBO／Canal+ 原創專案；經文數量各來源有 33000、39000 兩種說法，讀稿採用製作公司頁面的 39000。成效數字（訊息量、觸及）未寫入。官方獎項共 4 項。未發現造假或撤獎指控；搜尋結果未找到 AiMEN 的獨立批評。"
+  "note": "官方卡片需登入。來源是製作公司 Make Me Pulse 的案例頁與 Selfstorming（二手整理）。影集名稱與「餓了回覆經文」的例子來自 Selfstorming，製作公司頁面寫的是 HBO／Canal+ 原創專案；經文數量各來源有 33000、39000 兩種說法，讀稿採用製作公司頁面的 39000。成效數字（訊息量、觸及）未寫入。官方獎項共 4 項。未發現造假或撤獎指控；搜尋結果未找到 AiMEN 的獨立批評。 2026-11-01 Opus 驗：一句話補 Canal+ 身分。",
+  "idea_one_liner_r0": "法國 Canal+ 為影集《年輕教宗》做出人工智慧教宗 AiMEN，專門在社群上回覆人們的貼文，附上對應的聖經經文"
  },
  {
   "id": "ltwm-08663",
@@ -372,7 +376,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "俄羅斯 Sberbank 在空店面與看板上問居民「這裡缺什麼店」，依投票結果找出適合的商家，推銷小企業貸款",
+  "idea_one_liner": "俄羅斯儲蓄銀行 Sberbank 在空店面與看板上問居民「這裡缺什麼店」，依投票結果找合適的創業者，推銷小企業貸款",
   "brand_display": "Sberbank 社區需求貸款行銷",
   "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜創意數據類金獅 Creative Data Gold Lion、媒體類銅獅 Media Bronze Lion｜代理商：SBERBANK OF RUSSIA, Moscow / GOOD, Moscow\n\n【背景】俄羅斯城市裡的商店與服務常常開在奇怪的位置，新店撐過兩年的只有約兩成。Sberbank 每年處理 8000 萬名客戶與 120 萬家企業的交易，要推廣小企業貸款。\n\n【洞察】銀行的數據顯示，社區的基礎設施常常不符合當地需求。\n\n【點子】銀行用空店面的窗戶、看板與依地點投放的網路橫幅，直接問居民這個街區缺什麼，再把答案變成給小企業主的貸款廣告。\n\n【執行】幾百個戶外廣告與超過 3000 種網路橫幅，各自依街區寫成不同的內容，例如「瑜珈教室？」「兒童友善咖啡廳？」「蔬菜店加果汁吧？」，並請居民到 sberbank.ru/vote 投票。這些創意是演算法依多種數據產生的。居民的回應再啟動第二波廣告：訊息會傳給銀行的企業客戶中符合當地需求的人，也用預測模型在網路上找出合適的創業者，並印上「缺一家瑜珈中心」「缺一家蔬菜店」這樣的社區標語與「小企業貸款」。官方版面設計成彩色方塊拼貼，風格簡潔。\n\n資料來源：\nhttps://red-dot.org/project/sberbank-neighborhoods-25470\nhttps://www.dandad.org/awards/professional/2018/digital-marketing/26797/sberbank-neighborhoods/\nhttps://lovethework.com/work-awards/campaigns/sberbank-neighborhoods-673323",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 創意數據類金獅, Creative Data Gold Lion, 媒體類銅獅, Media Bronze Lion, 創意數據類, Creative Data, 企業對企業數據解決方案, Business-to-Business Data Solution, 媒體類, Media, 金融產品與服務, Financial Products & Services, Sberbank, 俄羅斯聯邦儲蓄銀行, GOOD, GOOD Moscow, Good Moscow, 銀行, 金融, 小企業貸款, 小型企業, 創業, 社區, 街區, 在地, 居民投票, 投票, 民意, 空店面, 店面窗戶, 戶外廣告, 看板, 網路橫幅, 地理定位, 在地化廣告, 客製化訊息, 演算法, 預測模型, 數據, 數據驅動, 方塊拼貼, 色塊設計, 彩色, 俄羅斯, Russia, 莫斯科, Moscow",
@@ -387,7 +391,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 case board 可用且看得出點子。官方作品名與 in 檔一致。D&AD 頁面是 2018 年的得獎紀錄，只當來源。官方 case board 印有成效數字（回應量倍數、成本效益），讀稿未寫。Red Dot 頁面的成效也未寫。官方代理商欄位有 Sberbank of Russia 與 GOOD 兩家，award_line 照官方。未發現造假或撤獎指控。"
+  "note": "官方 case board 可用且看得出點子。官方作品名與 in 檔一致。D&AD 頁面是 2018 年的得獎紀錄，只當來源。官方 case board 印有成效數字（回應量倍數、成本效益），讀稿未寫。Red Dot 頁面的成效也未寫。官方代理商欄位有 Sberbank of Russia 與 GOOD 兩家，award_line 照官方。未發現造假或撤獎指控。 2026-11-01 Opus 驗：一句話補銀行身分。",
+  "idea_one_liner_r0": "俄羅斯 Sberbank 在空店面與看板上問居民「這裡缺什麼店」，依投票結果找出適合的商家，推銷小企業貸款"
  },
  {
   "id": "ltwm-08664",
@@ -432,7 +437,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方作品名是「M LIVE: MARRIOTT INTERNATIONAL'S REAL-TIME COMMAND CENTER」，in 檔 title 沒有 M LIVE，brand 欄空白，官方 brand 為 M LIVE；award_line 的代理商欄很長，照官方。圖：官方 case board 只是動畫畫面、看不出點子，改用 Digiday 的 2016 年倫敦中心照片（非本件官方素材，是同一 M Live 系統），請驗收員確認是否接受。Digiday 是 2016 年報導，Selfstorming 是二手整理。「設立多國據點」的細節只寫兩者都有的。Selfstorming 的成效數字（互動率、轉換）與 Pokémon 活動說法、物業數（4500／6000）各來源不一，未寫入。未發現造假或撤獎指控。"
+  "note": "官方作品名是「M LIVE: MARRIOTT INTERNATIONAL'S REAL-TIME COMMAND CENTER」，in 檔 title 沒有 M LIVE，brand 欄空白，官方 brand 為 M LIVE；award_line 的代理商欄很長，照官方。圖：官方 case board 只是動畫畫面、看不出點子，改用 Digiday 的 2016 年倫敦中心照片（非本件官方素材，是同一 M Live 系統），請驗收員確認是否接受。Digiday 是 2016 年報導，Selfstorming 是二手整理。「設立多國據點」的細節只寫兩者都有的。Selfstorming 的成效數字（互動率、轉換）與 Pokémon 活動說法、物業數（4500／6000）各來源不一，未寫入。未發現造假或撤獎指控。 2026-11-01 Opus 驗：官方 case board 已下載看過：是一格彩色廣告看板崩落的插畫，看不出點子；接受寫手改用 Digiday 的 M Live 倫敦中心照片（看得到 M LIVE EUROPE 標誌與數據螢幕）。事實抽查 Digiday（兩週後才有報告、內容製作人／分析師／設計師、HYP3R、香港與倫敦據點）與 Selfstorming（香檳／升等、go dark 規則）相符。brand 欄空白未改（in 檔空白、官方 brand 為 M LIVE），列待決。"
  },
  {
   "id": "ltwm-08665",
@@ -627,7 +632,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "Ubisoft 為《火線獵殺：野境》做預告網站，放 50 台監視器，直播遊戲裡玻利維亞的毒梟世界，趕在玩家上線前先看",
+  "idea_one_liner": "遊戲公司 Ubisoft 在《火線獵殺：野境》上市前做互動網站，用 50 台監視器，播放遊戲中被毒梟統治的玻利維亞",
   "brand_display": "Ubisoft A World With No Heroes",
   "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜Cyber類金獅 Cyber Gold Lion、Cyber類銀獅 Cyber Silver Lion×2、直效類銅獅 Direct Bronze Lion、娛樂類銅獅 Entertainment Bronze Lion、媒體類銅獅 Media Bronze Lion｜代理商：DDB PARIS\n\n【背景】《Tom Clancy's Ghost Recon Wildlands》（火線獵殺：野境）是 Ubisoft 重啟的軍事戰術射擊遊戲，玩家控制四名精英士兵「Ghosts」，任務是剷除玻利維亞的毒梟集團。遊戲有史以來最大的開放世界地圖，超過 400 平方公里。\n\n【點子】DDB 巴黎辦公室提出一個問題：如果遊戲世界在玩家抵達之前就已活著呼吸，會怎樣？他們決定在遊戲上市前先讓世界「活起來」，並讓玩家看到這個被毒梟統治的世界，激起想去伸張正義的衝動。\n\n【執行】與數位製作公司 Make Me Pulse 做出沉浸式網站 A World With No Heroes，內有整張遊戲 3D 地圖。玩家可以日夜切換探索不同環境，地圖上有 50 台監視器，播放超過 8 小時從遊戲中擷取的獨家影片。網站另有第二張資料地圖，用資料視覺化呈現古柯鹼走私、毒梟賺的錢與一條人命的代價。DDB 的執行創意總監是 Alexander Kalchev。這個網站是整個遊戲上市宣傳的一部分，同一波還有電影風格短片 Red Dot 與 Ruthless，以及之後給媒體的 Cartel/Com 活動。\n\n資料來源：\nhttps://www.oneclub.org/awards/adcawards/-award/29572/\nhttps://www.cbnews.fr/node/22189\nhttps://shots.net/news/view/92739-ddb-paris-dare-players-to-take-on-the-cartel\nhttps://www.ladn.eu/mondes-creatifs/top-des-pubs/un-dispositif-rp-haletant-pour-ubisoft/",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber 類金獅, Cyber Gold Lion, Cyber 類銀獅, Cyber Silver Lion, 直效類銅獅, Direct Bronze Lion, 娛樂類銅獅, Entertainment Bronze Lion, 媒體類銅獅, Media Bronze Lion, Cyber 類, 微型網站, Microsite, 網站, Web, 媒體與出版, Media & Publications, 直效類, Direct, 娛樂類, 數位品牌體驗, Brand Experience: Digital, 媒體類, 數位或社群品牌內容, Branded Content, Ubisoft, 育碧, Tom Clancy's Ghost Recon Wildlands, Ghost Recon Wildlands, 火線獵殺野境, 火線獵殺, DDB, DDB Paris, Make Me Pulse, 電玩, 遊戲, 遊戲上市, 射擊遊戲, 開放世界, 3D 地圖, 地圖, 監視器, 監視畫面, 監視器直播, 毒梟, 古柯鹼, 玻利維亞, Bolivia, 法國, France, 資料視覺化, 預告網站, 沉浸式, 互動網頁, 遊戲影片, 黑暗, 犯罪",
@@ -643,6 +648,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "in 檔唯一圖是風景分鏡（Welcome to the world of Ghost Recon Wildlands，不是網站），改用官方案例影片的 YouTube 大圖（遊戲畫面，網站本身沒有圖），畫面較暗且血腥，請驗收員決定是否接受。官方卡片需登入。來源：ADC Awards 官方獎項頁的作品說明、CB News、Shots、L'ADN。Selfstorming 的成效、Narco Corridos、技術細節等未讀入稿。Cartel/Com 是同一波宣傳的另一個活動，不算此作品，讀稿只提一句。未發現造假或撤獎指控。"
+  "note": "in 檔唯一圖是風景分鏡（Welcome to the world of Ghost Recon Wildlands，不是網站），改用官方案例影片的 YouTube 大圖（遊戲畫面，網站本身沒有圖），畫面較暗且血腥，請驗收員決定是否接受。官方卡片需登入。來源：ADC Awards 官方獎項頁的作品說明、CB News、Shots、L'ADN。Selfstorming 的成效、Narco Corridos、技術細節等未讀入稿。Cartel/Com 是同一波宣傳的另一個活動，不算此作品，讀稿只提一句。未發現造假或撤獎指控。 2026-11-01 Opus 驗：程式標的「8 小時影片」是網站內容、不是成效，保留。一句話原句「直播」不準確（是預先擷取的影片），改寫。圖看過：遊戲畫面、有「8 hours of footage」字幕，畫面暗且有吊屍，但題材本身如此，維持。",
+  "idea_one_liner_r0": "Ubisoft 為《火線獵殺：野境》做預告網站，放 50 台監視器，直播遊戲裡玻利維亞的毒梟世界，趕在玩家上線前先看"
  }
 ]
