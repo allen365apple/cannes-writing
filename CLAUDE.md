@@ -14,5 +14,5 @@
 - 全程繁體中文。
 - 不用 rm 或任何刪檔指令；用不到的檔搬到 tmp_ 資料夾。
 - tmp_*／ 不上傳（.gitignore 已排除）。
-- 不改 bNNN_in.json，不改別年的檔；不在 Slack、Email 發訊息；不寫 Google。
+- 不改 bNNN_in.json，不改別年的檔；除了排程指示每天收尾的那一則 Slack 私訊，不發任何 Slack、Email 訊息；不寫 Google。
 - 推送：只 commit years/、不 force push。

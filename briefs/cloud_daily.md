@@ -16,7 +16,8 @@
 ## 4. 結尾
 - 在 O/cloud_log.md 記一行：日期、寫完／驗完哪些批、待決新增幾件、連不上的網站、撞到額度與否。commit＋push。
 - 撞到額度上限就停在原處（寫一半的 out 檔也 commit 上去，下一輪接續）。
+- 最後照排程指示發一則 Slack 私訊回報（對象寫在排程裡，不在本專案）。5 行內：年份、今天寫完／驗完哪些批（幾件）、該年累計幾批／總批數、待決新增幾件、出了什麼問題（沒有就寫「無」）。只發這一則，不發到頻道。
 
 ## 鐵則
 - 不刪任何檔（subagent 也一樣）；只改 years/y{Y}；不改 bNNN_in.json。
-- 不發 Slack／Email、不寫 Google、不 force push。
+- 除了結尾那一則 Slack 私訊，不發任何 Slack／Email；不寫 Google、不 force push。
