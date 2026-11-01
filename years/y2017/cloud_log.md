@@ -1,0 +1,30 @@
+# 2017 雲端紀錄
+
+## 2026-11-01 雲端試跑（只做 b065）
+
+### 連線測試（curl -m 20）
+| 網址 | 結果 | 判讀 |
+|---|---|---|
+| https://www.lovethework.com | 301 → /en 200 | 可連 |
+| b065 第一張 image_candidates（ascentialcdn.filespin.io /conversion/） | 200 | 可連 |
+| https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg | 200 | 可連 |
+| https://www.youtube.com | 200 | 可連 |
+| https://images.weserv.nl | 301 → wsrv.nl 200 | 可連 |
+| https://web.archive.org | 000（Connection reset by peer） | 連不上 |
+| https://www.adsoftheworld.com | 405 | 網路通，但網站擋 curl |
+| https://www.campaignlive.co.uk | 403 | 網路通，但網站擋 curl |
+| https://www.google.com | 200 | 可連 |
+
+寫手另回報：sites.wpp.com、dentsu-crx.co.jp 逾時；clios.com、lbbonline.com 回 403（都沒用到）。
+
+### 派 subagent
+- Sonnet 5.5 寫手（model sonnet）：可以派，約 3.6 分鐘寫完。
+- Opus 5.5 驗收員（model opus）：可以派，約 1.4 分鐘驗完。
+
+### 結果
+- b065 in 檔實際 5 件（不是 10 件）。收 5 件、不收 0 件；【爭議】0、uncertain 0。
+- check_batches.py：被標 0 件。
+- 驗收修改：ltwm-13788 Fuel 一句話改寫（原句只描述畫面、沒講點子，補「加拿大物流公司」身分）；ltwm-13791 Paqui 一句話補清品牌身分與挑戰內容。舊句存 idea_one_liner_r0。事實抽查 4 件全對；看圖 4 張都對。
+- 待決 1 件（13791 Paqui 是否加【爭議】），見 pending_decisions.md。
+- 花費時間：約 7 分鐘（連線測試到 push）。
+- push：見下一行。
