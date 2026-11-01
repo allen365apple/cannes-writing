@@ -27,4 +27,4 @@
 - 驗收修改：ltwm-13788 Fuel 一句話改寫（原句只描述畫面、沒講點子，補「加拿大物流公司」身分）；ltwm-13791 Paqui 一句話補清品牌身分與挑戰內容。舊句存 idea_one_liner_r0。事實抽查 4 件全對；看圖 4 張都對。
 - 待決 1 件（13791 Paqui 是否加【爭議】），見 pending_decisions.md。
 - 花費時間：約 7 分鐘（連線測試到 push）。
-- push：見下一行。
+- push：直接推上 main 成功（3b307a3..58334b9），不需改推 cloud-write 分支。
