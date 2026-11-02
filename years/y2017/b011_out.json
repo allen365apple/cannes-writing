@@ -1,0 +1,595 @@
+[
+ {
+  "id": "ltwm-08698",
+  "year": 2017,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "THROUGH THE DARK",
+  "brand": "GOOGLE",
+  "agency": "R/GA SYDNEY",
+  "links": [
+   "https://clios.com/awards/winner/digital-mobile-technique/google/through-the-dark-22746"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Film",
+    "subcategory": "Music Video",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Digital Craft",
+    "subcategory": "Overall Aesthetic Design",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Digital Craft",
+    "subcategory": "Video / Moving Image",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Digital Craft",
+    "subcategory": "Digital Illustration",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Digital Craft",
+    "subcategory": "Technological Achievement in Digital Craft",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Interactive Video",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "澳洲嘻哈團體 Hilltop Hoods 的 MV 做成互動網頁，轉動手機就切換明暗兩個 3D 世界，看白血病男孩與父親的旅程",
+  "brand_display": "Google Play Music",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜數位工藝類金獅 Digital Craft Gold Lion×2、數位工藝類銀獅 Digital Craft Silver Lion、影片類銀獅 Film Silver Lion、Cyber類銅獅 Cyber Bronze Lion、數位工藝類銅獅 Digital Craft Bronze Lion、行動類銅獅 Mobile Bronze Lion｜代理商：R/GA SYDNEY\n\n【背景】Google Play Music 要在澳洲擁擠的串流市場裡搶出辨識度，找上澳洲嘻哈團體 Hilltop Hoods 合作獨家內容。歌曲 Through the Dark 是團員 Dan Smith（藝名 MC Pressure）在兒子接受白血病治療時寫的，講一個父親的世界整個翻轉的過程。\n\n【點子】不做一般的 MV，而是把這首歌做成一支互動影片：觀眾用手機的方向與傾斜，自己決定要看哪一個世界。深色代表恐懼，亮色代表希望，父子的旅程就在兩個世界之間穿梭。\n\n【執行】R/GA Sydney 與 Google Play Music、Hilltop Hoods 合作，用 WebGL 即時渲染兩個彼此相連的 3D 場景，畫面風格是低多邊形動畫，整支作品完全由程式驅動。在高規格 Android 手機上，使用者旋轉、傾斜手機，就能在父子與病床、黑暗與光亮之間切換視角；桌機版則用滑鼠或觸控板操作。影片最後附上連結，聽團體專輯的人，每聽一次，Google 與 Hilltop Hoods 就捐 1 美元給澳洲青少年癌症組織 CanTeen。案例板上看得到的畫面包括低多邊形的父親、男孩與一隻黑色野獸，以及手機轉動時上下顛倒的病房。\n\n資料來源：\nhttps://www.bandt.com.au/rga-sydney-hilltop-hoods-google-play/\nhttps://mumbrella.com.au/hilltop-hoods-partners-rga-sydney-google-play-music-create-interactive-film-dark-407635\nhttps://www.lovethework.com/en/work/entries/through-the-dark-39554",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 數位工藝類, Digital Craft, 金獅, Gold Lion, 銀獅, Silver Lion, 影片類, Film, 網路類, Cyber, 行動類, Mobile, 銅獅, Bronze Lion, Google, Google Play Music, 串流音樂, 音樂, 澳洲, Australia, R/GA Sydney, R/GA, Hilltop Hoods, 嘻哈, Hip Hop, 互動影片, 互動 MV, Interactive Film, 互動網頁, WebGL, 3D 動畫, 低多邊形, Low Poly, 手機, 行動裝置, 陀螺儀, 白血病, 青少年癌症, CanTeen, 慈善, 捐款, 父子, 恐懼與希望, 明暗對比, 動畫",
+  "category": "行銷案例",
+  "references": [
+   "https://www.bandt.com.au/rga-sydney-hilltop-hoods-google-play/",
+   "https://mumbrella.com.au/hilltop-hoods-partners-rga-sydney-google-play-music-create-interactive-film-dark-407635",
+   "https://www.lovethework.com/en/work/entries/through-the-dark-39554"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/dd62d00614bb4d97a4c64453e8798d86",
+  "image_shows": "官方案例板：左側黑白分割的版面上有 Through the Dark 標題，中間是低多邊形風格的父親、男孩與黑色野獸，下方四格是手機畫面與兩個 3D 場景",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入，內容依 B&T、Mumbrella 與官方案例板整理。案例板上的成效數字未寫入。Cannes 獎項中，Film 銀獅的報名作品名為「HILLTOPS HOODS - THROUGH THE DARK」，其餘為「THROUGH THE DARK」，同一作品。未發現爭議。"
+ },
+ {
+  "id": "ltwm-08699",
+  "year": 2017,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "G ACTIVE",
+  "brand": "GATORADE",
+  "agency": "TBWA\\CHIAT\\DAY LOS ANGELES",
+  "links": [
+   "https://tbwa.com/work/gatorade-g-active"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Gold",
+    "category": "Digital Craft",
+    "subcategory": "",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Design",
+    "subcategory": "",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "Gatorade 為零卡電解質水 G Active 自製水珠裝置，讓數千顆水滴瞬間排成人形，拍成會跑會跳的水人",
+  "brand_display": "Gatorade",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜數位工藝類金獅 Digital Craft Gold Lion、設計類銀獅 Design Silver Lion｜代理商：TBWA\\CHIAT\\DAY, Los Angeles\n\n【背景】Gatorade 要推出新的健身水 G Active，主打補充流汗流失的電解質。目標對象是運動的人，這群人多半認為運動時只要喝水就夠了；品牌要用一個有衝擊力、又跟競品不同的方式，說明這是「活躍的水」。\n\n【點子】既然產品叫 Active，就讓水自己活起來：用水滴組成一個會跑、會跳、會踢沙包的人形角色。TBWA\\Chiat\\Day 的創意總監 Doug Menezes 說，產品本身就是靈感，他們讓水在眼前真的動起來。Gatorade 的態度是運動沒有捷徑，所以整支影片從一開始就決定全部實拍，不用電腦特效。\n\n【執行】團隊從零開發一套新裝置，結合藝術、攝影與科學。案例板上可以看到：一座懸在半空的大型水箱，用大量自製零件組成，能在千分之一秒內放出數千顆毫米級的 G Active 水滴，排成立體的人形；這台裝置與燈光系統、大尺寸數位相機同步，每一格畫面拍下來，再串成定格動畫，水人就像真人一樣動起來。UNIT9 Films 的導演 Cole Paviour 操刀拍攝，前期花了好幾個月規劃與試驗，才換到五天的拍攝時間。\n\n資料來源：\nhttps://shots.net/news/view/93231-unit9-films-tbwa-activate-water-for-gatorade\nhttps://www.lovethework.com/en/work/entries/g-active-making-water-active-39971",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 數位工藝類, Digital Craft, 金獅, Gold Lion, 設計類, Design, 銀獅, Silver Lion, Gatorade, 開特力, G Active, 運動飲料, 機能水, 電解質水, 飲料, TBWA\\Chiat\\Day, TBWA, UNIT9, 美國, United States, 水珠, 水滴, 水人, 裝置, 自製水裝置, 水箱, 水滴裝置, 定格動畫, Stop Motion, 實拍, 無特效, In-camera, 攝影, 影片, 工藝, 運動, 健身, 活躍, 產品發表, 新品上市",
+  "category": "行銷案例",
+  "references": [
+   "https://shots.net/news/view/93231-unit9-films-tbwa-activate-water-for-gatorade",
+   "https://www.lovethework.com/en/work/entries/g-active-making-water-active-39971"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/5aa750e9931e47909473f20df3d5f615",
+  "image_shows": "官方案例板：左側是懸在空中的大型水箱裝置，下方撒落的水滴排成一個奔跑的人形，右側有 Making Water Active 標題與任務、點子、執行說明",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入，內容依 shots 訪談與官方案例板整理（案例板文字為官方）。搜尋摘要未寫入。Cannes 官方報名名稱為「G ACTIVE | GATORADE」；官方頁面標題為「Making Water Active」。未發現爭議。"
+ },
+ {
+  "id": "ltwm-08700",
+  "year": 2017,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "LO & BEHOLD",
+  "brand": "NETSCOUT",
+  "agency": "PEREIRA & O’DELL NEW YORK",
+  "links": [
+   "https://clios.com/awards/winner/26321"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Film",
+    "subcategory": "Long Non-Fiction Film (over 10 minutes) ",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Film Craft",
+    "subcategory": "Achievement in Production",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Film Craft",
+    "subcategory": "Direction",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Entertainment",
+    "subcategory": "Excellence in Audience Engagement or Distribution Strategy for Branded Content",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Entertainment",
+    "subcategory": "Cinema & Theatrical: Non-Fiction Film",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Entertainment",
+    "subcategory": "TV & VOD: Non-Fiction 15 minutes or over",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "網路效能管理公司 NETSCOUT 出資，請導演 Werner Herzog 拍網路主題的長篇紀錄片",
+  "brand_display": "NETSCOUT",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜娛樂類金獅 Entertainment Gold Lion×2、影片工藝類金獅 Film Craft Gold Lion、娛樂類銀獅 Entertainment Silver Lion、影片類銀獅 Film Silver Lion、影片工藝類銀獅 Film Craft Silver Lion｜代理商：PEREIRA & O'DELL, New York\n\n【背景】NETSCOUT 是做網路與應用程式效能管理的企業，屬於 B2B 領域。品牌與代理商 Pereira & O'Dell New York 一開始就跟一般行銷專案一樣，從一場對話出發：怎麼讓一般大眾理解，網路基礎設施的健康、容量與安全為什麼重要。\n\n【點子】不拍廣告，拍一部真正的紀錄長片。Pereira & O'Dell 的執行創意總監 Dave Arnold 的說法是，要把 NETSCOUT 這個無所不在的品牌，跟大眾文化的集體心理連起來。於是品牌投資了一部探討網路歷史與未來的紀錄片，請傳奇導演 Werner Herzog 來掌鏡。\n\n【執行】《Lo and Behold, Reveries of the Connected World》由 Herzog 導演、擔任旁白，製作單位包括 NETSCOUT 與 Pereira & O'Dell。片中他走訪網路的誕生地，訪問 Elon Musk、Sebastian Thrun 等科技人物，談網路帶來的好處與傷害，也談機器人與人工智慧，結尾向受訪者拋出「網路能夢見自己嗎？」的問題。影片在 Sundance 影展放映後，進入戲院上映，並在 iTunes、Netflix、Hulu 與 Amazon Video 上架。官方案例圖是太空看地球夜景的畫面，上有 Sundance 官方入選標誌。\n\n資料來源：\nhttps://pereiraodell.com/news/pereira-odell-receives-two-gold-pencils-for-netscout-branded-documentary-lo-and-behold\nhttps://en.wikipedia.org/wiki/Lo_and_Behold,_Reveries_of_the_Connected_World\nhttps://www.lovethework.com/en/work/entries/lo-behold-33637",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 娛樂類, Entertainment, 金獅, Gold Lion, 影片類, Film, 銀獅, Silver Lion, 影片工藝類, Film Craft, NETSCOUT, 網路效能管理, B2B, 科技, Pereira & O'Dell, 美國, United States, Werner Herzog, 赫佐格, 紀錄片, 長紀錄片, 品牌紀錄片, Branded Documentary, 品牌娛樂, Branded Content, 電影, 院線, 戲院, Sundance, 日舞影展, 影展, 網路, Internet, 人工智慧, 機器人, 地球夜景, 太空",
+  "category": "行銷案例",
+  "references": [
+   "https://pereiraodell.com/news/pereira-odell-receives-two-gold-pencils-for-netscout-branded-documentary-lo-and-behold",
+   "https://en.wikipedia.org/wiki/Lo_and_Behold,_Reveries_of_the_Connected_World",
+   "https://www.lovethework.com/en/work/entries/lo-behold-33637"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/4fb291fe6d8d495d9f54fdac61b3a599/storyboard_000002.jpg",
+  "image_shows": "影片畫面：從太空看到夜間地球上的點點城市燈光，下方是 Sundance 影展官方入選標誌",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入，內容依 Pereira & O'Dell 新聞稿與 Wikipedia 整理。圖為影片分鏡格（沒有官方案例板），看不出完整點子，若有更好的圖可換。評價、影評、One Show 等獎項與上映成績未寫入。未發現爭議。"
+ },
+ {
+  "id": "ltwm-08701",
+  "year": 2017,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "LABEL OF LOVE",
+  "brand": "MONOPRIX",
+  "agency": "ROSAPARK PARIS",
+  "links": [
+   "https://www.dandad.org/awards/professional/2018/art-direction/26629/label-of-love/"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Gold",
+    "category": "Entertainment",
+    "subcategory": "TV & VOD: Fiction under 15 minutes",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "法國超市 Monoprix 的包裝以雙關語標籤聞名，85 週年拍四分鐘短片，男孩剪下標籤拼成情話，偷偷塞進暗戀女孩的置物櫃",
+  "brand_display": "Monoprix",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜娛樂類金獅 Entertainment Gold Lion｜代理商：ROSAPARK, Paris\n\n【背景】Monoprix 是法國主要的連鎖超市，賣食品、家用品、裝飾與服飾，以自有商品的包裝聞名：單色底、大字體的普普風設計，商品名稱一律改成雙關語。85 週年時，品牌不想做傳統的歷史回顧，而是想談自己與顧客之間長久的情感關係。\n\n【點子】既然標籤上的雙關語是 Monoprix 最有名的資產，就讓它當愛情故事的主角。故事講一個男孩如何靠包裝上的字，把心意傳給暗戀的女孩。品牌借這個故事，說明自己在 85 年裡是城市生活的一部分，口號是「在你生活的中心，在你城市的中心」。\n\n【執行】Rosapark 與英國導演組合 Thirty Two（拍過 LCD Soundsystem、Blur 的音樂紀錄片）合作，拍成一支用 35mm 底片拍攝、約四分鐘的影片，配樂是 Big Star 的〈Thirteen〉。劇情是男孩在學校把包裝上的字拼成訊息，放進女孩的置物櫃，女孩不知道是誰寫的；後來女孩全家搬走，兩人斷了聯絡；多年後兩人意外重逢，才看到這些訊息留下的影響。影片 5 月 10 日同步上線與電視播出，之後還推出 13 種不同結局。官方影片開場畫面是黑底白字：Monoprix 超市以標籤上的笑話聞名，那些雙關語來自商品名稱本身。\n\n資料來源：\nhttps://adsofbrands.net/en/news/monoprix-is-celebrating-85-years-with-an-unprecedented-campaign/211\nhttps://www.thestable.com.au/rosapark-monoprix-signature-asset-plays-cupid/\nhttps://shootonline.com/shoot_video2/best-work-you-may-never-see-directing-duo-thirty-two-paris-agency-rosapark-team-label-love",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 娛樂類, Entertainment, 金獅, Gold Lion, 電視與隨選影音類, TV & VOD, 劇情短片, Fiction, Monoprix, 超市, 零售, 連鎖超市, 法國, France, Rosapark, Rosa Paris, 品牌週年, 85 週年, 品牌娛樂, Branded Content, 短片, 微電影, 愛情故事, 暗戀, 初戀, 包裝, 包裝標籤, 雙關語, 文字遊戲, 置物櫃, 35mm, Thirty Two, 導演, 多重結局, 情感, 情話, 浪漫",
+  "category": "行銷案例",
+  "references": [
+   "https://adsofbrands.net/en/news/monoprix-is-celebrating-85-years-with-an-unprecedented-campaign/211",
+   "https://www.thestable.com.au/rosapark-monoprix-signature-asset-plays-cupid/",
+   "https://shootonline.com/shoot_video2/best-work-you-may-never-see-directing-duo-thirty-two-paris-agency-rosapark-team-label-love"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/45f69180dbc3441e897d7518c6658748/storyboard_000002.jpg",
+  "image_shows": "影片字卡：黑底白字寫著 Monoprix 超市以標籤上的雙關語笑話聞名",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入，內容依 adsofbrands（Monoprix 新聞稿）、The Stable 與 SHOOTonline 整理。圖為影片開場字卡，看不出劇情；若有更好的圖可換。觀看數、其他獎項未寫入。未發現爭議。"
+ },
+ {
+  "id": "ltwm-08702",
+  "year": 2017,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "HOME",
+  "brand": "UNDP KOSOVO",
+  "agency": "BLACK SHEEP STUDIOS LONDON",
+  "links": [
+   "https://www.thedrum.com/creative-works/project/black-sheep-unhcr-home"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Gold",
+    "category": "Entertainment",
+    "subcategory": "Cinema & Theatrical: Fiction Film",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "科索沃與英國團隊拍 20 分鐘短片《HOME》，讓舒適的英國家庭一路逃進戰區，反轉難民處境",
+  "brand_display": "UNDP Kosovo",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜娛樂類金獅 Entertainment Gold Lion｜代理商：BLACK SHEEP STUDIOS, London\n\n【背景】2016 年歐洲難民危機期間，英國的輿論與街頭廣告對難民充滿敵意，政客用「蜂擁而至」、「叢林」這類字眼形容逃離戰火的人。導演 Daniel Mulloy 說，他在科索沃的巴士站遇到一家被遣返的難民，他們在匈牙利被關押，孩子睡在地上生了病、剛動完手術，這個畫面讓他想回應眼前的現實。\n\n【點子】把處境反過來：讓一個舒適的英國家庭，從安穩的郊區生活，一路走進戰區。導演想做出一個荒謬、不合理的情境，因為對他來說戰爭本身就是荒謬的；觀眾看了會問：有誰會沒事想待在戰區裡？\n\n【執行】《HOME》是約 20 分鐘的短片，由 Jack O'Connell 與 Holliday Grainger 飾演一對父母，講一家人醒來看到新聞說英國被移民「淹沒」，接著展開一場從平凡生活到戰區的旅程。製作方是 BBH London 的內部製作單位 Black Sheep Studios、Somesuch 與科索沃的 DokuFest 影展，在英國、科索沃與阿爾巴尼亞拍攝；戰場戲在科索沃的 Gracanica 與 Janjevo 拍，三十多位當地演員參與，科索沃警察與安全部隊擔任臨時演員；資金來自聯合國科索沃團隊與 UNHCR 等單位。影片在世界難民日前後於英國戲院放映，影片全球放映的收益全數捐出。官方案例圖是倫敦計程車車頂的廣告牌，上面寫著「Why would you leave? #WithRefugees」。\n\n資料來源：\nhttps://prishtinainsight.com/kosovo-filmed-short-movie-tackling-migration-crisis-debuts-london-mag/\nhttps://en.wikipedia.org/wiki/Home_(2016_British-Kosovan_film)\nhttps://www.thedrum.com/creative-works/project/black-sheep-unhcr-home\nhttps://www.lovethework.com/en/work/entries/home-34191",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 娛樂類, Entertainment, 金獅, Gold Lion, 電影與劇院類, Cinema & Theatrical, 劇情片, Fiction Film, UNDP, UNDP Kosovo, 聯合國開發計畫署, UNHCR, 聯合國難民署, 科索沃, Kosovo, 英國, United Kingdom, 公益, 慈善, Charity, Black Sheep Studios, BBH, BBH London, Somesuch, DokuFest, 短片, 劇情短片, 電影, 院線, 戲院, 難民, 難民危機, Refugee, 世界難民日, 戰爭, 角色反轉, 同理心, Jack O'Connell, Holliday Grainger, Daniel Mulloy, 計程車廣告, 戶外廣告, #WithRefugees",
+  "category": "行銷案例",
+  "references": [
+   "https://prishtinainsight.com/kosovo-filmed-short-movie-tackling-migration-crisis-debuts-london-mag/",
+   "https://en.wikipedia.org/wiki/Home_(2016_British-Kosovan_film)",
+   "https://www.thedrum.com/creative-works/project/black-sheep-unhcr-home",
+   "https://www.lovethework.com/en/work/entries/home-34191"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/2195e135d54b4488980972f94f676a09",
+  "image_shows": "官方案例圖：倫敦街頭一輛黑色計程車的車頂廣告牌，寫著「WHY WOULD YOU LEAVE? #WITHREFUGEES」",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入，內容依 Prishtina Insight 報導、Wikipedia 與 The Drum 整理。圖為計程車車頂廣告牌，是活動周邊素材，不是影片本身；若有更好的影片劇照可換。BAFTA 等獎項未寫入。未發現爭議。官方 brand 欄為 UNDP Kosovo，與 in 檔一致。"
+ },
+ {
+  "id": "ltwm-08703",
+  "year": 2017,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "FROM THE START",
+  "brand": "LACTA",
+  "agency": "OGILVY GREECE",
+  "links": [
+   "https://ogilvy.gr/work/lacta-the-start"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Gold",
+    "category": "Entertainment",
+    "subcategory": "Online: Fiction Series",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Entertainment",
+    "subcategory": "TV & VOD: Fiction 15 minutes or over",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "希臘巧克力品牌 Lacta 拍五集網路影集，男主角每吃一塊 Lacta 就夢到同一個女孩，最後在現實中去找她",
+  "brand_display": "Lacta",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜娛樂類金獅 Entertainment Gold Lion、娛樂類銀獅 Entertainment Silver Lion｜代理商：OGILVYONE WORLDWIDE ATHENS\n\n【背景】希臘正處於經濟衰退，巧克力消費下滑、競爭激烈。Lacta 想提醒大家它的甜味，做法是把吃巧克力的甜，跟戀愛的甜連在一起。\n\n【點子】不拍一般廣告，而是拍一部有連續劇情的網路影集：一個不相信愛情的男人，每吃一塊 Lacta 巧克力，就會做一個夢，夢裡總是出現同一個女孩。巧克力成了觸發愛情的開關。\n\n【執行】《From the Start》是 5 集的網路影集，由 Ogilvy 希臘執行，講男主角因為這些夢愛上夢中女孩，並且最後走到現實中去追她。影片用電影的質感拍攝。官方案例圖是影片中的一個畫面：街上一名穿深色上衣與綠色外套的男人，背景是停滿車的街道。\n\n資料來源：\nhttps://ogilvy.gr/work/lacta-the-start\nhttps://www.selfstorming.com/tools/libraries/campaigns/from-the-start\nhttps://www.lovethework.com/en/work/entries/from-the-start-33125",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 娛樂類, Entertainment, 金獅, Gold Lion, 銀獅, Silver Lion, 線上劇情系列, Online Fiction Series, 電視與隨選影音, TV & VOD, Lacta, Mondelez, Mondelez International, 億滋, 巧克力, 食品, 零食, 希臘, Greece, OgilvyOne, Ogilvy, Ogilvy Greece, 網路影集, Web Series, 影集, 品牌娛樂, Branded Content, 愛情, 愛情故事, 夢, 夢境, 經濟衰退, 甜, 情感",
+  "category": "行銷案例",
+  "references": [
+   "https://ogilvy.gr/work/lacta-the-start",
+   "https://www.selfstorming.com/tools/libraries/campaigns/from-the-start",
+   "https://www.lovethework.com/en/work/entries/from-the-start-33125"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/63ea946d0cb042ab99aa379d103ffe0d",
+  "image_shows": "影片畫面：一名短髮男子走在兩旁停滿車的街上，背景是公寓與行道樹",
+  "text_source_level": 2,
+  "uncertain": true,
+  "needs_audio": false,
+  "note": "官方 Ogilvy 作品頁只有簡述，官方 Lovethework 全文需登入，故只寫得出大意（五集、夢到女孩、吃巧克力），細節不足，標 uncertain，缺劇情細節與各集內容。另一個來源 selfstorming 為第三方整理，只取概念，其餘細節未寫入。圖為影片單格，看不出點子；若有更好的圖可換。成效數字、其他獎項未寫入。"
+ },
+ {
+  "id": "ltwm-08704",
+  "year": 2017,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "ONE SOURCE: CAMPAIGN",
+  "brand": "ABSOLUT",
+  "agency": "VMLY&R JOHANNESBURG",
+  "links": [
+   "https://www.wpp.com/featured/work/2018/06/vml-absolut-one-source"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Gold",
+    "category": "Entertainment",
+    "subcategory": "Talent: Film, Series & Audio",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Entertainment",
+    "subcategory": "Audio Content",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Entertainment Lions for Music",
+    "subcategory": "Production of Exclusive Artist Content in Partnership with a Brand",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Media",
+    "subcategory": "Use of Branded Content created for Digital or Social Media",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "Absolut 找南非饒舌歌手 Khuli Chana 走訪非洲各國，與當地音樂人共創專輯，並拍成紀錄影集與 MV",
+  "brand_display": "Absolut",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜娛樂類金獅 Entertainment Gold Lion、娛樂類銀獅 Entertainment Silver Lion、音樂娛樂類銀獅 Entertainment Lions for Music Silver Lion、媒體類銅獅 Media Bronze Lion｜代理商：NATIVE VML, Johannesburg\n\n【背景】Absolut 在非洲推出 One Source，主題是 Absolut 全部來自瑞典 Åhus 這個小鎮、是「世界上唯一單一產地的伏特加」。問題是，這個以瑞典小鎮為核心的訊息，要怎麼讓南非消費者像 2015 年的「Africa is Absolut」那樣有感。\n\n【點子】把「同一個源頭」改寫成非洲的共同源頭：南非人、非洲人、所有人都來自同一個地方，我們也都是創作者。Native VML 執行長 Jason Xenopoulos 說，這讓 Absolut 的定位成為非洲創意革命的號召。\n\n【執行】Native VML 與南非 Motswako 饒舌歌手 Khuli Chana 合作，他與一群非洲音樂人一起，走訪南非到迦納等地，創作一張概念專輯，粉絲可以投票決定專輯中的重大創作選擇。作品包括一張 EP、一支在迦納拍攝的同名主打歌 MV（導演 Sunu Gonera，Egg Films 製作），以及一部四集的紀錄影集，在 MTV 播出，記錄他一路與各地音樂人點燃創意的過程。官方案例圖是影片中的 Absolut 酒瓶特寫，深藍背景。\n\n資料來源：\nhttps://www.bizcommunity.com/Article/196/423/152448.html\nhttps://www.wpp.com/featured/work/2018/06/vml-absolut-one-source\nhttps://www.lovethework.com/en/work/entries/one-source-campaign-40457",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 娛樂類, Entertainment, 金獅, Gold Lion, 銀獅, Silver Lion, 音樂娛樂類, Entertainment Lions for Music, 媒體類, Media, 銅獅, Bronze Lion, Absolut, 絕對伏特加, 伏特加, 酒類, 烈酒, 南非, South Africa, 非洲, Africa, 迦納, Ghana, Native VML, VML, VMLY&R, Khuli Chana, 饒舌, 嘻哈, Hip Hop, Motswako, 音樂人合作, 藝人合作, 概念專輯, 專輯, EP, MV, 音樂錄影帶, 紀錄影集, 紀錄片, MTV, 粉絲投票, 單一產地, 品牌娛樂, 創意",
+  "category": "行銷案例",
+  "references": [
+   "https://www.bizcommunity.com/Article/196/423/152448.html",
+   "https://www.wpp.com/featured/work/2018/06/vml-absolut-one-source",
+   "https://www.lovethework.com/en/work/entries/one-source-campaign-40457"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/920e0f45c1774dd08e1b9a396c0fdaef/storyboard_000002.jpg",
+  "image_shows": "影片畫面：深藍色背景中央立著一瓶 Absolut Vodka",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入，內容依 Bizcommunity 與 WPP 頁面整理。圖為影片單格，只看到酒瓶，看不出點子；若有更好的圖可換。官方報名名稱：Entertainment 與 Media 獎項為「ONE SOURCE: CAMPAIGN」，Audio Content 銀獅為另一條「ONE SOURCE: THE SONG」，讀稿以整體 Campaign 為主（同一系列、不同報名）。觀看、曝光、iTunes 排名等成效未寫入。未發現爭議。"
+ },
+ {
+  "id": "ltwm-08705",
+  "year": 2017,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "ASH TO ART",
+  "brand": "GLASGOW SCHOOL OF ART",
+  "agency": "J. WALTER THOMPSON LONDON",
+  "links": [
+   "https://vimeo.com/231767775"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Gold",
+    "category": "Entertainment",
+    "subcategory": "Excellence in Partnerships with a Talent",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Design",
+    "subcategory": "Spatial Brand Installation & Experience",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "格拉斯哥藝術學院圖書館燒毀後，JWT London 把殘骸寄給 25 位藝術家創作，再送上佳士得拍賣募款",
+  "brand_display": "Glasgow School of Art",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜娛樂類金獅 Entertainment Gold Lion、設計類銅獅 Design Bronze Lion｜代理商：J. WALTER THOMPSON, London\n\n【背景】2014 年 5 月，格拉斯哥藝術學院（Glasgow School of Art）的 Garnethill 校區發生大火，由建築師 Charles Rennie Mackintosh 設計的 Mackintosh 圖書館整個被毀。學校需要重建經費。\n\n【點子】JWT London 的兩位創意人 Bill Hartley 與 Giles Hepworth 想到：用火場的殘餘物，當作重生的工具。他們的說法是，這樣會把學校的未來交到英國創意界手中。做法是把燒焦的木頭、書本與家具殘骸，寄給世界頂尖藝術家，請他們各自創作，再拍賣。\n\n【執行】JWT London 與格拉斯哥藝術學院發展基金會合作，這個計畫花了兩年。每位藝術家收到一塊特別為他挑選的殘骸，附上一張說明它是什麼、來自哪裡的字條，創作方向完全開放。最後有 25 件作品，作者包括 David Shrigley、Cornelia Parker、Antony Gormley、Tacita Dean、Peter Blake、Grayson Perry、Anish Kapoor 等：Grayson Perry 做了一只刻有「Art is Dead. Long live art.」的陶甕，Douglas Gordon 把燒焦的木頭翻鑄成銅。作品於 2017 年 3 月在倫敦佳士得展出，並於 3 月 8 日拍賣，收益用於 Mackintosh 大樓重建。官方案例圖是燒焦木頭的特寫，上面寫著「A SYMBOL OF THE ARTS FOR 120 YEARS」。\n\n資料來源：\nhttps://www.thestable.com.au/ash-to-art-how-two-jwt-london-creatives-help-to-restore-glasgow-school-of-art/\nhttps://www.itsnicethat.com/news/ash-to-art-mackintosh-building-restoration-auction-300117\nhttps://www.theartnewspaper.com/2017/03/01/british-artists-make-art-from-ashes-of-the-mackintosh-library-for-charity-auction\nhttps://www.lovethework.com/en/work/entries/ash-to-art-33895",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 娛樂類, Entertainment, 金獅, Gold Lion, 藝人與人才合作, Partnerships with a Talent, 設計類, Design, 銅獅, Bronze Lion, 空間品牌裝置與體驗, Spatial Brand Installation & Experience, 格拉斯哥藝術學院, Glasgow School of Art, 藝術學院, 教育, 募款, 公益, 慈善拍賣, 佳士得, Christie's, 拍賣, J. Walter Thompson, JWT, JWT London, 英國, 蘇格蘭, Scotland, United Kingdom, 火災, 火場殘骸, 燒焦木頭, 炭, 藝術家合作, 當代藝術, 藝術作品, Mackintosh, 麥金托什, 圖書館, 重建, 重生, David Shrigley, Grayson Perry, Antony Gormley, 展覽, 動畫",
+  "category": "行銷案例",
+  "references": [
+   "https://www.thestable.com.au/ash-to-art-how-two-jwt-london-creatives-help-to-restore-glasgow-school-of-art/",
+   "https://www.itsnicethat.com/news/ash-to-art-mackintosh-building-restoration-auction-300117",
+   "https://www.theartnewspaper.com/2017/03/01/british-artists-make-art-from-ashes-of-the-mackintosh-library-for-charity-auction",
+   "https://www.lovethework.com/en/work/entries/ash-to-art-33895"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/5027aebe08834bedbfa5ebb7da14f6a7",
+  "image_shows": "影片畫面：燒焦的黑色木頭特寫，中央白字寫著 A SYMBOL OF THE ARTS FOR 120 YEARS",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入，內容依 The Stable、It's Nice That、The Art Newspaper 整理。拍賣金額等成效未寫入。搜尋時見 Sunday Post 報導提到募款成果與學校董事會內部不滿，只看到摘要、未打開全文，也屬活動之後的事，未寫入也不列為爭議。"
+ },
+ {
+  "id": "ltwm-08706",
+  "year": 2017,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "GRAVITY CAT",
+  "brand": "SONY",
+  "agency": "HAKUHODO TOKYO",
+  "links": [
+   "https://www.youtube.com/watch?v=hJs-NKmZbxI&ab_channel=ADSTARS%28%EB%B6%80%EC%82%B0%EA%B5%AD%EC%A0%9C%EA%B4%91%EA%B3%A0%EC%A0%9C%29"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Film",
+    "subcategory": "Media & Publications",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Film Craft",
+    "subcategory": "Production Design / Art Direction",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Film Craft",
+    "subcategory": "Direction",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Film Craft",
+    "subcategory": "Visual Effects",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Brand/Product Video",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Social Video",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Entertainment",
+    "subcategory": "Online: Fiction under 15 minutes",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "Sony 為 PS4 遊戲 Gravity Daze 2 拍短片，女孩與貓在實體旋轉的公寓裡，走上牆壁與天花板",
+  "brand_display": "Sony Interactive Entertainment",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜影片工藝類金獅 Film Craft Gold Lion、影片類銀獅 Film Silver Lion、影片工藝類銀獅 Film Craft Silver Lion、Cyber類銅獅 Cyber Bronze Lion×2、娛樂類銅獅 Entertainment Bronze Lion、影片工藝類銅獅 Film Craft Bronze Lion｜代理商：TOHOKUSHINSHA FILM CORPORATION, Tokyo / HAKUHODO INC., Tokyo\n\n【背景】Gravity Daze 2（海外名稱 Gravity Rush 2）是 PS4 動作冒險遊戲，賣點是重力可以 360 度改變。Sony 與 Hakuhodo 要讓人感受到重力改變的樂趣。\n\n【點子】拍一支真人短片：一個女孩與她的貓，在現實世界裡自由地在牆壁與天花板上奔跑、墜向天空。用貓當主角的理由有二：貓是遊戲主角的夥伴，而且貓影片本來就很受網路歡迎。Hakuhodo 希望畫面盡量寫實，讓觀眾忍不住想問「這是怎麼拍的」。\n\n【執行】Hakuhodo 與 Tohokushinsha Film 拍成約四分鐘的短片，由導演 Show Yanagisawa 執導，主角是兩姐妹，想抓住一隻不受重力影響的小貓。除了結尾的飛行段落，大部分都用實景拍攝：搭了一個能整圈轉動的公寓布景，轉動時家具與人物跟著翻轉，演員在牆面與天花板上走動。影片使用日英雙語字幕與直式日文排版，開場畫面是牛頓看見蘋果落下、想出萬有引力的字卡；官方影片縮圖則是女孩笑著抱著一隻橘色小貓，背景是堆滿紙箱雜物的房間。\n\n資料來源：\nhttps://www.hakuhodo-global.com/work/gravity-cat.html\nhttps://www.adweek.com/creativity/the-years-best-ad-you-havent-seen-playstations-weird-wonderful-gravity-cat/\nhttps://www.stashmedia.tv/scenes-gravity-cat/",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片工藝類, Film Craft, 金獅, Gold Lion, 影片類, Film, 銀獅, Silver Lion, Cyber, 網路類, 銅獅, Bronze Lion, 娛樂類, Entertainment, Sony, Sony Interactive Entertainment, PlayStation, PS4, Gravity Daze 2, Gravity Rush 2, 電玩, 遊戲, 日本, Japan, Hakuhodo, 博報堂, Tohokushinsha, 貓, Cat, 橘貓, 重力, 失重, 旋轉布景, Rotating Set, 實景拍攝, 實拍, 無特效, 公寓, 牆壁, 天花板, 姐妹, 影片, 短片, 美術設計, Production Design",
+  "category": "行銷案例",
+  "references": [
+   "https://www.hakuhodo-global.com/work/gravity-cat.html",
+   "https://www.adweek.com/creativity/the-years-best-ad-you-havent-seen-playstations-weird-wonderful-gravity-cat/",
+   "https://www.stashmedia.tv/scenes-gravity-cat/"
+  ],
+  "image_url": "https://i.ytimg.com/vi/hJs-NKmZbxI/maxresdefault.jpg",
+  "image_shows": "影片縮圖：長髮女孩開心地笑著，抱著一隻橘色小貓，背景是堆滿紙箱雜物的房間，下方英文字幕寫著 What's that smell?",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入，內容依 Hakuhodo 官方頁、Adweek 與 Stash 整理。YouTube 頁面未能打開（被擋），縮圖取自官方上傳影片的 ytimg。字卡畫面（Newton 字幕）取自 in 檔分鏡格。其他獎項、Spikes 等未寫入。「官方影片縮圖」的敘述僅描述圖面，沒有推測劇情。未發現爭議。"
+ },
+ {
+  "id": "ltwm-08707",
+  "year": 2017,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "OSTRICH",
+  "brand": "SAMSUNG",
+  "agency": "LEO BURNETT CHICAGO",
+  "links": [
+   "https://www.youtube.com/watch?v=H7ezU9MzaUE&ab_channel=M%2BAD"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Film",
+    "subcategory": "Durable Consumer Goods",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Film Craft",
+    "subcategory": "Direction",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Film Craft",
+    "subcategory": "",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Film Craft",
+    "subcategory": "",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Film Craft",
+    "subcategory": "Use of Licensed / Adapted Music",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Brand/Product Video",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Entertainment",
+    "subcategory": "Online: Fiction under 15 minutes",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "Samsung 拍鴕鳥戴上 Gear VR 體驗飛行後決心學飛，呼應新口號 Do What You Can't",
+  "brand_display": "Samsung",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜影片工藝類金獅 Film Craft Gold Lion×3、影片類銀獅 Film Silver Lion、影片工藝類銀獅 Film Craft Silver Lion、Cyber類銅獅 Cyber Bronze Lion、娛樂類銅獅 Entertainment Bronze Lion｜代理商：LEO BURNETT CHICAGO / MPC, London / LEO BURNETT CHICAGO / MJZ, Los Angeles / LEO BURNETT CHICAGO\n\n【背景】Samsung 在推出 Galaxy S8 時，同時介紹 Gear VR 頭戴裝置，並帶出新口號「Do What You Can't」。要讓人理解：手機搭配 VR，就能讓你體驗以前做不到的事。\n\n【點子】找一個天生做不到某件事的主角：不會飛的鴕鳥。牠戴上 Gear VR、看到雲端的飛行畫面後，立刻想要飛起來。片尾字幕寫著「We make what can't be made / So you can do what can't be done.」（我們做出做不出來的東西，讓你做不可能的事）。\n\n【執行】由 Leo Burnett Chicago 製作，一支廣告影片。片中鴕鳥把頭伸進 Samsung Gear VR，看到高空雲端的飛行體驗；之後牠努力學飛，最後真的飛起來，從同伴上方掠過。The Stable 的評論指出，這支片把手機和 VR 配件連在一起。畫面上看得到的場景是荒原與台地，下方有「Images simulated」小字；官方影片縮圖是一群鴕鳥在沙漠奔跑，其中一隻頭上戴著 VR 頭戴裝置。\n\n資料來源：\nhttps://www.thestable.com.au/leo-burnett-chicago-samsung-gives-an-ostrich-the-thrill-of-doing-what-cant-be-done/\nhttps://laughingsquid.com/virtual-reality-helps-an-ostrich-learn-to-fly-in-samsungs-new-ad-for-the-gear-vr-headset/",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片工藝類, Film Craft, 金獅, Gold Lion, 影片類, Film, 銀獅, Silver Lion, 網路類, Cyber, 銅獅, Bronze Lion, 娛樂類, Entertainment, Samsung, 三星, Galaxy S8, Gear VR, VR, 虛擬實境, 頭戴裝置, 手機, 消費電子, 美國, United States, Leo Burnett, Leo Burnett Chicago, MPC, MJZ, 鴕鳥, Ostrich, 動物, 飛行, 學飛, 飛行模擬, 沙漠, 荒原, Do What You Can't, 勵志, 不可能, 電視廣告, 影片, 視覺特效",
+  "category": "行銷案例",
+  "references": [
+   "https://www.thestable.com.au/leo-burnett-chicago-samsung-gives-an-ostrich-the-thrill-of-doing-what-cant-be-done/",
+   "https://laughingsquid.com/virtual-reality-helps-an-ostrich-learn-to-fly-in-samsungs-new-ad-for-the-gear-vr-headset/"
+  ],
+  "image_url": "https://i.ytimg.com/vi/H7ezU9MzaUE/maxresdefault.jpg",
+  "image_shows": "影片縮圖：沙漠中一群鴕鳥奔跑，其中一隻頭上戴著黑色 VR 頭戴裝置，背景是藍天與台地",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入，內容依 The Stable 與 Laughing Squid 整理。YouTube 頁面未能打開（被擋），縮圖取自官方上傳影片的 ytimg。官方報名名稱有「OSTRICH」與「SAMSUNG, OSTRICH」，同一作品。搜尋結果對配樂說法不一，讀稿未寫。鴕鳥是否為 CG 各來源說法亦未驗證，未寫。未發現爭議。"
+ }
+]
