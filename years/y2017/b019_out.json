@@ -1,0 +1,520 @@
+[
+ {
+  "id": "ltwm-08778",
+  "year": 2017,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "YOUR VOICE IS YOUR STAMP",
+  "brand": "U.S. POSTAL SERVICE",
+  "agency": "MRM//MCCANN NEW YORK",
+  "links": [
+   "https://clios.com/awards/winner/product-design/u-s-postal-service/your-voice-is-your-stamp-30432"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Innovation",
+    "subcategory": "Early Stage Technology",
+    "count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "美國郵政署做出智慧藍色郵筒，用戶先聲紋驗證，再說出收件地址，信投進去就自動扣款，不用貼郵票",
+  "brand_display": "美國郵政署 USPS",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜創新類銀獅 Innovation Silver Lion｜代理商：MRM//McCANN, New York\n\n【背景】美國郵政署想展現自己一直在創新、更新老舊形象，點子的切入口是最傳統的物件：郵票。\n\n【點子】郵局本來就會在分揀時掃描每封信的寄件地和收件地來決定郵資，那為什麼寄信的人還要自己貼郵票？把這份掃描資料接到用戶帳戶上，聲音就能代替郵票。\n\n【執行】MRM//McCann 與郵政署的技術與營運人員合作，設計一個可以裝在全美 150,000 個現有收件郵筒上的裝置，把郵筒變成以 AI 運作、靠太陽能板供電的智慧藍色郵筒，會說話、會聽、會秤重、也能交易。用戶先透過既有的郵政帳號做聲音驗證，讓這個「聲音郵票」連到寄件地址與付款方式。之後對郵筒說「我要寄一封信」，再報出收件地址，郵筒計算郵資並請用戶確認，信直接投入即可。信件進入分揀中心時，系統用既有的掃描資料對上帳戶，完成付費。郵筒還能用 37 種語言對話、告知收件時間與其他客戶服務。\n\n資料來源：\nhttps://www.selfstorming.com/tools/libraries/campaigns/your-voice-is-your-stamp\nhttps://www.lovethework.com/work-awards/campaigns/your-voice-is-your-stamp-29751",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 創新類, Innovation, 銀獅, Silver Lion, 早期科技, Early Stage Technology, 美國郵政署, U.S. Postal Service, USPS, MRM//McCann, MRM, McCann, 郵政, 物流, 美國, United States, 智慧郵筒, Smart Blue Box, 郵筒, 藍色郵筒, 郵票, Stamp, 聲紋驗證, 語音辨識, Voice Authentication, 語音互動, AI, 太陽能, 信件, 原型裝置",
+  "category": "行銷案例",
+  "references": [
+   "https://www.selfstorming.com/tools/libraries/campaigns/your-voice-is-your-stamp",
+   "https://www.lovethework.com/work-awards/campaigns/your-voice-is-your-stamp-29751"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/9e741814ba304b1f838feb37a48c34cc",
+  "image_shows": "案例圖板：標題 YOUR VOICE IS YOUR STAMP，藍色郵筒上放著一個郵政包裹，下方一排四個小圖示說明（解析度低，細字看不清）",
+  "text_source_level": 2,
+  "uncertain": true,
+  "needs_audio": false,
+  "note": "官方全文需登入。內容主要依 Selfstorming 頁面（含案例影片的逐字稿）整理，該頁屬二手整理站，缺少第二個獨立的文字來源；MRM 官方案例頁 404、Ads of the World 無頁。已略過該頁提到的專利與其他榮譽。案例板圖檔解析度很低（約 250 像素寬）。搜尋 controversy／fake 只找到原型被媒體過度炒作，無造假或撤獎指控。"
+ },
+ {
+  "id": "ltwm-08779",
+  "year": 2017,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "RIMOWA ELECTRONIC TAG",
+  "brand": "RIMOWA",
+  "agency": "PHILIPP UND KEUNTJE HAMBURG",
+  "links": [
+   "https://clios.com/awards/winner/digital-mobile/rimowa/rimowa-electronic-tag-20917"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Tangible Tech ",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "德國行李箱品牌 Rimowa 在箱面裝電子墨水螢幕，旅客用手機 App 遠端辦託運，條碼顯示在螢幕上，取代紙吊牌",
+  "brand_display": "Rimowa",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜行動類銀獅 Mobile Silver Lion、Cyber類銅獅 Cyber Bronze Lion、行動類銅獅 Mobile Bronze Lion｜代理商：PHILIPP UND KEUNTJE, Hamburg / RIMOWA ELECTRONIC TAG, Hamburg / T-SYSTEMS INTERNATIONAL, Frankfurt / AIRBUS GROUP, Leiden\n\n【背景】機場託運行李要掛紙吊牌，紙吊牌容易髒、容易被扯壞，旅客還得在櫃檯排隊辦理。\n\n【點子】把行李吊牌做進行李箱本身：箱面是一塊會顯示託運資訊的電子墨水螢幕，旅客不必再貼紙吊牌。\n\n【執行】Rimowa 的 Electronic Tag 讓旅客透過手機 App 遠端辦理行李託運，包含條碼在內的託運資訊會顯示在箱子側面的螢幕上，旅客因此可以跳過櫃檯排隊。為了耐用，螢幕玻璃的強度是 iPhone 螢幕的 10 倍，能承受極端溫度與濕度；電子墨水的畫面即使電池沒電也不會消失。這套系統可用在 Rimowa 的多條產品線，首批參與的航空公司有漢莎、長榮與瑞士航空。Hamburg 的 Philipp und Keuntje 負責這項作品在坎城的報名。\n\n資料來源：\nhttps://www.surfacemag.com/?p=47453\nhttps://www.horizont.net/agenturen/nachrichten/Cannes-Lions-Katerstimmung-bei-den-deutschen-Agenturen--Nur-4-weitere-Loewen-fuer-PuK-und-GP-158978\nhttps://www.adsoftheworld.com/campaigns/electronic-tag",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 行動類, Mobile, 銀獅, Silver Lion, 銅獅, Bronze Lion, Cyber類, Cyber, Tangible Tech, 實體科技, Rimowa, 行李箱, 旅行, 航空, 德國, Germany, Philipp und Keuntje, PuK, T-Systems, Airbus, 電子行李吊牌, Electronic Tag, 行李吊牌, 電子墨水, E-Ink, 手機 App, 智慧行李箱, 物聯網, 機場, 託運, 登機, 螢幕, 免排隊",
+  "category": "行銷案例",
+  "references": [
+   "https://www.surfacemag.com/?p=47453",
+   "https://www.horizont.net/agenturen/nachrichten/Cannes-Lions-Katerstimmung-bei-den-deutschen-Agenturen--Nur-4-weitere-Loewen-fuer-PuK-und-GP-158978",
+   "https://www.adsoftheworld.com/campaigns/electronic-tag"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/294f67613a8d41dd8c1baa22affb00da",
+  "image_shows": "案例圖板（黑底）：標題 RIMOWA ELECTRONIC TAG，右側是手機與行李箱側面螢幕顯示登機資訊的畫面，下方有三家航空公司 logo（圖檔解析度低，細字看不清）",
+  "text_source_level": 2,
+  "uncertain": true,
+  "needs_audio": false,
+  "note": "官方全文需登入，案例板解析度太低讀不出字；內容依 Surface 雜誌產品介紹整理，缺少案例官方文字與策略背景（【背景】只寫得出紙吊牌的問題）。官方登錄代理商含 T-Systems 與 Airbus，讀稿未展開。Horizont 與 LoveTheWork 對獎數說法略有出入，以 in 檔官方獎項為準。搜尋結果有報導說此功能 2018 年停售（屬產品後續，未寫入）。無造假、撤獎指控。"
+ },
+ {
+  "id": "ltwm-08780",
+  "year": 2017,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "FLEETLIGHTS",
+  "brand": "DIRECT LINE",
+  "agency": "SAATCHI & SAATCHI LONDON",
+  "links": [
+   "https://saatchi.co.uk/en-gb/work/direct-line-tackles-darkness-with-fleetlights-gps-drones-that-light-your-way-home/"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "英國保險公司 Direct Line 做出手機叫得到的無人機群，飛到行人或車子旁，用燈照亮前路",
+  "brand_display": "Direct Line",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜行動類銀獅 Mobile Silver Lion、行動類銅獅 Mobile Bronze Lion｜代理商：SAATCHI & SAATCHI, London\n\n【背景】Direct Line 的行銷主管認為，科技會讓保險的重心從事後賠償轉向事前預防，品牌想找一個能說明這個方向的點子。他們挑的切入點是天黑：資料指出冬季較暗的月份，死傷人數會增加 42%。\n\n【點子】既然路燈照不到所有地方，那就讓照明跟著人走：做一組隨叫隨到的「路燈無人機」。\n\n【執行】Fleetlights 由兩種無人機組成：15 架各帶一盞燈的四軸機，搭配 5 架各帶三盞燈的六軸機。使用者用手機 App 呼叫無人機，也可由調度中心的人員控制；機群靠網狀網路彼此通訊、保持隊形，讓被照的人始終在光裡。Direct Line 與 Saatchi & Saatchi、無人機專家 Michael Oborne（Mission Planner）合作，這是一個原型。示範在西薩塞克斯郡的 Petworth 拍攝與測試，影片裡無人機照亮騎單車的人、下班回家的酒吧員工，以及一位山地救援隊員，也有無人機飛在車旁的畫面。\n\n資料來源：\nhttps://www.inverse.com/article/24046-direct-line-fleetlights-drones-light-up-uk\nhttps://road.cc/content/news/211639-video-fleetlights-personal-drone-lights-your-way\nhttps://www.lovethework.com/work-awards/campaigns/fleetlights-28700",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 行動類, Mobile, 銀獅, Silver Lion, 銅獅, Bronze Lion, Direct Line, 保險, Insurance, 英國, United Kingdom, Saatchi & Saatchi, Saatchi & Saatchi London, 無人機, Drone, Fleetlights, 無人機群, Drone Swarm, 路燈, 街燈, 夜間照明, 黑夜, 安全, 預防, 行人, 單車, 手機 App, 原型, Prototype, 開源, 影片",
+  "category": "行銷案例",
+  "references": [
+   "https://www.inverse.com/article/24046-direct-line-fleetlights-drones-light-up-uk",
+   "https://road.cc/content/news/211639-video-fleetlights-personal-drone-lights-your-way",
+   "https://www.lovethework.com/work-awards/campaigns/fleetlights-28700"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/122a56e530b3479cbee92b9bbcb1ea39",
+  "image_shows": "案例圖板：標題 Direct Line FLEETLIGHTS，下方是夜間幾個人站在車旁、被上方無人機照亮的畫面，左側有手機（圖檔解析度低，細字看不清）",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入，內容依 Inverse、road.cc 報導與官方案例板整理。Inverse 指出 Petworth 示範是事先編排好的（腳本化示範），Insurance Business 報導商業化短期內不會發生；兩者屬一般評論、不算爭議，讀稿已寫成「原型」。未發現造假、抄襲或撤獎指控。"
+ },
+ {
+  "id": "ltwm-08781",
+  "year": 2017,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "BOTBOT",
+  "brand": "REPLY.AI",
+  "agency": "R/GA SAN FRANCISCO",
+  "links": [
+   "https://www.dandad.org/awards/professional/2017/digital-design/26017/botbot/"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Design",
+    "subcategory": "E-Commerce Design ",
+    "count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "Reply.ai 做出 BotBot 聊天機器人，小商家在 Messenger 回答它的提問，就免費做出自己的聊天機器人",
+  "brand_display": "Reply.ai",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜設計類銀獅 Design Silver Lion、行動類銀獅 Mobile Silver Lion×2｜代理商：R/GA SAN FRANCISCO\n\n【背景】聊天機器人能改善客服、幫忙賣東西，但要做出一個，得花不少創意與技術能力、時間與金錢，因此多數小商家用不起。這也成了新創公司 Reply.ai 擴大事業的障礙。\n\n【洞察】Reply.ai 在研究如何簡化做機器人的過程時發現：可以用聊天機器人來做聊天機器人。\n\n【點子】BotBot 把「建構機器人」這件複雜的事，改成 Facebook Messenger 裡的一段對話：機器人問、店主答，答完機器人就做好了。\n\n【執行】店主先在 BotBot 網頁選一個符合自己需求的機器人範本，案例板上的例子有點餐用的 Food Bot。選好後會開啟 Messenger，BotBot 一題一題問店主，例如「你想幫它取什麼名字？」，店主回答「Suzi's Noodles」，機器人就依答案做出客製的版本。完成後直接發布，顧客立刻可以在 Messenger 上和這家店的機器人聊天，點餐。整個流程免費，由 R/GA San Francisco 為 Reply.ai 打造。\n\n資料來源：\nhttps://www.warc.com/content/article/mma-smarties/replyai-botbot/en-gb/112494\nhttps://www.adsoftheworld.com/campaigns/botbot\nhttps://www.lovethework.com/en/work/entries/botbot-24267",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 設計類, Design, 銀獅, Silver Lion, 電子商務設計, E-Commerce Design, 行動類, Mobile, Reply.ai, BotBot, R/GA, R/GA San Francisco, 聊天機器人, Chatbot, 對話式介面, Conversational UI, Facebook Messenger, Messenger, 小商家, 小型企業, 免費, 科技, 新創, 美國, United States, 機器人範本, 點餐機器人, 手機, 手機 App, 人工智慧",
+  "category": "行銷案例",
+  "references": [
+   "https://www.warc.com/content/article/mma-smarties/replyai-botbot/en-gb/112494",
+   "https://www.adsoftheworld.com/campaigns/botbot",
+   "https://www.lovethework.com/en/work/entries/botbot-24267"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/6c2d6a5975c84abcbe20c9c6a2836c08",
+  "image_shows": "案例圖板：藍底，標題 THE BOT THAT BUILDS BOTS，三支手機依序顯示選範本（Food Bot）、在 Messenger 回答問題、顧客與機器人聊天，右上角是一個藍色小機器人",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入；內容依官方案例板、WARC 摘要（僅開放前段）與 Ads of the World 整理。案例板與 WARC 提到的成效數字（建置時間、評價等）未寫入。官方獎項為設計類銀獅與行動類銀獅×2，in 檔同。未發現造假、抄襲或撤獎指控。"
+ },
+ {
+  "id": "ltwm-08782",
+  "year": 2017,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "THE MAGIC WALLPAPER",
+  "brand": "CASTORAMA",
+  "agency": "TBWA\\PARIS",
+  "links": [
+   "https://www.dandad.org/awards/professional/2018/digital-marketing/26792/the-magic-wallpaper/"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Digital Craft",
+    "subcategory": "Interface & Navigation (UI)",
+    "count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Digital Craft",
+    "subcategory": "Editorial",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Product Design",
+    "subcategory": "Infant Products, Toys & Educational Products ",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Design",
+    "subcategory": "Apps",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Design",
+    "subcategory": "UX Interface & User Journey ",
+    "count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "法國居家修繕連鎖 Castorama 做出會說故事的壁紙，用 App 掃牆上的卡通角色，就播放該角色的睡前故事",
+  "brand_display": "Castorama",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜設計類銀獅 Design Silver Lion×2、數位工藝類銀獅 Digital Craft Silver Lion、行動類銀獅 Mobile Silver Lion、產品設計類銀獅 Product Design Silver Lion、數位工藝類銅獅 Digital Craft Bronze Lion、行動類銅獅 Mobile Bronze Lion｜代理商：TBWA\\PARIS / DAN PARIS, Boulogne-Billancourt / TBWA\\PARIS, Paris / DAN PARIS, Boulogne-Billancourt\n\n【背景】Castorama 是法國的居家修繕與家居用品連鎖店，壁紙是店裡賣的商品。案例板的出發點是：孩子不愛等，所以為孩子做的科技必須簡單、馬上能用。\n\n【點子】把壁紙變成說睡前故事的人：牆上的每個角色都是一個「數位標記」，用手機掃到，故事就開始。\n\n【執行】TBWA\\Paris 為 Castorama 設計這款壁紙，牆上有 10 個角色，由 5 位插畫家畫成，包括超級英雄、慢跑的犀牛和海軍貓。用專用 App 對準一個角色，就會播放約 5 分鐘、屬於該角色的故事；也可以同時掃兩個角色，得到兩個角色合演的故事，共有 10 個單人故事和 45 種雙人組合。每個故事有兩種模式：文字版給大人念，點到特定字詞會有音效；音訊版則由 App 裡的說書人朗讀，手機放在孩子房裡就好，螢幕會變成不含藍光的夜燈。App 也能在飛航模式下使用，並有低亮度的夜間模式。App 一打開就直接進入掃描，沒有首頁或複雜的介紹；文字模式的畫面亮度會依房間光線自動調整。數位製作由 DAN\\Paris 負責。\n\n資料來源：\nhttps://shots.net/news/view/93251-castorama-launch-story-telling-wallpaper\nhttps://www.yankodesign.com/2017/06/13/this-wallpaper-can-tell-bedtime-stories/amp/\nhttps://www.adsoftheworld.com/campaigns/the-magic-wallpaper\nhttps://www.lovethework.com/en/work/entries/the-magic-wallpaper",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 設計類, Design, 銀獅, Silver Lion, 應用程式, Apps, UX 介面與使用者旅程, UX Interface & User Journey, 數位工藝類, Digital Craft, 介面與導覽, Interface & Navigation (UI), 編輯, Editorial, 銅獅, Bronze Lion, 行動類, Mobile, 產品設計類, Product Design, 嬰幼兒用品、玩具與教育產品, Castorama, TBWA\\Paris, TBWA, DAN\\Paris, 法國, France, 居家修繕, DIY, 零售, 壁紙, Wallpaper, 睡前故事, Bedtime Story, 兒童, 親子, 手機 App, 掃描, 數位標記, 插畫, 角色, 犀牛, 熊貓, 夜燈, 音訊",
+  "category": "行銷案例",
+  "references": [
+   "https://shots.net/news/view/93251-castorama-launch-story-telling-wallpaper",
+   "https://www.yankodesign.com/2017/06/13/this-wallpaper-can-tell-bedtime-stories/amp/",
+   "https://www.adsoftheworld.com/campaigns/the-magic-wallpaper"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/d1de5aca512b4bf7a9e36657c4af07fe",
+  "image_shows": "案例圖板：灰底，標題 The Magic Wallpaper，平板顯示慢跑犀牛角色的 App 首頁，中間展示掃描單一與兩個角色、文字與音訊模式的流程畫面，下方有產品與運作說明",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入；內容依官方案例板、Shots、Yanko Design 與 Ads of the World 整理。官方獎項共 7 項（設計類銀獅×2、數位工藝類銀獅、行動類銀獅、產品設計類銀獅、數位工藝類銅獅、行動類銅獅），award_line 照官方。各來源對價格與壁紙銷量說法不一，未寫入；案例板上的故事頁數、時數不採用。有評論說這件主要是為了公關，屬一般評論、不算爭議。未發現造假或抄襲指控。"
+ },
+ {
+  "id": "ltwm-08783",
+  "year": 2017,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "MADE IN A MINUTE",
+  "brand": "LOWE’S",
+  "agency": "BBDO NEW YORK",
+  "links": [
+   "https://www.dandad.org/awards/professional/2017/graphic-design/25886/made-in-a-minute/"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "美國家居建材連鎖 Lowe's 在 Facebook 推 360 度教學影片，手機一傾斜或滑動，就看到同一人做完八個步驟",
+  "brand_display": "Lowe's",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜行動類銀獅 Mobile Silver Lion｜代理商：BBDO NEW YORK\n\n【背景】網路上的教學影片已是學做東西的好方法，但有的跟不上，有的又太慢。Lowe's 想重新設計教學影片的形式，鼓勵千禧世代自己動手做出酷東西。這是該品牌繼 Vine 短片 #FixIn6 之後，在社群影片上的又一次嘗試。\n\n【點子】做一系列 360 度的教學影片，讓人照自己的步調學：每個專案拆成八個步驟，像 GIF 一樣不斷循環播放。\n\n【執行】BBDO New York 與 Facebook 合作，在 Lowe's 的 Facebook 專頁推出「Made in a Minute」。每個步驟分開拍攝，再接成 360 度畫面，所以同一個人可以在整段畫面裡示範全部做法。現場把簡單的說明掛在每個步驟後方，地上放一個超大的「工具」當作指引，並加入造型擺設和彩蛋，例如飛過的鳥和紙飛機。用戶只要傾斜手機或滑動螢幕，就能在準備好時前往下一步，做出設計師風格的邊桌或帳篷（teepee）。Lowe's 計畫每月推出一支，並買 Facebook 廣告，對象是對居家修繕或 DIY 有興趣的人。\n\n資料來源：\nhttps://www.directnewideas.com/magazine/bbdo_new_york_made_in_a_minute/?id=2138\nhttps://www.adweek.com/performance-marketing/lowes-new-360-degree-videos-facebook-aim-teach-fans-home-improvement-skills-172720/\nhttps://digiday.com/brands/inspiring-entertaining-plus-utility-inside-lowes-social-media-strategy/",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 行動類, Mobile, 銀獅, Silver Lion, Lowe's, BBDO, BBDO New York, 美國, United States, 家居建材, 居家修繕, DIY, 教學影片, How-to, 360 度影片, 360 Video, Facebook, Facebook 360, 社群媒體, 社群影片, 手機互動, 傾斜手機, GIF, 循環播放, 邊桌, 帳篷, Teepee, 千禧世代, 手作, 零售",
+  "category": "行銷案例",
+  "references": [
+   "https://www.directnewideas.com/magazine/bbdo_new_york_made_in_a_minute/?id=2138",
+   "https://www.adweek.com/performance-marketing/lowes-new-360-degree-videos-facebook-aim-teach-fans-home-improvement-skills-172720/",
+   "https://digiday.com/brands/inspiring-entertaining-plus-utility-inside-lowes-social-media-strategy/"
+  ],
+  "image_url": "https://static-www.adweek.com/wp-content/uploads/files/2016_Jul/lowes-fb360-hed-2016.png",
+  "image_shows": "報導配圖：從正上方拍的斜切鋸（藍色與銀色機身）切割白色木料，磚地背景；看不出 360 度操作介面",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入；內容依 Direct New Ideas（含官方式創意說明與團隊名單）、Adweek 與 Digiday 整理。找不到能看出 360 度教學點子的好圖：LoveTheWork 卡片只有空白或風景分鏡、Ads of the World 無圖，暫用 Adweek 報導配圖（只看得到工具畫面）。Direct New Ideas 與 Digiday 的觀看、分享數屬成效，未寫入。各來源對推出時間說法不一（2016 年 7 月 Adweek 稱將播到 8 月），讀稿未寫日期。未發現造假、抄襲或撤獎指控（搜尋出現的 BBDO 爭議是 Bayer 他支作品）。"
+ },
+ {
+  "id": "ltwm-08784",
+  "year": 2017,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "SERENA WILLIAMS | MATCH POINT",
+  "brand": "GATORADE",
+  "agency": "TBWA\\CHIAT\\DAY LOS ANGELES",
+  "links": [
+   "https://www.dandad.org/awards/professional/2017/art-direction/26317/serena-williams-match-point-gatorade/"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Bronze",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Mobile ",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Media",
+    "subcategory": "Use of Brand or Product Integration into a Programme or Platform ",
+    "count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "運動飲料 Gatorade 在 Snapchat 廣告裡做出 22 關像素網球遊戲，讓人扮演網球名將小威廉絲重打她贏的每座大滿貫",
+  "brand_display": "Gatorade",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜行動類銀獅 Mobile Silver Lion×2、媒體類銅獅 Media Bronze Lion、行動類銅獅 Mobile Bronze Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：TBWA\\CHIAT\\DAY, Los Angeles / OMD USA, Chicago / GATORADE, Chicago\n\n【背景】小威廉絲（Serena Williams）可說是史上最偉大的女運動員，Gatorade 想為她的職業生涯致敬。但想接觸的青少年都泡在 Snapchat 這類 App 上，而那裡廣告的平均點擊停留不到三秒。\n\n【點子】既然只有幾秒鐘，就把整個遊戲放進一則廣告裡：做一款讓人想一直玩下去的網球遊戲，主角就是小威廉絲。\n\n【執行】TBWA\\Chiat\\Day Los Angeles 與遊戲公司 Ludomade 合作，在 Snapchat 廣告單元裡做出「Serena Match Point」，這是 Snapchat 上第一款完整的遊戲。美國公開賽開賽當天，它出現在 ESPN 的 Snapchat Discover 頻道，用戶滑動到廣告頁、再往下滑就能開始玩。玩家要抓準時機點擊螢幕，回擊對手的發球，共 22 關，每一關對應她贏過的一座大滿貫單打冠軍；案例板說，每個大滿貫都濃縮成一個關卡，連她當年的服裝與髮型都細到像素。遊戲也放在 SerenaMatchPoint.com，用電腦或手機瀏覽器就能玩，並在 Facebook、Instagram 與 Twitter 宣傳。\n\n資料來源：\nhttps://www.inverse.com/article/20334-serena-williams-match-points-firs-snapchat-video-game\nhttps://www.marketingdive.com/news/gatorade-runs-video-game-ad-on-snapchat/425483/\nhttps://www.adsoftheworld.com/campaigns/serena-match-point\nhttps://www.lovethework.com/en/work/entries/serena-williams-match-point-gatorade-23630",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 行動類, Mobile, 銀獅, Silver Lion, 銅獅, Bronze Lion, Promo & Activation類, Promo & Activation, 手機應用, Use of Mobile, 媒體類, Media, 節目或平台的品牌或產品融入, Brand or Product Integration into a Programme or Platform, Gatorade, 開特力, 運動飲料, 飲料, TBWA\\Chiat\\Day, TBWA, OMD USA, 美國, United States, 小威廉絲, Serena Williams, 網球, Tennis, 美國網球公開賽, US Open, 大滿貫, Snapchat, Snapchat 廣告, ESPN, Discover, 遊戲, 廣告遊戲, Advergame, Game, 8 位元, 像素, Pixel Art, Ludomade, 社群媒體",
+  "category": "行銷案例",
+  "references": [
+   "https://www.inverse.com/article/20334-serena-williams-match-points-firs-snapchat-video-game",
+   "https://www.marketingdive.com/news/gatorade-runs-video-game-ad-on-snapchat/425483/",
+   "https://www.adsoftheworld.com/campaigns/serena-match-point",
+   "https://www.lovethework.com/en/work/entries/serena-williams-match-point-gatorade-23630"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/c71f87414ae24aa4bd433a3013b33da6",
+  "image_shows": "案例圖板：深藍底，像素風標題 Serena Williams' Match Point，左側是像素版小威廉絲，右側一排排手機畫面顯示各關球場與關卡，下方是各大滿貫的真人照片與對應像素關卡的對照",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入；內容依官方案例板、Inverse、Marketing Dive 與 Ads of the World 整理。案例板與報導的曝光、遊玩時間、分享率等成效不寫。官方獎項 5 項，Promo & Activation 與 Media 銅獅的報名作品名略不同（SERENA MATCH POINT），仍是同一支。Kotaku 評論說遊戲有點卡，屬一般評論。未發現造假、抄襲或撤獎指控。"
+ },
+ {
+  "id": "ltwm-08785",
+  "year": 2017,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "KISS THE KREMLIN",
+  "brand": "SSEX BBOX",
+  "agency": "DM9DDB SÃO PAULO",
+  "links": [
+   "https://cargocollective.com/afportfolio/Kiss-The-Kremlin"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "PR",
+    "subcategory": "Social Community Building / Management",
+    "count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "PR",
+    "subcategory": "Real-time Response",
+    "count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "巴西性別平權計畫 Ssex Bbox 邀人在 Instagram 貼接吻照並標記克里姆林宮，讓禁止同志遊行的俄國出現抗議",
+  "brand_display": "Ssex Bbox",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜行動類銀獅 Mobile Silver Lion×2、公關類銀獅 PR Silver Lion、行動類銅獅 Mobile Bronze Lion、公關類銅獅 PR Bronze Lion｜代理商：DM9DDB, São Paulo\n\n【背景】在俄羅斯，LGBTQ 抗議者會被關押或遭暴力對待；同志遊行被禁止長達 100 年。有 18 人因抗議車臣的同志集中營被捕，連「同志普丁」的口紅惡搞梗圖也被審查。在這樣的地方，要怎麼抗議？\n\n【洞察】俄羅斯的街頭不能抗議，但 Instagram 的地點標記是全世界都能用的。人不用到俄羅斯，也能讓抗議出現在俄羅斯的地圖上。\n\n【點子】邀請 LGBTQ 社群貼出自己接吻的照片，把照片的地點標記在莫斯科的克里姆林宮，加上主題標籤 #kiss4LGBTQrights。這是把 Instagram 的「新增地點」工具用在新用途，讓人在不能抗議的地方抗議。\n\n【執行】Ssex Bbox（關注性與性別議題的社會正義計畫）與 DM9DDB São Paulo 推出「Kiss the Kremlin」，步驟只有三步：貼一張接吻照、標記「Moscow Kremlin」、加上主題標籤。每當有人在 Instagram 搜尋莫斯科克里姆林宮，看到的是成千上萬張擁吻的情侶照。計畫在 2017 年 5 月發布新聞稿，有模特兒 Lea T、Naomi Campbell、設計師 Riccardo Tisci 等名人加入，案例板上列出他們的參與。\n\n資料來源：\nhttps://www.prnewswire.com/news-releases/kiss-the-kremlin-now-lgbtq-can-literally-protest-in-russia-thanks-to-instagram-and-ssex-bbox-300453620.html\nhttps://www.directnewideas.com/magazine/dm9ddb_kiss_the_kremlin/?id=2335\nhttps://www.adsoftheworld.com/campaigns/kiss-the-kremlin\nhttps://www.lovethework.com/en/work/entries/kiss-the-kremlin-28520",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 行動類, Mobile, 銀獅, Silver Lion, 公關類, PR, 社群經營與管理, Social Community Building / Management, 銅獅, Bronze Lion, 即時回應, Real-time Response, Ssex Bbox, DM9DDB, DM9DDB São Paulo, DDB, 巴西, Brazil, 俄羅斯, Russia, 克里姆林宮, Kremlin, 莫斯科, LGBTQ, 同志, 平權, 人權, 抗議, Protest, 社會運動, 社會正義, Instagram, 地點標記, Geotag, 主題標籤, Hashtag, #kiss4LGBTQrights, 接吻, 社群媒體, 數位行動主義, 敏感題材, 政治",
+  "category": "行銷案例",
+  "references": [
+   "https://www.prnewswire.com/news-releases/kiss-the-kremlin-now-lgbtq-can-literally-protest-in-russia-thanks-to-instagram-and-ssex-bbox-300453620.html",
+   "https://www.directnewideas.com/magazine/dm9ddb_kiss_the_kremlin/?id=2335",
+   "https://www.adsoftheworld.com/campaigns/kiss-the-kremlin"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/2f4964c9597447e9b60a943912abbcef",
+  "image_shows": "案例圖板：粉橘藍漸層底，標題 KISS THE KREMLIN，中間手機畫面顯示 Instagram「Moscow Kremlin」地點頁與九張接吻照，兩側有背景說明與名人名單",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入；內容依官方案例板、PR Newswire 新聞稿、Direct New Ideas 整理。觸及人數、媒體價值、參與國家數、聯合國等成效不寫。題材為政治／LGBTQ，依規則照收。搜尋 controversy／scam 未發現造假、抄襲或撤獎指控。"
+ },
+ {
+  "id": "ltwm-08786",
+  "year": 2017,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "SNAPLICATIONS",
+  "brand": "MCDONALD’S AUSTRALIA",
+  "agency": "VMLY&R SYDNEY",
+  "links": [
+   "https://vimeo.com/262147447"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "麥當勞澳洲做出 Snapchat 濾鏡，求職者戴上麥當勞制服帽，錄 10 秒自介影片傳給官方帳號就算應徵",
+  "brand_display": "麥當勞澳洲",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜行動類銀獅 Mobile Silver Lion×2、行動類銅獅 Mobile Bronze Lion×2｜代理商：VML, Sydney\n\n【背景】麥當勞澳洲每年要僱用 30,000 名以上的年輕人，但要找到適合的人愈來愈難，尤其是這群人手上只有自己的個性可以推銷自己。\n\n【點子】年輕人最愛的 App 是 Snapchat，那就把面試搬進去：不要履歷，只要個性，應徵「只要一個 snap」（Applying is a SNAP!）。\n\n【執行】VML Sydney 做出「Snaplications」：Snapchat 用戶選用麥當勞的 Crew 濾鏡，畫面上就會戴上麥當勞制服帽、別著 Crew 名牌。用戶按住按鈕錄下 10 秒影片，說說自己的事、為什麼想來麥當勞工作，再傳給官方帳號 @Maccas。麥當勞員工收到後，會回傳連結，帶應徵者到官網的職缺頁，完成一般的正式申請，所以它不取代原本的應徵流程。麥當勞表示沒有為此設定特定目標，也沒有公開花費。HR 顧問提醒，這種方式可能讓應徵者因外表被評斷。\n\n資料來源：\nhttps://mumbrella.com.au/maccas-launches-snaplications-invites-australians-apply-jobs-snapchat-437472\nhttps://www.marketingdive.com/news/mcdonalds-solicits-job-applications-on-snapchat/440074/\nhttps://www.lovethework.com/work-awards/campaigns/snaplications-28579",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 行動類, Mobile, 銀獅, Silver Lion, 銅獅, Bronze Lion, 麥當勞, McDonald's, 麥當勞澳洲, McDonald's Australia, VML, VML Sydney, VMLY&R, 澳洲, Australia, 招募, 徵才, Recruitment, 求職, 應徵, Snaplications, Snapchat, Snapchat 濾鏡, Lens, AR 濾鏡, 10 秒影片, 影片履歷, 年輕人, Z 世代, 制服帽, 社群媒體, 人力資源, 速食",
+  "category": "行銷案例",
+  "references": [
+   "https://mumbrella.com.au/maccas-launches-snaplications-invites-australians-apply-jobs-snapchat-437472",
+   "https://www.marketingdive.com/news/mcdonalds-solicits-job-applications-on-snapchat/440074/",
+   "https://www.lovethework.com/work-awards/campaigns/snaplications-28579"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/f8be17a729bc46739e00a2c3a08a7268",
+  "image_shows": "案例圖板：標題 SNAPLICATIONS，背景是密密麻麻的應徵者影片畫面，右側大手機顯示戴著麥當勞制服帽、Crew 名牌的女生與「Applying is a SNAP!」字樣，中間三步驟說明",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入；內容依官方案例板、Mumbrella、Marketing Dive（含 Fortune、News.com.au 轉述）整理。案例板上的收件量、觸及 312M+ 等成效不寫。『不取代原本流程、員工回覆連結』是 Marketing Dive 轉述 Fortune，Mumbrella 讀者留言也提到應徵者會被導向職缺頁。官方獎項為行動類銀獅×2、銅獅×2。搜尋未發現造假、抄襲或撤獎指控（只有費用貴與外貌評斷的一般評論）。"
+ },
+ {
+  "id": "ltwm-08787",
+  "year": 2017,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "VENMO MICRO HACK",
+  "brand": "WATERISLIFE",
+  "agency": "DEUTSCH NEW YORK",
+  "links": [
+   "http://www.fannyjosefsson.com/water-is-life"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "慈善機構 WATERisLIFE 在禁止廣告的 Venmo 上，對公開動態裡的付款人轉 1 分錢，用附言當針對性廣告募款",
+  "brand_display": "WATERisLIFE",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜行動類銀獅 Mobile Silver Lion、行動類銅獅 Mobile Bronze Lion｜代理商：DEUTSCH, New York\n\n【背景】WATERisLIFE 是提供乾淨水源、衛生設施與水資源計畫給學校和村莊的慈善機構，想接觸使用行動支付 App Venmo 的千禧世代。但 Venmo 不允許品牌在 App 上投放廣告。\n\n【洞察】Venmo 的付款動態是公開的，每筆付款都附一段說明，而且附言字數很多（上限 2,000 字），這段文字就能當成廣告版位。\n\n【點子】既然不能買廣告，就用「付款附言」當廣告：看到有人付了什麼錢，就對他轉一小筆錢，並讓附言和他剛付的那筆錢呼應。\n\n【執行】Deutsch New York 在美國獨立紀念日（7 月 4 日）週末，這個 App 預期流量大的日子，監看 Venmo 的全球公開動態，找出人們付款的名目，再對這些人各轉 1 分錢，附上和付款內容有關的長文。例如對剛向朋友收啤酒錢的人，附言寫著「1 分錢還不了一杯啤酒的債，但可以幫人買一天的乾淨水」，並附上乾淨水的相關事實、請對方捐款。團隊也把這些「微型廣告」放上網站，讓任何人都能取用。\n\n資料來源：\nhttps://nonprofitpro.com/article/no-advertising-allowed-charity-finds-loophole-raises-money-via-venmo-app\nhttps://www.adweek.com/digital/how-charity-used-loophole-mobile-payment-app-venmo-raise-money-172434/\nhttps://www.adsoftheworld.com/campaigns/venmo-micro-hack",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 行動類, Mobile, 銀獅, Silver Lion, 銅獅, Bronze Lion, WATERisLIFE, 慈善, Charity, 公益, 乾淨水, Clean Water, 水資源, Deutsch, Deutsch New York, 美國, United States, Venmo, 行動支付, Mobile Payment, 點對點支付, 微型付款, Micro Payment, 1 分錢, 付款附言, 針對性廣告, Targeted Ad, 駭客手法, Hack, 漏洞, Loophole, 獨立紀念日, 7 月 4 日, 千禧世代, 募款, 社群動態, 非營利",
+  "category": "行銷案例",
+  "references": [
+   "https://nonprofitpro.com/article/no-advertising-allowed-charity-finds-loophole-raises-money-via-venmo-app",
+   "https://www.adweek.com/digital/how-charity-used-loophole-mobile-payment-app-venmo-raise-money-172434/",
+   "https://www.adsoftheworld.com/campaigns/venmo-micro-hack"
+  ],
+  "image_url": "https://www.nonprofitpro.com/wp-content/uploads/2016/07/Venmo-WaterIsLike.png",
+  "image_shows": "報導配圖：一隻手拿著手機，Venmo 動態畫面顯示 WATERisLIFE 對某位用戶的付款，附言是一長串帶水滴圖案的文字",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入，且官方卡片與 Ads of the World 都沒有案例文字；內容依 NonProfit PRO（轉述 Adweek 全文）、Adweek 開放的前段與 Ads of the World 的創意名單整理。Adweek 前段只確認 Venmo 不讓品牌打廣告；其餘做法細節（獨立紀念日、1 分錢、2,000 字、啤酒例子）來自 NonProfit PRO 轉述 Adweek。捐款金額等成效未寫入。TechCrunch 標題稱此舉為 spam（垃圾訊息），屬一般評論，未開頁、不寫入；未發現造假、抄襲或撤獎指控。品牌欄是 WATERisLIFE，官方登錄為 CHARITY。"
+ }
+]
