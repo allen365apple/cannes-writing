@@ -40,3 +40,13 @@
 - b009 #GIVEHER5：兩個來源的金額不同（Adgully 寫 150 盧比，MSL 稿寫約 2.5 美元），讀稿採 150 盧比。
 - 重複候選：無。b009 HALLOWEEN 與 HALLOWEEN - TV 是同一筆的兩個報名名稱，不是兩筆重複。
 - 違規：b009 寫手一次在指令裡誤打 `rm -f /dev/null`，被系統擋下沒有執行，沒刪任何東西。
+
+## b019、b020、b021（2026-11-03 雲端第一輪）
+- b021 ltwm-08802（KNOW YOU AGAIN，百度）已加【爭議】：騰訊高層陳濮公開質疑眼鏡是否真的存在、說評審被愚弄，要求改頒獎；報導也指出原型 3 月才推出、報名 4 月 20 日截止。F5 的回應已寫入，沒找到百度正式回應。驗收員認為屬「被指控造假」，建議保留，請維護者確認。
+- b020 ltwm-08789（HIGHWAY）：uncertain，缺這組作品本身的文字說明（寫手原本借用的「Stop to Sleep, Then Drive」是 2018 年另一組作品，已拿掉），只描述看得到的畫面。
+- b021 ltwm-08806（MYCARPULSE SUPER ID）：uncertain，只有官方案例板，缺第二個來源。
+- b019 ltwm-08779（Rimowa）案例板只有 254px、b021 ltwm-08798（福斯）圖只有 600px，找不到更好的，暫時保留。b021 ltwm-08803（Spotify）用 Grazia 看板照、b019 ltwm-08787（Venmo）用 NonProfit PRO 報導圖（非官方）。請確認可接受。
+- b019 ltwm-08784（Gatorade）：Media 銅獅報名名「SERENA MATCH POINT」與其他「SERENA WILLIAMS | MATCH POINT | GATORADE」是同一支。
+- b020 ltwm-08788（Yasmin）：品牌另一支電視廣告曾因性別歧視撤下，是不同作品，不加【爭議】，只寫 note。
+- 重複候選：無。
+- 違規：b021 寫手一度在抓網頁腳本加偽造瀏覽器 User-Agent，被權限系統擋下，之後改回預設 curl；b019 寫手誤建 years/y--help/ 空資料夾，已搬到 tmp_b019，沒刪檔。

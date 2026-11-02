@@ -20,21 +20,23 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "美國郵政署做出智慧藍色郵筒，用戶先聲紋驗證，再說出收件地址，信投進去就自動扣款，不用貼郵票",
+  "idea_one_liner": "美國郵政署做出智慧藍色郵筒原型，用戶聲紋驗證後說出收件地址，信投進去就自動扣款，不用貼郵票",
   "brand_display": "美國郵政署 USPS",
-  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜創新類銀獅 Innovation Silver Lion｜代理商：MRM//McCANN, New York\n\n【背景】美國郵政署想展現自己一直在創新、更新老舊形象，點子的切入口是最傳統的物件：郵票。\n\n【點子】郵局本來就會在分揀時掃描每封信的寄件地和收件地來決定郵資，那為什麼寄信的人還要自己貼郵票？把這份掃描資料接到用戶帳戶上，聲音就能代替郵票。\n\n【執行】MRM//McCann 與郵政署的技術與營運人員合作，設計一個可以裝在全美 150,000 個現有收件郵筒上的裝置，把郵筒變成以 AI 運作、靠太陽能板供電的智慧藍色郵筒，會說話、會聽、會秤重、也能交易。用戶先透過既有的郵政帳號做聲音驗證，讓這個「聲音郵票」連到寄件地址與付款方式。之後對郵筒說「我要寄一封信」，再報出收件地址，郵筒計算郵資並請用戶確認，信直接投入即可。信件進入分揀中心時，系統用既有的掃描資料對上帳戶，完成付費。郵筒還能用 37 種語言對話、告知收件時間與其他客戶服務。\n\n資料來源：\nhttps://www.selfstorming.com/tools/libraries/campaigns/your-voice-is-your-stamp\nhttps://www.lovethework.com/work-awards/campaigns/your-voice-is-your-stamp-29751",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜創新類銀獅 Innovation Silver Lion｜代理商：MRM//McCANN, New York\n\n【背景】美國郵政署想展現自己一直在創新、更新老舊形象。Direct New Ideas 的案例說明寫到，郵政署長久以來一直默默改進寄信的方式，郵遞區號與光學字元辨識（OCR）都是例子；下一步則是語音辨識加上能連網的郵筒。點子的切入口是最傳統的物件：郵票。\n\n【點子】郵局本來就會在分揀時掃描每封信的寄件地和收件地來決定郵資，那為什麼寄信的人還要自己貼郵票？把這份掃描資料接到用戶帳戶上，聲音就能代替郵票。\n\n【執行】MRM//McCann 與郵政署的技術與營運人員合作，設計一個可以裝在全美 150,000 個現有收件郵筒上的裝置，把郵筒變成以雲端 AI 助理運作、靠太陽能板供電的智慧藍色郵筒（Smart Blue Box），會說話、會聽、會秤重、也能交易。民眾走到郵筒前說一聲「Hello Blue Box」就能開始對話，不用智慧型手機，也能問郵資、收件時間、投遞進度與排隊時間。依 Direct New Ideas，更進一步的版本會辨識用戶的聲音：用戶先透過既有的郵政帳號做聲音驗證，讓這個「聲音郵票」連到寄件地址與付款方式。之後對郵筒說「我要寄一封信」，再報出收件地址，郵筒計算郵資並請用戶確認，信直接投入即可。信件進入分揀中心時，系統用既有的掃描資料對上帳戶，完成付費。郵筒還能用 37 種語言對話。\n\n資料來源：\nhttps://www.selfstorming.com/tools/libraries/campaigns/your-voice-is-your-stamp\nhttps://www.lovethework.com/work-awards/campaigns/your-voice-is-your-stamp-29751\nhttps://www.directnewideas.com/magazine/mrm_mccann_new_york_the_voice_is_your_stamp/?id=2423",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 創新類, Innovation, 銀獅, Silver Lion, 早期科技, Early Stage Technology, 美國郵政署, U.S. Postal Service, USPS, MRM//McCann, MRM, McCann, 郵政, 物流, 美國, United States, 智慧郵筒, Smart Blue Box, 郵筒, 藍色郵筒, 郵票, Stamp, 聲紋驗證, 語音辨識, Voice Authentication, 語音互動, AI, 太陽能, 信件, 原型裝置",
   "category": "行銷案例",
   "references": [
    "https://www.selfstorming.com/tools/libraries/campaigns/your-voice-is-your-stamp",
-   "https://www.lovethework.com/work-awards/campaigns/your-voice-is-your-stamp-29751"
+   "https://www.lovethework.com/work-awards/campaigns/your-voice-is-your-stamp-29751",
+   "https://www.directnewideas.com/magazine/mrm_mccann_new_york_the_voice_is_your_stamp/?id=2423"
   ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/9e741814ba304b1f838feb37a48c34cc",
-  "image_shows": "案例圖板：標題 YOUR VOICE IS YOUR STAMP，藍色郵筒上放著一個郵政包裹，下方一排四個小圖示說明（解析度低，細字看不清）",
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/6d4187eb8c734a838081df88568e50b9/storyboard_000050.jpg",
+  "image_shows": "官方影片分鏡：紐約街邊的藍色郵筒，頂上加裝一個深藍色的方形裝置（智慧郵筒），背景是街道與車輛",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入。內容主要依 Selfstorming 頁面（含案例影片的逐字稿）整理，該頁屬二手整理站，缺少第二個獨立的文字來源；MRM 官方案例頁 404、Ads of the World 無頁。已略過該頁提到的專利與其他榮譽。案例板圖檔解析度很低（約 250 像素寬）。搜尋 controversy／fake 只找到原型被媒體過度炒作，無造假或撤獎指控。"
+  "note": "官方全文需登入。內容主要依 Selfstorming 頁面（含案例影片的逐字稿）整理，該頁屬二手整理站，缺少第二個獨立的文字來源；MRM 官方案例頁 404、Ads of the World 無頁。已略過該頁提到的專利與其他榮譽。案例板圖檔解析度很低（約 250 像素寬）。搜尋 controversy／fake 只找到原型被媒體過度炒作，無造假或撤獎指控。 2026-11-02 Opus 驗：補讀 Direct New Ideas（MRM//McCann New York 案例說明），與 Selfstorming 的做法一致，補進郵遞區號／OCR 背景、「Hello Blue Box」開場與「聲音郵票是進一步版本」，拿掉 uncertain。一句話加「原型」。原案例板僅 254px，改用官方影片分鏡第 50 格（看得到加裝裝置的郵筒）。",
+  "idea_one_liner_r0": "美國郵政署做出智慧藍色郵筒，用戶先聲紋驗證，再說出收件地址，信投進去就自動扣款，不用貼郵票"
  },
  {
   "id": "ltwm-08779",
@@ -82,9 +84,9 @@
   "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/294f67613a8d41dd8c1baa22affb00da",
   "image_shows": "案例圖板（黑底）：標題 RIMOWA ELECTRONIC TAG，右側是手機與行李箱側面螢幕顯示登機資訊的畫面，下方有三家航空公司 logo（圖檔解析度低，細字看不清）",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，案例板解析度太低讀不出字；內容依 Surface 雜誌產品介紹整理，缺少案例官方文字與策略背景（【背景】只寫得出紙吊牌的問題）。官方登錄代理商含 T-Systems 與 Airbus，讀稿未展開。Horizont 與 LoveTheWork 對獎數說法略有出入，以 in 檔官方獎項為準。搜尋結果有報導說此功能 2018 年停售（屬產品後續，未寫入）。無造假、撤獎指控。"
+  "note": "官方全文需登入，案例板解析度太低讀不出字；內容依 Surface 雜誌產品介紹整理，缺少案例官方文字與策略背景（【背景】只寫得出紙吊牌的問題）。官方登錄代理商含 T-Systems 與 Airbus，讀稿未展開。Horizont 與 LoveTheWork 對獎數說法略有出入，以 in 檔官方獎項為準。搜尋結果有報導說此功能 2018 年停售（屬產品後續，未寫入）。無造假、撤獎指控。 2026-11-02 Opus 驗：重讀 Surface 原文核對：App 遠端託運、條碼顯示在箱側螢幕、玻璃強度為 iPhone 螢幕 10 倍、耐極端溫濕度、沒電仍顯示、漢莎／長榮／瑞航都對得上；另有 Horizont、Ads of the World，文字來源足夠，拿掉 uncertain。圖：案例板只有 254px，官方影片分鏡是黑白情境畫面看不到產品、Surface 配圖是頒獎用行李箱，找不到更好的，暫留案例板（看得出手機與箱側螢幕）。"
  },
  {
   "id": "ltwm-08780",
@@ -128,7 +130,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依 Inverse、road.cc 報導與官方案例板整理。Inverse 指出 Petworth 示範是事先編排好的（腳本化示範），Insurance Business 報導商業化短期內不會發生；兩者屬一般評論、不算爭議，讀稿已寫成「原型」。未發現造假、抄襲或撤獎指控。"
+  "note": "官方全文需登入，內容依 Inverse、road.cc 報導與官方案例板整理。Inverse 指出 Petworth 示範是事先編排好的（腳本化示範），Insurance Business 報導商業化短期內不會發生；兩者屬一般評論、不算爭議，讀稿已寫成「原型」。未發現造假、抄襲或撤獎指控。 2026-11-02 Opus 驗：程式標的「42%」是活動前的背景數字，保留。"
  },
  {
   "id": "ltwm-08781",
@@ -239,20 +241,21 @@
   "awards_unverified": [],
   "idea_one_liner": "法國居家修繕連鎖 Castorama 做出會說故事的壁紙，用 App 掃牆上的卡通角色，就播放該角色的睡前故事",
   "brand_display": "Castorama",
-  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜設計類銀獅 Design Silver Lion×2、數位工藝類銀獅 Digital Craft Silver Lion、行動類銀獅 Mobile Silver Lion、產品設計類銀獅 Product Design Silver Lion、數位工藝類銅獅 Digital Craft Bronze Lion、行動類銅獅 Mobile Bronze Lion｜代理商：TBWA\\PARIS / DAN PARIS, Boulogne-Billancourt / TBWA\\PARIS, Paris / DAN PARIS, Boulogne-Billancourt\n\n【背景】Castorama 是法國的居家修繕與家居用品連鎖店，壁紙是店裡賣的商品。案例板的出發點是：孩子不愛等，所以為孩子做的科技必須簡單、馬上能用。\n\n【點子】把壁紙變成說睡前故事的人：牆上的每個角色都是一個「數位標記」，用手機掃到，故事就開始。\n\n【執行】TBWA\\Paris 為 Castorama 設計這款壁紙，牆上有 10 個角色，由 5 位插畫家畫成，包括超級英雄、慢跑的犀牛和海軍貓。用專用 App 對準一個角色，就會播放約 5 分鐘、屬於該角色的故事；也可以同時掃兩個角色，得到兩個角色合演的故事，共有 10 個單人故事和 45 種雙人組合。每個故事有兩種模式：文字版給大人念，點到特定字詞會有音效；音訊版則由 App 裡的說書人朗讀，手機放在孩子房裡就好，螢幕會變成不含藍光的夜燈。App 也能在飛航模式下使用，並有低亮度的夜間模式。App 一打開就直接進入掃描，沒有首頁或複雜的介紹；文字模式的畫面亮度會依房間光線自動調整。數位製作由 DAN\\Paris 負責。\n\n資料來源：\nhttps://shots.net/news/view/93251-castorama-launch-story-telling-wallpaper\nhttps://www.yankodesign.com/2017/06/13/this-wallpaper-can-tell-bedtime-stories/amp/\nhttps://www.adsoftheworld.com/campaigns/the-magic-wallpaper\nhttps://www.lovethework.com/en/work/entries/the-magic-wallpaper",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜設計類銀獅 Design Silver Lion×2、數位工藝類銀獅 Digital Craft Silver Lion、行動類銀獅 Mobile Silver Lion、產品設計類銀獅 Product Design Silver Lion、數位工藝類銅獅 Digital Craft Bronze Lion、行動類銅獅 Mobile Bronze Lion｜代理商：TBWA\\PARIS / DAN PARIS, Boulogne-Billancourt / TBWA\\PARIS, Paris / DAN PARIS, Boulogne-Billancourt\n\n【背景】Castorama 是法國的居家修繕與家居用品連鎖店，壁紙是店裡賣的商品。案例板的出發點是：孩子不愛等，所以為孩子做的科技必須簡單、馬上能用。\n\n【點子】把壁紙變成說睡前故事的人：牆上的每個角色都是一個「數位標記」，用手機掃到，故事就開始。\n\n【執行】TBWA\\Paris 為 Castorama 設計這款壁紙，牆上有 10 個角色，由 5 位插畫家畫成，包括超級英雄、慢跑的犀牛和海軍貓。用專用 App 對準一個角色，就會播放約 5 分鐘、屬於該角色的故事；也可以同時掃兩個角色，得到兩個角色合演的故事，共有 10 個單人故事和 45 種雙人組合。每個故事有兩種模式：文字版給大人念，點到特定字詞會有音效；音訊版則由 App 裡的說書人朗讀，手機放在孩子房裡就好，螢幕會變成不含藍光的夜燈。App 也能在飛航模式下使用，並有低亮度的夜間模式。App 一打開就直接進入掃描，沒有首頁或複雜的介紹；文字模式的畫面亮度會依房間光線自動調整。數位製作由 DAN\\Paris 負責。\n\n資料來源：\nhttps://shots.net/news/view/93251-castorama-launch-story-telling-wallpaper\nhttps://www.yankodesign.com/2017/06/13/this-wallpaper-can-tell-bedtime-stories/amp/\nhttps://www.adsoftheworld.com/campaigns/the-magic-wallpaper\nhttps://www.lovethework.com/en/work/entries/the-magic-wallpaper-39485",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 設計類, Design, 銀獅, Silver Lion, 應用程式, Apps, UX 介面與使用者旅程, UX Interface & User Journey, 數位工藝類, Digital Craft, 介面與導覽, Interface & Navigation (UI), 編輯, Editorial, 銅獅, Bronze Lion, 行動類, Mobile, 產品設計類, Product Design, 嬰幼兒用品、玩具與教育產品, Castorama, TBWA\\Paris, TBWA, DAN\\Paris, 法國, France, 居家修繕, DIY, 零售, 壁紙, Wallpaper, 睡前故事, Bedtime Story, 兒童, 親子, 手機 App, 掃描, 數位標記, 插畫, 角色, 犀牛, 熊貓, 夜燈, 音訊",
   "category": "行銷案例",
   "references": [
    "https://shots.net/news/view/93251-castorama-launch-story-telling-wallpaper",
    "https://www.yankodesign.com/2017/06/13/this-wallpaper-can-tell-bedtime-stories/amp/",
-   "https://www.adsoftheworld.com/campaigns/the-magic-wallpaper"
+   "https://www.adsoftheworld.com/campaigns/the-magic-wallpaper",
+   "https://www.lovethework.com/en/work/entries/the-magic-wallpaper-39485"
   ],
   "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/d1de5aca512b4bf7a9e36657c4af07fe",
   "image_shows": "案例圖板：灰底，標題 The Magic Wallpaper，平板顯示慢跑犀牛角色的 App 首頁，中間展示掃描單一與兩個角色、文字與音訊模式的流程畫面，下方有產品與運作說明",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入；內容依官方案例板、Shots、Yanko Design 與 Ads of the World 整理。官方獎項共 7 項（設計類銀獅×2、數位工藝類銀獅、行動類銀獅、產品設計類銀獅、數位工藝類銅獅、行動類銅獅），award_line 照官方。各來源對價格與壁紙銷量說法不一，未寫入；案例板上的故事頁數、時數不採用。有評論說這件主要是為了公關，屬一般評論、不算爭議。未發現造假或抄襲指控。"
+  "note": "官方全文需登入；內容依官方案例板、Shots、Yanko Design 與 Ads of the World 整理。官方獎項共 7 項（設計類銀獅×2、數位工藝類銀獅、行動類銀獅、產品設計類銀獅、數位工藝類銅獅、行動類銅獅），award_line 照官方。各來源對價格與壁紙銷量說法不一，未寫入；案例板上的故事頁數、時數不採用。有評論說這件主要是為了公關，屬一般評論、不算爭議。未發現造假或抄襲指控。 2026-11-02 Opus 驗：讀稿資料來源的 LTW 網址缺編號（404），改成 in 檔的卡片網址 the-magic-wallpaper-39485，references 同步。"
  },
  {
   "id": "ltwm-08783",
@@ -277,20 +280,21 @@
   "awards_unverified": [],
   "idea_one_liner": "美國家居建材連鎖 Lowe's 在 Facebook 推 360 度教學影片，手機一傾斜或滑動，就看到同一人做完八個步驟",
   "brand_display": "Lowe's",
-  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜行動類銀獅 Mobile Silver Lion｜代理商：BBDO NEW YORK\n\n【背景】網路上的教學影片已是學做東西的好方法，但有的跟不上，有的又太慢。Lowe's 想重新設計教學影片的形式，鼓勵千禧世代自己動手做出酷東西。這是該品牌繼 Vine 短片 #FixIn6 之後，在社群影片上的又一次嘗試。\n\n【點子】做一系列 360 度的教學影片，讓人照自己的步調學：每個專案拆成八個步驟，像 GIF 一樣不斷循環播放。\n\n【執行】BBDO New York 與 Facebook 合作，在 Lowe's 的 Facebook 專頁推出「Made in a Minute」。每個步驟分開拍攝，再接成 360 度畫面，所以同一個人可以在整段畫面裡示範全部做法。現場把簡單的說明掛在每個步驟後方，地上放一個超大的「工具」當作指引，並加入造型擺設和彩蛋，例如飛過的鳥和紙飛機。用戶只要傾斜手機或滑動螢幕，就能在準備好時前往下一步，做出設計師風格的邊桌或帳篷（teepee）。Lowe's 計畫每月推出一支，並買 Facebook 廣告，對象是對居家修繕或 DIY 有興趣的人。\n\n資料來源：\nhttps://www.directnewideas.com/magazine/bbdo_new_york_made_in_a_minute/?id=2138\nhttps://www.adweek.com/performance-marketing/lowes-new-360-degree-videos-facebook-aim-teach-fans-home-improvement-skills-172720/\nhttps://digiday.com/brands/inspiring-entertaining-plus-utility-inside-lowes-social-media-strategy/",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜行動類銀獅 Mobile Silver Lion｜代理商：BBDO NEW YORK\n\n【背景】網路上的教學影片已是學做東西的好方法，但有的跟不上，有的又太慢。Lowe's 想重新設計教學影片的形式，鼓勵千禧世代自己動手做出酷東西。這是該品牌繼 Vine 短片 #FixIn6 之後，在社群影片上的又一次嘗試。\n\n【點子】做一系列 360 度的教學影片，讓人照自己的步調學：每個專案拆成八個步驟，像 GIF 一樣不斷循環播放。\n\n【執行】BBDO New York 與 Facebook 合作，在 Lowe's 的 Facebook 專頁推出「Made in a Minute」。每個步驟分開拍攝，再接成 360 度畫面，所以同一個人可以在整段畫面裡示範全部做法。現場把簡單的說明掛在每個步驟後方，地上放一個超大的「工具」當作指引，並加入造型擺設和彩蛋，例如飛過的鳥和紙飛機。用戶只要傾斜手機或滑動螢幕，就能在準備好時前往下一步，做出設計師風格的邊桌或帳篷（teepee）。Lowe's 計畫每月推出一支，並買 Facebook 廣告，對象是對居家修繕或 DIY 有興趣的人。\n\n資料來源：\nhttps://www.directnewideas.com/magazine/bbdo_new_york_made_in_a_minute/?id=2138\nhttps://www.adweek.com/performance-marketing/lowes-new-360-degree-videos-facebook-aim-teach-fans-home-improvement-skills-172720/\nhttps://digiday.com/brands/inspiring-entertaining-plus-utility-inside-lowes-social-media-strategy/\nhttps://www.dandad.org/awards/professional/2017/graphic-design/25886/made-in-a-minute/",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 行動類, Mobile, 銀獅, Silver Lion, Lowe's, BBDO, BBDO New York, 美國, United States, 家居建材, 居家修繕, DIY, 教學影片, How-to, 360 度影片, 360 Video, Facebook, Facebook 360, 社群媒體, 社群影片, 手機互動, 傾斜手機, GIF, 循環播放, 邊桌, 帳篷, Teepee, 千禧世代, 手作, 零售",
   "category": "行銷案例",
   "references": [
    "https://www.directnewideas.com/magazine/bbdo_new_york_made_in_a_minute/?id=2138",
    "https://www.adweek.com/performance-marketing/lowes-new-360-degree-videos-facebook-aim-teach-fans-home-improvement-skills-172720/",
-   "https://digiday.com/brands/inspiring-entertaining-plus-utility-inside-lowes-social-media-strategy/"
+   "https://digiday.com/brands/inspiring-entertaining-plus-utility-inside-lowes-social-media-strategy/",
+   "https://www.dandad.org/awards/professional/2017/graphic-design/25886/made-in-a-minute/"
   ],
-  "image_url": "https://static-www.adweek.com/wp-content/uploads/files/2016_Jul/lowes-fb360-hed-2016.png",
-  "image_shows": "報導配圖：從正上方拍的斜切鋸（藍色與銀色機身）切割白色木料，磚地背景；看不出 360 度操作介面",
+  "image_url": "https://media.dandad.org/images/3000x2400_XHu5RBy.width-1600_zdJmnLxOmRmPqnHP.jpg",
+  "image_shows": "D&AD 作品頁圖：360 度環景畫面，同一位女生在倉庫攝影棚裡分站八處，胸前標 1～8 號示範做帳篷的步驟，每一站上方掛著步驟說明牌，地上有黃色圓點指引",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入；內容依 Direct New Ideas（含官方式創意說明與團隊名單）、Adweek 與 Digiday 整理。找不到能看出 360 度教學點子的好圖：LoveTheWork 卡片只有空白或風景分鏡、Ads of the World 無圖，暫用 Adweek 報導配圖（只看得到工具畫面）。Direct New Ideas 與 Digiday 的觀看、分享數屬成效，未寫入。各來源對推出時間說法不一（2016 年 7 月 Adweek 稱將播到 8 月），讀稿未寫日期。未發現造假、抄襲或撤獎指控（搜尋出現的 BBDO 爭議是 Bayer 他支作品）。"
+  "note": "官方全文需登入；內容依 Direct New Ideas（含官方式創意說明與團隊名單）、Adweek 與 Digiday 整理。找不到能看出 360 度教學點子的好圖：LoveTheWork 卡片只有空白或風景分鏡、Ads of the World 無圖，暫用 Adweek 報導配圖（只看得到工具畫面）。Direct New Ideas 與 Digiday 的觀看、分享數屬成效，未寫入。各來源對推出時間說法不一（2016 年 7 月 Adweek 稱將播到 8 月），讀稿未寫日期。未發現造假、抄襲或撤獎指控（搜尋出現的 BBDO 爭議是 Bayer 他支作品）。 2026-11-02 Opus 驗：圖改用 D&AD 作品頁的 360 度環景圖（看得出同一人示範八個步驟），D&AD 頁的文字說明（八步驟像 GIF 循環、分開拍再接成 360 度、傾斜或滑動手機）與讀稿一致。"
  },
  {
   "id": "ltwm-08784",
@@ -353,7 +357,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入；內容依官方案例板、Inverse、Marketing Dive 與 Ads of the World 整理。案例板與報導的曝光、遊玩時間、分享率等成效不寫。官方獎項 5 項，Promo & Activation 與 Media 銅獅的報名作品名略不同（SERENA MATCH POINT），仍是同一支。Kotaku 評論說遊戲有點卡，屬一般評論。未發現造假、抄襲或撤獎指控。"
+  "note": "官方全文需登入；內容依官方案例板、Inverse、Marketing Dive 與 Ads of the World 整理。案例板與報導的曝光、遊玩時間、分享率等成效不寫。官方獎項 5 項，Promo & Activation 與 Media 銅獅的報名作品名略不同（SERENA MATCH POINT），仍是同一支。Kotaku 評論說遊戲有點卡，屬一般評論。未發現造假、抄襲或撤獎指控。 2026-11-02 Opus 驗：官方作品名兩種寫法（SERENA WILLIAMS | MATCH POINT | GATORADE、SERENA MATCH POINT）同屬這一件，同意寫手判斷。"
  },
  {
   "id": "ltwm-08785",
@@ -408,14 +412,15 @@
   "references": [
    "https://www.prnewswire.com/news-releases/kiss-the-kremlin-now-lgbtq-can-literally-protest-in-russia-thanks-to-instagram-and-ssex-bbox-300453620.html",
    "https://www.directnewideas.com/magazine/dm9ddb_kiss_the_kremlin/?id=2335",
-   "https://www.adsoftheworld.com/campaigns/kiss-the-kremlin"
+   "https://www.adsoftheworld.com/campaigns/kiss-the-kremlin",
+   "https://www.lovethework.com/en/work/entries/kiss-the-kremlin-28520"
   ],
   "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/2f4964c9597447e9b60a943912abbcef",
   "image_shows": "案例圖板：粉橘藍漸層底，標題 KISS THE KREMLIN，中間手機畫面顯示 Instagram「Moscow Kremlin」地點頁與九張接吻照，兩側有背景說明與名人名單",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入；內容依官方案例板、PR Newswire 新聞稿、Direct New Ideas 整理。觸及人數、媒體價值、參與國家數、聯合國等成效不寫。題材為政治／LGBTQ，依規則照收。搜尋 controversy／scam 未發現造假、抄襲或撤獎指控。"
+  "note": "官方全文需登入；內容依官方案例板、PR Newswire 新聞稿、Direct New Ideas 整理。觸及人數、媒體價值、參與國家數、聯合國等成效不寫。題材為政治／LGBTQ，依規則照收。搜尋 controversy／scam 未發現造假、抄襲或撤獎指控。 2026-11-02 Opus 驗：references 補上讀稿已列的 LTW 卡片網址。"
  },
  {
   "id": "ltwm-08786",
@@ -511,10 +516,10 @@
    "https://www.adsoftheworld.com/campaigns/venmo-micro-hack"
   ],
   "image_url": "https://www.nonprofitpro.com/wp-content/uploads/2016/07/Venmo-WaterIsLike.png",
-  "image_shows": "報導配圖：一隻手拿著手機，Venmo 動態畫面顯示 WATERisLIFE 對某位用戶的付款，附言是一長串帶水滴圖案的文字",
+  "image_shows": "報導配圖（Adweek 原圖，NonProfit PRO 轉載）：一隻手拿著手機，Venmo 動態顯示「WATERisLIFE paid Zachary L.」，附言開頭是「On July 4th, people in America look for fireworks」，後面是一長串帶水滴圖示的文字",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，且官方卡片與 Ads of the World 都沒有案例文字；內容依 NonProfit PRO（轉述 Adweek 全文）、Adweek 開放的前段與 Ads of the World 的創意名單整理。Adweek 前段只確認 Venmo 不讓品牌打廣告；其餘做法細節（獨立紀念日、1 分錢、2,000 字、啤酒例子）來自 NonProfit PRO 轉述 Adweek。捐款金額等成效未寫入。TechCrunch 標題稱此舉為 spam（垃圾訊息），屬一般評論，未開頁、不寫入；未發現造假、抄襲或撤獎指控。品牌欄是 WATERisLIFE，官方登錄為 CHARITY。"
+  "note": "官方全文需登入，且官方卡片與 Ads of the World 都沒有案例文字；內容依 NonProfit PRO（轉述 Adweek 全文）、Adweek 開放的前段與 Ads of the World 的創意名單整理。Adweek 前段只確認 Venmo 不讓品牌打廣告；其餘做法細節（獨立紀念日、1 分錢、2,000 字、啤酒例子）來自 NonProfit PRO 轉述 Adweek。捐款金額等成效未寫入。TechCrunch 標題稱此舉為 spam（垃圾訊息），屬一般評論，未開頁、不寫入；未發現造假、抄襲或撤獎指控。品牌欄是 WATERisLIFE，官方登錄為 CHARITY。 2026-11-02 Opus 驗：圖看過，是本件的 Venmo 附言畫面、看得出點子；找不到官方圖，保留。image_shows 補上圖上可讀的文字。"
  }
 ]

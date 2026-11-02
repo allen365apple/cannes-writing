@@ -43,7 +43,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入；內容依 Communication Arts 與 Ads of the World 整理。ad 文案只讀到鉛筆一則（圖上可讀），其他三則（硬幣、迴紋針、打火機）只有 Communication Arts 的片段描述，未寫入細節。打火機不在官方報名作品名中（官方為 Paper Clip、Coin、Pencil），讀稿僅以系列提及。圖為 Communication Arts 的 og:image（600px，偏小），官方 LTW 無圖。in 檔 links 的 ricardowolff.com 回 503 未讀。Clio 頁只用於確認系列名，其獎項未寫入。未發現造假、抄襲或撤獎指控。"
+  "note": "官方全文需登入；內容依 Communication Arts 與 Ads of the World 整理。ad 文案只讀到鉛筆一則（圖上可讀），其他三則（硬幣、迴紋針、打火機）只有 Communication Arts 的片段描述，未寫入細節。打火機不在官方報名作品名中（官方為 Paper Clip、Coin、Pencil），讀稿僅以系列提及。圖為 Communication Arts 的 og:image（600px，偏小），官方 LTW 無圖。in 檔 links 的 ricardowolff.com 回 503 未讀。Clio 頁只用於確認系列名，其獎項未寫入。未發現造假、抄襲或撤獎指控。 2026-11-02 Opus 驗：圖（Communication Arts 600px）看得出鉛筆廣告的點子，找不到更大的官方圖，暫留。"
  },
  {
   "id": "ltwm-08799",
@@ -174,7 +174,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入；內容依 Horizont（瑞士版，2017/2/8）與 D&AD 頁整理。Horizont 描述的是整組活動（電視廣告＋三張平面／戶外），官方報名的 Child、Explosion、Soldiers 是平面與戶外版，各張畫面只確認了案例圖上的這一張。Behance、Lürzer's Archive 無法讀取（403）。D&AD 頁只用於確認年份與背景一句。未發現造假、抄襲或撤獎指控。"
+  "note": "官方全文需登入；內容依 Horizont（瑞士版，2017/2/8）與 D&AD 頁整理。Horizont 描述的是整組活動（電視廣告＋三張平面／戶外），官方報名的 Child、Explosion、Soldiers 是平面與戶外版，各張畫面只確認了案例圖上的這一張。Behance、Lürzer's Archive 無法讀取（403）。D&AD 頁只用於確認年份與背景一句。未發現造假、抄襲或撤獎指控。 2026-11-02 Opus 驗：程式標的 D&AD 句是背景，不是成效或其他獎，保留。"
  },
  {
   "id": "ltwm-08802",
@@ -212,22 +212,24 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "百度與 F5 上海為阿茲海默症患者設計 AI 眼鏡，用臉部與聲音辨識認出親人，並拍成短片《Know You Again》",
+  "idea_one_liner": "百度為阿茲海默症患者設計 AI 眼鏡，先上傳家人照片與聲音，戴上後用臉部或聲音辨識，告訴患者眼前是誰",
   "brand_display": "百度",
-  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜創意數據類銀獅 Creative Data Silver Lion、製藥類銀獅 Pharma Silver Lion、Cyber類銅獅 Cyber Bronze Lion｜代理商：F5, Shanghai\n\n【背景】中國有 900 萬名阿茲海默症患者（影片中以字卡呈現這個數字）。百度想用自己的人工智慧技術，做一個比較偏社會公益的應用。\n\n【點子】阿茲海默症患者最痛的事之一，是慢慢認不得身邊的人。百度設計了一副智慧眼鏡：用臉部辨識與聲音辨識，加上阿茲海默症相關資料的蒐集，協助患者在病程早期認出親人。\n\n【執行】眼鏡由百度與 F5 上海合作設計，並以名為《Know You Again》的影片介紹。影片中有一位白髮的長者對著鏡頭說：「我希望自己永遠不會忘記我的貓和狗。」（影片截圖字幕）\n\n【爭議】Campaign Asia 報導，騰訊一名高階主管對百度這件作品拿下製藥類銀獅提出質疑。我只讀到該報導的標題與摘要，質疑的具體內容與百度、F5 的回應沒有讀到，供主對話確認。\n\n資料來源：\nhttps://www.actuia.com/actualite/baidu-developpe-lunettes-intelligentes-ralentir-effets-de-maladie-dalzheimer/\nhttps://www.campaignasia.com/video/tencent-exec-questions-validity-of-baidus-ai-glasses-cannes-win/437465\nhttps://www.lovethework.com/en/work/entries/know-you-again-38545",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜創意數據類銀獅 Creative Data Silver Lion、製藥類銀獅 Pharma Silver Lion、Cyber類銅獅 Cyber Bronze Lion｜代理商：F5, Shanghai\n\n【背景】案例板寫道：中國的阿茲海默症患者人數是全球最多，已有 900 萬人，而且還在增加（影片中也以字卡呈現這個數字）。百度想用自己的人工智慧技術，做一個比較偏社會公益的應用。\n\n【點子】阿茲海默症患者最痛的事之一，是慢慢認不得身邊的人。百度設計了一副智慧眼鏡：用臉部辨識與聲音辨識，加上阿茲海默症相關資料的蒐集，協助患者在病程早期認出親人。\n\n【執行】依案例板的「How it works」：第一步，用手機把眼鏡連上百度雲；第二步，上傳家人的照片與聲音片段；第三步，戴著使用時，系統掃描眼前的人的眼、鼻、下巴輪廓；第四步，臉部辨識不成功時，改用聲音辨識；第五步，系統把臉或聲音跟資料庫比對，再告訴患者對方是誰。案例板說眼鏡也能幫患者認出寵物，臉部辨識的準確率是 99.77%。眼鏡由百度與 F5 上海合作設計，並以名為《Know You Again》的影片介紹。影片中有一位白髮的長者對著鏡頭說：「我希望自己永遠不會忘記我的貓和狗。」（影片截圖字幕）\n\n【爭議】Campaign Asia 以「騰訊高層質疑百度 AI 眼鏡坎城得獎的正當性」為題報導這件事。新浪財經 2017 年 7 月的報導寫得較完整：騰訊高階主管陳濮（Thomas Chen）在得獎後於 LinkedIn 發文，說這款產品從未在中國推廣，在百度上也搜不到任何資訊，懷疑眼鏡是否真的存在；他也說臉部辨識只能認人、認不出寵物，認為評審被這個作品「愚弄」，要求把這座製藥類獅子改頒給排名在後的作品。報導另指出，原型在 2017 年 3 月推出，百度百科 5 月才出現測試版，而報名截止日是 4 月 20 日。F5 首席創意官 Adams Fan 回應這項指控「完全一派胡言」，說團隊有向評審展示實體產品，並表示百度的內部比賽與研究論文都證明演算法能辨識花、蜻蜓、貓等動植物，技術問題請問百度。報導裡沒有百度的正式回應，也沒有坎城方面的處理結果。\n\n資料來源：\nhttps://www.actuia.com/actualite/baidu-developpe-lunettes-intelligentes-ralentir-effets-de-maladie-dalzheimer/\nhttps://www.campaignasia.com/video/tencent-exec-questions-validity-of-baidus-ai-glasses-cannes-win/437465\nhttps://www.lovethework.com/en/work/entries/know-you-again-38545\nhttps://cj.sina.com.cn/articles/view/3488135162/cfe8b7fa04400249e",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 創意數據類, Creative Data, 製藥類, Pharma, Cyber, 銀獅, Silver Lion, 銅獅, Bronze Lion, 百度, Baidu, 智慧眼鏡, AI 眼鏡, AI Glasses, F5, F5 SHANGHAI, 科技, 網路, 搜尋引擎, 阿茲海默症, Alzheimer's, 失智症, 醫療, 健康, 人工智慧, AI, 臉部辨識, 聲音辨識, 穿戴裝置, 可穿戴科技, Tangible Tech, 影片, 老人, 親情, 中國, China, 上海, Shanghai",
   "category": "行銷案例",
   "references": [
    "https://www.actuia.com/actualite/baidu-developpe-lunettes-intelligentes-ralentir-effets-de-maladie-dalzheimer/",
    "https://www.campaignasia.com/video/tencent-exec-questions-validity-of-baidus-ai-glasses-cannes-win/437465",
-   "https://www.lovethework.com/en/work/entries/know-you-again-38545"
+   "https://www.lovethework.com/en/work/entries/know-you-again-38545",
+   "https://cj.sina.com.cn/articles/view/3488135162/cfe8b7fa04400249e"
   ],
-  "image_url": "https://i.ytimg.com/vi/WWc2FsvA7qM/hqdefault.jpg",
-  "image_shows": "官方影片截圖：深色背景前一位白髮長者面向鏡頭，字幕寫「I hope I'd never forget my cats and dogs」",
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/187295dd93f5467fbe92eb1a1acdbf6a",
+  "image_shows": "案例板：黑底，左邊是戴黑框 AI 眼鏡的白髮長者，右邊是年輕女性，中間標題 Know You Again 與「AI glasses that help Alzheimer's patients recognize their loved ones」，下方是 Background／Idea／Result 三段與五步驟操作圖（手機連線、上傳照片與聲音、掃描臉部、聲音辨識、比對後告知）",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入；內容依 ActuIA（2017/6/27）整理，只描述到眼鏡的功能與影片，沒有找到眼鏡實際運作流程的更多細節。【爭議】依 Campaign Asia 的標題與摘要寫，原文要登入，質疑內容未讀到；搜尋摘要提到的細節未寫入。官方 in 檔最後一個獎項為製藥類銀獅（子類別為 Film Craft 音樂／音效）、Cyber 銅獅、創意數據銀獅，以 award_line 為準。Digitaling、新浪、YouTube 無法讀取。圖用官方 YouTube hqdefault（maxresdefault 回 404）；in 檔提供的圖是只有字卡的畫面，未用。建議主對話確認爭議是否要保留。"
+  "note": "官方全文需登入；內容依 ActuIA（2017/6/27）整理，只描述到眼鏡的功能與影片，沒有找到眼鏡實際運作流程的更多細節。【爭議】依 Campaign Asia 的標題與摘要寫，原文要登入，質疑內容未讀到；搜尋摘要提到的細節未寫入。官方 in 檔最後一個獎項為製藥類銀獅（子類別為 Film Craft 音樂／音效）、Cyber 銅獅、創意數據銀獅，以 award_line 為準。Digitaling、新浪、YouTube 無法讀取。圖用官方 YouTube hqdefault（maxresdefault 回 404）；in 檔提供的圖是只有字卡的畫面，未用。建議主對話確認爭議是否要保留。 2026-11-02 Opus 驗：圖改用 LTW know-you-again-12808 卡片上的官方案例板（187295dd…，看得出眼鏡與五步驟），程式標的 1c071c67… 是只有字卡的畫面、不用。依案例板補【執行】五步驟（板上的「Result」段未寫入）。【爭議】補讀新浪財經 2017/7/9〈騰訊高管質疑百度戛納獲獎 AI 眼鏡的真實性〉，內容是公開指控產品可能不存在、評審被愚弄並要求改頒，屬規則卡「被指控造假」，建議保留，請維護者確認。Campaign Asia 正文需登入，只用標題與導言。",
+  "idea_one_liner_r0": "百度與 F5 上海為阿茲海默症患者設計 AI 眼鏡，用臉部與聲音辨識認出親人，並拍成短片《Know You Again》"
  },
  {
   "id": "ltwm-08803",
@@ -272,7 +274,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入；內容主要依 Grazia 報導（含行銷長引言與看板文案）整理，只有這一個可讀的文字來源，另一個列的是官方卡片（無文字）。The Drum、Deseret、IAB UK 未取得可用內容（The Drum 回 403）；搜尋摘要的內容未寫入。官方獎項為創意數據類銀獅與 Promo & Activation 類銅獅；in 檔提供的圖是影片分鏡橘色圖形、看不出點子，改用 Grazia 的 og:image。未發現造假、抄襲或撤獎指控。"
+  "note": "官方全文需登入；內容主要依 Grazia 報導（含行銷長引言與看板文案）整理，只有這一個可讀的文字來源，另一個列的是官方卡片（無文字）。The Drum、Deseret、IAB UK 未取得可用內容（The Drum 回 403）；搜尋摘要的內容未寫入。官方獎項為創意數據類銀獅與 Promo & Activation 類銅獅；in 檔提供的圖是影片分鏡橘色圖形、看不出點子，改用 Grazia 的 og:image。未發現造假、抄襲或撤獎指控。 2026-11-02 Opus 驗：圖（Grazia 轉載的看板照）看得出點子，LTW 只有橘色分鏡，保留。"
  },
  {
   "id": "ltwm-08804",
@@ -296,21 +298,22 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "巴西 Globo 電視台打造一輛靠腦波操控的賽車，讓癱瘓的門德斯在賽道上開車，傳達尊重差異",
+  "idea_one_liner": "巴西 Globo 電視台打造靠腦波操控的賽車，讓四肢癱瘓的身障教育推動者 Rodrigo Mendes 再次開車，傳達尊重差異",
   "brand_display": "Globo 電視台與羅德里戈·門德斯學院",
-  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜創意數據類銀獅 Creative Data Silver Lion｜代理商：INSTITUTO RODRIGO MENDES, São Paulo / GLOBO TV, Rio De Janeiro / GLOBO COMUNICAÇÃO E PARTICIPAÇÕES, Rio De Janeiro\n\n【背景】這是巴西媒體 Globo 與非營利組織羅德里戈·門德斯學院（Instituto Rodrigo Mendes，協助身障者接受優質教育）合作的社會議題活動，屬於 Globo 2016 年與聯合國教科文組織、兒童基金會等合作推出的「Tudo Começa Pelo Respeito」（一切從尊重開始）平台。\n\n【洞察】技術可以消除障礙，但真正讓人被平等對待的，是尊重差異。影片裡的畫面字卡也點出背景：巴西有 4,500 萬人有某種障礙。\n\n【點子】讓學院創辦人兼執行長門德斯（Rodrigo Hübner Mendes）再次開車：他 18 歲時在搶案中中彈，成為四肢癱瘓，這是他受傷後第一次駕駛賽車。靠的不只是技術，而是社會對他的尊重。活動 2017 年 3 月 26 日在一級方程式賽事開幕典禮上首播，由巴西知名體育主播 Galvão Bueno 主持。\n\n【執行】Globo 做了一輛複製的賽車，可由腦波（EEG）操控：頭盔上的感測器監測腦波、速度、溫度與心跳並連到引擎，電腦把腦波訊號轉成方向盤指令；為了安全，另有電腦系統控制油門、剎車、離合器與排檔，前方相機傳回賽道影像，幫助車子維持在車道內。團隊花七個月，動員 Globo 內 100 多名專業人員，測試里程超過 3,000 英里，影片在聖保羅近郊 Mogi Guaçu 的 Velo Cittá 賽道拍攝。活動以品牌內容的形式在 Globo 的新聞、體育、娛樂頻道播出，另有幕後影片、訪談、社群貼文與網站 respeito.globo.com；腦波掃描器的發明者 Tan Le 也和門德斯錄了影片。分鏡畫面：賽道上輪椅的輪子特寫，字卡寫「In Brazil, there are 45 million people with some disability.」\n\n資料來源：\nhttps://oldbrief.promax.org/article/globos-new-social-campaign-is-powered-by-respect\nhttps://www.lovethework.com/en/work/entries/powered-by-respect-38824",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜創意數據類銀獅 Creative Data Silver Lion｜代理商：INSTITUTO RODRIGO MENDES, São Paulo / GLOBO TV, Rio De Janeiro / GLOBO COMUNICAÇÃO E PARTICIPAÇÕES, Rio De Janeiro\n\n【背景】這是巴西媒體 Globo 與非營利組織羅德里戈·門德斯學院（Instituto Rodrigo Mendes，協助身障者接受優質教育）合作的社會議題活動，屬於 Globo 2016 年與聯合國教科文組織、兒童基金會等合作推出的「Tudo Começa Pelo Respeito」（一切從尊重開始）平台。\n\n【洞察】技術可以消除障礙，但真正讓人被平等對待的，是尊重差異。影片裡的畫面字卡也點出背景：巴西有 4,500 萬人有某種障礙。\n\n【點子】讓學院創辦人兼執行長門德斯（Rodrigo Hübner Mendes）再次開車：他 18 歲時在搶案中中彈，成為四肢癱瘓，這是他受傷後第一次駕駛賽車。靠的不只是技術，而是社會對他的尊重。活動 2017 年 3 月 26 日在一級方程式賽事開幕典禮上首播，由巴西知名體育主播 Galvão Bueno 主持。\n\n【執行】Globo 做了一輛複製的賽車，可由腦波（EEG）操控：頭盔上的感測器監測腦波、速度、溫度與心跳並連到引擎，電腦把腦波訊號轉成方向盤指令；為了安全，另有電腦系統控制油門、剎車、離合器與排檔，前方相機傳回賽道影像，幫助車子維持在車道內。團隊花七個月，動員 Globo 內 100 多名專業人員，測試里程超過 3,000 英里，影片在聖保羅近郊 Mogi Guaçu 的 Velo Cittá 賽道拍攝。活動以品牌內容的形式在 Globo 的新聞、體育、娛樂頻道播出，另有幕後影片、訪談、社群貼文與網站 respeito.globo.com；腦波掃描器的發明者 Tan Le 也和門德斯錄了影片。影片分鏡裡看得到車身印著 Globo 標誌的藍白色方程式賽車，字幕寫著「Launching #RESPECT, our social responsibility campaign.」\n\n資料來源：\nhttps://oldbrief.promax.org/article/globos-new-social-campaign-is-powered-by-respect\nhttps://www.lovethework.com/en/work/entries/powered-by-respect-38824",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 創意數據類, Creative Data, Data-Technology, 銀獅, Silver Lion, Globo, GLOBO TV, Globo 電視台, 羅德里戈·門德斯學院, Instituto Rodrigo Mendes, 媒體, 電視台, 公益, 社會議題, 身障, 身心障礙, 輪椅, 四肢癱瘓, 尊重, Respect, 腦波, EEG, 腦機介面, 科技, 賽車, 一級方程式, Formula 1, 賽道, 影片, 品牌內容, 巴西, Brazil, 里約, Rio de Janeiro, 聖保羅",
   "category": "行銷案例",
   "references": [
    "https://oldbrief.promax.org/article/globos-new-social-campaign-is-powered-by-respect",
    "https://www.lovethework.com/en/work/entries/powered-by-respect-38824"
   ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/4b812270dc564c168f318544da48c1f8/storyboard_000002.jpg",
-  "image_shows": "官方影片分鏡：賽道上輪椅輪子的特寫，字卡寫「In Brazil, there are 45 million people with some disability.」",
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/4b812270dc564c168f318544da48c1f8/storyboard_000030.jpg",
+  "image_shows": "官方影片分鏡：昏暗車庫裡一輛藍白色方程式賽車，車身有 Globo 標誌，字幕「Launching #RESPECT, our social responsibility campaign.」",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入；內容依 Promax BRIEF 報導整理，單一文字來源，另一個列的是官方卡片（無文字）。Promax 與搜尋結果提到的觀看數、流量與其他獎項皆未寫入。圖為官方影片分鏡（輪椅與字卡，看得出主題但沒看到賽車）。meioemensagem 回 403、D&AD 案例頁 404。未發現造假、抄襲或撤獎指控。"
+  "note": "官方全文需登入；內容依 Promax BRIEF 報導整理，單一文字來源，另一個列的是官方卡片（無文字）。Promax 與搜尋結果提到的觀看數、流量與其他獎項皆未寫入。圖為官方影片分鏡（輪椅與字卡，看得出主題但沒看到賽車）。meioemensagem 回 403、D&AD 案例頁 404。未發現造假、抄襲或撤獎指控。 2026-11-02 Opus 驗：原分鏡（輪椅特寫）看不到賽車，改用同一支影片第 30 格（Globo 標誌的賽車）。一句話替門德斯加上身分。",
+  "idea_one_liner_r0": "巴西 Globo 電視台打造一輛靠腦波操控的賽車，讓癱瘓的門德斯在賽道上開車，傳達尊重差異"
  },
  {
   "id": "ltwm-08805",
@@ -401,7 +404,7 @@
   "text_source_level": 2,
   "uncertain": true,
   "needs_audio": false,
-  "note": "只依官方案例圖板整理（官方卡片無文字、in 檔提供的 YouTube 無法讀取），沒有第二個可讀的文字來源，所以標 uncertain；欠缺：獨立媒體報導與影片內容。圖板上的百分比成效與「已成為常態服務」皆未寫入。【洞察】來自圖板 Idea 段落的前半（健康意識延伸到車）。圖板文字小，「Care／Terrain／Driving／Green」四個指數的中文名依圖上中文字面轉寫。搜尋摘要中的內容（五維度畫像、Hadoop 等）未寫入。references 只列實際打開過的官方卡片頁（無文字）。未發現造假、抄襲或撤獎指控。"
+  "note": "只依官方案例圖板整理（官方卡片無文字、in 檔提供的 YouTube 無法讀取），沒有第二個可讀的文字來源，所以標 uncertain；欠缺：獨立媒體報導與影片內容。圖板上的百分比成效與「已成為常態服務」皆未寫入。【洞察】來自圖板 Idea 段落的前半（健康意識延伸到車）。圖板文字小，「Care／Terrain／Driving／Green」四個指數的中文名依圖上中文字面轉寫。搜尋摘要中的內容（五維度畫像、Hadoop 等）未寫入。references 只列實際打開過的官方卡片頁（無文字）。未發現造假、抄襲或撤獎指控。 2026-11-02 Opus 驗：打開案例板核對：Challenge／Idea 段、iMoment 架構（CRM、微信社群、安吉星、經銷商資料庫）、四項指數（呵护／路况／驾驶／绿动）、Equinox 胎壓推播都與讀稿一致；搜不到 MyCarPulse 的獨立報導，仍 uncertain，缺第二個來源。"
  },
  {
   "id": "ltwm-08807",
@@ -425,7 +428,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "泰國 Tic Tac 推出水果口味，在海報上把品牌 logo 變成水果頂端的葉子，用一個大色塊畫出蘋果",
+  "idea_one_liner": "泰國 Tic Tac 推出水果口味，海報只畫一顆單色水果剪影，再把品牌 logo 放在頂端當葉子",
   "brand_display": "Tic Tac（費列羅）",
   "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜戶外類銀獅 Outdoor Silver Lion｜代理商：GREYNJ UNITED, Bangkok\n\n【背景】在泰國，Tic Tac 主要以薄荷口味聞名。推出新的水果口味後，需要一支宣傳活動讓人知道。\n\n【點子】Tic Tac 的形象向來是清新。D&AD 資料寫道：廣告順著「清新」的形象，把 Tic Tac 的招牌 logo 變成對應水果的葉子。\n\n【執行】官方報名的是戶外廣告 Now in Apple、Now in Orange、Now in Mango 三則。案例圖上的蘋果版：白底畫面中央是一個沒有細節的紅色蘋果剪影，蘋果頂端的位置放著綠色的 tic tac logo，看起來就像蘋果的葉子，版面沒有其他文字。橘子與芒果兩則的畫面這裡沒有讀到。\n\n資料來源：\nhttps://www.dandad.org/awards/professional/2018/art-direction/26638/now-in-fruit-flavours/\nhttps://www.lovethework.com/en/work/entries/now-in-apple-7210",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 戶外類, Outdoor, 食品類, Food, 銀獅, Silver Lion, Tic Tac, 費列羅, Ferrero, GREYNJ UNITED BANGKOK, GREYnJ United, Grey, 糖果, 薄荷糖, 食品, 水果口味, 新口味, 蘋果, Apple, 橘子, Orange, 芒果, Mango, logo, 品牌識別, 葉子, 極簡, 海報, 戶外廣告, 平面廣告, 泰國, Thailand, 曼谷, Bangkok",
@@ -437,8 +440,9 @@
   "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/c92f6b9c780641dd806a11f0633cb2f8",
   "image_shows": "海報：白底中央一個紅色蘋果剪影，頂端放著綠色的 tic tac logo 當葉子",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "只有 D&AD 的一段簡介加上官方案例圖（蘋果版），沒有第二個可讀的文字來源，所以標 uncertain；欠缺：橘子、芒果版畫面、媒體報導與刊登方式。Ads of the World、AdsSpot、WPP Edcream（網域無法解析）、Branding in Asia（內容為空）皆未取得。D&AD 頁是 2018 年藝術指導類的條目，與官方 2017 戶外類銀獅同一創意，作品名為 Now in Fruit Flavours。搜尋摘要提到的刊出時間、通路未寫入。未發現造假、抄襲或撤獎指控。"
+  "note": "只有 D&AD 的一段簡介加上官方案例圖（蘋果版），沒有第二個可讀的文字來源，所以標 uncertain；欠缺：橘子、芒果版畫面、媒體報導與刊登方式。Ads of the World、AdsSpot、WPP Edcream（網域無法解析）、Branding in Asia（內容為空）皆未取得。D&AD 頁是 2018 年藝術指導類的條目，與官方 2017 戶外類銀獅同一創意，作品名為 Now in Fruit Flavours。搜尋摘要提到的刊出時間、通路未寫入。未發現造假、抄襲或撤獎指控。 2026-11-02 Opus 驗：用 WebFetch 重讀 D&AD 頁核對（泰國以薄荷口味聞名、順著清新形象把 logo 變成水果的葉子），與讀稿一致；做法清楚、不是推測，拿掉 uncertain。LTW 上橘子、芒果兩張的圖檔是空白小圖（8KB），仍未看到畫面；WPP Edcream 連不上。",
+  "idea_one_liner_r0": "泰國 Tic Tac 推出水果口味，在海報上把品牌 logo 變成水果頂端的葉子，用一個大色塊畫出蘋果"
  }
 ]
