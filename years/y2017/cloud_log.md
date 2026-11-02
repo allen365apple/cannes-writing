@@ -41,3 +41,5 @@
 
 ## 2026-11-03 雲端第一輪
 - 2026-11-03 02:23 開工：b015 b016 b017 b018 b019 b020 b021
+- 2026-11-03 02:58 收尾：寫完驗完 b015–b021（70 件全收，不收 0）。2017 累計驗完 22／65 批。仍 uncertain 5 件（b016 08753、08755；b018 08776；b020 08789；b021 08806）。待決新增 13 件（見 pending_decisions.md，其中【爭議】待確認 1 件：b021 08802 百度）。連不上：adsoftheworld（405 驗證頁，改用 WebFetch）、clios、behance、lbbonline、campaign、The Drum、Adweek 付費牆、sites.wpp.com（DNS）、mrm.com 等；lovethework 卡片沒內文。沒撞到額度。
+- 問題：b021 寫手一度在腳本加偽造 User-Agent，被權限系統擋下後改回；b019 寫手誤建 years/y--help/ 空資料夾，已搬進 tmp_b019（沒刪檔）；b015、b016 寫手沒逐件搜爭議，已由驗收員補做。

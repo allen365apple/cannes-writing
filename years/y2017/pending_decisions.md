@@ -50,3 +50,12 @@
 - b020 ltwm-08788（Yasmin）：品牌另一支電視廣告曾因性別歧視撤下，是不同作品，不加【爭議】，只寫 note。
 - 重複候選：無。
 - 違規：b021 寫手一度在抓網頁腳本加偽造瀏覽器 User-Agent，被權限系統擋下，之後改回預設 curl；b019 寫手誤建 years/y--help/ 空資料夾，已搬到 tmp_b019，沒刪檔。
+
+## b015、b016、b017、b018（2026-11-03 雲端第一輪）
+- b016 ltwm-08753（FOOD BULLYING，Amman）、ltwm-08755（VIRTUAL REALITY，Freddo）：uncertain，只有案例板畫面，缺說明創意邏輯的文字。
+- b018 ltwm-08776（I'M ADA, I CAN HELP）：uncertain，驗收員已換圖、補 Adsoftheworld 製作名單，仍缺作品本身的說明（KBS Albion 做了什麼、影片內容）。
+- b015 ltwm-08739（PARIS, BRITNEY, HARRY，Duracell）、ltwm-08740（GPS, MAGIC NOODLES, BBQ，Mariskal Rock Radio）、ltwm-13777（FULLY BOOKED 'LIVES'）是廣播作品，找不到圖，image_url 留空。請決定留空或另找。
+- b015 ltwm-08739：in 檔 links 裡的 grey.africa 已變成無關網站（沒改 in 檔），建議本機更新。
+- b015 ltwm-13775：官方作品名是 UNSAFETY CHECK，in 檔標題寫 BLACK LIVES MATTER；ltwm-08743（QUEST TO LEGOLAND）：in 檔代理商寫 VMLY&R KANSAS，官方寫 VML, New York。請確認 in 檔資料。
+- b018 Man on the Moon、Adidas Odds、Roads That Honk 用非 case board 的劇照／YouTube 畫面（官方 case board 看不出點子或全黑）；b017 ltwm-08762（Smart Bell）用 Yanko Design 產品照（官方 case board 只有 260px）。驗收員判斷合理，請確認可接受。
+- 重複候選：無。【爭議】候選：無（b017 Reshma 所屬組織的捐款爭議、Human by Design 的研討會批評都與作品無關，只寫 note）。
