@@ -29,3 +29,14 @@
 - b008 ltwm-08676（JACKIE）圖用 Crash.net 報導主圖（非官方）；b011 ltwm-08702 圖用計程車車頂廣告；b011 ltwm-08700 圖看不出點子，找不到更好的。請確認可接受。
 - b011 ltwm-08704：Audio 銀獅報名名是「ONE SOURCE: THE SONG」，其他是「ONE SOURCE: CAMPAIGN」，以整體寫成一件。
 - 重複候選：無。
+
+## b009、b012、b013、b014（2026-11-02 雲端第二輪）
+- b009 EVAN（Sandy Hook Promise）已加【爭議】：被電影人 Albert Gonzalez 指控抄襲 2011 年短片《The Desk》。來源只有 America's 1st Freedom 一篇，沒找到 BBDO 回應。驗收員認為符合規則卡、先保留，請維護者決定。
+- b014 ltwm-08738 新加【爭議】：有匿名信指控點子不是 Memac Ogilvy 的，代理商已否認，沒有裁決結果。請維護者決定是否保留。
+- b014 ltwm-08731（Blood）：原稿寫成 2017 年 10 月的 #bloodnormal（晚於這屆坎城，寫錯支），驗收員已照 2016 年運動流血片重寫，請確認。
+- b014 ltwm-08734（Cigna）：官方得獎類別是動畫與視覺效果，但來源都沒提到動畫或特效，類別與內容對不上，請確認作品對應。
+- b012 ltwm-08712（THE MOST SHOCKING SECOND A DAY）：原作與續集 STILL… 合寫成一件。兩支都列在這一筆的官方作品名裡，驗收員建議不拆。
+- b012 WE THE PEOPLE、SAMPHA、DREAM 圖改用非官方劇照（Stereogum、It's Nice That、Adweek）；b013 ltwm-08726 原用 YouTube 縮圖，驗收員已換成官方分鏡。請確認可接受。
+- b009 #GIVEHER5：兩個來源的金額不同（Adgully 寫 150 盧比，MSL 稿寫約 2.5 美元），讀稿採 150 盧比。
+- 重複候選：無。b009 HALLOWEEN 與 HALLOWEEN - TV 是同一筆的兩個報名名稱，不是兩筆重複。
+- 違規：b009 寫手一次在指令裡誤打 `rm -f /dev/null`，被系統擋下沒有執行，沒刪任何東西。
