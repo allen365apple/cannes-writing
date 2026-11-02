@@ -20,3 +20,12 @@
 - b006 ltwm-08647（THE TRAFFICKING EXAM）：驗收員補到 WARC 來源後拿掉 uncertain，但仍缺技術細節，也沒有圖，請決定留空或另找。
 - b007 ltwm-08659（Chat Yourself）、ltwm-08660（Gorillaz）：圖是影片畫面，看不出 App，找不到更好的。
 - 重複候選：無。
+
+## b008、b010、b011（2026-11-02 雲端第二輪）
+- b010 ltwm-08695（THE CLICHÉ，Heineken）已加【爭議】：Máquina do Esporte 原文指兩對情侶是演過多支廣告的演員，品牌先否認、後承認有選角與付費。驗收員建議保留，請維護者確認。
+- b008 ltwm-08677（5 YEAR PLAN）：uncertain，劇情只出自 Selfstorming 與 Adforum 簡介，缺第一手來源。
+- b010 ltwm-08689（BORDERS，Aeroméxico）：uncertain，缺作品說明（海報文案、刊登位置）。
+- b010 ltwm-08690（GREY GATE, WHITE GATE，VW Trucks）：uncertain，點子是從案例圖推讀的，note 已註明。
+- b008 ltwm-08676（JACKIE）圖用 Crash.net 報導主圖（非官方）；b011 ltwm-08702 圖用計程車車頂廣告；b011 ltwm-08700 圖看不出點子，找不到更好的。請確認可接受。
+- b011 ltwm-08704：Audio 銀獅報名名是「ONE SOURCE: THE SONG」，其他是「ONE SOURCE: CAMPAIGN」，以整體寫成一件。
+- 重複候選：無。
