@@ -33,3 +33,6 @@
 - 2026-11-02 02:09 開工：b001 b002 b003 b004 b005 b006 b007
 - 2026-11-02 02:35 收尾：寫完驗完 b001–b007（70 件全收，不收 0）。2017 累計驗完 8／65 批。仍 uncertain 7 件（b002 08611；b003 08616、08617、08618；b004 08625、08626、08631）。待決新增 11 件（見 pending_decisions.md）。連不上：sites.wpp.com、YouTube（429）、Vimeo，adsoftheworld、lbbonline、Campaign 等擋 curl；lovethework 內文要登入。沒撞到額度。
 - 問題：寫手兩次誤跑 `tools/check_batches.py --help`，它把 --help 當年份在 years/ 下建 y--help/，寫手已搬進 tmp_，沒刪檔。建議維護者在工具加參數檢查。另有一名寫手的指令誤帶 rm，被安全檢查擋下沒執行。
+
+## 2026-11-02 雲端第二輪
+- 2026-11-02 14:13 開工：b008 b009 b010 b011 b012 b013 b014
