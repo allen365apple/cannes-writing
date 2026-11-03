@@ -59,3 +59,14 @@
 - b015 ltwm-13775：官方作品名是 UNSAFETY CHECK，in 檔標題寫 BLACK LIVES MATTER；ltwm-08743（QUEST TO LEGOLAND）：in 檔代理商寫 VMLY&R KANSAS，官方寫 VML, New York。請確認 in 檔資料。
 - b018 Man on the Moon、Adidas Odds、Roads That Honk 用非 case board 的劇照／YouTube 畫面（官方 case board 看不出點子或全黑）；b017 ltwm-08762（Smart Bell）用 Yanko Design 產品照（官方 case board 只有 260px）。驗收員判斷合理，請確認可接受。
 - 重複候選：無。【爭議】候選：無（b017 Reshma 所屬組織的捐款爭議、Human by Design 的研討會批評都與作品無關，只寫 note）。
+
+## b022、b023、b025（2026-11-03 雲端第二輪）
+- b023 ltwm-08826（PEDIGREE HARD TO IMPRESS）：uncertain，已確認屬 Child Replacement Programme，缺這支片本身的劇情。
+- b023 ltwm-08825（OLD SPICE INNOCENT）：uncertain，Trend Hunter 寫審訊室、Selfstorming 寫法庭，說法不一，缺片中劇情。
+- b025 ltwm-08840（Chipotle）：原圖與讀稿誤用案例影片回顧舊作《Back to the Start》的畫面，驗收員已換成本片第 58 格，畫面左上有 newsy 浮水印，請確認可接受。
+- b022 ltwm-08815（麥當勞 SEARCH）：戶外類銅獅是另外五件作品（Big Mac 等），【得獎】行照官方預填保留，請確認。圖已由 254px 縮圖換成案例影片畫面。
+- b025 ltwm-08847（Activia）圖用 cdn.filespin.io 的 og:image；b022 ltwm-08811（BBC）圖是宣傳視覺、非案例板。驗收員判斷可接受，請確認。
+- b023、b025 的 awards 欄位沿用 in 檔 official_awards 格式（帶 source_count，與範本、b021 相同），與規則卡寫的 official.awards 不同，驗收員沒動，請維護者知悉。
+- 【爭議】候選：無。b022 ltwm-08813（Intel 無人機畫面賽前預錄，已寫入執行）、ltwm-08814（Tempest「首創」被學者質疑）、b025 ltwm-08844（Budweiser 被政治解讀、有人喊抵制）寫手與驗收員都判斷不加，只寫 note。
+- 重複候選：無（b022 GEICO 影片類五支即 Cyber 同組；b023 Johnsonville 三支在同一筆官方獎項）。
+- 違規：無刪檔。三名寫手與驗收員以「工具內建 Mozilla UA」為由沒跑 tools/check_batches.py（主對話已跑）；b022 寫手一次用 images.weserv.nl 轉址抓圖，被權限系統擋下沒重試。
