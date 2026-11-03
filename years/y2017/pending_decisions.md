@@ -70,3 +70,13 @@
 - 【爭議】候選：無。b022 ltwm-08813（Intel 無人機畫面賽前預錄，已寫入執行）、ltwm-08814（Tempest「首創」被學者質疑）、b025 ltwm-08844（Budweiser 被政治解讀、有人喊抵制）寫手與驗收員都判斷不加，只寫 note。
 - 重複候選：無（b022 GEICO 影片類五支即 Cyber 同組；b023 Johnsonville 三支在同一筆官方獎項）。
 - 違規：無刪檔。三名寫手與驗收員以「工具內建 Mozilla UA」為由沒跑 tools/check_batches.py（主對話已跑）；b022 寫手一次用 images.weserv.nl 轉址抓圖，被權限系統擋下沒重試。
+
+## b024、b026、b027、b028（2026-11-03 雲端第二輪）
+- 重複候選：b024 ltwm-08832（WHEN YOU DRIVE NEVER DRINK，Heineken）與 b008 ltwm-08676（JACKIE）應是同一支片：兩筆官方分鏡第 5、8 格檔案相同，代理商、導演、後製也相同，只差報名類別（JACKIE 影片類酒類金獅；本件影片類 CSR 銀獅）。建議併入 b008，請維護者決定（decision 沒動）。
+- b028 ltwm-08871（PARKINSOUNDS）：uncertain，缺官方或新聞的文字說明；Vimeo 標題顯示 2016 年已在坎城健康獅得獎，請確認年份歸屬。
+- b028 ltwm-08875（BURNT）：uncertain，缺海報做法的文字（樹葉是否取自火場、其他幾張是什麼鳥）。
+- b024 ltwm-08834（Speed Blinds You）：已補 Marketing Oops，但流浪狗、時間凍結劇情仍只有 selfstorming 一個二手來源（讀稿已寫明出處）；兩來源時速 30／40 公里說法不一，並列。
+- b024 ltwm-08833（SickKids）：官方獎項內另有 MOM STRONG、SICKKIDS VS（同一筆、同平台不同影片），MomStrong 內容找不到可開來源，沒補寫。
+- 圖：b024 ltwm-08830（VW）用 autoevolution 截圖；b026 ltwm-08849（Waitrose）用 YouTube 縮圖、ltwm-08851（皇家劇院）用 It's Nice That 劇照；b027 ltwm-08864、08865、08867、08869 官方 case board 只有縮圖或全黑，改用他處案例板；b028 KOLSHIK、GORILLAZ 用 YouTube 縮圖、GIVE-A-CARE 用官網首頁圖。驗收員判斷合理，請確認可接受。
+- b027 ltwm-08868（Buy Back the Block）：搜尋出現「Grand Prix」與 in 檔獎項不符，讀稿沒寫，請確認 in 檔。
+- 【爭議】候選：無。

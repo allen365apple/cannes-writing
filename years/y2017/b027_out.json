@@ -128,7 +128,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片沒有內文；文字依官方案例板圖上說明、Latinspots 評論（西班牙文）整理，Ads of the World 只有積分與基本資料。可讀的文字來源偏少，只有一篇獨立報導，故多以案例板為主。案例板上的曝光量、投資金額、媒體報導，與 Latinspots 提到的獎項和「首座獅子」等結果均未寫入。「橫幅文字」依案例板截圖上可見的西班牙文與英文（Here is fun, when driving kills）。官方作品名與 in 檔一致。爭議搜尋（Pacifico ZeroPointFiveEffect controversy／fake／fraud／plagiarism）：搜尋無相關結果，未發現指控。"
+  "note": "官方卡片沒有內文；文字依官方案例板圖上說明、Latinspots 評論（西班牙文）整理，Ads of the World 只有積分與基本資料。可讀的文字來源偏少，只有一篇獨立報導，故多以案例板為主。案例板上的曝光量、投資金額、媒體報導，與 Latinspots 提到的獎項和「首座獅子」等結果均未寫入。「橫幅文字」依案例板截圖上可見的西班牙文與英文（Here is fun, when driving kills）。官方作品名與 in 檔一致。爭議搜尋（Pacifico ZeroPointFiveEffect controversy／fake／fraud／plagiarism）：搜尋無相關結果，未發現指控。 2026-11-03 Opus 驗：事實抽查 Latinspots：0.5 倍速讓人像喝醉、0.5 是祕魯酒駕上限、成本很小的 YouTube 橫幅、Messi／Obama／教宗免費「參與」均對得上。"
  },
  {
   "id": "ltwm-08864",
@@ -152,7 +152,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "麥當勞新加坡讓分店每五分鐘，回報外送等候時間，Google 搜尋廣告依此加碼，等太久的區域就停投",
+  "idea_one_liner": "麥當勞新加坡讓各分店每 5 分鐘回報外送等候時間，Google 搜尋廣告據此調整：等得短就加碼，等太久的區域就停投",
   "brand_display": "麥當勞 McDelivery 依餐廳負載投放廣告",
   "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜媒體類銀獅 Media Silver Lion｜代理商：OMD SINGAPORE\n\n【背景】麥當勞新加坡的外送服務 McDelivery，各區的供給與需求高度在地化，又難以預測。案例板寫著：廣告預算被浪費，還對顧客許下做不到的承諾，因為餐廳忙不過來而損失的銷售潛力約 15%。\n\n【洞察】飢餓的顧客不會原諒人（案例板：Hungry consumers are unforgiving）。WARC 的說明也指出，外送等得比廣告暗示的久，就可能失去客人。\n\n【策略】把麥當勞自己的餐廳營運資料，與 Google 的在地化定位結合，一方面提高媒體效率，一方面用不同訊息調整顧客對送達時間的期待。\n\n【點子】讓廣告「看」得到餐廳現在忙不忙：餐廳有餘力就多打廣告搶客，忙翻了就停手，廣告不再不分區一律猛打。\n\n【執行】OMD Singapore 做了一套能隨餐廳負載即時反應的廣告投放系統。麥當勞的 API 每 5 分鐘把各分店的外送等候時間傳出來，自訂的查詢程式把資料整理給 25 個以上的社區，連到 Google 搜尋廣告，依等候時間調整花費與訊息：等候 0 到 45 分鐘就多投，搶競爭對手的份額；46 到 109 分鐘維持正常；到 110 分鐘就停止投放。WARC 說，法務、資訊、餐廳營運與行銷部門都要一起合作才做得成。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/restaurant-capacity-based-advertising-for-mcdelivery-17909\nhttps://www.warc.com/content/article/warc-awards-media/mcdonalds_singapore_restaurantcapacitybased_advertising/112937\nhttps://www.warc.com/content/article/warc-exclusive/how-mcdonalds-used-data-to-solve-its-business-challenge/121603",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 媒體類銀獅, Media Silver Lion, 媒體類, Media, Use of Real-Time Data, 即時資料運用, 麥當勞, McDonald's, McDelivery, OMD Singapore, OMD, 速食, 餐飲, 外送, 外送平台, ⭐形式／載體：搜尋廣告, Google 搜尋廣告, Google AdWords, 數位廣告, 手法：即時資料, API, 資料驅動, 在地化投放, 地理定位, 依負載調整廣告, 等候時間, 程式化投放, 新加坡, Singapore, 數據, 媒體策略",
@@ -167,7 +167,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片（lovethework）沒有內文。圖是 lovethework 上同一作品 Spikes Asia 頁（Capacity Based McDelivery）的案例板，in 檔的候選圖只有 254×180 縮圖，解析度太低，故改用這張高解析版；內容與縮圖相同。讀稿依這張案例板文字與 WARC 兩頁（WARC 全文需付費，只讀到摘要與導言）整理。官方作品名為 RESTAURANT CAPACITY BASED ADVERTISING FOR MCDELIVERY，與 in 檔 title 略有不同，為同一件。案例板與 WARC 的營收成長、廣告報酬率等成效，以及搜尋到的榜單與 2.0 版（GrabFood）均未寫入。「15% 銷售潛力損失」是活動前的背景數字，來自案例板。Marketing-Interactive 的 McDelivery 戶外廣告報導是另一檔 DDB 廣告，不是這件，未使用。adsspot 連結回 403。爭議搜尋（McDelivery capacity based advertising controversy／fake／fraud／withdrawn）：未發現指控。"
+  "note": "官方卡片（lovethework）沒有內文。圖是 lovethework 上同一作品 Spikes Asia 頁（Capacity Based McDelivery）的案例板，in 檔的候選圖只有 254×180 縮圖，解析度太低，故改用這張高解析版；內容與縮圖相同。讀稿依這張案例板文字與 WARC 兩頁（WARC 全文需付費，只讀到摘要與導言）整理。官方作品名為 RESTAURANT CAPACITY BASED ADVERTISING FOR MCDELIVERY，與 in 檔 title 略有不同，為同一件。案例板與 WARC 的營收成長、廣告報酬率等成效，以及搜尋到的榜單與 2.0 版（GrabFood）均未寫入。「15% 銷售潛力損失」是活動前的背景數字，來自案例板。Marketing-Interactive 的 McDelivery 戶外廣告報導是另一檔 DDB 廣告，不是這件，未使用。adsspot 連結回 403。爭議搜尋（McDelivery capacity based advertising controversy／fake／fraud／withdrawn）：未發現指控。 2026-11-03 Opus 驗：一句話原句「每五分鐘，回報」逗號拆開動詞，已改寫。看圖：in 檔官方 case board 下載只有 11KB 縮圖，換用的 cdn.filespin.io 高解析案例板內容相同（挑戰／解法／洞察／成效），可用。",
+  "idea_one_liner_r0": "麥當勞新加坡讓分店每五分鐘，回報外送等候時間，Google 搜尋廣告依此加碼，等太久的區域就停投"
  },
  {
   "id": "ltwm-08865",
@@ -191,7 +192,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "突尼西亞電信 Orange 推出《街頭霸王》風格手機遊戲，讓兩位澡堂婦女 Harza 對打，在 Orange 網路上跑得最順",
+  "idea_one_liner": "突尼西亞 Orange 推出《街頭霸王》風格手機遊戲，讓兩位澡堂搓澡婦女對打，只有在 Orange 的 4G 上跑得最順",
   "brand_display": "Orange 突尼西亞「澡堂鬥士」",
   "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜媒體類銀獅 Media Silver Lion｜代理商：FP7/TUN, Tunis\n\n【背景】Orange 在突尼西亞推出 4G 的時間晚於 Ooredoo 與 Tunisie Telecom，而年輕人占了大多數潛在用戶。Ads of the World 的說明指出，Orange 擁有最快的 4G 網路，卻沒有被廣泛認識到這一點。\n\n【洞察】FP7/TUN 用社群聆聽發現，突尼西亞的年輕人正在搜尋、玩復古遊戲《街頭霸王》（Street Fighter）。《街頭霸王》是當地最受歡迎的復古遊戲，卻從來沒有突尼西亞角色。\n\n【策略】不靠無關的大眾媒體，而是做一個「只有在 Orange 網路上才玩得最好」的產品展示，讓時間寶貴的年輕人實際感受速度。\n\n【點子】補上這個缺口：以澡堂（hammam）裡替人搓澡的婦女 Harza 當角色，做成復古格鬥遊戲，讓她們為了搶對方的客人而打起來。\n\n【執行】遊戲叫 Hammam Fighter，案例板上的兩個角色是 Mongia 與 Chadliya。每個角色有突尼西亞特色的武器、必殺技與嘴砲，例如拖鞋、海綿、肥皂；Ads of the World 列出的招式有「拖鞋猛擊」（Slipper Smackdown）、「戳眼」（Finger in the Eye）和「毛巾落地」（Towel Drop）。玩家可選兩個角色之一對打。遊戲在 Orange 網路上跑得順，在其他網路上較卡；團隊把這點對準玩家：對遊戲玩家來說，一秒鐘的延遲都有差。推廣靠社群貼文、遊戲玩法影片與遊戲網紅。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/the-hammam-fighter-19915\nhttps://arabianmarketer.ae/orange-bets-on-hammam-street-fighters-to-lure-tunisia-youth/\nhttps://www.adsoftheworld.com/media/digital/orange_the_hammam_fighter\nhttps://loveandlobby.com/the-hammam-fighter-orange-tunisia/",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 媒體類銀獅, Media Silver Lion, 媒體類, Media, Excellence in Media Insights & Strategy, 媒體洞察與策略, Orange, Orange Tunisia, Orange 突尼西亞, FP7/TUN, FP7, McCann, 電信, 4G, 網路速度, ⭐形式／載體：手機遊戲, Mobile Game, 格鬥遊戲, 復古遊戲, 街機, 遊戲, 手法：社群聆聽, 產品展示, 在地文化, 本土幽默, 街頭霸王, Street Fighter, 澡堂, Hammam, Harza, 搓澡婦, 拖鞋, 海綿, 肥皂, 毛巾, 年輕人, 遊戲網紅, 突尼西亞, Tunisia, 幽默, 反差",
@@ -207,7 +208,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片（lovethework）沒有內文；內容依 Arabian Marketer、Ads of the World、LoveAndLobby、Dubai Lynx 得獎頁與案例板整理（Dubai Lynx 頁未列入資料來源，內容與其他來源一致）。圖用 LoveAndLobby 頁面上的案例板（800×564）；in 檔的官方 case board 只有 255×180 縮圖，解析度太低，故改用；YouTube 官方影片頁被 Google 驗證頁擋住，未開啟，YouTube 縮圖是影片畫面（兩位婦女爭吵）看不出遊戲，沒用。LBB 頁（403）與 Warc 未讀。案例板與報導中的玩家比例、推薦度、投資報酬、2 百萬觀看，及 Dubai Lynx 大獎等結果與其他獎項未寫入。官方作品名與 in 檔一致。爭議搜尋（Orange Tunisia Hammam Fighter controversy／fake／fraud／plagiarism／withdrawn）：未發現指控；搜到的 2016 年 Orange 突尼西亞受監管機關處分與本作品無關。"
+  "note": "官方卡片（lovethework）沒有內文；內容依 Arabian Marketer、Ads of the World、LoveAndLobby、Dubai Lynx 得獎頁與案例板整理（Dubai Lynx 頁未列入資料來源，內容與其他來源一致）。圖用 LoveAndLobby 頁面上的案例板（800×564）；in 檔的官方 case board 只有 255×180 縮圖，解析度太低，故改用；YouTube 官方影片頁被 Google 驗證頁擋住，未開啟，YouTube 縮圖是影片畫面（兩位婦女爭吵）看不出遊戲，沒用。LBB 頁（403）與 Warc 未讀。案例板與報導中的玩家比例、推薦度、投資報酬、2 百萬觀看，及 Dubai Lynx 大獎等結果與其他獎項未寫入。官方作品名與 in 檔一致。爭議搜尋（Orange Tunisia Hammam Fighter controversy／fake／fraud／plagiarism／withdrawn）：未發現指控；搜到的 2016 年 Orange 突尼西亞受監管機關處分與本作品無關。 2026-11-03 Opus 驗：一句話改清主詞（遊戲在 Orange 網路上跑得順，不是婦女）。看圖：官方 case board 下載只有 15KB 縮圖，LoveAndLobby 的 800×564 版本是同一張案例板，可用。",
+  "idea_one_liner_r0": "突尼西亞電信 Orange 推出《街頭霸王》風格手機遊戲，讓兩位澡堂婦女 Harza 對打，在 Orange 網路上跑得最順"
  },
  {
   "id": "ltwm-08866",
@@ -433,7 +435,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片（lovethework）沒有內文。圖是 lovethework 同作品另一張案例卡（more-than-70-11737）上的案例板；in 檔候選圖是一張全黑的影片截圖，看不出點子，故改用。讀稿依案例板、Ads of the World、Branding News、Catraca Livre、Grandes Nomes 整理。案例板的媒體價值、捐出音樂時數、曝光、MTV 與國際勞工組織的採用，以及 Branding News 的得獎數均未寫入。Ads of the World 把活動日期列為 2017 年 3 月，Wave Festival 的項目為 2018，讀稿只寫「3 月婦女月」。各來源對 70% 發生在哪些平台說法略不同（案例板寫電台為主，其他寫電視、YouTube、社群），讀稿已並列。in 檔 links 中的 D&AD 連結是另一件作品（The Right Search），未使用。爭議搜尋（AzMina More than 70% controversy／fake／plagiarism，含葡萄牙文搜尋）：未發現指控。"
+  "note": "官方卡片（lovethework）沒有內文。圖是 lovethework 同作品另一張案例卡（more-than-70-11737）上的案例板；in 檔候選圖是一張全黑的影片截圖，看不出點子，故改用。讀稿依案例板、Ads of the World、Branding News、Catraca Livre、Grandes Nomes 整理。案例板的媒體價值、捐出音樂時數、曝光、MTV 與國際勞工組織的採用，以及 Branding News 的得獎數均未寫入。Ads of the World 把活動日期列為 2017 年 3 月，Wave Festival 的項目為 2018，讀稿只寫「3 月婦女月」。各來源對 70% 發生在哪些平台說法略不同（案例板寫電台為主，其他寫電視、YouTube、社群），讀稿已並列。in 檔 links 中的 D&AD 連結是另一件作品（The Right Search），未使用。爭議搜尋（AzMina More than 70% controversy／fake／plagiarism，含葡萄牙文搜尋）：未發現指控。 2026-11-03 Opus 驗：看圖：in 檔候選為全黑截圖；換用的同作品案例板（MORE THAN 70 綠色聲波、三位歌手）看得出點子，可用。"
  },
  {
   "id": "ltwm-08870",
@@ -474,6 +476,6 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片（lovethework）沒有內文，內容依官方案例板、Shots、Victim Support 新聞稿與 Direct New Ideas 整理。案例板與報導的曝光量、網站造訪、社群觀看、其他獎項（The Drum 週最佳作品等）均未寫入。Shots 沒有點名歌曲，歌手 Ellie Goulding 與「原創歌曲」依 Victim Support 新聞稿與案例板。「每週最多兩人被殺」是案例板印的背景數字，無獨立來源。官方獎項為音樂娛樂類原創作曲銀獅。in 檔 links 的 D&AD 連結是另一件作品（The Right Search），未使用。爭議搜尋（NCDV Break the Routine controversy／criticism／plagiarism／withdrawn）：未發現指控。"
+  "note": "官方卡片（lovethework）沒有內文，內容依官方案例板、Shots、Victim Support 新聞稿與 Direct New Ideas 整理。案例板與報導的曝光量、網站造訪、社群觀看、其他獎項（The Drum 週最佳作品等）均未寫入。Shots 沒有點名歌曲，歌手 Ellie Goulding 與「原創歌曲」依 Victim Support 新聞稿與案例板。「每週最多兩人被殺」是案例板印的背景數字，無獨立來源。官方獎項為音樂娛樂類原創作曲銀獅。in 檔 links 的 D&AD 連結是另一件作品（The Right Search），未使用。爭議搜尋（NCDV Break the Routine controversy／criticism／plagiarism／withdrawn）：未發現指控。 2026-11-03 Opus 驗：事實抽查 Victim Support 新聞稿：10 月 13 日上線、Noam Murro、Sidi Larbi Cherkaoui、真實夫妻 Jennifer White 與 Jason Kittelberger、Ellie Goulding 原創曲、10 月 12 日 Regent's Place 現場演出、#breaktheroutine 均對得上；「250 多份傳單」新聞稿沒有，應出自案例板或 Direct New Ideas，未能再核。"
  }
 ]
