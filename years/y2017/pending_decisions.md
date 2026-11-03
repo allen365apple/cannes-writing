@@ -80,3 +80,16 @@
 - 圖：b024 ltwm-08830（VW）用 autoevolution 截圖；b026 ltwm-08849（Waitrose）用 YouTube 縮圖、ltwm-08851（皇家劇院）用 It's Nice That 劇照；b027 ltwm-08864、08865、08867、08869 官方 case board 只有縮圖或全黑，改用他處案例板；b028 KOLSHIK、GORILLAZ 用 YouTube 縮圖、GIVE-A-CARE 用官網首頁圖。驗收員判斷合理，請確認可接受。
 - b027 ltwm-08868（Buy Back the Block）：搜尋出現「Grand Prix」與 in 檔獎項不符，讀稿沒寫，請確認 in 檔。
 - 【爭議】候選：無。
+
+## b029、b030、b031、b032（2026-11-04 雲端第一輪）
+- 重複候選：b031 ltwm-08912 FREEDOM FIGHTERS 與 b061 ltwm-09212 REDACTIVISTS 是 Amnesty 香港同一場行動的不同作品，驗收員建議兩筆都收。
+- 重複候選：b032 ltwm-08921 VACANT STARE, DRIBBLE CRY（Pedigree 廣播）與 b023 ltwm-08826 HARD TO IMPRESS（影片）是同一個 Child Replacement Programme 的廣播版與影片版，請維護者決定。
+- b031 ltwm-08911 STOP THE PAIN（Colgate）：uncertain，缺任何文字說明；讀稿只描述案例圖，另兩件（Evil Manga Girls、Voodoo Girls）沒看到。
+- b032 ltwm-08921（Pedigree）：uncertain、image_url 留空，缺兩支廣播內容。
+- b032 SAUNA, URINALS：uncertain，缺系列與 Distance Control 的文字說明；in 檔 tier 寫 SILVER、官方是銅獅，以官方為準。
+- b032 ARCHER POSTERS：uncertain，另兩張海報沒看到。
+- b032 不收 3 件（DIM DADS、FLIGHT, MALL, OFFICE、DOCUMENTS）：沒有文字來源，需有人聽音檔或能連上 adsspot、adobo 後補；OFFICE 不在官方獎項裡。
+- 圖：b030 ltwm-08901 M&S 用 FashionUnited 報導劇照（LTW conversion 圖是別件 Powered by Respect）；b031 ltwm-08912 改用 Snowden 肖像照；b030 ltwm-08895 用第 58 格分鏡。請確認可接受。
+- b030 ltwm-08895（On Hold）：D&AD 寫 2018 年、等候 29 分鐘，Grandes Nomes 寫 2017 年 3 月 15 日、30 分鐘，讀稿採後者。
+- b031 SWEAR JAR：官方代理商 VALENSTEIN & FATT，UK Fundraising／Shots 寫與 Grey London 合作。
+- 【爭議】候選：無（b030 08898 喬治亞「第六百萬名」被 factcheck.ge 質疑，只寫 note）。
