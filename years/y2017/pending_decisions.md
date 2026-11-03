@@ -93,3 +93,15 @@
 - b030 ltwm-08895（On Hold）：D&AD 寫 2018 年、等候 29 分鐘，Grandes Nomes 寫 2017 年 3 月 15 日、30 分鐘，讀稿採後者。
 - b031 SWEAR JAR：官方代理商 VALENSTEIN & FATT，UK Fundraising／Shots 寫與 Grey London 合作。
 - 【爭議】候選：無（b030 08898 喬治亞「第六百萬名」被 factcheck.ge 質疑，只寫 note）。
+
+## b033、b034、b035（2026-11-04 雲端第一輪）
+- b034 ltwm-08942 PARKING GARAGE RADIO（Flex）：驗收員依規則卡把 decision 由「收」改「不收」（只有名單、沒有分鏡或文字內容），請維護者確認這個改動。
+- b033 ltwm-08928 MUSIC TRANSPLANT：寫手不收，但驗收員發現官方分鏡有案例影片與字幕（器官捐贈主題），建議改收、下一輪重派寫手（decision 沒動）。
+- 重複候選：b035 ltwm-08946 REAL（Anchor 廣播）與 b014 ltwm-08730 MILK SLAMS 疑為同一企劃的廣播版與影片版，請維護者決定。
+- b033 ltwm-08933 GIN LANE：官方名單代理商 Valenstein & Fatt，Radiocentre 寫 Grey London，請確認（照官方寫）。
+- b033 不收 4 件（FIRECRACKER、FREE SOHO CHANNEL、SON OR FATHER、TOWEL）與 b035 不收 ltwm-08944 DERMACLINIX：沒有文字來源，需聽音檔或連上 adsspot 後補。
+- 仍 uncertain：b033 ltwm-13778 FUNDACIÓN REPRO（缺創意說明，另兩張沒看到）；b034 ltwm-08934 US PRESIDENT（缺廣播稿）；b035 ELENA（08945，是否即 Campofrío 機票／火腿那支待聽音檔）、REAL（08946）、RAINCAPE/PARACHUTE/CLOTHES BASKET（08952）、THE SONS OF ALL BOMBS（08953）、FROG, SNAKE, BAT, BIRD（08954）。
+- needs_audio 欄位：規則卡沒有定義，b034 寫手全設 true，驗收員沒改，請維護者說明欄位意義。
+- 官方報名含多支作品，補內容時注意：b033 AIS（MOM OR GIRLFRIEND、SON OR FATHER）、Jovem Pan（EYES、HEART）、Sky（FREE COFFEE MUG、FREE HOODIE）；b034 ltwm-08935 VW 三支只寫 Berlin 版與共通結構。
+- 圖：b033、b034、b035 多件沒圖（廣播類候選只有通用音訊 SVG），image_url 留空。
+- 【爭議】候選：無。
