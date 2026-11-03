@@ -48,3 +48,6 @@
 - 2026-11-03 14:08 開工：b022 b023 b024 b025 b026 b027 b028
 - 2026-11-03 14:43 收尾：寫完驗完 b022–b028（70 件全收，不收 0）。2017 累計驗完 29／65 批。仍 uncertain 4 件（b023 08825、08826；b028 08871、08875）。待決新增 13 件（見 pending_decisions.md，其中重複候選 1 件：b024 08832 與 b008 08676 JACKIE；【爭議】0 件）。連不上：lovethework 卡片沒內文；adsoftheworld、LBB、Campaign、The Drum、Behance、Vimeo、YouTube（驗證頁）、adforum、Lürzer's、clios 等擋 curl 或 403。沒撞到額度。
 - 問題：多名寫手與一名驗收員以「工具內建 Mozilla UA」為由沒跑 tools/check_batches.py（主對話已補跑兩組）；b022 寫手一次用 images.weserv.nl 轉址抓圖、b024 寫手一次誤打 rm，都被系統擋下沒執行，沒刪檔。
+
+## 2026-11-04 雲端第一輪
+- 2026-11-04 02:10 開工：b029 b030 b031 b032 b033 b034 b035
