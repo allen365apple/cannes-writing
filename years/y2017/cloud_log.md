@@ -51,3 +51,5 @@
 
 ## 2026-11-04 雲端第一輪
 - 2026-11-04 02:10 開工：b029 b030 b031 b032 b033 b034 b035
+- 2026-11-04 02:50 收尾：寫完驗完 b029–b035（70 件，收 60、不收 10；b034 PARKING GARAGE RADIO 是驗收員改不收，待確認）。2017 累計驗完 36／65 批（verified.txt 含 b065）。待決新增 21 件（見 pending_decisions.md；重複候選 3 件：b031 08912／b061 09212、b032 08921／b023 08826、b035 08946／b014 08730；【爭議】0 件）。連不上：lovethework 卡片沒內文；sites.wpp.com、lbbonline、adnews.com.au、lucianogriessi.com 網域解析不到；adsspot、adforum、The Drum、Behance、Creativepool、adobo、campaignbrief、Communication Arts 等 403／503；Ads of the World、Vimeo 要人機驗證。沒撞到額度。
+- 問題：無違規（沒有 rm、偽裝標頭、weserv；寫手與驗收員都有跑 check_batches.py）。b029–b032 驗收員誤下一次唯讀 git diff，沒改動。最後一次 push 網路卡住，重推成功。
