@@ -17,9 +17,9 @@
 ## 4. 結尾
 - 在 O/cloud_log.md 記一行：日期、寫完／驗完哪些批、待決新增幾件、連不上的網站、撞到額度與否。commit＋push。
 - 撞到額度上限就停在原處（寫一半的 out 檔也 commit 上去，下一輪接續）。
-- 最後照排程指示發一則 Slack 私訊回報（對象寫在排程裡，不在本專案）。5 行內：年份、今天寫完／驗完哪些批（幾件）、該年累計幾批／總批數、待決新增幾件、出了什麼問題（沒有就寫「無」）。只發這一則，不發到頻道。
+- 最後把這一輪的回報寫進 years/last_report.txt（整個檔覆蓋，5 行內）：第一行「<日期 時間> <年份> 第幾輪」，接著寫完／驗完哪些批（幾件）、該年累計幾批／總批數、待決新增幾件、出了什麼問題與違規（沒有就寫「無」）。commit＋push（訊息「回報 <日期 時間>」）。成功、出錯、撞額度都要寫。靈感倉庫機器人每小時會讀這個檔、私訊維護者。
 
 ## 鐵則
-- 派驗收員前，主管自己先跑 `python3 tools/check_batches.py {Y} <批號們>`，不交給 subagent 決定要不要跑。寫手、驗收員回報裡有違規（rm、偽裝標頭、跳過檢查、沒搜爭議）就記進 cloud_log 的「問題」，並在 Slack 回報裡列出。
+- 派驗收員前，主管自己先跑 `python3 tools/check_batches.py {Y} <批號們>`，不交給 subagent 決定要不要跑。寫手、驗收員回報裡有違規（rm、偽裝標頭、跳過檢查、沒搜爭議）就記進 cloud_log 的「問題」，並寫進 last_report.txt。
 - 不刪任何檔（subagent 也一樣）；只改 years/y{Y}；不改 bNNN_in.json。
-- 除了結尾那一則 Slack 私訊，不發任何 Slack／Email；不寫 Google、不 force push。
+- 不發任何 Slack／Email 訊息；不寫 Google、不 force push。
