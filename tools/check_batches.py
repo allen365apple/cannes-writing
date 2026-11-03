@@ -8,6 +8,8 @@ import json, os, re, sys, collections, datetime, urllib.request, concurrent.futu
 here = os.path.dirname(os.path.abspath(__file__)); W = here + '/..'
 av = sys.argv[1:]; D = av.pop(av.index('--dir') + 1) if '--dir' in av else None
 if '--dir' in av: av.remove('--dir')
+if not av or av[0] in ('-h', '--help') or not re.fullmatch(r'\d{4}', av[0]) or not all(re.fullmatch(r'b\d{3}', b) for b in av[1:]):
+    sys.exit('用法：python3 tools/check_batches.py <年> <批號> [<批號> …]   例：python3 tools/check_batches.py 2017 b005 b006（瀏覽器標頭已內建，直接跑就好）')
 Y = av[0]; BS = av[1:]; O = D or f'{W}/years/y{Y}'   # --dir：指定別的資料夾（測試用）
 HEAD8 = ['得獎創意案例', '坎城獅子獎', f'坎城獅子獎 {Y}', '坎城', '坎城創意節', 'Cannes Lions', '坎城案例', '坎城廣告獎']
 EFFECT = re.compile(r'[^。\n]*(收聽了|觀看次數|觀看超過|播放超過|點閱|造訪|曝光|分享超過|成長\s*\d|增加了?\s*\d|銷量|市占|萬次|億次|大量報導|媒體報導|拿下|獲得.{0,12}獎|Epica|El Ojo|Eurobest|One Show|D&AD|Clio|Effie|Spikes)[^。\n]*。')

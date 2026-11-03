@@ -20,5 +20,6 @@
 - 最後照排程指示發一則 Slack 私訊回報（對象寫在排程裡，不在本專案）。5 行內：年份、今天寫完／驗完哪些批（幾件）、該年累計幾批／總批數、待決新增幾件、出了什麼問題（沒有就寫「無」）。只發這一則，不發到頻道。
 
 ## 鐵則
+- 派驗收員前，主管自己先跑 `python3 tools/check_batches.py {Y} <批號們>`，不交給 subagent 決定要不要跑。寫手、驗收員回報裡有違規（rm、偽裝標頭、跳過檢查、沒搜爭議）就記進 cloud_log 的「問題」，並在 Slack 回報裡列出。
 - 不刪任何檔（subagent 也一樣）；只改 years/y{Y}；不改 bNNN_in.json。
 - 除了結尾那一則 Slack 私訊，不發任何 Slack／Email；不寫 Google、不 force push。
