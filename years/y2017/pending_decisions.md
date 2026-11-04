@@ -139,7 +139,7 @@
 - 重複候選：無。
 
 ## b045、b047、b048、b049（2026-11-05 雲端第一輪）
-- 重複候選 b047 ltwm-09071 附近 CAR WASH（OMO）：LTW 另有 Online Film「THE OMO CAR WASH」（campaigns/the-omo-car-wash-36261），驗收員判斷同一創意，建議只收一筆。
+- 重複候選 b047 ltwm-09071 CAR WASH（OMO）：LTW 另有 Online Film「THE OMO CAR WASH」（campaigns/the-omo-car-wash-36261），驗收員判斷同一創意，建議只收一筆。
 - 重複候選 b048 ltwm-09084 THE SWIMMER：與 2018 年 Health 類 ZWEMMER 疑為同一支片跨年報名，請決定。
 - b047 ltwm-09069 TOMMY HUGS、ltwm-09070 CLEAN TALK：寫手與驗收員都找不到能打開的內容來源（403／404），暫列不收；有人看過影片可補寫。
 - 仍 uncertain：b047 CAR WASH（缺影片中車子怎麼處理的說明）；b048 THE SWIMMER（09084，缺逐場景說明）。
