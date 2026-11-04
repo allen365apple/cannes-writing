@@ -58,3 +58,6 @@
 - 2026-11-04 14:10 開工：b036 b037 b038 b039 b040 b041 b042
 - 2026-11-04 14:30 收尾：寫完驗完 b036–b042（70 件，全收；Messi, Leave 08988 驗收員建議改不收，decision 沒動）。2017 累計驗完 43／65 批（verified.txt 含 b065）。待決新增 12 件（見 pending_decisions.md；重複候選 0 件，另有 b041 09011 一筆併兩個點子待決定是否拆件；【爭議】0 件）。連不上：lovethework 卡片多半沒內文；Behance、adsspot、AdForum、LBB、The Drum、Design Week、Clios、Luerzer's、La Réclame 等 403／404／503；sites.wpp.com、adnews.com.au、blog.artscase.com 網域解析不到；YouTube、Vimeo 要人機驗證；adsoftheworld 用 curl 回 405（改 WebFetch 可讀）。沒撞到額度。
 - 問題：無違規（沒有 rm、偽裝標頭、weserv；寫手與驗收員都有跑 check_batches.py）。b037 寫手自述沒有人工重讀一句話與讀稿，已交驗收員逐件細讀並改 7 件。開工時本機 main 與 origin 歷史不相連，已改用 origin/main 接續（沒 force push）。
+
+## 2026-11-05 雲端第一輪
+- 2026-11-05 02:10 開工：b043 b044 b045 b046 b047 b048 b049
