@@ -37,7 +37,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片與 D&AD 頁沒有逐張說明，內容依 D&AD 品牌背景、The Stable 的活動說明與官方圖整理。The Stable 稱四張海報，並未明說哪張是 EXIT；讀稿只描述圖上看得到的畫面。搜尋摘要未寫入。已搜【爭議】，未發現造假、抄襲或撤獎指控。"
+  "note": "官方卡片與 D&AD 頁沒有逐張說明，內容依 D&AD 品牌背景、The Stable 的活動說明與官方圖整理。The Stable 稱四張海報，並未明說哪張是 EXIT；讀稿只描述圖上看得到的畫面。搜尋摘要未寫入。已搜【爭議】，未發現造假、抄襲或撤獎指控。 2026-11-04 Opus 驗：The Stable 原文核對：1995 年在倫敦創立、四張海報、法國插畫家 Thomas Danthony、做成限量版畫讓酒吧老闆自願張貼，都對得上；該連結驗收時可開（200），程式報的 503 為暫時性。"
  },
  {
   "id": "ltwm-08976",
@@ -109,7 +109,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "米其林在美國做平面廣告：雨天的山路彎道上，一輛旅行車駛過，路邊伸出米其林寶寶線條畫的手臂，像在帶著車過彎",
+  "idea_one_liner": "米其林在美國的平面廣告：雨天山路彎道上一輛旅行車駛過，路外側伸出米其林寶寶的線條手臂，手掌朝向車子",
   "brand_display": "米其林輪胎",
   "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜平面與出版類銅獅 Print & Publishing Bronze Lion｜代理商：TBWA\\CHIAT\\DAY NEW YORK\n\n【點子】官方案例圖看得到的畫面：一輛銀灰色旅行車在濕滑的山路彎道上行駛，畫面是動態模糊的黑白灰色調；路的外側，用白色黑線畫出的米其林寶寶（Michelin Man）手臂與手掌，沿著彎道伸向車子的方向。\n\n【執行】這是 TBWA\\Chiat\\Day New York 為 Michelin 做的平面廣告，攝影師為 Theo Allen，後製由 Gloss 負責，創意團隊由 Chris Garbutt、Erik Vervroegen 等人領軍。Lions 官方頁把這件列為「The Safe Embrace」平面系列的一部分。官方頁與 Ads of the World 都沒有文案說明，也沒有標語文字，所以背景、洞察與意圖不寫。\n\n資料來源：\nhttps://www.adsoftheworld.com/media/print/michelin_michelin_safety_curved_road\nhttps://www.lovethework.com/en/work/entries/curved-road-4593\nhttps://ascentialcdn.filespin.io/api/v1/conversion/347c5a476742400f94360a9beefd8599",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 平面與出版類銅獅, Print & Publishing Bronze Lion, Michelin, 米其林, 輪胎, Tyre, 汽車, Automotive, TBWA\\Chiat\\Day New York, TBWA, 美國, United States, 平面廣告, 米其林寶寶, Michelin Man, Bibendum, 手繪線條, 合成, 攝影, Photography, 彎道, Curved Road, 雨天, 濕滑路面, 旅行車, 山路, The Safe Embrace",
@@ -124,7 +124,8 @@
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": false,
-  "note": "缺文字來源：官方卡片與 Ads of the World 只有基本資料與團隊名單，沒有文案或說明，讀稿只描述圖上看得到的畫面，不寫意圖與背景。Lions 頁寫這件屬 The Safe Embrace 系列，但系列內容沒打開過。搜尋摘要未寫入。已搜【爭議】，無。"
+  "note": "缺文字來源：官方卡片與 Ads of the World 只有基本資料與團隊名單，沒有文案或說明，讀稿只描述圖上看得到的畫面，不寫意圖與背景。Lions 頁寫這件屬 The Safe Embrace 系列，但系列內容沒打開過。搜尋摘要未寫入。已搜【爭議】，無。 2026-11-04 Opus 驗：一句話刪掉「像在帶著車過彎」（看圖推測的意圖）。仍缺文字來源，維持 uncertain。",
+  "idea_one_liner_r0": "米其林在美國做平面廣告：雨天的山路彎道上，一輛旅行車駛過，路邊伸出米其林寶寶線條畫的手臂，像在帶著車過彎"
  },
  {
   "id": "ltwm-08978",
@@ -150,20 +151,21 @@
   "awards_unverified": [],
   "idea_one_liner": "雷諾電動小車 Twizy 做平面廣告：電池圖示裡站著幾個綠色 3D 人物填滿電量，一格空著，標語說煞車一次就為電池充電",
   "brand_display": "雷諾 Renault Twizy",
-  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜平面與出版類銅獅 Print & Publishing Bronze Lion｜代理商：MARCEL, Mexico City\n\n【點子】官方案例圖看得到的畫面：米白底色上，一個黑色線條的電池圖示，裡面站著三個綠色的 3D 卡通人物，每個人被塑成電量格的長條形：講電話、牽著小狗的女子；背著大背包、拿著地圖的旅人；撐著傘遮住臉的人；右邊還留著一格空位。右下角是 Twizy 與 Renault 標誌，文案寫著「The electric Twizy with regenerative brakes, recharges its battery every time you use them.」（Twizy 電動車的再生煞車，每次使用都會為電池充電）。\n\n【執行】Marcel Mexico 為 Renault Twizy 做這組平面廣告，參賽共兩張（Battery 1、Battery 2），官方只打開過其中一張的圖。作者作品集頁只有這句文案和兩張圖，沒有更多說明，所以圖中人物與「電量格」之間的設計意圖，只寫畫面看得到的部分。\n\n資料來源：\nhttps://cargocollective.com/leovarelaportfolio/Battery\nhttps://www.lovethework.com/en/work/entries/battery-2-4150\nhttps://ascentialcdn.filespin.io/api/v1/conversion/ca07181bf4b74125a6a52f72b08c8db0",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 平面與出版類銅獅, Print & Publishing Bronze Lion, Renault, 雷諾, Twizy, 電動車, Electric Vehicle, 再生煞車, Regenerative Brakes, 充電, 電池, Battery, Marcel Mexico, Marcel, 墨西哥, Mexico, 平面廣告, 3D 插畫, CGI, 插畫, Illustration, 電池圖示, 綠色, 行人, 小狗, 地圖, 雨傘",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜平面與出版類銅獅 Print & Publishing Bronze Lion｜代理商：MARCEL, Mexico City\n\n【點子】官方案例圖看得到的畫面：米白底色上，一個黑色線條的電池圖示，裡面站著三個綠色的 3D 卡通人物，每個人被塑成電量格的長條形：講電話、牽著小狗的女子；背著大背包、拿著地圖的旅人；撐著傘遮住臉的人；右邊還留著一格空位。右下角是 Twizy 與 Renault 標誌，文案寫著「The electric Twizy with regenerative brakes, recharges its battery every time you use them.」（Twizy 電動車的再生煞車，每次使用都會為電池充電）。\n\n【執行】Marcel Mexico 為 Renault Twizy 做這組平面廣告，參賽共兩張（Battery 1、Battery 2），兩張構圖相同。Battery 1 的電池圖示裡也是三個綠色 3D 人物：拄著四腳拐杖的老太太、騎機車且後座載著披薩外送箱的騎士、一手抱著嬰兒一手提購物袋的男人，右邊同樣留著一格空位，右下角是 Twizy 車身、Renault 標誌與同一句文案。作者作品集頁只有這句文案和兩張圖，沒有更多說明，所以圖中人物與「電量格」之間的設計意圖，只寫畫面看得到的部分。\n\n資料來源：\nhttps://cargocollective.com/leovarelaportfolio/Battery\nhttps://www.lovethework.com/en/work/entries/battery-2-4150\nhttps://ascentialcdn.filespin.io/api/v1/conversion/ca07181bf4b74125a6a52f72b08c8db0\nhttps://www.lovethework.com/en/work/entries/battery-1-4161",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 平面與出版類銅獅, Print & Publishing Bronze Lion, Renault, 雷諾, Twizy, 電動車, Electric Vehicle, 再生煞車, Regenerative Brakes, 充電, 電池, Battery, Marcel Mexico, Marcel, 墨西哥, Mexico, 平面廣告, 3D 插畫, CGI, 插畫, Illustration, 電池圖示, 綠色, 行人, 小狗, 地圖, 雨傘, 外送, 嬰兒, 老人",
   "category": "行銷案例",
   "references": [
    "https://cargocollective.com/leovarelaportfolio/Battery",
    "https://www.lovethework.com/en/work/entries/battery-2-4150",
-   "https://ascentialcdn.filespin.io/api/v1/conversion/ca07181bf4b74125a6a52f72b08c8db0"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/ca07181bf4b74125a6a52f72b08c8db0",
+   "https://www.lovethework.com/en/work/entries/battery-1-4161"
   ],
   "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/ca07181bf4b74125a6a52f72b08c8db0",
   "image_shows": "官方案例圖：電池圖示內有三個綠色 3D 卡通人物（講電話的女子與小狗、拿地圖的旅人、撐傘的人）和一格空位，右下角是 Twizy 與文案",
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": false,
-  "note": "缺文字來源：只有作品集頁的文案和官方圖，沒有解說，所以不寫圖中人物如何對應電量的意圖；官方卡片只有基本資料。參賽作品 Battery 1 的圖沒看到。搜尋摘要未寫入。已搜【爭議】，無。"
+  "note": "缺文字來源：只有作品集頁的文案和官方圖，沒有解說，所以不寫圖中人物如何對應電量的意圖；官方卡片只有基本資料。參賽作品 Battery 1 的圖沒看到。搜尋摘要未寫入。已搜【爭議】，無。 2026-11-04 Opus 驗：補看官方 Battery 1 圖，讀稿補上畫面；仍缺解說文字，維持 uncertain。"
  },
  {
   "id": "ltwm-08979",
@@ -187,7 +189,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "挪威 DNB 銀行請作家 Erlend Loe，用保險條款原文的所有字母，改寫成一篇有隻發情狗的短篇小說",
+  "idea_one_liner": "挪威 DNB 銀行保證別家有保它就保，條款不必讀，於是請作家 Erlend Loe 用條款的所有字母改寫成短篇小說",
   "brand_display": "DNB 挪威銀行保險",
   "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜平面與出版類銅獅 Print & Publishing Bronze Lion｜代理商：TRY, Oslo\n\n【背景】DNB 的保險有「保障保證」：只要別家保險有保，DNB 就保。這表示客戶不必去讀又長又無聊的法律條款。\n\n【點子】為了把「條款不用讀」誇張地說出來，DNB 把整份保險條款寄給挪威最有名的作家之一 Erlend Loe，要他用條款裡完全相同的字母寫一篇短篇小說。\n\n【執行】Loe 用掉原文每一個字母與數字，一個不多，改寫成一篇關於愛、孤獨、脆弱，以及一隻發情的狗 Virlaval 的故事（書名 Kåte Virlaval，英文標為 Horny Virlaval，副標「The Unboring insurance text」）。官方案例板上看得到：一本灰色封面、印著狗的墨點畫像的精裝書，翻開的內頁文字缺了很多字母；右邊是原本的 DNB 條款頁，許多字母被拿掉、只剩零散的字。\n\n資料來源：\nhttps://ascentialcdn.filespin.io/api/v1/conversion/6070c0e49dab4bccbcf11e32cae8bf89\nhttps://www.lovethework.com/en/work/entries/horny-virlaval-3106",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 平面與出版類銅獅, Print & Publishing Bronze Lion, DNB, DNB 銀行, 挪威, Norway, 保險, Insurance, 金融, TRY, TRY Oslo, 短篇小說, Short Story, 書, Book, 出版品, Publishing, 保險條款, Legal Text, 字母重組, Anagram, Erlend Loe, 作家合作, 狗, Dog, 精裝書, 文字遊戲, 幽默",
@@ -201,7 +203,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片沒有內文，依官方案例板上的文字整理（板上另有成果數字，未寫入）。「Kåte」為挪威文「發情」，板上標題為 Horny Virlaval，讀稿保留。搜尋摘要未寫入。已搜【爭議】，無。"
+  "note": "官方卡片沒有內文，依官方案例板上的文字整理（板上另有成果數字，未寫入）。「Kåte」為挪威文「發情」，板上標題為 Horny Virlaval，讀稿保留。搜尋摘要未寫入。已搜【爭議】，無。 2026-11-04 Opus 驗：一句話補上「條款不必讀」的保證，讓點子的理由先出現。",
+  "idea_one_liner_r0": "挪威 DNB 銀行請作家 Erlend Loe，用保險條款原文的所有字母，改寫成一篇有隻發情狗的短篇小說"
  },
  {
   "id": "ltwm-08980",
@@ -302,7 +305,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "巴西瓜拿納汽水 Guaraná Antarctica 為 95 週年，請 20 位藝術家手工做 250 本書",
+  "idea_one_liner": "巴西瓜拿納汽水 Guaraná Antarctica 為紀念 95 年的手工採收傳統，請 20 位藝術家全手工做出 250 本書",
   "brand_display": "Guaraná Antarctica 瓜拿納汽水",
   "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜平面與出版類銅獅 Print & Publishing Bronze Lion｜代理商：F/NAZCA SAATCHI & SAATCHI, São Paulo\n\n【背景】每年十月，亞馬遜的 Maués 都有成百雙手一起採收瓜拿納。品牌 Guaraná Antarctica 為了紀念這項傳統已有 95 年，決定把它收進一本書。\n\n【點子】書的名字是 The Book of Wara'ná（《Wara'ná 之書》），做法呼應採收：全部手工完成，就像採收一樣，一向由 Sateré-Mawé 族人用手完成。\n\n【執行】封面、裝訂、插畫都由 20 位藝術家手工製作，一共 250 本。內容全用詩句寫成；頁面用從亞馬遜直接運來的黏土印刷，用了麻布袋，連瓜拿納的氣味也放了進去。官方案例板上看得到：木頭封面印著瓜拿納果實標誌；紅綠黑色的版畫風插畫，有舉手的原住民、閃電、紅色大蛇；內頁有「Anatomia do Guaraná」（瓜拿納解剖）、「História」（歷史）等跨頁，另有一張「Bilhete de Excursão」船票。葡萄牙文報導補充：書分四個分冊，用輕鬆又視覺的方式說瓜拿納的果實、亞馬遜、Maués 族與種植者的故事。\n\n資料來源：\nhttps://ascentialcdn.filespin.io/api/v1/conversion/d5d026318ba540a3b2138cac04d4198e\nhttps://grandesnomesdapropaganda.com.br/?p=45854\nhttps://www.lovethework.com/en/work/entries/the-book-of-waran-3787",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 平面與出版類銅獅, Print & Publishing Bronze Lion, Ambev, Guaraná Antarctica, 瓜拿納, Guarana, 汽水, 飲料, Soft Drink, 巴西, Brazil, F/Nazca Saatchi & Saatchi, F/Nazca, 書, Book, 手工書, Handmade Book, 限量版, 插畫, Illustration, 版畫, 亞馬遜, Amazon, Maués, Sateré-Mawé, 原住民, 黏土, Clay, 麻布, 詩, 95 週年, 木頭封面",
@@ -317,7 +320,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片沒有內文，依官方案例板與葡萄牙文報導整理。案例板寫 20 位藝術家、250 本；葡文報導說分四個分冊，兩者不衝突但未對照。saatchi.com 頁轉址，未讀到內容。搜尋摘要未寫入。已搜【爭議】，無。"
+  "note": "官方卡片沒有內文，依官方案例板與葡萄牙文報導整理。案例板寫 20 位藝術家、250 本；葡文報導說分四個分冊，兩者不衝突但未對照。saatchi.com 頁轉址，未讀到內容。搜尋摘要未寫入。已搜【爭議】，無。 2026-11-04 Opus 驗：一句話補上為什麼要手工做書（呼應手工採收）。",
+  "idea_one_liner_r0": "巴西瓜拿納汽水 Guaraná Antarctica 為 95 週年，請 20 位藝術家手工做 250 本書"
  },
  {
   "id": "ltwm-08983",
@@ -342,10 +346,10 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "聖保羅 Santa Casa 的器官捐贈平面廣告：滿地依顏色排好的玩具車中，收藏家笑著盤腿坐著，標語叫人捐出最珍貴的東西",
+  "idea_one_liner": "聖保羅 Santa Casa 的器官捐贈廣告，拍一個人笑著坐在房間中央，四周擺滿玩具車或食物模型，標語叫人捐出最珍貴的東西",
   "brand_display": "聖保羅 Santa Casa",
-  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜平面與出版類銅獅 Print & Publishing Bronze Lion｜代理商：Y&R BRAZIL, São Paulo\n\n【點子】官方案例圖看得到的畫面：一位留八字鬍的男人笑著盤腿坐在地板中央，雙手各托著一台橘色玩具車；他周圍與後方的玻璃櫃，滿滿都是依顏色排成橫列的玩具車（黃、紅、白、橘、藍等）。右下角白底方塊寫著「Donate your most precious thing. Donate your organs.」（捐出你最珍貴的東西，捐出你的器官），並有 Santa Casa de São Paulo 的標誌。\n\n【執行】這件參賽作品是 Y&R Brazil 為 Santa Casa de Misericórdia de São Paulo 做的平面攝影系列，共兩張，作品名為 TOY CARS 與 FOOD。官方卡片只列出作品名、獎項與團隊，沒有文案說明；FOOD 那張的圖沒有打開，所以讀稿只寫 TOY CARS 看得到的畫面，不寫系列的完整做法與意圖。\n\n資料來源：\nhttps://ascentialcdn.filespin.io/api/v1/conversion/d9645aef3d9144379ae6b88c77248af9\nhttps://www.lovethework.com/en/work/entries/toy-cars-4405\nhttps://www.lovethework.com/en/work/entries/food-4378",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 平面與出版類銅獅, Print & Publishing Bronze Lion, Santa Casa, Santa Casa de Misericórdia de São Paulo, 聖保羅, São Paulo, 巴西, Brazil, Y&R, Y&R Brazil, 器官捐贈, Organ Donation, 公益, 非營利, 平面廣告, 攝影, Photography, 玩具車, Toy Cars, 收藏家, 收藏, 食物, Food, 彩虹排列, 八字鬍, 標語",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜平面與出版類銅獅 Print & Publishing Bronze Lion｜代理商：Y&R BRAZIL, São Paulo\n\n【點子】官方案例圖看得到的畫面：一位留八字鬍的男人笑著盤腿坐在地板中央，雙手各托著一台橘色玩具車；他周圍與後方的玻璃櫃，滿滿都是依顏色排成橫列的玩具車（黃、紅、白、橘、藍等）。右下角白底方塊寫著「Donate your most precious thing. Donate your organs.」（捐出你最珍貴的東西，捐出你的器官），並有 Santa Casa de São Paulo 的標誌。\n\n【執行】這件參賽作品是 Y&R Brazil 為 Santa Casa de Misericórdia de São Paulo 做的平面攝影系列，共兩張，作品名為 TOY CARS 與 FOOD。官方卡片只列出作品名、獎項與團隊，沒有文案說明；FOOD 那張同樣構圖：一位戴蛋糕造型帽的女子笑著坐在房間中央，手上托著一盤甜點，四周牆面、玻璃櫃與地板擺滿看起來像食物模型的披薩、壽司、蛋糕、麵包與各式餐點，右下角是同樣的標語與 Santa Casa 標誌。官方沒有說明兩張的拍攝手法與意圖，讀稿只寫看得到的畫面。\n\n資料來源：\nhttps://ascentialcdn.filespin.io/api/v1/conversion/d9645aef3d9144379ae6b88c77248af9\nhttps://www.lovethework.com/en/work/entries/toy-cars-4405\nhttps://www.lovethework.com/en/work/entries/food-4378",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 平面與出版類銅獅, Print & Publishing Bronze Lion, Santa Casa, Santa Casa de Misericórdia de São Paulo, 聖保羅, São Paulo, 巴西, Brazil, Y&R, Y&R Brazil, 器官捐贈, Organ Donation, 公益, 非營利, 平面廣告, 攝影, Photography, 玩具車, Toy Cars, 收藏家, 收藏, 食物, Food, 彩虹排列, 八字鬍, 標語, 食物模型",
   "category": "行銷案例",
   "references": [
    "https://ascentialcdn.filespin.io/api/v1/conversion/d9645aef3d9144379ae6b88c77248af9",
@@ -357,7 +361,8 @@
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": false,
-  "note": "缺文字來源：官方卡片只有作品名與獎項，沒有說明；只打開 TOY CARS 的官方圖，FOOD 的圖沒看到。FOOD 與 TOY CARS 算同一件（官方報名為一筆）。兩張的拍攝手法、為何選收藏者無來源，未寫。搜尋摘要未寫入。已搜【爭議】，無。"
+  "note": "缺文字來源：官方卡片只有作品名與獎項，沒有說明；只打開 TOY CARS 的官方圖，FOOD 的圖沒看到。FOOD 與 TOY CARS 算同一件（官方報名為一筆）。兩張的拍攝手法、為何選收藏者無來源，未寫。搜尋摘要未寫入。已搜【爭議】，無。 2026-11-04 Opus 驗：補看官方 FOOD 圖，讀稿補上畫面，一句話改寫（拿掉沒有來源的「收藏家」）；仍缺文字來源，維持 uncertain。",
+  "idea_one_liner_r0": "聖保羅 Santa Casa 的器官捐贈平面廣告：滿地依顏色排好的玩具車中，收藏家笑著盤腿坐著，標語叫人捐出最珍貴的東西"
  },
  {
   "id": "ltwm-08984",
@@ -383,19 +388,20 @@
   "awards_unverified": [],
   "idea_one_liner": "阿聯酋 TathQeef 訪問八位女性，把她們的語錄，用阿拉伯書法排成面紗形狀，做成海報",
   "brand_display": "阿聯酋 TathQeef",
-  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜平面與出版類銅獅 Print & Publishing Bronze Lion｜代理商：GREY DUBAI\n\n【背景】Veils of Pride（面紗的驕傲）由 TathQeef 與 Grey Dubai 為埃米拉特女性節（Emirati Women's Day）製作，想把面紗呈現成自信與企圖心的象徵，而不是限制。\n\n【點子】TathQeef 訪問八位有成就的女性，聽她們的成功故事與抱負，再把這些話寫成海報。\n\n【執行】藝術家 Maher Abu Al Hasan（署名 Maher A. Housn）用阿拉伯書法把語錄排成面紗的形狀，做成一系列海報；網站另有互動的海報產生器，讓訪客自己設計書法。這件參賽作品用三位女性的名字當作品名：FATIMA、MOUZA、SHAIKHA。官方案例圖是 Fatima 那張：白底上，黑色阿拉伯書法的筆畫圍成側面頭巾的輪廓；左下角印著英文「Nothing can stop women from succeeding.」（沒有什麼能阻止女性成功）、Fatima Al Kaabi、最年輕的阿拉伯創新者（Youngest Arab Innovator）與網址 veilsofpride.com，右上角是 TathQeef 標誌。MOUZA、SHAIKHA 兩張沒有打開過。\n\n資料來源：\nhttps://ascentialcdn.filespin.io/api/v1/conversion/f05d724476db4323b2f8f040eed3c65f\nhttps://arabianmarketer.ae/?p=11262\nhttps://www.lovethework.com/en/work/entries/fatima-3392",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜平面與出版類銅獅 Print & Publishing Bronze Lion｜代理商：GREY DUBAI\n\n【背景】Veils of Pride（面紗的驕傲）由 TathQeef 與 Grey Dubai 為埃米拉特女性節（Emirati Women's Day）製作，想把面紗呈現成自信與企圖心的象徵，而不是限制。\n\n【點子】TathQeef 訪問八位有成就的女性，聽她們的成功故事與抱負，再把這些話寫成海報。\n\n【執行】藝術家 Maher Abu Al Hasan（署名 Maher A. Housn）用阿拉伯書法把語錄排成面紗的形狀，做成一系列海報；網站另有互動的海報產生器，讓訪客自己設計書法。這件參賽作品用三位女性的名字當作品名：FATIMA、MOUZA、SHAIKHA。官方案例圖是 Fatima 那張：白底上，黑色阿拉伯書法的筆畫圍成側面頭巾的輪廓；左下角印著英文「Nothing can stop women from succeeding.」（沒有什麼能阻止女性成功）、Fatima Al Kaabi、最年輕的阿拉伯創新者（Youngest Arab Innovator）與網址 veilsofpride.com，右上角是 TathQeef 標誌。SHAIKHA 那張同樣是白底黑色書法排成的頭巾輪廓，左下角寫「There's a world of potential inside every one of us.」（我們每個人心中都有無限潛能）、Dr. Shaikha Salem 與環境學者（Environmentalist）。MOUZA 的官方圖是整組作品的縮圖板，尺寸太小，看不清文字。\n\n資料來源：\nhttps://ascentialcdn.filespin.io/api/v1/conversion/f05d724476db4323b2f8f040eed3c65f\nhttps://arabianmarketer.ae/?p=11262\nhttps://www.lovethework.com/en/work/entries/fatima-3392\nhttps://www.lovethework.com/en/work/entries/shaikha-3462",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 平面與出版類銅獅, Print & Publishing Bronze Lion, TathQeef, Tathqeef, 阿聯酋, UAE, 杜拜, Dubai, Grey Dubai, Grey, 書法, Calligraphy, 阿拉伯書法, Arabic Calligraphy, 字體設計, Typography, 面紗, Veil, 頭巾, Hijab, 女性, Women, 女性賦權, Women Empowerment, 埃米拉特女性節, Emirati Women's Day, 海報, Poster, 平面廣告, 語錄, Fatima Al Kaabi, Maher Housn, 黑白, 互動網站",
   "category": "行銷案例",
   "references": [
    "https://ascentialcdn.filespin.io/api/v1/conversion/f05d724476db4323b2f8f040eed3c65f",
    "https://arabianmarketer.ae/?p=11262",
-   "https://www.lovethework.com/en/work/entries/fatima-3392"
+   "https://www.lovethework.com/en/work/entries/fatima-3392",
+   "https://www.lovethework.com/en/work/entries/shaikha-3462"
   ],
   "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/f05d724476db4323b2f8f040eed3c65f",
   "image_shows": "官方案例圖：白底上黑色阿拉伯書法筆畫組成側面頭巾輪廓，左下角有英文語錄、Fatima Al Kaabi 與 veilsofpride.com，右上角是 TathQeef 標誌",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片沒有內文，依 Arabian Marketer 報導與官方圖整理。官方圖只有 FATIMA 那張，MOUZA、SHAIKHA 沒打開。搜尋摘要（書法繡在面紗上、賣出件數）未打開原頁，未寫入。已搜【爭議】，無。"
+  "note": "官方卡片沒有內文，依 Arabian Marketer 報導與官方圖整理。官方圖只有 FATIMA 那張，MOUZA、SHAIKHA 沒打開。搜尋摘要（書法繡在面紗上、賣出件數）未打開原頁，未寫入。已搜【爭議】，無。 2026-11-04 Opus 驗：補看官方 SHAIKHA 圖並補上；MOUZA 官方圖是小縮圖看不清。Arabian Marketer 原文核對過：八位女性、Maher Abu Al Hasan、互動海報產生器都對得上。"
  }
 ]

@@ -105,3 +105,12 @@
 - 官方報名含多支作品，補內容時注意：b033 AIS（MOM OR GIRLFRIEND、SON OR FATHER）、Jovem Pan（EYES、HEART）、Sky（FREE COFFEE MUG、FREE HOODIE）；b034 ltwm-08935 VW 三支只寫 Berlin 版與共通結構。
 - 圖：b033、b034、b035 多件沒圖（廣播類候選只有通用音訊 SVG），image_url 留空。
 - 【爭議】候選：無。
+
+## b036、b037、b038、b039（2026-11-04 雲端第二輪）
+- b039 ltwm-08988 MESSI, LEAVE：寫手與驗收員都只找得到作品名、代理商、品牌，連點子都查不到，建議改不收（decision 沒動，請維護者決定）。
+- b037 ltwm-08970 MELANOMA MONSTERS：官方報名作品名是 ALIEN（對醫療專業人員的影片）；驗收員判斷官方圖與海報是同一隻怪物、屬同一活動，不算寫錯支，但影片沒看到，仍 uncertain。
+- b037 ltwm-08966 Moleskine：in 標題含 THOR，官方名單只有 HULK、SPIDERMAN，稿只寫兩張。
+- b037 ltwm-08973 Snickers：in 檔品牌欄寫 SNICKER（筆誤），圖用設計師作品集 allisonbakercreative.com（非官方 case board），驗收員判斷可用，請確認。
+- 仍 uncertain：b036 FACEKINI（08955）、FEED THE GOOD（08956）、PEYOTE/AYAHUASCA/CARAMBOLA（08962）、VODAFONE SORRY（08964），都缺文字來源；b037 JOKE, DRINK（08965）、TEQUILA/GIN/VODKA（08969）、MELANOMA MONSTERS（08970）、#MYNEOLABEL（08972）；b038 CURVED ROAD（08977，缺 The Safe Embrace 系列說明）、RENAULT: BATTERY（08978，缺說明）、TOY CARS // FOOD（08983，缺說明）；b039 廣播 5 件缺腳本或音檔：MESSI, LEAVE（08988）、DARWIN/EINSTEIN/MOZART（08990）、PENGUIN CLASSICS RADIO（08992）、GYM BOY（08993）、VIRGIN MOJITO（08994）。
+- 圖：b039 五件廣播沒圖（候選只有通用音訊 SVG），image_url 留空。
+- 重複候選：無。【爭議】候選：無。
