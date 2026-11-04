@@ -31,12 +31,12 @@
    "https://www.warc.com/content/article/warc-awards/fundacion-banco-de-bosques-ecoalarm/en-gb/125557",
    "https://www.adsoftheworld.com/campaigns/ecoalarm"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://i.ytimg.com/vi/Y7ttPiGrCRs/hqdefault.jpg",
+  "image_shows": "基金會官方 YouTube 影片縮圖：夜裡一名年輕男子躺在床上睡覺，床頭櫃上的手機亮著鬧鐘 App 畫面",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片沒有內文，點子依 WARC 簡介、阿根廷媒體 Unidiversidad 與 Ads of the World 整理。官方 case board 只有分鏡格且畫面是推土機的新聞畫面（看不出點子），三格都試過，故 image_url 留空，需另找圖。搜尋基金會與作品未發現造假、抄襲、撤獎指控。Spotify 認證基金會為藝人等說法只出現在代理商報名資料，未寫入。"
+  "note": "官方卡片沒有內文，點子依 WARC 簡介、阿根廷媒體 Unidiversidad 與 Ads of the World 整理。官方 case board 只有分鏡格且畫面是推土機的新聞畫面（看不出點子），三格都試過，故 image_url 留空，需另找圖。搜尋基金會與作品未發現造假、抄襲、撤獎指控。Spotify 認證基金會為藝人等說法只出現在代理商報名資料，未寫入。 2026-11-04 Opus 驗：補圖：基金會官方 YouTube 頻道（Banco de Bosques）影片 hqdefault 縮圖（maxres 404），看得到睡覺的人與床頭亮著的手機鬧鐘。"
  },
  {
   "id": "ltwm-09048",
@@ -98,7 +98,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "UNICEF 拍分割畫面短片，92 歲二戰難民哈利與 12 歲敘利亞難民艾哈邁德，輪流講述各自逃難的經過",
+  "idea_one_liner": "UNICEF 拍分割畫面短片，左右兩半分別是 92 歲二戰難民與 12 歲敘利亞難民，兩人輪流講出幾乎一樣的逃難經歷",
   "brand_display": "聯合國兒童基金會 UNICEF",
   "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：180 AMSTERDAM, Amsterdam\n\n【背景】案例板寫到，2017 年 1 月 27 日美國總統川普簽署行政命令，禁止難民入境，數百萬兒童的命運懸在半空，當時被稱為二戰以來最嚴重的人道危機。UNICEF 想在這時喚起全球對難民兒童的支持。\n\n【點子】把今天的敘利亞兒童難民，和二戰時的兒童難民放在一起，讓觀眾發現兩段相隔 70 多年的經歷驚人地相似，提醒人們人類最大的錯誤之一正在重演。\n\n【執行】180 Amsterdam 為 UNICEF 製作這支約 120 秒的短片，導演是 Smuggler 的 Joshua Neale。片中是兩位真實的難民：來自柏林、92 歲的哈利，與來自大馬士革、12 歲的艾哈邁德。畫面分成左右兩半，兩人交替說話，說的是學校與家被攻擊、在恐懼中逃命，以及走陸路與海路的危險旅程，兩人的話串成一段完整的獨白。畫面也穿插敘利亞難民的影像和二戰時期的歷史影像。案例板上的畫面是黑白，兩人各坐一張椅子並排，旁邊分別標著「敘利亞兒童難民」與「二戰兒童難民」。片尾交代兩人的去向：哈利在英國落腳，一直住到現在；艾哈邁德抵達瑞典，與家人團聚並重返學校。\n\n資料來源：\nhttps://shots.net/news/view/92242-unicef-the-shared-story-of-harry-and-ahmed\nhttps://www.unicef.org/eca/press-releases/two-refugees-generations-apart-film",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 銅獅, Bronze Lion, 社群影片, Social Video, UNICEF, 聯合國兒童基金會, 兒童基金會, 180 Amsterdam, 180, 非營利組織, 公益, 慈善, 難民, 難民兒童, Refugee, 敘利亞, Syria, 二戰, WWII, 世界大戰, 歷史對照, 對比, 分割畫面, Split Screen, 獨白, 真人故事, 紀錄片風格, 短片, 影片, 社群媒體, 社群, 黑白, 荷蘭, Netherlands, 同理心, 感人, 椅子",
@@ -112,7 +112,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片沒有內文，依 Shots 與 UNICEF 歐洲中亞辦公室新聞稿、案例板整理。案例板的觀看／分享數字、名人轉發屬成效，未寫入。搜尋未發現造假、抄襲、撤獎指控；只有讀者留言批評，不算【爭議】。"
+  "note": "官方卡片沒有內文，依 Shots 與 UNICEF 歐洲中亞辦公室新聞稿、案例板整理。案例板的觀看／分享數字、名人轉發屬成效，未寫入。搜尋未發現造假、抄襲、撤獎指控；只有讀者留言批評，不算【爭議】。 2026-11-04 Opus 驗：一句話改寫（原句逗號把主詞與動作拆開）。",
+  "idea_one_liner_r0": "UNICEF 拍分割畫面短片，92 歲二戰難民哈利與 12 歲敘利亞難民艾哈邁德，輪流講述各自逃難的經過"
  },
  {
   "id": "ltwm-09050",
@@ -136,21 +137,24 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "百加得在 Instagram 限時動態放一組雙唱盤，粉絲點畫面上的百加得按鈕，就能自己搓碟播放音樂",
+  "idea_one_liner": "蘭姆酒品牌百加得把 Instagram 限時動態做成一組雙唱盤，粉絲用拇指點畫面左右兩個按鈕，就能自己搓碟混音",
   "brand_display": "百加得 Bacardi",
-  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：BBDO NEW YORK\n\n【背景】百加得與 BBDO New York 和嘻哈音樂人 Swizz Beatz 合作。Chief Marketer 把這支作品放在酒類品牌愛用最新行銷技術與音樂來接觸社群受眾的脈絡裡。\n\n【點子】把 Instagram 限時動態，變成一台人人都能操作的 DJ 設備。\n\n【執行】粉絲在百加得的限時動態裡會看到一組「雙唱盤」的 DJ 設備，點按畫面上印有百加得標誌的按鈕，就能自己搓碟、播放聲音。這則限時動態出現在追蹤者的首頁上，限時 24 小時，並同步分享到百加得其他社群頻道，這些頻道合計約有近 1,000 萬粉絲。Ads of the World 列出的製作名單包括：配樂由 Tonefarmer 製作，DJay Jung 與 DJ Esquire 負責搓碟，BBDO Studios 負責製作，Richard Peete 擔任導演。案例板圖片可以看到一隻手拿著手機，螢幕上是兩個唱盤。\n\n資料來源：\nhttps://chiefmarketer.com/bacardi-taps-instagram-stories-for-dj-experience\nhttps://www.adsoftheworld.com/campaigns/instant-dj",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：BBDO NEW YORK\n\n【背景】百加得與 BBDO New York 和嘻哈音樂人 Swizz Beatz 合作。Chief Marketer 把這支作品放在酒類品牌愛用最新行銷技術與音樂來接觸社群受眾的脈絡裡。\n\n【點子】把 Instagram 限時動態，變成一台人人都能操作的 DJ 設備。WERSM 指出，限時動態本來就能點按跳到下一段、或退回上一段，BBDO 就是利用這個功能「駭」進限時動態，把百加得的帳號變成一個 DJ App。\n\n【執行】Adweek 形容這是一個 DJ 模擬器：全螢幕的視角，讓使用者像是低頭看著一組雙唱盤的 DJ 台；第一格畫面先教觀眾怎麼點按一對按鈕，用拇指操控聲音。這則限時動態出現在追蹤者的首頁上，限時 24 小時，並同步分享到百加得其他社群頻道，這些頻道合計約有近 1,000 萬粉絲。Ads of the World 列出的製作名單包括：配樂由 Tonefarmer 製作，DJay Jung 與 DJ Esquire 負責搓碟，BBDO Studios 負責製作，Richard Peete 擔任導演。案例板圖片可以看到一隻手拿著手機，螢幕上是兩個唱盤。\n\n資料來源：\nhttps://chiefmarketer.com/bacardi-taps-instagram-stories-for-dj-experience\nhttps://www.adsoftheworld.com/campaigns/instant-dj\nhttps://www.adweek.com/?p=175058\nhttps://wersm.com/bacardi-usa-built-the-worlds-first-instagram-dj-app",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 銅獅, Bronze Lion, 互動影片, Interactive Video, Bacardi, 百加得, 蘭姆酒, 酒類, 烈酒, Rum, BBDO New York, BBDO, Instagram, Instagram Stories, 限時動態, 社群, 社群媒體, 平台功能改造, 平台駭客, Hack, DJ, DJ 模擬器, 唱盤, 搓碟, 音樂, 互動, 互動體驗, Swizz Beatz, 嘻哈, Tonefarmer, 手機, 美國, United States, 派對, 夜生活",
   "category": "行銷案例",
   "references": [
    "https://chiefmarketer.com/bacardi-taps-instagram-stories-for-dj-experience",
-   "https://www.adsoftheworld.com/campaigns/instant-dj"
+   "https://www.adsoftheworld.com/campaigns/instant-dj",
+   "https://www.adweek.com/?p=175058",
+   "https://wersm.com/bacardi-usa-built-the-worlds-first-instagram-dj-app"
   ],
   "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/147cef7bb9694e2a9fa97127fec0338f",
   "image_shows": "官方案例圖板（解析度很低，只有 254×180）：一隻手拿著手機，螢幕上是兩個 DJ 唱盤，旁邊有幾行文字與一台筆電",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "缺技術細節：雲端連不上 The Stable、MediaPost、Adweek，只讀到 Chief Marketer 的簡短描述與 Ads of the World 的製作名單，限時動態如何做到「搓碟」（用什麼機制、拆成幾段影片）沒有來源，故未寫。圖是低解析度的官方案例板，看得出點子但很小，請維護者決定要不要另找圖。搜尋摘要中的成效與 Snapchat 抄襲評論未寫入，也不算【爭議】。作品名官方為 INSTANTDJ。"
+  "note": "缺技術細節：雲端連不上 The Stable、MediaPost、Adweek，只讀到 Chief Marketer 的簡短描述與 Ads of the World 的製作名單，限時動態如何做到「搓碟」（用什麼機制、拆成幾段影片）沒有來源，故未寫。圖是低解析度的官方案例板，看得出點子但很小，請維護者決定要不要另找圖。搜尋摘要中的成效與 Snapchat 抄襲評論未寫入，也不算【爭議】。作品名官方為 INSTANTDJ。 2026-11-04 Opus 驗：補技術細節：Adweek（全螢幕俯看雙唱盤、第一格教學、拇指點按一對按鈕）與 WERSM（利用限時動態前進／後退分段的功能）；「錄 8 段影片依序上傳」只見於搜尋摘要，未寫入。拿掉 uncertain。圖仍是 254×180 的官方案例板，沒有更大的官方圖。",
+  "idea_one_liner_r0": "百加得在 Instagram 限時動態放一組雙唱盤，粉絲點畫面上的百加得按鈕，就能自己搓碟播放音樂"
  },
  {
   "id": "ltwm-09051",
@@ -174,7 +178,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "HP 找克里斯蒂安·史萊特演駭客，在四集短片裡，從沒設防的印表機入侵華爾街銀行，並解說每個步驟",
+  "idea_one_liner": "HP 請演員克里斯蒂安·史萊特演駭客拍四集短片，他從沒設防的印表機下手，入侵華爾街銀行並邊做邊解說",
   "brand_display": "惠普 HP",
   "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：GIANT SPOON, Los Angeles / HP, Palo Alto\n\n【背景】案例板寫到，很少有企業知道自己的印表機是駭客的容易下手目標。HP 要拓展企業客戶的生意，就得讓資訊部門的人看到沒有防護的印表機有多危險，進而把 HP 擺在這個領域的領導位置。\n\n【策略】德國媒體 Horizont 提到，HP 要傳達的是光有防火牆不夠，印表機也需要使用者驗證，並引用「全球只有約 2% 的企業印表機有這類防護」的數字。\n\n【點子】不拍一般產品廣告，改拍戲劇：讓駭客自己當主角，一邊入侵一邊解釋每一步，觀眾在看戲的同時理解風險。HP 找來在影集《Mr. Robot》（駭客軍團）裡演駭客的克里斯蒂安·史萊特，HP 說是看中他演「迷人又陰險的駭客」的能力，以及他在資安圈的人氣。HP 同時成立內容部門 HP Studios，《The Wolf》是它的第一支作品，也是 HP 資安活動的一部分。\n\n【執行】影片由史萊特飾演代號「狼」的駭客，案例板的描述是他利用沒有保護的印表機攻垮一家華爾街銀行。第一集裡，狼把印表機當作基地，透過沒設防的印表機進入員工的電腦。整個系列分為四集，加起來約六分鐘，放在 YouTube 與 HP 自己的網站。導演是 Lance Acord，Giant Spoon 與 Gyro 共同製作。案例板上的劇照有：人潮撐傘走過的街頭，史萊特站在中間；辦公室裡他面對插著蠟燭的生日蛋糕；螢幕上一排程式指令；以及頂樓上有人拋出滿天紙張。\n\n資料來源：\nhttps://venturebeat.com/technology/hp-launches-original-content-studio-with-web-series-about-security-starring-christian-slater\nhttps://www.tubefilter.com/2017/02/14/christian-slater-the-wolf-hp-branded/amp/\nhttps://www.horizont.net/marketing/nachrichten/The-Wolf-Christian-Slater-wird-fuer-HP-zum-gruseligen-Hacker-146149",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 銅獅, Bronze Lion, 網路影集, 系列影片, Webisodes / Series, HP, 惠普, 印表機, Printer, 資訊安全, 資安, Cybersecurity, 駭客, Hacker, Giant Spoon, Gyro, HP Studios, 品牌內容, Branded Content, 品牌影集, Christian Slater, 克里斯蒂安·史萊特, 名人代言, 駭客任務, Mr. Robot, 戲劇, 影集, 短片, YouTube, B2B, 企業客戶, 科技, 美國, United States, 華爾街, 銀行, 電腦, 螢幕, 程式碼, 蛋糕",
@@ -189,7 +193,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片沒有內文，依 VentureBeat、Tubefilter、Horizont 與案例板整理。官方報名四集（EPISODE 1–4），本稿寫整個四集系列。各來源說法不一：VentureBeat 與 Tubefilter 說四集共約六分鐘，Horizont 描述成一支六分多鐘的短片，故只寫「四集約六分鐘」。每集詳細劇情只有第一集有來源，其餘未寫。案例板的觀看時數與次數屬成效，未寫入；後來的《The Wolf: True Alpha》是 2018 年別支，未寫。搜尋未發現造假、抄襲、撤獎指控。"
+  "note": "官方卡片沒有內文，依 VentureBeat、Tubefilter、Horizont 與案例板整理。官方報名四集（EPISODE 1–4），本稿寫整個四集系列。各來源說法不一：VentureBeat 與 Tubefilter 說四集共約六分鐘，Horizont 描述成一支六分多鐘的短片，故只寫「四集約六分鐘」。每集詳細劇情只有第一集有來源，其餘未寫。案例板的觀看時數與次數屬成效，未寫入；後來的《The Wolf: True Alpha》是 2018 年別支，未寫。搜尋未發現造假、抄襲、撤獎指控。 2026-11-04 Opus 驗：一句話補演員身分、主詞改清楚。",
+  "idea_one_liner_r0": "HP 找克里斯蒂安·史萊特演駭客，在四集短片裡，從沒設防的印表機入侵華爾街銀行，並解說每個步驟"
  },
  {
   "id": "ltwm-09052",
@@ -241,21 +246,24 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "法國超市 Intermarché 拍一支三分鐘短片，年輕男生為了追超市收銀員，把披薩換成哈密瓜，配上法文老歌",
+  "idea_one_liner": "法國超市 Intermarché 拍三分鐘短片：年輕男生迷上收銀員，發現她不認同垃圾食物，就改買新鮮食材、學做菜，最後追到她",
   "brand_display": "Intermarché",
-  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜影片工藝類銀獅 Film Craft Silver Lion、Cyber類銅獅 Cyber Bronze Lion、娛樂類銅獅 Entertainment Bronze Lion、影片工藝類銅獅 Film Craft Bronze Lion×2｜代理商：CARNIBIRD, Paris / ROMANCE, Paris / ROMANCE, Paris\n\n【背景】這支片是 Romance 為 Intermarché 做的系列作品的開頭，系列的主題是幫助法國人每天吃得更好。這個系列後來持續出現在廣告片與其他作品中。\n\n【點子】不用食物營養或價格當賣點，而是拍一段愛情故事：一個人為了心儀的對象，自然而然改變飲食習慣。\n\n【執行】影片長約三分鐘，由 Katia Lewkowicz 執導，2017 年 3 月 11 日在法國電視台 TF1 晚間《The Voice》開播前播出。故事裡的年輕男生和室友一起住，大家都愛吃垃圾食物。他在超市迷上一位收銀員，為了她慢慢改吃得更健康，從披薩換成哈密瓜，收銀員在一旁看著覺得好笑。配樂是法國歌手 Mouloudji 的歌曲〈L'amour, l'amour〉的翻唱版。官方案例圖是一格超市冷凍櫃走道的畫面：幾個年輕男生推著購物車、其中一人穿黃色外套側身跳舞。\n\n資料來源：\nhttps://www.consoglobe.com/publicite-dintermarche-carton-sur-facebook-decouvrez-pourquoi-cg\nhttps://www.adruby.com/intermarche/intermarche-cest-magnifique-romance?page=2",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜影片工藝類銀獅 Film Craft Silver Lion、Cyber類銅獅 Cyber Bronze Lion、娛樂類銅獅 Entertainment Bronze Lion、影片工藝類銅獅 Film Craft Bronze Lion×2｜代理商：CARNIBIRD, Paris / ROMANCE, Paris / ROMANCE, Paris\n\n【背景】這支片是 Romance 為 Intermarché 做的系列作品的開頭，系列的主題是幫助法國人每天吃得更好。這個系列後來持續出現在廣告片與其他作品中。\n\n【點子】不用食物營養或價格當賣點，而是拍一段愛情故事：一個人為了心儀的對象，自然而然改變飲食習慣。\n\n【執行】影片長約三分鐘，由 Katia Lewkowicz 執導，2017 年 3 月 11 日在法國電視台 TF1 晚間《The Voice》開播前播出。故事裡的年輕男生和室友一起去超市採買，對收銀員一見鍾情。他發現她不太認同他們買的垃圾食物（Refinery29 提到她對冰淇淋和番茄醬都不以為然），於是每次去都多放一些新鮮食材，例如從披薩換成哈密瓜，她也慢慢對他有了好感。為了把買來的食材用掉，他開始自學做菜，第一次的成品慘不忍睹，後來他已經能像樣地端出蔬菜料理給朋友吃。最後他終於約她出去，兩人提著一袋超市的東西，騎著他的機車往夕陽駛去。配樂是法國歌手 Mouloudji 的歌曲〈L'amour, l'amour〉的翻唱版。官方案例圖是一格超市冷凍櫃走道的畫面：幾個年輕男生推著購物車、其中一人穿黃色外套側身跳舞。\n\n資料來源：\nhttps://www.consoglobe.com/publicite-dintermarche-carton-sur-facebook-decouvrez-pourquoi-cg\nhttps://www.adruby.com/intermarche/intermarche-cest-magnifique-romance?page=2\nhttps://www.thestable.com.au/romance-intermarche-goes-back-to-classic-storytelling-nails-that-too/\nhttps://www.refinery29.com/2017/03/145728/french-grocery-store-commercial-intermarche",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 娛樂類, Entertainment, 影片工藝類, Film Craft, 銀獅, Silver Lion, 銅獅, Bronze Lion, 選角, Casting, 導演, Direction, 剪輯, Editing, 品牌影片, Brand/Product Video, 虛構短片, TV & VOD, Intermarché, 超市, 零售, 連鎖超市, 健康飲食, 飲食習慣, Romance, Carnibird, Romance Paris, 愛情, 愛情故事, 浪漫, 電影感, 短片, 影片, 電視廣告, 法國, France, Katia Lewkowicz, Mouloudji, 法文老歌, 翻唱, 收銀員, 披薩, 哈密瓜, 購物車, 冷凍櫃",
   "category": "行銷案例",
   "references": [
    "https://www.consoglobe.com/publicite-dintermarche-carton-sur-facebook-decouvrez-pourquoi-cg",
-   "https://www.adruby.com/intermarche/intermarche-cest-magnifique-romance?page=2"
+   "https://www.adruby.com/intermarche/intermarche-cest-magnifique-romance?page=2",
+   "https://www.thestable.com.au/romance-intermarche-goes-back-to-classic-storytelling-nails-that-too/",
+   "https://www.refinery29.com/2017/03/145728/french-grocery-store-commercial-intermarche"
   ],
   "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/25b97935836b4a20b956979703be7993/storyboard_000002.jpg",
   "image_shows": "影片分鏡格：超市冷凍櫃走道，幾個年輕男生推著購物車，穿黃色外套的人側身跳舞",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "缺官方說明：官方卡片沒有內文，L'AMOUR L'AMOUR 共有五個獎項、三張卡片（Film Craft／Entertainment／Cyber）都只有標題。故事來自 Consoglobe（法文媒體）與 Ad Ruby 對系列的簡述，每格鏡頭、結局沒有來源，未寫；Consoglobe 稱主角是「teenager」，Ad Ruby 稱 young man，稿中用「年輕男生」。官方案例板只有分鏡格，已看過是這支片的畫面但看不出完整點子。Consoglobe 的 Facebook 觀看數屬成效，未寫入。搜尋未發現抄襲、撤獎等指控。"
+  "note": "缺官方說明：官方卡片沒有內文，L'AMOUR L'AMOUR 共有五個獎項、三張卡片（Film Craft／Entertainment／Cyber）都只有標題。故事來自 Consoglobe（法文媒體）與 Ad Ruby 對系列的簡述，每格鏡頭、結局沒有來源，未寫；Consoglobe 稱主角是「teenager」，Ad Ruby 稱 young man，稿中用「年輕男生」。官方案例板只有分鏡格，已看過是這支片的畫面但看不出完整點子。Consoglobe 的 Facebook 觀看數屬成效，未寫入。搜尋未發現抄襲、撤獎等指控。 2026-11-04 Opus 驗：補劇情來源 The Stable（2017/3/17，含完整製作名單）與 Refinery29（2017/3/17），兩者對情節（迷上收銀員、改買新鮮食材、學做菜失敗、約會、騎車離去）一致，拿掉 uncertain。The Stable 寫 scooter、Refinery29 寫 motorcycle，稿寫「機車」。",
+  "idea_one_liner_r0": "法國超市 Intermarché 拍一支三分鐘短片，年輕男生為了追超市收銀員，把披薩換成哈密瓜，配上法文老歌"
  },
  {
   "id": "ltwm-09053",
@@ -279,7 +287,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "英國肉乾零食 Fridge Raiders 讓匿名駭客入侵六位 YouTube 遊戲實況主，粉絲要邊玩邊學寫程式才能揪出他",
+  "idea_one_liner": "英國肉類零食 Fridge Raiders 虛構一名駭客盜走六位 YouTube 遊戲實況主的帳號，粉絲要邊玩邊學寫程式才能抓到他",
   "brand_display": "Mattessons Fridge Raiders（Kerry Foods）",
   "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：SAATCHI & SAATCHI, London\n\n【背景】Kerry Foods 旗下的肉類零食 Mattessons Fridge Raiders，鎖定愛玩遊戲的青少年。案例板則從另一個社會問題切入：英國面臨數位技能危機，一年讓經濟損失 630 億英鎊，但孩子覺得學寫程式又悶又無聊，願意學的人不夠。\n\n【點子】做一款沉浸式遊戲，讓孩子在不知不覺中學會寫程式。孩子一關關玩下去，其實是在上偽裝成遊戲的課，遊戲最後被「惡搞」一下，由 Fridge Raiders 揭曉：你們已經學會了 Python 第一級（由歐洲的程式學院 Makers Academy 認證）。\n\n【執行】Scottish Grocer 提到，一個叫「Snacker Hacker」的虛構駭客，奪走了六位頂尖 YouTube 遊戲實況主的遊戲帳號，這些頻道合計觸及超過 2,000 萬觀眾，頻道邀請觀眾加入「抓出駭客（Hunt the Hacker）」挑戰，整個活動只在網路上進行，Scottish Grocer 說預算約 100 萬英鎊。案例板的畫面包括實況主 Ali-A 的 YouTube 影片「I've been hacked!」，以及遊戲介面：玩家要在程式編輯器裡寫程式，課程依序是控制監視器攝影機、鍵盤側錄程式、文字遊戲與 MP3 播放器，戴著笑臉面具、穿連帽衣的駭客也在畫面上留言挑釁玩家。Scottish Grocer 引述 Fridge Raiders 品牌經理的話，說這個活動也有教育的成分。\n\n資料來源：\nhttps://scottishgrocer.co.uk/2016/11/03/hacking-is-all-part-of-the-game/\nhttp://www.promomarketing.info/?p=2711",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 銅獅, Bronze Lion, 網頁, Web, 品牌遊戲, Branded Games, Mattessons, Fridge Raiders, Mattessons Fridge Raiders, Kerry Foods, 零食, 肉乾, 肉類零食, 食品, Saatchi & Saatchi London, Saatchi & Saatchi, 倫敦, 英國, United Kingdom, 青少年, Z 世代, 遊戲, 電玩, 遊戲實況, YouTuber, YouTube, Ali-A, 實況主, 駭客, Hacker, 學寫程式, 程式教育, Coding, Python, Makers Academy, 教育, 寓教於樂, 偽裝成遊戲的課程, 互動遊戲, 面具, 連帽衣, 惡搞, 抓駭客",
@@ -293,7 +301,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片沒有內文，依案例板、Scottish Grocer 與 Promo Marketing 整理。六週、九個挑戰等說法只出現在搜尋摘要，未寫入。案例板與 Promo Marketing 的觀看數、完成課程數等屬成效，未寫入。Promo Marketing 只簡短提到這支作品，只用來確認它是 Fridge Raiders 系列之一。in 檔 links 是 YouTube 轉載，品牌欄寫 KERRY FOODS（官方產品是 MATTESSONS）。搜尋未發現造假、抄襲、撤獎指控。"
+  "note": "官方卡片沒有內文，依案例板、Scottish Grocer 與 Promo Marketing 整理。六週、九個挑戰等說法只出現在搜尋摘要，未寫入。案例板與 Promo Marketing 的觀看數、完成課程數等屬成效，未寫入。Promo Marketing 只簡短提到這支作品，只用來確認它是 Fridge Raiders 系列之一。in 檔 links 是 YouTube 轉載，品牌欄寫 KERRY FOODS（官方產品是 MATTESSONS）。搜尋未發現造假、抄襲、撤獎指控。 2026-11-04 Opus 驗：一句話：原寫「肉乾」與來源（肉類零食）不符，改「肉類零食」；駭客是虛構角色。看過案例板，確認畫面描述無誤。",
+  "idea_one_liner_r0": "英國肉乾零食 Fridge Raiders 讓匿名駭客入侵六位 YouTube 遊戲實況主，粉絲要邊玩邊學寫程式才能揪出他"
  },
  {
   "id": "ltwm-09054",
@@ -352,7 +361,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "荷蘭賭場在阿姆斯特丹電車站，地面畫上輪盤號碼，電車側面貼一顆大輪盤球，球停在哪號，站那號的人贏獎",
+  "idea_one_liner": "荷蘭賭場 Holland Casino 在阿姆斯特丹電車站，把月台漆成輪盤號碼、電車側面貼上大球，球停在哪號，站那號的人就贏",
   "brand_display": "荷蘭賭場 Holland Casino",
   "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜Cyber類銅獅 Cyber Bronze Lion、媒體類銅獅 Media Bronze Lion×2、戶外類銅獅 Outdoor Bronze Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion×2｜代理商：TBWA\\NEBOKO, Amsterdam\n\n【背景】案例板寫到，Holland Casino 相信每個人心裡都有一個玩家。為了證明這句話，品牌決定把輪盤搬到阿姆斯特丹的街頭。\n\n【點子】把一個電車站變成真實版的輪盤賭桌，把一顆球放在進站的電車上，讓平凡的乘客突然變成沒料到的玩家。這個活動同時在 Facebook Live 直播，成為一個跨平台的互動體驗。\n\n【執行】活動地點在阿姆斯特丹的 Rembrandtplein 電車站。候車的月台地面漆上輪盤的 0 到 36 號，等車的人可以挑一個號碼站上去。每班進站的電車側面都貼著一顆白色的大輪盤球，球停在哪一個號碼，站在那個號碼上的人就是贏家。現場有兩位荷蘭賭場的荷官主持，並當場頒發獎品；Clickori 的報導說獎品是附儲值金的賭場邀請函。Facebook Live 的觀眾可以在線上押注贏家號碼，也有機會拿到獎品與賭場禮券。案例板的畫面包括：月台地面紅白色的數字、一個人腳邊貼著的號碼「3」與「12」、電車旁一顆白球，以及月台上擠滿等車的人，畫面寫著「Let's play.」。\n\n資料來源：\nhttps://www.marketingtribune.nl/bureaus/nieuws/2016/12/holland-casino-speelt-tramroulette-op-rembrandtplein/index.xml\nhttps://www.clickorimarketing.es/en/tram-roulette-marketing-action-holland-casino/",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Promo & Activation類, Promo & Activation, Cyber類, Cyber, 媒體類, Media, 戶外類, Outdoor, 銅獅, Bronze Lion, 游擊行銷與特技, Guerrilla Marketing & Stunts, 競賽與促銷遊戲, Use of Competitions & Promotional Games, 環境戶外, Use of Ambient Outdoor, 社群, Social, 特技, Use of Stunts, 大型環境媒體, Use of Ambient Media: Large Scale, Holland Casino, 荷蘭賭場, 賭場, 博弈, 輪盤, Roulette, TBWA\\NEBOKO, TBWA, Neboko, 阿姆斯特丹, Amsterdam, 荷蘭, Netherlands, 電車, 電車站, Tram, 月台, 地面圖案, 大輪盤球, 荷官, Croupier, Facebook Live, 直播, 互動, 快閃, 街頭活動, 路人參與, 遊戲",
@@ -366,7 +375,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片沒有內文，依案例板、Marketing Tribune 與 Clickori 整理。官方報名六個獎項（Promo & Activation×2、Outdoor、Cyber、Media×2）均為同一件作品 TRAMROULETTE。獎品說法不一：Marketing Tribune 只說「獎品」，Clickori 說是附儲值金的賭場邀請函，稿中標明出處。活動日期、參與人數、直播觸及等說法各來源不一，屬成效，未寫入。搜尋未發現造假、抄襲、撤獎指控。"
+  "note": "官方卡片沒有內文，依案例板、Marketing Tribune 與 Clickori 整理。官方報名六個獎項（Promo & Activation×2、Outdoor、Cyber、Media×2）均為同一件作品 TRAMROULETTE。獎品說法不一：Marketing Tribune 只說「獎品」，Clickori 說是附儲值金的賭場邀請函，稿中標明出處。活動日期、參與人數、直播觸及等說法各來源不一，屬成效，未寫入。搜尋未發現造假、抄襲、撤獎指控。 2026-11-04 Opus 驗：一句話補品牌名。Marketing Tribune 重試可打開（程式檢查時是逾時）。",
+  "idea_one_liner_r0": "荷蘭賭場在阿姆斯特丹電車站，地面畫上輪盤號碼，電車側面貼一顆大輪盤球，球停在哪號，站那號的人贏獎"
  },
  {
   "id": "ltwm-09055",
@@ -397,7 +407,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "達拉斯獨立書店 The Wild Detectives 用釣魚標題當臉書貼文，點進去是整本免費經典名著，如「英國男子自拍身亡」",
+  "idea_one_liner": "達拉斯獨立書店 The Wild Detectives 把經典名著的劇情寫成釣魚標題，貼到臉書，讀者點進去讀到的是整本原著",
   "brand_display": "荒野偵探 The Wild Detectives（美國達拉斯獨立書店）",
   "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜Cyber類銅獅 Cyber Bronze Lion、公關類銅獅 PR Bronze Lion｜代理商：DIESTE, Dallas\n\n【背景】The Wild Detectives 是達拉斯的獨立書店，開業約三年，兼賣酒水與餐點，營業到午夜，書籍的選擇有在地文學圈參與。這個活動由廣告公司 Dieste 製作。\n\n【洞察】案例板寫道，網路上到處是釣魚式標題（clickbait），一直慫恿人點進去閱讀，但幾乎都以失望收場。\n\n【點子】反過來駭進這種標題的語言，用它騙人去讀經典。標語是「You fell for the bait, now fall for the book.」（你上鉤了，現在愛上這本書吧）。這個點子延續了網路遊戲 #ExplainABookBadly（亂解釋一本書）的玩法。\n\n【執行】書店把公版（版權已過期）的經典名著全文放到 Medium，再把每本書的情節改寫成聳動標題，貼在 Facebook 與 Twitter 上，點進去就是整本書。例子有：《綠野仙蹤》是「你絕對猜不到，這名堪薩斯少女的家被龍捲風毀掉之後發生了什麼事」；《化身博士》是「新合成藥物讓倫敦人變成暴力狂」；《道林·格雷的畫像》是「英國男子自拍出事身亡」；《紅字》是「何時可以羞辱未婚媽媽？答案可能出乎你的意料」；《格列佛遊記》是「背包客最糟的旅行：小島部落用大便攻擊他」。案例板貼文的配圖都是釣魚式的新聞照片，例如一堆大蒜、一隻黑熊。\n\n資料來源：\nhttps://www.bustle.com/p/this-bookstore-turns-classic-books-into-clickbait-to-get-more-people-excited-about-reading-47731\nhttps://iliveindallas.com/?p=23252",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 公關類, PR, 銅獅, Bronze Lion, 社群商務, Social Business & Commerce, 社群媒體創新運用, Innovative Use of Social Media, The Wild Detectives, 荒野偵探, 獨立書店, 書店, 書, 閱讀, 經典文學, 名著, 公版書, Public Domain, Dieste, Dieste Dallas, 達拉斯, Dallas, 美國, United States, 釣魚標題, 標題黨, Clickbait, Litbaits, 假新聞風格, 社群, Facebook, Twitter, Medium, 網路平台, 反轉, 幽默, 惡搞, 免費線上書, 綠野仙蹤, 化身博士, 道林·格雷的畫像, 紅字, 格列佛遊記, 大蒜, 黑熊",
@@ -411,7 +421,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片沒有內文，依 Bustle、I Live in Dallas 與案例板整理。Bustle 引述 CNN 的流量與互動成長數字，I Live in Dallas 則說實際貼文互動很少、多數臉書貼文後來被刪，這屬成效數字可能高估，只寫 note、未寫入、不算【爭議】。Dallas Observer 連不上（403），未使用。標題對應書名依案例板與 I Live in Dallas 的描述。"
+  "note": "官方卡片沒有內文，依 Bustle、I Live in Dallas 與案例板整理。Bustle 引述 CNN 的流量與互動成長數字，I Live in Dallas 則說實際貼文互動很少、多數臉書貼文後來被刪，這屬成效數字可能高估，只寫 note、未寫入、不算【爭議】。Dallas Observer 連不上（403），未使用。標題對應書名依案例板與 I Live in Dallas 的描述。 2026-11-04 Opus 驗：一句話改寫，去掉沒有上下文的例子。",
+  "idea_one_liner_r0": "達拉斯獨立書店 The Wild Detectives 用釣魚標題當臉書貼文，點進去是整本免費經典名著，如「英國男子自拍身亡」"
  },
  {
   "id": "ltwm-09056",
@@ -435,7 +446,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "PlayStation 在臉書放一支國王短片，藏上百個遊戲彩蛋；玩家在留言找到，國王就回覆並寄去實體寶物",
+  "idea_one_liner": "PlayStation 在臉書影片裡藏上百個遊戲彩蛋，玩家找到並留言，片中國王就回覆，把那件寶物做成實物寄給他",
   "brand_display": "索尼 PlayStation",
   "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：BBH, New York\n\n【背景】案例板寫到，PlayStation 推出新內容時，玩家會拿起手機，在留言串裡喊出自己的發現。這是 PS4 的《The King》（國王）廣告活動：Push Square 形容它是一支高預算、誇張的廣告，把 Sony 的大牌遊戲角色（如 Horizon Zero Dawn、God of War、Spider-Man）混在王室場景裡，另有完整版放在 Facebook。\n\n【洞察】玩家看到新內容會在留言區回報自己的發現，所以品牌可以把一則 Facebook 影片的留言串，變成即時回應的活動場。\n\n【點子】把一整串 Facebook 留言做成遊戲。在影片中藏上百個從 PlayStation 遊戲來的虛擬寶物（彩蛋），並真的把它們做成實體收藏品。玩家找到寶物並留言，影片裡的國王就在留言裡回覆，把玩家找到的那件實物寄給他。\n\n【執行】PlayStation 與 BBH New York 先在 Facebook 發布一支以國王為主角的影片，裡面藏了超過 100 個彩蛋。玩家在影片裡找到彩蛋後留言，國王就即時回覆，回覆內容是現做出來再貼回留言串的。連續四天，這些實物用「王室等級」的方式包裝，用郵寄寄給玩家，也有當場親手送上門與直播開箱的影片。案例板的範例：玩家 Michael Peterson 留言說到《Uncharted: Drake's Fortune》的銀鳥容器，國王回覆「你的銀鳥容器在路上了」，最後他收到一個刻有自己名字的木箱，裡面是那件銀鳥容器。案例板上的實物包括：戴皇冠的石頭頭像、裝在木箱裡的頭盔、火漆封印的信、蓋著「The Kingdom」字樣的郵票等。\n\n資料來源：\nhttps://www.oneclub.org/awards/theoneshow/-award/25853/search-for-greatness\nhttps://www.pushsquare.com/news/2016/11/playstations_new_commercial_is_completely_over_the_top",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 銅獅, Bronze Lion, 即時回應, Real-Time Response, PlayStation, Sony PlayStation, 索尼, SONY, PS4, 電玩, 遊戲, 遊戲機, 主機遊戲, BBH New York, BBH, 紐約, 美國, United States, Facebook, 臉書, 社群, 社群媒體, 留言, 留言串, 即時互動, 即時回覆, 彩蛋, Easter Egg, 國王, The King, 寶物, 實體收藏品, 製作物, 道具, 木箱, 火漆, 郵票, 直接郵寄, Direct Mail, 開箱, 開箱影片, 直播, 影片, 玩家, 遊戲玩家, 中世紀, 皇冠, 頭盔",
@@ -449,6 +460,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片沒有內文，依 One Show 條目、Push Square 與官方案例板整理。官方作品名是 SEARCH FOR GREATNESS；影片本身英文稱 The King，案例板看得到點子。雲端連不上 BBH 官網與 Campaign Live，【洞察】來自案例板的 Insight 欄。案例板與 One Show 的觀看數、留言數、「PS4 是 2016 最暢銷主機」屬成效，未寫入。Push Square 說 Easter egg 版是 Facebook 完整版，但沒提互動機制，互動做法以 One Show 與案例板為準。搜尋未發現造假、抄襲、撤獎指控。"
+  "note": "官方卡片沒有內文，依 One Show 條目、Push Square 與官方案例板整理。官方作品名是 SEARCH FOR GREATNESS；影片本身英文稱 The King，案例板看得到點子。雲端連不上 BBH 官網與 Campaign Live，【洞察】來自案例板的 Insight 欄。案例板與 One Show 的觀看數、留言數、「PS4 是 2016 最暢銷主機」屬成效，未寫入。Push Square 說 Easter egg 版是 Facebook 完整版，但沒提互動機制，互動做法以 One Show 與案例板為準。搜尋未發現造假、抄襲、撤獎指控。 2026-11-04 Opus 驗：一句話改寫（原句「在留言找到」與做法不符）。",
+  "idea_one_liner_r0": "PlayStation 在臉書放一支國王短片，藏上百個遊戲彩蛋；玩家在留言找到，國王就回覆並寄去實體寶物"
  }
 ]

@@ -137,3 +137,16 @@
 - b046 ltwm-09065：官方作品名 CHASE，in 檔寫 THE CHASE。
 - 仍 uncertain：b043 NO MORE EXCUSES（09032，缺創意數據怎麼用社群資料的來源）；b046 BRIDE（09066，缺完整劇情文字）。
 - 重複候選：無。
+
+## b045、b047、b048、b049（2026-11-05 雲端第一輪）
+- 重複候選 b047 ltwm-09071 附近 CAR WASH（OMO）：LTW 另有 Online Film「THE OMO CAR WASH」（campaigns/the-omo-car-wash-36261），驗收員判斷同一創意，建議只收一筆。
+- 重複候選 b048 ltwm-09084 THE SWIMMER：與 2018 年 Health 類 ZWEMMER 疑為同一支片跨年報名，請決定。
+- b047 ltwm-09069 TOMMY HUGS、ltwm-09070 CLEAN TALK：寫手與驗收員都找不到能打開的內容來源（403／404），暫列不收；有人看過影片可補寫。
+- 仍 uncertain：b047 CAR WASH（缺影片中車子怎麼處理的說明）；b048 THE SWIMMER（09084，缺逐場景說明）。
+- b048 ltwm-09081 DON'T GIVE A DAMN（只有一篇 Adweek，可能付費牆）、ltwm-09083 FENCING + SWIMMING（游泳、單車等三支沒有來源描述）：來源薄弱，沒標 uncertain。
+- b048 ltwm-09085 #DONOTABANDON：驗收員查清是 2016 年那支（狗的忠誠），不是 2017 倒放那支。
+- b049 ltwm-09093 Palace Reebok：圖照規則卡用 weserv 圖片網址（i-D 截圖）。ltwm-09094 Mr. Robot：圖只是宣傳主視覺，看不出體驗。
+- b049 ltwm-09090 Eight：Sansan 說 100 人場面靠倒轉播放、SoraNews24 說影片沒演出交換，兩說矛盾，讀稿只寫一致部分；影片 2016 年 5 月公開、2017 得獎。
+- b049 ltwm-09098 Samsung：得獎細項是影片音樂／音效設計，影片打不開，讀稿寫專案本身。
+- b045 ltwm-09051 THE WOLF：官方報名 EPISODE 1–4，稿寫整個系列。ltwm-09055 LITBAITS：有報導質疑互動數字，只寫在 note。
+- 【爭議】候選：無。

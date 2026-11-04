@@ -61,3 +61,5 @@
 
 ## 2026-11-05 雲端第一輪
 - 2026-11-05 02:10 開工：b043 b044 b045 b046 b047 b048 b049
+- 2026-11-05 收尾：寫完驗完 b043–b049（70 件，收 68、不收 2：TOMMY HUGS、CLEAN TALK 找不到內容來源）。2017 累計驗完 50／65 批。待決新增 24 件（重複候選 2：OMO CAR WASH、SWIMMER／ZWEMMER；【爭議】候選 1：Heineken Worlds Apart，已拿掉待定案；其餘為 uncertain、圖、來源矛盾）。連不上：LBB、Creative Review、The Drum、Campaign、AdForum、adsspot、Clios、Behance 等 403／404；sites.wpp.com、adnews.com.au、thereflex.nl 網域解析不到；Vimeo 要人機驗證；lovethework 卡片沒內文。沒撞到額度。
+- 問題：b045–b049 驗收員自首初期用偽裝瀏覽器標頭的 curl 測連線一次（違規，結果沒採用）。b045 寫手自述沒逐件人工重讀，已交驗收員逐件細讀並改 8 件一句話。開工時本機 main 與 origin 歷史不相連，已改用 origin/main 接續（沒 force push）。
