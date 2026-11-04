@@ -123,3 +123,17 @@
 - b042 ltwm-09024 Altoids：in 檔品牌欄寫 ARTOIS，官方是 Wm. Wrigley Jr.（Altoids），疑似誤植。
 - 仍 uncertain：b040 TONI/ESTER（08995，兒童性侵題材，缺說明）、PEPPERONI PIZZA（09003，廣播，缺音檔、沒圖）、SOVIP（09004）、OPEL SIGNALS（09005），都缺官方說明；b041 Breeze（09007，缺文字來源，官方作品名 MUSTARD／INK／SOY SAUCE／COFFEE）；b042 SPLIT SECOND（09019，缺影片內容）。
 - 重複候選：無（09011 是同一筆裡兩個點子，見上）。【爭議】候選：無。
+
+## b043、b044、b046（2026-11-05 雲端第一輪）
+- b044 ltwm-09044 Heineken Worlds Apart：【爭議】候選。Salon 專欄一句說留下來聊的人是拿錢演員（無佐證）、Time 寫有人懷疑排演，品牌否認；驗收員判斷不算【爭議】已拿掉，請定案。
+- b044 ltwm-09046 Auschwitz：官方 case board 只有 255×180px，改用官方 storyboard 第 20 格（手臂上的 5405），程式檢查會標「有 case board 沒用」，屬刻意。
+- b044 ltwm-09039 IBM Not Easy：Watson 是否「共同創作」說法不一，讀稿採 Engadget（歌是 Alex 寫的）。
+- b044 ltwm-09037 Montblanc：文字來源只有製作名單，互動細節只寫案例板看得到的。
+- b043 ltwm-09029 Glicode、09033 Microsoft：圖用非官方頻道上傳的 YouTube 縮圖，請確認可用。
+- b043 ltwm-09031 Talking Numbers：WPP 頁標 2018、官方卡片 2017，讀稿未寫日期。
+- b046 ltwm-09060 EPISODE LEAK：圖用 NextTV 報導的《Narcos》宣傳照（非直播畫面）。
+- b046 ltwm-09061 KLARAFY：只有 logo 圖，圖弱。
+- b046 ltwm-09064 Nike Mamba Day：另有 Sapient Razorfish 報名，關係未查證；案例板內容是 2016 年 4 月活動。
+- b046 ltwm-09065：官方作品名 CHASE，in 檔寫 THE CHASE。
+- 仍 uncertain：b043 NO MORE EXCUSES（09032，缺創意數據怎麼用社群資料的來源）；b046 BRIDE（09066，缺完整劇情文字）。
+- 重複候選：無。
