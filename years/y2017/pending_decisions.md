@@ -114,3 +114,12 @@
 - 仍 uncertain：b036 FACEKINI（08955）、FEED THE GOOD（08956）、PEYOTE/AYAHUASCA/CARAMBOLA（08962）、VODAFONE SORRY（08964），都缺文字來源；b037 JOKE, DRINK（08965）、TEQUILA/GIN/VODKA（08969）、MELANOMA MONSTERS（08970）、#MYNEOLABEL（08972）；b038 CURVED ROAD（08977，缺 The Safe Embrace 系列說明）、RENAULT: BATTERY（08978，缺說明）、TOY CARS // FOOD（08983，缺說明）；b039 廣播 5 件缺腳本或音檔：MESSI, LEAVE（08988）、DARWIN/EINSTEIN/MOZART（08990）、PENGUIN CLASSICS RADIO（08992）、GYM BOY（08993）、VIRGIN MOJITO（08994）。
 - 圖：b039 五件廣播沒圖（候選只有通用音訊 SVG），image_url 留空。
 - 重複候選：無。【爭議】候選：無。
+
+## b040、b041、b042（2026-11-04 雲端第二輪）
+- b041 ltwm-09011 ANONYMOUS FRIEND：平面銀獅那組（STOCKBROKER、IT MANAGER 等四張）是另一組人物平面廣告，不是聊天機器人，兩個點子併在同一筆，請維護者決定要不要拆件。
+- b041 ltwm-09016 Sodimac：「15 公里」與 Adweek「第 11～97 公里」對不上，稿裡兩說並列；圖改用 Adweek 影片截圖（官方只有看不出點子的分鏡格）。
+- b041 ltwm-09008 Pronto：官方代理商是 RAY Productions Paris，Digital Synopsis 寫 Y&R Paris，照官方寫。
+- b040 ltwm-09000 HIDDEN KIDS：沒有官方圖，用美術指導 Ferdinand Povel 個人網站（iamferdinand.com）的海報；官方作品名 AVA、FELIX 與看到的兩張對不上。
+- b042 ltwm-09024 Altoids：in 檔品牌欄寫 ARTOIS，官方是 Wm. Wrigley Jr.（Altoids），疑似誤植。
+- 仍 uncertain：b040 TONI/ESTER（08995，兒童性侵題材，缺說明）、PEPPERONI PIZZA（09003，廣播，缺音檔、沒圖）、SOVIP（09004）、OPEL SIGNALS（09005），都缺官方說明；b041 Breeze（09007，缺文字來源，官方作品名 MUSTARD／INK／SOY SAUCE／COFFEE）；b042 SPLIT SECOND（09019，缺影片內容）。
+- 重複候選：無（09011 是同一筆裡兩個點子，見上）。【爭議】候選：無。
