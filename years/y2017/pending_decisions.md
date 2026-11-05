@@ -150,3 +150,13 @@
 - b049 ltwm-09098 Samsung：得獎細項是影片音樂／音效設計，影片打不開，讀稿寫專案本身。
 - b045 ltwm-09051 THE WOLF：官方報名 EPISODE 1–4，稿寫整個系列。ltwm-09055 LITBAITS：有報導質疑互動數字，只寫在 note。
 - 【爭議】候選：無。
+
+## b051、b052、b053（2026-11-05 雲端第二輪）
+- b052 ltwm-09128 FAVELAGRAFIA：品牌照官方登記 Apple，但報導沒提 Apple 出資（影片用 Shot on iPhone 包裝），讀稿兩邊照實寫；請確認品牌欄。
+- b052 ltwm-09130 CHRISTMAS FLIGHT（LATAM）：代理商官方登記 McCann Buenos Aires，Ads of the World 列 Graphene（同組人），【得獎】行照官方；請知悉。
+- b052 ltwm-09126：官方獎項含 Radio 銅獅（作品名為旅行社的「想像目的地」廣播），驗收員判斷同一行銷案、不另件。
+- b051 ltwm-09119 Vodafone：兩張官方卡片（娛樂 34381、媒體 18187）為同件分報兩類，不算重複。
+- b051 ltwm-09113：寫手原用 weserv 轉址圖（違規），驗收員已換成官方案例板直接網址。
+- 來源偏薄（沒標 uncertain）：b051 ltwm-09111 Single Belief、ltwm-09117 Valio Gefilus；b053 ltwm-09134 Tiny Dancer（缺洞察、策略來源）；b053 ltwm-09139 adidas「產品是 NMD」只依官方資料。
+- 圖不理想：b053 多件只用影片分鏡截圖（Penguin、Caixa、Tiny Dancer、Justino、adidas、Extra Gum）；b052 ltwm-09122 縮圖已換分鏡格。
+- 仍 uncertain：無。重複候選：無。【爭議】候選：無。
