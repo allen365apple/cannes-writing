@@ -1,0 +1,690 @@
+[
+  {
+    "id": "ltwm-07957",
+    "year": 2016,
+    "tier": "GRAND PRIX / TITANIUM",
+    "categories": [],
+    "title": "THE NEXT REMBRANDT",
+    "brand": "ING",
+    "agency": "JWT AMSTERDAM",
+    "links": [
+      "https://clios.com/awards/winner/engagement-experiential/ing/the-next-rembrandt-13015"
+    ],
+    "decision": "收",
+    "awards": [
+      {
+        "level": "Bronze",
+        "category": "Digital Craft",
+        "subcategory": "Data Storytelling",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "Digital Craft",
+        "subcategory": "Data Visualisation",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Bronze",
+        "category": "Digital Craft",
+        "subcategory": "Innovative Use of Technology",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Silver",
+        "category": "Promo & Activation",
+        "subcategory": "Sponsorship & Partnership",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "Outdoor",
+        "subcategory": "Live Advertising and Events",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "Outdoor",
+        "subcategory": "Digital Poster Craft",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Grand Prix",
+        "category": "Cyber",
+        "subcategory": "Financial Products & Services",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Silver",
+        "category": "Cyber",
+        "subcategory": "Corporate Image",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Silver",
+        "category": "Direct",
+        "subcategory": "Use of Data",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Silver",
+        "category": "Creative Data",
+        "subcategory": "Creative Data Enhancement",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Silver",
+        "category": "Creative Data",
+        "subcategory": "Data Storytelling",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Bronze",
+        "category": "Creative Data",
+        "subcategory": "Data Visualisation",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Grand Prix",
+        "category": "Creative Data",
+        "subcategory": "Creative Data Collection & Research",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Bronze",
+        "category": "Entertainment",
+        "subcategory": "New Technology Brand Experience",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "Innovation",
+        "subcategory": "Creative Innovation",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Silver",
+        "category": "Design",
+        "subcategory": "Data Visualisation",
+        "count": 1,
+        "source_count": 1
+      }
+    ],
+    "awards_unverified": [],
+    "idea_one_liner": "荷蘭 ING 銀行用演算法分析林布蘭 346 幅畫，生成一幅新肖像，再用 3D 列印堆 13 層顏料印成油畫",
+    "brand_display": "ING",
+    "full_text": "【得獎】2016 坎城獅子獎（Cannes Lions 2016）｜創意數據類全場大獎 Creative Data Grand Prix、Cyber類全場大獎 Cyber Grand Prix、數位工藝類金獅 Digital Craft Gold Lion、創新類金獅 Innovation Gold Lion、戶外類金獅 Outdoor Gold Lion×2、創意數據類銀獅 Creative Data Silver Lion×2、Cyber類銀獅 Cyber Silver Lion、設計類銀獅 Design Silver Lion、直效類銀獅 Direct Silver Lion、Promo & Activation類銀獅 Promo & Activation Silver Lion、創意數據類銅獅 Creative Data Bronze Lion、數位工藝類銅獅 Digital Craft Bronze Lion×2、娛樂類銅獅 Entertainment Bronze Lion｜代理商：J. WALTER THOMPSON AMSTERDAM\n\n【背景】荷蘭 ING 銀行想用「創新精神」來呈現自己對荷蘭藝術與文化的贊助，找 J. Walter Thompson 阿姆斯特丹做這個專案，技術夥伴有 Microsoft，顧問有台夫特理工大學、莫瑞泰斯皇家美術館與林布蘭故居博物館。\n\n【點子】讓林布蘭「再畫一幅」：用數據與演算法重現這位荷蘭大師的畫風，做出一幅他在世時不存在的新肖像，並引發「人對機器、數據能帶我們走多遠」的討論。\n\n【執行】團隊先把林布蘭 346 幅畫作的高解析掃描建成資料庫，逐像素分析，共拆出十六萬多個局部片段。接著從資料找出最常見的畫中人設定，選定的主角是三十到四十歲、有鬍鬚、臉朝右、穿深色衣服並戴大帽子與白領的男性。軟體學習林布蘭的筆法，用臉部辨識技術與他慣用的幾何比例，生成眼睛、鼻子、嘴巴並組合起來。二維畫面完成後，團隊再用真跡肖像量到的顏料厚度做出高度圖，模擬筆觸，交給高階 3D 印表機，一層一層印出 13 層以顏料為基底的墨水，畫作在阿姆斯特丹公開展出。另有專屬網站 nextrembrandt.com，讓人深入看製作過程。\n\n資料來源：\nhttps://d3.harvard.edu/platform-digit/submission/the-next-rembrandt/index.html\nhttps://techxplore.com/news/2016-04-rembrandt-portrait-unveiled-amsterdam.html\nhttps://www.adsoftheworld.com/campaigns/the-next-rembrandt\nhttps://ascentialcdn.filespin.io/api/v1/conversion/b596d690cc13420b804befe94ca7639d",
+    "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2016, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 創意數據類全場大獎, Creative Data Grand Prix, Cyber 類全場大獎, Cyber Grand Prix, 數位工藝類金獅, Digital Craft Gold Lion, 創新類金獅, Innovation Gold Lion, 戶外類金獅, Outdoor Gold Lion, 銀獅, 銅獅, ING, 荷蘭國際集團, 銀行, 金融, J. Walter Thompson Amsterdam, JWT, 林布蘭, Rembrandt, 人工智慧, AI, 深度學習, 演算法, 大數據, 資料視覺化, Data Visualisation, 3D 列印, 3D Printing, 藝術, 肖像畫, 油畫, 展覽, 數位工藝, 荷蘭, Netherlands, Microsoft, 微軟, 台夫特理工大學, 臉部辨識, 高度圖, 贊助",
+    "category": "行銷案例",
+    "references": [
+      "https://d3.harvard.edu/platform-digit/submission/the-next-rembrandt/index.html",
+      "https://techxplore.com/news/2016-04-rembrandt-portrait-unveiled-amsterdam.html",
+      "https://www.adsoftheworld.com/campaigns/the-next-rembrandt",
+      "https://ascentialcdn.filespin.io/api/v1/conversion/b596d690cc13420b804befe94ca7639d"
+    ],
+    "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/b596d690cc13420b804befe94ca7639d",
+    "image_shows": "案例圖板：林布蘭風格的新肖像，一名戴黑色寬邊帽、白色皺褶領的鬍鬚男子，旁邊列出收集資料、決定主題、生成特徵、完成畫作四個步驟",
+    "text_source_level": 2,
+    "uncertain": false,
+    "needs_audio": false,
+    "note": "官方全文需登入（lovethework 頁面只有基本資料），內容依案例圖板、Harvard D3、TechXplore、Ads of the World 整理。不同來源對分析畫作與片段數有出入（346 幅／300 多幅；十六萬／168,263 片），讀稿依官方案例圖板。圖板及 Harvard 頁面上的成效數字與其他獎項未寫入。有藝術評論者批評機器無法複製藝術家靈魂，屬一般評論，不算爭議。"
+  },
+  {
+    "id": "ltwm-07958",
+    "year": 2016,
+    "tier": "GRAND PRIX / TITANIUM",
+    "categories": [],
+    "title": "THE ORGANIC EFFECT",
+    "brand": "COOP RETAIL STORE",
+    "agency": "FORSMAN & BODENFORS GOTHENBURG",
+    "links": [
+      "https://www.dandad.org/awards/professional/2016/responsible-production-consumption/232218/the-organic-effect/"
+    ],
+    "decision": "收",
+    "awards": [
+      {
+        "level": "Bronze",
+        "category": "Promo & Activation",
+        "subcategory": "Retail, e-Commerce, Restaurants & Fast Food Chains",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Grand Prix",
+        "category": "PR",
+        "subcategory": "Retail, e-Commerce, Restaurants & Fast Food Chains",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "PR",
+        "subcategory": "Business Citizenship / Environmental",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Silver",
+        "category": "PR",
+        "subcategory": "Content-led Engagement & Marketing",
+        "count": 1,
+        "source_count": 1
+      }
+    ],
+    "awards_unverified": [],
+    "idea_one_liner": "瑞典連鎖超市 Coop 找一家人改吃兩週有機食物，請研究機構驗尿，拍成短片，秀出農藥殘留量前後對比",
+    "brand_display": "Coop 瑞典合作社超市",
+    "full_text": "【得獎】2016 坎城獅子獎（Cannes Lions 2016）｜公關類全場大獎 PR Grand Prix、公關類金獅 PR Gold Lion、公關類銀獅 PR Silver Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：FORSMAN & BODENFORS Gothenburg\n\n【背景】瑞典連鎖超市 Coop 長期支持有機農業，想把這件事推到下一個層次，決定談一個沒有食品公司敢談的話題：吃有機與否，對身體裡的農藥殘留有什麼差別。\n\n【點子】做一個真實的實驗，找一般家庭，看他們改吃有機食物之後，身體裡的農藥量怎麼變，再拍成短片。\n\n【執行】Coop 找來 Palmberg 一家人，原本吃的是一般食物，請瑞典環境研究院 IVL 的研究員 My Troedsson 等人，檢測家人尿液中十二種農藥的數值，再請全家改吃有機食物，之後再測一次，農藥濃度在幾天內降到接近零。Forsman & Bodenfors 全程拍攝，剪成短片，畫面是孩子站在住家街上，左右分別標示「Before」「After」，紅色長條圖疊在身上，顯示農藥數值從高到低。短片放上 YouTube 與 Facebook，也用電子郵件寄給 Coop 的顧客與有機食物的支持者。\n\n【爭議】瑞典農藥協會（Svenskt Växtskydd）控告 Coop 這支片與另一支「Amelia Tests the Organic Effect」。2017 年 7 月 3 日，瑞典專利暨市場法院判定 Coop 的行銷誤導且不公平、片子違法，若再以相同方式行銷食品，須罰款一百萬瑞典克朗並負擔訴訟費。據瑞典公視 SVT 報導，法院認為片子把有機商品說成對健康更好，違反行銷法；Coop 表示失望，不會再播這些片。\n\n資料來源：\nhttps://www.selfstorming.com/tools/libraries/campaigns/coop-sverige-the-organic-effect\nhttps://www.mynewsdesk.com/se/kosmetik-och-hygienfoeretagen/pressreleases/coop-found-guilty-of-misleading-and-unfair-marketing-2045214\nhttps://www.lovethework.com/en/work/entries/the-organic-effect-69767\nhttps://ascentialcdn.filespin.io/api/v1/conversion/192532151c9d4c669dac130eeb960b9c\nhttps://www.svt.se/nyheter/inrikes/coop-falls-for-overdriven-och-skrammande-reklamfilm-om-ekologisk-mat",
+    "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2016, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 公關類全場大獎, PR Grand Prix, 公關類金獅, PR Gold Lion, 公關類銀獅, PR Silver Lion, Promo & Activation 類銅獅, Bronze Lion, Coop, 超市, 零售, Retail, 有機食物, Organic, 有機農業, 農藥, 農藥殘留, Pesticide, 尿液檢測, 科學實驗, 真實家庭, 家庭, 短片, 線上影片, 資料視覺化, 長條圖, 前後對比, 環境保護, Forsman & Bodenfors, F&B, 瑞典, Sweden, IVL, 瑞典環境研究院, YouTube, Facebook, 電子郵件, 內容行銷",
+    "category": "行銷案例",
+    "references": [
+      "https://www.selfstorming.com/tools/libraries/campaigns/coop-sverige-the-organic-effect",
+      "https://www.mynewsdesk.com/se/kosmetik-och-hygienfoeretagen/pressreleases/coop-found-guilty-of-misleading-and-unfair-marketing-2045214",
+      "https://www.lovethework.com/en/work/entries/the-organic-effect-69767",
+      "https://ascentialcdn.filespin.io/api/v1/conversion/192532151c9d4c669dac130eeb960b9c",
+      "https://www.svt.se/nyheter/inrikes/coop-falls-for-overdriven-och-skrammande-reklamfilm-om-ekologisk-mat"
+    ],
+    "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/192532151c9d4c669dac130eeb960b9c",
+    "image_shows": "案例圖板：筆電畫面上一名女孩站在住家街上，左右標示 BEFORE 與 AFTER，各疊著紅色農藥數值長條圖，下方為各國媒體報導截圖與 Coop 標誌",
+    "text_source_level": 2,
+    "uncertain": false,
+    "needs_audio": false,
+    "note": "官方全文需登入，內容依案例圖板、SelfStorming 整理；官方頁面未開放，爭議段依瑞典法院判決新聞稿。檢測週數（兩週）見圖板上報導標題，其他細節以 SelfStorming 為準。圖板上的觀看與觸及成效數字未寫入；搜尋摘要提到的銷售數字未寫入。【爭議】判斷為法院認定行銷誤導，若維護者認為屬一般評論可整段拿掉。 2026-11-05 Opus 驗：【爭議】判斷：法院判定得獎作品本身的主張誤導、禁止再用，屬「成效／內容不實」範圍，保留；已用 SVT 報導交叉確認判決（2017-07-03，Patent- och marknadsdomstolen，一百萬克朗罰款），並補 Coop 回應。未查到上訴結果。待主對話確認。"
+  },
+  {
+    "id": "ltwm-07959",
+    "year": 2016,
+    "tier": "GRAND PRIX / TITANIUM",
+    "categories": [],
+    "title": "UNDER ARMOUR PHELPS",
+    "brand": "UNDER ARMOUR",
+    "agency": "DROGA5 NEW YORK",
+    "links": [
+      "https://www.dandad.org/awards/professional/2016/film-advertising-crafts/25506/under-armour-phelps-90/"
+    ],
+    "decision": "收",
+    "awards": [
+      {
+        "level": "Gold",
+        "category": "Film",
+        "subcategory": "Durable Consumer Goods",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Grand Prix",
+        "category": "Film Craft",
+        "subcategory": "Direction",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "Film Craft",
+        "subcategory": "Cinematography",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Silver",
+        "category": "Film Craft",
+        "subcategory": "Editing",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "Film Craft",
+        "subcategory": "Use of Licensed / Adapted Music",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Silver",
+        "category": "Entertainment Lions for Music",
+        "subcategory": "Use of Licenced Music for a Brand or Campaign",
+        "count": 1,
+        "source_count": 1
+      }
+    ],
+    "awards_unverified": [],
+    "idea_one_liner": "運動品牌 Under Armour 拍游泳名將 Phelps 凌晨苦練與恢復訓練的短片，主打「無人看見時的努力成就你」",
+    "brand_display": "Under Armour",
+    "full_text": "【得獎】2016 坎城獅子獎（Cannes Lions 2016）｜影片工藝類全場大獎 Film Craft Grand Prix、影片類金獅 Film Gold Lion、影片工藝類金獅 Film Craft Gold Lion×2、音樂娛樂類銀獅 Entertainment Lions for Music Silver Lion、影片工藝類銀獅 Film Craft Silver Lion｜代理商：DROGA5 New York\n\n【背景】Under Armour 的「Rule Yourself」系列，先前在 2016 年 2 月已推出兩支短片，主角分別是美國體操國家隊成員與荷蘭足球選手 Memphis Depay，Droga5 紐約三支都參與製作。第三支主角是游泳選手 Michael Phelps，2016 年 3 月在 Under Armour 的巴爾的摩總部首映，時間在他參加當年夏季奧運之前。\n\n【點子】不拍比賽，改拍沒人看到的時刻。標語是「It's what you do in the dark that puts you in the light」，意思是你在黑暗中做的事，才會把你推向光亮處。品牌方的說法是，要讓人看到 Phelps 追求偉大背後的付出，鼓勵運動員突破自己以為的極限。\n\n【執行】導演是 Epoch Films 的 Martin de Thurah，片子帶著紀錄片的質感，拍 Phelps 的訓練、犧牲與決心，包括在泳池與健身房一次又一次的練習、深夜到凌晨還在訓練，還有練完之後吃重的恢復流程。畫面偏暗，片中用字幕交代背景：Phelps 在 2012 年退休，是史上獲獎最多的奧運選手。配樂是 The Kills 的〈The Last Goodbye〉。\n\n資料來源：\nhttps://shootonline.com/shoot_video2/martin-de-thurah-directs-michael-phelps-under-armour-droga5\nhttps://mr-mag.com/under-armour-debuts-new-campaign-film-featuring-michael-phelps\nhttps://www.adsoftheworld.com/media/film/under_armour_rule_yourself_michael_phelps\nhttps://www.lovethework.com/en/work/entries/under-armour-phelps-83232",
+    "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2016, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片工藝類全場大獎, Film Craft Grand Prix, 影片類金獅, Film Gold Lion, 影片工藝類金獅, Film Craft Gold Lion, 音樂娛樂類銀獅, Entertainment Lions for Music Silver Lion, 影片工藝類銀獅, Film Craft Silver Lion, Under Armour, UA, 運動品牌, 運動, Rule Yourself, Droga5, Droga5 New York, Michael Phelps, 菲爾普斯, 游泳, Swimming, 奧運, Olympics, 訓練, 努力, 深夜, 紀錄片風格, Documentary, 導演, Martin de Thurah, Epoch Films, The Kills, The Last Goodbye, 授權音樂, 影片, 品牌影片, 美國, United States, 泳池",
+    "category": "行銷案例",
+    "references": [
+      "https://shootonline.com/shoot_video2/martin-de-thurah-directs-michael-phelps-under-armour-droga5",
+      "https://mr-mag.com/under-armour-debuts-new-campaign-film-featuring-michael-phelps",
+      "https://www.adsoftheworld.com/media/film/under_armour_rule_yourself_michael_phelps",
+      "https://www.lovethework.com/en/work/entries/under-armour-phelps-83232"
+    ],
+    "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/77d30dfb55e843f0a1bb89a8c0de5728",
+    "image_shows": "影片畫面：幾乎全黑的昏暗泳池，水面與分隔泳道的浮標隱約可見，中間有字幕「In 2012, Michael Phelps retired from swimming. The most decorated Olympian of all time.」",
+    "text_source_level": 2,
+    "uncertain": false,
+    "needs_audio": false,
+    "note": "官方全文需登入，內容依 Shoot、Mr. Magazine、Ads of the World 整理；沒有看到影片全片，只依報導描述與一格畫面。圖是影片字幕畫面，點子不明顯，找不到官方 case board 或 maxresdefault（缺 YouTube ID）。其他獎項與成效未寫入。未發現爭議。 2026-11-05 Opus 驗：圖看過：昏暗泳池與字幕，是本片畫面但點子不明顯。官方 YouTube（Xh9jAD1ofm4）縮圖已 404，找不到更好的圖，維持。"
+  },
+  {
+    "id": "ltwm-07960",
+    "year": 2016,
+    "tier": "GRAND PRIX / TITANIUM",
+    "categories": [],
+    "title": "THE FIRST EVER PINTEREST YARD SALE",
+    "brand": "KRYLON",
+    "agency": "DEUTSCH NEW YORK",
+    "links": [
+      "https://www.dandad.org/awards/professional/2016/digital-marketing/25286/the-first-ever-pinterest-yard-sale/"
+    ],
+    "decision": "收",
+    "awards": [
+      {
+        "level": "Silver",
+        "category": "Integrated",
+        "subcategory": "Integrated Campaign",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Bronze",
+        "category": "Cyber",
+        "subcategory": "Fast Moving Consumer Goods",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Titanium",
+        "category": "Titanium",
+        "subcategory": "Titanium",
+        "count": 1,
+        "source_count": 1
+      }
+    ],
+    "awards_unverified": [],
+    "idea_one_liner": "美國噴漆品牌 Krylon 開老箱型車跑完世界最長庭院拍賣，把 127 件破舊物噴漆翻新，全上 Pinterest 販售",
+    "brand_display": "Krylon",
+    "full_text": "【得獎】2016 坎城獅子獎（Cannes Lions 2016）｜鈦獅 Titanium Lion、Integrated類銀獅 Integrated Silver Lion、Cyber類銅獅 Cyber Bronze Lion｜代理商：DEUTSCH New York\n\n【背景】Krylon 是美國噴漆品牌。官方案例板寫的任務是：幫 Krylon 在噴漆品類中脫穎而出，並在 DIY 愛好者之間擴大社群聲量。\n\n【點子】噴漆最擅長把舊東西變新，那就找一場全是舊東西的活動來示範：美國「世界最長庭院拍賣」（World's Longest Yard Sale）。\n\n【執行】由設計師、木工兼電視主持人 Amy Devers 帶隊的「Krylon Crew」，把一輛老箱型車漆成 Krylon 風格，沿著拍賣路線 127 號公路開了 690 英里、橫跨六個州，買下看起來沒價值的物件，用 Krylon 噴漆修復 127 件，包括木製玩具飛機、金屬時鐘、老電話、鹿角裝飾、溜冰鞋、木琴等，顏色換成鮮豔的紅、藍、綠、黃。配合 Pinterest 推出可購買圖釘（Buyable Pins），這些物件全部放上 Pinterest 販售，每件標價，所得全數捐給推廣藝術創作的非營利組織 Charity Wings Arts and Crafts Center。另有網站 krylon127yardsale.com，用地圖標示路線。\n\n資料來源：\nhttps://ascentialcdn.filespin.io/api/v1/conversion/8f18f345e5044482836b5831c9d84cf8\nhttps://www.lovethework.com/en/work/entries/the-first-ever-pinterest-yard-sale-83437\nhttps://www.houseofhawthornes.com/the-worlds-longest-yard-sale-127-yard-sale/\nhttps://www.bkmag.com/?p=37457",
+    "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2016, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 鈦獅, Titanium Lion, Integrated 類銀獅, Integrated Silver Lion, Cyber 類銅獅, Cyber Bronze Lion, Krylon, Sherwin-Williams, 噴漆, Spray Paint, 家用品, DIY, 翻新, 二手, Yard Sale, 庭院拍賣, 世界最長庭院拍賣, 127 Yard Sale, Pinterest, 可購買圖釘, Buyable Pins, 社群, 電商, 公路旅行, 箱型車, 老箱型車, 慈善, 整合行銷, Integrated Campaign, Deutsch, Deutsch New York, 美國, United States, 網站, 地圖",
+    "category": "行銷案例",
+    "references": [
+      "https://ascentialcdn.filespin.io/api/v1/conversion/8f18f345e5044482836b5831c9d84cf8",
+      "https://www.lovethework.com/en/work/entries/the-first-ever-pinterest-yard-sale-83437",
+      "https://www.houseofhawthornes.com/the-worlds-longest-yard-sale-127-yard-sale/",
+      "https://www.bkmag.com/?p=37457"
+    ],
+    "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/8f18f345e5044482836b5831c9d84cf8",
+    "image_shows": "案例圖板：Pinterest 頁面上一格格販售的翻新舊物（紅色玩具飛機、粉紅電話、藍色置物櫃、黃色小桌等），下方有紅白箱型車、127 號公路標誌、噴漆畫面與 Krylon 罐子",
+    "text_source_level": 2,
+    "uncertain": false,
+    "needs_audio": false,
+    "note": "官方全文需登入；網頁來源只有官方案例板與一則部落格（提到 Krylon 贊助拍賣與 Pinterest 販售），LBB、MediaPost 等報導無法連上，所以讀稿多半依案例板文字，缺獨立報導佐證。日期、售價總額等搜尋摘要才有的內容未寫入；案例板上的成效數字未寫入。未發現爭議。 2026-11-05 Opus 驗：補 Brooklyn Magazine（Krylon 贊助文）作第二個文字來源：Amy Devers 帶隊、690 英里六州、127 件、全上 Pinterest、所得捐 Charity Wings，與案例板相符。LBB、MediaPost 仍 403。"
+  },
+  {
+    "id": "ltwm-07961",
+    "year": 2016,
+    "tier": "GOLD",
+    "categories": [],
+    "title": "BEHIND THE LEATHER",
+    "brand": "PETA ASIA",
+    "agency": "OGILVY BANGKOK",
+    "links": [
+      "https://www.dandad.org/awards/professional/2017/creativity-for-good/25776/behind-the-leather/"
+    ],
+    "decision": "收",
+    "awards": [
+      {
+        "level": "Bronze",
+        "category": "Promo & Activation",
+        "subcategory": "Charities & Appeals",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "Media",
+        "subcategory": "Use of Ambient Media: Large Scale",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Silver",
+        "category": "Media",
+        "subcategory": "Use of Stunts",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "Design",
+        "subcategory": "Retail - Temporary and Pop-Up Environment & Experience Design",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "Design",
+        "subcategory": "Non-commercial Exhibitions & Experiences",
+        "count": 1,
+        "source_count": 1
+      }
+    ],
+    "awards_unverified": [],
+    "idea_one_liner": "動保組織 PETA Asia 在曼谷商場開精品皮件店，顧客拿起包包，發現內裡是仿真的血淋淋內臟",
+    "brand_display": "PETA Asia",
+    "full_text": "【得獎】2016 坎城獅子獎（Cannes Lions 2016）｜設計類金獅 Design Gold Lion×2、媒體類金獅 Media Gold Lion、媒體類銀獅 Media Silver Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：OGILVY & MATHER Bangkok\n\n【背景】官方案例板的說法是：無數外來動物被活生生剝皮，成為奢侈時尚商品，而人們被美麗蒙蔽，看不到購買背後的動物殘酷。PETA Asia 想讓大眾把兩者連起來，揭露皮革背後的真相。\n\n【點子】開一間看起來完全真實的精品店，讓人被商品吸引，拿起來細看時才發現不對勁。\n\n【執行】PETA Asia 與 Ogilvy & Mather 曼谷在曼谷時尚商圈的商場裡設了一間名為 The Leather Work（副標 Handcrafted Luxury）的皮件店，展示外皮材質的包包、皮夾克、鞋與配件，店員站在櫃台迎客。這些商品的內裡做成機械裝置，翻開來是看似有溫度、會跳動的動物內臟，用來重現「活剝皮」。現場以隱藏攝影機拍下顧客遇到時的驚嚇反應。團隊再把這場惡作劇搬上網路，在電商平台上把商品當成一般產品貼文，揭露製作過程，並請訪客到活動網站承諾不再使用外來動物皮革。\n\n資料來源：\nhttps://ascentialcdn.filespin.io/api/v1/conversion/0be1a8b016c0404d94e6237aaf55e5a8\nhttps://www.thequint.com/videos/petas-behind-the-leatherad-that-makes-you-jump-out-of-your-skin\nhttps://www.natureworldnews.com/articles/22319/20160517/terrifying-video-peta-opens-leather-shop-with-bags-featuring-pulsating-organs-shoppers-horrified.htm\nhttps://www.adruby.com/peta/peta-behind-leather",
+    "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2016, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 設計類金獅, Design Gold Lion, 媒體類金獅, Media Gold Lion, 媒體類銀獅, Media Silver Lion, Promo & Activation 類銅獅, Bronze Lion, PETA, PETA Asia, 動物保護, 動物權益, 非營利, 公益, 皮革, 外來皮革, Exotic Skin, 奢侈品, 精品, 快閃店, Pop-up Shop, 惡作劇, Prank, 隱藏攝影機, 情緒衝擊, 震撼, 裝置, 零售空間, 內臟, 機械裝置, Ogilvy & Mather Bangkok, Ogilvy, 泰國, Thailand, 曼谷, 商場, 影片, 病毒式傳播, 包包, 皮夾克",
+    "category": "行銷案例",
+    "references": [
+      "https://ascentialcdn.filespin.io/api/v1/conversion/0be1a8b016c0404d94e6237aaf55e5a8",
+      "https://www.thequint.com/videos/petas-behind-the-leatherad-that-makes-you-jump-out-of-your-skin",
+      "https://www.natureworldnews.com/articles/22319/20160517/terrifying-video-peta-opens-leather-shop-with-bags-featuring-pulsating-organs-shoppers-horrified.htm",
+      "https://www.adruby.com/peta/peta-behind-leather"
+    ],
+    "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/0be1a8b016c0404d94e6237aaf55e5a8",
+    "image_shows": "案例圖板：白色明亮的精品皮件店（店名 The Leather Work），陳列黑色皮夾克與蛇紋包包，下方是翻開包包與外套內裡可見的血紅色仿真內臟特寫、顧客驚嚇的畫面",
+    "text_source_level": 2,
+    "uncertain": false,
+    "needs_audio": false,
+    "note": "官方全文需登入，內容依案例圖板、The Quint、Nature World News、AdRuby 整理。【爭議】已搜尋，只有「讓人不適」的一般評論，不算爭議。案例板上的成效與媒體名單未寫入；Business Insider 印度版連不上（網域未開放）。"
+  },
+  {
+    "id": "ltwm-07962",
+    "year": 2016,
+    "tier": "GOLD",
+    "categories": [],
+    "title": "BRAINBAND",
+    "brand": "SAMSUNG BRAINBAND",
+    "agency": "LEO BURNETT SYDNEY",
+    "links": [
+      "https://clios.com/sports/winner/direct/samsung/brainband-15312"
+    ],
+    "decision": "收",
+    "awards": [
+      {
+        "level": "Bronze",
+        "category": "Digital Craft",
+        "subcategory": "Curation of Data",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Bronze",
+        "category": "Digital Craft",
+        "subcategory": "Innovative Use of Technology",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Silver",
+        "category": "Promo & Activation",
+        "subcategory": "Public Health & Safety",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "Promo & Activation",
+        "subcategory": "Use of New Technology",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Silver",
+        "category": "Creative Data",
+        "subcategory": "Use of Real-time Data",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Silver",
+        "category": "Pharma",
+        "subcategory": "HCP Devices & Diagnostics",
+        "count": 1,
+        "source_count": 1
+      }
+    ],
+    "awards_unverified": [],
+    "idea_one_liner": "三星澳洲為碰撞運動做出頭帶，偵測頭部撞擊力道，亮黃、橙、紅燈，並即時傳給裁判、教練與醫護",
+    "brand_display": "Samsung brainBAND",
+    "full_text": "【得獎】2016 坎城獅子獎（Cannes Lions 2016）｜Promo & Activation類金獅 Promo & Activation Gold Lion、創意數據類銀獅 Creative Data Silver Lion、製藥類銀獅 Pharma Silver Lion、Promo & Activation類銀獅 Promo & Activation Silver Lion、數位工藝類銅獅 Digital Craft Bronze Lion×2｜代理商：LEO BURNETT SYDNEY / LEO BURNETT SYDNEY Sydney\n\n【背景】官方案例板指出，碰撞運動有一個看不見的危險：猛烈擒抱讓球員承受腦震盪等級的衝擊，卻不一定當下看得出來，球員也常忽略症狀繼續上場，累積傷害可能造成失憶、憂鬱甚至失智。Samsung Australia 找 Leo Burnett 雪梨，用科技處理這個社會議題，呼應 Samsung 的「Launching People」計畫。\n\n【點子】做一條會量衝擊力的頭帶，讓場邊的人比球員本人更早知道「該下場了」。\n\n【執行】brainBAND 由神經科學家 Alan Pearce 與工業設計師 Braden Wilson 在 Samsung 的計畫下合作開發，頭帶後方有感測器，量測撞擊的重力加速度（G 值），數據透過 Samsung 裝置即時傳給裁判（手錶）、教練（手機）與醫護（平板）。頭帶上有燈號：黃、橙、紅，紅色代表球員應立刻下場檢查；所有數據都會記錄，長期可看到大腦承受的累積力道。橄欖球明星 Izzy Folau 擔任代言人，是第一位在實際場上試戴的職業球員；Leo Burnett 另做了一部八集的線上系列，記錄設計與實地測試。Samsung 說明這是研究用的原型，並非商品。\n\n資料來源：\nhttps://ascentialcdn.filespin.io/api/v1/conversion/d59097b78ca541aa891fe2283cc146c4\nhttps://news.samsung.com/global/samsung-australia-introduces-brainband-to-help-tackle-concussion-head-on\nhttps://www.selfstorming.com/tools/libraries/campaigns/brainband\nhttps://mumbrella.com.au/?p=354952",
+    "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2016, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Promo & Activation 類金獅, Promo & Activation Gold Lion, 創意數據類銀獅, Creative Data Silver Lion, 製藥類銀獅, Pharma Silver Lion, Promo & Activation 類銀獅, 數位工藝類銅獅, Digital Craft Bronze Lion, Samsung, 三星, Samsung Australia, 科技, 電子產品, 穿戴裝置, Wearable, 頭帶, 腦震盪, Concussion, 運動安全, 橄欖球, Rugby, 碰撞運動, Contact Sports, 感測器, 即時數據, Real-time Data, 手錶, 智慧型手機, 平板, LED 燈號, Launching People, Leo Burnett Sydney, 澳洲, Australia, Izzy Folau, 公益, 健康, 原型, 系列影片",
+    "category": "行銷案例",
+    "references": [
+      "https://ascentialcdn.filespin.io/api/v1/conversion/d59097b78ca541aa891fe2283cc146c4",
+      "https://news.samsung.com/global/samsung-australia-introduces-brainband-to-help-tackle-concussion-head-on",
+      "https://www.selfstorming.com/tools/libraries/campaigns/brainband",
+      "https://mumbrella.com.au/?p=354952"
+    ],
+    "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/d59097b78ca541aa891fe2283cc146c4",
+    "image_shows": "案例圖板：黑色菱格紋頭帶，部分菱形亮起橘紅燈，右側是裁判手錶、教練手機、醫護平板顯示 17.38 G，下方為橄欖球擒抱黑白照與球員 Folau 背影",
+    "text_source_level": 2,
+    "uncertain": false,
+    "needs_audio": false,
+    "note": "官方全文需登入，內容依官方案例圖板、Samsung 新聞稿、SelfStorming、Mumbrella 整理。案例板與 SelfStorming 的成效、創意行銷者獎等未寫入。Folau 名字報導有 Izzy／Israel 兩種寫法，讀稿用案例板的 Izzy。「第一位實測職業球員」與「原型」的說法來自 Samsung 新聞稿與 SelfStorming。官方獎項裡也有「Pharma HCP 裝置」類，與本稿「運動護具」定位略不同，僅供參考。未發現爭議。 2026-11-05 Opus 驗：獎項照官方（含 Pharma HCP Devices & Diagnostics 銀獅），屬報名類別選擇，讀稿描述的頭帶做法與官方案例板一致，不改。"
+  },
+  {
+    "id": "ltwm-07963",
+    "year": 2016,
+    "tier": "GOLD",
+    "categories": [],
+    "title": "100% KOSHER HEAD & SHOULDERS",
+    "brand": "HEAD & SHOULDERS",
+    "agency": "MEDIACOM TEL AVIV",
+    "links": [
+      "https://www.youtube.com/watch?v=-WAK1hMq9QM&ab_channel=MediaComGlobal"
+    ],
+    "decision": "收",
+    "awards": [
+      {
+        "level": "Gold",
+        "category": "Media",
+        "subcategory": "Fast Moving Consumer Goods",
+        "count": 1,
+        "source_count": 1
+      }
+    ],
+    "awards_unverified": [],
+    "idea_one_liner": "以色列 Head & Shoulders 買下全國逾越節搜查包，加放頭皮屑測試貼片，讓猶太家庭搜麵包屑時，順便驗頭皮屑",
+    "brand_display": "Head & Shoulders",
+    "full_text": "【得獎】2016 坎城獅子獎（Cannes Lions 2016）｜媒體類金獅 Media Gold Lion｜代理商：MEDIACOM ISRAEL Tel Aviv\n\n【背景】官方案例板寫的任務是提升 Head & Shoulders 在以色列的銷售，但以色列人處於「否認」狀態：一半人有頭皮屑，卻不想知道，朋友也不會告訴他們。\n\n【洞察】猶太人在逾越節前夕，會在家中尋找不潔淨（不合規）的東西，例如麵包屑；傳統的搜查工具是蠟燭、羽毛與木勺。團隊把「搜屑」這件事和頭皮屑接在一起。\n\n【點子】用目標族群的信仰儀式當媒體，叫做「Divine Sampling（神聖試用）」：搜尋頭皮屑成為逾越節的一部分。\n\n【執行】團隊買下以色列全國供應的逾越節搜查包，在傳統的禱詞、蠟燭、羽毛與木勺旁，加入一片頭皮屑測試貼片，包裝上印著頭戴猶太小圓帽的男子與品牌標誌。搜查包透過全國的猶太會堂發放，Head & Shoulders 是第一個用這個管道的品牌。圖板照片裡，有人拿著貼片貼在頭皮上檢查。\n\n資料來源：\nhttps://ascentialcdn.filespin.io/api/v1/conversion/6ff82455cc8245a4b7b06dfdbbe8dd7c\nhttps://www.lovethework.com/en/work/entries/100-kosher-head-shoulders-60784\nhttps://en.wikipedia.org/wiki/Bedikat_Chametz",
+    "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2016, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 媒體類金獅, Media Gold Lion, Head & Shoulders, 海倫仙度絲, P&G, 寶僑, Procter & Gamble, 洗髮精, 日用品, 個人清潔, 頭皮屑, Dandruff, 試用品, Sampling, Divine Sampling, 逾越節, Passover, 猶太教, 宗教儀式, 傳統, 搜查包, Passover Kit, 猶太會堂, Synagogue, 測試貼片, 洞察, 包裝, 媒體創意, MediaCom, MediaCom Tel Aviv, 以色列, Israel, 蠟燭, 羽毛, 木勺, 猶太小圓帽",
+    "category": "行銷案例",
+    "references": [
+      "https://ascentialcdn.filespin.io/api/v1/conversion/6ff82455cc8245a4b7b06dfdbbe8dd7c",
+      "https://www.lovethework.com/en/work/entries/100-kosher-head-shoulders-60784",
+      "https://en.wikipedia.org/wiki/Bedikat_Chametz"
+    ],
+    "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/6ff82455cc8245a4b7b06dfdbbe8dd7c",
+    "image_shows": "案例圖板：木桌上並排禱詞卡、羽毛、印有戴小圓帽男子與 H&S 標誌的長條包裝、頭皮屑測試貼片、木勺與蠟燭，下方三張猶太人拿貼片檢查頭皮的照片",
+    "text_source_level": 2,
+    "uncertain": false,
+    "needs_audio": false,
+    "note": "官方全文需登入（lovethework 頁只有基本資料），讀稿依官方案例圖板與 Wikipedia 的 Bedikat Chametz（儀式背景）。AdsSpot 案例頁連不上（403）。案例板上的成效數字（發放數、市占）未寫入。未發現爭議。"
+  },
+  {
+    "id": "ltwm-07964",
+    "year": 2016,
+    "tier": "GOLD",
+    "categories": [],
+    "title": "BREATHING, TONGUE, BLINKING",
+    "brand": "DOVE",
+    "agency": "OGILVY LONDON",
+    "links": [
+      "https://sites.wpp.com/wppedcream/2016/advertising/radio/self_conscious"
+    ],
+    "decision": "收",
+    "awards": [
+      {
+        "level": "Gold",
+        "category": "Radio",
+        "subcategory": "Corporate Image & Sponsorship",
+        "count": 1,
+        "source_count": 3
+      },
+      {
+        "level": "Gold",
+        "category": "Radio",
+        "subcategory": "Script",
+        "count": 1,
+        "source_count": 3
+      }
+    ],
+    "awards_unverified": [],
+    "idea_one_liner": "英國 Dove 的三支廣播廣告分別點名舌頭、呼吸、眨眼，讓聽眾一被提醒，就忍不住在意自己的身體",
+    "brand_display": "Dove",
+    "full_text": "【得獎】2016 坎城獅子獎（Cannes Lions 2016）｜Radio類金獅 Radio Gold Lion×2｜代理商：OGILVY & MATHER LONDON\n\n【背景】Dove 自 2004 年起推動 Dove Self-Esteem Project，為家長、老師與師長提供資源與工作坊，協助 7 到 17 歲女孩建立身體自信。\n\n【點子】用一則大眾媒體上的簡單訊息，讓聽眾親身體會：自己對身體的感受，是多麼容易被操弄。廣告把平常不會被注意的身體動作與行為，變得「無法忽略」，借此提醒聽眾，年輕女孩每天接收到的訊息，對她們的影響有多容易。\n\n【執行】Ogilvy & Mather 倫敦為 Dove 做了一組名為「Self Conscious」的英國廣播廣告，共三支，題目分別是 Tongue（舌頭）、Breathing（呼吸）、Blinking（眨眼）。官方報名資料列了三支音檔，但頁面未提供各支的台詞，因此實際講了什麼、怎麼進行，本稿無法描述。音效設計為 Sam Cross，文案為 Simon Lotze 與 Miguel Nunes，製作公司為 Gramercy Park Studios 倫敦。\n\n資料來源：\nhttps://www.oneclub.org/awards/theoneshow/-award/24517/dove-self-conscious/\nhttps://www.radiocentre.org/?p=1860\nhttps://dandad.org/awards/professional/2016/radio-advertising/24938/self-conscious\nhttps://www.lovethework.com/en/work/entries/tongue-52963",
+    "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2016, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Radio 類金獅, Radio Gold Lion, 廣播類, 廣播廣告, 音訊, Audio, Dove, Unilever, 聯合利華, Dove Self-Esteem Project, 自尊, 身體自信, 身體意象, Body Image, 女孩, 少女, 公益, 美妝個人護理, Ogilvy & Mather London, Ogilvy, 英國, United Kingdom, Self Conscious, Tongue, Breathing, Blinking, 舌頭, 呼吸, 眨眼, 身體感受, 文案, Script, 音效設計",
+    "category": "行銷案例",
+    "references": [
+      "https://www.oneclub.org/awards/theoneshow/-award/24517/dove-self-conscious/",
+      "https://www.radiocentre.org/?p=1860",
+      "https://dandad.org/awards/professional/2016/radio-advertising/24938/self-conscious",
+      "https://www.lovethework.com/en/work/entries/tongue-52963"
+    ],
+    "image_url": "",
+    "image_shows": "",
+    "text_source_level": 2,
+    "uncertain": true,
+    "needs_audio": true,
+    "note": "官方全文需登入；網上找不到三支廣播的台詞或逐字稿，D&AD、One Show、Radiocentre 頁面只有概念與製作名單，故讀稿只寫概念與製作資訊，點子執行的細節缺（需聽音檔），uncertain。找不到好圖：官方 image_candidates 只有灰色音訊 SVG 圖示，已搬棄用，image_url 留空。官方作品名為 TONGUE／BREATHING／BLINKING 三支合報。搜尋到一篇南非 Dove 廣告爭議，與本作無關，未寫入。 2026-11-05 Opus 驗：再查：官方 TONGUE、BLINKING 卡片頁無台詞；D&AD 案例頁 404。仍缺三支台詞，維持 uncertain、無圖。一句話改寫（原句逗號拆開動詞與受詞）。",
+    "idea_one_liner_r0": "英國 Dove 推出三支廣播廣告，分別以舌頭、呼吸、眨眼為題，讓聽眾無法忽略，平常沒人注意的身體動作"
+  },
+  {
+    "id": "ltwm-07965",
+    "year": 2016,
+    "tier": "GOLD",
+    "categories": [],
+    "title": "EDIBLE SIX-PACK RINGS",
+    "brand": "SALTWATER BREWERY",
+    "agency": "WE BELIEVERS NEW YORK",
+    "links": [
+      "https://clios.com/awards/winner/public-relations/saltwater-brewery/edible-six-pack-rings-13294"
+    ],
+    "decision": "收",
+    "awards": [
+      {
+        "level": "Bronze",
+        "category": "Promo & Activation",
+        "subcategory": "Food & Drinks",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "Innovation",
+        "subcategory": "Creative Innovation",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Silver",
+        "category": "PR",
+        "subcategory": "Food & Drinks",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "PR",
+        "subcategory": "Business Citizenship / Environmental",
+        "count": 1,
+        "source_count": 1
+      }
+    ],
+    "awards_unverified": [],
+    "idea_one_liner": "佛羅里達啤酒廠 Saltwater Brewery 用釀酒剩下的大麥、小麥做成六罐裝提環，可分解，海洋動物誤吃也無妨",
+    "brand_display": "Saltwater Brewery",
+    "full_text": "【得獎】2016 坎城獅子獎（Cannes Lions 2016）｜創新類金獅 Innovation Gold Lion、公關類金獅 PR Gold Lion、公關類銀獅 PR Silver Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：WE BELIEVERS New York\n\n【背景】官方案例板指出，美國人去年喝了 63 億加侖啤酒，一半裝在罐子裡，而六罐裝的塑膠提環多半最後流進海洋。問題不只是動物被纏住，更糟的是動物會把塑膠吃下去。\n\n【點子】做一個「讓動物吃了有東西可吃，而不是被害死」的六罐裝提環：Edible Six Pack Ring。\n\n【執行】Saltwater Brewery 是佛羅里達州德爾雷海灘的啤酒廠，與 We Believers 合作，提環用釀酒過程剩下的大麥與小麥做成。品牌說這是啤酒產業第一次使用 100% 可分解、可食用的包裝，強度與效率和塑膠提環一樣，若大型酒廠採用，製造成本會降到可與現有塑膠方案競爭。報導指出，Saltwater 在 2016 年 4 月用 3D 列印做出 500 個，計畫擴大到包裝工廠每月約 40 萬罐的產量，成本比塑膠高，品牌希望其他酒廠跟進、讓價格降下來。案例板畫面是一隻海龜咬住提環，另附塑膠提環纏住海龜、魚腹中有塑膠碎片的畫面。\n\n資料來源：\nhttps://ascentialcdn.filespin.io/api/v1/conversion/17afde2dd6f14bb5beab9c67082f60c7\nhttps://e360.yale.edu/digest/edible_six_pack_ring_ocean_pollution_saltwater_brewery\nhttps://www.smithsonianmag.com/smart-news/brewery-introduces-edible-biodegrable-six-pack-rings-180959172/\nhttps://vinepair.com/booze-news/this-craft-brewery-invented-biodegradable-six-pack-rings-to-protect-wildlife",
+    "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2016, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 創新類金獅, Innovation Gold Lion, 公關類金獅, PR Gold Lion, 公關類銀獅, PR Silver Lion, Promo & Activation 類銅獅, Bronze Lion, Saltwater Brewery, 啤酒, 啤酒廠, 精釀啤酒, Craft Beer, 食品飲料, Food & Drinks, 六罐裝提環, Six Pack Ring, 包裝, 可食用包裝, Edible Packaging, 可分解, Biodegradable, 環保, 永續, 塑膠污染, Plastic Pollution, 海洋, 海龜, 海洋生物, 釀酒副產品, 大麥, 小麥, 3D 列印, We Believers, We Believers New York, 美國, United States, 佛羅里達, 創新, Creative Innovation, 企業公民",
+    "category": "行銷案例",
+    "references": [
+      "https://ascentialcdn.filespin.io/api/v1/conversion/17afde2dd6f14bb5beab9c67082f60c7",
+      "https://e360.yale.edu/digest/edible_six_pack_ring_ocean_pollution_saltwater_brewery",
+      "https://www.smithsonianmag.com/smart-news/brewery-introduces-edible-biodegrable-six-pack-rings-180959172/",
+      "https://vinepair.com/booze-news/this-craft-brewery-invented-biodegradable-six-pack-rings-to-protect-wildlife"
+    ],
+    "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/17afde2dd6f14bb5beab9c67082f60c7",
+    "image_shows": "案例圖板：藍色海水中，一隻海龜咬住六罐裝提環的一角，標題寫 EDIBLE SIX PACK RING，下方列出問題、解法與重點",
+    "text_source_level": 2,
+    "uncertain": false,
+    "needs_audio": false,
+    "note": "官方全文需登入，內容依案例圖板、Yale e360、Smithsonian、VinePair 整理。「可食用、可分解」為品牌說法，報導未見獨立測試，Smithsonian 還提到有其他較不傷動物的提環替代品、直接威脅可能被誇大，屬一般評論，不算爭議，未寫入讀稿。成效與其他獎項未寫入。官方作品名為 EDIBLE SIX PACK RINGS。 2026-11-05 Opus 驗：一句話改寫（原句逗號拆開兩個形容詞）。",
+    "idea_one_liner_r0": "佛羅里達 Saltwater Brewery 啤酒廠用釀酒剩下的大麥與小麥，做出海洋動物吃了也無妨，可分解的六罐裝提環"
+  },
+  {
+    "id": "ltwm-07966",
+    "year": 2016,
+    "tier": "GOLD",
+    "categories": [],
+    "title": "IT’S THAT AFFORDABLE",
+    "brand": "IKEA SPECIAL OFFERS",
+    "agency": "MEMAC OGILVY DUBAI",
+    "links": [
+      "http://julianaparacencio.com/#/ikea/"
+    ],
+    "decision": "收",
+    "awards": [
+      {
+        "level": "Gold",
+        "category": "Outdoor",
+        "subcategory": "Retail, e-Commerce, Restaurants & Fast Food Chains",
+        "count": 1,
+        "source_count": 5
+      },
+      {
+        "level": "Gold",
+        "category": "Outdoor",
+        "subcategory": "Retail, e-Commerce, Restaurants & Fast Food Chains",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "Print & Publishing",
+        "subcategory": "Retail & e-Commerce",
+        "count": 1,
+        "source_count": 4
+      },
+      {
+        "level": "Silver",
+        "category": "Print & Publishing",
+        "subcategory": "Art Direction",
+        "count": 1,
+        "source_count": 4
+      }
+    ],
+    "awards_unverified": [],
+    "idea_one_liner": "沙烏地 IKEA 的平面廣告用一格格郵票拼出床架，每張郵票 5 里亞爾，標價 155 里亞爾，標語「就是這麼便宜」",
+    "brand_display": "IKEA 沙烏地阿拉伯",
+    "full_text": "【得獎】2016 坎城獅子獎（Cannes Lions 2016）｜戶外類金獅 Outdoor Gold Lion×2、平面與出版類金獅 Print & Publishing Gold Lion、平面與出版類銀獅 Print & Publishing Silver Lion｜代理商：MEMAC OGILVY Dubai\n\n【背景】官方報名的作品名是 BED、LAMP、NIGHTSTAND、TABLE、BOOKCASE，代表同系列的多件家具廣告；本稿描述案例圖像中可確認的那一張，即床。\n\n【點子】用日常生活的小東西當「貨幣」，讓人一眼感覺家具有多便宜。據執行這組廣告的創意人作品集，這個系列用咖啡、牙膏、汽水罐、郵票、披薩盒等取代金額，來說明 IKEA 產品的價錢。\n\n【執行】IKEA 沙烏地阿拉伯、Memac Ogilvy 杜拜製作的平面廣告，在亮黃色背景上，用一格格郵票拼成方塊，每張郵票面額 5 SR，上方印 2016，郵票之間的畫面剛好拼出一張 IKEA 的 FJELLSE 松木床架與藍色寢具。右下白色小卡寫著商品名、「Bed frame, pine」與價格 SR 155，下面是標語「It's that affordable.」與 IKEA 標誌，價格剛好等於 31 張 5 SR 郵票。\n\n資料來源：\nhttps://ascentialcdn.filespin.io/api/v1/conversion/d71c769ead26451caab59616333218cc\nhttp://julianaparacencio.com/#/ikea/\nhttps://campaignme.com/memac-ogilvy-dubai-hits-double-gold/",
+    "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2016, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 戶外類金獅, Outdoor Gold Lion, 平面與出版類金獅, Print & Publishing Gold Lion, 平面與出版類銀獅, Print & Publishing Silver Lion, IKEA, 宜家, 家具, 零售, Retail, 平面廣告, Print, 戶外廣告, Outdoor, 價格, 便宜, 平價, It's that affordable, 郵票, Stamps, 日常小物, 貨幣, 床, FJELLSE, 床架, 檯燈, 床頭櫃, 桌子, 書櫃, 黃色, 視覺, 美術指導, Art Direction, Memac Ogilvy, Memac Ogilvy Dubai, 沙烏地阿拉伯, Saudi Arabia, 中東, 系列廣告",
+    "category": "行銷案例",
+    "references": [
+      "https://ascentialcdn.filespin.io/api/v1/conversion/d71c769ead26451caab59616333218cc",
+      "http://julianaparacencio.com/#/ikea/",
+      "https://campaignme.com/memac-ogilvy-dubai-hits-double-gold/"
+    ],
+    "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/d71c769ead26451caab59616333218cc",
+    "image_shows": "海報：亮黃色背景，一格格郵票拼成方塊，郵票間的畫面拼出一張松木床架與藍色寢具，右下白卡寫 FJELLSE 床架 SR 155 與標語 It's that affordable.",
+    "text_source_level": 2,
+    "uncertain": false,
+    "needs_audio": false,
+    "note": "官方全文需登入；網上沒有找到詳細的案例說明，讀稿依案例圖像與一位創意人的作品集頁面，另 CityMagazine、WuV 頁面連不上。只描述了床這張，LAMP、NIGHTSTAND、TABLE、BOOKCASE 的內容沒有看到畫面，未寫。「31 張」是依 155÷5 推算，圖上郵票格也是 31 格。未發現爭議（搜到的 2012 年 IKEA 沙烏地目錄修圖爭議與本作無關）。 2026-11-05 Opus 驗：圖看過：郵票 6 列×5 格加 1 張共 31 張、每張 5 SR，FJELLSE SR 155，與讀稿相符。報名 5 支只看得到床這張，其餘作品名已在背景交代，維持。"
+  }
+]

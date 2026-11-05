@@ -40,3 +40,10 @@
 - b046 ltwm-08403 IGUGU THEMBI：轉寫官方 YouTube 音檔補劇情，拿掉 uncertain。
 - b055 Shockwave：同一筆報名含 SHOCKWAVE 與 LOSS OF CONTROL 兩支，不算重複。
 - 圖：b046 Nonnas 主機回 image/webp。
+## 2026-11-06 雲端第 1 輪 b001 b003 b004（Sonnet 寫、Opus 驗）
+- b003 ltwm-07958 Coop THE ORGANIC EFFECT：【爭議】候選。2017 瑞典專利暨市場法院判定影片行銷誤導、禁播（SVT 報導確認）；驗收員建議保留【爭議】。
+- b004 ltwm-07978 Clever Kash：有人留言質疑是詐騙，驗收員搜不到報導，建議不加【爭議】。
+- b001 07939 KFC THE EVERYMAN MEAL（廣播）：缺音檔與逐字稿，仍 uncertain。
+- b003 Dove BREATHING, TONGUE, BLINKING（廣播）：缺台詞，仍 uncertain，無圖。
+- b001 07935 Brewtroleum：官方品牌 Heineken NZ，稿用 DB Export（背景已註明），請確認品牌欄。
+- 圖不理想：b001 07936 Philips（非官方合照）、b001 07943 AlphaGo（直播截圖）、b003 Phelps（字幕畫面）、b004 ltwm-07968 Songbirds（圖上字幕是成效，建議換）。
