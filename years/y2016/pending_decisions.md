@@ -10,3 +10,9 @@
 - b053 ltwm-08483 Skittles PSYCHIC, GENIE：廣播，找不到腳本／音檔，不收。
 - 仍 uncertain：b052 08466 Huünen（無文字來源，點子依標語解讀）、b053 08479 PLAYDOWJONES、b054 08491 REINCARNATION（委託方疑為 Velodrome 單車店，原報導打不開）。
 - 圖：b053 08478 用非官方頻道 YouTube 縮圖；b052 08473 PEPSI PERFECT 用 SlashGear 實拍。
+
+## 2026-11-06 本機 b057 b061 b062（GPT 寫、Opus 驗）
+- b062 ltwm-08574 Valda：廣播，缺音訊與台詞，仍 uncertain，無圖。
+- b057 ltwm-08522 Sweet Dreams：找不到能呈現點子的圖，圖留空。
+- b062 ltwm-08568：Reason 質疑其引用的統計數字，屬數字爭論，不算【爭議】。
+- GPT 稿一句話偏書面，b061、b062 幾乎全批重寫一句話。
