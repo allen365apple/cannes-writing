@@ -168,3 +168,7 @@
 - b056 ltwm-09169 White Hats：兩份報名資料成效數字不一致、有將領說法較小，成效沒寫進讀稿，不算【爭議】。ltwm-09171 SnapSkate：代理商照官方寫 Ogilvy Frankfurt（報導寫 Berlin）。
 - 圖不理想：b050 ltwm-09109 Keepers（官方板是雪地空景，用 Tribeca 劇照）、ltwm-09108 只有字卡、ltwm-09099／09100 案例板低解析；b054 全批只有影片分鏡截圖；b056 ltwm-09163、09165 只有小縮圖。
 - 重複候選：無（b054 EQUALITY 另一張 equality-signs 是 b014 的 ltwm-08735，不重複）。【爭議】候選：無。
+
+## 2026-11-06 本機 b057–b060
+- b059 ltwm-09193 OPEN YOUR EYES：【爭議】候選。Horizont 文末 5/10 更新：讀者指出 Leo Burnett 2005 年替 Pro Familia 做過類似點子；沒有正式抄襲指控。建議：不加【爭議】，note 已記。
+- b057 #HATEPIANO：官方代理商 POSSIBLE MOSCOW，報導寫 Hungry Boys，關係不明；【得獎】行照官方。
