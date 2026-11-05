@@ -4,3 +4,9 @@
 - b058 ltwm-08529、08532：廣播，找不到原音或腳本，仍 uncertain；08529、08531、08532 沒有可用圖。
 - b059 CLEAR：廣播，沒有合適圖。
 - b063 Bieber 那筆 in 檔 title 與 brand 欄位對調，正文正確；收尾時照官方修欄位。
+
+## 2026-11-06 本機 b052–b054（Sonnet 寫、Opus 驗）
+- b054 ltwm-08493 ROAM DELIVERY（Volvo）：2014 年 2 月公開、2016 得獎，屬舊作報名，目前收；請決定。
+- b053 ltwm-08483 Skittles PSYCHIC, GENIE：廣播，找不到腳本／音檔，不收。
+- 仍 uncertain：b052 08466 Huünen（無文字來源，點子依標語解讀）、b053 08479 PLAYDOWJONES、b054 08491 REINCARNATION（委託方疑為 Velodrome 單車店，原報導打不開）。
+- 圖：b053 08478 用非官方頻道 YouTube 縮圖；b052 08473 PEPSI PERFECT 用 SlashGear 實拍。
