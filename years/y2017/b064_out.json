@@ -108,12 +108,12 @@
    "https://www.adsoftheworld.com/campaigns/iris-and-thula",
    "https://shots.net/news/view/93033-touching-whiskas-campaign-to-feed-cat-s-curiosity"
   ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/4041afdf4d8a4e1b8430496ec79034df",
-  "image_shows": "影片畫面：遊樂場滑梯的特寫，左側有字幕『BASED ON A TRUE STORY.』",
+  "image_url": "https://i.ytimg.com/vi/tXO3ldXcxZE/hqdefault.jpg",
+  "image_shows": "影片畫面（WhiskasBrasil 官方 YouTube）：女孩 Iris 緊抱著長毛虎斑貓 Thula，前景是一筒彩色鉛筆與畫筆",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方獎項為廣播工藝類（Radio Craft: Script）銅獅，但官方作品名 IRIS & THULA 對應到的公開作品是影片（Ads of the World 標示為 Film），未找到廣播版本，請主對話確認是否同一件。讀稿依影片寫。圖為影片截圖（官方只提供這張），未找到案例板。搜尋未發現造假、抄襲或撤獎爭議。"
+  "note": "官方獎項為廣播工藝類（Radio Craft: Script）銅獅，但官方作品名 IRIS & THULA 對應到的公開作品是影片（Ads of the World 標示為 Film），未找到廣播版本，讀稿依影片寫。圖為影片截圖（官方只提供這張），未找到案例板。搜尋未發現造假、抄襲或撤獎爭議。 2026-11-06 Opus 驗：圖改用官方 YouTube（WhiskasBrasil）縮圖，看得到女孩與貓（maxres 不存在，用 hqdefault）。LTW 卡片寫 Radio Craft: Script 屬 2017 Health 子類別整批錯位（DISCLAIMER 才是 Radio Craft: Script，ECO 可證），官方【得獎】行是 Health & Wellness 銅獅，讀稿依影片寫是對的。"
  },
  {
   "id": "ltwm-13780",
@@ -146,12 +146,12 @@
    "https://www.lovethework.com/en/work/entries/the-world-addressed-34839",
    "https://what3words.com/about"
   ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/e26bcc8c56f046398b9bb613cb6d4efb",
-  "image_shows": "影片畫面：左右分割，左邊是長髮女子側臉，右邊是男子推著腳踏車站在廣場上看手機（看不出 what3words 的概念）",
+  "image_url": "https://corpassets.what3words.com/wp-content/uploads/2026/03/12744_w3w_Header_beach_multiple-locations_1920x1080px-3-scaled.jpg",
+  "image_shows": "what3words 官網圖：海灘上畫出白色方格，兩個點分別標著三字地址 ///couches.vivid.fame 與 ///august.often.pillow",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依 what3words 官網說明整理，作品名 The World Addressed 的影片本身未能打開，讀稿寫的是產品本身而非影片情節。圖為影片分割畫面，看不出點子，是候選裡唯一的圖，未找到更好的圖。搜尋未發現造假、抄襲或撤獎爭議（搜到的其他 what3words 作品是別年別項）。"
+  "note": "官方全文需登入，內容依 what3words 官網說明整理，作品名 The World Addressed 的影片本身未能打開，讀稿寫的是產品本身而非影片情節。圖為影片分割畫面，看不出點子，是候選裡唯一的圖，未找到更好的圖。搜尋未發現造假、抄襲或撤獎爭議（搜到的其他 what3words 作品是別年別項）。 2026-11-06 Opus 驗：圖原為看不出點子的影片分割畫面；LTW 卡片另一張只有 260 px 縮圖，改用 what3words 官網的方格加三字地址示意圖。"
  },
  {
   "id": "ltwm-13781",
@@ -175,22 +175,23 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "阿根廷非營利組織 Vidax Center 做 AI 陪伴角色，給父母被派去打仗的孩子聊天，並用家人的訊息學出熟悉的聲音",
+  "idea_one_liner": "阿根廷非營利組織 Vidax Center 做 AI 陪伴角色，給父母被派去打仗的孩子聊天，並借用家人訊息裡熟悉的語氣",
   "brand_display": "Vidax Center",
-  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜創意數據類銅獅 Creative Data Bronze Lion｜代理商：WE BELIEVERS, New York\n\n【背景】Vidax Center 是阿根廷一家專注兒童創傷的非營利組織。報導指出，2001 年以來全球有超過 300 萬名孩子的父母被派往軍事任務，也有數千人在戰爭中失去父母。We Believers 的共同創辦人兼創意長 Gustavo Lauría 的說法是，嚴重創傷的孩子需要有人全天陪伴，但醫療人員與家人做不到全天候。\n\n【點子】用 AI 把陪伴延長到 24 小時：做一組動物角色，在父母不在的時候陪孩子聊天、說睡前故事、玩遊戲、協助寫功課，並從對話判斷孩子的情緒，定期向家人回報。\n\n【執行】團隊一開始考慮做出「AI 爸媽」模仿父母的說話方式，後來因為倫理疑慮，改成猴子或泰迪熊這類角色。角色可以掃描家人的社群貼文與簡訊，借用熟悉的語氣；孩子失去父母時，角色的主要工作變成傾聽。內容有心理師與小兒科醫師提供意見，並計畫放進孩子已經在用的平台，而不是另做一個 App。作品以 Clowder Tank 與 We Believers 參與，專案在 2017 年時還在 alpha 階段。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/ai-buddy-38558\nhttps://venturebeat.com/ai/the-ai-buddy-project-is-building-an-assistant-to-support-kids-of-military-families\nhttps://produ.com/mercadeo/noticias/we-believers-creates-ai-buddy-to-help-children-whose-families-are-in-the-war",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 創意數據類, Creative Data, 銅獅, Bronze Lion, 數據視覺化, Data Visualisation, AI Buddy, Vidax Center, WE BELIEVERS, We Believers, Clowder Tank, 人工智慧, AI, Artificial Intelligence, 聊天機器人, Chatbot, 虛擬角色, 動物角色, 猴子, 泰迪熊, 兒童, 孩子, 軍人家庭, 戰爭, 創傷, 心理健康, 陪伴, 非營利, 公益, 數據, 自然語言處理, NLP, 阿根廷, Argentina, 美國, New York, 社群, 簡訊",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜創意數據類銅獅 Creative Data Bronze Lion｜代理商：WE BELIEVERS, New York\n\n【背景】Vidax Center 是阿根廷一家專注兒童創傷的非營利組織。報導指出，2001 年以來全球有超過 300 萬名孩子的父母被派往軍事任務，也有數千人在戰爭中失去父母。We Believers 的共同創辦人兼創意長 Gustavo Lauría 的說法是，嚴重創傷的孩子需要有人全天陪伴，但醫療人員與家人做不到全天候。\n\n【點子】用 AI 把陪伴延長到 24 小時：做一組動物角色，在父母不在的時候陪孩子聊天、說睡前故事、玩遊戲、協助寫功課，並從對話判斷孩子的情緒，定期向家人回報。\n\nLTW 卡片上的官方案例板縮圖寫：「我們把複雜的數據變成動畫角色，做出一個人工智慧，在父母被派上戰場時支持孩子。」畫面上是綠色獨眼小怪物、小熊等可選的角色。\n\n【執行】團隊一開始考慮做出「AI 爸媽」模仿父母的說話方式，後來因為倫理疑慮，改成猴子或泰迪熊這類角色。角色可以掃描家人的社群貼文與簡訊，借用熟悉的語氣；孩子失去父母時，角色的主要工作變成傾聽。內容有心理師與小兒科醫師提供意見，並計畫放進孩子已經在用的平台，而不是另做一個 App。作品以 Clowder Tank 與 We Believers 參與，專案在 2017 年時還在 alpha 階段。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/ai-buddy-38558\nhttps://venturebeat.com/ai/the-ai-buddy-project-is-building-an-assistant-to-support-kids-of-military-families\nhttps://produ.com/mercadeo/noticias/we-believers-creates-ai-buddy-to-help-children-whose-families-are-in-the-war",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 創意數據類, Creative Data, 銅獅, Bronze Lion, 數據視覺化, Data Visualisation, AI Buddy, Vidax Center, WE BELIEVERS, We Believers, Clowder Tank, 人工智慧, AI, Artificial Intelligence, 聊天機器人, Chatbot, 虛擬角色, 動物角色, 猴子, 泰迪熊, 兒童, 孩子, 軍人家庭, 戰爭, 創傷, 心理健康, 陪伴, 非營利, 公益, 數據, 自然語言處理, NLP, 阿根廷, Argentina, 美國, New York, 社群, 簡訊, 動畫角色, Animated Characters, 小熊, 怪物",
   "category": "行銷案例",
   "references": [
    "https://www.lovethework.com/en/work/entries/ai-buddy-38558",
    "https://venturebeat.com/ai/the-ai-buddy-project-is-building-an-assistant-to-support-kids-of-military-families",
    "https://produ.com/mercadeo/noticias/we-believers-creates-ai-buddy-to-help-children-whose-families-are-in-the-war"
   ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/ef0ed7029d344aafa42e528b08af5ea9/storyboard_000002.jpg",
-  "image_shows": "影片截圖：黑色畫面中孩子的背影，旁邊有一隻大人的手牽著他，逆光",
+  "image_url": "https://images.produ.com/noticias/0517/big-AIBuddy.jpg",
+  "image_shows": "Produ 報導圖：一個小女孩在暗處看著發亮的綠色裝置螢幕，臉被螢幕照亮",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依 VentureBeat 與 Produ 報導整理。官方獎項是創意數據類的數據視覺化，但找到的資料講的是 AI 陪伴角色，看不出『數據視覺化』的部分，請主對話確認。Vidax Center 的國別、角色設計等細節來自 VentureBeat，Produ 稱 Clowder Tank 開發。圖為影片截圖，看得出是孩子與大人，看不出點子，未找到更好的圖。搜尋未發現造假、抄襲或撤獎爭議。"
+  "note": "官方全文需登入，內容依 VentureBeat 與 Produ 報導整理。官方獎項是創意數據類的數據視覺化，但找到的資料講的是 AI 陪伴角色，Vidax Center 的國別、角色設計等細節來自 VentureBeat，Produ 稱 Clowder Tank 開發。圖為影片截圖，看得出是孩子與大人，看不出點子，未找到更好的圖。搜尋未發現造假、抄襲或撤獎爭議。 2026-11-06 Opus 驗：一句話「學出熟悉的聲音」改成「借用熟悉的語氣」（VentureBeat 講的是語氣）。LTW 卡片頁的官方案例板只有 260 px 縮圖不能當圖，但讀得出副標：把複雜數據變成動畫角色，對上創意數據類，已補進讀稿。圖改用 Produ 報導圖（孩子看著發亮的裝置），仍偏弱。",
+  "idea_one_liner_r0": "阿根廷非營利組織 Vidax Center 做 AI 陪伴角色，給父母被派去打仗的孩子聊天，並用家人的訊息學出熟悉的聲音"
  },
  {
   "id": "ltwm-13782",
@@ -292,22 +293,25 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "微軟請 McCann 紐約做的 See What's Next，疑似鼓勵女孩投入 STEM，但做法未能查證",
+  "idea_one_liner": "微軟在國際婦女節，請女孩說出長大想解決的難題，再點出美國女性只有 6.7% 拿到 STEM 學位，鼓勵她們留在 STEM",
   "brand_display": "微軟",
-  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜玻璃類銅獅 Glass Bronze Lion｜代理商：McCANN NEW YORK\n\n【背景】微軟與 McCann 紐約為 See What's Next 報名了玻璃類（Glass Lions，表彰處理性別不平等議題的作品）。官方卡片頁沒有公開說明文字，可確認的只有：這件作品入圍玻璃類，報名者是 McCann 紐約，客戶是微軟（美國）。\n\n【點子】McCann 同一時期替微軟做的 #MakeWhatsNext 活動，目標是鼓勵女孩留在 STEM（科學、科技、工程、數學）領域，微軟官方文章提到活動新增一支影片，以及與 LinkedIn 合作的 Career Explorer 工具，讓女孩看到 STEM 技能在各行各業的需求。但沒有任何來源證明 See What's Next 就是其中哪一件，因此這裡不寫成它的做法。\n\n【執行】案例官方圖板沒有找到，只有一張影片截圖：三位年輕女性坐在玻璃樓梯上聊天。其餘執行細節查不到。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/see-whats-next-39163\nhttps://www.thestable.com.au/cannes-lions-shortlists-glass/\nhttps://blogs.microsoft.com/on-the-issues/2017/03/07/inspiring-girls-stay-stem-makewhatsnext/",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 玻璃類, Glass Lions, Glass, 銅獅, Bronze Lion, 微軟, Microsoft, McCann New York, McCann, 科技, 軟體, 女性, 女孩, 性別平等, Gender Equality, STEM, 科學, 工程, 數學, 職涯, Make What's Next, MakeWhatsNext, LinkedIn, 影片, 社群, 美國, United States, 紐約, New York",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜玻璃類銅獅 Glass Bronze Lion｜代理商：McCANN NEW YORK\n\n【背景】微軟每年在國際婦女節推出 #MakeWhatsNext，鼓勵女孩投入 STEM（科學、科技、工程、數學），2017 年是第三年，由 McCann 體系的 M:united 製作。Shoot 引用的數字是：美國女性只有 6.7%（全球 16%）大學畢業時拿到 STEM 學位。\n\n【點子】先讓女孩說出她們最想解決的問題，從氣候變遷到治癒癌症，再告訴她們現實：沒有 STEM 能力，這些問題她們大概解決不了。用她們自己的夢想，說服她們留在 STEM。\n\n【執行】主影片《Change the Odds》由 Tool of North America 的導演 JJ Adler 執導，2017 年 3 月國際婦女節前推出。Inquirer 寫到片中女孩是透過微軟的混合實境頭戴裝置 HoloLens 呈現，女孩聽到數字後說事情可以、也必須改變。微軟同時和 LinkedIn 在 MakeWhatsNext.com 推出 Career Explorer，依女孩的興趣介紹適合的 STEM 工作。LTW 卡片上的官方案例板縮圖，標題是 SEE WHAT'S NEXT，副標寫微軟鼓勵女孩用科學與科技改變世界，主畫面是一位戴著頭戴裝置的女孩，面前浮著木星與衛星「Europa」的影像。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/see-whats-next-39163\nhttps://blogs.microsoft.com/on-the-issues/2017/03/07/inspiring-girls-stay-stem-makewhatsnext/\nhttps://shootonline.com/video/top-spot-week-munitedmccann-director-jj-adler-microsoft-urge-girls-stay-stem\nhttps://technology.inquirer.net/59620/watch-microsoft-invites-girls-into-science-tech-with-hololens-reel\nhttps://winners.webbyawards.com/2018/advertising-media-pr/branded-content/public-service-activism/57972/see-whats-next",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 玻璃類, Glass Lions, Glass, 銅獅, Bronze Lion, 微軟, Microsoft, McCann New York, McCann, 科技, 軟體, 女性, 女孩, 性別平等, Gender Equality, STEM, 科學, 工程, 數學, 職涯, Make What's Next, MakeWhatsNext, LinkedIn, 影片, 社群, 美國, United States, 紐約, New York, Change the Odds, 國際婦女節, International Women's Day, HoloLens, 混合實境, Mixed Reality, 頭戴裝置, Career Explorer, M:united, 木星",
   "category": "行銷案例",
   "references": [
    "https://www.lovethework.com/en/work/entries/see-whats-next-39163",
-   "https://www.thestable.com.au/cannes-lions-shortlists-glass/",
-   "https://blogs.microsoft.com/on-the-issues/2017/03/07/inspiring-girls-stay-stem-makewhatsnext/"
+   "https://blogs.microsoft.com/on-the-issues/2017/03/07/inspiring-girls-stay-stem-makewhatsnext/",
+   "https://shootonline.com/video/top-spot-week-munitedmccann-director-jj-adler-microsoft-urge-girls-stay-stem",
+   "https://technology.inquirer.net/59620/watch-microsoft-invites-girls-into-science-tech-with-hololens-reel",
+   "https://winners.webbyawards.com/2018/advertising-media-pr/branded-content/public-service-activism/57972/see-whats-next"
   ],
   "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/2a4d20817f424aec842ac62f1ee40dd3/storyboard_000002.jpg",
-  "image_shows": "影片截圖：三位年輕女性坐在明亮玻璃樓梯上交談（看不出具體作品內容）",
+  "image_shows": "官方影片分鏡格：三位年輕女性坐在明亮的玻璃樓梯上交談（看不出點子；LTW 案例板只有 254 px 縮圖不能用，官方 YouTube 影片已下架）",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "找不到這件作品的公開說明：官方卡片頁沒有文字，Clio 連結失效，Webby 頁只有名單。See What's Next 與 #MakeWhatsNext 名稱相近，多個來源把兩者混用，無法確認 See What's Next 的實際內容；ADC 的獎項紀錄顯示它與 LinkedIn 社群類相關，但未能打開頁面確認。一句話與讀稿都只寫了查得到的部分。請主對話決定是否補查或改標不收。官方獎項為玻璃類銅獅（得獎行以官方為準）。搜尋未發現造假、抄襲或撤獎爭議。"
+  "note": "找不到 See What's Next 的公開文字說明。2026-11-06 Opus 驗：LTW 卡片頁的 og 圖是官方案例板（254 px 縮圖），標題 SEE WHAT'S NEXT、副標為微軟鼓勵女孩用科學與科技改變世界，畫面是戴頭戴裝置的女孩看木星與 Europa，與 2017 年國際婦女節 #MakeWhatsNext《Change the Odds》（HoloLens、LinkedIn Career Explorer）吻合，Webby 2018 也以 See What's Next 名稱列出同一組微軟與 McCann 團隊，因此改寫為這波活動並拿掉 uncertain；判斷依據是案例板縮圖，請主對話知悉。6.7% 是活動前的背景數字。案例板上的成效數字未寫入。微軟部落格與 The Drum 嵌的兩支 YouTube 都已下架，圖只能維持分鏡格。原本 The Stable 入圍名單頁換成 Shoot、Inquirer、Webby。搜尋未發現造假、抄襲或撤獎爭議。",
+  "idea_one_liner_r0": "微軟請 McCann 紐約做的 See What's Next，疑似鼓勵女孩投入 STEM，但做法未能查證"
  },
  {
   "id": "ltwm-13785",
@@ -333,19 +337,19 @@
   "awards_unverified": [],
   "idea_one_liner": "Burberry 為品牌 160 週年拍三分鐘短片，像一部沒有拍成的電影預告，演出創辦人與探險家、飛行員的故事",
   "brand_display": "Burberry",
-  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜影片工藝類銅獅 Film Craft Bronze Lion｜代理商：BURBERRY, London\n\n【背景】這是 Burberry 為品牌創立 160 週年做的短片。當時的首席創意長兼執行長 Christopher Bailey 說，想用「自己的話」說出創辦人 Thomas Burberry 的故事。\n\n【點子】導演 Asif Kapadia 的說法是，這支片像是一部從來沒拍成的電影的預告片，專挑「史詩電影的經典時刻」來串。片子把品牌歷史改編成一個跨越時代的故事，有生死、愛情與人際關係，角色也會在不同年代重複出現。\n\n【執行】影片約三分鐘，由 Domhnall Gleeson 飾演 Thomas Burberry，Sienna Miller 飾演他虛構的初戀，Dominic West 飾演穿著 Burberry 華達呢（gabardine）出征南極的探險家 Ernest Shackleton，Lily James 飾演由真實女飛行員改編的 Betty Dawson，她的藍色飛行裝是依檔案照片重製。劇情涵蓋他發明防水布料、為一戰軍隊製作衣服、為極地探險家與飛行員做衣服。編劇 Matt Charman，攝影 Dion Beebe，多數場景在牛津郡的 Shirburn Castle 拍攝，用來重現 Thomas 的工作室，細節取自品牌檔案館。風衣貫穿全片。官方案例的影片截圖是黑底的片頭字卡『BURBERRY PRESENTS』。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/the-tale-of-thomas-burberry-31308\nhttps://theglassmagazine.com/the-making-of-burberrys-special-anniversary-short-film-the-tale-of-thomas-burberry/",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜影片工藝類銅獅 Film Craft Bronze Lion｜代理商：BURBERRY, London\n\n【背景】這是 Burberry 為品牌創立 160 週年做的短片。當時的首席創意長兼執行長 Christopher Bailey 說，想用「自己的話」說出創辦人 Thomas Burberry 的故事。\n\n【點子】導演 Asif Kapadia 的說法是，這支片像是一部從來沒拍成的電影的預告片，專挑「史詩電影的經典時刻」來串。片子把品牌歷史改編成一個跨越時代的故事，有生死、愛情與人際關係，角色也會在不同年代重複出現。\n\n【執行】影片約三分鐘，由 Domhnall Gleeson 飾演 Thomas Burberry，Sienna Miller 飾演他虛構的初戀，Dominic West 飾演穿著 Burberry 華達呢（gabardine）出征南極的探險家 Ernest Shackleton，Lily James 飾演由真實女飛行員改編的 Betty Dawson，她的藍色飛行裝是依檔案照片重製。劇情涵蓋他發明防水布料、為一戰軍隊製作衣服、為極地探險家與飛行員做衣服。編劇 Matt Charman，攝影 Dion Beebe，多數場景在牛津郡的 Shirburn Castle 拍攝，用來重現 Thomas 的工作室，細節取自品牌檔案館。風衣貫穿全片。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/the-tale-of-thomas-burberry-31308\nhttps://theglassmagazine.com/the-making-of-burberrys-special-anniversary-short-film-the-tale-of-thomas-burberry/",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片工藝類, Film Craft, 銅獅, Bronze Lion, 攝影, Cinematography, Burberry, 博柏利, 時尚, Fashion, 服飾, 風衣, 奢侈品牌, 品牌短片, Brand Film, 短片, 電影預告, Trailer, 品牌歷史, 創辦人, 160週年, 週年, Asif Kapadia, Domhnall Gleeson, Sienna Miller, Lily James, Dominic West, Dion Beebe, 英國, United Kingdom, 倫敦, London, 自家作品, 探險, 飛行員, 南極, 華達呢, Gabardine",
   "category": "行銷案例",
   "references": [
    "https://www.lovethework.com/en/work/entries/the-tale-of-thomas-burberry-31308",
    "https://theglassmagazine.com/the-making-of-burberrys-special-anniversary-short-film-the-tale-of-thomas-burberry/"
   ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/07f867bb90be40ec994fd9c40377d639/storyboard_000002.jpg",
-  "image_shows": "影片截圖：黑邊寬銀幕，模糊的室內背景上，『BURBERRY』字樣像灰塵般碎散，下方寫 PRESENTS（只是片頭字卡）",
+  "image_url": "https://theglassmagazine.com/wp-content/uploads/2017/02/Glass-MagazineIssue-28-EqualityBurberry_FeatureImageNO1.jpg",
+  "image_shows": "拍攝現場劇照（The Glass Magazine）：穿白襯衫與背心的紅髮演員替另一位演員整理卡其色風衣的衣領，旁邊站著戴眼鏡的工作人員",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依 The Glass Magazine 的幕後報導整理，只有一個可打開的來源，故 references 只有兩筆（含官方卡片）。官方品牌欄為 Burberry（自家作品）。該文說『聖誕左右上映』與影片實際發布年份有出入，讀稿未寫日期。圖只有片頭字卡，看不出劇情，未找到更好的圖。搜尋未發現造假、抄襲或撤獎爭議。"
+  "note": "官方全文需登入，內容依 The Glass Magazine 的幕後報導整理，只有一個可打開的來源，故 references 只有兩筆（含官方卡片）。官方品牌欄為 Burberry（自家作品）。該文說『聖誕左右上映』與影片實際發布年份有出入，讀稿未寫日期。圖只有片頭字卡，看不出劇情，未找到更好的圖。搜尋未發現造假、抄襲或撤獎爭議。 2026-11-06 Opus 驗：圖原為片頭字卡，改用 The Glass Magazine 文中的拍攝現場劇照（看得到風衣）；LTW 卡片另一張分鏡是坎城 logo 字卡，不能用；文中 YouTube 已下架。讀稿刪掉描述舊圖的句子。"
  },
  {
   "id": "ltwm-13786",
@@ -369,7 +373,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "烏克蘭用風當見證者，紀念娘子谷大屠殺，用長管裝置讓風吹出聲音，配上孩子歌聲和小提琴",
+  "idea_one_liner": "烏克蘭紀念娘子谷大屠殺 75 週年，立起一排長管讓風吹出聲音，當作見證暴行的風，配上孩子的歌聲與小提琴",
   "brand_display": "烏克蘭猶太人相遇",
   "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜音樂娛樂類銅獅 Entertainment Lions for Music Bronze Lion｜代理商：NGO UKRAINE CRISIS MEDIA CENTER (UCMC), Kyiv\n\n【背景】娘子谷（Babyn Yar）大屠殺是二戰期間猶太人在基輔遭到的重大悲劇，2016 年是七十五週年。烏克蘭政府與公民團體 Ukrainian Jewish Encounter 舉辦紀念音樂會，這件作品是其中一部分，由烏克蘭危機媒體中心（UCMC）製作。\n\n【點子】作品名 Witness（見證）。以羊角號（shofar）為意象做一個裝置，讓風穿過裝置發出聲音，代表罹難者的靈魂；孩子們的歌聲與小提琴再回應這些哀悼的聲音。官方網頁寫道，這場演出象徵「見證過75年前暴行的風」。\n\n【執行】音樂由烏克蘭作曲家 Svytoslav Lunyov 創作，2016 年 9 月 29 日在娘子谷旁的公園演出。報導描述，裝置由約一百根八公尺長的空心長管組成，風吹過時產生聲音，與孩子們的小提琴和歌聲一起，成為所謂的「自然合成」的作品。演出者是在國際與全國比賽得獎的年輕音樂人，由 Oles Yas'ko 指揮。同場還有其他紀念曲目，電視也現場轉播。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/witness-commemorative-performance-40249\nhttps://uacrisis.org/en/47530-babi-yar\nhttps://ukrainianjewishencounter.org/en/news/ukraines-performance-commemorate-babyn-yar-victims-gets-cannes-lion-award-kyiv-post/",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 音樂娛樂類, Entertainment Lions for Music, 銅獅, Bronze Lion, 藝人相關活動, 與公益合作, Artist Associated Event or Stunt in Partnership with a Cause, Witness, 見證, 娘子谷, Babyn Yar, 大屠殺, Holocaust, 紀念, 追悼, 猶太人, 烏克蘭, Ukraine, 基輔, Kyiv, 烏克蘭危機媒體中心, UCMC, Ukrainian Jewish Encounter, 公益, 非營利, 公共倡議, 音樂, 音樂會, 演出, 表演, 裝置藝術, 裝置, 風, 羊角號, Shofar, 小提琴, 兒童合唱, 孩子, 戶外, 公園, 現場演出",
@@ -379,11 +383,12 @@
    "https://uacrisis.org/en/47530-babi-yar",
    "https://ukrainianjewishencounter.org/en/news/ukraines-performance-commemorate-babyn-yar-victims-gets-cannes-lion-award-kyiv-post/"
   ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/4ec8450eedb44bcd8795541699f3c275",
-  "image_shows": "影片截圖：全黑畫面，右側浮現灰色字幕『ONE OF THE GREATEST TRAGEDIES OF THE JEWISH PEOPLE DURING』（只有字卡，沒有演出畫面）",
+  "image_url": "https://i.ytimg.com/vi/SJWFEJaotVg/maxresdefault.jpg",
+  "image_shows": "演出轉播畫面（Babyn Yar Witness 官方 YouTube）：傍晚樹林前，兩個穿深色衣服的孩子站在一排發藍光的直立長管之間",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依 UACrisis 新聞稿與 Kyiv Post（經 UJE 轉載）整理。UACrisis 稿件對裝置的描述前後不一（有『投影』一詞），『約百根八公尺長管』是該稿的說法，未能用其他來源確認；Lunyov 官網連不上（403），未引用。官方代理商欄為 UCMC。圖只有字卡，看不到演出，未找到更好的圖，建議人工補圖。搜尋未發現造假、抄襲或撤獎爭議，"
+  "note": "官方全文需登入，內容依 UACrisis 新聞稿與 Kyiv Post（經 UJE 轉載）整理。UACrisis 稿件對裝置的描述前後不一（有『投影』一詞），『約百根八公尺長管』是該稿的說法，未能用其他來源確認；Lunyov 官網連不上（403），未引用。官方代理商欄為 UCMC。圖只有字卡，看不到演出，未找到更好的圖。搜尋未發現造假、抄襲或撤獎爭議， 2026-11-06 Opus 驗：圖原為只有字卡的截圖，改用演出轉播影片縮圖（看得到長管裝置與孩子）；UJE 報導圖（孩子在白色長管前拉小提琴）也可備用。一句話主詞原為「烏克蘭用風當見證者」較抽象，改寫成做法。",
+  "idea_one_liner_r0": "烏克蘭用風當見證者，紀念娘子谷大屠殺，用長管裝置讓風吹出聲音，配上孩子歌聲和小提琴"
  }
 ]

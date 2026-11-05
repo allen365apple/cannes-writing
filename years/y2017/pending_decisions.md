@@ -172,3 +172,11 @@
 ## 2026-11-06 本機 b057–b060
 - b059 ltwm-09193 OPEN YOUR EYES：【爭議】候選。Horizont 文末 5/10 更新：讀者指出 Leo Burnett 2005 年替 Pro Familia 做過類似點子；沒有正式抄襲指控。建議：不加【爭議】，note 已記。
 - b057 #HATEPIANO：官方代理商 POSSIBLE MOSCOW，報導寫 Hungry Boys，關係不明；【得獎】行照官方。
+
+## 2026-11-06 本機 b061–b064
+- b064 ltwm-13784 SEE WHAT'S NEXT：判定為 2017 #MakeWhatsNext〈Change the Odds〉（依 LTW 官方 case board 縮圖與 Webby 同團隊），已拿掉 uncertain，請知悉。圖仍是分鏡格。
+- b063 ltwm-09238 DISCLAIMER、09239 POOPHEMISIMS：廣播，缺腳本，仍 uncertain。
+- b063 ltwm-09240 EVERYBODY KNOWS：有一支西開普省酒駕片因種族刻板化被批評下架，無法確認是同一支；依規則不算【爭議】，只寫 note。
+- b061 ltwm-09212 THE REDACTIVISTS：找不到官方 case board，用 It's Nice That 現場照。
+- 圖仍弱：13781、09240、13784。
+- 備註：LTW 2017 健康類卡片子類別標籤整批錯位，類別以官方 award_line 為準。

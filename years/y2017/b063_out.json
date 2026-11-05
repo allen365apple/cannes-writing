@@ -158,7 +158,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入；內容主要依官方案例板（圖片）整理，另一個來源（LTW 另一頁）打開後沒有文字，所以第二來源只是同站頁面，請覆核。案例板沒有數字，未寫成效。官方入圍名稱 CONNECTED ROOM。未發現造假、抄襲或撤獎指控。"
+  "note": "官方全文需登入；內容主要依官方案例板（圖片）整理，另一個來源（LTW 另一頁）打開後沒有文字，所以第二來源只是同站頁面，請覆核。案例板沒有數字，未寫成效。官方入圍名稱 CONNECTED ROOM。未發現造假、抄襲或撤獎指控。 2026-11-06 Opus 驗：已打開案例板逐段核對（The Issue／The Idea／照片說明），內容一致。LTW 卡片類別為 Brand Experience and Activation > Use of Promo: Experience，與讀稿的病房體驗一致，不是 Film Craft。"
  },
  {
   "id": "ltwm-09236",
@@ -198,7 +198,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入；依官方案例板與 PR Newswire 新聞稿整理。官方卡片類別是 Film Craft: Production Design / Art Direction，但打開的資料都是 PR／社群做法，沒看到有一支影片，所以讀稿只寫公關與推特做法，請覆核。板上的曝光、互動、銷售數字不採用。搜尋未見造假或爭議報導。"
+  "note": "官方全文需登入；依官方案例板與 PR Newswire 新聞稿整理。官方卡片類別是 Film Craft: Production Design / Art Direction，但打開的資料都是 PR／社群做法，沒看到有一支影片，所以讀稿只寫公關與推特做法。板上的曝光、互動、銷售數字不採用。搜尋未見造假或爭議報導。 2026-11-06 Opus 驗：LTW 卡片的 Health & Wellness 子類別在 2017 年整批疑似錯位（例：DISCLAIMER 卡片寫 Photography，但葡萄牙 ECO 報導寫它得的是 Radio Craft: Script；IRIS & THULA 卡片寫 Radio Craft: Script 卻是影片），所以 Film Craft 標籤不採信，【得獎】行照官方 Health & Wellness。案例板已打開核對，與讀稿一致。"
  },
  {
   "id": "ltwm-09237",
@@ -225,23 +225,24 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "墨西哥藥廠 Liomont 為止痛藥 Analgen Forte 做的插畫海報，把抱著頭的人疊成金字塔，標語是「別再傳播你的頭痛」",
+  "idea_one_liner": "墨西哥藥廠 Liomont 的止痛藥海報，把學校、職場裡抱著頭的人疊成桌子金字塔，標語是「別再散播你的頭痛」",
   "brand_display": "Liomont Analgen Forte",
-  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜健康與保健類銅獅 Health & Wellness Bronze Lion｜代理商：PUBLICIS MEXICO, Mexico City\n\n【背景】Analgen Forte 是 Liomont 實驗室的止痛藥，Merca2.0 說它主打快速緩解頭痛，對象是上班族和長期處在壓力下的人。\n\n【點子】標語是 Stop Spreading Your Headache（別再傳播你的頭痛）。能看到的畫面是一張海報：一座由小人與桌子疊成的三層金字塔。\n\n【執行】這是 Publicis México 做的 3D 插畫平面作品。海報上，每一層的人都用手抱著頭或按著太陽穴，最底層是圍著木桌的一排人，往上依序是輸送帶旁戴藍色帽子的工廠工人、辦公桌前的上班族，最頂端是一位坐在小桌前的人；每個人的頭都從下一層的桌面或洞裡冒出來，像是一個接一個地被連起來。海報最下方是一盒 Analgen Forte 藥盒和兩顆藥片。作品由 3D 藝術家 Caetano Silva 製作，他的作品頁列出這個專案有 iPain、High School、Judgment 三組畫面。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/ipain-36762\nhttps://caetanosilva.com/analgen-forte-orgamigranas\nhttps://www.merca20.com/?p=322768",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Health & Wellness, 健康與保健類, 銅獅, Bronze Lion, Branded Content & Entertainment, OTC Oral Medicines, 非處方口服藥, Liomont, Analgen, Analgen Forte, PUBLICIS MEXICO, PUBLICIS, 止痛藥, 頭痛, 偏頭痛, Headache, Migraine, 藥品, 上班族, 壓力, 平面廣告, 海報, Poster, 插畫, Illustration, 3D 插畫, 3D, 3D 渲染, 金字塔, 人群, 桌子, 輸送帶, 工廠, 辦公室, 傳染, 墨西哥, Mexico, iPain, High School",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜健康與保健類銅獅 Health & Wellness Bronze Lion｜代理商：PUBLICIS MEXICO, Mexico City\n\n【背景】Analgen Forte 是墨西哥 Liomont 藥廠的止痛藥，D&AD 的作品頁說它是對付劇烈頭痛的止痛藥；Merca2.0 說它主打快速緩解頭痛，對象是上班族和長期處在壓力下的人。\n\n【點子】標語是「Stop Spreading Your Headache」（別再散播你的頭痛）。官方報名的兩件作品 IPAIN 與 HIGH SCHOOL 都是 3D 插畫平面稿，把一個群體畫成一座由桌子疊起來的人體金字塔，每一層的人都抱著頭或按著太陽穴，頭痛像是一層接一層地擠在一起。\n\n【執行】HIGH SCHOOL 的畫面是學校：最底層一圈長桌邊坐著大人，有人頭上捲著髮捲、有人穿著印「BEST MOM」的毛衣；往上是一排課桌，坐著穿校隊外套、啦啦隊服的學生，桌上散著考卷與課本；再往上的桌子擺著地球儀和小黑板，坐著幾位年長的大人；最頂端是一位穿西裝、坐在辦公桌前的人。每個人都從上一層桌子底下的洞裡探出身子，個個皺眉抱頭。IPAIN 用同樣的構圖畫職場：最底層是圍著木桌的人，往上是輸送帶旁戴藍帽子的工廠工人、辦公桌前的上班族，最頂端是一位坐在小桌前的人。兩張海報下方都放一盒 Analgen Forte 藥盒和藥片，左上角是 Liomont 標誌。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/ipain-36762\nhttps://www.lovethework.com/en/work/entries/high-school-36768\nhttps://dandad.org/awards/professional/2017/crafts-for-advertising/25738/headaches\nhttps://www.merca20.com/?p=322768",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Health & Wellness, 健康與保健類, 銅獅, Bronze Lion, OTC Oral Medicines, 非處方口服藥, Liomont, Analgen, Analgen Forte, PUBLICIS MEXICO, PUBLICIS, 止痛藥, 頭痛, 偏頭痛, Headache, Migraine, 藥品, 上班族, 壓力, 平面廣告, 海報, Poster, 插畫, Illustration, 3D 插畫, 3D, 3D 渲染, 金字塔, 人群, 桌子, 輸送帶, 工廠, 辦公室, 學校, School, 教室, 課桌, 學生, 職場, 階層, 墨西哥, Mexico, iPain, High School",
   "category": "行銷案例",
   "references": [
    "https://www.lovethework.com/en/work/entries/ipain-36762",
    "https://www.lovethework.com/en/work/entries/high-school-36768",
-   "https://caetanosilva.com/analgen-forte-orgamigranas",
+   "https://dandad.org/awards/professional/2017/crafts-for-advertising/25738/headaches",
    "https://www.merca20.com/?p=322768"
   ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/8fe56f6cc2f5405392829f4be7b110c0",
-  "image_shows": "海報：淺藍灰底，一座由桌子與抱頭小人疊成的 3D 金字塔，底部有 Analgen Forte 藥盒與標語 Stop Spreading Your Headache，左上角是 Liomont 標誌",
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/fd6b0d9e0a944ac096c7a4e0710a6b13",
+  "image_shows": "官方作品 HIGH SCHOOL 海報：淺藍灰底，一群人卡在一層層課桌的洞裡疊成金字塔，底層是大人（有人穿 BEST MOM 毛衣），中間是穿校隊外套的學生，最上面是穿西裝的人，每個人都抱著頭；下方是 Analgen Forte 藥盒與標語 Stop Spreading Your Headache",
   "text_source_level": 3,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "缺：官方入圍名稱是 IPAIN 與 HIGH SCHOOL，但打不開官方文字，也找不到這兩件的案例說明，只看到一張標語為 Stop Spreading Your Headache 的海報（來源 image candidate，無法確認就是 IPAIN 或 HIGH SCHOOL 哪一支），所以讀稿只描述看得見的畫面，點子與策略未寫。官方類別為 Branded Content & Entertainment: Film（卻只找到平面作品），請覆核是否有影片版。搜尋摘要說 D&AD 以 Headaches 得木鉛筆等獎，未寫入。未發現造假、抄襲或撤獎指控。"
+  "note": "缺：官方入圍名稱是 IPAIN 與 HIGH SCHOOL，但打不開官方文字，也找不到這兩件的案例說明，只看到一張標語為 Stop Spreading Your Headache 的海報（來源 image candidate，無法確認就是 IPAIN 或 HIGH SCHOOL 哪一支），所以讀稿只描述看得見的畫面，點子與策略未寫。官方類別為 Branded Content & Entertainment: Film（卻只找到平面作品），請覆核是否有影片版。搜尋摘要說 D&AD 以 Headaches 得木鉛筆等獎，未寫入。未發現造假、抄襲或撤獎指控。 2026-11-06 Opus 驗：LTW 卡片頁面另有 HIGH SCHOOL 的官方海報（conversion 圖），已改用並重寫讀稿描述兩張海報；caetanosilva 作品頁 404，已從 references 移除（其中提到第三組 Judgment 未寫入）；加入 D&AD 作品頁（Headaches，描述 Analgen Forte 為對付劇烈頭痛的止痛藥）。這是平面插畫作品，點子就在畫面與標語，有官方圖兩張與兩個文字來源，拿掉 uncertain。LTW 類別寫 Branded Content: Film 屬 2017 Health 子類別錯位，不採信。",
+  "idea_one_liner_r0": "墨西哥藥廠 Liomont 為止痛藥 Analgen Forte 做的插畫海報，把抱著頭的人疊成金字塔，標語是「別再傳播你的頭痛」"
  },
  {
   "id": "ltwm-09238",
@@ -269,8 +270,8 @@
   "awards_unverified": [],
   "idea_one_liner": "葡萄牙保險套品牌 Harmony 的廣播廣告，題目叫「免責聲明」（Disclaimer），腳本內容未能取得",
   "brand_display": "Harmony 保險套",
-  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜健康與保健類銅獅 Health & Wellness Bronze Lion｜代理商：FCB, Lisbon\n\n【背景】Harmony 是 Beiersdorf Portugal 旗下的保險套品牌，這支作品由里斯本的 FCB Lisbon 製作，形式是一支廣播廣告，作品名稱 Disclaimer（免責聲明）。\n\n【點子】無法確認。官方頁面與可打開的報導都沒有腳本或內容描述。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/disclaimer-36599\nhttps://eco.sapo.pt/opiniao/cannes-lions-2017-dia-1-portugal-allez/",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Health & Wellness, 健康與保健類, 銅獅, Bronze Lion, Industry Craft, Photography, OTC Products/Devices, Radio, 廣播廣告, 廣播, 廣播腳本, Script, Harmony, Beiersdorf, Beiersdorf Portugal, FCB, FCB LISBON, 保險套, 避孕, 性健康, 安全性行為, 免責聲明, Disclaimer, 葡萄牙, Portugal, 里斯本, Lisbon",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜健康與保健類銅獅 Health & Wellness Bronze Lion｜代理商：FCB, Lisbon\n\n【背景】Harmony 是 Beiersdorf Portugal 旗下的保險套品牌，這支作品由里斯本的 FCB Lisbon 製作，形式是一支廣播廣告，作品名稱 Disclaimer（免責聲明）。葡萄牙 ECO 的坎城專欄（拼成 Disclamer）把它歸在健康與保健類的 Radio Craft: Script 子類別。\n\n【點子】無法確認。官方頁面與可打開的報導都沒有腳本或內容描述。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/disclaimer-36599\nhttps://eco.sapo.pt/opiniao/cannes-lions-2017-dia-1-portugal-allez/",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Health & Wellness, 健康與保健類, 銅獅, Bronze Lion, Radio Craft, 廣播工藝, OTC Products/Devices, Radio, 廣播廣告, 廣播, 廣播腳本, Script, Harmony, Beiersdorf, Beiersdorf Portugal, FCB, FCB LISBON, 保險套, 避孕, 性健康, 安全性行為, 免責聲明, Disclaimer, 葡萄牙, Portugal, 里斯本, Lisbon",
   "category": "行銷案例",
   "references": [
    "https://www.lovethework.com/en/work/entries/disclaimer-36599",
@@ -281,7 +282,7 @@
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": false,
-  "note": "缺：沒有任何打開過的來源描述腳本內容（官方頁無文字、AdsSpot 403、LBB 403、Luerzer 403）；ECO 只確認它是 FCB Lisboa 的 Harmony 廣播稿件。搜尋摘要提到 AdsSpot 說這是給「還沒準備好當父母的人」的警告，未打開頁面，未寫入。ECO 把名稱拼成 Disclamer。官方類別寫為 Industry Craft: Photography，但這是廣播作品，疑似官方資料與入圍類別對不上，請覆核。找不到好圖（廣播）。"
+  "note": "缺：沒有任何打開過的來源描述腳本內容（官方頁無文字、AdsSpot 403、LBB 403、Luerzer 403）；ECO 只確認它是 FCB Lisboa 的 Harmony 廣播稿件。搜尋摘要提到 AdsSpot 說這是給「還沒準備好當父母的人」的警告，未打開頁面，未寫入。ECO 把名稱拼成 Disclamer。官方類別寫為 Industry Craft: Photography，但這是廣播作品，疑似官方資料與入圍類別對不上，請覆核。找不到好圖（廣播）。 2026-11-06 Opus 驗：ECO 專欄寫明是 Health & Wellness 的 Radio Craft: Script 銅獅，證實是廣播作品，LTW 卡片寫 Photography 是錯位，標籤已拿掉 Photography；仍找不到腳本（Lürzer、AdsSpot、LBB 403），維持 uncertain，缺：廣播腳本或音檔描述。"
  },
  {
   "id": "ltwm-09239",
@@ -316,10 +317,10 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "南非 Y&R 為香港龜苓元坊涼茶做的廣播廣告，把「便便」的各種委婉說法（Poophemisms）編成一輯",
+  "idea_one_liner": "南非 Y&R 替香港涼茶龜苓元坊做的廣播廣告，片名是 Collection of Poophemisms，腳本內容未能取得",
   "brand_display": "龜苓元坊（Gui Ling Yuan Fang）",
-  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜健康與保健類銅獅 Health & Wellness Bronze Lion、Radio類銅獅 Radio Bronze Lion｜代理商：Y&R SOUTH AFRICA, Cape Town\n\n【背景】龜苓元坊（Gui Ling Yuan Fang）是香港的涼茶品牌，這支作品的產品標為 Herbal Tea（涼茶），由南非 Y&R 開普敦（Y&R Cape Town）製作，Bizcommunity 的得獎名單同時列出 Y&R Hong Kong。\n\n【點子】作品名稱是 Collection of Poophemisms，字面意思是「大便委婉說法大全」，推測是把各種講「大便」的委婉說法收集起來，但沒有可打開的來源能確認內容，這裡不寫腳本。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/collection-of-poophemisims-36624\nhttps://www.bizcommunity.com/Article/196/111/163754.html",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Radio, Radio Script, 廣播腳本, 廣播廣告, 廣播, 銅獅, Bronze Lion, Health & Wellness, 健康與保健類, Industry Craft, Photography, Nutraceuticals, 龜苓元坊, Gui Ling Yuan Fang, 涼茶, Herbal Tea, 草本茶, 中藥, Y&R, Y&R SOUTH AFRICA, Y&R CAPE TOWN, 便祕, 排便, 委婉語, Euphemism, Poophemisms, 幽默, 文字遊戲, 南非, South Africa, 開普敦, Cape Town, 香港, Hong Kong",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜健康與保健類銅獅 Health & Wellness Bronze Lion、Radio類銅獅 Radio Bronze Lion｜代理商：Y&R SOUTH AFRICA, Cape Town\n\n【背景】龜苓元坊（Gui Ling Yuan Fang）是香港的涼茶品牌，這支作品的產品標為 Herbal Tea（涼茶），由南非 Y&R 開普敦（Y&R Cape Town）製作，Bizcommunity 的得獎名單同時列出 Y&R Hong Kong。\n\n【點子】作品名稱是 Collection of Poophemisms，Poophemisms 是 poop（大便）和 euphemisms（委婉語）拼成的字，片名字面意思是「大便委婉說法大全」。沒有可打開的來源描述內容，這裡不寫腳本。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/collection-of-poophemisims-36624\nhttps://www.bizcommunity.com/Article/196/111/163754.html",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Radio, Radio Script, 廣播腳本, 廣播廣告, 廣播, 銅獅, Bronze Lion, Health & Wellness, 健康與保健類, 龜苓元坊, Gui Ling Yuan Fang, 涼茶, Herbal Tea, 草本茶, 中藥, Y&R, Y&R SOUTH AFRICA, Y&R CAPE TOWN, 委婉語, Euphemism, Poophemisms, 幽默, 文字遊戲, 南非, South Africa, 開普敦, Cape Town, 香港, Hong Kong",
   "category": "行銷案例",
   "references": [
    "https://www.lovethework.com/en/work/entries/collection-of-poophemisims-36624",
@@ -331,7 +332,8 @@
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": false,
-  "note": "缺：沒有任何打開過的來源描述腳本或平面內容（AdsSpot、Best Ads on TV 都 403，LTW 頁無文字），所以一句話與讀稿的內容部分是依作品名稱推測。搜尋摘要提到旁白是一位講話得體的老先生朗讀委婉說法、產品功效為緩解偶發便祕，並有 Merman、Crayfish 等平面稿，未打開頁面，未寫入。官方有兩個得獎：Radio Script 與 Health & Wellness 的 Photography（Nutraceuticals），後者疑與平面稿有關，未能確認。找不到好圖（廣播，且沒有打開過的平面稿）。"
+  "note": "缺：沒有任何打開過的來源描述腳本或平面內容（AdsSpot、Best Ads on TV 都 403，LTW 頁無文字），所以一句話與讀稿的內容部分是依作品名稱推測。搜尋摘要提到旁白是一位講話得體的老先生朗讀委婉說法、產品功效為緩解偶發便祕，並有 Merman、Crayfish 等平面稿，未打開頁面，未寫入。官方有兩個得獎：Radio Script 與 Health & Wellness 的 Photography（Nutraceuticals），後者疑與平面稿有關，未能確認。找不到好圖（廣播，且沒有打開過的平面稿）。 2026-11-06 Opus 驗：一句話原本依片名推測內容（把委婉說法編成一輯），改成只寫片名；標籤拿掉未證實的便祕、排便與 LTW 錯位的 Photography。再搜 poophemisms／Gui Ling Yuan Fang 仍只有得獎名單，維持 uncertain，缺：腳本、音檔或任何內容描述。",
+  "idea_one_liner_r0": "南非 Y&R 為香港龜苓元坊涼茶做的廣播廣告，把「便便」的各種委婉說法（Poophemisms）編成一輯"
  },
  {
   "id": "ltwm-09240",
@@ -357,7 +359,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "西開普省政府的酒駕宣導短片：一群幫派分子喝醉後爭論誰能開車，最後決定叫計程車回家",
+  "idea_one_liner": "南非西開普省政府的酒駕宣導短片：一群幫派分子喝醉後爭論誰能開車，最後決定叫計程車回家",
   "brand_display": "西開普省政府（Western Cape Government）",
   "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜健康與保健類銅獅 Health & Wellness Bronze Lion｜代理商：Y&R SOUTH AFRICA, Cape Town\n\n【背景】西開普省政府的道路安全行動主題是 Safely Home，這支短片的標語是「Everybody Knows Alcohol and Roads Don't Mix」（大家都知道酒和道路不能混在一起），ECR 的報導說它出自省運輸與公共工程部的酒駕議題。\n\n【點子】用一群最不像會乖乖守規矩的人來講酒駕：幫派分子都知道喝了酒不能開車。\n\n【執行】ECR 描述短片的內容：一群被刻畫成流氓的男人喝了很多酒後想開車離開，他們爭論誰還能開，最後決定叫計程車。Y&R Cape Town 製作。官方卡片寫這是 Health & Wellness 的教育與宣導類短片。LTW 只有一格分鏡，畫面是夜裡一個背對鏡頭、穿著白色背心的人，遠方是亮著燈的低矮公寓。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/everybody-knows-35827\nhttps://ecr.co.za/shows/east-coast-breakfast/everybody-knows-bra-will-drinking-and-driving-ad-work",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Health & Wellness, 健康與保健類, 銅獅, Bronze Lion, Film, Cinema TV and Digital Film Content, Brand led Education & Awareness, 教育與宣導, Western Cape Government, 西開普省政府, 政府, 公共服務, 公益, PSA, Road Safety, 道路安全, Safely Home, 酒駕, 酒後駕車, Drink Driving, 計程車, Taxi, 幫派, 流氓, 黑色幽默, 影片, 短片, Y&R, Y&R SOUTH AFRICA, Y&R CAPE TOWN, 南非, South Africa, 開普敦, Cape Town",
@@ -371,7 +373,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入；影片本身沒看到，故事依 ECR 的文字描述整理（只有大意，沒有台詞）。分鏡格是唯一的圖，無案例板，只看得到夜景。搜尋摘要提到這類廣告被批評刻板化 Cape Flats 居民並一度下架，但未打開頁面（IOL 403），也無法確認是這支，未寫入，請覆核是否算【爭議】。"
+  "note": "官方全文需登入；影片本身沒看到，故事依 ECR 的文字描述整理（只有大意，沒有台詞）。分鏡格是唯一的圖，無案例板，只看得到夜景。搜尋摘要提到這類廣告被批評刻板化 Cape Flats 居民並一度下架，但未打開頁面（IOL 403），也無法確認是這支，未寫入，請覆核是否算【爭議】。 2026-11-06 Opus 驗：一句話補「南非」。爭議：搜尋到 IOL（2017 年 5 月）報導西開普省一支 #BoozeFreeRoads 酒駕短片在 Hanover Park 拍攝、把有色人種男性演成喝酒的幫派分子，被 Cape Flats 居民與政治人物批評後下架，COSATU 也批評種族刻板化；IOL、Citizen 都 403 打不開，無法確認是不是這一支。即使是，也屬刻板化批評與下架，依規則不算【爭議】，只寫 note，未寫入讀稿。",
+  "idea_one_liner_r0": "西開普省政府的酒駕宣導短片：一群幫派分子喝醉後爭論誰能開車，最後決定叫計程車回家"
  },
  {
   "id": "ltwm-09241",
