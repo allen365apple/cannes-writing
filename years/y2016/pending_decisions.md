@@ -34,3 +34,9 @@
 - b044 ltwm-08386 GRAVITY（Clorox 廣播）：找不到腳本／音檔，不收。
 - 仍 uncertain：b042 08363 Sunlight、08364 眼庫、08369 Flags；b043 08374 smart（缺 FIRE、EMERGENCY 兩則）。
 - 圖：b042 08364、b063 一件原用 weserv 轉址，主對話已改回官方直接網址（IDFA 那張回 octet-stream，若試算表顯示不出來再換）。
+
+## 2026-11-06 本機 b045 b046 b055（Sonnet 寫、Opus 驗）
+- b046 ltwm-08411 JOHN LENNON（Mariskal Rock Radio）：Opus 在創意作品頁找到 Vimeo 音檔、本機 whisper 轉寫後改成收；圖留空。
+- b046 ltwm-08403 IGUGU THEMBI：轉寫官方 YouTube 音檔補劇情，拿掉 uncertain。
+- b055 Shockwave：同一筆報名含 SHOCKWAVE 與 LOSS OF CONTROL 兩支，不算重複。
+- 圖：b046 Nonnas 主機回 image/webp。
