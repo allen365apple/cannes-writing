@@ -1,10 +1,9 @@
-*坎城雲端寫稿｜2017 第 2 輪（11/05 14:10）*
-• 這輪寫完並驗收：b050–b056，共 7 批 70 件（全收）
-• 這輪寫到的作品（舉 3～5 件）：Nike〈EQUALITY〉、84 Lumber〈THE JOURNEY〉、BMW〈THE ESCAPE〉、Waitrose〈SPRING〉、GQ〈RYAN REYNOLDS GETS ROASTED BY HIS TWIN BROTHER〉
-• 2017 進度：已完成 57／65 批，剩 8 批（b057–b064）
-• 待決新增：12 件（重複候選 0、爭議候選 0、資料不足 1 件 Ascensia，其餘為品牌或代理商待確認、來源偏少、圖不理想）
+*坎城雲端寫稿｜2016 第 1 輪（11/06 02:10）*
+• 這輪寫完並驗收：b001–b007，共 7 批 70 件（全收）
+• 這輪寫到的作品（舉 3～5 件）：DB Export〈BREWTROLEUM〉、Google〈AlphaGo〉、紐約時報〈THE DISPLACED〉、Tate Britain〈500 YEARS OF STORIES〉、Braintree〈CODEOLOGY〉
+• 2016 進度：已完成 30／64 批，剩 34 批（b008–b041；b039–b041 本機認領中）
+• 待決新增：16 件（爭議候選 4：Coop、Legally Bride、Cubetto、FALTER；不算爭議請確認 3；重複判斷 1；資料不足 3：KFC、Dove 廣播、GASCALE；品牌待確認 1；圖不理想 4）
 • 問題：
-  • 一位寫手用了規定不能用的轉址方式放圖（b051 一件），驗收員已換成官方圖，已記錄
-  • 有一次搜尋碰到網頁藏了要我們改指令的文字，寫手沒理會
-  • 多個廣告網站擋連線（LBB、The Drum、Campaign 等），部分件只能靠較少的來源
-• 預計：照一天 14 批，剩下約 1 天寫完（11/06 左右），接著等本機做前置
+  • 多個廣告網站擋連線（LBB、Campaign、The Drum、MediaPost 等），部分件只能靠案例板與較少的來源
+  • 推送時跟本機同時更新驗收清單，兩邊都保留，沒有遺失
+• 預計：照一天 14 批，剩下約 2～3 天寫完（11/08 左右），接著等本機做前置
