@@ -16,3 +16,10 @@
 - b057 ltwm-08522 Sweet Dreams：找不到能呈現點子的圖，圖留空。
 - b062 ltwm-08568：Reason 質疑其引用的統計數字，屬數字爭論，不算【爭議】。
 - GPT 稿一句話偏書面，b061、b062 幾乎全批重寫一句話。
+
+## 2026-11-06 本機 b049–b051（Sonnet 寫、Opus 驗）
+- b049 ltwm-08439 MENTORS：依 LBB 原文的 Wayback 存檔改成收（公開存檔，非偽裝標頭）。
+- b049 ltwm-08434 MARK（BMW Motorrad 廣播）：內容要登入，不收。
+- b049 MOB, PROTEST, POLICE：in 檔 title 漏 MASSACRE，收尾時照官方補。
+- b051 ltwm-08459 NOKIA（Truecaller 廣播）：缺音檔仍 uncertain；圖只有字卡。
+- b050 Harvey Nichols：仍 uncertain，缺另三則內容。
