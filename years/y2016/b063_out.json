@@ -123,12 +123,12 @@
       "https://www.idfa.nl/en/film/1d5786ed-2bf6-483c-971f-298052576398/waves-of-grace/",
       "https://roadtovr.com/waves-grace-powerful-360-film-ebola-survivor-un-vrse/"
     ],
-    "image_url": "https://images.weserv.nl/?url=my.idfa.nl/image-transforms/c900f240-6de0-4165-8a65-b888a3fb9b0b/2500.jpeg&w=1600&output=jpg",
+    "image_url": "https://my.idfa.nl/image-transforms/c900f240-6de0-4165-8a65-b888a3fb9b0b/2500.jpeg",
     "image_shows": "IDFA 影片劇照：以全景影像呈現賴比瑞亞市場，攤販、行人與頭頂紅色容器的女子環繞鏡頭。",
     "text_source_level": 2,
     "uncertain": false,
     "needs_audio": false,
-    "note": "官方候選圖為黑底開場字卡，不能呈現作品，改用 IDFA 劇照；原圖回傳 application/octet-stream，依規則用 weserv 轉為 JPEG。免疫相關說法僅作人物故事背景，讀稿未擴寫醫療保證。聯合國頁面 403，未採用。 已逐件搜尋作品名搭配 controversy、fake、fraud、withdrawn，未找到本案造假、抄襲或撤獎指控。"
+    "note": "官方候選圖為黑底開場字卡，不能呈現作品，改用 IDFA 劇照；原圖回傳 application/octet-stream，依規則用 weserv 轉為 JPEG。免疫相關說法僅作人物故事背景，讀稿未擴寫醫療保證。聯合國頁面 403，未採用。 已逐件搜尋作品名搭配 controversy、fake、fraud、withdrawn，未找到本案造假、抄襲或撤獎指控。 2026-11-06 主對話：圖改回官方直接網址，不用 weserv 轉址。"
   },
   {
     "id": "ltwm-08579",

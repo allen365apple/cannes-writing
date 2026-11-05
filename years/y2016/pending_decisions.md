@@ -29,3 +29,8 @@
 - 重複候選：b047 ltwm-08422 LIVE VINES 與 b056 ltwm-08514 SOCIAL INNOVATION CAMPAIGN（Lowe's 四件組合，含 Live Vines）。不同官方報名，建議兩件都收（描述會部分重複），請決定。
 - 仍 uncertain：b047 08419 LIFE SIGNAL；b048 08426 Kisses、08427 Luis' Dream、08429 Madden NFL 15、08432 Prematek；b056 08505 ESPN。
 - 圖弱：b048 Luis' Dream、Madden；b060 08549 Mustang、08551 溫度計。
+
+## 2026-11-06 本機 b042–b044（Sonnet 寫、Opus 驗）
+- b044 ltwm-08386 GRAVITY（Clorox 廣播）：找不到腳本／音檔，不收。
+- 仍 uncertain：b042 08363 Sunlight、08364 眼庫、08369 Flags；b043 08374 smart（缺 FIRE、EMERGENCY 兩則）。
+- 圖：b042 08364、b063 一件原用 weserv 轉址，主對話已改回官方直接網址（IDFA 那張回 octet-stream，若試算表顯示不出來再換）。
