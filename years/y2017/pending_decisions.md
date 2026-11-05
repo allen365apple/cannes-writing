@@ -160,3 +160,11 @@
 - 來源偏薄（沒標 uncertain）：b051 ltwm-09111 Single Belief、ltwm-09117 Valio Gefilus；b053 ltwm-09134 Tiny Dancer（缺洞察、策略來源）；b053 ltwm-09139 adidas「產品是 NMD」只依官方資料。
 - 圖不理想：b053 多件只用影片分鏡截圖（Penguin、Caixa、Tiny Dancer、Justino、adidas、Extra Gum）；b052 ltwm-09122 縮圖已換分鏡格。
 - 仍 uncertain：無。重複候選：無。【爭議】候選：無。
+
+## b050、b054、b055、b056（2026-11-05 雲端第二輪）
+- 仍 uncertain：b050 ltwm-09105 Ascensia（缺影片內容與旁白；官方一座獎列三支片，驗收員判斷本來就是同一件，不用合併）。
+- b050 ltwm-09101 AVIATION：驗收員依試驗代號 aV1ation 推定為羅氏同一項二期試驗（來源 PMC 論文），請知悉。
+- b055 ltwm-09153 Barnardo's GYMNAST：得獎類別是改編音樂運用，仍找不到配樂曲目。ltwm-09154 BMW：得的是音效設計獎，來源沒描述聲音，讀稿只補名單。
+- b056 ltwm-09169 White Hats：兩份報名資料成效數字不一致、有將領說法較小，成效沒寫進讀稿，不算【爭議】。ltwm-09171 SnapSkate：代理商照官方寫 Ogilvy Frankfurt（報導寫 Berlin）。
+- 圖不理想：b050 ltwm-09109 Keepers（官方板是雪地空景，用 Tribeca 劇照）、ltwm-09108 只有字卡、ltwm-09099／09100 案例板低解析；b054 全批只有影片分鏡截圖；b056 ltwm-09163、09165 只有小縮圖。
+- 重複候選：無（b054 EQUALITY 另一張 equality-signs 是 b014 的 ltwm-08735，不重複）。【爭議】候選：無。

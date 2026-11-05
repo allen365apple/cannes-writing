@@ -116,7 +116,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 頁沒有可讀文字；依 10News（CNN 轉載）與 CBS 報導整理，兩處都沒寫導演與影片畫面，所以讀稿沒寫導演與片中細節。官方得獎名單的代理商含 Eleven Sound、Walker、Barking Owl，【得獎】行照官方。ltw_card_urls 另有 equality-signs 一張（可能是同系列看板），本批只寫影片這支。【爭議】已搜：有政治立場兩極的網路反應、有人質疑 Nike 勞工議題與訊息矛盾，屬一般評論，只寫 note，未寫入；沒有造假、抄襲、撤獎指控（搜尋結果有一則 dabitch.net「Ad writer accuses Nike of plagiarism」標題，沒有內容、無法確認是不是這支，未寫入）。"
+  "note": "官方 lovethework 頁沒有可讀文字；依 10News（CNN 轉載）與 CBS 報導整理，兩處都沒寫導演與影片畫面，所以讀稿沒寫導演與片中細節。官方得獎名單的代理商含 Eleven Sound、Walker、Barking Owl，【得獎】行照官方。ltw_card_urls 另有 equality-signs 一張（可能是同系列看板），本批只寫影片這支。【爭議】已搜：有政治立場兩極的網路反應、有人質疑 Nike 勞工議題與訊息矛盾，屬一般評論，只寫 note，未寫入；沒有造假、抄襲、撤獎指控（搜尋結果有一則 dabitch.net「Ad writer accuses Nike of plagiarism」標題，沒有內容、無法確認是不是這支，未寫入）。 2026-11-05 Opus 驗：ltw_card_urls 裡的 equality-signs 是另一件作品：全年 in 檔的 ltwm-08735 EQUALITY SIGNS（Nike Colombia，媒體類戶外，b014），不是本件的看板版，也不算重複，本件不需處理。"
  },
  {
   "id": "ltwm-09144",
@@ -226,23 +226,25 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "Apple 找導演 Juan Cabral 拍夜間街頭的短片，畫面有立在街心的燈絲燈泡，也有人物暗處的特寫",
+  "idea_one_liner": "Apple 為新款 MacBook Pro 拍短片，讓上百顆燈泡接連爆開，穿插火、火車到太空飛行等改變世界的發明，最後帶出觸控列",
   "brand_display": "Apple",
-  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜影片工藝類銅獅 Film Craft Bronze Lion×2｜代理商：MJZ, Los Angeles / TBWA\\MEDIA ARTS LAB, Los Angeles\n\n【背景】Ads of the World 把〈Bulbs〉列為 2016 年 11 月在美國發表的 Apple 影片，代理商是洛杉磯的 Media Arts Lab，製作公司是 MJZ，導演是 Juan Cabral。官方報名名單的代理商是 MJZ 與 TBWA\\Media Arts Lab（洛杉磯）。\n\n【執行】找不到文字說明這支片的劇情與想法，所以這裡只寫看得到的畫面。官方影片截圖裡，有一顆燈絲燈泡裝在黑色燈座上，立在空無一人的城市街道中央，背景是夜間街景的散景光點；另有一格是空蕩的市區街道，路口標示牌寫著「6th St」，還有幾格是黑暗中人物臉部、手與頭髮的特寫。Leitz 的作品頁記載拍攝使用 Summilux-C 鏡頭；另一個獎項資料庫的作品頁只列出客戶 Apple，影片要登入才能看。官方報名的是影片工藝類的美術設計與剪輯兩項，各一座銅獅，但目前打開的頁面都沒有說明得獎原因。\n\n資料來源：\nhttps://www.adsoftheworld.com/campaigns/bulbs\nhttps://www.leitz-cine.com/production/apple-bulbs-2017\nhttps://www.dandad.org/awards/professional/2017/film-advertising/26112/bulbs/\nhttps://www.lovethework.com/en/work/entries/bulbs-30733",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜影片工藝類銅獅 Film Craft Bronze Lion×2｜代理商：MJZ, Los Angeles / TBWA\\MEDIA ARTS LAB, Los Angeles\n\n【背景】2016 年 11 月 17 日，Apple 在 YouTube 頻道放出〈Bulbs〉，主打新款 MacBook Pro 鍵盤上方的觸控列（Touch Bar）。Ads of the World 記載導演是 Juan Cabral，製作公司 MJZ，代理商是洛杉磯的 Media Arts Lab。\n\n【點子】用代表「點子」的燈泡當主角：一顆又一顆燈泡爆開，每一次都接上一項推動世界前進的發明，最後把新的 MacBook Pro 放在這串發明的最後面。\n\n【執行】MacRumors 描述，片中數百顆燈泡接連爆開，中間閃過一連串改變世界的發明，依序是火、耕作、打鐵、火車、飛行、電話、打字機、衛生紙、微波爐、電視、冷凍庫、相機、電腦、機器人與太空飛行，最後停在 MacBook Pro 上：螢幕上的一顆燈泡爆開，再用觸控列上的手勢讓它倒轉回原狀。iClarified 記下的片中文案是「Ideas have always pushed the world forward. Introducing a tool for all the ideas to come. The new MacBook Pro.」（點子一直推動世界前進。為所有未來的點子而生的工具：新 MacBook Pro）。官方影片截圖裡，一顆燈絲燈泡裝在黑色燈座上，立在夜間空蕩的城市街道中央，背景是模糊的街燈光點。Leitz 的作品頁記載拍攝使用 Summilux-C 鏡頭。官方報名的是影片工藝類的美術設計與剪輯，各得一座銅獅。\n\n資料來源：\nhttps://www.macrumors.com/2016/11/17/apple-macbook-pro-bulbs-ad/\nhttps://www.iclarified.com/57870/apple-posts-new-macbook-pro-ad-bulbs-video\nhttps://www.adsoftheworld.com/campaigns/bulbs\nhttps://www.leitz-cine.com/production/apple-bulbs-2017\nhttps://www.lovethework.com/en/work/entries/bulbs-30733",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片工藝類, Film Craft, 銅獅, Bronze Lion, 美國, United States, Apple, 蘋果, 科技, 電子產品, 美術設計, Production Design, Art Direction, 剪輯, Editing, 影片, 短片, 電視廣告, TVC, 夜晚, 城市, 街道, 燈泡, 燈絲燈泡, 散景, 特寫, 光, Juan Cabral, MJZ, TBWA\\Media Arts Lab, Media Arts Lab, TBWA, 情緒, 神祕",
   "category": "行銷案例",
   "references": [
+   "https://www.macrumors.com/2016/11/17/apple-macbook-pro-bulbs-ad/",
+   "https://www.iclarified.com/57870/apple-posts-new-macbook-pro-ad-bulbs-video",
    "https://www.adsoftheworld.com/campaigns/bulbs",
    "https://www.leitz-cine.com/production/apple-bulbs-2017",
-   "https://www.dandad.org/awards/professional/2017/film-advertising/26112/bulbs/",
    "https://www.lovethework.com/en/work/entries/bulbs-30733"
   ],
   "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/5ee2b41b56c24ebb99ddaf3ff1935c4d/storyboard_000005.jpg",
   "image_shows": "官方影片截圖：一顆燈絲燈泡裝在黑色燈座上，立在夜間空蕩的街道中央，背景是模糊的紅、白、橘色光點",
   "text_source_level": 3,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "查不到文字來源說明這支的劇情與想法：官方 lovethework 頁沒有文字，Ads of the World、Leitz、D&AD 都只有名單與獲獎資料，影片要登入才看得到。缺什麼：一則描述影片內容、概念的文章或官方案例說明。一句話與讀稿只寫截圖看得到的畫面，點子與策略都沒寫。搜尋摘要提到片尾字卡「Ideas push the world forward」，因沒有在打開的頁面看到，未寫入；也不確定這支與 Apple 2016 年耶誕廣告〈Frankie's Holiday〉的關係，未寫入。官方得獎為影片工藝類美術設計與剪輯各一座銅獅。【爭議】已搜：沒有這支的造假、抄襲、撤獎指控。"
+  "note": "查不到文字來源說明這支的劇情與想法：官方 lovethework 頁沒有文字，Ads of the World、Leitz、D&AD 都只有名單與獲獎資料，影片要登入才看得到。缺什麼：一則描述影片內容、概念的文章或官方案例說明。一句話與讀稿只寫截圖看得到的畫面，點子與策略都沒寫。搜尋摘要提到片尾字卡「Ideas push the world forward」，因沒有在打開的頁面看到，未寫入；也不確定這支與 Apple 2016 年耶誕廣告〈Frankie's Holiday〉的關係，未寫入。官方得獎為影片工藝類美術設計與剪輯各一座銅獅。【爭議】已搜：沒有這支的造假、抄襲、撤獎指控。 2026-11-05 Opus 驗：補到 MacRumors（片中依序出現的發明、結尾觸控列手勢）與 iClarified（片中文案），重寫一句話與讀稿，拿掉 uncertain。D&AD 頁只有名單，從資料來源移除。搜尋摘要提到的配樂（William Tell 序曲）未在打開的頁面看到，未寫入。",
+  "idea_one_liner_r0": "Apple 找導演 Juan Cabral 拍夜間街頭的短片，畫面有立在街心的燈絲燈泡，也有人物暗處的特寫"
  },
  {
   "id": "ltwm-09147",
@@ -268,21 +270,22 @@
   "awards_unverified": [],
   "idea_one_liner": "音樂串流平台 Pandora 請導演 Michel Gondry 搭出經典專輯封面的實景，讓跑步的女子一路穿過，最後點開 App",
   "brand_display": "Pandora",
-  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜影片工藝類銅獅 Film Craft Bronze Lion｜代理商：PARTIZAN ENTERTAINMENT, Los Angeles / PANDORA MEDIA, Santa Monica\n\n【背景】這是 Pandora「Sounds Like You」系列的影片，由 Pandora 自己與製作公司 Partizan 完成，導演是法國的 Michel Gondry。Open Culture 與 Laughing Squid 都把它的製作時間寫成 2017 年 5 月。\n\n【點子】把「聽歌」拍成一趟走進專輯封面的旅程：每一個空間都是一張大家熟悉的封面，女子跑過一張又一張，最後回到 App 裡找自己愛的歌。\n\n【執行】影片裡，一位短髮、穿運動服的年輕女子一路奔跑，穿過一個個房間與場景，每一處都是一張著名專輯封面的立體版本。Open Culture 形容這體現了 Gondry 的招牌風格：大型布景、鏡頭內完成的特效、巨大的道具和視覺幽默。影片中出現的專輯有 The Doors《Morrison Hotel》、Prince《Purple Rain》、The Rolling Stones《Beggars Banquet》、Metallica《Master of Puppets》、The Weeknd《Starboy》、Devo《Freedom of Choice》、Nirvana《Nevermind》、Drake《Nothing Was the Same》、The Cure《A Forest》、Joy Division《Unknown Pleasures》、David Bowie《Blackstar》與 Big Sean《I Decided》。片尾，她翻看 Pandora App 裡自己最愛的歌。官方影片截圖是《Morrison Hotel》封面的場景：灰白磚牆的大樓、掛著「Morrison Hotel 1246」牌子的門與台階，有人從門縫探出身。官方報名的是影片工藝類的美術設計與藝術指導獎。官方案例頁沒有可讀文字。\n\n資料來源：\nhttps://www.openculture.com/2018/01/filmmaker-michel-gondry-brings-classic-album-covers-to-life-in-a-visually-packed-commercial.html\nhttps://laughingsquid.com/woman-runs-through-iconic-album-covers/\nhttps://faroutmagazine.co.uk/michael-gondry-album-cover-video-nirvana-david-bowie/\nhttps://www.lovethework.com/en/work/entries/playlist-30929",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜影片工藝類銅獅 Film Craft Bronze Lion｜代理商：PARTIZAN ENTERTAINMENT, Los Angeles / PANDORA MEDIA, Santa Monica\n\n【背景】這是 Pandora「Sounds Like You」系列的影片，由 Pandora 自己與製作公司 Partizan 完成，導演是法國的 Michel Gondry。Yahoo 在 2017 年 5 月 6 日報導了這支為 #SoundsLikeYou 活動拍的新片，同時介紹 Pandora 的付費方案 Pandora Premium；Laughing Squid 也寫它是 Gondry 在 2017 年 5 月做的。\n\n【點子】把「聽歌」拍成一趟走進專輯封面的旅程：每一個空間都是一張大家熟悉的封面，女子跑過一張又一張，最後回到 App 裡找自己愛的歌。\n\n【執行】影片裡，一位短髮、穿運動服的年輕女子一路奔跑，穿過一個個房間與場景，每一處都是一張著名專輯封面的立體版本。Open Culture 形容這體現了 Gondry 的招牌風格：大型布景、鏡頭內完成的特效、巨大的道具和視覺幽默。影片中出現的專輯有 The Doors《Morrison Hotel》、Prince《Purple Rain》、The Rolling Stones《Beggars Banquet》、Metallica《Master of Puppets》、The Weeknd《Starboy》、Devo《Freedom of Choice》、Nirvana《Nevermind》、Drake《Nothing Was the Same》、The Cure《A Forest》、Joy Division《Unknown Pleasures》、David Bowie《Blackstar》與 Big Sean《I Decided》。片尾，她翻看 Pandora App 裡自己最愛的歌。官方影片截圖是《Morrison Hotel》封面的場景：灰白磚牆的大樓、掛著「Morrison Hotel 1246」牌子的門與台階，有人從門縫探出身。官方報名的是影片工藝類的美術設計與藝術指導獎。官方案例頁沒有可讀文字。\n\n資料來源：\nhttps://www.openculture.com/2018/01/filmmaker-michel-gondry-brings-classic-album-covers-to-life-in-a-visually-packed-commercial.html\nhttps://laughingsquid.com/woman-runs-through-iconic-album-covers/\nhttps://faroutmagazine.co.uk/michael-gondry-album-cover-video-nirvana-david-bowie/\nhttps://www.lovethework.com/en/work/entries/playlist-30929\nhttps://sg.news.yahoo.com/michel-gondry-celebrates-recreates-iconic-album-covers-dazzling-new-pandora-promo-004349651.html",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片工藝類, Film Craft, 銅獅, Bronze Lion, 美國, United States, Pandora, 音樂, 串流, 音樂串流, 網路電台, 美術設計, Production Design, Art Direction, 影片, 電視廣告, TVC, Michel Gondry, 專輯封面, Album Cover, 場景, 布景, 實景, 道具, 微縮, 跑步, 鏡頭內特效, In-camera Effects, 視覺幽默, Morrison Hotel, The Doors, Nirvana, Partizan, Partizan Entertainment, Pandora Media, 情緒, 驚喜, Sounds Like You",
   "category": "行銷案例",
   "references": [
    "https://www.openculture.com/2018/01/filmmaker-michel-gondry-brings-classic-album-covers-to-life-in-a-visually-packed-commercial.html",
    "https://laughingsquid.com/woman-runs-through-iconic-album-covers/",
    "https://faroutmagazine.co.uk/michael-gondry-album-cover-video-nirvana-david-bowie/",
-   "https://www.lovethework.com/en/work/entries/playlist-30929"
+   "https://www.lovethework.com/en/work/entries/playlist-30929",
+   "https://sg.news.yahoo.com/michel-gondry-celebrates-recreates-iconic-album-covers-dazzling-new-pandora-promo-004349651.html"
   ],
   "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/c45473feb3c7479fb84bef7fda14457b/storyboard_000002.jpg",
   "image_shows": "官方影片截圖：《Morrison Hotel》封面場景，灰白磚牆的建築，門兩側掛著「1246 Morrison Hotel」招牌，門前有一排台階與垃圾桶，門縫裡有人探出",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 頁沒有可讀文字。來源裡這支叫「Sounds Like You」，官方報名名是 PLAYLIST；Clio 條目的搜尋摘要標題是 Playlist（導演 Michel Gondry、Partizan），只用來判斷是同一支，內容未寫入，官方截圖的《Morrison Hotel》場景也對得上，判斷是同一支，但沒有打開的頁面把兩個名字寫在一起，請驗收員留意。Clio 頁面本身打不開（404）。搜尋摘要提到 Digitas 與配樂曲目，沒有在打開的頁面看到，未寫入。【爭議】已搜：沒有這支的造假、抄襲、撤獎指控；Open Culture 只開玩笑說像 Gondry 自我模仿，屬一般評論，未寫入。"
+  "note": "官方 lovethework 頁沒有可讀文字。來源裡這支叫「Sounds Like You」，官方報名名是 PLAYLIST；Clio 條目的搜尋摘要標題是 Playlist（導演 Michel Gondry、Partizan），只用來判斷是同一支，內容未寫入，官方截圖的《Morrison Hotel》場景也對得上，判斷是同一支，但沒有打開的頁面把兩個名字寫在一起，請驗收員留意。Clio 頁面本身打不開（404）。搜尋摘要提到 Digitas 與配樂曲目，沒有在打開的頁面看到，未寫入。【爭議】已搜：沒有這支的造假、抄襲、撤獎指控；Open Culture 只開玩笑說像 Gondry 自我模仿，屬一般評論，未寫入。 2026-11-05 Opus 驗：核對：官方報名名 PLAYLIST、Clio 連結 pandora/playlist、官方截圖《Morrison Hotel》場景，與「Sounds Like You」的導演、製作公司、畫面都對得上，判定同一支。補 Yahoo 2017-05-06 報導為來源；專輯清單與 Open Culture 核對無誤。"
  },
  {
   "id": "ltwm-09148",
@@ -400,6 +403,6 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 頁沒有可讀文字；依 Shots（名單與片長）與 Campaigns of the World（內容）整理。注意：官方報名名是「VIRGIN MEDIA 'USAIN BOLT #BETHEFASTEST'」，來源裡的片名是「9.58 Seconds / What 9.58 seconds feels like」，兩者沒有任何打開的頁面直接寫成同一支；但 BBH London、Trim Editing（剪輯得獎）、#BeTheFastest 與 Bolt 都對得上，判斷是同一支，請驗收員留意。Campaigns of the World 沒列剪輯師，剪輯師依 Shots。搜尋摘要提到 Michael Johnson 旁白、Euro 2016 播出、Bolt 表情符號，沒有在打開的頁面看到，未寫入。【爭議】已搜：只找到 2012～2013 年同品牌別支 Bolt 廣告被 ASA 禁播，屬別支廣告，只寫 note；這支沒有造假、抄襲、撤獎指控。"
+  "note": "官方 lovethework 頁沒有可讀文字；依 Shots（名單與片長）與 Campaigns of the World（內容）整理。注意：官方報名名是「VIRGIN MEDIA 'USAIN BOLT #BETHEFASTEST'」，來源裡的片名是「9.58 Seconds / What 9.58 seconds feels like」，兩者沒有任何打開的頁面直接寫成同一支；但 BBH London、Trim Editing（剪輯得獎）、#BeTheFastest 與 Bolt 都對得上，判斷是同一支，請驗收員留意。Campaigns of the World 沒列剪輯師，剪輯師依 Shots。搜尋摘要提到 Michael Johnson 旁白、Euro 2016 播出、Bolt 表情符號，沒有在打開的頁面看到，未寫入。【爭議】已搜：只找到 2012～2013 年同品牌別支 Bolt 廣告被 ASA 禁播，屬別支廣告，只寫 note；這支沒有造假、抄襲、撤獎指控。 2026-11-05 Opus 驗：核對 Shots：片名 Virgin Media: 9.58 Seconds，2016-07-06，100 秒、十段各 9.58 秒，導演 Seb Edwards、剪輯 Tom Lindsay、BBH，與讀稿相符；官方截圖是 Bolt 蹲在起跑器上，判定與官方報名 USAIN BOLT #BETHEFASTEST 同一支。"
  }
 ]

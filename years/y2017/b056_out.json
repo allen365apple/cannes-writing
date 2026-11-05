@@ -37,7 +37,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方案例頁只有標題，無說明；內容依 Shots、Streaming Tank、FarmingUK 整理。官方案例板找不到（in 檔只有占位圖），圖用 Shots 的 og:image（廣告畫面）。作品實際在 2016 年 4 月播出。Shots 說攝影機放在多個農場（含酪農場與蛋雞場），Streaming Tank 與 FarmingUK 說直播來自 Leckford 農場三個點，讀稿兩者並陳。收視人數等成效不寫。爭議搜尋：只有報章的調侃與無關的別農場虐待指控，不算。"
+  "note": "官方案例頁只有標題，無說明；內容依 Shots、Streaming Tank、FarmingUK 整理。官方案例板找不到（in 檔只有占位圖），圖用 Shots 的 og:image（廣告畫面）。作品實際在 2016 年 4 月播出。Shots 說攝影機放在多個農場（含酪農場與蛋雞場），Streaming Tank 與 FarmingUK 說直播來自 Leckford 農場三個點，讀稿兩者並陳。收視人數等成效不寫。爭議搜尋：只有報章的調侃與無關的別農場虐待指控，不算。 2026-11-05 Opus 驗：程式報 FarmingUK 404 是誤報：重抓為 200，標題與內容（Leckford 農場三個點、Waterloo 等車站）與讀稿相符，保留。"
  },
  {
   "id": "ltwm-09163",
@@ -161,7 +161,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方案例頁只有標題；內容依案例板縮圖、Adobo Magazine、SunStar 整理。優惠內容各來源不同（Adobo：該次油免費；SunStar 的 2017 年 4 月版：每公升折 10 披索），讀稿並陳。板上與 Adobo 的衝擊數字（曝光、全滿油箱成長、銷售成長）屬成效，未寫。案例板只有 254x180 縮圖，解析度低。搜尋摘要提到另有後年度的重推版本，未寫入。未發現造假等爭議。"
+  "note": "官方案例頁只有標題；內容依案例板縮圖、Adobo Magazine、SunStar 整理。優惠內容各來源不同（Adobo：該次油免費；SunStar 的 2017 年 4 月版：每公升折 10 披索），讀稿並陳。板上與 Adobo 的衝擊數字（曝光、全滿油箱成長、銷售成長）屬成效，未寫。案例板只有 254x180 縮圖，解析度低。搜尋摘要提到另有後年度的重推版本，未寫入。未發現造假等爭議。 2026-11-05 Opus 驗：優惠內容兩個來源描述的是不同期（案例板／Adobo：該次油免費；SunStar：2017 年 4 月每公升折 10 披索），讀稿已分別標出來源，保留。"
  },
  {
   "id": "ltwm-09166",
@@ -188,7 +188,7 @@
   "awards_unverified": [],
   "idea_one_liner": "巴西球隊 Cruzeiro 在國際婦女節的盃賽，把背號換成女性處境的統計數字，例如薪資低 30%、每 11 分鐘一起強暴",
   "brand_display": "Cruzeiro 與 AzMina（巴西女性非營利媒體）",
-  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜媒體類銅獅 Media Bronze Lion｜代理商：NEW360, Belo Horizonte\n\n【背景】案例板說明，巴西是女性遭受暴力與不平等程度最高的國家之一；任務是在國際婦女節傳遞一個有力的訊息。\n\n【點子】球衣背後的號碼本來只是號碼，改成一組組統計數字，讓球場上最顯眼的位置講出女性的處境。\n\n【執行】2017 年 3 月 8 日國際婦女節，Cruzeiro 在巴西盃對 Murici-AL 的比賽上場時，球員背上的號碼換成統計數字，資料由巴西非營利組織 AzMina 提供。案例板拍到的例子有：「薪資 30% 較低」、「每 11 分鐘一起強暴」、「女性遭謀殺的比率，巴西排第 5」、「每十位年輕人有 8 位遭過騷擾」、「每十位失業者有 7 位是女性」。案例板主視覺是球員互相擁抱的畫面，背上的號碼清楚可見。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/lets-change-the-numbers-18982\nhttps://remezcla.com/sports/cruzeiro-international-women-day/",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜媒體類銅獅 Media Bronze Lion｜代理商：NEW360, Belo Horizonte\n\n【背景】案例板說明，巴西是女性遭受暴力與不平等程度最高的國家之一；任務是在國際婦女節傳遞一個有力的訊息。\n\n【點子】球衣背後的號碼本來只是號碼，改成一組組統計數字，讓球場上最顯眼的位置講出女性的處境。\n\n【執行】2017 年 3 月 8 日國際婦女節，Cruzeiro 在巴西盃對 Murici-AL 的比賽上場時，球員背上的號碼換成統計數字，資料由巴西非營利組織 AzMina 提供。案例板拍到的例子有：「薪資 30% 較低」、「每 11 分鐘一起強暴」、「殺害女性（feminicídio）比率第 5 高的國家」、「每十位年輕人有 8 位遭過騷擾」、「每十位失業者有 7 位是女性」。案例板主視覺是球員互相擁抱的畫面，背上的號碼清楚可見。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/lets-change-the-numbers-18982\nhttps://remezcla.com/sports/cruzeiro-international-women-day/",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 媒體類, Media, 銅獅, Bronze Lion, 活動運用, Use of Events, Cruzeiro, Cruzeiro Esporte Clube, 克魯塞羅, AzMina, NEW360, 足球, 球隊, 體育, 運動, 球衣, 背號, 統計數字, 國際婦女節, International Women's Day, 女性, 性別平等, 暴力, 社會議題, 公益, 巴西, Brazil, 巴西盃, 非營利",
   "category": "行銷案例",
   "references": [
@@ -200,7 +200,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方案例頁只有標題；內容依案例板（文字與球衣照片）與 Remezcla 整理。板上的數字翻譯為自行從葡文辨讀，其中「5º PAÍS EM TAXA DE FEMINICÍDIO」譯為「女性遭謀殺的比率，巴西排第 5」（板上只寫第 5 個國家，未說明比較範圍），建議驗收時核對。板上成效（媒體價值、觸及）未寫。in 檔標籤寫「#LetsChangeTheNumbers」，作品名取官方 LET'S CHANGE THE NUMBERS。未發現造假等爭議。"
+  "note": "官方案例頁只有標題；內容依案例板（文字與球衣照片）與 Remezcla 整理。板上的數字翻譯為自行從葡文辨讀，其中「5º PAÍS EM TAXA DE FEMINICÍDIO」譯為「女性遭謀殺的比率，巴西排第 5」（板上只寫第 5 個國家，未說明比較範圍），建議驗收時核對。板上成效（媒體價值、觸及）未寫。in 檔標籤寫「#LetsChangeTheNumbers」，作品名取官方 LET'S CHANGE THE NUMBERS。未發現造假等爭議。 2026-11-05 Opus 驗：下載案例板核對：球衣寫「5º PAÍS EM TAXA DE FEMINICÍDIO」，板上沒說比較範圍，譯文改為「殺害女性比率第 5 高的國家」，不加「全球」。其他四組數字與板上相符。"
  },
  {
   "id": "ltwm-09167",
@@ -262,21 +262,23 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "中東叫車 App Careem 在杜拜拍了假影片，內容是人被巨型彈弓射向大樓，網路流傳後才承認是品牌發表",
+  "idea_one_liner": "中東叫車 App Careem 在網路放出一段影片，男子被巨型彈弓從杜拜高樓射出，網路瘋傳後才揭曉是品牌發表",
   "brand_display": "Careem",
-  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜媒體類銅獅 Media Bronze Lion｜代理商：MISFITS, Dubai\n\n【背景】Careem 是中東的叫車 App，2016 年 9 月的這支影片是為品牌改版與新服務的發表而做；據報導，公司想用一個戲劇性的方式亮相。\n\n【點子】先不露出品牌，丟出一段「真的嗎？」的影片讓網路自己傳，過幾天再說是我們幹的。\n\n【執行】影片裡，一名男子在杜拜碼頭區附近、有直升機停機坪的大樓上，被一具巨型彈弓射向遠處的大樓，似乎沒對準降落點、飛過頭。影片在週六開始在 Facebook、Twitter 與 WhatsApp 上流傳，部分人信以為真，杜拜警方很快出面說影片是假的。週一，Careem 在官方推特承認：「被 Careem 式惡搞了！我們要用砰的一聲登場。」並放出完整版，顯示那位「飛行者」落進泳池。案例板縮圖中，畫面是高樓屋頂上穿著反光背心的人，與一具彈射裝置上的人。\n\n資料來源：\nhttps://khaleejtimes.com/uae/careem-takes-credit-for-fake-slingshot-video-that-went-viral?amp=1\nhttps://www.gdnonline.com/Details/114330/The-human-catapult-video-that-went-viral-was-actually-a-prank",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜媒體類銅獅 Media Bronze Lion｜代理商：MISFITS, Dubai\n\n【背景】Careem 是中東的叫車 App，2016 年 9 月的這支影片是為品牌改版與新服務的發表而做；據報導，公司想用一個戲劇性的方式亮相。案例板寫的難題是：這家新創已經進入全球 49 座城市，要用極少的預算做一次品牌發表。\n\n【洞察】案例板的說法是，能免費觸及每個國家、每種族群的平台只有社群媒體。\n\n【點子】做一支分享度高到能自己傳遍全世界的影片，替品牌免費發表。訊息很簡單：Careem 是更好的移動方式（the better way to get around），也就是官方作品名；做法是先不露出品牌，丟出一段「真的嗎？」的影片讓網路自己傳，過幾天再說是我們幹的。\n\n【執行】影片裡，一名男子在杜拜碼頭區附近、有直升機停機坪的大樓上，被一具巨型彈弓射向遠處的大樓，似乎沒對準降落點、飛過頭。影片在週六開始在 Facebook、Twitter 與 WhatsApp 上流傳，部分人信以為真，杜拜警方很快出面說影片是假的。週一，Careem 在官方推特承認：「被 Careem 式惡搞了！我們要用砰的一聲登場。」並放出完整版，顯示那位「飛行者」落進泳池。案例板的主畫面是杜拜碼頭區高樓的直升機停機坪：一個人坐在接著紅色彈力繩與鐵鍊的彈射座椅上，旁邊站著穿反光背心的工作人員與一位穿白袍的男子，背景是成排摩天大樓。\n\n資料來源：\nhttps://khaleejtimes.com/uae/careem-takes-credit-for-fake-slingshot-video-that-went-viral?amp=1\nhttps://www.gdnonline.com/Details/114330/The-human-catapult-video-that-went-viral-was-actually-a-prank\nhttps://lovethework.com/work-awards/campaigns/careem-slingshot-launch-1505066",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 媒體類, Media, 銅獅, Bronze Lion, 噱頭運用, Use of Stunts, Careem, Misfits, 叫車, 叫車 App, 共乘, 交通, 科技, 品牌發表, 惡搞, Prank, 病毒影片, Viral Video, 彈弓, Slingshot, 假影片, 假新聞感, 假人, 屋頂, 高樓, 杜拜, Dubai, 阿聯酋, UAE, 中東, 彈射",
   "category": "行銷案例",
   "references": [
    "https://khaleejtimes.com/uae/careem-takes-credit-for-fake-slingshot-video-that-went-viral?amp=1",
-   "https://www.gdnonline.com/Details/114330/The-human-catapult-video-that-went-viral-was-actually-a-prank"
+   "https://www.gdnonline.com/Details/114330/The-human-catapult-video-that-went-viral-was-actually-a-prank",
+   "https://lovethework.com/work-awards/campaigns/careem-slingshot-launch-1505066"
   ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/141d266b75e44f8f8746bb74a9861b9c",
-  "image_shows": "案例圖板（縮圖，解析度低）：杜拜高樓屋頂，數名穿反光背心的人站在一具彈射裝置旁，天際線在後，下方有文字區與數字",
+  "image_url": "https://cdn.filespin.io/api/v1/conversion/f47e6a42ebf14cf1888aa2f50049ce4d",
+  "image_shows": "案例圖板（Dubai Lynx 版）：杜拜高樓停機坪上的彈射座椅與紅色彈力繩，旁有穿反光背心的工作人員，右上是 Careem LAUNCH 與 Problem／Insight／Idea 說明，下方一排觸及數字",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "官方案例頁只有標題，無說明；官方作品名「THE BETTER WAY TO GET AROUND」在報導裡找不到，是以 Careem＋Misfits＋Dubai＋案例板縮圖（屋頂彈射裝置，標示 LAUNCH）推定為同一支「Slingshot」發表影片，故 uncertain：未能直接確認官方作品說明。Khaleej Times 與 GDN 都沒提 Misfits 與官方標語。報導中兩處引用的推特文字略不同（Khaleej Times 摘要曾出現「Careem 2.0」），讀稿取共同部分。板上數字（觸及、觀看）屬成效，未寫。這是刻意的假影片（誤導觀眾後才揭曉），杜拜警方曾公開說是假的，但來源指出是品牌自己承認的惡搞，非被指控造假，故未寫【爭議】。Careem Plus 的「吹走」系列影片是另一支，與此件無關。"
+  "note": "官方案例頁只有標題，無說明；官方作品名「THE BETTER WAY TO GET AROUND」在報導裡找不到，是以 Careem＋Misfits＋Dubai＋案例板縮圖（屋頂彈射裝置，標示 LAUNCH）推定為同一支「Slingshot」發表影片，故 uncertain：未能直接確認官方作品說明。Khaleej Times 與 GDN 都沒提 Misfits 與官方標語。報導中兩處引用的推特文字略不同（Khaleej Times 摘要曾出現「Careem 2.0」），讀稿取共同部分。板上數字（觸及、觀看）屬成效，未寫。這是刻意的假影片（誤導觀眾後才揭曉），杜拜警方曾公開說是假的，但來源指出是品牌自己承認的惡搞，非被指控造假，故未寫【爭議】。Careem Plus 的「吹走」系列影片是另一支，與此件無關。 2026-11-05 Opus 驗：找到 lovethework 上 Dubai Lynx 的 Careem 'Slingshot' Launch 案例板（高解析），板上 Idea 寫「Careem is the better way to get around」，與官方作品名一致，確認同一支，拿掉 uncertain，補【背景】【洞察】【點子】。圖從 254px 縮圖換成這張案例板（板上數字屬成效，未寫入讀稿）。不寫【爭議】的判斷同意：是品牌自己的惡搞，非被指控造假。",
+  "idea_one_liner_r0": "中東叫車 App Careem 在杜拜拍了假影片，內容是人被巨型彈弓射向大樓，網路流傳後才承認是品牌發表"
  },
  {
   "id": "ltwm-09169",
@@ -315,7 +317,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方作品名為 WHITE HATS NEEDED，案例板標題為 WHITE HATS WANTED，視為同一支。官方案例頁只有標題；內容依案例板、Mat Bisher 作品頁（只提到藏暗號）、Ron Stoner 的解謎文整理。解謎細節（/puzzle 頁、維吉尼亞密碼）來自 Ron Stoner 個人部落格，該文只講解題過程，非官方說明。案例板的 70 萬次嘗試與 30% 聯絡率屬成效，未寫；搜尋摘要看到另有陸軍將領說出較小的嘗試人數，只看到搜尋摘要，未打開原文，未寫入，但提醒驗收時成效數字不能直接用。"
+  "note": "官方作品名為 WHITE HATS NEEDED，案例板標題為 WHITE HATS WANTED，視為同一支。官方案例頁只有標題；內容依案例板、Mat Bisher 作品頁（只提到藏暗號）、Ron Stoner 的解謎文整理。解謎細節（/puzzle 頁、維吉尼亞密碼）來自 Ron Stoner 個人部落格，該文只講解題過程，非官方說明。案例板的 70 萬次嘗試與 30% 聯絡率屬成效，未寫；搜尋摘要看到另有陸軍將領說出較小的嘗試人數，只看到搜尋摘要，未打開原文，未寫入，但提醒驗收時成效數字不能直接用。 2026-11-05 Opus 驗：1300% 是活動前的背景數字，保留。成效數字讀稿未寫；不同報名資料的數字不一致屬自報差異，無人公開指控成效不實，不構成【爭議】。"
  },
  {
   "id": "ltwm-09170",
@@ -392,6 +394,6 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方案例頁只有標題；內容依案例板、Direct New Ideas、Horizont（德文）整理。官方代理商登記 Ogilvy Germany, Frankfurt，但 Direct New Ideas 與 Horizont 都寫 Ogilvy & Mather Berlin，讀稿的得獎行照官方，製作方不另寫。滑板手名字在案例板只寫「德國頂尖滑板手」，Denny Pham 取自 Horizont 與 Direct New Ideas（後者拼成 Danny）。板上 24 萬人玩、750 萬觀看等成效未寫；「首個」的自稱只寫為案例板說法。未發現造假、抄襲等爭議。"
+  "note": "官方案例頁只有標題；內容依案例板、Direct New Ideas、Horizont（德文）整理。官方代理商登記 Ogilvy Germany, Frankfurt，但 Direct New Ideas 與 Horizont 都寫 Ogilvy & Mather Berlin，讀稿的得獎行照官方，製作方不另寫。滑板手名字在案例板只寫「德國頂尖滑板手」，Denny Pham 取自 Horizont 與 Direct New Ideas（後者拼成 Danny）。板上 24 萬人玩、750 萬觀看等成效未寫；「首個」的自稱只寫為案例板說法。未發現造假、抄襲等爭議。 2026-11-05 Opus 驗：下載案例板核對做法、izzi、滑板手與日期相符。代理商照官方（Ogilvy Germany, Frankfurt），報導寫 Berlin 只記在 note，不改。"
  }
 ]
