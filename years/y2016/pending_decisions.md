@@ -47,3 +47,12 @@
 - b003 Dove BREATHING, TONGUE, BLINKING（廣播）：缺台詞，仍 uncertain，無圖。
 - b001 07935 Brewtroleum：官方品牌 Heineken NZ，稿用 DB Export（背景已註明），請確認品牌欄。
 - 圖不理想：b001 07936 Philips（非官方合照）、b001 07943 AlphaGo（直播截圖）、b003 Phelps（字幕畫面）、b004 ltwm-07968 Songbirds（圖上字幕是成效，建議換）。
+
+## 2026-11-06 雲端第 1 輪 b002 b005 b006 b007（Sonnet 寫、Opus 驗）
+- 【爭議】候選 b005 ltwm-07989 Legally Bride：批評者稱憤怒路人是工作人員，只有 Selfstorming 一個整理站的說法；已保留【爭議】，請決定。
+- 【爭議】候選 b005 ltwm-07984 Cubetto：有人公開主張 Cubetto 用他的專利方法（IPWatchdog、PR Newswire）；驗收員已寫入【爭議】，請確認。
+- 【爭議】候選 b007 ltwm-08005 FALTER/INFERNO：維也納 JvM 做、漢堡 JvM 報名的歸屬爭議；已保留【爭議】，請確認。
+- b002 ltwm-07956 THE DISPLACED：寫手加的【爭議】（新聞倫理討論）驗收員已拿掉，改寫 note，建議維持。
+- b002 ltwm-07951 MONTY'S CHRISTMAS：繪本相似說只寫 note，建議維持。
+- 重複判斷：b002 ltwm-07955 NYT VR 與 ltwm-07956 THE DISPLACED 同專案、不同官方報名，建議兩件都收。
+- 仍 uncertain：b007 ltwm-08008 GASCALE（缺第二個獨立文字來源）。
