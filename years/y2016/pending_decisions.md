@@ -23,3 +23,9 @@
 - b049 MOB, PROTEST, POLICE：in 檔 title 漏 MASSACRE，收尾時照官方補。
 - b051 ltwm-08459 NOKIA（Truecaller 廣播）：缺音檔仍 uncertain；圖只有字卡。
 - b050 Harvey Nichols：仍 uncertain，缺另三則內容。
+
+## 2026-11-06 本機 b047 b048 b056 b060（Sonnet 寫、Opus 驗）
+- 【爭議】候選 b060 ltwm-08555 Voice of Nature（Koko）：學者（Terrace、King、de Waal）批評影片 highly misleading，台詞由 Noé 擬稿、剪輯成片。Opus 偏向算【爭議】；目前未加，請決定。
+- 重複候選：b047 ltwm-08422 LIVE VINES 與 b056 ltwm-08514 SOCIAL INNOVATION CAMPAIGN（Lowe's 四件組合，含 Live Vines）。不同官方報名，建議兩件都收（描述會部分重複），請決定。
+- 仍 uncertain：b047 08419 LIFE SIGNAL；b048 08426 Kisses、08427 Luis' Dream、08429 Madden NFL 15、08432 Prematek；b056 08505 ESPN。
+- 圖弱：b048 Luis' Dream、Madden；b060 08549 Mustang、08551 溫度計。
