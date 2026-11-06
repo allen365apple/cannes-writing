@@ -66,3 +66,9 @@
 - 仍 uncertain：b009 ltwm-08022 LADY, OFFICE, MAN（缺創意說明，Brand Buffet 403）；b010 ltwm-08032 MT EX（缺 Yokohama 場的說明）；b011 ltwm-08048 Portraits（缺 Thinking/Smiling/Gazing 畫面）；b011 ltwm-08043 Paper Glasses（缺做法說明）；b011 ltwm-08051 Raising Eyebrows（圖只有字卡）。
 - 單一來源：b008 GE、Hashtags for Life 的細節只有 Selfstorming（讀稿已標「據 Selfstorming」）。
 - 圖不理想：b011 ltwm-08043 Paper Glasses（約 260px，要另找）、b011 ltwm-08051（只有字卡）、b011 ltwm-08052 Rocket Car（非官方頻道縮圖）、b008 GE／Giga Selfie／Hashtags／HSG／Piccards（只有分鏡格）。
+
+## 2026-11-06 雲端第 2 輪 b012 b013 b014（Sonnet 寫、Opus 驗）
+- 品牌欄待確認 b012 ltwm-08060（in 檔品牌寫 INSURANCE，官方 IF INSURANCE）、b014 ltwm-08079（品牌欄寫 COMMERCIAL RESIDENCE，官方 Hemnet；title 已改成 THE HOUSE OF CLICKS）：驗收員認為品牌欄是 in 檔的產品欄慣例，靠 brand_display 呈現，建議不改，請確認。
+- 不算爭議 b013 ltwm-08067 Stardust for Bowie（報導用語更正：是星群，不是正式星座）、b013 ltwm-08071 Super Bowl Babies（對出生率前提的一般質疑）、b014 Norton／Bulletpen／Ford 的一般批評：都只寫 note，建議維持。
+- 仍 uncertain：b012 ltwm-08055 SCARLET/GULLIVER/GATSBY（只有圖，沒有文字說明；三件合併）；b012 ltwm-08057 SHOP WITH THE FORCE（只有單一來源）；b012 ltwm-08061 Old Spice（只有非官方低解析縮圖）；b013 ltwm-08066 SSE Pier（缺劇情與特效做法）。
+- 圖不理想：b012 ltwm-08053 Safe & Sound（分鏡格看不出 App）、b012 ltwm-08061、b014 ltwm-08078 The Family（分鏡格看不出點子）、b014 ltwm-08076（只拍到電極）。

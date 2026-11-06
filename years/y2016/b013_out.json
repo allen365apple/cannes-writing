@@ -1,0 +1,638 @@
+[
+ {
+  "id": "ltwm-08064",
+  "year": 2016,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "SONGS OF VIOLENCE",
+  "brand": "ESTADAO DIGITAL",
+  "agency": "FCB SÃO PAULO",
+  "links": [
+   "https://clios.com/awards/winner/audio/songs-of-violence-13499",
+   "https://cargocollective.com/andresallowicz/Getty-Images-Endless-Possibilities-5-Most-Awarded-Campaign-in-the"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Bronze",
+    "category": "Mobile",
+    "subcategory": "Corporate / Commercial",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "Accessibility, Charity & Non-profit",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "Social Purpose",
+    "count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Media",
+    "subcategory": "Use of Audio Platforms",
+    "count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Media",
+    "subcategory": "Use of Data",
+    "count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "巴西報紙 Estadão 標記三百多首含暴力歌詞的歌，Shazam 辨識到時改播受害女性的真實證詞",
+  "brand_display": "Estadão Digital",
+  "full_text": "【得獎】2016 坎城獅子獎（Cannes Lions 2016）｜媒體類金獅 Media Gold Lion、行動類銀獅 Mobile Silver Lion×2、媒體類銅獅 Media Bronze Lion、行動類銅獅 Mobile Bronze Lion｜代理商：FCB BRASIL São Paulo\n\n【背景】世界衛生組織的數字是每三名女性就有一人會遭遇暴力。案例板指出，許多歌詞宣揚對女性的暴力，卻因為旋律流行，大家跟著唱，沒想過歌詞在講什麼。巴西報紙 Estadão（《聖保羅州報》）與接受暴力通報的熱線 Disque-Denúncia 合作，想把這個議題推到檯面上。當時巴西正熱烈討論「強暴文化」。\n\n【洞察】聽歌的人常常只享受旋律，沒有注意到歌詞裡的暴力與厭女；這種「被動聽歌」讓暴力變得稀鬆平常。\n\n【點子】借用音樂辨識 App Shazam：當用戶辨識出一首歌詞含有對女性暴力的歌，原本該出現的歌曲資訊與購買連結，被換成警示與真實受害者的聲音。活動不是要禁歌，而是邀請大家重新聽聽自己聽的歌（FCB 創意長 Joanna Monteiro 的說法）。\n\n【執行】團隊整理出三百多首歌詞含有對女性暴力的巴西與國際歌曲，其中包括 D12 的〈Fight Music〉。Disque-Denúncia 提供真實受害女性的故事，團隊把它們與每首歌的歌詞對應，再透過 Shazam 的 API 把這些歌標記起來。用戶辨識到被標記的歌，畫面會跳出「這首歌含有對女性的暴力」的橫幅，接著播放一段與歌詞描述相似遭遇的受害者錄音。案例板的視覺是黑白底、粉紅手寫筆刷字，一位黑人女性用手機遮住嘴，雙眼被畫上白色叉叉，背景滿是被塗寫的歌詞。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/songs-of-violence-61069\nhttps://grandesnomesdapropaganda.com.br/destaques/estadao-alerta-sobre-musicas-de-violencia-contra-a-mulher/\nhttps://www.selfstorming.com/tools/libraries/campaigns/songs-of-violence",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2016, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 媒體類金獅, Media Gold Lion, 行動類銀獅, Mobile Silver Lion, 行動類銅獅, Mobile Bronze Lion, 媒體類銅獅, Media Bronze Lion, 資料運用, Use of Data, 音訊平台, Use of Audio Platforms, 社會公益, Social Purpose, Estadão Digital, Estadão, 聖保羅州報, FCB Brasil, FCB São Paulo, FCB, 報紙, 新聞媒體, Shazam, 音樂辨識, 音樂辨識 App, App, 手機, 歌詞, 對女性暴力, 家暴, 性別暴力, 反暴力, 受害者證詞, 真人證詞, 音訊, 錄音, Disque-Denúncia, 通報熱線, 劫持媒介, Hijack the Medium, 公益, NGO, 黑白, 手寫字, 巴西, Brazil",
+  "category": "行銷案例",
+  "references": [
+   "https://www.lovethework.com/en/work/entries/songs-of-violence-61069",
+   "https://grandesnomesdapropaganda.com.br/destaques/estadao-alerta-sobre-musicas-de-violencia-contra-a-mulher/",
+   "https://www.selfstorming.com/tools/libraries/campaigns/songs-of-violence"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/24c19e7d2b6741bf994d9523329e1d31",
+  "image_shows": "案例圖板：黑白底色，一位女性用手機（Shazam 畫面）遮住嘴、雙眼被畫上白色叉，四周是粉紅與白色的手寫歌詞，右側有背景、點子與手機操作示意",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方頁面沒有文字，內容依案例板（可讀的背景、點子、操作示意）、Grandes Nomes da Propaganda 與 Selfstorming 整理。成效數字（用戶數、下載比例等）與其他獎項均未寫入。未發現造假、抄襲或撤獎指控；搜尋『controversy／criticism／fake』只找到活動本身的報導。『超過一百萬用戶』等數字依規則不寫。"
+ },
+ {
+  "id": "ltwm-08065",
+  "year": 2016,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "SONY TKO",
+  "brand": "SONY ACTION CAM",
+  "agency": "BIG CHOP LONDON",
+  "links": [
+   "http://www.bigchop.co.uk/portfolio/sony-tko"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Gold",
+    "category": "Film Craft",
+    "subcategory": "Editing",
+    "count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "索尼 Action Cam 找導演 Greg Hackett 拍黑白短片《TKO》，把多台相機綁上拳擊手的前臂和頭",
+  "brand_display": "Sony Action Cam",
+  "full_text": "【得獎】2016 坎城獅子獎（Cannes Lions 2016）｜影片工藝類金獅 Film Craft Gold Lion｜代理商：BIG CHOP London\n\n【背景】索尼的 Action Cam 原本多半讓人聯想到極限運動。Stink Studios 與 Mori 為它做了「Never Before Seen」系列，目標是讓創作者，而不只是極限運動玩家，認識這台相機。八個月裡，團隊與電影人、藝術家與網路創作者做了二十五支以上的影片，內容從技術實驗、特技到紀錄片與劇情短片都有，每週在 YouTube 與專屬網站上放一支，附拍攝細節與幕後花絮。\n\n【點子】《TKO》是系列最早一起釋出的四支影片之一（另三支是《Picture Machine》《Paperports》《Creature》）。它用 Action Cam 的視角拍影片，讓人看到一般攝影機不容易到達的位置。\n\n【執行】影片片頭字卡寫著「TKO」與導演 Greg Hackett 的名字。依 Cult of Mac 的介紹，拍攝團隊把多台 Sony Action Cam 裝在一位拳擊手的前臂與頭上，整支短片是黑白的，配樂是錄音室鼓手 Bernard “Pretty” Purdie 的放克鼓點。官方分鏡格可以看到：鏡頭從很低的位置仰拍，一顆光頭佔據畫面下半部，右上方有一隻戴著手套的拳頭，右側是拉緊的繩索。坎城官方得獎名單上，這件作品報名的是影片工藝類的剪輯（Editing）項目，報名公司是倫敦的 Big Chop，製作公司列 Big Chop London 與 Norwich 的 Spindle Productions，客戶欄寫的是做這個系列的 Stinkdigital。影片的完整劇情沒有文字來源，此處不描述。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/sony-tko-72554\nhttps://stinkstudios.com/work/sony-action-cam-never-before-seen\nhttps://nofilmschool.com/2015/04/view-unique-perspective-world-sony-never-before-seen-campaign\nhttps://www.cultofmac.com/news/sony-action-cam-never-before-seen-sponsored-post\nhttps://www.bizcommunity.com/Article/196/111/146907.html",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2016, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片工藝類金獅, Film Craft Gold Lion, Sony, 索尼, Sony Action Cam, Action Cam, 運動相機, 動作相機, BIG CHOP, Big Chop London, Stink Studios, Greg Hackett, 電子產品, 相機, 影片, 短片, 黑白, 拳擊, TKO, 拳擊手套, 擂台, 第一人稱視角, Never Before Seen, 系列影片, 英國, United Kingdom",
+  "category": "行銷案例",
+  "references": [
+   "https://www.lovethework.com/en/work/entries/sony-tko-72554",
+   "https://stinkstudios.com/work/sony-action-cam-never-before-seen",
+   "https://nofilmschool.com/2015/04/view-unique-perspective-world-sony-never-before-seen-campaign",
+   "https://www.cultofmac.com/news/sony-action-cam-never-before-seen-sponsored-post",
+   "https://www.bizcommunity.com/Article/196/111/146907.html"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/93e4b7b2af934817b01c2547227302b1/storyboard_000002.jpg",
+  "image_shows": "官方影片分鏡格：黑白畫面，片名「TKO」與導演 Greg Hackett 字樣疊在畫面中央，仰拍一顆光頭，右上方有一隻戴著手套的拳頭，右側可見繩索",
+  "text_source_level": 3,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方 lovethework 頁面無文字，影片本身沒看到；Luerzer's Archive、LBB 等描述影片內容的頁面無法打開（403），搜尋摘要中的『拳擊手訓練到擊倒對手』等說法未寫入。in 檔連結 bigchop.co.uk 回 503。讀稿只寫打開的頁面（Stink Studios、No Film School）與分鏡格看得到的畫面，缺影片劇情與拍攝手法的文字來源，標 uncertain。官方報名代理商是 BIG CHOP London，Stink Studios 是系列的製作方，兩者關係未能確認。 2026-11-06 Opus 驗：補 Cult of Mac（2015/4/13，贊助文章）的拍法描述與 Bizcommunity 得獎名單（A06 Editing；Client：STINKDIGITAL；Entrant：BIG CHOP London；Production：BIG CHOP London / SPINDLE PRODUCTIONS Norwich），代理商關係已釐清：Big Chop 是報名與製作方，Stinkdigital 列為客戶。拿掉 uncertain。搜尋摘要的「拳擊手從訓練到比賽」仍未寫入。",
+  "idea_one_liner_r0": "索尼 Action Cam 找導演 Greg Hackett 拍黑白短片《TKO》，鏡頭貼近拳擊場上的人，展示相機的拍法"
+ },
+ {
+  "id": "ltwm-08066",
+  "year": 2016,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "SSE ‘PIER’",
+  "brand": "SSE",
+  "agency": "THE MILL LONDON",
+  "links": [
+   "https://clios.com/awards/winner/film-technique/sse/pier-13182"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Gold",
+    "category": "Film Craft",
+    "subcategory": "Animation",
+    "count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Film Craft",
+    "subcategory": "Visual Effects",
+    "count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "英國能源商 SSE 延續紅毛猩猩 Maya 系列，讓牠逛黑潭觀光景點，配上情歌〈When I Fall In Love〉",
+  "brand_display": "SSE",
+  "full_text": "【得獎】2016 坎城獅子獎（Cannes Lions 2016）｜影片工藝類金獅 Film Craft Gold Lion×2｜代理商：THE MILL London\n\n【背景】SSE 是英國的能源公司。《Pier》是 SSE 紅毛猩猩系列的新一支，前一年的《Maya》是同一系列的前作，導演同樣是 Frederic Planchon，由 Academy Films 製作，廣告公司是 Adam & Eve DDB。\n\n【點子】讓一隻看起來很真實的紅毛猩猩走進英國人熟悉的場景。這一支裡，牠逛的是黑潭（Blackpool）最主要的觀光景點，背景音樂是 Nat King Cole 唱的〈When I Fall In Love〉。\n\n【執行】Patrick Duroux 負責攝影燈光，Sam Rice-Edwards 在 Assembly Rooms 剪輯，後製由倫敦的 The Mill 負責。系列前作《Maya》中，The Mill 做了紅毛猩猩的視覺特效，Stash 稱讚它在角色細節與實拍融合上的表現，該片團隊名單包括 3D 與 2D 美術、場景繪製與動態圖像。取得的官方畫面是日落時分的潮間帶：一隻紅毛猩猩四肢著地走來，水面映出牠的倒影，天上有許多海鳥。影片全片的劇情沒有文字來源，此處不描述。\n\n資料來源：\nhttps://academyfilms.com/blog/sse-pier-by-frederic-planchon\nhttps://www.stashmedia.tv/?p=22409\nhttps://www.lovethework.com/en/work/entries/sse-pier-72673",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2016, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片工藝類金獅, Film Craft Gold Lion, SSE, 能源公司, 電力, The Mill, The Mill London, Adam & Eve DDB, adam&eveDDB, Academy Films, Frederic Planchon, 視覺特效, VFX, 後製, 動物, 紅毛猩猩, 猩猩, Orangutan, Maya, 系列廣告, 電視廣告, 影片, Blackpool, 黑潭, 碼頭, 海邊, 遊樂場, Nat King Cole, When I Fall In Love, 情歌, 英國, United Kingdom",
+  "category": "行銷案例",
+  "references": [
+   "https://academyfilms.com/blog/sse-pier-by-frederic-planchon",
+   "https://www.stashmedia.tv/?p=22409",
+   "https://www.lovethework.com/en/work/entries/sse-pier-72673"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/33d50a76940942d8b838d284165a3144/storyboard_000002.jpg",
+  "image_shows": "官方影片分鏡格：日落的潮間灘塗上，一隻紅毛猩猩四肢著地走向鏡頭，水面有倒影，周圍有許多海鳥",
+  "text_source_level": 3,
+  "uncertain": true,
+  "needs_audio": false,
+  "note": "官方 lovethework 頁面無文字。《Pier》的文字來源只有 Academy Films 部落格（短），Stash 與 Art of VFX 寫的是前作《Maya》，讀稿已標明；並未寫《Pier》是否為全 CG 角色。所以標 uncertain，缺：廣告本身的劇情、特效做法的文字來源。官方有兩筆報名同名（Film Craft ×2），本稿只寫一筆。搜尋摘要中的『Neon house』『2015 年播出』等未寫入。未發現造假、抄襲或撤獎指控。in 檔連結 clios.com 內容與此片無關，未使用。 2026-11-06 Opus 驗：讀稿刪第一人稱句。再找來源：The Mill 作品存檔頁、themill.com 都打不開（網域不在允許清單／已改版），仍缺《Pier》劇情與特效做法的文字來源，維持 uncertain。"
+ },
+ {
+  "id": "ltwm-08067",
+  "year": 2016,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "STARDUST FOR BOWIE",
+  "brand": "STARDUST FOR BOWIE",
+  "agency": "DDB BRUSSELS",
+  "links": [
+   "https://ddb.be/work/all/clients/all/stardust-for-bowie"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Bronze",
+    "category": "Promo & Activation",
+    "subcategory": "Response / Real-time Activity",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Cyber",
+    "subcategory": "Response / Real-time Activity",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Media",
+    "subcategory": "Media & Publications",
+    "count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "PR",
+    "subcategory": "Media & Publications",
+    "count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "比利時電台 Studio Brussel 與天文台挑出火星旁七顆星，連成 Bowie 的閃電臉妝，歌迷可替星星配歌留言",
+  "brand_display": "Studio Brussel（Stardust for Bowie）",
+  "full_text": "【得獎】2016 坎城獅子獎（Cannes Lions 2016）｜公關類金獅 PR Gold Lion、Cyber類銀獅 Cyber Silver Lion、媒體類銀獅 Media Silver Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：DDB BRUSSELS\n\n【背景】David Bowie 在 2016 年 1 月過世。案例板寫道，那時有很多追思，但沒有一個真正能碰到這麼多人的生命。比利時電台 Studio Brussel 在他過世的隔天推出這個作品。\n\n【點子】把 Bowie 臉上標誌性的閃電紋（Aladdin Sane 專輯封面）畫在天空，做成一個以閃電為形的「星座」。歌迷可以替其中一顆星選一首 Bowie 的歌，再寫一段道別的話，讓這個星座因為大家的星星而變得更亮。\n\n【執行】Studio Brussel 與比利時皇家天文台旗下的 MIRA 公眾天文台挑出七顆靠近火星的星星，連成閃電形狀；MIRA 的 Philippe Mollet 說挑選合適的星並不容易。網站 stardustforbowie.be 建在 Google Sky 之上：用戶看到 Bowie 的星座，從 69 首歌裡選一首，附上一段短文，就成為星座裡的一顆星，也可以分享到社群。案例板說這個平台一夜之間做出，沒有買任何付費媒體。要說明的是，這不是正式登記的新星座：Silicon Republic 事後更正，國際天文聯合會承認的 88 個星座已涵蓋全天，這七顆星分屬不同星座，比較準確的說法是「星群（asterism）」。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/stardust-for-bowie-70344\nhttps://shots.net/news/view/89219-ddb-brussels-lights-up-the-sky-for-david-bowie\nhttps://www.directnewideas.com/magazine/ddb_brussels_stardust_for_bowie/?id=1943\nhttps://www.siliconrepublic.com/innovation/david-bowie-constellation-starman",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2016, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 公關類金獅, PR Gold Lion, Cyber類銀獅, Cyber Silver Lion, 媒體類銀獅, Media Silver Lion, Promo & Activation類銅獅, Promo & Activation Bronze Lion, Studio Brussel, StuBru, 比利時電台, 廣播電台, MIRA, MIRA 公眾天文台, 天文台, DDB Brussels, DDB, David Bowie, Bowie, 大衛鮑伊, 追思, 悼念, 致敬, 音樂人, 音樂, 星座, Constellation, 星星, 閃電, Aladdin Sane, Google Sky, 互動網頁, 網站, 歌迷參與, 留言, 夜空, 太空, 比利時, Belgium",
+  "category": "行銷案例",
+  "references": [
+   "https://www.lovethework.com/en/work/entries/stardust-for-bowie-70344",
+   "https://shots.net/news/view/89219-ddb-brussels-lights-up-the-sky-for-david-bowie",
+   "https://www.directnewideas.com/magazine/ddb_brussels_stardust_for_bowie/?id=1943",
+   "https://www.siliconrepublic.com/innovation/david-bowie-constellation-starman"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/588a257e11614df98c04d87eeb9c104f",
+  "image_shows": "案例圖板：深藍星空底，中央是 stardustforbowie.be 網頁截圖，Bowie 臉部輪廓上疊著粉紅閃電形的星座與星名，兩側有點子與做法說明",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "內容依案例板、Shots 與 Direct New Ideas。成效數字（參與人數、曝光等）未寫入。注意：搜尋摘要顯示 MIRA 自己表示這不是 IAU 正式承認的星座、較準確叫『星群（asterism）』，此說法未寫入；讀稿用「以閃電為形的星座」是案例板與報導說法，屬一般評論，不算爭議。官方報名代理商 DDB Brussels（in 檔 links 的 ddb.be 轉到 bbdo.be，頁面無此案）。 2026-11-06 Opus 驗：一句話拿掉「登記」（不是正式登記的星座）；讀稿補 Silicon Republic 的星群更正。這是報導用語的更正，不是對活動造假的指控，判定不算【爭議】。",
+  "idea_one_liner_r0": "比利時電台 Studio Brussel 與天文台在火星旁登記七顆星，連成 Bowie 的閃電臉妝，歌迷可替星星配歌留言"
+ },
+ {
+  "id": "ltwm-08068",
+  "year": 2016,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "STRAIGHT OUTTA",
+  "brand": "BEATS BY DRE.",
+  "agency": "R/GA’S HUSTLE LOS ANGELES",
+  "links": [
+   "https://vimeo.com/172909447"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Gold",
+    "category": "Promo & Activation",
+    "subcategory": "Co-Creation & User Generated Content",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Cyber",
+    "subcategory": "Co-Creation & User Generated Content",
+    "count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Direct",
+    "subcategory": "Co-Creation & User Generated Content",
+    "count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Mobile",
+    "subcategory": "Social Trends",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Entertainment Lions for Music",
+    "subcategory": "Use of User Generated Content",
+    "count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Media",
+    "subcategory": "Use of Social Platforms",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Media",
+    "subcategory": "Use of Co-Creation & User Generated Content",
+    "count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "Beats 把電影《Straight Outta Compton》片名字樣做成網頁工具，讓人上傳照片、換成自家城市名",
+  "brand_display": "Beats by Dre",
+  "full_text": "【得獎】2016 坎城獅子獎（Cannes Lions 2016）｜直效類金獅 Direct Gold Lion、行動類金獅 Mobile Gold Lion、Promo & Activation類金獅 Promo & Activation Gold Lion、Cyber類銀獅 Cyber Silver Lion、音樂娛樂類銀獅 Entertainment Lions for Music Silver Lion、媒體類銀獅 Media Silver Lion、媒體類銅獅 Media Bronze Lion｜代理商：R/GA HUSTLE Los Angeles\n\n【背景】Beats 與環球影業合作，宣傳講述 Beats 創辦人 Dr. Dre 生平的電影《Straight Outta Compton》。目標是在 2015 年 8 月上映前，引起全球討論，也讓人看見 Dre 的出身與 Beats 之間的連結。\n\n【洞察】每個人都以家鄉為榮，就像 Dre 以康普頓為榮。案例板寫道：家不只是你出生的地方，它決定你是誰、你成為什麼人。\n\n【點子】把片名那種粗黑字體的「Straight Outta ＋地名」做成每個人都能改寫的版型，從康普頓的故事變成任何人的家鄉驕傲。\n\n【執行】Beats 在 straightouttasomewhere.com 上架工具：用戶上傳照片，系統蓋上「Straight Outta」標誌，並可改成自己的城市名，再下載或貼到臉書、推特。Beats 另外邀請在 ESPYs 與 BET 頒獎典禮出席的名人，由攝影師 Jonathan Mannion 拍肖像，包括影星、康普頓出身的音樂人、演員、模特兒與運動員，並替每位參與者做成「Straight Outta」貼文。發布順序也有安排：先由和康普頓、Dre 或音樂圈有關係的人先貼，再由其他人跟進。案例板上可以看到「Straight Outta Oakland」「Jerusalem」「The Closet」「Patience」「Money」等各種改寫版本。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/straight-outta-65710\nhttps://shortyawards.com/8th/straight-outta-3\nhttps://www.selfstorming.com/tools/libraries/campaigns/straight-outta",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2016, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 直效類金獅, Direct Gold Lion, 行動類金獅, Mobile Gold Lion, Promo & Activation類金獅, Promo & Activation Gold Lion, Cyber類銀獅, Cyber Silver Lion, 音樂娛樂類銀獅, Entertainment Lions for Music Silver Lion, 媒體類銀獅, Media Silver Lion, 媒體類銅獅, Media Bronze Lion, Beats by Dre, Beats, 耳機, 音響, Apple, R/GA, R/GA Hustle, Hustle, 洛杉磯, Straight Outta Compton, 電影宣傳, 電影行銷, Universal Pictures, 環球影業, Dr. Dre, N.W.A, 梗圖產生器, Meme, Meme Generator, 網頁工具, 社群, 社群參與, UGC, 用戶創作, 家鄉, 城市, 在地驕傲, 名人, 嘻哈, 黑白, Straight Outta Somewhere, 美國, United States",
+  "category": "行銷案例",
+  "references": [
+   "https://www.lovethework.com/en/work/entries/straight-outta-65710",
+   "https://shortyawards.com/8th/straight-outta-3",
+   "https://www.selfstorming.com/tools/libraries/campaigns/straight-outta"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/29a748b89e474d94a8687b796a2835f0",
+  "image_shows": "案例圖板：黑白的 Dr. Dre 肖像，左上有「Straight Outta Compton」標誌與說明，下方是手機上的網頁工具與各種改寫版本（Oakland、Jerusalem、The Closet、Patience、Money 等）",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方 lovethework 頁面無文字，內容依案例板、Shorty Awards 與 Selfstorming 整理。成效數字（#1 趨勢、造訪、下載、票房等）均未寫入。Selfstorming 寫『100 位初始名人』與 Shorty 的說法細節不同，讀稿只寫『名人』。分鏡格 image_candidates 是字卡，改用 lovethework 另一筆報名的案例板。搜尋只找到與電影預告片（Digiday）、其他 Beats 廣告有關的爭議，與本作無關，未寫入。"
+ },
+ {
+  "id": "ltwm-08069",
+  "year": 2016,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "STUDENT, GAMEBOY, PAINTER",
+  "brand": "XALATAN",
+  "agency": "MCCANN HEALTH HONG KONG",
+  "links": [
+   "https://www.adsoftheworld.com/campaign/xalatan-mccann-04-2016"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Gold",
+    "category": "Pharma",
+    "subcategory": "Pharma, Vaccines & Biotech - Branded Communication",
+    "count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "輝瑞青光眼藥水 Xalatan 在香港推平面廣告，畫出被鐵鍊鎖住的巨大眼球人，分別在讀書、作畫、打電動中被「奴役」",
+  "brand_display": "輝瑞 Xalatan（青康明）",
+  "full_text": "【得獎】2016 坎城獅子獎（Cannes Lions 2016）｜製藥類金獅 Pharma Gold Lion｜代理商：McCANN HEALTH Hong Kong\n\n【背景】案例板寫道，青光眼是香港失明的首要原因。Xalatan 是輝瑞的處方藥，是青光眼的主要處方治療。輝瑞想做一個提高大眾護眼意識的活動，作為預防青光眼的第一步。\n\n【洞察】眼睛長時間疲勞、缺乏休息，會讓眼壓升高，增加青光眼風險。香港常見的情境是讀書、工作與打電動都過度。\n\n【點子】替眼睛「發聲」：創造一個「眼球奴隸」角色，讓人看見眼睛被迫承受的痛苦。標語是「奴役雙眼 恨錯難返」，英文是 Free your eyes or pay the price（讓眼睛自由，否則付出代價）。\n\n【執行】McCann Health 香港用高度擬真的 3D 插畫完成三張平面廣告，攝影與插畫由曼谷的 Illusion 製作。三張的主角都是頭部是巨大眼球、手腳被鐵鍊鎖住的人：《Student》的人坐在書堆裡讀書，旁有寫著「33 DAYS」的黑板、鬧鐘與一台監視器，文案是「讀書太出力，眼睛受壓迫？」；《Painter》的人躺著對著天花板作畫，頂上是米開朗基羅《創造亞當》的壁畫，身旁有顏料與油燈，文案是「工作太出力，眼睛受壓迫？」；《Gameboy》的人縮著身體握著遊戲手把，旁邊是光碟與螢幕。畫面右下角放 Xalatan 藥盒與輝瑞標誌。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/gameboy-77981\nhttps://www.lovethework.com/en/work/entries/student-77967\nhttps://www.lovethework.com/en/work/entries/painter-77979\nhttps://www.illusion.co.th/eyeball-slave\nhttps://www.adruby.com/xalatan/xalatan-are-your-eyes-working-under-pressure-mccann?page=23",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2016, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 製藥類金獅, Pharma Gold Lion, Pharma, Xalatan, 青康明, Pfizer, 輝瑞, McCann Health, McCann Health Hong Kong, McCann, Illusion, 製藥, 藥品, 處方藥, 眼藥水, 眼科, 青光眼, Glaucoma, 眼壓, 護眼, 眼睛健康, 疾病認知, 平面廣告, 海報, 插畫, 3D 插畫, Illustration, 眼球, 眼球奴隸, Eyeball Slave, 擬人化, 鐵鍊, 奴役, 讀書, 過勞, 打電動, 遊戲, 畫家, 創造亞當, 米開朗基羅, 學生, 香港, Hong Kong",
+  "category": "行銷案例",
+  "references": [
+   "https://www.lovethework.com/en/work/entries/gameboy-77981",
+   "https://www.lovethework.com/en/work/entries/student-77967",
+   "https://www.lovethework.com/en/work/entries/painter-77979",
+   "https://www.illusion.co.th/eyeball-slave",
+   "https://www.adruby.com/xalatan/xalatan-are-your-eyes-working-under-pressure-mccann?page=23"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/ba670a0abc8f40ecbea90dc92a729662",
+  "image_shows": "案例圖板：左側三張橢圓眼形構圖的廣告（讀書、作畫、打電動的眼球人，被鐵鍊鎖住），右側是標題、背景、解法說明、Xalatan 藥盒與製作過程圖",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方 lovethework 沒有文字；背景與解法依三張報名中 Gameboy 案例板上印的 Brief／Solution 整理，各張畫面依 Student、Painter 案例圖與 Gameboy 板縮圖看到的內容寫，Gameboy 只描述板上縮圖看得到的部分，文案只寫看得清楚的兩句。adRuby 的標題是「Are your eyes working under pressure?」，案例圖印的英文翻譯是「Are your eyes living like prisoners? / slaves to your job?」，兩者不一致，讀稿以圖上文字為準。『33 DAYS』是黑板上看到的字。官方報名名稱 STUDENT／PAINTER／GAMEBOY 對得上。搜尋摘要提到有業界評論認為作品噁心，屬一般評論，未寫入。未發現造假、抄襲或撤獎指控。 2026-11-06 Opus 驗：圖：in 檔 case board（c57a45…）只是 Student 單張，寫手用的 ba670a…是同作品三張合一並印 Brief／Solution 的案例板，較能看出點子，維持寫手的選擇。圖上英文翻譯是 Are your eyes living like prisoners? / Free your eyes or pay the price，讀稿以圖為準，正確。adRuby 的標題差異不影響內容。"
+ },
+ {
+  "id": "ltwm-08070",
+  "year": 2016,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "SUGAR DETOX",
+  "brand": "INTERMARCHE",
+  "agency": "MARCEL PARIS",
+  "links": [
+   "https://clios.com/awards/winner/12902"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Customer in-Store Experience",
+    "count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Outdoor",
+    "subcategory": "Non-Standard Indoor Advertising",
+    "count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Direct",
+    "subcategory": "Retail, e-Commerce, Restaurants & Fast Food Chains",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Direct",
+    "subcategory": "Use of Ambient Media: Small Scale",
+    "count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Direct",
+    "subcategory": "Launch / Re-launch",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Health & Wellness",
+    "subcategory": "Other Products",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Health & Wellness",
+    "subcategory": "Other Products",
+    "count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "法國超市 Intermarché 推出六杯裝巧克力優格，含糖量從 -5% 一路降到 -50%，讓人一杯接一杯慢慢戒糖",
+  "brand_display": "Intermarché",
+  "full_text": "【得獎】2016 坎城獅子獎（Cannes Lions 2016）｜直效類金獅 Direct Gold Lion×2、戶外類金獅 Outdoor Gold Lion、直效類銀獅 Direct Silver Lion、健康與保健類銀獅 Health & Wellness Silver Lion×2、Promo & Activation類銀獅 Promo & Activation Silver Lion｜代理商：MARCEL Paris\n\n【背景】案例板寫道，去年法國人平均吃掉 25 公斤的糖，將近建議量的三倍。食品公司年復一年在食物裡加更多糖，大家逐漸對過高的甜度上癮，同時肥胖、糖尿病與心臟病的比例節節上升。專家呼籲減糖，但沒有人幫人們戒掉。Intermarché 請 Marcel Paris 想辦法讓這家連鎖超市成為「解方，而不是問題的一部分」，而不是只靠價格競爭。\n\n【洞察】消費者想吃得更健康，但因為生理上的依賴與隱藏的糖，很難一次戒掉。\n\n【點子】做一款能讓人逐步戒糖的產品：六杯裝巧克力優格，含糖量從 -5%、-10%、-20%、-30%、-40% 到 -50% 逐杯遞減，吃完一盒，最後一杯比原本配方少一半的糖。\n\n【執行】2016 年 4 月上市。杯子與包裝都用同一套粉紅到白的漸層顏色表示糖的遞減，盒頂圖案由深到淺，背面有不同食譜，並標出含糖率。店內設有試吃，讓顧客用自己的舌頭感覺差別；平面廣告用幽默又貼近生活的對白說明「一步一步來最容易」，另有電視廣告。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/sugar-detox-78950\nhttps://lareclame.fr/marcel-intermarche-detoxsucre-149986\nhttps://www.selfstorming.com/tools/libraries/campaigns/sugar-detox",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2016, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 直效類金獅, Direct Gold Lion, 戶外類金獅, Outdoor Gold Lion, 直效類銀獅, Direct Silver Lion, 健康與保健類銀獅, Health & Wellness Silver Lion, Promo & Activation類銀獅, Promo & Activation Silver Lion, Intermarché, Marcel, Marcel Paris, 超市, 連鎖超市, 零售, 食品, 優格, 巧克力優格, 乳製品, 自有品牌, 產品創新, 減糖, 戒糖, Sugar Detox, 健康飲食, 肥胖, 糖尿病, 包裝, 漸層, 粉紅, 試吃, 店內陳列, 平面廣告, 電視廣告, 法國, France",
+  "category": "行銷案例",
+  "references": [
+   "https://www.lovethework.com/en/work/entries/sugar-detox-78950",
+   "https://lareclame.fr/marcel-intermarche-detoxsucre-149986",
+   "https://www.selfstorming.com/tools/libraries/campaigns/sugar-detox"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/bd466d3863d545928bd89c067eafa9c4",
+  "image_shows": "案例圖板：上排六杯標示 -5% 到 -50% 的巧克力優格，中央是六杯裝紙盒，下方有店內陳列、平面廣告與電視廣告畫面，左側有背景、點子與做法文字",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方 lovethework 頁面無文字，內容依案例板、La Réclame 與 Selfstorming 整理。成效（售罄、客流 +30%、媒體曝光）未寫入；Selfstorming 的『感官特定飽足感』『消費者好感度』等說法也未寫入。各來源對含糖率寫法不同（-5%～-50% 與 95%～50%），讀稿採案例板與杯上看得到的『-5%～-50%』。搜尋『controversy／critique／fake』沒找到任何對本作的批評。"
+ },
+ {
+  "id": "ltwm-08071",
+  "year": 2016,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "SUPER BOWL BABIES CHOIR",
+  "brand": "SUPER BOWL 50",
+  "agency": "GREY NEW YORK",
+  "links": [
+   "http://willgardnercreative.com/nfl-1"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Bronze",
+    "category": "Film",
+    "subcategory": "Entertainment & Leisure",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Film Craft",
+    "subcategory": "Use of Licensed / Adapted Music",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Promo & Activation",
+    "subcategory": "Travel, Transport & Leisure",
+    "count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Entertainment Lions for Music",
+    "subcategory": "Best Music/Brand Partnership",
+    "count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "美式足球聯盟 NFL 找來球隊奪冠九個月後出生的球迷，組成合唱團，與 Seal 合唱改編版〈Kiss from a Rose〉",
+  "brand_display": "NFL（Super Bowl 50）",
+  "full_text": "【得獎】2016 坎城獅子獎（Cannes Lions 2016）｜音樂娛樂類金獅 Entertainment Lions for Music Gold Lion、影片工藝類銀獅 Film Craft Silver Lion、Promo & Activation類銀獅 Promo & Activation Silver Lion、影片類銅獅 Film Bronze Lion｜代理商：GREY NEW YORK\n\n【背景】這是美國國家美式足球聯盟（NFL）為第 50 屆超級盃做的廣告，由 Grey New York 製作，NFL 行銷長 Dawn Hudson 說，希望配合超級盃的主題，也捕捉比賽的興奮。\n\n【點子】案例板的開場字幕寫道：「數據顯示，超級盃勝利的九個月後，奪冠球隊的城市會出現出生率上升」。於是 NFL 把這些在奪冠後九個月出生的人集合起來，變成一個合唱團，替球迷家庭唱一首歌。\n\n【執行】合唱團成員從幾個月大的嬰兒、孩子到成年人都有，最年長的是 49 歲的綠灣包裝工隊球迷，最小的是 1 歲的西雅圖海鷹隊嬰兒，另有匹茲堡鋼人、印第安納波利斯小馬等球隊的球迷。NFL 與曾奪冠的球隊合作，用電子郵件聯絡季票球迷並辦試鏡來選角。他們穿著球隊顏色的詩班袍，由 Seal 帶領，一起唱 Seal 的〈Kiss from a Rose〉的超級盃改編版。這支 60 秒廣告在超級盃第 50 屆比賽期間播出。案例板上，Seal 的剪影在上方、合唱團在下方，標題是「Super Bowl Babies」。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/super-bowl-babies-choir-83145\nhttps://www.cbsnews.com/news/super-bowl-50-nfl-ad-celebrates-super-bowl-babies\nhttps://www.foxsports.com/stories/nfl/super-bowl-babies-ad-stars-kids-conceived-on-super-sunday",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2016, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 音樂娛樂類金獅, Entertainment Lions for Music Gold Lion, 影片工藝類銀獅, Film Craft Silver Lion, Promo & Activation類銀獅, Promo & Activation Silver Lion, 影片類銅獅, Film Bronze Lion, NFL, 美國國家美式足球聯盟, 超級盃, Super Bowl, Super Bowl 50, Grey New York, Grey, 運動, 美式足球, 體育, 電視廣告, 影片, 合唱團, 詩班袍, 嬰兒, 孩子, 球迷, 家庭, Seal, Kiss from a Rose, 改編歌曲, 翻唱, 音樂, 幽默, 球隊顏色, 出生率, 美國, United States",
+  "category": "行銷案例",
+  "references": [
+   "https://www.lovethework.com/en/work/entries/super-bowl-babies-choir-83145",
+   "https://www.cbsnews.com/news/super-bowl-50-nfl-ad-celebrates-super-bowl-babies",
+   "https://www.foxsports.com/stories/nfl/super-bowl-babies-ad-stars-kids-conceived-on-super-sunday"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/0d3fcd95353c4b02879a042da6bf9926",
+  "image_shows": "案例圖板：Seal 的剪影高舉手臂，下方是穿著藍、紅、白色球隊色詩班袍的大小合唱團成員，中間有「NFL Presents SUPER BOWL BABIES featuring Seal」標題",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方 lovethework 頁面無文字，內容依案例板、CBS News 與 Fox Sports 整理。兩篇報導對廣告釋出時間的說法不一致，讀稿只寫『超級盃期間播出』。『九個月後出生率上升』是廣告自己的說法，搜尋結果中有網路上對這個說法的質疑與對廣告氣氛的評論，屬一般評論，不算爭議，未寫入。in 檔 image_candidates 是 CNN 與 SBD 引用字卡，改用 lovethework 案例板。 2026-11-06 Opus 驗：一句話補「九個月後」。圖：in 檔 case board（3e11fe…）打開是 CNN／SBD 引用字卡，寫手改用的 0d3fcd…是 Seal 剪影＋合唱團主視覺，維持。「九個月後出生率上升」的質疑是對廣告前提的一般評論，不是對活動造假的指控，判定不算【爭議】。",
+  "idea_one_liner_r0": "美國 NFL 找球隊奪冠後出生的球迷，組成合唱團，與 Seal 合唱改編版〈Kiss from a Rose〉"
+ },
+ {
+  "id": "ltwm-08072",
+  "year": 2016,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "SURGEON TRYOUTS",
+  "brand": "RECRUITMENT",
+  "agency": "TBWA\\HAKUHODO TOKYO",
+  "links": [
+   "https://clios.com/awards/winner/13377"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Gold",
+    "category": "Design",
+    "subcategory": "Posters",
+    "count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Health & Wellness",
+    "subcategory": "Clinics, Hospitals, Retail & Facilities",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Health & Wellness",
+    "subcategory": "Clinics, Hospitals, Retail & Facilities",
+    "count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "日本倉敷中央醫院招外科醫師，要醫學生摺 5 毫米紙鶴、重組昆蟲、用單顆米粒做壽司",
+  "brand_display": "倉敷中央醫院",
+  "full_text": "【得獎】2016 坎城獅子獎（Cannes Lions 2016）｜設計類金獅 Design Gold Lion、健康與保健類金獅 Health & Wellness Gold Lion、健康與保健類銀獅 Health & Wellness Silver Lion｜代理商：TBWA\\HAKUHODO Tokyo\n\n【背景】案例板寫道，日本社會對醫院的信任在下降，過去十年醫療疏失與事故增加到 2.5 倍。傳統上招聘外科醫師只靠筆試與面試，多年未變，這種重學術的方式讓人能憑醫學知識就成為醫生。日本最大型的醫院之一倉敷中央醫院也是如此。TBWA\\HAKUHODO 說，日本醫學院太偏重書本知識、不夠重視手部操作。\n\n【點子】用「Surgeon Tryouts（外科醫師選拔賽）」顛覆招聘方式：設計三項測驗，測應徵者的眼、手、神經與心。醫院稱之為「破壞式的招聘流程」。\n\n【執行】三道測驗分別是：第一，摺一隻 5 毫米大小的折紙鶴；第二，重組一隻拆開的昆蟲；第三，用單顆米粒做出壽司。依報導，前兩項都有很短的時限，案例板影像裡可以看到倒數計時器與「WINNER」字樣；選拔過程被拍成影片。據報導，完成得最好、最快的人獲得醫院的工作機會，醫院也證實得獎者已成為員工。案例板上的畫面是兩手用手術刀與鑷子處理米粒大小的壽司。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/surgeon-tryouts-78685\nhttps://www.adweek.com/brand-marketing/ad-day-tbwa-helps-train-medical-students-using-origami-sushi-and-insects-170994/\nhttps://interestingengineering.com/culture/one-hospitals-impossible-surgeon-tryout-test",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2016, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 設計類金獅, Design Gold Lion, 健康與保健類金獅, Health & Wellness Gold Lion, 健康與保健類銀獅, Health & Wellness Silver Lion, 倉敷中央醫院, Kurashiki Central Hospital, TBWA\\HAKUHODO, TBWA Hakuhodo, TBWA, 醫院, 醫療, 外科醫師, 醫學生, 招聘, 徵才, 人才招募, 選拔賽, Tryouts, 測驗, 摺紙, 折紙鶴, 紙鶴, 昆蟲, 壽司, 米粒, 手術刀, 鑷子, 精細動作, 手部靈巧, 倒數計時, 影片, 紀錄片, 日本, Japan",
+  "category": "行銷案例",
+  "references": [
+   "https://www.lovethework.com/en/work/entries/surgeon-tryouts-78685",
+   "https://www.adweek.com/brand-marketing/ad-day-tbwa-helps-train-medical-students-using-origami-sushi-and-insects-170994/",
+   "https://interestingengineering.com/culture/one-hospitals-impossible-surgeon-tryout-test"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/7fddf703310e44ba880483e4e485994c",
+  "image_shows": "案例圖板：特寫兩手拿手術刀與鑷子處理米粒大小的壽司，下方列出三項測驗（5 毫米紙鶴、重組昆蟲、單顆米粒壽司）與選拔現場的影片畫面",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方 lovethework 頁面無文字，內容依案例板、Adweek 與 Interesting Engineering 整理。Adweek 只寫到三種任務，細節與時限來自 Interesting Engineering 與案例板。成效（網站流量、媒體價值、錄取人數、修法等）未寫入。搜尋摘要提到參加人數 70 人、地點為 Tokyo Big Site 等，因未在打開頁面看到，未寫入。搜尋『fake／staged／controversy』沒找到造假指控，只有媒體把選拔當作奇觀的評論，不算爭議。"
+ },
+ {
+  "id": "ltwm-08073",
+  "year": 2016,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "SURVIVAL BILLBOARD",
+  "brand": "XBOX / TOMB RAIDER",
+  "agency": "MCCANN LONDON",
+  "links": [
+   "https://jacobjim.com/sb.html"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Bronze",
+    "category": "Integrated",
+    "subcategory": "Integrated Campaign",
+    "count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Print or Standard Outdoor",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Media & Publications",
+    "count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Outdoor",
+    "subcategory": "Ambient Experiential & Immersive Digital",
+    "count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Outdoor",
+    "subcategory": "Live Advertising and Events",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Use of Adapted Billboards / Posters",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Use of Ambient Outdoor",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Integrated Campaign led by Outdoor",
+    "count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Direct",
+    "subcategory": "Use of Ambient Media: Large Scale",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Direct",
+    "subcategory": "Launch / Re-launch",
+    "count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Entertainment",
+    "subcategory": "Live Broadcast/Live Streaming",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Entertainment",
+    "subcategory": "Innovation in Visual Storytelling and Branded Entertainment",
+    "count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Entertainment",
+    "subcategory": "Live Brand Experience",
+    "count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Entertainment",
+    "subcategory": "Cross Channel Brand Experience",
+    "count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Entertainment",
+    "subcategory": "Innovation in Brand Experience",
+    "count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Entertainment",
+    "subcategory": "Live Experience Games",
+    "count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Media",
+    "subcategory": "Use of Outdoor",
+    "count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "Xbox 為《古墓奇兵：崛起》讓八位玩家站上倫敦看板，網友投票決定颳風下雪或高溫，最後留下的人贏旅行",
+  "brand_display": "Xbox《Rise of the Tomb Raider》",
+  "full_text": "【得獎】2016 坎城獅子獎（Cannes Lions 2016）｜直效類金獅 Direct Gold Lion、娛樂類金獅 Entertainment Gold Lion、戶外類金獅 Outdoor Gold Lion×2、Promo & Activation類金獅 Promo & Activation Gold Lion、直效類銀獅 Direct Silver Lion、娛樂類銀獅 Entertainment Silver Lion×2、戶外類銀獅 Outdoor Silver Lion×4、娛樂類銅獅 Entertainment Bronze Lion×3、Integrated類銅獅 Integrated Bronze Lion、媒體類銅獅 Media Bronze Lion｜代理商：McCANN LONDON\n\n【背景】案例板寫道，挑戰是在遊戲史上最忙碌的發行期裡，為硬派的新作《Rise of the Tomb Raider》辦上市。Xbox 與 m:united／McCann London 想讓一塊看板，不只是廣告管道，而是變成娛樂頻道。\n\n【點子】做一塊「生存看板」：讓八位玩家站在看板上，測試像主角蘿拉・克勞馥一樣的內在意志，最後一個還站著的人，贏得一趟以遊戲為靈感的旅行。\n\n【執行】2015 年 11 月 12 日下午一點（格林威治時間）開始，地點在南倫敦 Southwark 的一塊看板。主辦方收到數千份報名，挑出八位，包括生存專家與來自英國各地的粉絲。他們要在看板上站 24 小時；天氣由網友在活動網站 survivalbillboard.com 投票決定，選項有北極嚴寒、強風、暴風雪與突然的高溫。案例板上的畫面是夜裡的看板，八個人戴著安全帽、穿著深色外套，站在小平台上，雪花橫飛，看板上寫著「SURVIVAL OF THE GRITTIEST」。整個過程在 Twitch、數位戶外看板、橫幅廣告、社群與 Xbox 首頁上直播。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/survival-billboard-83435\nhttps://ukstories.microsoft.com/2015/11/12/rise-of-the-tomb-raider-presents-survival-billboard/\nhttps://shots.net/news/view/88774-stand-up-for-survival-with-rise-of-the-tomb-raider",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2016, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 直效類金獅, Direct Gold Lion, 娛樂類金獅, Entertainment Gold Lion, 戶外類金獅, Outdoor Gold Lion, Promo & Activation類金獅, Promo & Activation Gold Lion, 直效類銀獅, Direct Silver Lion, 娛樂類銀獅, Entertainment Silver Lion, 戶外類銀獅, Outdoor Silver Lion, 娛樂類銅獅, Entertainment Bronze Lion, Integrated類銅獅, Integrated Bronze Lion, 媒體類銅獅, Media Bronze Lion, Xbox, Microsoft, 微軟, Rise of the Tomb Raider, 古墓奇兵, Tomb Raider, Lara Croft, 蘿拉, 電玩, 遊戲, 遊戲發行, McCann London, McCann, m:united, Craft London, 看板, 戶外廣告, Billboard, 特技, Stunt, 活動, 直播, Twitch, 網友投票, 天氣, 風雪, 耐力挑戰, 生存, 倫敦, London, 英國, United Kingdom",
+  "category": "行銷案例",
+  "references": [
+   "https://www.lovethework.com/en/work/entries/survival-billboard-83435",
+   "https://ukstories.microsoft.com/2015/11/12/rise-of-the-tomb-raider-presents-survival-billboard/",
+   "https://shots.net/news/view/88774-stand-up-for-survival-with-rise-of-the-tomb-raider"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/746cb5ef74ac42849f94f0f6afb85ce5",
+  "image_shows": "案例圖板：夜裡的看板上，八位戴安全帽、穿深色外套的人站在小平台上，雪花橫飛，看板印著 Xbox、Rise of the Tomb Raider 與「SURVIVAL OF THE GRITTIEST」，下方有挑戰、解法與各平台直播畫面",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方 lovethework 頁面無文字，內容依案例板、Microsoft UK Stories 與 Shots。成效數字（觀看、媒體價值、勝者撐多久）未寫入。官方報名多達 17 筆（含 TERMS & HORRIBLE, HORRIBLE CONDITIONS 一筆），本稿寫的是主作品 SURVIVAL BILLBOARD。搜尋摘要提到 Craft London、地點寫法（London Bridge／Southwark）等細節因未在打開的頁面看到，未寫入，只採 Southwark。搜尋『controversy／fake／staged』未找到指控。 2026-11-06 Opus 驗：一句話改正：獎品給最後還站在看板上的人，不是「撐過 24 小時者」。",
+  "idea_one_liner_r0": "Xbox 為《古墓奇兵：崛起》在倫敦看板上站八位玩家，網友線上投票選風雪或高溫，撐過二十四小時者贏旅行"
+ }
+]
