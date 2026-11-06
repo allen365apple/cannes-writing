@@ -72,3 +72,8 @@
 - 不算爭議 b013 ltwm-08067 Stardust for Bowie（報導用語更正：是星群，不是正式星座）、b013 ltwm-08071 Super Bowl Babies（對出生率前提的一般質疑）、b014 Norton／Bulletpen／Ford 的一般批評：都只寫 note，建議維持。
 - 仍 uncertain：b012 ltwm-08055 SCARLET/GULLIVER/GATSBY（只有圖，沒有文字說明；三件合併）；b012 ltwm-08057 SHOP WITH THE FORCE（只有單一來源）；b012 ltwm-08061 Old Spice（只有非官方低解析縮圖）；b013 ltwm-08066 SSE Pier（缺劇情與特效做法）。
 - 圖不理想：b012 ltwm-08053 Safe & Sound（分鏡格看不出 App）、b012 ltwm-08061、b014 ltwm-08078 The Family（分鏡格看不出點子）、b014 ltwm-08076（只拍到電極）。
+
+## 2026-11-06 本機 b039–b041（Sonnet 寫、Opus 驗）
+- 仍 uncertain：b039 08337 Café Caribe（Mansion、Church 畫面找不到）、08339 Closet；b040 08342 SON'S FRIEND（缺完整劇情）、08350 BOYSEN（只有案例圖）；b041 08354 DEVICES、08357 LITTLE THINGS（三支廣播腳本都找不到）。
+- 沒有圖：b039 08334、08338；b041 08357。
+- 重複候選、【爭議】候選：無。
