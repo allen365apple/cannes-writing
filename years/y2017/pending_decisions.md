@@ -188,3 +188,4 @@
 - 不算爭議、照收：Paqui 13791、Fearless Girl 08592、OPEN YOUR EYES 09193。
 - 內容重疊合併：08676 JACKIE ← 08832（已上線，08832 要撤下、08676 要更新【得獎】行）；08912 FREEDOM FIGHTERS ← 09212 REDACTIVISTS（同上）；08826 HARD TO IMPRESS ← 08921（都未上線）；08730 MILK SLAMS ← 08946 REAL（08730 已上線要更新）。收尾時補 work/dup2017/dups.json 與 merged.json。
 - 待處理：b047 OMO CAR WASH 另一筆不在清單，不用動；b048 THE SWIMMER 與 2018 ZWEMMER 跨年重疊（2018 已上線），收尾時決定。
+- **2026-11-06 更正（柏文）**：有爭議照收、保留【爭議】段，只有坎城撤銷獎項才不收。上面「改成不收（真的爭議）」與「【爭議】段移進 note」都已還原成收＋【爭議】；內容重疊合併維持。

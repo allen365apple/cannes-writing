@@ -85,3 +85,5 @@
 - 照收：Volvo ROAM DELIVERY 08493、Clever Kash 07978、THE DISPLACED 07956、08568。
 - 內容重疊合併：08514 Lowe's SOCIAL INNOVATION ← 08422 LIVE VINES。
 - 雲端還沒寫到的：PARTY 08046／TRIP 08274／HAGGLERS 08389 → 留 PARTY（金獅），寫到 TRIP（b033）時設重複；ROCKET CAR 08052／WHALE 2016 08093 → 留 ROCKET CAR，寫到 b015 時設重複。NEVER ALONE 已是一筆，不動。
+- **2026-11-06 更正（柏文）**：有爭議照收、保留【爭議】段，只有坎城撤銷獎項才不收。上面「改成不收（真的爭議）」與「【爭議】段移進 note」都已還原成收＋【爭議】；內容重疊合併維持。
+- 2016 b060 Koko 補上【爭議】段（學者指影片誤導）。

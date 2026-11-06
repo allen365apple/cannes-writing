@@ -187,7 +187,7 @@
   "links": [
    "https://www.youtube.com/watch?v=WWc2FsvA7qM&ab_channel=F5"
   ],
-  "decision": "不收",
+  "decision": "收",
   "awards": [
    {
     "level": "Bronze",
@@ -228,7 +228,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入；內容依 ActuIA（2017/6/27）整理，只描述到眼鏡的功能與影片，沒有找到眼鏡實際運作流程的更多細節。【爭議】依 Campaign Asia 的標題與摘要寫，原文要登入，質疑內容未讀到；搜尋摘要提到的細節未寫入。官方 in 檔最後一個獎項為製藥類銀獅（子類別為 Film Craft 音樂／音效）、Cyber 銅獅、創意數據銀獅，以 award_line 為準。Digitaling、新浪、YouTube 無法讀取。圖用官方 YouTube hqdefault（maxresdefault 回 404）；in 檔提供的圖是只有字卡的畫面，未用。建議主對話確認爭議是否要保留。 2026-11-02 Opus 驗：圖改用 LTW know-you-again-12808 卡片上的官方案例板（187295dd…，看得出眼鏡與五步驟），程式標的 1c071c67… 是只有字卡的畫面、不用。依案例板補【執行】五步驟（板上的「Result」段未寫入）。【爭議】補讀新浪財經 2017/7/9〈騰訊高管質疑百度戛納獲獎 AI 眼鏡的真實性〉，內容是公開指控產品可能不存在、評審被愚弄並要求改頒，屬規則卡「被指控造假」，建議保留，請維護者確認。Campaign Asia 正文需登入，只用標題與導言。 2026-11-06 柏文決定：真的有爭議的作品一律不收。",
+  "note": "官方全文需登入；內容依 ActuIA（2017/6/27）整理，只描述到眼鏡的功能與影片，沒有找到眼鏡實際運作流程的更多細節。【爭議】依 Campaign Asia 的標題與摘要寫，原文要登入，質疑內容未讀到；搜尋摘要提到的細節未寫入。官方 in 檔最後一個獎項為製藥類銀獅（子類別為 Film Craft 音樂／音效）、Cyber 銅獅、創意數據銀獅，以 award_line 為準。Digitaling、新浪、YouTube 無法讀取。圖用官方 YouTube hqdefault（maxresdefault 回 404）；in 檔提供的圖是只有字卡的畫面，未用。建議主對話確認爭議是否要保留。 2026-11-02 Opus 驗：圖改用 LTW know-you-again-12808 卡片上的官方案例板（187295dd…，看得出眼鏡與五步驟），程式標的 1c071c67… 是只有字卡的畫面、不用。依案例板補【執行】五步驟（板上的「Result」段未寫入）。【爭議】補讀新浪財經 2017/7/9〈騰訊高管質疑百度戛納獲獎 AI 眼鏡的真實性〉，內容是公開指控產品可能不存在、評審被愚弄並要求改頒，屬規則卡「被指控造假」，建議保留，請維護者確認。Campaign Asia 正文需登入，只用標題與導言。",
   "idea_one_liner_r0": "百度與 F5 上海為阿茲海默症患者設計 AI 眼鏡，用臉部與聲音辨識認出親人，並拍成短片《Know You Again》"
  },
  {
