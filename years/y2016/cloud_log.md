@@ -15,3 +15,6 @@
 
 ## 2026-11-06 雲端第 2 輪
 - 2026-11-06 14:10 開工：b008 b009 b010 b011 b012 b013 b014（b039–b064 本機認領不碰）
+- 2026-11-06 雲端第 2 輪收尾：寫完並驗完 b008–b014（7 批 70 件全收）。2016 累計驗完 37／64 批，剩 b015–b038（雲端）與 b039–b041（本機認領）。待決新增 17 件（重複候選 3：PARTY／TRIP／HAGGLERS、ROCKET CAR／WHALE 2016、NEVER ALONE 兩版；【爭議】候選 0；不算爭議待確認 2；品牌欄待確認 3；仍 uncertain 9），另有圖不理想數件。連不上：LBB、Campaign、The Drum、Adweek、MediaPost、Luerzer's、Shots 部分頁等 403，Brand Buffet 403，bigchop.co.uk 503，clios.com 失效，adnews 不在允許網域；lovethework 官方頁沒有內文。沒撞額度。
+- 問題：b012–b014 驗收員自首曾一次用 curl 加瀏覽器 User-Agent 標頭（被權限系統擋下、沒送出，違規未遂），另跑過一次唯讀的 git diff --stat（違反「不要 git」）。b012 寫手遇到搜尋結果夾帶注入指令，沒照做。開工時本機 main 分支停在舊歷史、HEAD 是分離狀態，第一次推送被拒；已把 main 對齊 origin/main 後正常推送（沒 force push）。
+- 2026-11-06 14:38 回報已寫進 years/last_report.txt。
