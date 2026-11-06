@@ -87,3 +87,10 @@
 - 雲端還沒寫到的：PARTY 08046／TRIP 08274／HAGGLERS 08389 → 留 PARTY（金獅），寫到 TRIP（b033）時設重複；ROCKET CAR 08052／WHALE 2016 08093 → 留 ROCKET CAR，寫到 b015 時設重複。NEVER ALONE 已是一筆，不動。
 - **2026-11-06 更正（柏文）**：有爭議照收、保留【爭議】段，只有坎城撤銷獎項才不收。上面「改成不收（真的爭議）」與「【爭議】段移進 note」都已還原成收＋【爭議】；內容重疊合併維持。
 - 2016 b060 Koko 補上【爭議】段（學者指影片誤導）。
+
+## 2026-11-07 雲端第 3 輪 b015–b018（Sonnet 寫、Opus 驗）
+- b015 ltwm-08093 WHALE 2016：已依柏文決定設重複、same_as ltwm-08052；主對話已把影片類金獅併入 b011 08052（【得獎】行改金獅×2）。
+- 仍 uncertain：b015 08087 Amnesty Barbwire（無文字來源，VOICELESSNESS 海報沒看到）、08088 Interflora（VACATION、SEARCH HISTORY 畫面找不到；in 檔 search-history 卡片圖是 Tate Britain 案例板，官方連錯）、08093 WHALE（無劇情來源）；b016 08101 Vodacom（三支廣播腳本找不到）、08105 Healthcare at Home（沒有任何內容來源，點子與執行空白，建議考慮不收）；b017 08112 Alan Walker Faded（缺發行策略來源）、08114 Amateur Replay（只有一個文字來源）；b018 08121 Student Flights（六件腳本畫面都找不到）、08123 Bad Barista（缺劇情）。
+- 沒有圖：b016 08101、08105；b017 08108；b018 08121。圖偏弱：b018 08123、b017 08111、08113、b016 Jukedeck。
+- 品牌／標題欄：b016 Jukedeck 官方報名名是 ARTIFICIALLY-INTELLIGENT，in 檔寫 ARTIFICIAL，收尾時照官方。
+- 【爭議】候選 0；撤獎 0；其他重複候選 0。
