@@ -94,3 +94,13 @@
 - 沒有圖：b016 08101、08105；b017 08108；b018 08121。圖偏弱：b018 08123、b017 08111、08113、b016 Jukedeck。
 - 品牌／標題欄：b016 Jukedeck 官方報名名是 ARTIFICIALLY-INTELLIGENT，in 檔寫 ARTIFICIAL，收尾時照官方。
 - 【爭議】候選 0；撤獎 0；其他重複候選 0。
+
+## 2026-11-07 雲端第 3 輪 b019–b021（Sonnet 寫、Opus 驗）
+- 重複候選：b019 ltwm-08130 BIG BANG 與 b044 ltwm-08386 GRAVITY 同屬 Clorox 廣播系列（GRAVITY 已不收，BIG BANG 也只有一句話內容），建議兩件一起決定（傾向都不收或只收一筆）。
+- 重複候選：b020 ltwm-08145（Geico Countdown／Whisper／Spy）與 b021 ltwm-08150（Geico Directions／Check／Fisherman／Reunion）同屬「It's What You Do」系列不同報名，請決定合併或分開收。
+- 代理商欄：b021 08150 官方只列製作公司 HUNGRY MAN，同系列 08145 官方代理商是 The Martin Agency；【得獎】行目前照官方，請確認。
+- in 檔待更正：b020 08143 Sainsbury's links 裡 YouTube kuRn2S7iPNU 是 2015 年 Mog，不是本件（in 檔未改）。
+- 【爭議】：b020 08143 Sainsbury's〈1914 聖誕休戰〉已加（波士頓大學歷史教授 Keylor 指史實誤導），請確認。
+- 仍 uncertain：b019 08130 BIG BANG、b020 08138 CANELO, RAMIRES（廣播，缺音檔或腳本）、b021 08150 Geico（缺 Check 內容）。
+- 圖不理想：b019 08130 沒圖；b020 08138 用同系列平面稿、08141 Channel 4 分鏡格；b021 08147 分鏡格。
+- 不算重複：b020 08142 Google（Awaken the Force Within 是活動總稱，清單沒有另一筆），建議維持收。
