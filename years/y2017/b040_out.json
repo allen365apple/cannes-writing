@@ -81,7 +81,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方案例頁沒有內文（卡片只有標題、案例頁抓回來是空的）。做法主要依葡文媒體 Grandes Nomes da Propaganda 的報導，加上案例海報上的文字；該報導沒有提到平面作品，海報內容是看圖寫的。「在婦女月推出」「超市」的例子都只出自那一篇。搜尋摘要沒有寫入。SUPERMARKET、HOUSEKEEPER、BIKER 三張沒有看到圖。搜尋 controversy／fake／withdrawn：沒有找到本作品的爭議；搜尋結果裡被撤件的是 AlmapBBDO 的 Bayer 作品，是另一件，未寫入。"
+  "note": "官方案例頁沒有內文（卡片只有標題、案例頁抓回來是空的）。做法主要依葡文媒體 Grandes Nomes da Propaganda 的報導，加上案例海報上的文字；該報導沒有提到平面作品，海報內容是看圖寫的。「在婦女月推出」「超市」的例子都只出自那一篇。搜尋摘要未寫入。SUPERMARKET、HOUSEKEEPER、BIKER 三張沒有看到圖。搜尋 controversy／fake／withdrawn：沒有找到本作品的爭議；搜尋結果裡被撤件的是 AlmapBBDO 的 Bayer 作品，是另一件，未寫入。"
  },
  {
   "id": "ltwm-08997",
@@ -159,7 +159,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方案例頁沒有內文。Ads of the World 該頁只有標題 Keys, Remote, Phone、客戶 ToysCenter、DDB Santiago、2017 年 3 月與製作名單，沒有案例說明；soy.marketing 只有一句評論。官方報名名稱（GIRLFRIEND、FATHER、SON）與 Ads of the World 標題（Keys、Remote、Phone）不同，判斷是同一組，但沒有來源明講，待確認。讀稿只寫看到的畫面與標語。只看了一張圖。搜尋摘要沒有寫入。搜尋 controversy／fake／plagiarism：沒有找到爭議。 2026-11-04 Opus 驗：打開官方 GIRLFRIEND 作品頁（lovethework girlfriend-4583），og:image 就是本件案例圖（手機那張），確認官方 GIRLFRIEND＝Ads of the World 的 Phone，是同一組作品，拿掉 uncertain。一句話補上「抽積木要穩手」的點子。",
+  "note": "官方案例頁沒有內文。Ads of the World 該頁只有標題 Keys, Remote, Phone、客戶 ToysCenter、DDB Santiago、2017 年 3 月與製作名單，沒有案例說明；soy.marketing 只有一句評論。官方報名名稱（GIRLFRIEND、FATHER、SON）與 Ads of the World 標題（Keys、Remote、Phone）不同，判斷是同一組，但沒有來源明講，待確認。讀稿只寫看到的畫面與標語。只看了一張圖。搜尋摘要未寫入。搜尋 controversy／fake／plagiarism：沒有找到爭議。 2026-11-04 Opus 驗：打開官方 GIRLFRIEND 作品頁（lovethework girlfriend-4583），og:image 就是本件案例圖（手機那張），確認官方 GIRLFRIEND＝Ads of the World 的 Phone，是同一組作品，拿掉 uncertain。一句話補上「抽積木要穩手」的點子。",
   "idea_one_liner_r0": "智利玩具店 ToysCenter 的 Jenga 平面廣告，女生伸手從熟睡男生的口袋拿手機，旁邊擺著積木塔"
  },
  {
@@ -198,7 +198,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方案例頁沒有內文。唯一文字來源是設計師個人網站（in 檔連結），內容講的是咖啡版本（「三杯咖啡的桌子現在兩杯」），和官方報名名稱 BED、TABLE、NIGHTSTAND、LAMP 與我們看到的郵票海報不完全對得上，所以讀稿只採它說的系列背景，執行只寫圖上看得到的畫面，「撕掉郵票代表折扣」是依那頁說明與畫面整理，缺官方說明，待確認。只看了 BED 一張。搜尋摘要沒有寫入。搜尋 controversy／fake／plagiarism：沒有找到本作品的爭議（搜到的是 2012 年 IKEA 沙烏地型錄刪除女性的事件，是另一件，未寫入）。 2026-11-04 Opus 驗：重新打開設計師網站的 IKEA 30% OFF 專頁（julianaparacencio.com/ikea30off）：明寫 2016 年用咖啡、牙膏、汽水罐、郵票、披薩盒當貨幣，2017 年「拿掉當初拼成它的元素」表現 30% OFF，並列 Cannes 2017 平面銅獅；頁上作品圖檔名就是 Table、Nightstand、Bed、Bookcase、Lamp。咖啡只是舉例，和郵票海報不衝突，改寫背景與點子、拿掉 uncertain。"
+  "note": "官方案例頁沒有內文。唯一文字來源是設計師個人網站（in 檔連結），內容講的是咖啡版本（「三杯咖啡的桌子現在兩杯」），和官方報名名稱 BED、TABLE、NIGHTSTAND、LAMP 與我們看到的郵票海報不完全對得上，所以讀稿只採它說的系列背景，執行只寫圖上看得到的畫面，「撕掉郵票代表折扣」是依那頁說明與畫面整理，缺官方說明，待確認。只看了 BED 一張。搜尋摘要未寫入。搜尋 controversy／fake／plagiarism：沒有找到本作品的爭議（搜到的是 2012 年 IKEA 沙烏地型錄刪除女性的事件，是另一件，未寫入）。 2026-11-04 Opus 驗：重新打開設計師網站的 IKEA 30% OFF 專頁（julianaparacencio.com/ikea30off）：明寫 2016 年用咖啡、牙膏、汽水罐、郵票、披薩盒當貨幣，2017 年「拿掉當初拼成它的元素」表現 30% OFF，並列 Cannes 2017 平面銅獅；頁上作品圖檔名就是 Table、Nightstand、Bed、Bookcase、Lamp。咖啡只是舉例，和郵票海報不衝突，改寫背景與點子、拿掉 uncertain。"
  },
  {
   "id": "ltwm-09000",
