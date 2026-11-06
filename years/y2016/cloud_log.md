@@ -21,3 +21,6 @@
 - 2026-11-06 本機收尾：本機認領的 b039–b064 全部寫完驗完（其中 GPT 寫 7 批、Sonnet 寫 19 批，Opus 全驗）。b001–b038 留給雲端。
 - 2026-11-06 柏文決定新規則（有爭議照收標【爭議】、只有坎城撤獎不收；重疊只收一筆），已改 out 檔與規則卡。雲端寫 b015、b033 時：WHALE 2016（08093）設 `重複`＋same_as ltwm-08052；TRIP（08274）設 `重複`＋same_as ltwm-08046，獎項併進保留那筆。
 - 2026-11-07 02:10 開工：b015 b016 b017 b018 b019 b020 b021（雲端 2026-11-07 第 1 輪）
+- 2026-11-07 雲端第 3 輪收尾：寫完並驗完 b015–b021（7 批 70 件，收 69、重複 1：WHALE 2016 併入 b011 ROCKET CAR，獎項已併）。2016 累計驗完 47／64 批，剩 b022–b038（雲端）。待決新增 18 件（重複候選 2：Clorox BIG BANG／GRAVITY、Geico 兩筆同系列；【爭議】1：Sainsbury's 1914 聖誕休戰；仍 uncertain 12；品牌／代理商欄待確認 2；in 檔連結錯 1）。連不上：sites.wpp.com、lbb.lbbonline.com、duvalguillaume.com、bestofogilvy.asia 網域無法解析；LBB、Campaign、The Drum、Adweek、Ad Age、AdForum、Luerzer's、La Réclame、adsspot、Behance 等 403；Clios 404；commarts 503；adnews 不在允許網域；lovethework 官方頁沒有內文。沒撞額度。
+- 問題：b020 寫手曾一次嘗試用 weserv 轉址抓圖（被權限系統擋下、沒成功，違規未遂）。驗收員重跑 check_batches 覆寫報告（屬正常）。
+- 2026-11-07 02:45 回報已寫進 years/last_report.txt。
