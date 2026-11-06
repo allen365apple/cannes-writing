@@ -156,7 +156,7 @@
   "links": [
    "https://vimeo.com/448884665"
   ],
-  "decision": "收",
+  "decision": "重複",
   "awards": [
    {
     "level": "Silver",
@@ -186,7 +186,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "疑似重複：本件與 b008 的『JACKIE』（ltwm-08676，金獅）是同一支影片——分鏡裡的黑底字卡（2016 年 Heineken 成為 F1 官方贊助商）與 b008 讀稿引用的片頭字卡相同，Publicis Milan 同年兩個條目，這件是 CSR 類銀獅。依規則不自行改 decision，交主對話決定。官方案例頁只有標題，內容依 Crash.net、LePub、selfstorming、Ads of the World 整理；in 檔 vimeo 連結沒有打開。搜尋摘要中的 Campaign Brief 讀者留言（批評訊息混亂）屬一般評論、未寫入。未發現造假、抄襲或撤獎指控。 2026-11-03 Opus 驗：重複候選判斷：與 b008 ltwm-08676 JACKIE 應是同一支片。兩筆官方分鏡第 5、8 格位元組完全相同（同一段黑底字卡與開場），其餘格都是同一套黑白老賽道素材；代理商（Publicis Italy, Milan）、導演 Gary Freedman、MPC 後製、反酒駕訊息都相同。差別只在報名類別（JACKIE 是 Film 酒類金獅，本件是 Film CSR 銀獅）與作品名，可能是不同剪輯長度。依規則不改 decision，交主對話決定是否併入 b008。看圖：分鏡第 14 格為黑白 3 號老賽車，可用。"
+  "note": "疑似重複：本件與 b008 的『JACKIE』（ltwm-08676，金獅）是同一支影片——分鏡裡的黑底字卡（2016 年 Heineken 成為 F1 官方贊助商）與 b008 讀稿引用的片頭字卡相同，Publicis Milan 同年兩個條目，這件是 CSR 類銀獅。依規則不自行改 decision，交主對話決定。官方案例頁只有標題，內容依 Crash.net、LePub、selfstorming、Ads of the World 整理；in 檔 vimeo 連結沒有打開。搜尋摘要中的 Campaign Brief 讀者留言（批評訊息混亂）屬一般評論、未寫入。未發現造假、抄襲或撤獎指控。 2026-11-03 Opus 驗：重複候選判斷：與 b008 ltwm-08676 JACKIE 應是同一支片。兩筆官方分鏡第 5、8 格位元組完全相同（同一段黑底字卡與開場），其餘格都是同一套黑白老賽道素材；代理商（Publicis Italy, Milan）、導演 Gary Freedman、MPC 後製、反酒駕訊息都相同。差別只在報名類別（JACKIE 是 Film 酒類金獅，本件是 Film CSR 銀獅）與作品名，可能是不同剪輯長度。依規則不改 decision，交主對話決定是否併入 b008。看圖：分鏡第 14 格為黑白 3 號老賽車，可用。 2026-11-06 柏文決定：內容重疊只收一筆，併入 ltwm-08676〈JACKIE〉。",
+  "same_as": "ltwm-08676"
  },
  {
   "id": "ltwm-08833",

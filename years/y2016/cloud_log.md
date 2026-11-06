@@ -10,7 +10,7 @@
 
 ## 2026-11-06 雲端第 1 輪
 - 2026-11-06 02:10 開工：b001 b002 b003 b004 b005 b006 b007（雲端從 b001 往後；b039–b064 本機認領不碰）
-- 問題：Opus 驗收 b042 時把一張圖改用 weserv 轉址；另 GPT b063 也有一張 weserv。主對話已都改回官方直接網址。
+- 更正：b042 那張是超過 5MB，已改用官方 CDN ?resize；b063 那張主機回 octet-stream，照規則卡用 weserv 是允許的（規則禁止的是用 weserv 抓被擋的網頁）。
 - 2026-11-06 雲端第 1 輪收尾：寫完並驗完 b001–b007（7 批 70 件全收）；待決新增 16 件（【爭議】候選 4：Coop、Legally Bride、Cubetto、FALTER；不算爭議待確認 3；重複判斷 1；仍 uncertain 3：KFC、Dove、GASCALE；品牌待確認 1；圖不理想 4）。連不上：LBB、Campaign、The Drum、MediaPost、AdsSpot、Shots、Springwise 等 403，sites.wpp.com、adnews 不在允許網域。沒撞額度。寫手、驗收員無違規（沒 rm、沒偽裝標頭、沒 weserv）。合併時與本機推送的 verified.txt 衝突一次，兩邊都保留。
 
 ## 2026-11-06 雲端第 2 輪
@@ -19,3 +19,4 @@
 - 問題：b012–b014 驗收員自首曾一次用 curl 加瀏覽器 User-Agent 標頭（被權限系統擋下、沒送出，違規未遂），另跑過一次唯讀的 git diff --stat（違反「不要 git」）。b012 寫手遇到搜尋結果夾帶注入指令，沒照做。開工時本機 main 分支停在舊歷史、HEAD 是分離狀態，第一次推送被拒；已把 main 對齊 origin/main 後正常推送（沒 force push）。
 - 2026-11-06 14:38 回報已寫進 years/last_report.txt。
 - 2026-11-06 本機收尾：本機認領的 b039–b064 全部寫完驗完（其中 GPT 寫 7 批、Sonnet 寫 19 批，Opus 全驗）。b001–b038 留給雲端。
+- 2026-11-06 柏文決定新規則（真的爭議不收、重疊只收一筆），已改 out 檔與規則卡。雲端寫 b015、b033 時：WHALE 2016（08093）設 `重複`＋same_as ltwm-08052；TRIP（08274）設 `重複`＋same_as ltwm-08046，獎項併進保留那筆。

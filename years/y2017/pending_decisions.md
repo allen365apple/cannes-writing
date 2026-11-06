@@ -180,3 +180,11 @@
 - b061 ltwm-09212 THE REDACTIVISTS：找不到官方 case board，用 It's Nice That 現場照。
 - 圖仍弱：13781、09240、13784。
 - 備註：LTW 2017 健康類卡片子類別標籤整批錯位，類別以官方 award_line 為準。
+
+## 2026-11-06 柏文決定（已改進 out 檔）
+- 規則改：真的有爭議就不收；內容重疊只收一筆（規則卡、驗收說明已更新）。
+- 改成不收（真的爭議）：08635 THE DNA JOURNEY、08684 EVAN、08695 THE CLICHÉ、08802 KNOW YOU AGAIN。**都已上線，要從主表撤下**（方法待柏文確認）。
+- 照收、【爭議】段移進 note（證據薄弱）：08738 POTATOES ON MARS（匿名信、代理商否認）。已上線，要用 jesse-updates 改讀稿。
+- 不算爭議、照收：Paqui 13791、Fearless Girl 08592、OPEN YOUR EYES 09193。
+- 內容重疊合併：08676 JACKIE ← 08832（已上線，08832 要撤下、08676 要更新【得獎】行）；08912 FREEDOM FIGHTERS ← 09212 REDACTIVISTS（同上）；08826 HARD TO IMPRESS ← 08921（都未上線）；08730 MILK SLAMS ← 08946 REAL（08730 已上線要更新）。收尾時補 work/dup2017/dups.json 與 merged.json。
+- 待處理：b047 OMO CAR WASH 另一筆不在清單，不用動；b048 THE SWIMMER 與 2018 ZWEMMER 跨年重疊（2018 已上線），收尾時決定。

@@ -82,7 +82,7 @@
     "links": [
       "https://clios.com/awards/winner/19479"
     ],
-    "decision": "收",
+    "decision": "重複",
     "awards": [
       {
         "level": "Silver",
@@ -114,7 +114,8 @@
     "text_source_level": 2,
     "uncertain": true,
     "needs_audio": true,
-    "note": "只寫到企劃層級：能打開的來源（Bullvine、Idealog）談的是 Anchor「Milk Slams／Inside-out」的影片版，沒有 Real 這支廣播的稿子或詞句；LTW 卡片只有名稱，stoppress／LBB／campaignbrief／adforum／adsspot 都被擋（403）或 404。需聽音檔補內容。官方 Radio 銀獅（Script）與銅獅（Drinks）都是 REAL。搜尋摘要提到 Real 是「牙齒」主題的詩，因未打開來源，未寫入。沒有找到可用圖（只有灰色音訊預設圖，未用）。【爭議】已搜，沒有看到。 2026-11-03 Opus 驗：再查：搜尋結果與 LTW campaign 頁都沒有能打開的 Real 廣播稿（LBB 403），仍 uncertain。疑似重複：b014 ltwm-08730 MILK SLAMS（同一個 Anchor Milk Slams 企劃的影片版，Health & Wellness 金獅），已回報主對話，未改 decision。"
+    "note": "只寫到企劃層級：能打開的來源（Bullvine、Idealog）談的是 Anchor「Milk Slams／Inside-out」的影片版，沒有 Real 這支廣播的稿子或詞句；LTW 卡片只有名稱，stoppress／LBB／campaignbrief／adforum／adsspot 都被擋（403）或 404。需聽音檔補內容。官方 Radio 銀獅（Script）與銅獅（Drinks）都是 REAL。搜尋摘要提到 Real 是「牙齒」主題的詩，因未打開來源，未寫入。沒有找到可用圖（只有灰色音訊預設圖，未用）。【爭議】已搜，沒有看到。 2026-11-03 Opus 驗：再查：搜尋結果與 LTW campaign 頁都沒有能打開的 Real 廣播稿（LBB 403），仍 uncertain。疑似重複：b014 ltwm-08730 MILK SLAMS（同一個 Anchor Milk Slams 企劃的影片版，Health & Wellness 金獅），已回報主對話，未改 decision。 2026-11-06 柏文決定：內容重疊只收一筆，併入 ltwm-08730〈MILK SLAMS〉。",
+    "same_as": "ltwm-08730"
   },
   {
     "id": "ltwm-08947",

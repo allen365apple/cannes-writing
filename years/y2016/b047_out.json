@@ -384,7 +384,7 @@
   "links": [
    "https://www.youtube.com/watch?v=N3bFr97PI6M&ab_channel=bbdoworldwide"
   ],
-  "decision": "收",
+  "decision": "重複",
   "awards": [
    {
     "level": "Bronze",
@@ -416,6 +416,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依官方案例板與 Adweek 整理；案例板與其他報導的成效數字未寫入。官方有兩張卡片（Use of Promo & Activation、Craft），獎項為 Direct 與 Promo & Activation 兩座銅獅。搜尋未找到對這支作品的爭議（搜到的 Lowe's 2011 撤廣告事件與此無關）。"
+  "note": "官方全文需登入，內容依官方案例板與 Adweek 整理；案例板與其他報導的成效數字未寫入。官方有兩張卡片（Use of Promo & Activation、Craft），獎項為 Direct 與 Promo & Activation 兩座銅獅。搜尋未找到對這支作品的爭議（搜到的 Lowe's 2011 撤廣告事件與此無關）。 2026-11-06 柏文決定：內容重疊只收一筆，併入 ltwm-08514〈SOCIAL INNOVATION CAMPAIGN〉。",
+  "same_as": "ltwm-08514"
  }
 ]

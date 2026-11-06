@@ -77,3 +77,11 @@
 - 仍 uncertain：b039 08337 Café Caribe（Mansion、Church 畫面找不到）、08339 Closet；b040 08342 SON'S FRIEND（缺完整劇情）、08350 BOYSEN（只有案例圖）；b041 08354 DEVICES、08357 LITTLE THINGS（三支廣播腳本都找不到）。
 - 沒有圖：b039 08334、08338；b041 08357。
 - 重複候選、【爭議】候選：無。
+
+## 2026-11-06 柏文決定（已改進 out 檔）
+- 規則改：真的有爭議就不收；內容重疊只收一筆。
+- 改成不收（真的爭議）：07958 Coop THE ORGANIC EFFECT（法院判誤導）、07984 Cubetto（專利主張）、08535 Mark's（標語抄襲）、08555 Koko（學者指影片誤導）。
+- 照收、【爭議】段移進 note：07989 Legally Bride（單一整理站說法）、08005 FALTER/INFERNO（同集團分公司歸屬）。
+- 照收：Volvo ROAM DELIVERY 08493、Clever Kash 07978、THE DISPLACED 07956、08568。
+- 內容重疊合併：08514 Lowe's SOCIAL INNOVATION ← 08422 LIVE VINES。
+- 雲端還沒寫到的：PARTY 08046／TRIP 08274／HAGGLERS 08389 → 留 PARTY（金獅），寫到 TRIP（b033）時設重複；ROCKET CAR 08052／WHALE 2016 08093 → 留 ROCKET CAR，寫到 b015 時設重複。NEVER ALONE 已是一筆，不動。

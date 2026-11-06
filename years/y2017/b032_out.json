@@ -321,7 +321,7 @@
    "https://adsspot.me/media/radio/pedigree-vacant-stare-18f6621f788c",
    "https://adsspot.me/media/radio/pedigree-dribble-cry-7114e91eee99"
   ],
-  "decision": "收",
+  "decision": "重複",
   "awards": [
    {
     "level": "Silver",
@@ -346,7 +346,8 @@
   "text_source_level": 2,
   "uncertain": true,
   "needs_audio": true,
-  "note": "uncertain 且圖留空：兩支官方作品（VACANT STARE、DRIBBLE CRY）是廣播，LTW 圖是灰色音訊圖示，沒找到可用的作品圖；沒有找到這兩支廣播稿的文字來源（LTW 頁無文字、LBB 與 Creativepool 被擋），故讀稿只寫整個計畫（取自 The Stable），沒有寫兩支廣播的內容。搜尋摘要提到的廣播台詞與成效數字未寫入。另一則 Campaign Brief 報導（pedigreeparenting）是別支作品，未使用。搜尋未發現造假、抄襲或撤獎指控。 2026-11-03 Opus 驗：此計畫與 b023 ltwm-08826 HARD TO IMPRESS（同一 Child Replacement Programme 的影片）是同一點子的不同媒介版本，已回報主對話。"
+  "note": "uncertain 且圖留空：兩支官方作品（VACANT STARE、DRIBBLE CRY）是廣播，LTW 圖是灰色音訊圖示，沒找到可用的作品圖；沒有找到這兩支廣播稿的文字來源（LTW 頁無文字、LBB 與 Creativepool 被擋），故讀稿只寫整個計畫（取自 The Stable），沒有寫兩支廣播的內容。搜尋摘要提到的廣播台詞與成效數字未寫入。另一則 Campaign Brief 報導（pedigreeparenting）是別支作品，未使用。搜尋未發現造假、抄襲或撤獎指控。 2026-11-03 Opus 驗：此計畫與 b023 ltwm-08826 HARD TO IMPRESS（同一 Child Replacement Programme 的影片）是同一點子的不同媒介版本，已回報主對話。 2026-11-06 柏文決定：內容重疊只收一筆，併入 ltwm-08826〈HARD TO IMPRESS〉。",
+  "same_as": "ltwm-08826"
  },
  {
   "id": "ltwm-08922",

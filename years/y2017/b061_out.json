@@ -10,7 +10,7 @@
   "links": [
    "https://clios.com/awards/winner/brand-design/amnesty-international-hong-kong/redactivists-18699"
   ],
-  "decision": "收",
+  "decision": "重複",
   "awards": [
    {
     "level": "Bronze",
@@ -47,8 +47,9 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入；內容依 It's Nice That 報導與 Campaign Asia（只讀到標題與一張圖，內文需登入）整理，案例板圖是 SVG 佔位圖，圖改用 It's Nice That 的現場照。官方得獎兩條：設計類 BRAND COLLATERAL 用 THE REDACTIVISTS，平面與出版類用 THE REDACTED BOOKS；我只找得到整個「Every Freedom Needs a Fighter」活動的報導，無法逐項對應哪一項周邊算在哪一條得獎，請主對話留意。搜尋摘要提到的 Hong Kong Free Press 網站塗黑、募款金額、觸及人數未寫入。未發現造假、抄襲或撤獎指控。 2026-11-06 Opus 驗：一句話補上 27 的意思（It's Nice That 原文）。官方 LTW 卡片、campaign 頁都只有 SVG 佔位圖（需登入），Clio 連結 404，找不到官方案例板；YouTube 官方影片縮圖是書商素描、看不出點子，維持 It's Nice That 現場照。",
-  "idea_one_liner_r0": "國際特赦組織香港分會開快閃書店，賣一千多本被黑筆塗掉的黃色書，捐港幣27元就能帶走"
+  "note": "官方全文需登入；內容依 It's Nice That 報導與 Campaign Asia（只讀到標題與一張圖，內文需登入）整理，案例板圖是 SVG 佔位圖，圖改用 It's Nice That 的現場照。官方得獎兩條：設計類 BRAND COLLATERAL 用 THE REDACTIVISTS，平面與出版類用 THE REDACTED BOOKS；我只找得到整個「Every Freedom Needs a Fighter」活動的報導，無法逐項對應哪一項周邊算在哪一條得獎，請主對話留意。搜尋摘要提到的 Hong Kong Free Press 網站塗黑、募款金額、觸及人數未寫入。未發現造假、抄襲或撤獎指控。 2026-11-06 Opus 驗：一句話補上 27 的意思（It's Nice That 原文）。官方 LTW 卡片、campaign 頁都只有 SVG 佔位圖（需登入），Clio 連結 404，找不到官方案例板；YouTube 官方影片縮圖是書商素描、看不出點子，維持 It's Nice That 現場照。 2026-11-06 柏文決定：內容重疊只收一筆，併入 ltwm-08912〈FREEDOM FIGHTERS〉。",
+  "idea_one_liner_r0": "國際特赦組織香港分會開快閃書店，賣一千多本被黑筆塗掉的黃色書，捐港幣27元就能帶走",
+  "same_as": "ltwm-08912"
  },
  {
   "id": "ltwm-09213",
