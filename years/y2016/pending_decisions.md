@@ -56,3 +56,13 @@
 - b002 ltwm-07951 MONTY'S CHRISTMAS：繪本相似說只寫 note，建議維持。
 - 重複判斷：b002 ltwm-07955 NYT VR 與 ltwm-07956 THE DISPLACED 同專案、不同官方報名，建議兩件都收。
 - 仍 uncertain：b007 ltwm-08008 GASCALE（缺第二個獨立文字來源）。
+
+## 2026-11-06 雲端第 2 輪 b008 b009 b010 b011（Sonnet 寫、Opus 驗）
+- 重複候選 b011 ltwm-08046 PARTY 與 b033 ltwm-08274 TRIP、b044 ltwm-08389 HAGGLERS：同一個 campaign，請決定要合併還是分開收。
+- 重複候選 b011 ltwm-08052 ROCKET CAR 與 b015 ltwm-08093 WHALE 2016：同一個 campaign，請決定。
+- 重複判斷 b010 ltwm-08037 NEVER ALONE：TV 短版和紀錄長版已經合在同一筆，清單裡沒有第二筆，建議維持不動。
+- 不算爭議 b009 ltwm-08026：地方議會質疑垃圾桶放在路面不安全，驗收員判定是一般評論，只寫進 note，建議維持。
+- 品牌待確認 b008 ltwm-08019 Emoji：官方品牌欄寫 EMOJI，實際發起方是 Ad Council，稿以 Ad Council 為發起方。
+- 仍 uncertain：b009 ltwm-08022 LADY, OFFICE, MAN（缺創意說明，Brand Buffet 403）；b010 ltwm-08032 MT EX（缺 Yokohama 場的說明）；b011 ltwm-08048 Portraits（缺 Thinking/Smiling/Gazing 畫面）；b011 ltwm-08043 Paper Glasses（缺做法說明）；b011 ltwm-08051 Raising Eyebrows（圖只有字卡）。
+- 單一來源：b008 GE、Hashtags for Life 的細節只有 Selfstorming（讀稿已標「據 Selfstorming」）。
+- 圖不理想：b011 ltwm-08043 Paper Glasses（約 260px，要另找）、b011 ltwm-08051（只有字卡）、b011 ltwm-08052 Rocket Car（非官方頻道縮圖）、b008 GE／Giga Selfie／Hashtags／HSG／Piccards（只有分鏡格）。
