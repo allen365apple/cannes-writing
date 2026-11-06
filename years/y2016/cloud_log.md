@@ -12,3 +12,6 @@
 - 2026-11-06 02:10 開工：b001 b002 b003 b004 b005 b006 b007（雲端從 b001 往後；b039–b064 本機認領不碰）
 - 問題：Opus 驗收 b042 時把一張圖改用 weserv 轉址；另 GPT b063 也有一張 weserv。主對話已都改回官方直接網址。
 - 2026-11-06 雲端第 1 輪收尾：寫完並驗完 b001–b007（7 批 70 件全收）；待決新增 16 件（【爭議】候選 4：Coop、Legally Bride、Cubetto、FALTER；不算爭議待確認 3；重複判斷 1；仍 uncertain 3：KFC、Dove、GASCALE；品牌待確認 1；圖不理想 4）。連不上：LBB、Campaign、The Drum、MediaPost、AdsSpot、Shots、Springwise 等 403，sites.wpp.com、adnews 不在允許網域。沒撞額度。寫手、驗收員無違規（沒 rm、沒偽裝標頭、沒 weserv）。合併時與本機推送的 verified.txt 衝突一次，兩邊都保留。
+
+## 2026-11-06 雲端第 2 輪
+- 2026-11-06 14:10 開工：b008 b009 b010 b011 b012 b013 b014（b039–b064 本機認領不碰）
