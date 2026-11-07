@@ -24,3 +24,4 @@
 - 2026-11-07 雲端第 3 輪收尾：寫完並驗完 b015–b021（7 批 70 件，收 69、重複 1：WHALE 2016 併入 b011 ROCKET CAR，獎項已併）。2016 累計驗完 47／64 批，剩 b022–b038（雲端）。待決新增 18 件（重複候選 2：Clorox BIG BANG／GRAVITY、Geico 兩筆同系列；【爭議】1：Sainsbury's 1914 聖誕休戰；仍 uncertain 12；品牌／代理商欄待確認 2；in 檔連結錯 1）。連不上：sites.wpp.com、lbb.lbbonline.com、duvalguillaume.com、bestofogilvy.asia 網域無法解析；LBB、Campaign、The Drum、Adweek、Ad Age、AdForum、Luerzer's、La Réclame、adsspot、Behance 等 403；Clios 404；commarts 503；adnews 不在允許網域；lovethework 官方頁沒有內文。沒撞額度。
 - 問題：b020 寫手曾一次嘗試用 weserv 轉址抓圖（被權限系統擋下、沒成功，違規未遂）。驗收員重跑 check_batches 覆寫報告（屬正常）。
 - 2026-11-07 02:45 回報已寫進 years/last_report.txt。
+- 2026-11-07 14:09 開工：b022 b023 b024 b025 b026 b027 b028（雲端 2026-11-07 第 2 輪）
