@@ -25,3 +25,6 @@
 - 問題：b020 寫手曾一次嘗試用 weserv 轉址抓圖（被權限系統擋下、沒成功，違規未遂）。驗收員重跑 check_batches 覆寫報告（屬正常）。
 - 2026-11-07 02:45 回報已寫進 years/last_report.txt。
 - 2026-11-07 14:09 開工：b022 b023 b024 b025 b026 b027 b028（雲端 2026-11-07 第 2 輪）
+- 2026-11-07 雲端第 4 輪收尾：寫完並驗完 b022–b028（7 批 70 件，收 68、不收 2：08170 GAME OF THRONES "SHAME"、08197 MOM AT 40 兩件廣播找不到內容來源）。2016 累計驗完 54／64 批，剩 b029–b038。待決新增 16 件（重複候選 3：HINTS／SPARE THE ACT、Give Extra 與官方 Sarah & Juan 卡片、Fabogesic MOVING／BREAK UP；不收待決 2；仍 uncertain 8；標題欄 1；圖 2 組）。【爭議】0、撤獎 0。連不上：sites.wpp.com、lbb.lbbonline.com、patrickbaron.com、kirano.me 網域無法解析；LBB、Campaign、The Drum、MediaPost、Behance、AdsSpot、Clios、Adweek 部分頁等 403／404；adnews 不在允許網域；Vimeo 要人機驗證；lovethework 官方頁沒有內文。沒撞額度。
+- 問題：b024 寫手自首跑過一次唯讀的 git status（違反「不要 git」，沒改檔）。其餘寫手、驗收員沒用 rm、沒偽裝標頭、沒用 weserv。第一組 commit 時 b026–b028 尚未驗的稿一併被提交，驗完已再提交更新版。開工時本機是分離 HEAD，已把 main 對齊 origin/main（沒 force push）。
+- 2026-11-07 11/07 14:36 回報已寫進 years/last_report.txt。
