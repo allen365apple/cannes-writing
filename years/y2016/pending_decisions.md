@@ -104,3 +104,12 @@
 - 仍 uncertain：b019 08130 BIG BANG、b020 08138 CANELO, RAMIRES（廣播，缺音檔或腳本）、b021 08150 Geico（缺 Check 內容）。
 - 圖不理想：b019 08130 沒圖；b020 08138 用同系列平面稿、08141 Channel 4 分鏡格；b021 08147 分鏡格。
 - 不算重複：b020 08142 Google（Awaken the Force Within 是活動總稱，清單沒有另一筆），建議維持收。
+
+## 2026-11-07 雲端第 4 輪 b022–b025（Sonnet 寫、Opus 驗）
+- 重複候選：b024 ltwm-08182 Currys HINTS 與 b031 ltwm-08249 SPARE THE ACT 同一波聖誕活動（看板暗示＋Goldblum 電視片）；驗收員建議兩件都收（點子不同、類別不同）。b031 還沒寫，寫到時再一起確認。
+- 重複／同系列候選：b023 ltwm-08173 Give Extra, Get Extra 讀稿依 Sarah & Juan 報導寫，官方另有 Extra Sarah & Juan 與 A Second Chance 卡片，沒有來源明講 2016 報名的就是 Sarah & Juan；仍 uncertain，請決定是否同一件。
+- 不收待決：b023 ltwm-08170 GAME OF THRONES "SHAME"（紐西蘭 Sky SoHo 廣播）找不到任何內容來源，設不收＋needs_audio；有音檔或能連上 AdsSpot 可補回。
+- 仍 uncertain：b022 08158 ENVY（缺劇情與背景）、08162 City Lodge A ROOM FOR EVERYONE（只有案例板 STAFF 版）；b024 08181 The Times HILL/LAMB/MORAN/BROOKES（只看到 BROOKES 海報、缺背景）。
+- 標題欄：b022 08162 in 檔標題 A ROOM FOR EVERYONE IN YOUR FAMILY，官方報名是 STAFF、FAMILY、TEAM 三件，收尾時請照官方確認。
+- 圖不理想：b022 08165 FEMALE RECRUITMENT（640x360 截圖）；b023 08167、08176 用文章圖；b024 HALO 5、IN SPACE WE TRUST（案例板太小）。
+- 【爭議】候選 0；撤獎 0。
