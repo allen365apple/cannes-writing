@@ -1,23 +1,85 @@
 [
  {
-  "id": "ltwm-07643",
+  "id": "ltwm-07548",
   "year": 2015,
-  "tier": "BRONZE",
+  "tier": "SILVER",
   "categories": [],
-  "title": "UBER SAFE",
-  "brand": "UBER",
-  "agency": "RETHINK TORONTO",
-  "raw": "UBER SAFE – UBER (RETHINK TORONTO)",
+  "title": "20 YEARS",
+  "brand": "GETTY IMAGES",
+  "agency": "ALMAPBBDO SÃO PAULO",
+  "raw": "20 YEARS – GETTY IMAGES (ALMAPBBDO SÃO PAULO)",
   "links": [
-   "https://www.google.com/search?client=safari&rls=en&q=UBER+SAFE+-+UBER+(RETHINK+Toronto)&ie=UTF-8&oe=UTF-8"
+   "https://cargocollective.com/andresallowicz/Getty-Images-20-Years-2X-Gold-and-a-Bronze-at-One-Show-Silver-Cannes"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Business Equipment & Services",
+    "count": 1,
+    "source_count": 3
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "GETTY IMAGES",
+   "product": "20 YEARS OF GETTY IMAGES",
+   "agencies": [
+    "ALMAPBBDO São Paulo"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Outdoor",
+     "subcategory": "Business Equipment & Services",
+     "count": 1,
+     "entry_titles": [
+      "BILL CLINTON",
+      "SCARLET JOHANSSON",
+      "PRINCE WILLIAM"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion｜代理商：ALMAPBBDO São Paulo"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/3151f0d00c97489ce97256e0499e4ee8"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/prince-william-132454",
+   "https://www.lovethework.com/en/work/entries/scarlet-johansson-132499",
+   "https://www.lovethework.com/en/work/entries/bill-clinton-132538"
+  ]
+ },
+ {
+  "id": "ltwm-07553",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "A DISCOUNT TO YOUR MISFORTUNE",
+  "brand": "ISLAZUL",
+  "agency": "DEL CAMPO SAATCHI & SAATCHI MADRID",
+  "raw": "A DISCOUNT TO YOUR MISFORTUNE – ISLAZUL (DEL CAMPO SAATCHI & SAATCHI MADRID)",
+  "links": [
+   "https://www.behance.net/gallery/29924177/ISLAZUL-A-DISCOUNT-FOR-YOUR-MISFORTUNE"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Live Advertising and Events",
+    "count": 1,
+    "source_count": 1
+   },
+   {
     "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Innovative Use of Technology",
+    "category": "Direct",
+    "subcategory": "Targeted Ambient Media: Large Scale",
     "count": 1,
     "source_count": 1
    }
@@ -25,465 +87,67 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "UBER",
-   "product": null,
+   "brand": "ISLAZUL",
+   "product": "ISLAZUL",
    "agencies": [
-    "RETHINK Toronto"
+    "DEL CAMPO SAATCHI & SAATCHI MADRID Madrid"
    ],
    "awards": [
     {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Innovative Use of Technology",
+     "level": "Silver",
+     "category": "Outdoor",
+     "subcategory": "Live Advertising and Events",
      "count": 1,
      "entry_titles": [
-      "UBER SAFE"
+      "A DISCOUNT TO YOUR MISFORTUNE"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Direct",
+     "subcategory": "Targeted Ambient Media: Large Scale",
+     "count": 1,
+     "entry_titles": [
+      "A DISCOUNT TO YOUR MISFORTUNE"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：RETHINK Toronto"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion、直效類銅獅 Direct Bronze Lion｜代理商：DEL CAMPO SAATCHI & SAATCHI MADRID Madrid"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/0c8a7ad322b34f6bc8d9f54a24263977"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/5b5d9d305f5e45a6e6071c2fe17953d2"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/uber-safe-110924"
+   "https://www.lovethework.com/en/work/entries/a-discount-to-your-misfortune-127679",
+   "https://www.lovethework.com/en/work/entries/a-discount-to-your-misfortune-115046"
   ]
  },
  {
-  "id": "ltwm-07644",
+  "id": "ltwm-07555",
   "year": 2015,
-  "tier": "BRONZE",
+  "tier": "SILVER",
   "categories": [],
-  "title": "PLAY!",
-  "brand": "IBM",
-  "agency": "OGILVY NEW YORK",
-  "raw": "PLAY! – IBM (OGILVY NEW YORK)",
+  "title": "THE CONCERT NO ONE WAS WAITING FOR",
+  "brand": "BBVA",
+  "agency": "FAHRENHEIT DDB LIMA",
+  "raw": "THE CONCERT NO ONE WAS WAITING FOR – BBVA (FAHRENHEIT DDB LIMA)",
   "links": [
-   "https://www.youtube.com/watch?v=6x_0Ahzp6JQ"
+   "https://www.youtube.com/watch?v=DFz8R0oto7c"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Corporate Image & Communication",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "IBM",
-   "product": null,
-   "agencies": [
-    "OGILVY NEW YORK"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Corporate Image & Communication",
-     "count": 1,
-     "entry_titles": [
-      "PLAY!"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：OGILVY NEW YORK"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/096e9add504e4526a5f3721b86280be2"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/play-111922"
-  ]
- },
- {
-  "id": "ltwm-07645",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "#PROJECT360",
-  "brand": "MAMMUT SPORTS GROUP",
-  "agency": "HEYE MUNICH",
-  "raw": "#PROJECT360 – MAMMUT SPORTS GROUP (HEYE MUNICH)",
-  "links": [
-   "https://vimeo.com/142867233"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Website",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "MAMMUT SPORTS GROUP",
-   "product": null,
-   "agencies": [
-    "HEYE Munich"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Website",
-     "count": 1,
-     "entry_titles": [
-      "#PROJECT360"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：HEYE Munich"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/eae71f36cdc143909283655dcc359fa8"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/project360-130033"
-  ]
- },
- {
-  "id": "ltwm-07646",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "WHERE GOOD DAYS START",
-  "brand": "IKEA",
-  "agency": "SMFB OSLO",
-  "raw": "WHERE GOOD DAYS START – IKEA (SMFB OSLO )",
-  "links": [
-   "https://www2.eurobest.com/winners/2014/interactive/entry.cfm?entryid=2675&award=4"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Microsite",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "IKEA",
-   "product": null,
-   "agencies": [
-    "SMFB Oslo"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Microsite",
-     "count": 1,
-     "entry_titles": [
-      "WHERE GOOD DAYS START"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：SMFB Oslo"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/f29225e2f1cc41abcb0cb09f7ed736b0"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/where-good-days-start-129130"
-  ]
- },
- {
-  "id": "ltwm-07647",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "THE AD FILTER",
-  "brand": "D&AD",
-  "agency": "BETC PARIS",
-  "raw": "THE AD FILTER – D&AD (BETC PARIS)",
-  "links": [
-   "https://clios.com/awards/winner/1086"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Web Service/App",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "D&AD",
-   "product": null,
-   "agencies": [
-    "BETC Paris / BETC DIGITAL Paris"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Web Service/App",
-     "count": 1,
-     "entry_titles": [
-      "THE AD FILTER"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：BETC Paris / BETC DIGITAL Paris"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/9b451c6183b74ba7a6d80a7542095f7c"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-ad-filter-111847"
-  ]
- },
- {
-  "id": "ltwm-07648",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "NFSCAN",
-  "brand": "NFSCAN",
-  "agency": "LODUCCA SÃO PAULO",
-  "raw": "NFSCAN – NFSCAN (LODUCCA SÃO PAULO)",
-  "links": [
-   "https://adsspot.me/media/tv-commercials/nfscan-nfscan-video-4d3abe272189"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Web Service/App",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "NFSCAN",
-   "product": null,
-   "agencies": [
-    "LODUCCA São Paulo"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Web Service/App",
-     "count": 1,
-     "entry_titles": [
-      "NFSCAN"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：LODUCCA São Paulo"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/cf01ad0b5a3c45d4c509f8c53bb4c767"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/nfscan-111631"
-  ]
- },
- {
-  "id": "ltwm-07650",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "LET’S MAKE AN ANTI-AD WITH RICKY GERVAIS",
-  "brand": "OPTUS",
-  "agency": "M&C SAATCHI SYDNEY",
-  "raw": "LET’S MAKE AN ANTI-AD WITH RICKY GERVAIS – OPTUS (M&C SAATCHI SYDNEY)",
-  "links": [
-   "https://adsspot.me/media/case-study/optus-lets-make-an-anti-ad-with-ricky-gervais-dd7fde4276d4"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Social Video",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "OPTUS",
-   "product": null,
-   "agencies": [
-    "EMOTIVE Sydney / M&C SAATCHI Sydney"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Social Video",
-     "count": 1,
-     "entry_titles": [
-      "LET'S MAKE AN ANTI-AD WITH RICKY GERVAIS"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：EMOTIVE Sydney / M&C SAATCHI Sydney"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/fec63ff9ec64475d92405f796789ceed"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/lets-make-an-anti-ad-with-ricky-gervais-129729"
-  ]
- },
- {
-  "id": "ltwm-07652",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "NOW IT IS OUR TURN TO WALK",
-  "brand": "NORWEGIAN CHURCH AID",
-  "agency": "POL OSLO",
-  "raw": "NOW IT IS OUR TURN TO WALK – NORWEGIAN CHURCH AID (POL OSLO)",
-  "links": [
-   "https://www2.eurobest.com/winners/2015/interactive/entry.cfm?entryid=3382&award=3"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Social Video",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "NORWEGIAN CHURCH AID",
-   "product": null,
-   "agencies": [
-    "POL Oslo"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Social Video",
-     "count": 1,
-     "entry_titles": [
-      "NOW IT IS OUR TURN TO WALK"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：POL Oslo"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/708410586e3f4dd1fe5c4e8c07da3924"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/now-it-is-our-turn-to-walk-110289"
-  ]
- },
- {
-  "id": "ltwm-07653",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "INSTACONCERT",
-  "brand": "TELEKOM",
-  "agency": "DDB GROUP DÜSSELDORF",
-  "raw": "INSTACONCERT – TELEKOM (DDB GROUP DÜSSELDORF)",
-  "links": [
-   "https://www.youtube.com/watch?v=JYuLWLEB01E&ab_channel=DDBWorldwide"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Interactive Video",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "TELEKOM",
-   "product": null,
-   "agencies": [
-    "DDB GROUP DÜSSELDORF"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Interactive Video",
-     "count": 1,
-     "entry_titles": [
-      "INSTACONCERT"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：DDB GROUP DÜSSELDORF"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/47c08d432c544966b5be8496bca44b23"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/instaconcert-111494"
-  ]
- },
- {
-  "id": "ltwm-07655",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "HELLO PLAY!",
-  "brand": "BNP PARIBAS",
-  "agency": "WE ARE SOCIAL PARIS",
-  "raw": "HELLO PLAY! – BNP PARIBAS (WE ARE SOCIAL PARIS)",
-  "links": [
-   "https://clios.com/music/winner/digital-social/hello-bank-/hello-play--192"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Cyber",
+    "level": "Silver",
+    "category": "PR",
     "subcategory": "Financial Services",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Engagement Platform",
+    "category": "Branded Content & Entertainment",
+    "subcategory": "Branded Live experience",
     "count": 1,
     "source_count": 1
    }
@@ -491,39 +155,481 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "BNP PARIBAS",
-   "product": null,
+   "brand": "BBVA",
+   "product": "BBVA",
    "agencies": [
-    "WE ARE SOCIAL Paris"
+    "FAHRENHEIT DDB Lima"
    ],
    "awards": [
     {
-     "level": "Bronze",
-     "category": "Cyber",
+     "level": "Silver",
+     "category": "PR",
      "subcategory": "Financial Services",
      "count": 1,
      "entry_titles": [
-      "HELLO PLAY!"
+      "THE CONCERT NO ONE WAS WAITING FOR"
      ]
     },
     {
      "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Engagement Platform",
+     "category": "Branded Content & Entertainment",
+     "subcategory": "Branded Live experience",
      "count": 1,
      "entry_titles": [
-      "HELLO PLAY!"
+      "THE CONCERT NO ONE WAS WAITING FOR"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion×2｜代理商：WE ARE SOCIAL Paris"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類銀獅 PR Silver Lion、Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：FAHRENHEIT DDB Lima"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/fe69d2b08ec24559baa031a6dba5480a"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/698d11d80e524650fcb7215ba274575c"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/hello-play-130398",
-   "https://www.lovethework.com/en/work/entries/hello-play-130138"
+   "https://www.lovethework.com/en/work/entries/the-concert-no-one-was-waiting-for-125150",
+   "https://www.lovethework.com/en/work/entries/the-concert-no-one-was-waiting-for-122320"
+  ]
+ },
+ {
+  "id": "ltwm-07554",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "SAFETY WI-FI",
+  "brand": "FIAT",
+  "agency": "LEO BURNETT TAILOR MADE SÃO PAULO",
+  "raw": "SAFETY WI-FI – FIAT (LEO BURNETT TAILOR MADE SÃO PAULO)",
+  "links": [
+   "https://clios.com/awards/winner/direct/fiat/safety-wi-fi-1151"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Transit",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "FIAT",
+   "product": "INSTITUTIONAL",
+   "agencies": [
+    "LEO BURNETT TAILOR MADE São Paulo"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Outdoor",
+     "subcategory": "Transit",
+     "count": 1,
+     "entry_titles": [
+      "SAFETY WI-FI"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion｜代理商：LEO BURNETT TAILOR MADE São Paulo"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/5e1ab62024bb4451d91f0d84386f986b"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/safety-wi-fi-115188"
+  ]
+ },
+ {
+  "id": "ltwm-07551",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "KINGS AND QUEENS OF THE COURT",
+  "brand": "BELL MEDIA",
+  "agency": "LEO BURNETT TORONTO",
+  "raw": "KINGS AND QUEENS OF THE COURT – BELL MEDIA (LEO BURNETT TORONTO)",
+  "links": [
+   "https://clios.com/awards/winner/out-of-home/bell-media/serena-773"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Adapted Billboards and Outdoor Posters",
+    "count": 1,
+    "source_count": 3
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "BELL MEDIA (TSN)",
+   "product": "US OPEN",
+   "agencies": [
+    "LEO BURNETT TORONTO"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Outdoor",
+     "subcategory": "Adapted Billboards and Outdoor Posters",
+     "count": 1,
+     "entry_titles": [
+      "SERENA",
+      "MILOS",
+      "EUGENIE"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion｜代理商：LEO BURNETT TORONTO"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/f12d86d3af424402ba93e5195cf7c9ed"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/eugenie-114759",
+   "https://www.lovethework.com/en/work/entries/milos-114760",
+   "https://www.lovethework.com/en/work/entries/serena-114787"
+  ]
+ },
+ {
+  "id": "ltwm-07550",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "WARNINGS",
+  "brand": "ESSEL GROUP",
+  "agency": "MCCANN WORLDGROUP MUMBAI",
+  "raw": "WARNINGS – ESSEL GROUP (MCCANN WORLDGROUP MUMBAI)",
+  "links": [
+   "https://www.behance.net/gallery/27229183/Dish-TV-Child-Lock"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Press",
+    "subcategory": "Commercial Public Services",
+    "count": 1,
+    "source_count": 2
+   },
+   {
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Commercial Public Services",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Commercial Public Services",
+    "count": 1,
+    "source_count": 3
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "ESSEL GROUP",
+   "product": "DISH TV",
+   "agencies": [
+    "McCANN WORLDGROUP INDIA Mumbai"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Press",
+     "subcategory": "Commercial Public Services",
+     "count": 1,
+     "entry_titles": [
+      "PUDDLE",
+      "BASEMENT"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Outdoor",
+     "subcategory": "Commercial Public Services",
+     "count": 1,
+     "entry_titles": [
+      "BASEMENT"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Outdoor",
+     "subcategory": "Commercial Public Services",
+     "count": 1,
+     "entry_titles": [
+      "SOFA",
+      "PUDDLE",
+      "BASEMENT"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion×2、Press類銀獅 Press Silver Lion｜代理商：McCANN WORLDGROUP INDIA Mumbai"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/ca3dc8e826cd4100e20c235e99a5dd77"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/basement-117187",
+   "https://www.lovethework.com/en/work/entries/puddle-117204",
+   "https://www.lovethework.com/en/work/entries/basement-115412"
+  ]
+ },
+ {
+  "id": "ltwm-07552",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "LIFE TIME CLOCK",
+  "brand": "STIFTUNG FÜRS LEBEN",
+  "agency": "SERVICEPLAN MUNICH",
+  "raw": "LIFE TIME CLOCK – STIFTUNG FÜRS LEBEN (SERVICEPLAN MUNICH)",
+  "links": [
+   "https://clios.com/health/winner/public-relations/stiftung-f%C3%9Crs-leben/life-time-clock-1404"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Special Build",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Health & Wellness",
+    "subcategory": "Fundraising & Advocacy",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "STIFTUNG FÜRS LEBEN - DEUTSCHE STIFTUNG ORGANTRANSPLANTATION (DSO)",
+   "product": "FOR LIFE - FOR ORGAN-DONATIONS",
+   "agencies": [
+    "SERVICEPLAN Munich",
+    "SERVICEPLAN Munich / SERVICEPLAN HEALTH & LIFE Munich"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Outdoor",
+     "subcategory": "Special Build",
+     "count": 1,
+     "entry_titles": [
+      "LIFE TIME CLOCK"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Health & Wellness",
+     "subcategory": "Fundraising & Advocacy",
+     "count": 1,
+     "entry_titles": [
+      "LIFE TIME CLOCK"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion、健康與保健類銅獅 Health & Wellness Bronze Lion｜代理商：SERVICEPLAN Munich / SERVICEPLAN Munich / SERVICEPLAN HEALTH & LIFE Munich"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/a9a72904b55c4eebff4184970e265dbe"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/life-time-clock-131683",
+   "https://www.lovethework.com/en/work/entries/life-time-clock-121272"
+  ]
+ },
+ {
+  "id": "ltwm-07549",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "EMOJI",
+  "brand": "BAIDU",
+  "agency": "Y&R SHANGHAI",
+  "raw": "EMOJI – BAIDU (Y&R SHANGHAI)",
+  "links": [
+   "http://www.adeevee.com/2015/07/baidu-cheeky-happy-crazy-smiley-print/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Press",
+    "subcategory": "Commercial Public Services",
+    "count": 1,
+    "source_count": 4
+   },
+   {
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Commercial Public Services",
+    "count": 1,
+    "source_count": 4
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "BAIDU",
+   "product": "ONLINE SAFETY PRODUCT",
+   "agencies": [
+    "Y&R SHANGHAI"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Press",
+     "subcategory": "Commercial Public Services",
+     "count": 1,
+     "entry_titles": [
+      "HAPPY",
+      "CHEEKY",
+      "SMILEY",
+      "CRAZY"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Outdoor",
+     "subcategory": "Commercial Public Services",
+     "count": 1,
+     "entry_titles": [
+      "HAPPY",
+      "CHEEKY",
+      "SMILEY",
+      "CRAZY"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion、Press類銅獅 Press Bronze Lion｜代理商：Y&R SHANGHAI"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/ae1e01b9dc2540729851a2ca716f054e"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/crazy-116978",
+   "https://www.lovethework.com/en/work/entries/smiley-116979",
+   "https://www.lovethework.com/en/work/entries/cheeky-117001"
+  ]
+ },
+ {
+  "id": "ltwm-07870",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "SADLY, WE HAVE MORE THAN NATURE",
+  "brand": "GETTY IMAGES",
+  "agency": "ALMAPBBDO SÃO PAULO",
+  "raw": "SADLY, WE HAVE MORE THAN NATURE – GETTY IMAGES (ALMAPBBDO SÃO PAULO)",
+  "links": [
+   "https://cargocollective.com/andresallowicz/Getty-Images-Animals-Bronze-Cannes-Outdoor-2015-Merit-One-Show-2016"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Outdoor",
+    "subcategory": "Business Equipment & Services",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "GETTY IMAGES",
+   "product": "GETTY IMAGES",
+   "agencies": [
+    "ALMAPBBDO São Paulo"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Outdoor",
+     "subcategory": "Business Equipment & Services",
+     "count": 1,
+     "entry_titles": [
+      "AMUR LEOPARD"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：ALMAPBBDO São Paulo"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/69204b626b8e4a66edc049b7536ef078"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/amur-leopard-132372"
+  ]
+ },
+ {
+  "id": "ltwm-07859",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "WITH NO ROOM TO GET HURT",
+  "brand": "FIAT 500",
+  "agency": "MADE MEXICO CITY",
+  "raw": "WITH NO ROOM TO GET HURT – FIAT 500 (MADE MEXICO CITY)",
+  "links": [
+   "https://adsspot.me/media/prints/fiat-ok-3c021dae593b"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Outdoor",
+    "subcategory": "Cars & Automotive Services",
+    "count": 1,
+    "source_count": 2
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "FIAT",
+   "product": "FIAT 500",
+   "agencies": [
+    "MADE Mexico City"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Outdoor",
+     "subcategory": "Cars & Automotive Services",
+     "count": 1,
+     "entry_titles": [
+      "OK",
+      "TUMBS UP"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：MADE Mexico City"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/6e526160cb3d4de6a446cdcb8cce3d8f"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/tumbs-up-131636",
+   "https://www.lovethework.com/en/work/entries/ok-131637"
   ]
  }
 ]

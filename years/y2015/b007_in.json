@@ -1,23 +1,23 @@
 [
  {
-  "id": "ltwm-07319",
+  "id": "ltwm-07293",
   "year": 2015,
   "tier": "GOLD",
   "categories": [],
-  "title": "THE OCEAN",
-  "brand": "CONSERVATION INTERNATIONAL",
-  "agency": "TBWA\\MEDIA ARTS LAB LOS ANGELES",
-  "raw": "THE OCEAN – CONSERVATION INTERNATIONAL (TBWA\\MEDIA ARTS LAB LOS ANGELES)",
+  "title": "THE BEAR AND THE HARE",
+  "brand": "JOHN LEWIS",
+  "agency": "ADAM&EVEDDB LONDON",
+  "raw": "THE BEAR AND THE HARE – JOHN LEWIS (ADAM&EVEDDB LONDON)",
   "links": [
-   "https://vimeo.com/132299364"
+   "https://vimeo.com/78740926"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Gold",
-    "category": "Film Craft",
-    "subcategory": "Script",
+    "category": "Creative Effectiveness",
+    "subcategory": "Creative Effectiveness",
     "count": 1,
     "source_count": 1
    }
@@ -25,71 +25,542 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "CONSERVATION INTERNATIONAL",
-   "product": "CONSERVATION INTERNATIONAL",
+   "brand": "JOHN LEWIS",
+   "product": "DEPARTMENT STORE",
    "agencies": [
-    "TBWA\\MEDIA ARTS LAB Los Angeles / MAL FOR GOOD Los Angeles"
+    "ADAM&EVEDDB London"
    ],
    "awards": [
     {
      "level": "Gold",
-     "category": "Film Craft",
-     "subcategory": "Script",
+     "category": "Creative Effectiveness",
+     "subcategory": "Creative Effectiveness",
      "count": 1,
      "entry_titles": [
-      "THE OCEAN"
+      "THE BEAR AND THE HARE"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片工藝類金獅 Film Craft Gold Lion｜代理商：TBWA\\MEDIA ARTS LAB Los Angeles / MAL FOR GOOD Los Angeles"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意實效類金獅 Creative Effectiveness Gold Lion｜代理商：ADAM&EVEDDB London"
   },
   "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/7sDFJEwnUZaGwijBHq2OXr/aa1a7fa09f91cf7a197ee7d0c16cac41/LTW_placeholder_3.svg"
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/db313ea0ea0e42f387db7e9308cc685e/storyboard_000002.jpg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-ocean-100973"
+   "https://www.lovethework.com/en/work/entries/the-bear-and-the-hare-122589"
   ]
  },
  {
-  "id": "ltwm-07320",
+  "id": "ltwm-07285",
   "year": 2015,
   "tier": "GOLD",
   "categories": [],
-  "title": "37 DAYS",
-  "brand": "ATLANTIC GROUP",
-  "agency": "LEO BURNETT PARIS",
-  "raw": "37 DAYS – ATLANTIC GROUP (LEO BURNETT PARIS)",
+  "title": "HOUSE OF MAMBA",
+  "brand": "NIKE",
+  "agency": "AKQA LONDON",
+  "raw": "HOUSE OF MAMBA – NIKE (AKQA LONDON)",
   "links": [
-   "https://vimeo.com/132299416"
+   "https://www.dandad.org/awards/professional/2015/digital-design/24319/house-of-mamba/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
+    "level": "Gold",
+    "category": "Cyber",
+    "subcategory": "Spatial Tech (incl. Digital Installation/Exhibit)",
+    "count": 1,
+    "source_count": 1
+   },
+   {
     "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "User Experience",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Promo & Activation",
+    "subcategory": "Use of New Technology in a Promotional Campaign",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Design",
+    "subcategory": "Spatial Installation",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Design",
+    "subcategory": "Digital Installations",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Branded Content & Entertainment",
+    "subcategory": "Branded Live experience",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "NIKE",
+   "product": "NIKE BASKETBALL CHINA",
+   "agencies": [
+    "AKQA London / AKQA Shanghai"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Cyber",
+     "subcategory": "Spatial Tech (incl. Digital Installation/Exhibit)",
+     "count": 1,
+     "entry_titles": [
+      "HOUSE OF MAMBA"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Cyber",
+     "subcategory": "User Experience",
+     "count": 1,
+     "entry_titles": [
+      "HOUSE OF MAMBA"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Promo & Activation",
+     "subcategory": "Use of New Technology in a Promotional Campaign",
+     "count": 1,
+     "entry_titles": [
+      "HOUSE OF MAMBA"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Design",
+     "subcategory": "Spatial Installation",
+     "count": 1,
+     "entry_titles": [
+      "HOUSE OF MAMBA"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Design",
+     "subcategory": "Digital Installations",
+     "count": 1,
+     "entry_titles": [
+      "HOUSE OF MAMBA"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Branded Content & Entertainment",
+     "subcategory": "Branded Live experience",
+     "count": 1,
+     "entry_titles": [
+      "HOUSE OF MAMBA"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類金獅 Branded Content & Entertainment Gold Lion、Cyber類金獅 Cyber Gold Lion、Promo & Activation類金獅 Promo & Activation Gold Lion、設計類銀獅 Design Silver Lion、Cyber類銅獅 Cyber Bronze Lion、設計類銅獅 Design Bronze Lion｜代理商：AKQA London / AKQA Shanghai"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/269c7828a6ed4c8d9e74a8cd9364fdd6/storyboard_000002.jpg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/house-of-mamba-85753",
+   "https://www.lovethework.com/en/work/entries/house-of-mamba-85728",
+   "https://www.lovethework.com/en/work/entries/house-of-mamba-85724"
+  ]
+ },
+ {
+  "id": "ltwm-07294",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "THIS IS WHOLESOME",
+  "brand": "MONDELÉZ INTERNATIONAL",
+  "agency": "DROGA5 NEW YORK",
+  "raw": "THIS IS WHOLESOME – MONDELÉZ INTERNATIONAL (DROGA5 NEW YORK)",
+  "links": [
+   "https://www.dandad.org/awards/professional/2015/white-pencil-creativity-for-good/24210/this-is-wholesome/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Creative Effectiveness",
+    "subcategory": "Creative Effectiveness",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "MONDELÉZ INTERNATIONAL",
+   "product": "HONEYMAID",
+   "agencies": [
+    "DROGA5 New York"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Creative Effectiveness",
+     "subcategory": "Creative Effectiveness",
+     "count": 1,
+     "entry_titles": [
+      "THIS IS WHOLESOME"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意實效類金獅 Creative Effectiveness Gold Lion｜代理商：DROGA5 New York"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/6eab53280a324e1ba77c5ea423b7dfad/storyboard_000002.jpg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/this-is-wholesome-122579"
+  ]
+ },
+ {
+  "id": "ltwm-07291",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "MAKEUP GENIUS",
+  "brand": "L’ORÉAL",
+  "agency": "MCCANN PARIS",
+  "raw": "MAKEUP GENIUS – L’ORÉAL (MCCANN PARIS)",
+  "links": [
+   "https://www.youtube.com/watch?v=R5OnjiDa71s"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Direct",
+    "subcategory": "Use of Mobile Marketing",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Direct",
+    "subcategory": "Use of New Technology in a Direct Marketing Campaign",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Direct",
+    "subcategory": "Fast Moving Consumer Goods",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Customer in-Store Experience",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Promo & Activation",
+    "subcategory": "Fast Moving Consumer Goods (not including Food & Drinks)",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Branded Content & Entertainment",
+    "subcategory": "Original Branded Digital or Social Media",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "L'ORÉAL PARIS",
+   "product": "MAKEUP PRODUCTS / VIRTUAL MIRROR",
+   "agencies": [
+    "McCANN PARIS"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Direct",
+     "subcategory": "Use of Mobile Marketing",
+     "count": 1,
+     "entry_titles": [
+      "MAKEUP GENIUS"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Direct",
+     "subcategory": "Use of New Technology in a Direct Marketing Campaign",
+     "count": 1,
+     "entry_titles": [
+      "MAKEUP GENIUS"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Direct",
+     "subcategory": "Fast Moving Consumer Goods",
+     "count": 1,
+     "entry_titles": [
+      "MAKEUP GENIUS"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Promo & Activation",
+     "subcategory": "Use of Customer in-Store Experience",
+     "count": 1,
+     "entry_titles": [
+      "MAKEUP GENIUS"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Promo & Activation",
+     "subcategory": "Fast Moving Consumer Goods (not including Food & Drinks)",
+     "count": 1,
+     "entry_titles": [
+      "MAKEUP GENIUS"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Mobile",
+     "subcategory": "",
+     "count": 1,
+     "entry_titles": [
+      "MAKEUP GENIUS"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Mobile",
+     "subcategory": "",
+     "count": 1,
+     "entry_titles": [
+      "MAKEUP GENIUS"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Mobile",
+     "subcategory": "",
+     "count": 1,
+     "entry_titles": [
+      "MAKEUP GENIUS"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Branded Content & Entertainment",
+     "subcategory": "Original Branded Digital or Social Media",
+     "count": 1,
+     "entry_titles": [
+      "MAKEUP GENIUS"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類金獅 Branded Content & Entertainment Gold Lion、直效類金獅 Direct Gold Lion、行動類金獅 Mobile Gold Lion、Promo & Activation類金獅 Promo & Activation Gold Lion、直效類銀獅 Direct Silver Lion×2、行動類銀獅 Mobile Silver Lion、Promo & Activation類銀獅 Promo & Activation Silver Lion、行動類銅獅 Mobile Bronze Lion｜代理商：McCANN PARIS"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/09c3bd76e0f24ae3d302dc47bdfb2c95/storyboard_000002.jpg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/makeup-genius-121860",
+   "https://www.lovethework.com/en/work/entries/makeup-genius-109379",
+   "https://www.lovethework.com/en/work/entries/makeup-genius-109378"
+  ]
+ },
+ {
+  "id": "ltwm-07330",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "RIPPLE",
+  "brand": "NIKE GOLF",
+  "agency": "WIEDEN+KENNEDY PORTLAND",
+  "raw": "RIPPLE – NIKE GOLF (WIEDEN+KENNEDY PORTLAND)",
+  "links": [
+   "https://clios.com/awards/winner/180"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Film",
+    "subcategory": "Clothing, Footwear & Accessories",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "NIKE GOLF",
+   "product": "APPAREL AND FOOTWEAR",
+   "agencies": [
+    "WIEDEN+KENNEDY Portland"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Film",
+     "subcategory": "Clothing, Footwear & Accessories",
+     "count": 1,
+     "entry_titles": [
+      "RIPPLE"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類金獅 Film Gold Lion｜代理商：WIEDEN+KENNEDY Portland"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/21oKzZpgKK38z6CH22xvKi/2891cea86e6d97a93344f9f8fd0e6153/LTW_placeholder_2.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/ripple-120195"
+  ]
+ },
+ {
+  "id": "ltwm-07337",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "RISK EVERYTHING",
+  "brand": "NIKE",
+  "agency": "WIEDEN+KENNEDY PORTLAND",
+  "raw": "RISK EVERYTHING – NIKE (WIEDEN+KENNEDY PORTLAND)",
+  "links": [
+   "https://vimeo.com/132183029"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Media",
+    "subcategory": "Use of Digital Content",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Integrated",
+    "subcategory": "Titanium and Integrated",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "NIKE",
+   "product": "NIKE",
+   "agencies": [
+    "WIEDEN+KENNEDY Portland",
+    "WIEDEN+KENNEDY Portland / RAZORFISH Seattle"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Media",
+     "subcategory": "Use of Digital Content",
+     "count": 1,
+     "entry_titles": [
+      "RISK EVERYTHING"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Integrated",
+     "subcategory": "Titanium and Integrated",
+     "count": 1,
+     "entry_titles": [
+      "RISK EVERYTHING"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類金獅 Media Gold Lion、Integrated類銅獅 Integrated Bronze Lion｜代理商：WIEDEN+KENNEDY Portland / WIEDEN+KENNEDY Portland / RAZORFISH Seattle"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/0192dfb015f14dde8e9d0e1566fbb3d6/storyboard_000002.jpg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/risk-everything-85837",
+   "https://www.lovethework.com/en/work/entries/risk-everything-85834"
+  ]
+ },
+ {
+  "id": "ltwm-07484",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "THE LAST GAME",
+  "brand": "NIKE",
+  "agency": "WIEDEN+KENNEDY PORTLAND",
+  "raw": "THE LAST GAME – NIKE (WIEDEN+KENNEDY PORTLAND)",
+  "links": [
+   "https://www.youtube.com/watch?v=CJ2xU9GUPVY"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
     "category": "Film",
     "subcategory": "Other Consumer Products (incl. Durable Goods)",
     "count": 1,
     "source_count": 1
    },
    {
-    "level": "Gold",
+    "level": "Silver",
     "category": "Film Craft",
-    "subcategory": "Production Design/Art Direction",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Film Craft",
-    "subcategory": "Achievement in Production",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Film Craft",
-    "subcategory": "Use of Original Music",
+    "subcategory": "Animation",
     "count": 1,
     "source_count": 1
    }
@@ -97,71 +568,155 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "ATLANTIC GROUP",
-   "product": "HEATERS",
+   "brand": "NIKE",
+   "product": "FOOTWEAR/APPAREL",
    "agencies": [
-    "LEO BURNETT FRANCE Paris"
+    "WIEDEN+KENNEDY Portland",
+    "PASSION PICTURES London / WIEDEN+KENNEDY Portland"
    ],
    "awards": [
     {
-     "level": "Bronze",
+     "level": "Silver",
      "category": "Film",
      "subcategory": "Other Consumer Products (incl. Durable Goods)",
      "count": 1,
      "entry_titles": [
-      "37 DAYS"
+      "THE LAST GAME"
      ]
     },
     {
-     "level": "Gold",
+     "level": "Silver",
      "category": "Film Craft",
-     "subcategory": "Production Design/Art Direction",
+     "subcategory": "Animation",
      "count": 1,
      "entry_titles": [
-      "37 DAYS"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Film Craft",
-     "subcategory": "Achievement in Production",
-     "count": 1,
-     "entry_titles": [
-      "37 DAYS"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Film Craft",
-     "subcategory": "Use of Original Music",
-     "count": 1,
-     "entry_titles": [
-      "37 DAYS"
+      "THE LAST GAME"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片工藝類金獅 Film Craft Gold Lion×2、影片類銅獅 Film Bronze Lion、影片工藝類銅獅 Film Craft Bronze Lion｜代理商：LEO BURNETT FRANCE Paris"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銀獅 Film Silver Lion、影片工藝類銀獅 Film Craft Silver Lion｜代理商：WIEDEN+KENNEDY Portland / PASSION PICTURES London / WIEDEN+KENNEDY Portland"
   },
   "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/21oKzZpgKK38z6CH22xvKi/2891cea86e6d97a93344f9f8fd0e6153/LTW_placeholder_2.svg"
+   "https://images.ctfassets.net/8ha5xom4da7e/3duqCqeHDt9hMAdtuQjc3V/3f6a8c56aeb415ac19cd5dd916fa6976/LTW_placeholder_1.svg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/37-days-134946",
-   "https://www.lovethework.com/en/work/entries/37-days-123748",
-   "https://www.lovethework.com/en/work/entries/37-days-123573"
+   "https://www.lovethework.com/en/work/entries/the-last-game-85764",
+   "https://www.lovethework.com/en/work/entries/the-last-game-124281"
   ]
  },
  {
-  "id": "ltwm-07321",
+  "id": "ltwm-07623",
   "year": 2015,
-  "tier": "GOLD",
+  "tier": "BRONZE",
   "categories": [],
-  "title": "EVERY DAY IS DAY ONE",
-  "brand": "SAMSUNG",
-  "agency": "72ANDSUNNY AMSTERDAM",
-  "raw": "EVERY DAY IS DAY ONE – SAMSUNG (72ANDSUNNY AMSTERDAM)",
+  "title": "YOUR YEAR",
+  "brand": "NIKE",
+  "agency": "AKQA PORTLAND",
+  "raw": "YOUR YEAR – NIKE (AKQA PORTLAND)",
   "links": [
-   "https://www.dandad.org/awards/professional/2015/film-advertising-crafts/24844/every-day-is-day-one/"
+   "https://www.dandad.org/awards/professional/2015/crafts-for-advertising/24105/your-year/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Creative Data",
+    "subcategory": "Data Storytelling",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "NIKE",
+   "product": "NIKE+ APP",
+   "agencies": [
+    "AKQA London / AKQA Portland"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Creative Data",
+     "subcategory": "Data Storytelling",
+     "count": 1,
+     "entry_titles": [
+      "YOUR YEAR. DIRECTED BY NIKE+."
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意數據類銅獅 Creative Data Bronze Lion｜代理商：AKQA London / AKQA Portland"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/2c26d3d4cc2848ce9b56f5fdf4735f8b"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/your-year-directed-by-nike-85758"
+  ]
+ },
+ {
+  "id": "ltwm-07767",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "THE OREO ECLIPSE",
+  "brand": "MONDELEZ INTERNATIONAL",
+  "agency": "PHD LONDON",
+  "raw": "THE OREO ECLIPSE – MONDELEZ INTERNATIONAL (PHD LONDON)",
+  "links": [
+   "https://www.youtube.com/watch?v=RBJA6sdZF_M"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Media",
+    "subcategory": "Fast Moving Consumer Goods",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "MONDELÉZ INTERNATIONAL",
+   "product": "OREO",
+   "agencies": [
+    "PHD London / DRUM London / FCB INFERNO London"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Media",
+     "subcategory": "Fast Moving Consumer Goods",
+     "count": 1,
+     "entry_titles": [
+      "THE OREO ECLIPSE"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銅獅 Media Bronze Lion｜代理商：PHD London / DRUM London / FCB INFERNO London"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/6fea33ce76784f6190af1f3930a8622f"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/the-oreo-eclipse-107055"
+  ]
+ },
+ {
+  "id": "ltwm-07885",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "LEBRON JAMES TOGETHER",
+  "brand": "NIKE",
+  "agency": "WIEDEN+KENNEDY PORTLAND",
+  "raw": "LEBRON JAMES TOGETHER – NIKE (WIEDEN+KENNEDY PORTLAND)",
+  "links": [
+   "https://clios.com/awards/winner/film/nike/lebron-james-together-181"
   ],
   "zh_brief": "",
   "note_from_selection": "",
@@ -172,30 +727,15 @@
     "subcategory": "Corporate Image & Communication",
     "count": 1,
     "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Film Craft",
-    "subcategory": "Use of Licensed/Adapted Music",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Film Craft",
-    "subcategory": "Cinematography",
-    "count": 1,
-    "source_count": 1
    }
   ],
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "SAMSUNG",
-   "product": "ASP SURF SPONSORSHIP, SAMSUNG GS5",
+   "brand": "NIKE",
+   "product": "FOOTWEAR, CLOTHING & ACCESSORIES",
    "agencies": [
-    "72ANDSUNNY AMSTERDAM",
-    "EXIT FILMS Melbourne / 72ANDSUNNY AMSTERDAM"
+    "WIEDEN+KENNEDY Portland"
    ],
    "awards": [
     {
@@ -204,428 +744,17 @@
      "subcategory": "Corporate Image & Communication",
      "count": 1,
      "entry_titles": [
-      "EVERY DAY IS DAY ONE"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Film Craft",
-     "subcategory": "Use of Licensed/Adapted Music",
-     "count": 1,
-     "entry_titles": [
-      "EVERY DAY IS DAY ONE"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Film Craft",
-     "subcategory": "Cinematography",
-     "count": 1,
-     "entry_titles": [
-      "EVERY DAY IS DAY ONE"
+      "LEBRON JAMES TOGETHER"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片工藝類金獅 Film Craft Gold Lion、影片工藝類銀獅 Film Craft Silver Lion、影片類銅獅 Film Bronze Lion｜代理商：72ANDSUNNY AMSTERDAM / EXIT FILMS Melbourne / 72ANDSUNNY AMSTERDAM"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銅獅 Film Bronze Lion｜代理商：WIEDEN+KENNEDY Portland"
   },
   "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/3duqCqeHDt9hMAdtuQjc3V/3f6a8c56aeb415ac19cd5dd916fa6976/LTW_placeholder_1.svg"
+   "https://images.ctfassets.net/8ha5xom4da7e/21oKzZpgKK38z6CH22xvKi/2891cea86e6d97a93344f9f8fd0e6153/LTW_placeholder_2.svg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/every-day-is-day-one-135972",
-   "https://www.lovethework.com/en/work/entries/every-day-is-day-one-124408",
-   "https://www.lovethework.com/en/work/entries/every-day-is-day-one-124351"
-  ]
- },
- {
-  "id": "ltwm-07322",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "PIANO",
-  "brand": "DIAGEO",
-  "agency": "PAPAMUSIC BUENOS AIRES / SANTO BUENOS AIRES",
-  "raw": "PIANO – DIAGEO (PAPAMUSIC BUENOS AIRES / SANTO BUENOS AIRES)",
-  "links": [
-   "https://vimeo.com/132299451"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Film Craft",
-    "subcategory": "Use of Licensed/Adapted Music",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "DIAGEO",
-   "product": "BUCHANAN´S",
-   "agencies": [
-    "PAPAMUSIC Buenos Aires / SANTO Buenos Aires"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Film Craft",
-     "subcategory": "Use of Licensed/Adapted Music",
-     "count": 1,
-     "entry_titles": [
-      "PIANO"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片工藝類金獅 Film Craft Gold Lion｜代理商：PAPAMUSIC Buenos Aires / SANTO Buenos Aires"
-  },
-  "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/3duqCqeHDt9hMAdtuQjc3V/3f6a8c56aeb415ac19cd5dd916fa6976/LTW_placeholder_1.svg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/piano-101186"
-  ]
- },
- {
-  "id": "ltwm-07323",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "EVERYONE IS GAY",
-  "brand": "MIX BRAZIL CULTURAL AND DIVERSITY ASSOCIATION",
-  "agency": "NEOGAMA BBH SÃO PAULO",
-  "raw": "EVERYONE IS GAY – MIX BRAZIL CULTURAL AND DIVERSITY ASSOCIATION (NEOGAMA BBH SÃO PAULO)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2015/film-advertising-crafts/24812/everyone-is-gay/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Film Craft",
-    "subcategory": "Use of Licensed/Adapted Music",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "MIX BRAZIL CULTURAL AND DIVERSITY ASSOCIATION",
-   "product": "22º MIX BRASIL FESTIVAL OF CULTURE AND DIVERSITY",
-   "agencies": [
-    "NEOGAMA BBH São Paulo"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Film Craft",
-     "subcategory": "Use of Licensed/Adapted Music",
-     "count": 1,
-     "entry_titles": [
-      "EVERYONE IS GAY"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片工藝類金獅 Film Craft Gold Lion｜代理商：NEOGAMA BBH São Paulo"
-  },
-  "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/7sDFJEwnUZaGwijBHq2OXr/aa1a7fa09f91cf7a197ee7d0c16cac41/LTW_placeholder_3.svg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/everyone-is-gay-100832"
-  ]
- },
- {
-  "id": "ltwm-07324",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "BIRTH",
-  "brand": "AUDI",
-  "agency": "BBH LONDON",
-  "raw": "BIRTH – AUDI (BBH LONDON)",
-  "links": [
-   "https://clios.com/awards/winner/film-technique/birth-13186"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Film Craft",
-    "subcategory": "Animation",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "AUDI",
-   "product": "AUDI RS3",
-   "agencies": [
-    "MILL+ London / BBH London"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Film Craft",
-     "subcategory": "Animation",
-     "count": 1,
-     "entry_titles": [
-      "BIRTH"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片工藝類金獅 Film Craft Gold Lion｜代理商：MILL+ London / BBH London"
-  },
-  "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/3duqCqeHDt9hMAdtuQjc3V/3f6a8c56aeb415ac19cd5dd916fa6976/LTW_placeholder_1.svg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/birth-123950"
-  ]
- },
- {
-  "id": "ltwm-07325",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "WAR ON DRUGO",
-  "brand": "INSTITUTO IGARAPÉ",
-  "agency": "ALMAPBBDO SÃO PAULO",
-  "raw": "WAR ON DRUGO – INSTITUTO IGARAPÉ (ALMAPBBDO SÃO PAULO)",
-  "links": [
-   "https://vimeo.com/132299486"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Film Craft",
-    "subcategory": "Animation",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "INSTITUTO IGARAPÉ",
-   "product": "GLOBAL COMISSION ON DRUG POLICY",
-   "agencies": [
-    "ALMAPBBDO São Paulo"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Film Craft",
-     "subcategory": "Animation",
-     "count": 1,
-     "entry_titles": [
-      "WAR ON DRUGO"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片工藝類金獅 Film Craft Gold Lion｜代理商：ALMAPBBDO São Paulo"
-  },
-  "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/7sDFJEwnUZaGwijBHq2OXr/aa1a7fa09f91cf7a197ee7d0c16cac41/LTW_placeholder_3.svg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/war-on-drugo-100942"
-  ]
- },
- {
-  "id": "ltwm-07326",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "PROUDLY SEEKING PLEASURE",
-  "brand": "UNILEVER",
-  "agency": "LOLA LOWE & PARTNERS MADRID",
-  "raw": "PROUDLY SEEKING PLEASURE – UNILEVER (LOLA LOWE & PARTNERS MADRID)",
-  "links": [
-   "https://www2.eurobest.com/winners/2015/craft_film/entry.cfm?entryid=1272&award=4"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Film",
-    "subcategory": "Sweet Foods & Snacks",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "UNILEVER",
-   "product": "MAGNUM",
-   "agencies": [
-    "LOLA LOWE & PARTNERS Madrid"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Film",
-     "subcategory": "Sweet Foods & Snacks",
-     "count": 1,
-     "entry_titles": [
-      "PROUDLY SEEKING PLEASURE"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類金獅 Film Gold Lion｜代理商：LOLA LOWE & PARTNERS Madrid"
-  },
-  "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/3duqCqeHDt9hMAdtuQjc3V/3f6a8c56aeb415ac19cd5dd916fa6976/LTW_placeholder_1.svg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/proudly-seeking-pleasure-134993"
-  ]
- },
- {
-  "id": "ltwm-07327",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "MADE OF BLACK",
-  "brand": "DIAGEO",
-  "agency": "AMV BBDO LONDON/BBDO SOUTH AFRICA JOHANNESBURG",
-  "raw": "MADE OF BLACK – DIAGEO (AMV BBDO LONDON/BBDO SOUTH AFRICA JOHANNESBURG)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2015/film-advertising-crafts/24776/made-of-black/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Film",
-    "subcategory": "Alcoholic Drinks",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Film Craft",
-    "subcategory": "Use of Licensed/Adapted Music",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "DIAGEO",
-   "product": "GUINNESS",
-   "agencies": [
-    "AMV BBDO London / BBDO SOUTH AFRICA Johannesburg"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Film",
-     "subcategory": "Alcoholic Drinks",
-     "count": 1,
-     "entry_titles": [
-      "MADE OF BLACK"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Film Craft",
-     "subcategory": "Use of Licensed/Adapted Music",
-     "count": 1,
-     "entry_titles": [
-      "MADE OF BLACK"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類金獅 Film Gold Lion、影片工藝類銅獅 Film Craft Bronze Lion｜代理商：AMV BBDO London / BBDO SOUTH AFRICA Johannesburg"
-  },
-  "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/7sDFJEwnUZaGwijBHq2OXr/aa1a7fa09f91cf7a197ee7d0c16cac41/LTW_placeholder_3.svg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/made-of-black-135834",
-   "https://www.lovethework.com/en/work/entries/made-of-black-123877"
-  ]
- },
- {
-  "id": "ltwm-07328",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "MADE IN NY",
-  "brand": "GATORADE",
-  "agency": "TBWA\\CHIAT\\DAY LOS ANGELES",
-  "raw": "MADE IN NY – GATORADE (TBWA\\CHIAT\\DAY LOS ANGELES)",
-  "links": [
-   "https://clios.com/sports/winner/film/gatorade/made-in-ny-2263"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Film",
-    "subcategory": "Non-Alcoholic Drinks",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Cyber",
-    "subcategory": "Storytelling",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "GATORADE",
-   "product": "GATORADE",
-   "agencies": [
-    "TBWA\\CHIAT\\DAY Los Angeles"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Film",
-     "subcategory": "Non-Alcoholic Drinks",
-     "count": 1,
-     "entry_titles": [
-      "MADE IN NY"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Cyber",
-     "subcategory": "Storytelling",
-     "count": 1,
-     "entry_titles": [
-      "MADE IN NY"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類金獅 Film Gold Lion、Cyber類銀獅 Cyber Silver Lion｜代理商：TBWA\\CHIAT\\DAY Los Angeles"
-  },
-  "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/7sDFJEwnUZaGwijBHq2OXr/aa1a7fa09f91cf7a197ee7d0c16cac41/LTW_placeholder_3.svg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/made-in-ny-135832",
-   "https://www.lovethework.com/en/work/entries/made-in-ny-111095"
+   "https://www.lovethework.com/en/work/entries/lebron-james-together-85685"
   ]
  }
 ]

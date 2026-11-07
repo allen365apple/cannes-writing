@@ -1,23 +1,30 @@
 [
  {
-  "id": "ltwm-07339",
+  "id": "ltwm-07302",
   "year": 2015,
   "tier": "GOLD",
   "categories": [],
-  "title": "LISNR",
-  "brand": "LISNR",
-  "agency": "R/GA NEW YORK",
-  "raw": "LISNR – LISNR (R/GA NEW YORK)",
+  "title": "NOT A BUG SPLAT",
+  "brand": "REPRIEVE / FOUNDATION FOR FUNDAMENTAL RIGHTS",
+  "agency": "BBDO PAKISTAN",
+  "raw": "NOT A BUG SPLAT – REPRIEVE / FOUNDATION FOR FUNDAMENTAL RIGHTS (BBDO PAKISTAN)",
   "links": [
-   "https://clios.com/awards/winner/1113"
+   "https://clios.com/awards/winner/design/reprieve-foundation-for-fundamental-rights/not-a-bug-splat-24"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Gold",
-    "category": "Mobile",
-    "subcategory": "",
+    "category": "Design",
+    "subcategory": "Public Space",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Design",
+    "subcategory": "Posters",
     "count": 1,
     "source_count": 1
    }
@@ -25,58 +32,144 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "LISNR",
-   "product": "LISNR",
+   "brand": "REPRIEVE / FOUNDATION FOR FUNDAMENTAL RIGHTS",
+   "product": null,
    "agencies": [
-    "R/GA New York"
+    "BBDO PAKISTAN Lahore"
    ],
    "awards": [
     {
      "level": "Gold",
-     "category": "Mobile",
-     "subcategory": "",
+     "category": "Design",
+     "subcategory": "Public Space",
      "count": 1,
      "entry_titles": [
-      "LISNR"
+      "NOT A BUG SPLAT"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Design",
+     "subcategory": "Posters",
+     "count": 1,
+     "entry_titles": [
+      "NOT A BUG SPLAT"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類金獅 Mobile Gold Lion｜代理商：R/GA New York"
-  }
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類金獅 Design Gold Lion×2｜代理商：BBDO PAKISTAN Lahore"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/17386b067b2d4ddcebec3bca2d80cb30"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/not-a-bug-splat-103807",
+   "https://www.lovethework.com/en/work/entries/not-a-bug-splat-102497"
+  ]
  },
  {
-  "id": "ltwm-07340",
+  "id": "ltwm-07303",
   "year": 2015,
   "tier": "GOLD",
   "categories": [],
-  "title": "THE UNFORGOTTEN",
-  "brand": "ILLINOIS COUNCIL AGAINST HANDGUN VIOLENCE",
-  "agency": "FCB CHICAGO",
-  "raw": "THE UNFORGOTTEN – ILLINOIS COUNCIL AGAINST HANDGUN VIOLENCE (FCB CHICAGO)",
+  "title": "PROUD WHOPPER",
+  "brand": "BURGER KING",
+  "agency": "DAVID MIAMI",
+  "raw": "PROUD WHOPPER – BURGER KING (DAVID MIAMI)",
   "links": [
-   "https://www.dandad.org/awards/professional/2016/branded-content-entertainment/25419/the-unforgotten/"
+   "https://www.youtube.com/watch?v=fWac-HYbJCE"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
+    "category": "Outdoor",
+    "subcategory": "Non-Standard Indoor Advertising",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Social Video",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Direct",
+    "subcategory": "Retail & E-Commerce, including Restaurants",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Direct",
+    "subcategory": "Targeted Ambient Media: Small Scale",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Direct",
+    "subcategory": "Integrated Campaign Led by Direct Marketing",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Promo & Activation",
+    "subcategory": "Retail, e-Commerce & Restaurants",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Customer in-Store Experience",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Ambient in a Promotional Campaign: Small Scale",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Media",
+    "subcategory": "Retail, E-Commerce & Restaurants",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
     "category": "PR",
-    "subcategory": "Charity & not for Profit",
+    "subcategory": "Corporate Responsibility",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "PR",
+    "subcategory": "Retail & Restaurants",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Gold",
-    "category": "Mobile",
-    "subcategory": "",
+    "category": "Design",
+    "subcategory": "Promotional Item Design",
     "count": 1,
     "source_count": 1
    },
    {
-    "level": "Bronze",
-    "category": "Mobile",
-    "subcategory": "",
+    "level": "Silver",
+    "category": "Branded Content & Entertainment",
+    "subcategory": "Non-Fiction: Online (15 minutes or under in length)",
     "count": 1,
     "source_count": 1
    }
@@ -84,618 +177,162 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "ILLINOIS COUNCIL AGAINST HANDGUN VIOLENCE",
-   "product": "GUN VIOLENCE EDUCATION, AWARENESS AND LOBBYING",
+   "brand": "BURGER KING",
+   "product": "WHOPPER",
    "agencies": [
-    "FCB CHICAGO",
-    "FCB CHICAGO / CURRENT Chicago"
+    "DAVID Miami"
    ],
    "awards": [
     {
      "level": "Bronze",
+     "category": "Outdoor",
+     "subcategory": "Non-Standard Indoor Advertising",
+     "count": 1,
+     "entry_titles": [
+      "PROUD WHOPPER"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Cyber",
+     "subcategory": "Social Video",
+     "count": 1,
+     "entry_titles": [
+      "PROUD WHOPPER"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Direct",
+     "subcategory": "Retail & E-Commerce, including Restaurants",
+     "count": 1,
+     "entry_titles": [
+      "PROUD WHOPPER"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Direct",
+     "subcategory": "Targeted Ambient Media: Small Scale",
+     "count": 1,
+     "entry_titles": [
+      "PROUD WHOPPER"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Direct",
+     "subcategory": "Integrated Campaign Led by Direct Marketing",
+     "count": 1,
+     "entry_titles": [
+      "PROUD WHOPPER"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Promo & Activation",
+     "subcategory": "Retail, e-Commerce & Restaurants",
+     "count": 1,
+     "entry_titles": [
+      "PROUD WHOPPER"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Promo & Activation",
+     "subcategory": "Use of Customer in-Store Experience",
+     "count": 1,
+     "entry_titles": [
+      "PROUD WHOPPER"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Promo & Activation",
+     "subcategory": "Use of Ambient in a Promotional Campaign: Small Scale",
+     "count": 1,
+     "entry_titles": [
+      "PROUD WHOPPER"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Media",
+     "subcategory": "Retail, E-Commerce & Restaurants",
+     "count": 1,
+     "entry_titles": [
+      "PROUD WHOPPER"
+     ]
+    },
+    {
+     "level": "Gold",
      "category": "PR",
-     "subcategory": "Charity & not for Profit",
+     "subcategory": "Corporate Responsibility",
      "count": 1,
      "entry_titles": [
-      "THE UNFORGOTTEN"
+      "PROUD WHOPPER"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "PR",
+     "subcategory": "Retail & Restaurants",
+     "count": 1,
+     "entry_titles": [
+      "PROUD WHOPPER"
      ]
     },
     {
      "level": "Gold",
-     "category": "Mobile",
-     "subcategory": "",
+     "category": "Design",
+     "subcategory": "Promotional Item Design",
      "count": 1,
      "entry_titles": [
-      "THE UNFORGOTTEN"
+      "PROUD WHOPPER"
      ]
     },
     {
-     "level": "Bronze",
-     "category": "Mobile",
-     "subcategory": "",
+     "level": "Silver",
+     "category": "Branded Content & Entertainment",
+     "subcategory": "Non-Fiction: Online (15 minutes or under in length)",
      "count": 1,
      "entry_titles": [
-      "THE UNFORGOTTEN"
+      "PROUD WHOPPER"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類金獅 Mobile Gold Lion、行動類銅獅 Mobile Bronze Lion、公關類銅獅 PR Bronze Lion｜代理商：FCB CHICAGO / FCB CHICAGO / CURRENT Chicago"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類金獅 Design Gold Lion、公關類金獅 PR Gold Lion、Promo & Activation類金獅 Promo & Activation Gold Lion、Branded Content & Entertainment類銀獅 Branded Content & Entertainment Silver Lion、直效類銀獅 Direct Silver Lion×2、公關類銀獅 PR Silver Lion、Promo & Activation類銀獅 Promo & Activation Silver Lion×2、Cyber類銅獅 Cyber Bronze Lion、直效類銅獅 Direct Bronze Lion、媒體類銅獅 Media Bronze Lion、戶外類銅獅 Outdoor Bronze Lion｜代理商：DAVID Miami"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/096e7504bec44f66a653a8f54d5ee0c8"
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/3215210a4f28486ad33bcab53e448914/storyboard_000002.jpg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-unforgotten-124478"
+   "https://www.lovethework.com/en/work/entries/proud-whopper-99548",
+   "https://www.lovethework.com/en/work/entries/proud-whopper-124988",
+   "https://www.lovethework.com/en/work/entries/proud-whopper-124707"
   ]
  },
  {
-  "id": "ltwm-07342",
+  "id": "ltwm-07305",
   "year": 2015,
   "tier": "GOLD",
   "categories": [],
-  "title": "THE CMYK CAMPAIGN",
-  "brand": "ECOFILL",
-  "agency": "OGILVY BOGOTÁ",
-  "raw": "THE CMYK CAMPAIGN – ECOFILL (OGILVY BOGOTÁ)",
+  "title": "JUNIOR SWIMMING CHAMPIONSHIPS",
+  "brand": "TOKIO MARINE NICHIDO",
+  "agency": "DENTSU INC. TOKYO",
+  "raw": "JUNIOR SWIMMING CHAMPIONSHIPS – TOKIO MARINE NICHIDO (DENTSU INC. TOKYO)",
   "links": [
-   "https://www.behance.net/gallery/25895341/Ecofill-Ink-Cartridges-The-CMYK-Campaign"
+   "https://www.dandad.org/awards/professional/2020/233110/junior-swimming-championships/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Gold",
-    "category": "Outdoor",
-    "subcategory": "Miscellaneous",
-    "count": 1,
-    "source_count": 4
-   },
-   {
-    "level": "Silver",
-    "category": "Outdoor",
-    "subcategory": "Miscellaneous",
+    "category": "Design",
+    "subcategory": "Print and Poster",
     "count": 1,
     "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "ECOFILL",
-   "product": "ECOFILL INK CARTRIDGES",
-   "agencies": [
-    "OGILVY & MATHER COLOMBIA Bogotá"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Outdoor",
-     "subcategory": "Miscellaneous",
-     "count": 1,
-     "entry_titles": [
-      "CYAN",
-      "MAGENTA",
-      "YELLOW",
-      "BLACK"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Outdoor",
-     "subcategory": "Miscellaneous",
-     "count": 1,
-     "entry_titles": [
-      "YELLOW"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類金獅 Outdoor Gold Lion、戶外類銀獅 Outdoor Silver Lion｜代理商：OGILVY & MATHER COLOMBIA Bogotá"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/4ad727875d0e4f14b99ea6bea24d9749"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/black-132370",
-   "https://www.lovethework.com/en/work/entries/yellow-132422",
-   "https://www.lovethework.com/en/work/entries/magenta-132452"
-  ]
- },
- {
-  "id": "ltwm-07343",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "HONDA ACCORD GPS",
-  "brand": "HONDA",
-  "agency": "IMPACT & ECHO BBDO KUWAIT",
-  "raw": "HONDA ACCORD GPS – HONDA (IMPACT & ECHO BBDO KUWAIT)",
-  "links": [
-   "https://www.adsoftheworld.com/campaign/honda-bbdo-09-2015"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Press",
-    "subcategory": "Other Vehicles, Auto Products & Services",
-    "count": 1,
-    "source_count": 3
-   },
-   {
-    "level": "Gold",
-    "category": "Outdoor",
-    "subcategory": "Cars & Automotive Services",
-    "count": 1,
-    "source_count": 3
-   },
-   {
-    "level": "Silver",
-    "category": "Outdoor",
-    "subcategory": "Cars & Automotive Services",
-    "count": 1,
-    "source_count": 3
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "ALGHANIM MOTORS - HONDA",
-   "product": "HONDA ACCORD GPS",
-   "agencies": [
-    "IMPACT & ECHO BBDO Safat"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Press",
-     "subcategory": "Other Vehicles, Auto Products & Services",
-     "count": 1,
-     "entry_titles": [
-      "CONFUSING INDIAN",
-      "CONFUSING IRANIAN",
-      "CONFUSING ARAB"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Outdoor",
-     "subcategory": "Cars & Automotive Services",
-     "count": 1,
-     "entry_titles": [
-      "CONFUSING INDIAN",
-      "CONFUSING IRANIAN",
-      "CONFUSING ARAB"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Outdoor",
-     "subcategory": "Cars & Automotive Services",
-     "count": 1,
-     "entry_titles": [
-      "CONFUSING INDIAN",
-      "CONFUSING IRANIAN",
-      "CONFUSING ARAB"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類金獅 Outdoor Gold Lion、戶外類銀獅 Outdoor Silver Lion、Press類銀獅 Press Silver Lion｜代理商：IMPACT & ECHO BBDO Safat"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/5f60b2e93e2d4f2ac06823cc38ac5dc6"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/confusing-arab-133539",
-   "https://www.lovethework.com/en/work/entries/confusing-iranian-133555",
-   "https://www.lovethework.com/en/work/entries/confusing-indian-133559"
-  ]
- },
- {
-  "id": "ltwm-07344",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "THE SUNDAY TIMES RICH LIST",
-  "brand": "NEWS UK",
-  "agency": "GREY LONDON",
-  "raw": "THE SUNDAY TIMES RICH LIST – NEWS UK (GREY LONDON)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2015/art-direction/24365/the-sunday-times-rich-list/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Outdoor",
-    "subcategory": "Publications & Media",
-    "count": 1,
-    "source_count": 3
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "NEWS UK",
-   "product": "SUNDAY TIMES",
-   "agencies": [
-    "GREY LONDON"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Outdoor",
-     "subcategory": "Publications & Media",
-     "count": 1,
-     "entry_titles": [
-      "ELTON",
-      "BRANSON",
-      "COWELL"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類金獅 Outdoor Gold Lion｜代理商：GREY LONDON"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/95e960d726ed45d3d96254919fc507b5"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/cowell-114912",
-   "https://www.lovethework.com/en/work/entries/branson-114913",
-   "https://www.lovethework.com/en/work/entries/elton-114943"
-  ]
- },
- {
-  "id": "ltwm-07345",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "ABRINQ FOUNDATION",
-  "brand": "ABRINQ FOUNDATION SAVE THE CHILDREN",
-  "agency": "LEW’LARA\\TBWA SÃO PAULO",
-  "raw": "ABRINQ FOUNDATION – ABRINQ FOUNDATION SAVE THE CHILDREN (LEW’LARA\\TBWA SÃO PAULO)",
-  "links": [
-   "https://www.behance.net/gallery/28842695/AbrinqSave-The-Children"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Outdoor",
-    "subcategory": "Fundraising, Donations & Appeals, Charities, Non-Profit Organisations, Public Health & Safety, Public awareness messages",
-    "count": 1,
-    "source_count": 5
-   },
-   {
-    "level": "Silver",
-    "category": "Outdoor",
-    "subcategory": "Fundraising, Donations & Appeals, Charities, Non-Profit Organisations, Public Health & Safety, Public awareness messages",
-    "count": 1,
-    "source_count": 3
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "ABRINQ FOUNDATION - SAVE THE CHILDREN",
-   "product": "INSTITUTIONAL",
-   "agencies": [
-    "LEW'LARA\\TBWA São Paulo"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Outdoor",
-     "subcategory": "Fundraising, Donations & Appeals, Charities, Non-Profit Organisations, Public Health & Safety, Public awareness messages",
-     "count": 1,
-     "entry_titles": [
-      "B&W DRESS",
-      "BLUE DRESS",
-      "PULLOVER",
-      "SWEATER",
-      "TUNIC"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Outdoor",
-     "subcategory": "Fundraising, Donations & Appeals, Charities, Non-Profit Organisations, Public Health & Safety, Public awareness messages",
-     "count": 1,
-     "entry_titles": [
-      "PULLOVER",
-      "SWEATER",
-      "TUNIC"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類金獅 Outdoor Gold Lion、戶外類銀獅 Outdoor Silver Lion｜代理商：LEW'LARA\\TBWA São Paulo"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/65db2d46136c44fdfecd5350d09bde02"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/tunic-130825",
-   "https://www.lovethework.com/en/work/entries/sweater-130830",
-   "https://www.lovethework.com/en/work/entries/pullover-130835"
-  ]
- },
- {
-  "id": "ltwm-07346",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "ALEX/RAMSAY/TYLER",
-  "brand": "THROATSIL",
-  "agency": "BBDO PROXIMITY BANGKOK",
-  "raw": "ALEX/RAMSAY/TYLER – THROATSIL (BBDO PROXIMITY BANGKOK)",
-  "links": [
-   "https://www.brandinginasia.com/what-do-steven-tyler-alex-ferguson-gordon-ramsay-have-in-common-this/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Outdoor",
-    "subcategory": "Cosmetics & Beauty, Toiletries & Pharmacy",
-    "count": 1,
-    "source_count": 3
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "MILLIMED THAILAND",
-   "product": "THROATSIL",
-   "agencies": [
-    "BBDO PROXIMITY THAILAND Bangkok"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Outdoor",
-     "subcategory": "Cosmetics & Beauty, Toiletries & Pharmacy",
-     "count": 1,
-     "entry_titles": [
-      "ALEX",
-      "RAMSAY",
-      "TYLER"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類金獅 Outdoor Gold Lion｜代理商：BBDO PROXIMITY THAILAND Bangkok"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/ff7fe420159445689b2547746d25bc9e"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/tyler-131801",
-   "https://www.lovethework.com/en/work/entries/ramsay-131815",
-   "https://www.lovethework.com/en/work/entries/alex-131861"
-  ]
- },
- {
-  "id": "ltwm-07347",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "SO GOOD",
-  "brand": "KFC",
-  "agency": "BBDO PROXIMITY KUALA LUMPUR",
-  "raw": "SO GOOD – KFC (BBDO PROXIMITY KUALA LUMPUR)",
-  "links": [
-   "https://clios.com/awards/winner/design/kfc/so-good-142"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Outdoor",
-    "subcategory": "Retail Stores, Restaurants & Fast Food Outlets",
-    "count": 1,
-    "source_count": 3
-   },
-   {
-    "level": "Silver",
-    "category": "Outdoor",
-    "subcategory": "Retail Stores, Restaurants & Fast Food Outlets",
-    "count": 1,
-    "source_count": 3
-   },
-   {
-    "level": "Silver",
-    "category": "Outdoor",
-    "subcategory": "Retail Stores, Restaurants & Fast Food Outlets",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "KFC",
-   "product": "KFC BRAND",
-   "agencies": [
-    "BBDO PROXIMITY MALAYSIA Kuala Lumpur"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Outdoor",
-     "subcategory": "Retail Stores, Restaurants & Fast Food Outlets",
-     "count": 1,
-     "entry_titles": [
-      "DRUMSTICK",
-      "BURGER",
-      "FRENCH FRIES"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Outdoor",
-     "subcategory": "Retail Stores, Restaurants & Fast Food Outlets",
-     "count": 1,
-     "entry_titles": [
-      "DRUMSTICK",
-      "BURGER",
-      "FRENCH FRIES"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Outdoor",
-     "subcategory": "Retail Stores, Restaurants & Fast Food Outlets",
-     "count": 1,
-     "entry_titles": [
-      "DRUMSTICK"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類金獅 Outdoor Gold Lion、戶外類銀獅 Outdoor Silver Lion×2｜代理商：BBDO PROXIMITY MALAYSIA Kuala Lumpur"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/5269a8ca71c446bfee4051fe70e6d36f"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/french-fries-133113",
-   "https://www.lovethework.com/en/work/entries/burger-133151",
-   "https://www.lovethework.com/en/work/entries/drumstick-133216"
-  ]
- },
- {
-  "id": "ltwm-07348",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "ONE SHOT IS ENOUGH",
-  "brand": "UNICEF",
-  "agency": "PROLAM Y&R SANTIAGO",
-  "raw": "ONE SHOT IS ENOUGH – UNICEF (PROLAM Y&R SANTIAGO)",
-  "links": [
-   "https://campaignsoftheworld.com/print/unicef-one-shot-is-enough/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Press",
-    "subcategory": "Photography",
-    "count": 1,
-    "source_count": 3
-   },
-   {
-    "level": "Gold",
-    "category": "Outdoor",
-    "subcategory": "Fundraising, Donations & Appeals, Charities, Non-Profit Organisations, Public Health & Safety, Public awareness messages",
-    "count": 1,
-    "source_count": 2
-   },
-   {
-    "level": "Gold",
-    "category": "Outdoor",
-    "subcategory": "Photography",
-    "count": 1,
-    "source_count": 2
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "UNICEF",
-   "product": "CORP",
-   "agencies": [
-    "PROLAM Y&R Santiago"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Press",
-     "subcategory": "Photography",
-     "count": 1,
-     "entry_titles": [
-      "WEAK",
-      "FATTY",
-      "NERD"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Outdoor",
-     "subcategory": "Fundraising, Donations & Appeals, Charities, Non-Profit Organisations, Public Health & Safety, Public awareness messages",
-     "count": 1,
-     "entry_titles": [
-      "FATTY",
-      "NERD"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Outdoor",
-     "subcategory": "Photography",
-     "count": 1,
-     "entry_titles": [
-      "FATTY",
-      "NERD"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類金獅 Outdoor Gold Lion×2、Press類金獅 Press Gold Lion｜代理商：PROLAM Y&R Santiago"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/13a247f75bb24d1ee0020a5d4c3b8d7b"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/nerd-117912",
-   "https://www.lovethework.com/en/work/entries/fatty-117933",
-   "https://www.lovethework.com/en/work/entries/weak-117946"
-  ]
- },
- {
-  "id": "ltwm-07349",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "IT HAPPENS HERE",
-  "brand": "28 TOO MANY",
-  "agency": "OGILVY LONDON",
-  "raw": "IT HAPPENS HERE – 28 TOO MANY (OGILVY LONDON)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2016/art-direction/25594/it-happens-here/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Press",
-    "subcategory": "Art Direction",
-    "count": 1,
-    "source_count": 6
-   },
-   {
-    "level": "Gold",
-    "category": "Press",
-    "subcategory": "Public Health & Safety & Public Awareness Messages",
-    "count": 1,
-    "source_count": 6
-   },
-   {
-    "level": "Gold",
-    "category": "Outdoor",
-    "subcategory": "Fundraising, Donations & Appeals, Charities, Non-Profit Organisations, Public Health & Safety, Public awareness messages",
-    "count": 1,
-    "source_count": 6
-   },
-   {
-    "level": "Bronze",
-    "category": "Outdoor",
-    "subcategory": "Traditional Illustration",
-    "count": 1,
-    "source_count": 6
    },
    {
     "level": "Silver",
@@ -708,66 +345,19 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "28 TOO MANY",
-   "product": "FGM",
+   "brand": "TOKIO MARINE NICHIDO",
+   "product": null,
    "agencies": [
-    "OGILVY & MATHER LONDON"
+    "DENTSU INC. Tokyo"
    ],
    "awards": [
     {
      "level": "Gold",
-     "category": "Press",
-     "subcategory": "Art Direction",
+     "category": "Design",
+     "subcategory": "Print and Poster",
      "count": 1,
      "entry_titles": [
-      "UK",
-      "SWEDEN",
-      "NETHERLANDS",
-      "GERMANY",
-      "ITALY",
-      "SCOTLAND"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Press",
-     "subcategory": "Public Health & Safety & Public Awareness Messages",
-     "count": 1,
-     "entry_titles": [
-      "UK",
-      "SWEDEN",
-      "NETHERLANDS",
-      "GERMANY",
-      "ITALY",
-      "SCOTLAND"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Outdoor",
-     "subcategory": "Fundraising, Donations & Appeals, Charities, Non-Profit Organisations, Public Health & Safety, Public awareness messages",
-     "count": 1,
-     "entry_titles": [
-      "UK",
-      "SWEDEN",
-      "NETHERLANDS",
-      "GERMANY",
-      "ITALY",
-      "SCOTLAND"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Outdoor",
-     "subcategory": "Traditional Illustration",
-     "count": 1,
-     "entry_titles": [
-      "UK",
-      "SWEDEN",
-      "NETHERLANDS",
-      "GERMANY",
-      "ITALY",
-      "SCOTLAND"
+      "JUNIOR SWIMMING CHAMPIONSHIPS"
      ]
     },
     {
@@ -776,19 +366,508 @@
      "subcategory": "Posters",
      "count": 1,
      "entry_titles": [
-      "IT HAPPENS HERE"
+      "JUNIOR SWIMMING CHAMPIONSHIPS"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類金獅 Outdoor Gold Lion、Press類金獅 Press Gold Lion×2、設計類銀獅 Design Silver Lion、戶外類銅獅 Outdoor Bronze Lion｜代理商：OGILVY & MATHER LONDON"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類金獅 Design Gold Lion、設計類銀獅 Design Silver Lion｜代理商：DENTSU INC. Tokyo"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/811dba6e051343188c52d1fcd8cc4d6f"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/9a4a2248ef0e4450ee892ef2e394c864"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/it-happens-here-102457",
-   "https://www.lovethework.com/en/work/entries/scotland-116159",
-   "https://www.lovethework.com/en/work/entries/italy-116162"
+   "https://www.lovethework.com/en/work/entries/junior-swimming-championships-125736",
+   "https://www.lovethework.com/en/work/entries/junior-swimming-championships-103585"
+  ]
+ },
+ {
+  "id": "ltwm-07304",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "PRICELESS WEAPONS",
+  "brand": "COLOMBIA’S MINISTRY OF ENVIRONMENT",
+  "agency": "GEOMETRY BOGOTÁ",
+  "raw": "PRICELESS WEAPONS – COLOMBIA’S MINISTRY OF ENVIRONMENT (GEOMETRY BOGOTÁ)",
+  "links": [
+   "https://www.dandad.org/awards/professional/2016/direct/25475/priceless-traps/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Design",
+    "subcategory": "Promotional Item Design",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "COLOMBIA'S MINISTRY OF ENVIRONMENT",
+   "product": null,
+   "agencies": [
+    "GEOMETRY GLOBAL COLOMBIA Bogotá"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Design",
+     "subcategory": "Promotional Item Design",
+     "count": 1,
+     "entry_titles": [
+      "PRICELESS WEAPONS"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類金獅 Design Gold Lion｜代理商：GEOMETRY GLOBAL COLOMBIA Bogotá"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/4fcef905459845319abe99b25fc7975c"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/priceless-weapons-102673"
+  ]
+ },
+ {
+  "id": "ltwm-07310",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "THE FRESHEST ORANGE JUICE",
+  "brand": "INTERMARCHÉ",
+  "agency": "MARCEL PARIS",
+  "raw": "THE FRESHEST ORANGE JUICE – INTERMARCHÉ (MARCEL PARIS)",
+  "links": [
+   "https://www.dandad.org/awards/professional/2016/direct/25469/the-freshest-orange-juice-brand/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Direct",
+    "subcategory": "Retail & E-Commerce, including Restaurants",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Direct",
+    "subcategory": "Product Launch/Re-launch",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Direct",
+    "subcategory": "Integrated Campaign Led by Direct Marketing",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Promo & Activation",
+    "subcategory": "Product Launch/re-Launch or Multi-Product Promotion",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Promo & Activation",
+    "subcategory": "Retail, e-Commerce & Restaurants",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Design",
+    "subcategory": "New Brand Identity: the Creation of a New Brand Identity",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "INTERMARCHÉ",
+   "product": "INTERMARCHÉ",
+   "agencies": [
+    "MARCEL Paris"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Direct",
+     "subcategory": "Retail & E-Commerce, including Restaurants",
+     "count": 1,
+     "entry_titles": [
+      "THE FRESHEST ORANGE JUICE BRAND"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Direct",
+     "subcategory": "Product Launch/Re-launch",
+     "count": 1,
+     "entry_titles": [
+      "THE FRESHEST ORANGE JUICE BRAND"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Direct",
+     "subcategory": "Integrated Campaign Led by Direct Marketing",
+     "count": 1,
+     "entry_titles": [
+      "THE FRESHEST ORANGE JUICE BRAND"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Promo & Activation",
+     "subcategory": "Product Launch/re-Launch or Multi-Product Promotion",
+     "count": 1,
+     "entry_titles": [
+      "THE FRESHEST ORANGE JUICE BRAND"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Promo & Activation",
+     "subcategory": "Retail, e-Commerce & Restaurants",
+     "count": 1,
+     "entry_titles": [
+      "THE FRESHEST ORANGE JUICE BRAND"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Design",
+     "subcategory": "New Brand Identity: the Creation of a New Brand Identity",
+     "count": 1,
+     "entry_titles": [
+      "THE FRESHEST ORANGE JUICE BRAND"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜直效類金獅 Direct Gold Lion、直效類銀獅 Direct Silver Lion、Promo & Activation類銀獅 Promo & Activation Silver Lion、設計類銅獅 Design Bronze Lion、直效類銅獅 Direct Bronze Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：MARCEL Paris"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/78fb334ce39d43b8cb7e2584b9169a4e"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/the-freshest-orange-juice-brand-128121",
+   "https://www.lovethework.com/en/work/entries/the-freshest-orange-juice-brand-128083",
+   "https://www.lovethework.com/en/work/entries/the-freshest-orange-juice-brand-127934"
+  ]
+ },
+ {
+  "id": "ltwm-07301",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "PLEATS PLEASE FLOWERS SERIES POSTERS",
+  "brand": "ISSEY MIYAKE",
+  "agency": "TAKU SATOH DESIGN TOKYO",
+  "raw": "PLEATS PLEASE FLOWERS SERIES POSTERS – ISSEY MIYAKE (TAKU SATOH DESIGN TOKYO)",
+  "links": [
+   "https://vimeo.com/133027833"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Design",
+    "subcategory": "Posters",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "ISSEY MIYAKE",
+   "product": null,
+   "agencies": [
+    "TAKU SATOH DESIGN Tokyo"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Design",
+     "subcategory": "Posters",
+     "count": 1,
+     "entry_titles": [
+      "PLEATS PLEASE FLOWERS SERIES POSTERS"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類金獅 Design Gold Lion｜代理商：TAKU SATOH DESIGN Tokyo"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/6b01905d2586454bca2fc80cfdf3450a"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/pleats-please-flowers-series-posters-103294"
+  ]
+ },
+ {
+  "id": "ltwm-07307",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "LICHTGRENZE",
+  "brand": "THE CITY OF BERLIN (KULTURPROJEKTE BERLIN)",
+  "agency": "WHITEVOID BERLIN",
+  "raw": "LICHTGRENZE – THE CITY OF BERLIN (KULTURPROJEKTE BERLIN) (WHITEVOID BERLIN)",
+  "links": [
+   "https://www.whitevoid.com/lichtgrenze/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Outdoor",
+    "subcategory": "Interactive Outdoor Experiences",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "PR",
+    "subcategory": "Territory Marketing & Communication (incl. city/region/country branding, etc.)",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Design",
+    "subcategory": "Live Events",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "THE CITY OF BERLIN (KULTURPROJEKTE BERLIN)",
+   "product": "CITY WIDE MEMORIAL LIGHT INSTALLATION AND LIVE EVENT",
+   "agencies": [
+    "WHITEVOID Berlin"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Outdoor",
+     "subcategory": "Interactive Outdoor Experiences",
+     "count": 1,
+     "entry_titles": [
+      "LICHTGRENZE"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "PR",
+     "subcategory": "Territory Marketing & Communication (incl. city/region/country branding, etc.)",
+     "count": 1,
+     "entry_titles": [
+      "LICHTGRENZE"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Design",
+     "subcategory": "Live Events",
+     "count": 1,
+     "entry_titles": [
+      "LICHTGRENZE"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類金獅 Design Gold Lion、戶外類銅獅 Outdoor Bronze Lion、公關類銅獅 PR Bronze Lion｜代理商：WHITEVOID Berlin"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/96579872b00442c5f4262794acc3ca61"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/lichtgrenze-132672",
+   "https://www.lovethework.com/en/work/entries/lichtgrenze-125811",
+   "https://www.lovethework.com/en/work/entries/lichtgrenze-125216"
+  ]
+ },
+ {
+  "id": "ltwm-07515",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "MORNING LIKE A KING",
+  "brand": "BURGER KING",
+  "agency": "CHEIL WORLDWIDE SEOUL",
+  "raw": "MORNING LIKE A KING – BURGER KING (CHEIL WORLDWIDE SEOUL)",
+  "links": [
+   "https://www2.spikes.asia/winners/2015/media/entry.cfm?entryid=30&award=2"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Media",
+    "subcategory": "Retail, E-Commerce & Restaurants",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Media",
+    "subcategory": "Use of Ambient Media: Small Scale",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "BURGER KING",
+   "product": "BURGER KING",
+   "agencies": [
+    "CHEIL WORLDWIDE Seoul"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Media",
+     "subcategory": "Retail, E-Commerce & Restaurants",
+     "count": 1,
+     "entry_titles": [
+      "MORNING LIKE A KING"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Media",
+     "subcategory": "Use of Ambient Media: Small Scale",
+     "count": 1,
+     "entry_titles": [
+      "MORNING LIKE A KING"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銀獅 Media Silver Lion×2｜代理商：CHEIL WORLDWIDE Seoul"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/4cee5e63bdbe421ca34f297314f25e53"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/morning-like-a-king-108562",
+   "https://www.lovethework.com/en/work/entries/morning-like-a-king-107986"
+  ]
+ },
+ {
+  "id": "ltwm-07427",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "INGLORIOUS FRUITS & VEGETABLES",
+  "brand": "INTERMARCHÉ",
+  "agency": "MARCEL PARIS",
+  "raw": "INGLORIOUS FRUITS & VEGETABLES – INTERMARCHÉ (MARCEL PARIS)",
+  "links": [
+   "https://www.dandad.org/awards/professional/2015/direct/24619/inglorious-fruits-and-vegetables/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Creative Effectiveness",
+    "subcategory": "Creative Effectiveness",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "INTERMARCHÉ",
+   "product": "FOOD RETAIL",
+   "agencies": [
+    "MARCEL Paris"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Creative Effectiveness",
+     "subcategory": "Creative Effectiveness",
+     "count": 1,
+     "entry_titles": [
+      "INGLORIOUS FRUITS AND VEGETABLES"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意實效類銀獅 Creative Effectiveness Silver Lion｜代理商：MARCEL Paris"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/26e19b1914f94f619ad48a0b4e838bc2/storyboard_000002.jpg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/inglorious-fruits-and-vegetables-122535"
+  ]
+ },
+ {
+  "id": "ltwm-07858",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "ANGRY TWEETS",
+  "brand": "BURGER KING",
+  "agency": "BUZZMAN PARIS",
+  "raw": "ANGRY TWEETS – BURGER KING (BUZZMAN PARIS)",
+  "links": [
+   "https://www.youtube.com/watch?v=I309Ltvnc80"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Social Audience in a Promotional Campaign",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "BURGER KING",
+   "product": "FAST FOOD",
+   "agencies": [
+    "BUZZMAN Paris"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Promo & Activation",
+     "subcategory": "Use of Social Audience in a Promotional Campaign",
+     "count": 1,
+     "entry_titles": [
+      "ANGRY TWEETS"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：BUZZMAN Paris"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/65cddf4f928d4bd2ca44002a50002df0"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/angry-tweets-104648"
   ]
  }
 ]

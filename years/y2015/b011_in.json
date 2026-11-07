@@ -1,211 +1,104 @@
 [
  {
-  "id": "ltwm-07361",
+  "id": "ltwm-07396",
   "year": 2015,
   "tier": "GOLD",
   "categories": [],
-  "title": "ITEMS",
-  "brand": "MUSEUM OF THE GREAT WAR",
-  "agency": "DDB PARIS",
-  "raw": "ITEMS – MUSEUM OF THE GREAT WAR (DDB PARIS)",
+  "title": "BAIDU KUAISOU",
+  "brand": "SMART CHOPSTICKS",
+  "agency": "BAIDU ONLINE NETWORK TECHNOLOGY BEIJING",
+  "raw": "BAIDU KUAISOU – SMART CHOPSTICKS (BAIDU ONLINE NETWORK TECHNOLOGY BEIJING)",
   "links": [
-   "https://www.behance.net/gallery/76765919/MUSEUM-OF-THE-GREAT-WAR-Items"
+   "https://www.youtube.com/watch?v=F0M5uSoclYY"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Gold",
-    "category": "Press",
-    "subcategory": "Entertainment & Leisure",
+    "category": "Innovation",
+    "subcategory": "Innovative Technology (including Stand-alone, Technological Solutions not in Association with a Brand or Creative Campaign)",
     "count": 1,
-    "source_count": 5
-   },
-   {
-    "level": "Silver",
-    "category": "Press",
-    "subcategory": "Copywriting",
-    "count": 1,
-    "source_count": 6
-   },
-   {
-    "level": "Silver",
-    "category": "Press",
-    "subcategory": "Art Direction",
-    "count": 1,
-    "source_count": 7
-   },
-   {
-    "level": "Silver",
-    "category": "Outdoor",
-    "subcategory": "Entertainment & Leisure",
-    "count": 1,
-    "source_count": 5
-   },
-   {
-    "level": "Bronze",
-    "category": "Outdoor",
-    "subcategory": "Copywriting",
-    "count": 1,
-    "source_count": 3
+    "source_count": 1
    }
   ],
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "MUSÉE DE LA GRANDE GUERRE DU PAYS DE MEAUX",
-   "product": "MUSÉE DE LA GRANDE GUERRE DU PAYS DE MEAUX",
+   "brand": null,
+   "product": "SMART CHOPSTICKS",
    "agencies": [
-    "DDB PARIS"
+    "BAIDU ONLINE NETWORK TECHNOLOGY (BEIJING)"
    ],
    "awards": [
     {
      "level": "Gold",
-     "category": "Press",
-     "subcategory": "Entertainment & Leisure",
+     "category": "Innovation",
+     "subcategory": "Innovative Technology (including Stand-alone, Technological Solutions not in Association with a Brand or Creative Campaign)",
      "count": 1,
      "entry_titles": [
-      "MACHINE GUN",
-      "OBUS",
-      "GRENADE",
-      "PROTHESIS",
-      "SAW"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Press",
-     "subcategory": "Copywriting",
-     "count": 1,
-     "entry_titles": [
-      "MACHINE GUN",
-      "OBUS",
-      "SLEDGEHAMMER",
-      "GRENADE",
-      "PROTHESIS",
-      "SAW"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Press",
-     "subcategory": "Art Direction",
-     "count": 1,
-     "entry_titles": [
-      "MACHINE GUN",
-      "OBUS",
-      "SLEDGEHAMMER",
-      "GRENADE",
-      "PROTHESIS",
-      "TAXI",
-      "SAW"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Outdoor",
-     "subcategory": "Entertainment & Leisure",
-     "count": 1,
-     "entry_titles": [
-      "OBUS",
-      "SLEDGEHAMMER",
-      "GRENADE",
-      "TAXI",
-      "SAW"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Outdoor",
-     "subcategory": "Copywriting",
-     "count": 1,
-     "entry_titles": [
-      "MACHINE GUN",
-      "SLEDGEHAMMER",
-      "GRENADE"
+      "BAIDU KUAISOU"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類金獅 Press Gold Lion、戶外類銀獅 Outdoor Silver Lion、Press類銀獅 Press Silver Lion×2、戶外類銅獅 Outdoor Bronze Lion｜代理商：DDB PARIS"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創新類金獅 Innovation Gold Lion｜代理商：BAIDU ONLINE NETWORK TECHNOLOGY (BEIJING)"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/6c734280788a47bac5abf72bf0584c62"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/46d9e0e7dc0a455aa438b66add6c4c2f"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/saw-117626",
-   "https://www.lovethework.com/en/work/entries/prothesis-117659",
-   "https://www.lovethework.com/en/work/entries/grenade-117684"
+   "https://www.lovethework.com/en/work/entries/baidu-kuaisou-120654"
   ]
  },
  {
-  "id": "ltwm-07362",
+  "id": "ltwm-07316",
   "year": 2015,
   "tier": "GOLD",
   "categories": [],
-  "title": "COCA-COLA TOGETHER",
-  "brand": "COCA-COLA",
-  "agency": "OGILVY PARIS",
-  "raw": "COCA-COLA TOGETHER – COCA-COLA (OGILVY PARIS)",
+  "title": "THE MONSTER-SMART LAUNCH",
+  "brand": "SMART",
+  "agency": "BBDO BERLIN",
+  "raw": "THE MONSTER-SMART LAUNCH – SMART (BBDO BERLIN)",
   "links": [
-   "https://www.behance.net/gallery/24515353/Coca-Cola-Together"
+   "https://clios.com/awards/winner/direct/daimler-ag-smart-mm/the-monster-smart-launch-13"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Gold",
-    "category": "Press",
-    "subcategory": "Non-Alcoholic Drinks",
-    "count": 1,
-    "source_count": 2
-   },
-   {
     "level": "Silver",
-    "category": "Outdoor",
-    "subcategory": "Drinks (Alcoholic & Non-Alcoholic)",
+    "category": "Direct",
+    "subcategory": "Cars & Automotive Services",
     "count": 1,
-    "source_count": 2
+    "source_count": 1
    }
   ],
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "THE COCA-COLA COMPANY",
-   "product": "DRINKS",
+   "brand": "DAIMLER AG / SMART MM",
+   "product": "SMART",
    "agencies": [
-    "OGILVY PARIS"
+    "BBDO GROUP GERMANY Berlin"
    ],
    "awards": [
     {
-     "level": "Gold",
-     "category": "Press",
-     "subcategory": "Non-Alcoholic Drinks",
-     "count": 1,
-     "entry_titles": [
-      "COCA-COLA TOGETHER LOVE",
-      "COCA-COLA TOGETHER PEACE"
-     ]
-    },
-    {
      "level": "Silver",
-     "category": "Outdoor",
-     "subcategory": "Drinks (Alcoholic & Non-Alcoholic)",
+     "category": "Direct",
+     "subcategory": "Cars & Automotive Services",
      "count": 1,
      "entry_titles": [
-      "COCA-COLA TOGETHER LOVE",
-      "COCA-COLA TOGETHER PEACE"
+      "THE MONSTER-SMART LAUNCH"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類金獅 Press Gold Lion、戶外類銀獅 Outdoor Silver Lion｜代理商：OGILVY PARIS"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜直效類銀獅 Direct Silver Lion｜代理商：BBDO GROUP GERMANY Berlin"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/3108bf748c834620f9c0b2acc17fb033"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/b1198c953f5c4b65bbb002d5185e14b6"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/coca-cola-together-love-134369",
-   "https://www.lovethework.com/en/work/entries/coca-cola-together-love-132329",
-   "https://www.lovethework.com/en/work/entries/coca-cola-together-peace-134330"
+   "https://www.lovethework.com/en/work/entries/the-monster-smart-launch-128991"
   ]
  },
  {
@@ -266,510 +159,220 @@
   ]
  },
  {
-  "id": "ltwm-07364",
+  "id": "ltwm-07318",
   "year": 2015,
   "tier": "GOLD",
   "categories": [],
-  "title": "A CREAM THAT GIVES YOU WRINKLES",
-  "brand": "SKINFOODS",
-  "agency": "COLENSO BBDO AUCKLAND",
-  "raw": "A CREAM THAT GIVES YOU WRINKLES – SKINFOODS (COLENSO BBDO AUCKLAND)",
+  "title": "THIS GIRL CAN",
+  "brand": "SPORT ENGLAND",
+  "agency": "FCB INFERNO LONDON",
+  "raw": "THIS GIRL CAN – SPORT ENGLAND (FCB INFERNO LONDON)",
   "links": [
-   "https://clios.com/awards/winner/1070"
+   "https://www.dandad.org/awards/professional/2020/231796/this-girl-can/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Gold",
-    "category": "Press",
-    "subcategory": "Cosmetics & Beauty",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "SKINFOODS / NEW ZEALAND BREAST CANCER FOUNDATION",
-   "product": "BREAST CREAM",
-   "agencies": [
-    "COLENSO BBDO Auckland"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Press",
-     "subcategory": "Cosmetics & Beauty",
-     "count": 1,
-     "entry_titles": [
-      "A CREAM THAT GIVES YOU WRINKLES"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類金獅 Press Gold Lion｜代理商：COLENSO BBDO Auckland"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/3ef70740da2143ec847aa03171e9e3eb"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/a-cream-that-gives-you-wrinkles-118638"
-  ]
- },
- {
-  "id": "ltwm-07365",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "4G4GOOD",
-  "brand": "STARHUB",
-  "agency": "DDB SINGAPORE",
-  "raw": "4G4GOOD – STARHUB (DDB SINGAPORE)",
-  "links": [
-   "https://vimeo.com/132183127"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Direct",
-    "subcategory": "Product Launch/Re-launch",
+    "level": "Silver",
+    "category": "Film",
+    "subcategory": "Public Awareness Messages",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Gold",
-    "category": "Promo & Activation",
-    "subcategory": "Commercial Public Services, including Healthcare & Medical",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "STARHUB",
-   "product": "4G",
-   "agencies": [
-    "DDB GROUP SINGAPORE"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Direct",
-     "subcategory": "Product Launch/Re-launch",
-     "count": 1,
-     "entry_titles": [
-      "4G4GOOD"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Promo & Activation",
-     "subcategory": "Commercial Public Services, including Healthcare & Medical",
-     "count": 1,
-     "entry_titles": [
-      "4G4GOOD"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類金獅 Promo & Activation Gold Lion、直效類銅獅 Direct Bronze Lion｜代理商：DDB GROUP SINGAPORE"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/354b0f2788b74673b38a5a3f749787e1"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/4g4good-128238",
-   "https://www.lovethework.com/en/work/entries/4g4good-105775"
-  ]
- },
- {
-  "id": "ltwm-07366",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "SHADOW WIFI",
-  "brand": "LIGA CONTRA EL CANCER",
-  "agency": "HAPPINESS BRUSSELS",
-  "raw": "SHADOW WIFI – LIGA CONTRA EL CANCER (HAPPINESS BRUSSELS)",
-  "links": [
-   "https://vimeo.com/132183349"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Promo & Activation",
-    "subcategory": "Use of Ambient in a Promotional Campaign:  Large Scale",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "LIGA CONTRA EL CANCER",
-   "product": "HEALTH AWARENESS ORGANISATION",
-   "agencies": [
-    "HAPPINESS BRUSSELS"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Promo & Activation",
-     "subcategory": "Use of Ambient in a Promotional Campaign:  Large Scale",
-     "count": 1,
-     "entry_titles": [
-      "SHADOW WIFI"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類金獅 Promo & Activation Gold Lion｜代理商：HAPPINESS BRUSSELS"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/43fb1377156045adef079f316e75bca2"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/shadow-wifi-126617"
-  ]
- },
- {
-  "id": "ltwm-07367",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "SOS SMS",
-  "brand": "RED CROSS",
-  "agency": "GREY MEXICO",
-  "raw": "SOS SMS – RED CROSS (GREY MEXICO)",
-  "links": [
-   "https://www.youtube.com/watch?v=htaWB8r_h1w"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Promo & Activation",
-    "subcategory": "Use of Digital Advertising in a Promotional Campaign",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Media",
-    "subcategory": "Use of Mobile Devices",
+    "category": "Film Craft",
+    "subcategory": "Direction",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Silver",
-    "category": "Mobile",
-    "subcategory": "",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Creative Data",
-    "subcategory": "Creative Business Data Strategy",
+    "category": "Film Craft",
+    "subcategory": "Editing",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Silver",
-    "category": "Pharma",
-    "subcategory": "Education & Services",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Health & Wellness",
-    "subcategory": "Fundraising & Advocacy",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "MEXICAN RED CROSS",
-   "product": "ONLINE EMERGENCY SERVICE",
-   "agencies": [
-    "GREY MÈXICO Mexico City"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Promo & Activation",
-     "subcategory": "Use of Digital Advertising in a Promotional Campaign",
-     "count": 1,
-     "entry_titles": [
-      "SOS SMS"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Media",
-     "subcategory": "Use of Mobile Devices",
-     "count": 1,
-     "entry_titles": [
-      "SOS SMS"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Mobile",
-     "subcategory": "",
-     "count": 1,
-     "entry_titles": [
-      "SOS SMS"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Creative Data",
-     "subcategory": "Creative Business Data Strategy",
-     "count": 1,
-     "entry_titles": [
-      "SOS SMS"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Pharma",
-     "subcategory": "Education & Services",
-     "count": 1,
-     "entry_titles": [
-      "SOS SMS"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Health & Wellness",
-     "subcategory": "Fundraising & Advocacy",
-     "count": 1,
-     "entry_titles": [
-      "SOS SMS"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意數據類金獅 Creative Data Gold Lion、Promo & Activation類金獅 Promo & Activation Gold Lion、行動類銀獅 Mobile Silver Lion、製藥類銀獅 Pharma Silver Lion、健康與保健類銅獅 Health & Wellness Bronze Lion、媒體類銅獅 Media Bronze Lion｜代理商：GREY MÈXICO Mexico City"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/e42bc4ecf2f145d2867219f4fcce2d51"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/sos-sms-98564",
-   "https://www.lovethework.com/en/work/entries/sos-sms-97832",
-   "https://www.lovethework.com/en/work/entries/sos-sms-126162"
-  ]
- },
- {
-  "id": "ltwm-07368",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "THE SALT YOU CAN SEE",
-  "brand": "FUNDACIÓN FAVALORO",
-  "agency": "GREY ARGENTINA",
-  "raw": "THE SALT YOU CAN SEE – FUNDACIÓN FAVALORO (GREY ARGENTINA)",
-  "links": [
-   "https://www.youtube.com/watch?v=vEra6jOLqK8"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Promo & Activation",
-    "subcategory": "Use of Ambient in a Promotional Campaign: Small Scale",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Promo & Activation",
-    "subcategory": "Commercial Public Services, including Healthcare & Medical",
+    "category": "Film Craft",
+    "subcategory": "Use of Licensed/Adapted Music",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Silver",
-    "category": "Promo & Activation",
-    "subcategory": "Product Launch/re-Launch or Multi-Product Promotion",
+    "category": "Film Craft",
+    "subcategory": "Sound Design",
     "count": 1,
     "source_count": 1
    },
    {
-    "level": "Bronze",
-    "category": "PR",
-    "subcategory": "Healthcare & Wellbeing",
+    "level": "Gold",
+    "category": "Glass",
+    "subcategory": "Glass",
     "count": 1,
     "source_count": 1
    },
    {
-    "level": "Bronze",
+    "level": "Gold",
     "category": "Health & Wellness",
     "subcategory": "Education & Awareness",
     "count": 1,
     "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Health & Wellness",
+    "subcategory": "Education & Awareness",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Grand Prix for Good",
+    "category": "Grand Prix for Good",
+    "subcategory": "Lions Health Grand Prix for Good",
+    "count": 1,
+    "source_count": 1
    }
   ],
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "FUNDACIÓN FAVALORO",
-   "product": "FUNDACIÓN FAVALORO",
+   "brand": "SPORT ENGLAND",
+   "product": "SPORT ENGLAND",
    "agencies": [
-    "GREY ARGENTINA Buenos Aires"
+    "FCB INFERNO London",
+    "SOMESUCH London / FCB INFERNO London",
+    "SOUNDTREE MUSIC London / FCB INFERNO London",
+    "WAVE STUDIOS London / FCB INFERNO London"
    ],
    "awards": [
     {
-     "level": "Gold",
-     "category": "Promo & Activation",
-     "subcategory": "Use of Ambient in a Promotional Campaign: Small Scale",
+     "level": "Silver",
+     "category": "Film",
+     "subcategory": "Public Awareness Messages",
      "count": 1,
      "entry_titles": [
-      "THE SALT YOU CAN SEE"
+      "THIS GIRL CAN 90'"
      ]
     },
     {
      "level": "Gold",
-     "category": "Promo & Activation",
-     "subcategory": "Commercial Public Services, including Healthcare & Medical",
+     "category": "Film Craft",
+     "subcategory": "Direction",
      "count": 1,
      "entry_titles": [
-      "THE SALT YOU CAN SEE"
+      "THIS GIRL CAN"
      ]
     },
     {
      "level": "Silver",
-     "category": "Promo & Activation",
-     "subcategory": "Product Launch/re-Launch or Multi-Product Promotion",
+     "category": "Film Craft",
+     "subcategory": "Editing",
      "count": 1,
      "entry_titles": [
-      "THE SALT YOU CAN SEE"
+      "THIS GIRL CAN"
      ]
     },
     {
-     "level": "Bronze",
-     "category": "PR",
-     "subcategory": "Healthcare & Wellbeing",
+     "level": "Silver",
+     "category": "Film Craft",
+     "subcategory": "Use of Licensed/Adapted Music",
      "count": 1,
      "entry_titles": [
-      "THE SALT YOU CAN SEE"
+      "THIS GIRL CAN"
      ]
     },
     {
-     "level": "Bronze",
+     "level": "Silver",
+     "category": "Film Craft",
+     "subcategory": "Sound Design",
+     "count": 1,
+     "entry_titles": [
+      "THIS GIRL CAN"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Glass",
+     "subcategory": "Glass",
+     "count": 1,
+     "entry_titles": [
+      "THIS GIRL CAN"
+     ]
+    },
+    {
+     "level": "Gold",
      "category": "Health & Wellness",
      "subcategory": "Education & Awareness",
      "count": 1,
      "entry_titles": [
-      "THE SALT YOU CAN SEE"
+      "THIS GIRL CAN"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Health & Wellness",
+     "subcategory": "Education & Awareness",
+     "count": 1,
+     "entry_titles": [
+      "THIS GIRL CAN"
+     ]
+    },
+    {
+     "level": "Grand Prix",
+     "category": "Grand Prix for Good",
+     "subcategory": "Lions Health Grand Prix for Good",
+     "count": 1,
+     "entry_titles": [
+      "THIS GIRL CAN"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類金獅 Promo & Activation Gold Lion×2、Promo & Activation類銀獅 Promo & Activation Silver Lion、健康與保健類銅獅 Health & Wellness Bronze Lion、公關類銅獅 PR Bronze Lion｜代理商：GREY ARGENTINA Buenos Aires"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公益全場大獎 Grand Prix for Good、影片工藝類金獅 Film Craft Gold Lion、玻璃類金獅 Glass Gold Lion、健康與保健類金獅 Health & Wellness Gold Lion×2、影片類銀獅 Film Silver Lion、影片工藝類銀獅 Film Craft Silver Lion×3｜代理商：FCB INFERNO London / SOMESUCH London / FCB INFERNO London / SOUNDTREE MUSIC London / FCB INFERNO London / WAVE STUDIOS London / FCB INFERNO London"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/0fcd3a5764c84c86b9a21a49f32d3754"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/6c436f7008f44ed9930c2e009b874bce"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-salt-you-can-see-127270",
-   "https://www.lovethework.com/en/work/entries/the-salt-you-can-see-126520",
-   "https://www.lovethework.com/en/work/entries/the-salt-you-can-see-126486"
+   "https://www.lovethework.com/en/work/entries/this-girl-can-98786",
+   "https://www.lovethework.com/en/work/entries/this-girl-can-98447",
+   "https://www.lovethework.com/en/work/entries/this-girl-can-124283"
   ]
  },
  {
-  "id": "ltwm-07369",
+  "id": "ltwm-07317",
   "year": 2015,
   "tier": "GOLD",
   "categories": [],
-  "title": "CHASING HORIZONS",
-  "brand": "CITIZEN",
-  "agency": "WIEDEN + KENNEDY AMSTERDAM",
-  "raw": "CHASING HORIZONS – CITIZEN (WIEDEN + KENNEDY AMSTERDAM)",
+  "title": "WOULD YOU STILL BE A FAN?",
+  "brand": "SPECIAL OLYMPICS BELGIUM",
+  "agency": "LDV UNITED ANTWERP",
+  "raw": "WOULD YOU STILL BE A FAN? – SPECIAL OLYMPICS BELGIUM (LDV UNITED ANTWERP)",
   "links": [
-   "https://vimeo.com/132183265"
+   "https://clios.com/awards/winner/social-media/special-olympics-belgium/would-you-still-be-a-fan--1083"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Gold",
-    "category": "Promo & Activation",
-    "subcategory": "Use of Promotional Events & Stunts",
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Content Placement (incl. Copy/Image/Audio/Video Placement)",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Silver",
-    "category": "Promo & Activation",
-    "subcategory": "Other Consumer Products (incl. durable goods)",
+    "category": "Direct",
+    "subcategory": "Use of Social Audience in a Direct Marketing Campaign",
     "count": 1,
     "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "CITIZEN",
-   "product": "ECO-DRIVE SATELLITE WAVE F100",
-   "agencies": [
-    "WIEDEN+KENNEDY AMSTERDAM / WIEDEN+KENNEDY TOKYO"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Promo & Activation",
-     "subcategory": "Use of Promotional Events & Stunts",
-     "count": 1,
-     "entry_titles": [
-      "CHASING HORIZONS"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Promo & Activation",
-     "subcategory": "Other Consumer Products (incl. durable goods)",
-     "count": 1,
-     "entry_titles": [
-      "CHASING HORIZONS"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類金獅 Promo & Activation Gold Lion、Promo & Activation類銀獅 Promo & Activation Silver Lion｜代理商：WIEDEN+KENNEDY AMSTERDAM / WIEDEN+KENNEDY TOKYO"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/4de6333d6e0b402bab8854139e213722"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/chasing-horizons-127460",
-   "https://www.lovethework.com/en/work/entries/chasing-horizons-126359"
-  ]
- },
- {
-  "id": "ltwm-07370",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "MISERABLE IN PUERTO RICO",
-  "brand": "PUERTO RICO TOURISM COMPANY",
-  "agency": "JWT SAN JUAN",
-  "raw": "MISERABLE IN PUERTO RICO – PUERTO RICO TOURISM COMPANY ( JWT SAN JUAN)",
-  "links": [
-   "https://activationideas.com/blog/miserable-in-puerto-rico"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
+   },
    {
-    "level": "Gold",
+    "level": "Silver",
     "category": "Promo & Activation",
     "subcategory": "Use of Social Platform(s) in a Promotional Campaign",
     "count": 1,
@@ -779,29 +382,346 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "COMMONWEALTH OF PUERTO RICO",
-   "product": "PUERTO RICO TOURISM COMPANY",
+   "brand": "SPECIAL OLYMPICS BELGIUM",
+   "product": "SPECIAL OLYMPICS SUMMER GAMES ANTWERP 2014",
    "agencies": [
-    "J. WALTER THOMPSON PUERTO RICO San Juan"
+    "LDV UNITED Antwerp"
    ],
    "awards": [
     {
-     "level": "Gold",
+     "level": "Bronze",
+     "category": "Cyber",
+     "subcategory": "Content Placement (incl. Copy/Image/Audio/Video Placement)",
+     "count": 1,
+     "entry_titles": [
+      "SPECIAL OLYMPICS - KEVIN DE BRUYNE"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Direct",
+     "subcategory": "Use of Social Audience in a Direct Marketing Campaign",
+     "count": 1,
+     "entry_titles": [
+      "SPECIAL OLYMPICS - KEVIN DE BRUYNE"
+     ]
+    },
+    {
+     "level": "Silver",
      "category": "Promo & Activation",
      "subcategory": "Use of Social Platform(s) in a Promotional Campaign",
      "count": 1,
      "entry_titles": [
-      "MISERABLE IN PUERTO RICO"
+      "SPECIAL OLYMPICS - KEVIN DE BRUYNE"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類金獅 Promo & Activation Gold Lion｜代理商：J. WALTER THOMPSON PUERTO RICO San Juan"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜直效類銀獅 Direct Silver Lion、Promo & Activation類銀獅 Promo & Activation Silver Lion、Cyber類銅獅 Cyber Bronze Lion｜代理商：LDV UNITED Antwerp"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/64937444edd54beaacaac81dd3cbd0fc"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/6ba646523dfa44ccad2828df67bad41a"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/miserable-in-puerto-rico-104650"
+   "https://www.lovethework.com/en/work/entries/special-olympics-kevin-de-bruyne-130550",
+   "https://www.lovethework.com/en/work/entries/special-olympics-kevin-de-bruyne-128806",
+   "https://www.lovethework.com/en/work/entries/special-olympics-kevin-de-bruyne-127473"
+  ]
+ },
+ {
+  "id": "ltwm-07319",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "THE OCEAN",
+  "brand": "CONSERVATION INTERNATIONAL",
+  "agency": "TBWA\\MEDIA ARTS LAB LOS ANGELES",
+  "raw": "THE OCEAN – CONSERVATION INTERNATIONAL (TBWA\\MEDIA ARTS LAB LOS ANGELES)",
+  "links": [
+   "https://vimeo.com/132299364"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Film Craft",
+    "subcategory": "Script",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "CONSERVATION INTERNATIONAL",
+   "product": "CONSERVATION INTERNATIONAL",
+   "agencies": [
+    "TBWA\\MEDIA ARTS LAB Los Angeles / MAL FOR GOOD Los Angeles"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Film Craft",
+     "subcategory": "Script",
+     "count": 1,
+     "entry_titles": [
+      "THE OCEAN"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片工藝類金獅 Film Craft Gold Lion｜代理商：TBWA\\MEDIA ARTS LAB Los Angeles / MAL FOR GOOD Los Angeles"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/7sDFJEwnUZaGwijBHq2OXr/aa1a7fa09f91cf7a197ee7d0c16cac41/LTW_placeholder_3.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/the-ocean-100973"
+  ]
+ },
+ {
+  "id": "ltwm-07631",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "OFFROAD",
+  "brand": "DAIMLER AG/SMART",
+  "agency": "BBDO BERLIN",
+  "raw": "OFFROAD – DAIMLER AG/SMART (BBDO BERLIN)",
+  "links": [
+   "https://danielschweinzer.de/smart-offraod-tvc"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Creative Effectiveness",
+    "subcategory": "Creative Effectiveness",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "DAIMLER AG / SMART",
+   "product": "SMART FORTWO",
+   "agencies": [
+    "BBDO GROUP GERMANY Berlin"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Creative Effectiveness",
+     "subcategory": "Creative Effectiveness",
+     "count": 1,
+     "entry_titles": [
+      "OFFROAD"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意實效類銅獅 Creative Effectiveness Bronze Lion｜代理商：BBDO GROUP GERMANY Berlin"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/3duqCqeHDt9hMAdtuQjc3V/3f6a8c56aeb415ac19cd5dd916fa6976/LTW_placeholder_1.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/offroad-122553"
+  ]
+ },
+ {
+  "id": "ltwm-07881",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "I SKIP LEG DAY",
+  "brand": "SMART BIKE",
+  "agency": "BBDO BERLIN",
+  "raw": "I SKIP LEG DAY – SMART BIKE (BBDO BERLIN)",
+  "links": [
+   "https://www2.eurobest.com/winners/2015/craft_film/entry.cfm?entryid=1194&award=3"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Film Craft",
+    "subcategory": "Use of Original Music",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "MERCEDES-BENZ CARS VERTRIEB DEUTSCHLAND",
+   "product": "SMART EBIKE",
+   "agencies": [
+    "BBDO GROUP GERMANY Berlin"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Film Craft",
+     "subcategory": "Use of Original Music",
+     "count": 1,
+     "entry_titles": [
+      "I SKIP LEG DAY"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片工藝類銅獅 Film Craft Bronze Lion｜代理商：BBDO GROUP GERMANY Berlin"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/1GStA8cUUMJnbepXVsQwox/7aaaddc9cb7ae9f22939053c2fe46b31/LTW_placeholder_4.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/i-skip-leg-day-87663"
+  ]
+ },
+ {
+  "id": "ltwm-07916",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "BERLIN, ROME, LONDON",
+  "brand": "SMART FORTWO",
+  "agency": "BBDO BERLIN",
+  "raw": "BERLIN, ROME, LONDON – SMART FORTWO (BBDO BERLIN)",
+  "links": [
+   "https://www.adsoftheworld.com/campaign/smart-bbdo-04-2015_0"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Press",
+    "subcategory": "Cars",
+    "count": 1,
+    "source_count": 2
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "DAIMLER AG / SMART MBD",
+   "product": "SMART FORTWO",
+   "agencies": [
+    "BBDO GROUP GERMANY Berlin"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Press",
+     "subcategory": "Cars",
+     "count": 1,
+     "entry_titles": [
+      "ROME",
+      "BERLIN"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銅獅 Press Bronze Lion｜代理商：BBDO GROUP GERMANY Berlin"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/0f6daaf4797e4fcf8675cba15f068c54"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/berlin-117672",
+   "https://www.lovethework.com/en/work/entries/rome-117705"
+  ]
+ },
+ {
+  "id": "ltwm-07917",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "SMART FOR TWO",
+  "brand": "SMART",
+  "agency": "JUNG VON MATT VIENNA",
+  "raw": "SMART FOR TWO – SMART (JUNG VON MATT VIENNA)",
+  "links": [
+   "https://www.michaelnagy.at/project/for-two"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Press",
+    "subcategory": "Cars",
+    "count": 1,
+    "source_count": 3
+   },
+   {
+    "level": "Bronze",
+    "category": "Outdoor",
+    "subcategory": "Cars & Automotive Services",
+    "count": 1,
+    "source_count": 3
+   },
+   {
+    "level": "Bronze",
+    "category": "Outdoor",
+    "subcategory": "Cars & Automotive Services",
+    "count": 1,
+    "source_count": 3
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "SMART",
+   "product": "SMART FOR TWO",
+   "agencies": [
+    "JUNG von MATT Vienna / JUNG von MATT Hamburg"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Press",
+     "subcategory": "Cars",
+     "count": 1,
+     "entry_titles": [
+      "SMART FOR TWO YOKO",
+      "SMART FOR TWO SNAKE",
+      "SMART FOR TWO JACKIE"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Outdoor",
+     "subcategory": "Cars & Automotive Services",
+     "count": 1,
+     "entry_titles": [
+      "SMART FOR TWO YOKO",
+      "SMART FOR TWO SNAKE",
+      "SMART FOR TWO JACKIE"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Outdoor",
+     "subcategory": "Cars & Automotive Services",
+     "count": 1,
+     "entry_titles": [
+      "SMART FOR TWO YOKO",
+      "SMART FOR TWO SNAKE",
+      "SMART FOR TWO JACKIE"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion×2、Press類銅獅 Press Bronze Lion｜代理商：JUNG von MATT Vienna / JUNG von MATT Hamburg"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/c78cf57eba89412ae9ecae122c6346c8"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/smart-for-two-yoko-118265",
+   "https://www.lovethework.com/en/work/entries/smart-for-two-yoko-114917",
+   "https://www.lovethework.com/en/work/entries/smart-for-two-yoko-114233"
   ]
  }
 ]

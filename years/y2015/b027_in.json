@@ -1,23 +1,30 @@
 [
  {
-  "id": "ltwm-07529",
+  "id": "ltwm-07445",
   "year": 2015,
   "tier": "SILVER",
   "categories": [],
-  "title": "PHONE ADDRESS",
-  "brand": "BASE",
-  "agency": "DDB BRUSSELS",
-  "raw": "PHONE ADDRESS – BASE (DDB BRUSSELS)",
+  "title": "EYE TEST",
+  "brand": "ESPN",
+  "agency": "AFRICA SÃO PAULO",
+  "raw": "EYE TEST – ESPN (AFRICA SÃO PAULO)",
   "links": [
-   "https://vimeo.com/148493617"
+   "https://vimeo.com/121279279"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Silver",
-    "category": "Mobile",
-    "subcategory": "",
+    "category": "Cyber",
+    "subcategory": "Digital Billboard",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Web Service/App",
     "count": 1,
     "source_count": 1
    }
@@ -25,44 +32,60 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "BASE",
-   "product": "MOBILE PROVIDER",
+   "brand": "ESPN",
+   "product": null,
    "agencies": [
-    "DDB BRUSSELS"
+    "AFRICA São Paulo"
    ],
    "awards": [
     {
      "level": "Silver",
-     "category": "Mobile",
-     "subcategory": "",
+     "category": "Cyber",
+     "subcategory": "Digital Billboard",
      "count": 1,
      "entry_titles": [
-      "BASE PHONEADDRESS"
+      "ESPN EYE TEST / BUS SHELTER"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Cyber",
+     "subcategory": "Web Service/App",
+     "count": 1,
+     "entry_titles": [
+      "ESPN EYE TEST / WEBSITE"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銀獅 Mobile Silver Lion｜代理商：DDB BRUSSELS"
-  }
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion、Cyber類銅獅 Cyber Bronze Lion｜代理商：AFRICA São Paulo"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/6be117fd859644d0a6a6c341a36df1e0"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/espn-eye-test-website-111575",
+   "https://www.lovethework.com/en/work/entries/espn-eye-test-bus-shelter-111926"
+  ]
  },
  {
-  "id": "ltwm-07530",
+  "id": "ltwm-07461",
   "year": 2015,
   "tier": "SILVER",
   "categories": [],
-  "title": "BACKMEAPP",
-  "brand": "P&G",
-  "agency": "LEO BURNETT MILAN",
-  "raw": "BACKMEAPP – P&G (LEO BURNETT MILAN)",
+  "title": "AIRBNB PORTLAND CALL CENTER",
+  "brand": "AIRBNB",
+  "agency": "AIRBNB SAN FRANCISCO",
+  "raw": "AIRBNB PORTLAND CALL CENTER – AIRBNB (AIRBNB SAN FRANCISCO)",
   "links": [
-   "https://clios.com/awards/winner/direct/procter-gamble/backmeapp-974"
+   "https://www.youtube.com/watch?v=kv5F43TCOiE"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Silver",
-    "category": "Mobile",
-    "subcategory": "",
+    "category": "Design",
+    "subcategory": "Spatial Installation",
     "count": 1,
     "source_count": 1
    }
@@ -70,44 +93,57 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "PROCTER & GAMBLE",
-   "product": "ALWAYS FEMININE CARE",
+   "brand": "AIRBNB",
+   "product": null,
    "agencies": [
-    "LEO BURNETT ITALY Milan"
+    "AIRBNB San Francisco / BOORA ARCHITECTS Portland"
    ],
    "awards": [
     {
      "level": "Silver",
-     "category": "Mobile",
-     "subcategory": "",
+     "category": "Design",
+     "subcategory": "Spatial Installation",
      "count": 1,
      "entry_titles": [
-      "BACKMEAPP"
+      "AIRBNB PORTLAND CALL CENTER"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銀獅 Mobile Silver Lion｜代理商：LEO BURNETT ITALY Milan"
-  }
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銀獅 Design Silver Lion｜代理商：AIRBNB San Francisco / BOORA ARCHITECTS Portland"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/c39e7658a8d541f8f0f0408458df7abe"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/airbnb-portland-call-center-103452"
+  ]
  },
  {
-  "id": "ltwm-07531",
+  "id": "ltwm-07447",
   "year": 2015,
   "tier": "SILVER",
   "categories": [],
-  "title": "PROJECT LEARNING CURVE",
-  "brand": "DOMTAR",
-  "agency": "ERIC MOWER + ASSOCIATES CHARLOTTE",
-  "raw": "PROJECT LEARNING CURVE – DOMTAR (ERIC MOWER + ASSOCIATES CHARLOTTE)",
+  "title": "AIRBNB REBRAND",
+  "brand": "AIRBNB",
+  "agency": "DESIGNSTUDIO LONDON",
+  "raw": "AIRBNB REBRAND – AIRBNB (DESIGNSTUDIO LONDON)",
   "links": [
-   "https://clios.com/awards/winner/222"
+   "https://design.studio/work/airbnb"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Silver",
-    "category": "Mobile",
-    "subcategory": "",
+    "category": "Design",
+    "subcategory": "Rebrand or Brand Refresh: Renewing a Current brand Identity",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Design",
+    "subcategory": "Logo & Logo Type (designed for Large Scale Organisations)",
     "count": 1,
     "source_count": 1
    }
@@ -115,44 +151,67 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "DOMTAR",
-   "product": "PAPER",
+   "brand": "AIRBNB",
+   "product": null,
    "agencies": [
-    "ERIC MOWER + ASSOCIATES Charlotte"
+    "DESIGNSTUDIO London"
    ],
    "awards": [
     {
      "level": "Silver",
-     "category": "Mobile",
-     "subcategory": "",
+     "category": "Design",
+     "subcategory": "Rebrand or Brand Refresh: Renewing a Current brand Identity",
      "count": 1,
      "entry_titles": [
-      "PROJECT LEARNING CURVE"
+      "AIRBNB REBRAND"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Design",
+     "subcategory": "Logo & Logo Type (designed for Large Scale Organisations)",
+     "count": 1,
+     "entry_titles": [
+      "AIRBNB REBRAND"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銀獅 Mobile Silver Lion｜代理商：ERIC MOWER + ASSOCIATES Charlotte"
-  }
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銀獅 Design Silver Lion、設計類銅獅 Design Bronze Lion｜代理商：DESIGNSTUDIO London"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/ca79ed3fa4b944d7f53e2f989c459265"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/airbnb-rebrand-103479",
+   "https://www.lovethework.com/en/work/entries/airbnb-rebrand-103415"
+  ]
  },
  {
-  "id": "ltwm-07532",
+  "id": "ltwm-07439",
   "year": 2015,
   "tier": "SILVER",
   "categories": [],
-  "title": "THE FUN QUEUE",
-  "brand": "LISEBERG",
-  "agency": "SHOUT GOTHENBURG",
-  "raw": "THE FUN QUEUE – LISEBERG (SHOUT GOTHENBURG)",
+  "title": "LEGO: EVERYTHING IS NOT AWESOME",
+  "brand": "GREENPEACE",
+  "agency": "DON’T PANIC LONDON",
+  "raw": "LEGO: EVERYTHING IS NOT AWESOME – GREENPEACE (DON’T PANIC LONDON)",
   "links": [
-   "https://www2.eurobest.com/winners/2014/mobile/entry.cfm?entryid=3369&award=4"
+   "https://www.dandad.org/awards/professional/2015/white-pencil-creativity-for-good/24233/lego-everything-is-not-awesome/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Silver",
-    "category": "Mobile",
-    "subcategory": "",
+    "category": "Film",
+    "subcategory": "Charities, Fundraising, Appeals, Non-Profit Organisations, Public Health & Safety, Public Awareness Messages",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Cyber",
+    "subcategory": "Social Video",
     "count": 1,
     "source_count": 1
    }
@@ -160,51 +219,372 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "LISEBERG",
-   "product": "ROLLER COASTER",
+   "brand": "GREENPEACE",
+   "product": "SAVE THE ARCTIC",
    "agencies": [
-    "SHOUT Gothenburg"
+    "DON'T PANIC London"
    ],
    "awards": [
     {
      "level": "Silver",
-     "category": "Mobile",
-     "subcategory": "",
+     "category": "Film",
+     "subcategory": "Charities, Fundraising, Appeals, Non-Profit Organisations, Public Health & Safety, Public Awareness Messages",
      "count": 1,
      "entry_titles": [
-      "THE FUN QUEUE"
+      "LEGO: EVERYTHING IS NOT AWESOME"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Cyber",
+     "subcategory": "Social Video",
+     "count": 1,
+     "entry_titles": [
+      "LEGO: EVERYTHING IS NOT AWESOME"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銀獅 Mobile Silver Lion｜代理商：SHOUT Gothenburg"
-  }
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion、影片類銀獅 Film Silver Lion｜代理商：DON'T PANIC London"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/21oKzZpgKK38z6CH22xvKi/2891cea86e6d97a93344f9f8fd0e6153/LTW_placeholder_2.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/lego-everything-is-not-awesome-119226",
+   "https://www.lovethework.com/en/work/entries/lego-everything-is-not-awesome-110543"
+  ]
  },
  {
-  "id": "ltwm-07533",
+  "id": "ltwm-07446",
   "year": 2015,
   "tier": "SILVER",
   "categories": [],
-  "title": "LGBT AVATARS",
-  "brand": "PRAGUE PRIDE",
-  "agency": "GEOMETRY GLOBAL PRAGUE",
-  "raw": "LGBT AVATARS – PRAGUE PRIDE (GEOMETRY GLOBAL PRAGUE)",
+  "title": "WOW! NO COW!",
+  "brand": "OATLY",
+  "agency": "FORSMAN & BODENFORS GOTHENBURG",
+  "raw": "WOW! NO COW! – OATLY (FORSMAN & BODENFORS GOTHENBURG)",
   "links": [
-   "https://clios.com/awards/winner/981"
+   "https://clios.com/awards/winner/design/oatly/wow-no-cow--501"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Design",
+    "subcategory": "Rebrand or Brand Refresh: Renewing a Current brand Identity",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Design",
+    "subcategory": "Writing for Brands / Tone of Voice",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "OATLY",
+   "product": null,
+   "agencies": [
+    "FORSMAN & BODENFORS Gothenburg"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Design",
+     "subcategory": "Rebrand or Brand Refresh: Renewing a Current brand Identity",
+     "count": 1,
+     "entry_titles": [
+      "WOW! NO COW!"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Design",
+     "subcategory": "Writing for Brands / Tone of Voice",
+     "count": 1,
+     "entry_titles": [
+      "WOW! NO COW!"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銀獅 Design Silver Lion、設計類銅獅 Design Bronze Lion｜代理商：FORSMAN & BODENFORS Gothenburg"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/9ed6b3416b094f8483cb0bf79b16b18b"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/wow-no-cow-103794",
+   "https://www.lovethework.com/en/work/entries/wow-no-cow-103578"
+  ]
+ },
+ {
+  "id": "ltwm-07441",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "WHAT LIVES INSIDE",
+  "brand": "INTEL + DELL",
+  "agency": "PEREIRA & O’DELL SAN FRANCISCO",
+  "raw": "WHAT LIVES INSIDE – INTEL + DELL (PEREIRA & O’DELL SAN FRANCISCO)",
+  "links": [
+   "https://pereiraodell.com/campaign/what-lives-inside"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Film Craft",
+    "subcategory": "Casting",
+    "count": 1,
+    "source_count": 4
+   },
+   {
+    "level": "Bronze",
+    "category": "Film Craft",
+    "subcategory": "Direction",
+    "count": 1,
+    "source_count": 4
+   },
+   {
+    "level": "Silver",
+    "category": "Cyber",
+    "subcategory": "Webisodes/Series",
+    "count": 1,
+    "source_count": 4
+   },
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Storytelling",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Use of Co-Creation & User Generated Content",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Branded Content & Entertainment",
+    "subcategory": "Original User-generated content",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "INTEL + DELL",
+   "product": "DELL VENUE TABLET WITH INTEL INSIDE",
+   "agencies": [
+    "PEREIRA & O'DELL San Francisco"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Film Craft",
+     "subcategory": "Casting",
+     "count": 1,
+     "entry_titles": [
+      "WHAT LIVES INSIDE - EPISODE ONE",
+      "WHAT LIVES INSIDE - EPISODE TWO",
+      "WHAT LIVES INSIDE - EPISODE THREE",
+      "WHAT LIVES INSIDE - EPISODE FOUR"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Film Craft",
+     "subcategory": "Direction",
+     "count": 1,
+     "entry_titles": [
+      "WHAT LIVES INSIDE - EPISODE ONE",
+      "WHAT LIVES INSIDE - EPISODE TWO",
+      "WHAT LIVES INSIDE - EPISODE THREE",
+      "WHAT LIVES INSIDE - EPISODE FOUR"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Cyber",
+     "subcategory": "Webisodes/Series",
+     "count": 1,
+     "entry_titles": [
+      "WHAT LIVES INSIDE - EPISODE ONE",
+      "WHAT LIVES INSIDE - EPISODE TWO",
+      "WHAT LIVES INSIDE - EPISODE THREE",
+      "WHAT LIVES INSIDE - EPISODE FOUR"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Cyber",
+     "subcategory": "Storytelling",
+     "count": 1,
+     "entry_titles": [
+      "WHAT LIVES INSIDE"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Cyber",
+     "subcategory": "Use of Co-Creation & User Generated Content",
+     "count": 1,
+     "entry_titles": [
+      "WHAT LIVES INSIDE"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Branded Content & Entertainment",
+     "subcategory": "Original User-generated content",
+     "count": 1,
+     "entry_titles": [
+      "WHAT LIVES INSIDE"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion、影片工藝類銀獅 Film Craft Silver Lion、Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion、Cyber類銅獅 Cyber Bronze Lion×2、影片工藝類銅獅 Film Craft Bronze Lion｜代理商：PEREIRA & O'DELL San Francisco"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/efdf3079bb3247d786aec825175fbeb2"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/what-lives-inside-129368",
+   "https://www.lovethework.com/en/work/entries/what-lives-inside-129192",
+   "https://www.lovethework.com/en/work/entries/what-lives-inside-122095"
+  ]
+ },
+ {
+  "id": "ltwm-07457",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "INTEL CLEAR",
+  "brand": "INTEL",
+  "agency": "RED PEAK NEW YORK",
+  "raw": "INTEL CLEAR – INTEL (RED PEAK NEW YORK)",
+  "links": [
+   "https://adsspot.me/media/case-study/intel-intel-clear-7131bac0a1a4"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Design",
+    "subcategory": "Brands",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "INTEL",
+   "product": null,
+   "agencies": [
+    "RED PEAK New York"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Design",
+     "subcategory": "Brands",
+     "count": 1,
+     "entry_titles": [
+      "INTEL CLEAR"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銀獅 Design Silver Lion｜代理商：RED PEAK New York"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/3a08192248134db9e285df41be3b3072"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/intel-clear-125653"
+  ]
+ },
+ {
+  "id": "ltwm-07557",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "STAY WITH PRIDE",
+  "brand": "AIRBNB",
+  "agency": "WHYBIN\\TBWA GROUP SYDNEY",
+  "raw": "STAY WITH PRIDE – AIRBNB (WHYBIN\\TBWA GROUP SYDNEY)",
+  "links": [
+   "https://www2.spikes.asia/winners/2015/direct/entry.cfm?entryid=469&award=99&order=0&direction=1"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "PR",
+    "subcategory": "Sponsorship",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "AIRBNB",
+   "product": "TRAVEL & ACCOMMODATION",
+   "agencies": [
+    "WHYBIN\\TBWA GROUP SYDNEY"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "PR",
+     "subcategory": "Sponsorship",
+     "count": 1,
+     "entry_titles": [
+      "STAY WITH PRIDE"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類銀獅 PR Silver Lion｜代理商：WHYBIN\\TBWA GROUP SYDNEY"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/15788600ea90497e80d65de33bfc654d"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/stay-with-pride-125211"
+  ]
+ },
+ {
+  "id": "ltwm-07921",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "STORY OF A SPOON",
+  "brand": "GREENPEACE",
+  "agency": "OGILVY DUBAI",
+  "raw": "STORY OF A SPOON – GREENPEACE (OGILVY DUBAI)",
+  "links": [
+   "https://www.youtube.com/watch?v=eg-E1FtjaxY"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Media",
-    "subcategory": "Use of Mobile Devices",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Mobile",
-    "subcategory": "",
+    "category": "Film",
+    "subcategory": "Private Screens & Events",
     "count": 1,
     "source_count": 1
    }
@@ -212,263 +592,50 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "PRAGUE PRIDE",
-   "product": "PRAGUE PRIDE",
+   "brand": "GREENPEACE INTERNATIONAL",
+   "product": "PLASTIC REDUCTION",
    "agencies": [
-    "GEOMETRY GLOBAL Prague / OGILVY & MATHER PRAGUE"
+    "MEMAC OGILVY Dubai"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Media",
-     "subcategory": "Use of Mobile Devices",
+     "category": "Film",
+     "subcategory": "Private Screens & Events",
      "count": 1,
      "entry_titles": [
-      "LGBT AVATARS"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Mobile",
-     "subcategory": "",
-     "count": 1,
-     "entry_titles": [
-      "LGBT AVATARS"
+      "STORY OF A SPOON"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銀獅 Mobile Silver Lion、媒體類銅獅 Media Bronze Lion｜代理商：GEOMETRY GLOBAL Prague / OGILVY & MATHER PRAGUE"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銅獅 Film Bronze Lion｜代理商：MEMAC OGILVY Dubai"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/c383ef6dc4324f42d4a5a8203f3a10b4"
+   "https://images.ctfassets.net/8ha5xom4da7e/7sDFJEwnUZaGwijBHq2OXr/aa1a7fa09f91cf7a197ee7d0c16cac41/LTW_placeholder_3.svg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/lgbt-avatars-107222"
+   "https://www.lovethework.com/en/work/entries/story-of-a-spoon-135595"
   ]
  },
  {
-  "id": "ltwm-07534",
+  "id": "ltwm-07800",
   "year": 2015,
-  "tier": "SILVER",
+  "tier": "BRONZE",
   "categories": [],
-  "title": "THE LES PAUL SKILL CHECK",
-  "brand": "GIBSON GUITAR",
-  "agency": "SERVICEPLAN MUNICH",
-  "raw": "THE LES PAUL SKILL CHECK – GIBSON GUITAR (SERVICEPLAN MUNICH)",
+  "title": "PETROLEUM HURTS",
+  "brand": "GREENPEACE",
+  "agency": "PUBLICIS SHANGHAI",
+  "raw": "PETROLEUM HURTS – GREENPEACE (PUBLICIS SHANGHAI)",
   "links": [
-   "https://clios.com/awards/winner/direct/gibson-guitar-gmbh/the-les-paul-skill-check-1128"
+   "https://www.dandad.org/awards/professional/2015/white-pencil-creativity-for-good/24193/petroleum-hurts/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Mobile",
-    "subcategory": "",
-    "count": 1,
-    "source_count": 1
-   },
    {
     "level": "Bronze",
-    "category": "Creative Data",
-    "subcategory": "Use of Real-time Data",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "GIBSON GUITAR",
-   "product": "EPIPHONE LES PAUL BJOERN GELOTTE SIGNATURE EDITION",
-   "agencies": [
-    "SERVICEPLAN Munich"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Mobile",
-     "subcategory": "",
-     "count": 1,
-     "entry_titles": [
-      "THE LES PAUL SKILL CHECK"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Creative Data",
-     "subcategory": "Use of Real-time Data",
-     "count": 1,
-     "entry_titles": [
-      "THE LES PAUL SKILL CHECK"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銀獅 Mobile Silver Lion、創意數據類銅獅 Creative Data Bronze Lion｜代理商：SERVICEPLAN Munich"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/28b675cb11824395941d39e7373e6a3a"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-les-paul-skill-check-97684"
-  ]
- },
- {
-  "id": "ltwm-07535",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "#SPRINGISWEIRD",
-  "brand": "GAP",
-  "agency": "WIEDEN+KENNEDY NEW YORK",
-  "raw": "#SPRINGISWEIRD – GAP (WIEDEN+KENNEDY NEW YORK)",
-  "links": [
-   "https://www.youtube.com/watch?v=iCZx6MHZ5bM"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Mobile",
-    "subcategory": "",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "GAP",
-   "product": "GAP SPRING COLLECTION",
-   "agencies": [
-    "WIEDEN+KENNEDY New York"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Mobile",
-     "subcategory": "",
-     "count": 1,
-     "entry_titles": [
-      "#SPRINGISWEIRD"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銀獅 Mobile Silver Lion｜代理商：WIEDEN+KENNEDY New York"
-  }
- },
- {
-  "id": "ltwm-07536",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "LITTLE GIRL",
-  "brand": "FREDDO",
-  "agency": "Y&R SÃO PAULO",
-  "raw": "LITTLE GIRL – FREDDO (Y&R SÃO PAULO)",
-  "links": [
-   "https://www.luerzersarchive.com/en/magazine/print-detail/freddo-59321.html"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
     "category": "Press",
-    "subcategory": "Sweet Foods & Snacks",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Outdoor",
-    "subcategory": "Foods",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Outdoor",
-    "subcategory": "Foods",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "FREDDO",
-   "product": "ICE CREAM",
-   "agencies": [
-    "Y&R SÃO PAULO"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Press",
-     "subcategory": "Sweet Foods & Snacks",
-     "count": 1,
-     "entry_titles": [
-      "LITTLE GIRL"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Outdoor",
-     "subcategory": "Foods",
-     "count": 1,
-     "entry_titles": [
-      "LITTLE GIRL"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Outdoor",
-     "subcategory": "Foods",
-     "count": 1,
-     "entry_titles": [
-      "LITTLE GIRL"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion×2、Press類銀獅 Press Silver Lion｜代理商：Y&R SÃO PAULO"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/a6449d8070d64acd8d1651899085aa4c"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/little-girl-134014",
-   "https://www.lovethework.com/en/work/entries/little-girl-132908",
-   "https://www.lovethework.com/en/work/entries/little-girl-132324"
-  ]
- },
- {
-  "id": "ltwm-07537",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "BEACH, MOUNTAIN, WATERFALL",
-  "brand": "THAI AIRASIA",
-  "agency": "BBDO PROXIMITY BANGKOK",
-  "raw": "BEACH, MOUNTAIN, WATERFALL – THAI AIRASIA (BBDO PROXIMITY BANGKOK)",
-  "links": [
-   "https://ekarat.myportfolio.com/thai-airasia"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Press",
-    "subcategory": "Travel, Transport & Tourism",
-    "count": 1,
-    "source_count": 3
-   },
-   {
-    "level": "Silver",
-    "category": "Outdoor",
-    "subcategory": "Travel, Transport & Tourism",
+    "subcategory": "Illustration",
     "count": 1,
     "source_count": 2
    }
@@ -476,116 +643,32 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "THAI AIRASIA",
-   "product": "THAI AIR ASIA DOMESTIC CAMPAIGN",
+   "brand": "GREEN PEACE",
+   "product": "CHARITY",
    "agencies": [
-    "BBDO PROXIMITY THAILAND Bangkok"
+    "PUBLICIS SHANGHAI"
    ],
    "awards": [
     {
-     "level": "Silver",
+     "level": "Bronze",
      "category": "Press",
-     "subcategory": "Travel, Transport & Tourism",
+     "subcategory": "Illustration",
      "count": 1,
      "entry_titles": [
-      "BEACH",
-      "MOUNTAIN",
-      "WATERFALL"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Outdoor",
-     "subcategory": "Travel, Transport & Tourism",
-     "count": 1,
-     "entry_titles": [
-      "BEACH",
-      "MOUNTAIN"
+      "WALRUS",
+      "BEAR"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion、Press類銀獅 Press Silver Lion｜代理商：BBDO PROXIMITY THAILAND Bangkok"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銅獅 Press Bronze Lion｜代理商：PUBLICIS SHANGHAI"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/0c881a03aac14900c162028dab59dd8a"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/5fd4319c424747c2ab1f6e5e3618680c"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/waterfall-118313",
-   "https://www.lovethework.com/en/work/entries/mountain-132250",
-   "https://www.lovethework.com/en/work/entries/mountain-118348"
-  ]
- },
- {
-  "id": "ltwm-07538",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "GET THERE FASTER",
-  "brand": "BEIJING SUBWAY",
-  "agency": "GREY GROUP BEIJING",
-  "raw": "GET THERE FASTER – BEIJING SUBWAY (GREY GROUP BEIJING)",
-  "links": [
-   "https://campaignbriefasia.com/2015/04/28/beijing-subway-gets-you-there/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Outdoor",
-    "subcategory": "Travel, Transport & Tourism",
-    "count": 1,
-    "source_count": 3
-   },
-   {
-    "level": "Silver",
-    "category": "Outdoor",
-    "subcategory": "Travel, Transport & Tourism",
-    "count": 1,
-    "source_count": 3
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "BEIJING SUBWAY",
-   "product": "BEIJING SUBWAY",
-   "agencies": [
-    "GREY GROUP CHINA Beijing"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Outdoor",
-     "subcategory": "Travel, Transport & Tourism",
-     "count": 1,
-     "entry_titles": [
-      "FIREMEN",
-      "PARAMEDICS",
-      "PIZZA DELIVERYMEN"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Outdoor",
-     "subcategory": "Travel, Transport & Tourism",
-     "count": 1,
-     "entry_titles": [
-      "FIREMEN",
-      "PARAMEDICS",
-      "PIZZA DELIVERYMEN"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion×2｜代理商：GREY GROUP CHINA Beijing"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/3fcbbcdbb0e540e0a491b2b3e1cf6adf"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/pizza-deliverymen-131834",
-   "https://www.lovethework.com/en/work/entries/paramedics-131845",
-   "https://www.lovethework.com/en/work/entries/firemen-131896"
+   "https://www.lovethework.com/en/work/entries/bear-134082",
+   "https://www.lovethework.com/en/work/entries/bear-134085",
+   "https://www.lovethework.com/en/work/entries/walrus-134116"
   ]
  }
 ]

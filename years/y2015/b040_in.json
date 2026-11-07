@@ -1,23 +1,23 @@
 [
  {
-  "id": "ltwm-07667",
+  "id": "ltwm-07581",
   "year": 2015,
-  "tier": "BRONZE",
+  "tier": "SILVER",
   "categories": [],
-  "title": "IRON MIND",
-  "brand": "YOSHIDA HIDEO MEMORIAL FOUNDATION/ADVERTISING MUSEUM TOKYO",
-  "agency": "DENTSU INC. TOKYO",
-  "raw": "IRON MIND – YOSHIDA HIDEO MEMORIAL FOUNDATION/ADVERTISING MUSEUM TOKYO (DENTSU INC. TOKYO)",
+  "title": "MASP LOSERS FREE PASS",
+  "brand": "MASP",
+  "agency": "DDB SÃO PAULO",
+  "raw": "MASP LOSERS FREE PASS – MASP (DDB SÃO PAULO)",
   "links": [
-   "https://www.dandad.org/awards/professional/2015/graphic-design/24573/iron-mind/"
+   "https://adsspot.me/media/case-study/masp-museum-of-art-of-sao-paulo-masp-losers-free-pass-ae7d38e8175a"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Bronze",
-    "category": "Design",
-    "subcategory": "Print and Poster",
+    "level": "Silver",
+    "category": "Promo & Activation",
+    "subcategory": "Travel, Entertainment & Leisure",
     "count": 1,
     "source_count": 1
    }
@@ -25,50 +25,126 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "YOSHIDA HIDEO MEMORIAL FOUNDATION/ADVERTISING MUSEUM TOKYO",
-   "product": null,
+   "brand": "MASP MUSEUM",
+   "product": "INSTITUCIONAL",
    "agencies": [
-    "DENTSU INC. Tokyo"
+    "DDB BRASIL São Paulo"
    ],
    "awards": [
     {
-     "level": "Bronze",
-     "category": "Design",
-     "subcategory": "Print and Poster",
+     "level": "Silver",
+     "category": "Promo & Activation",
+     "subcategory": "Travel, Entertainment & Leisure",
      "count": 1,
      "entry_titles": [
-      "IRON MIND"
+      "MASP LOSERS FREE PASS"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銅獅 Design Bronze Lion｜代理商：DENTSU INC. Tokyo"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銀獅 Promo & Activation Silver Lion｜代理商：DDB BRASIL São Paulo"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/3d8461eb8b5040f2a24899c82447b2b8"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/8d3be2af84624ad581d8647f3e84b66f"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/iron-mind-125370"
+   "https://www.lovethework.com/en/work/entries/masp-losers-free-pass-105294"
   ]
  },
  {
-  "id": "ltwm-07668",
+  "id": "ltwm-07570",
   "year": 2015,
-  "tier": "BRONZE",
+  "tier": "SILVER",
   "categories": [],
-  "title": "CUT A TREE. KILL A LIFE TAPIR",
-  "brand": "MALAYSIAN NATURE SOCIETY",
-  "agency": "Y&R KUALA LUMPUR",
-  "raw": "CUT A TREE. KILL A LIFE TAPIR – MALAYSIAN NATURE SOCIETY (Y&R KUALA LUMPUR)",
+  "title": "MILLION TOYS",
+  "brand": "PLAY-DOH",
+  "agency": "DDB BOGOTÁ",
+  "raw": "MILLION TOYS – PLAY-DOH (DDB BOGOTÁ)",
   "links": [
-   "https://clios.com/awards/winner/design/malaysian-nature-society/cut-a-tree-kill-a-life-tapir-812"
+   "https://www.behance.net/gallery/25993005/Million-Toys-Play-Doh"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
+    "level": "Silver",
+    "category": "Press",
+    "subcategory": "Entertainment & Leisure",
+    "count": 1,
+    "source_count": 3
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "HASBRO",
+   "product": "PLAY DOH",
+   "agencies": [
+    "DDB COLOMBIA Bogotá"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Press",
+     "subcategory": "Entertainment & Leisure",
+     "count": 1,
+     "entry_titles": [
+      "SUBMARINE",
+      "TANK",
+      "SCHOOL BUS"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銀獅 Press Silver Lion｜代理商：DDB COLOMBIA Bogotá"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/e09a6ca4d03140bcb348c184311eb838"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/school-bus-133669",
+   "https://www.lovethework.com/en/work/entries/tank-133674",
+   "https://www.lovethework.com/en/work/entries/submarine-133698"
+  ]
+ },
+ {
+  "id": "ltwm-07576",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "MELANOMA LIKES ME",
+  "brand": "MELANOMA PATIENTS AUSTRALIA",
+  "agency": "GPY&R QUEENSLAND",
+  "raw": "MELANOMA LIKES ME – MELANOMA PATIENTS AUSTRALIA (GPY&R QUEENSLAND)",
+  "links": [
+   "https://www.dandad.org/awards/professional/2016/digital-marketing/25266/melanoma-likes-me/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Social Audience in a Promotional Campaign",
+    "count": 1,
+    "source_count": 1
+   },
+   {
     "level": "Bronze",
-    "category": "Design",
-    "subcategory": "Print and Poster",
+    "category": "Promo & Activation",
+    "subcategory": "",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Media",
+    "subcategory": "Use of Mobile Devices",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Creative Data",
+    "subcategory": "Social Data",
     "count": 1,
     "source_count": 1
    }
@@ -76,297 +152,71 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "MALAYSIAN NATURE SOCIETY",
-   "product": null,
+   "brand": "MELANOMA PATIENTS AUSTRALIA",
+   "product": "MELANOMA PREVENTION",
    "agencies": [
-    "Y&R MALAYSIA Kuala Lumpur"
+    "GPY&R Brisbane"
    ],
    "awards": [
     {
-     "level": "Bronze",
-     "category": "Design",
-     "subcategory": "Print and Poster",
+     "level": "Silver",
+     "category": "Promo & Activation",
+     "subcategory": "Use of Social Audience in a Promotional Campaign",
      "count": 1,
      "entry_titles": [
-      "CUT A TREE. KILL A LIFE - TAPIR"
+      "MELANOMA LIKES ME"
      ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銅獅 Design Bronze Lion｜代理商：Y&R MALAYSIA Kuala Lumpur"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/7149a09f0ba94c26dccb93a69e7f4099"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/cut-a-tree-kill-a-life-tapir-102563"
-  ]
- },
- {
-  "id": "ltwm-07669",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "THE MSC MAGNIFICA SHIPHORN CHOIR",
-  "brand": "MSC KREUZFAHRT",
-  "agency": "LEAGAS DELANEY HAMBURG",
-  "raw": "THE MSC MAGNIFICA SHIPHORN CHOIR – MSC KREUZFAHRT (LEAGAS DELANEY HAMBURG)",
-  "links": [
-   "https://clios.com/awards/winner/engagement-experiential/msc-kreuzfahrt-gmbh/the-msc-magnifica-shiphorn-choir-150"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Design",
-    "subcategory": "Sound Design",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "MSC KREUZFAHRT",
-   "product": null,
-   "agencies": [
-    "LEAGAS DELANEY Hamburg"
-   ],
-   "awards": [
+    },
     {
      "level": "Bronze",
-     "category": "Design",
-     "subcategory": "Sound Design",
+     "category": "Promo & Activation",
+     "subcategory": "",
      "count": 1,
      "entry_titles": [
-      "THE MSC MAGNIFICA SHIPHORN CHOIR"
+      "MELANOMA LIKES ME"
      ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銅獅 Design Bronze Lion｜代理商：LEAGAS DELANEY Hamburg"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/c40591cb906149ceda7699e8b5c89fb6"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-msc-magnifica-shiphorn-choir-125798"
-  ]
- },
- {
-  "id": "ltwm-07670",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "THERE’S ANOTHER SIDE TO THE STORY",
-  "brand": "DEPAUL UK",
-  "agency": "PUBLICIS LONDON",
-  "raw": "THERE’S ANOTHER SIDE TO THE STORY – DEPAUL UK (PUBLICIS LONDON)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2016/graphic-design/25171/theres-another-side-to-the-story/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Design",
-    "subcategory": "Writing for Brands / Tone of Voice",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "DEPAUL UK",
-   "product": null,
-   "agencies": [
-    "PUBLICIS LONDON"
-   ],
-   "awards": [
+    },
     {
      "level": "Bronze",
-     "category": "Design",
-     "subcategory": "Writing for Brands / Tone of Voice",
+     "category": "Media",
+     "subcategory": "Use of Mobile Devices",
      "count": 1,
      "entry_titles": [
-      "THERE'S ANOTHER SIDE TO THE STORY"
+      "MELANOMA LIKES ME"
      ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銅獅 Design Bronze Lion｜代理商：PUBLICIS LONDON"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/9d492120dcff4276c4558e8ad3af3c57"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/theres-another-side-to-the-story-125495"
-  ]
- },
- {
-  "id": "ltwm-07671",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "RON MUECK",
-  "brand": "PINACOTECA SÃO PAULO",
-  "agency": "F/NAZCA SAATCHI & SAATCHI SÃO PAULO",
-  "raw": "RON MUECK – PINACOTECA SÃO PAULO (F/NAZCA SAATCHI & SAATCHI SÃO PAULO)",
-  "links": [
-   "http://www.brunooppido.com/#/ronmueck/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Design",
-    "subcategory": "Writing for Brands / Tone of Voice",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "PINACOTECA DO ESTADO DE SÃO PAULO",
-   "product": null,
-   "agencies": [
-    "F/NAZCA SAATCHI & SAATCHI São Paulo"
-   ],
-   "awards": [
+    },
     {
      "level": "Bronze",
-     "category": "Design",
-     "subcategory": "Writing for Brands / Tone of Voice",
+     "category": "Creative Data",
+     "subcategory": "Social Data",
      "count": 1,
      "entry_titles": [
-      "RON MUECK AT PINACOTECA"
+      "MELANOMA LIKES ME"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銅獅 Design Bronze Lion｜代理商：F/NAZCA SAATCHI & SAATCHI São Paulo"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銀獅 Promo & Activation Silver Lion、創意數據類銅獅 Creative Data Bronze Lion、媒體類銅獅 Media Bronze Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：GPY&R Brisbane"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/dc794f9fe2914eaccd55a288d6a28b8e"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/554094cae2a44ebda4354a60456b4181"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/ron-mueck-at-pinacoteca-103295"
+   "https://www.lovethework.com/en/work/entries/melanoma-likes-me-97771",
+   "https://www.lovethework.com/en/work/entries/melanoma-likes-me-126312",
+   "https://www.lovethework.com/en/work/entries/melanoma-likes-me-106621"
   ]
  },
  {
-  "id": "ltwm-07672",
+  "id": "ltwm-07577",
   "year": 2015,
-  "tier": "BRONZE",
+  "tier": "SILVER",
   "categories": [],
-  "title": "FLOWER LUSH IN ROPPONGI HILLS",
-  "brand": "MORI BUILDING",
-  "agency": "AD&D TOKYO",
-  "raw": "FLOWER LUSH IN ROPPONGI HILLS – MORI BUILDING (AD&D TOKYO)",
+  "title": "CORRIDOR TARGETING",
+  "brand": "GERMANWINGS",
+  "agency": "GREY DÜSSELDORF",
+  "raw": "CORRIDOR TARGETING – GERMANWINGS (GREY DÜSSELDORF)",
   "links": [
-   "https://clios.com/awards/winner/design/roppongi-hills/flower-lush-in-roppongi-hills-900&title=clios.com"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Design",
-    "subcategory": "Small Business",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "MORI BUILDING",
-   "product": null,
-   "agencies": [
-    "AD&D TOKYO"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Design",
-     "subcategory": "Small Business",
-     "count": 1,
-     "entry_titles": [
-      "FLOWER LUSH IN ROPPONGI HILLS"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銅獅 Design Bronze Lion｜代理商：AD&D TOKYO"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/c9e07d8f8cc344afab88e93e745687c0"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/flower-lush-in-roppongi-hills-125832"
-  ]
- },
- {
-  "id": "ltwm-07673",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "CENTERSTAGE",
-  "brand": "SAMSUNG ELECTRONICS",
-  "agency": "THE BARBARIAN GROUP NEW YORK",
-  "raw": "CENTERSTAGE – SAMSUNG ELECTRONICS (THE BARBARIAN GROUP NEW YORK)",
-  "links": [
-   "https://vimeo.com/99379887"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Design",
-    "subcategory": "Large Business",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "SAMSUNG ELECTRONICS",
-   "product": null,
-   "agencies": [
-    "THE BARBARIAN GROUP New York"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Design",
-     "subcategory": "Large Business",
-     "count": 1,
-     "entry_titles": [
-      "CENTERSTAGE"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銅獅 Design Bronze Lion｜代理商：THE BARBARIAN GROUP New York"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/5db4a105271c4d10c0e3391500395b18"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/centerstage-125766"
-  ]
- },
- {
-  "id": "ltwm-07674",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "BE PREPARED",
-  "brand": "TIC TAC",
-  "agency": "GREY BANGKOK",
-  "raw": "BE PREPARED – TIC TAC (GREY BANGKOK)",
-  "links": [
-   "https://thework.awardsplatform.com/gallery/eZMGApDg/xPyOnxQW?search=2aecb047727ab15f-10"
+   "https://clios.com/awards/winner/digital/germanwings/corridor-targeting-763"
   ],
   "zh_brief": "",
   "note_from_selection": "",
@@ -374,14 +224,353 @@
    {
     "level": "Bronze",
     "category": "Outdoor",
-    "subcategory": "Foods",
+    "subcategory": "Travel, Transport & Tourism",
+    "count": 1,
+    "source_count": 3
+   },
+   {
+    "level": "Silver",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Digital Advertising in a Promotional Campaign",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Promo & Activation",
+    "subcategory": "Travel, Entertainment & Leisure",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Media",
+    "subcategory": "Use of Social Platforms",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "GERMANWINGS",
+   "product": "GERMANWINGS",
+   "agencies": [
+    "GREY GERMANY Düsseldorf"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Outdoor",
+     "subcategory": "Travel, Transport & Tourism",
+     "count": 1,
+     "entry_titles": [
+      "BERLISTANBUL",
+      "PARISSELDORF",
+      "COLONDON"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Promo & Activation",
+     "subcategory": "Use of Digital Advertising in a Promotional Campaign",
+     "count": 1,
+     "entry_titles": [
+      "CORRIDOR TARGETING"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Promo & Activation",
+     "subcategory": "Travel, Entertainment & Leisure",
+     "count": 1,
+     "entry_titles": [
+      "CORRIDOR TARGETING"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Media",
+     "subcategory": "Use of Social Platforms",
+     "count": 1,
+     "entry_titles": [
+      "CORRIDOR TARGETING"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銀獅 Promo & Activation Silver Lion、媒體類銅獅 Media Bronze Lion、戶外類銅獅 Outdoor Bronze Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：GREY GERMANY Düsseldorf"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/35720f57cf354c48a55e95b816a2e9fa"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/corridor-targeting-127136",
+   "https://www.lovethework.com/en/work/entries/corridor-targeting-126586",
+   "https://www.lovethework.com/en/work/entries/corridor-targeting-107385"
+  ]
+ },
+ {
+  "id": "ltwm-07583",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "MUMS AND MAIDS",
+  "brand": "TWC2",
+  "agency": "OGILVY SINGAPORE",
+  "raw": "MUMS AND MAIDS – TWC2 (OGILVY SINGAPORE)",
+  "links": [
+   "https://www.dandad.org/awards/professional/2016/pr/25080/mums-and-maids/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Promo & Activation",
+    "subcategory": "Charities (incl. Fundraising, Donations & Appeals)",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "TRANSIENT WORKERS COUNT TOO (TWC2)",
+   "product": "TWC2",
+   "agencies": [
+    "OGILVY & MATHER SINGAPORE"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Promo & Activation",
+     "subcategory": "Charities (incl. Fundraising, Donations & Appeals)",
+     "count": 1,
+     "entry_titles": [
+      "MUMS AND MAIDS"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銀獅 Promo & Activation Silver Lion｜代理商：OGILVY & MATHER SINGAPORE"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/39c2b092fb034fe3f57f38fd97466328"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/mums-and-maids-104985"
+  ]
+ },
+ {
+  "id": "ltwm-07572",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "OLD ROCKERS",
+  "brand": "MARISCAL ROCK RADIO",
+  "agency": "TAPSA | Y&R MADRID",
+  "raw": "OLD ROCKERS – MARISCAL ROCK RADIO (TAPSA | Y&R MADRID)",
+  "links": [
+   "https://www.behance.net/gallery/26353675/MARISKAL-RADIO-Old-Rockers"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Press",
+    "subcategory": "Publications & Media",
+    "count": 1,
+    "source_count": 5
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "MARISCAL ROCK RADIO",
+   "product": "ONLINE RADIO",
+   "agencies": [
+    "TAPSA | Y&R Madrid"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Press",
+     "subcategory": "Publications & Media",
+     "count": 1,
+     "entry_titles": [
+      "OLD AXL",
+      "OLD MCCARTNEY",
+      "OLD DYLAN",
+      "OLD TYLER",
+      "OLD RICHARDS"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銀獅 Press Silver Lion｜代理商：TAPSA | Y&R Madrid"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/4aebac36d2f04d13f7d41063695b433f"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/old-richards-117779",
+   "https://www.lovethework.com/en/work/entries/old-tyler-117799",
+   "https://www.lovethework.com/en/work/entries/old-dylan-117810"
+  ]
+ },
+ {
+  "id": "ltwm-07584",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "TRAVEL BEFORE IT’S NOT FUN ANYMORE",
+  "brand": "FLIGHT CENTRE",
+  "agency": "TBWA\\HUNT\\LASCARIS JOHANNESBURG",
+  "raw": "TRAVEL BEFORE IT’S NOT FUN ANYMORE – FLIGHT CENTRE (TBWA\\HUNT\\LASCARIS JOHANNESBURG)",
+  "links": [
+   "https://www.dandad.org/awards/professional/2016/radio-advertising/24937/travel-before-its-not-fun-anymore/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Radio",
+    "subcategory": "Travel, Transport & Tourism",
+    "count": 1,
+    "source_count": 2
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "FLIGHT CENTRE",
+   "product": null,
+   "agencies": [
+    "TBWA\\HUNT\\LASCARIS JOHANNESBURG"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Radio",
+     "subcategory": "Travel, Transport & Tourism",
+     "count": 1,
+     "entry_titles": [
+      "MUSIC FEST",
+      "BEER FEST"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Radio類銀獅 Radio Silver Lion｜代理商：TBWA\\HUNT\\LASCARIS JOHANNESBURG"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/7wkKWL9wo0CVTRlnqWuiy9/d10dba1a1019d638ac5f910d21b7d525/audio-pink.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/beer-fest-113411",
+   "https://www.lovethework.com/en/work/entries/music-fest-113421"
+  ]
+ },
+ {
+  "id": "ltwm-07580",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "DELTA INNOVATION CLASS",
+  "brand": "DELTA AIR LINES",
+  "agency": "WIEDEN+KENNEDY NEW YORK",
+  "raw": "DELTA INNOVATION CLASS – DELTA AIR LINES (WIEDEN+KENNEDY NEW YORK)",
+  "links": [
+   "https://clios.com/awards/winner/direct/delta-air-lines/delta-innovation-class-1303"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Promo & Activation",
+    "subcategory": "Sponsorship or Partnership Campaigns",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Promo & Activation",
+    "subcategory": "Travel, Entertainment & Leisure",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "DELTA AIR LINES",
+   "product": "DELTA AIR LINES",
+   "agencies": [
+    "WIEDEN+KENNEDY New York"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Promo & Activation",
+     "subcategory": "Sponsorship or Partnership Campaigns",
+     "count": 1,
+     "entry_titles": [
+      "DELTA INNOVATION CLASS"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Promo & Activation",
+     "subcategory": "Travel, Entertainment & Leisure",
+     "count": 1,
+     "entry_titles": [
+      "DELTA INNOVATION CLASS"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銀獅 Promo & Activation Silver Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：WIEDEN+KENNEDY New York"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/ae5f4a39db904f40eb0627abe9ae50c6"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/delta-innovation-class-105542",
+   "https://www.lovethework.com/en/work/entries/delta-innovation-class-105096"
+  ]
+ },
+ {
+  "id": "ltwm-07575",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "MORE THAN A SIGN",
+  "brand": "DISLIFE",
+  "agency": "Y&R MOSCOW",
+  "raw": "MORE THAN A SIGN – DISLIFE (Y&R MOSCOW)",
+  "links": [
+   "https://www.youtube.com/watch?v=T926dU9SYvg"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Exhibitions and Installations",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "PR",
+    "subcategory": "Events & Experiential (incl. stunts)",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Bronze",
     "category": "Design",
-    "subcategory": "Posters",
+    "subcategory": "Wayfinding & Signage",
     "count": 1,
     "source_count": 1
    }
@@ -389,60 +578,70 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "FERRERO ASIA",
-   "product": "TIC TAC",
+   "brand": "DISLIFE",
+   "product": "DISABILITY RIGHTS AWARENESS",
    "agencies": [
-    "nudeJEH Bangkok / GREY THAILAND Bangkok"
+    "Y&R Moscow"
    ],
    "awards": [
     {
-     "level": "Bronze",
-     "category": "Outdoor",
-     "subcategory": "Foods",
+     "level": "Silver",
+     "category": "Promo & Activation",
+     "subcategory": "Use of Exhibitions and Installations",
      "count": 1,
      "entry_titles": [
-      "BE PREPARED"
+      "MORE THAN A SIGN"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "PR",
+     "subcategory": "Events & Experiential (incl. stunts)",
+     "count": 1,
+     "entry_titles": [
+      "MORE THAN A SIGN"
      ]
     },
     {
      "level": "Bronze",
      "category": "Design",
-     "subcategory": "Posters",
+     "subcategory": "Wayfinding & Signage",
      "count": 1,
      "entry_titles": [
-      "BE PREPARED"
+      "MORE THAN A SIGN"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銅獅 Design Bronze Lion、戶外類銅獅 Outdoor Bronze Lion｜代理商：nudeJEH Bangkok / GREY THAILAND Bangkok"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銀獅 Promo & Activation Silver Lion、設計類銅獅 Design Bronze Lion、公關類銅獅 PR Bronze Lion｜代理商：Y&R Moscow"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/73922fc7750b4434ec1f03dc911d687f"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/0d0ed7a863cb4311ea41bcd30a530201"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/be-prepared-115667",
-   "https://www.lovethework.com/en/work/entries/be-prepared-103277"
+   "https://www.lovethework.com/en/work/entries/more-than-a-sign-126348",
+   "https://www.lovethework.com/en/work/entries/more-than-a-sign-103925",
+   "https://www.lovethework.com/en/work/entries/more-than-a-sign-101327"
   ]
  },
  {
-  "id": "ltwm-07675",
+  "id": "ltwm-07902",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "SNOW GRAFFITI",
-  "brand": "MEXICO TOURISM BOARD",
-  "agency": "LAPIZ CHICAGO",
-  "raw": "SNOW GRAFFITI – MEXICO TOURISM BOARD (LAPIZ CHICAGO)",
+  "title": "MAKES SMART KIDS",
+  "brand": "PLAY-DOH",
+  "agency": "PUBLICIS CAPE TOWN",
+  "raw": "MAKES SMART KIDS – PLAY-DOH (PUBLICIS CAPE TOWN)",
   "links": [
-   "https://www.lbbonline.com/work/8880"
+   "https://www.adsoftheworld.com/campaign/playdoh-publicis-06-2015"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Design",
-    "subcategory": "Sculptural",
+    "category": "Outdoor",
+    "subcategory": "Entertainment & Leisure",
     "count": 1,
     "source_count": 1
    }
@@ -450,80 +649,29 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "MEXICO TOURISM BOARD",
-   "product": null,
+   "brand": "HASBRO",
+   "product": "PLAY-DOH",
    "agencies": [
-    "LAPIZ Chicago"
+    "PUBLICIS MACHINE Cape Town"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Design",
-     "subcategory": "Sculptural",
+     "category": "Outdoor",
+     "subcategory": "Entertainment & Leisure",
      "count": 1,
      "entry_titles": [
-      "SNOW GRAFFITI"
+      "COOKIES"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銅獅 Design Bronze Lion｜代理商：LAPIZ Chicago"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：PUBLICIS MACHINE Cape Town"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/77016b9fff784964996b0252e2d5ccd7"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/160fed91c359426dadcd38b6c2cbef29"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/snow-graffiti-103201"
-  ]
- },
- {
-  "id": "ltwm-07676",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "DESIGN OF A SINGLE MALTS COLLECTION",
-  "brand": "THE WHISKY LODGE",
-  "agency": "BE DANDY PARIS",
-  "raw": "DESIGN OF A SINGLE MALTS COLLECTION – THE WHISKY LODGE (BE DANDY PARIS)",
-  "links": [
-   "http://www.whiskyandco.net/orcines-by-the-whisky-lodge-of-malt-and-cotton-2/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Design",
-    "subcategory": "Premium Brand",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "THE WHISKY LODGE",
-   "product": null,
-   "agencies": [
-    "BE DANDY PARIS"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Design",
-     "subcategory": "Premium Brand",
-     "count": 1,
-     "entry_titles": [
-      "DESIGN OF A SINGLE MALTS COLLECTION"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銅獅 Design Bronze Lion｜代理商：BE DANDY PARIS"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/e8f381cd9d5044aeddc88892059622b9"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/design-of-a-single-malts-collection-103596"
+   "https://www.lovethework.com/en/work/entries/cookies-131948"
   ]
  }
 ]

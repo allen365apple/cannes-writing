@@ -1,37 +1,23 @@
 [
  {
-  "id": "ltwm-07265",
+  "id": "ltwm-07262",
   "year": 2015,
   "tier": "GRAND PRIX / TITANIUM",
   "categories": [],
-  "title": "TAKE IT FROM A FISH",
-  "brand": "ASTRAZENECA",
-  "agency": "DIGITASLBI NEW YORK",
-  "raw": "TAKE IT FROM A FISH – ASTRAZENECA (DIGITASLBI NEW YORK)",
+  "title": "LIVE TEST SERIES",
+  "brand": "VOLVO TRUCKS",
+  "agency": "FORSMAN & BODENFORS GOTHENBURG",
+  "raw": "LIVE TEST SERIES – VOLVO TRUCKS (FORSMAN & BODENFORS GOTHENBURG)",
   "links": [
-   "https://clios.com/health/winner/digital/take-it-from-a-fish-1318"
+   "https://casestudies.se/live-test-series-2cc69b2e"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Grand Prix",
-    "category": "Pharma",
-    "subcategory": "Education & Services",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Pharma",
-    "subcategory": "Education & Services",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Pharma",
-    "subcategory": "Education & Services",
+    "category": "Creative Effectiveness",
+    "subcategory": "Creative Effectiveness",
     "count": 1,
     "source_count": 1
    }
@@ -39,119 +25,130 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "ASTRAZENECA",
-   "product": "DISEASE EDUCATION",
+   "brand": "VOLVO TRUCKS",
+   "product": "THE NEW VOLVO FMX, THE NEW VOLVO FL, THE NEW VOLVO FM",
    "agencies": [
-    "DIGITASLBI New York"
+    "FORSMAN & BODENFORS Gothenburg"
    ],
    "awards": [
     {
      "level": "Grand Prix",
-     "category": "Pharma",
-     "subcategory": "Education & Services",
+     "category": "Creative Effectiveness",
+     "subcategory": "Creative Effectiveness",
      "count": 1,
      "entry_titles": [
-      "TAKE IT FROM A FISH"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Pharma",
-     "subcategory": "Education & Services",
-     "count": 1,
-     "entry_titles": [
-      "TAKE IT FROM A FISH"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Pharma",
-     "subcategory": "Education & Services",
-     "count": 1,
-     "entry_titles": [
-      "TAKE IT FROM A FISH"
+      "LIVE TEST SERIES"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜製藥類全場大獎 Pharma Grand Prix、製藥類銀獅 Pharma Silver Lion、製藥類銅獅 Pharma Bronze Lion｜代理商：DIGITASLBI New York"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意實效類全場大獎 Creative Effectiveness Grand Prix｜代理商：FORSMAN & BODENFORS Gothenburg"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/03ef5bcff0df4e8a927c94d25e40757c"
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/053221f659984f36b2b8d46ea8955804/storyboard_000002.jpg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/take-it-from-a-fish-98658",
-   "https://www.lovethework.com/en/work/entries/take-it-from-a-fish-98610",
-   "https://www.lovethework.com/en/work/entries/take-it-from-a-fish-98566"
+   "https://www.lovethework.com/en/work/entries/live-test-series-122557"
   ]
  },
  {
-  "id": "ltwm-07266",
+  "id": "ltwm-07255",
   "year": 2015,
   "tier": "GRAND PRIX / TITANIUM",
   "categories": [],
-  "title": "THE BERLIN WALL OF SOUND",
-  "brand": "GREY DÜSSELDORF",
-  "agency": "SOUNDCLOUD",
-  "raw": "THE BERLIN WALL OF SOUND – GREY DÜSSELDORF (SOUNDCLOUD)",
+  "title": "CARDBOARD",
+  "brand": "GOOGLE",
+  "agency": "GOOGLE MOUNTAIN VIEW USA",
+  "raw": "CARDBOARD – GOOGLE (GOOGLE MOUNTAIN VIEW USA)",
   "links": [
-   "https://www.dandad.org/awards/professional/2015/crafts-for-advertising/24104/the-berlin-wall-of-sound/"
+   "https://clios.com/awards/winner/innovative/google/cardboard-95"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Grand Prix",
-    "category": "Radio",
-    "subcategory": "Use of Sound Design",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "GOOGLE",
+   "product": "CARDBOARD",
+   "agencies": [
+    "GOOGLE Mountain View"
+   ],
+   "awards": [
+    {
+     "level": "Grand Prix",
+     "category": "Mobile",
+     "subcategory": "",
+     "count": 1,
+     "entry_titles": [
+      "CARDBOARD"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類全場大獎 Mobile Grand Prix｜代理商：GOOGLE Mountain View"
+  }
+ },
+ {
+  "id": "ltwm-07261",
+  "year": 2015,
+  "tier": "GRAND PRIX / TITANIUM",
+  "categories": [],
+  "title": "LIFEPAINT",
+  "brand": "VOLVO",
+  "agency": "GREY LONDON",
+  "raw": "LIFEPAINT – VOLVO (GREY LONDON)",
+  "links": [
+   "https://www.youtube.com/watch?v=1ZuVCVSek1Y"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Automotive Products & Services",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Direct",
+    "subcategory": "Cars & Automotive Services",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Grand Prix",
+    "category": "Promo & Activation",
+    "subcategory": "Cars & Automotive Services",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Silver",
-    "category": "Radio",
-    "subcategory": "Use of Branded Content / Programming",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Ambient in a Promotional Campaign: Small Scale",
     "count": 1,
     "source_count": 1
    },
    {
-    "level": "Gold",
-    "category": "Cyber",
-    "subcategory": "Use of Music/Sound Design",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Content Placement (incl. Copy/Image/Audio/Video Placement)",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Storytelling",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Innovative Use of Social or Community (incl. Emerging Platforms for Brands)",
+    "level": "Grand Prix",
+    "category": "Design",
+    "subcategory": "Promotional Item Design",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Bronze",
     "category": "Design",
-    "subcategory": "Sound Design",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Original Use of Music",
+    "subcategory": "",
     "count": 1,
     "source_count": 1
    }
@@ -159,115 +156,104 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "SOUNDCLOUD",
-   "product": "SOUNDCLOUD",
+   "brand": "VOLVO UK",
+   "product": "VOLVO BRAND",
    "agencies": [
-    "GREY GERMANY Düsseldorf / GREY GERMANY Berlin"
+    "GREY LONDON"
    ],
    "awards": [
     {
-     "level": "Grand Prix",
-     "category": "Radio",
-     "subcategory": "Use of Sound Design",
+     "level": "Bronze",
+     "category": "Cyber",
+     "subcategory": "Automotive Products & Services",
      "count": 1,
      "entry_titles": [
-      "THE BERLIN WALL OF SOUND - THE MOST UNBEARABLE RADIO AD"
+      "LIFEPAINT"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Direct",
+     "subcategory": "Cars & Automotive Services",
+     "count": 1,
+     "entry_titles": [
+      "LIFEPAINT"
+     ]
+    },
+    {
+     "level": "Grand Prix",
+     "category": "Promo & Activation",
+     "subcategory": "Cars & Automotive Services",
+     "count": 1,
+     "entry_titles": [
+      "LIFEPAINT"
      ]
     },
     {
      "level": "Silver",
-     "category": "Radio",
-     "subcategory": "Use of Branded Content / Programming",
+     "category": "Promo & Activation",
+     "subcategory": "Use of Ambient in a Promotional Campaign: Small Scale",
      "count": 1,
      "entry_titles": [
-      "THE BERLIN WALL OF SOUND - THE MOST UNBEARABLE RADIO AD"
+      "LIFEPAINT"
      ]
     },
     {
-     "level": "Gold",
-     "category": "Cyber",
-     "subcategory": "Use of Music/Sound Design",
+     "level": "Grand Prix",
+     "category": "Design",
+     "subcategory": "Promotional Item Design",
      "count": 1,
      "entry_titles": [
-      "THE BERLIN WALL OF SOUND"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Content Placement (incl. Copy/Image/Audio/Video Placement)",
-     "count": 1,
-     "entry_titles": [
-      "THE BERLIN WALL OF SOUND"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Storytelling",
-     "count": 1,
-     "entry_titles": [
-      "THE BERLIN WALL OF SOUND"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Innovative Use of Social or Community (incl. Emerging Platforms for Brands)",
-     "count": 1,
-     "entry_titles": [
-      "THE BERLIN WALL OF SOUND"
+      "LIFEPAINT"
      ]
     },
     {
      "level": "Bronze",
      "category": "Design",
-     "subcategory": "Sound Design",
+     "subcategory": "",
      "count": 1,
      "entry_titles": [
-      "THE BERLIN WALL OF SOUND"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Original Use of Music",
-     "count": 1,
-     "entry_titles": [
-      "THE BERLIN WALL OF SOUND"
+      "LIFEPAINT"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Radio類全場大獎 Radio Grand Prix、Cyber類金獅 Cyber Gold Lion、Branded Content & Entertainment類銀獅 Branded Content & Entertainment Silver Lion、Radio類銀獅 Radio Silver Lion、Cyber類銅獅 Cyber Bronze Lion×3、設計類銅獅 Design Bronze Lion｜代理商：GREY GERMANY Düsseldorf / GREY GERMANY Berlin"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類全場大獎 Design Grand Prix、Promo & Activation類全場大獎 Promo & Activation Grand Prix、Promo & Activation類銀獅 Promo & Activation Silver Lion、Cyber類銅獅 Cyber Bronze Lion、設計類銅獅 Design Bronze Lion、直效類銅獅 Direct Bronze Lion｜代理商：GREY LONDON"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/6c28a40d55ec44f197390cade81b9983"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/48b4c7e42ec04f10d477d176e94e8414"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-berlin-wall-of-sound-130027",
-   "https://www.lovethework.com/en/work/entries/the-berlin-wall-of-sound-130026",
-   "https://www.lovethework.com/en/work/entries/the-berlin-wall-of-sound-129464"
+   "https://www.lovethework.com/en/work/entries/lifepaint-112111",
+   "https://www.lovethework.com/en/work/entries/lifepaint-109938",
+   "https://www.lovethework.com/en/work/entries/lifepaint-105466"
   ]
  },
  {
-  "id": "ltwm-07267",
+  "id": "ltwm-07259",
   "year": 2015,
   "tier": "GRAND PRIX / TITANIUM",
   "categories": [],
-  "title": "THE ICE BUCKET CHALLENGE",
-  "brand": "THE ALS ASSOCIATION WASHINGTON",
-  "agency": "",
-  "raw": "THE ICE BUCKET CHALLENGE – THE ALS ASSOCIATION WASHINGTON",
+  "title": "INTERCEPTION",
+  "brand": "VOLVO",
+  "agency": "GREY NEW YORK",
+  "raw": "INTERCEPTION – VOLVO (GREY NEW YORK)",
   "links": [
-   "https://activationideas.com/blog/the-ice-bucket-challenge"
+   "https://www.youtube.com/watch?v=6CyHHBI2umY"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Gold",
+    "level": "Silver",
     "category": "Cyber",
-    "subcategory": "Use of Co-Creation & User Generated Content",
+    "subcategory": "Response/Real-Time Activity (including crowdsourcing)",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Grand Prix",
+    "category": "Direct",
+    "subcategory": "Response/Real-Time Activity",
     "count": 1,
     "source_count": 1
    },
@@ -279,21 +265,14 @@
     "source_count": 1
    },
    {
-    "level": "Gold",
+    "level": "Silver",
     "category": "Promo & Activation",
-    "subcategory": "Charities (incl. Fundraising, Donations & Appeals)",
+    "subcategory": "Use of Competitions & Promotional Games",
     "count": 1,
     "source_count": 1
    },
    {
-    "level": "Gold",
-    "category": "Promo & Activation",
-    "subcategory": "Use of Promotional Events & Stunts",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
+    "level": "Silver",
     "category": "Promo & Activation",
     "subcategory": "Use of Social Audience in a Promotional Campaign",
     "count": 1,
@@ -301,43 +280,15 @@
    },
    {
     "level": "Gold",
-    "category": "Media",
-    "subcategory": "Use of Social Platforms",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
     "category": "PR",
-    "subcategory": "Use of Co-Creation & User Generated Content",
+    "subcategory": "Automotive and Transport",
     "count": 1,
     "source_count": 1
    },
    {
-    "level": "Gold",
-    "category": "Mobile",
-    "subcategory": "",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Original Branded Digital or Social Media",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Original User-generated content",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Grand Prix for Good",
-    "category": "Grand Prix for Good",
-    "subcategory": "Grand Prix for Good",
+    "level": "Silver",
+    "category": "PR",
+    "subcategory": "Response/Real-Time Activity (including crowdsourcing)",
     "count": 1,
     "source_count": 1
    }
@@ -345,20 +296,28 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "THE ALS ASSOCIATION",
-   "product": "THE ALS ASSOCIATION",
+   "brand": "VOLVO",
+   "product": "AUTOMOBILES",
    "agencies": [
-    "THE ALS ASSOCIATION Washington",
-    "THE ALS ASSOCIATION, Washington"
+    "GREY NEW YORK"
    ],
    "awards": [
     {
-     "level": "Gold",
+     "level": "Silver",
      "category": "Cyber",
-     "subcategory": "Use of Co-Creation & User Generated Content",
+     "subcategory": "Response/Real-Time Activity (including crowdsourcing)",
      "count": 1,
      "entry_titles": [
-      "THE ICE BUCKET CHALLENGE"
+      "INTERCEPTION"
+     ]
+    },
+    {
+     "level": "Grand Prix",
+     "category": "Direct",
+     "subcategory": "Response/Real-Time Activity",
+     "count": 1,
+     "entry_titles": [
+      "INTERCEPTION"
      ]
     },
     {
@@ -367,277 +326,211 @@
      "subcategory": "Use of Social Audience in a Direct Marketing Campaign",
      "count": 1,
      "entry_titles": [
-      "THE ICE BUCKET CHALLENGE"
+      "INTERCEPTION"
      ]
     },
     {
-     "level": "Gold",
+     "level": "Silver",
      "category": "Promo & Activation",
-     "subcategory": "Charities (incl. Fundraising, Donations & Appeals)",
+     "subcategory": "Use of Competitions & Promotional Games",
      "count": 1,
      "entry_titles": [
-      "THE ICE BUCKET CHALLENGE"
+      "INTERCEPTION"
      ]
     },
     {
-     "level": "Gold",
-     "category": "Promo & Activation",
-     "subcategory": "Use of Promotional Events & Stunts",
-     "count": 1,
-     "entry_titles": [
-      "THE ICE BUCKET CHALLENGE"
-     ]
-    },
-    {
-     "level": "Gold",
+     "level": "Silver",
      "category": "Promo & Activation",
      "subcategory": "Use of Social Audience in a Promotional Campaign",
      "count": 1,
      "entry_titles": [
-      "THE ICE BUCKET CHALLENGE"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Media",
-     "subcategory": "Use of Social Platforms",
-     "count": 1,
-     "entry_titles": [
-      "THE ICE BUCKET CHALLENGE"
+      "INTERCEPTION"
      ]
     },
     {
      "level": "Gold",
      "category": "PR",
-     "subcategory": "Use of Co-Creation & User Generated Content",
+     "subcategory": "Automotive and Transport",
      "count": 1,
      "entry_titles": [
-      "THE ICE BUCKET CHALLENGE"
+      "INTERCEPTION"
      ]
     },
     {
-     "level": "Gold",
-     "category": "Mobile",
-     "subcategory": "",
+     "level": "Silver",
+     "category": "PR",
+     "subcategory": "Response/Real-Time Activity (including crowdsourcing)",
      "count": 1,
      "entry_titles": [
-      "THE ICE BUCKET CHALLENGE"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Original Branded Digital or Social Media",
-     "count": 1,
-     "entry_titles": [
-      "THE ICE BUCKET CHALLENGE"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Original User-generated content",
-     "count": 1,
-     "entry_titles": [
-      "THE ICE BUCKET CHALLENGE"
-     ]
-    },
-    {
-     "level": "Grand Prix",
-     "category": "Grand Prix for Good",
-     "subcategory": "Grand Prix for Good",
-     "count": 1,
-     "entry_titles": [
-      "THE ICE BUCKET CHALLENGE"
+      "INTERCEPTION"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公益全場大獎 Grand Prix for Good、Branded Content & Entertainment類金獅 Branded Content & Entertainment Gold Lion×2、Cyber類金獅 Cyber Gold Lion、直效類金獅 Direct Gold Lion、媒體類金獅 Media Gold Lion、行動類金獅 Mobile Gold Lion、公關類金獅 PR Gold Lion、Promo & Activation類金獅 Promo & Activation Gold Lion×3｜代理商：THE ALS ASSOCIATION Washington / THE ALS ASSOCIATION, Washington"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜直效類全場大獎 Direct Grand Prix、直效類金獅 Direct Gold Lion、公關類金獅 PR Gold Lion、Cyber類銀獅 Cyber Silver Lion、公關類銀獅 PR Silver Lion、Promo & Activation類銀獅 Promo & Activation Silver Lion×2｜代理商：GREY NEW YORK"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/67eef5d8295f4a758f0639edaed2fba7"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/dfc7c81da57240feb4fab4c64ae6e6dc"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-ice-bucket-challenge-483610",
-   "https://www.lovethework.com/en/work/entries/the-ice-bucket-challenge-127735",
-   "https://www.lovethework.com/en/work/entries/the-ice-bucket-challenge-126521"
+   "https://www.lovethework.com/en/work/entries/interception-110743",
+   "https://www.lovethework.com/en/work/entries/interception-109419",
+   "https://www.lovethework.com/en/work/entries/interception-109034"
   ]
  },
  {
-  "id": "ltwm-07268",
+  "id": "ltwm-07256",
   "year": 2015,
   "tier": "GRAND PRIX / TITANIUM",
   "categories": [],
-  "title": "THE LANDSCAPE SONG",
-  "brand": "JEEP",
-  "agency": "FCB&FIRE BUENOS AIRES",
-  "raw": "THE LANDSCAPE SONG – JEEP (FCB&FIRE BUENOS AIRES)",
+  "title": "NEVER STOP RIDING",
+  "brand": "CITY OF BUENOS AIRES",
+  "agency": "THE COMMUNITY MIAMI",
+  "raw": "NEVER STOP RIDING – CITY OF BUENOS AIRES (THE COMMUNITY MIAMI)",
   "links": [
-   "https://emiale.com/jeep"
+   "https://clios.com/awards/winner/design/city-of-buenos-aires/never-stop-riding-799"
   ],
   "zh_brief": "",
   "note_from_selection": "",
-  "official_awards": [],
+  "official_awards": [
+   {
+    "level": "Grand Prix",
+    "category": "Press",
+    "subcategory": "Travel, Transport & Tourism",
+    "count": 1,
+    "source_count": 4
+   },
+   {
+    "level": "Gold",
+    "category": "Press",
+    "subcategory": "Illustration",
+    "count": 1,
+    "source_count": 3
+   },
+   {
+    "level": "Gold",
+    "category": "Press",
+    "subcategory": "Art Direction",
+    "count": 1,
+    "source_count": 3
+   },
+   {
+    "level": "Gold",
+    "category": "Outdoor",
+    "subcategory": "Traditional Illustration",
+    "count": 1,
+    "source_count": 2
+   },
+   {
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Travel, Transport & Tourism",
+    "count": 1,
+    "source_count": 4
+   }
+  ],
   "official_case": "",
-  "official_summary": ""
+  "official_summary": "",
+  "official": {
+   "brand": "CITY OF BUENOS AIRES",
+   "product": "THE BUENOS AIRES PUBLIC BIKE SYSTEM",
+   "agencies": [
+    "THE COMMUNITY/LA COMUNIDAD Miami"
+   ],
+   "awards": [
+    {
+     "level": "Grand Prix",
+     "category": "Press",
+     "subcategory": "Travel, Transport & Tourism",
+     "count": 1,
+     "entry_titles": [
+      "DOG",
+      "BABY",
+      "SQUIRREL",
+      "MOTHS"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Press",
+     "subcategory": "Illustration",
+     "count": 1,
+     "entry_titles": [
+      "DOG",
+      "BABY",
+      "SQUIRREL"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Press",
+     "subcategory": "Art Direction",
+     "count": 1,
+     "entry_titles": [
+      "DOG",
+      "BABY",
+      "SQUIRREL"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Outdoor",
+     "subcategory": "Traditional Illustration",
+     "count": 1,
+     "entry_titles": [
+      "DOG",
+      "BABY"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Outdoor",
+     "subcategory": "Travel, Transport & Tourism",
+     "count": 1,
+     "entry_titles": [
+      "DOG",
+      "BABY",
+      "SQUIRREL",
+      "MOTHS"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類全場大獎 Press Grand Prix、戶外類金獅 Outdoor Gold Lion、Press類金獅 Press Gold Lion×2、戶外類銀獅 Outdoor Silver Lion｜代理商：THE COMMUNITY/LA COMUNIDAD Miami"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/584da2afa1d34a6ad95a4865b6b015fc"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/moths-118672",
+   "https://www.lovethework.com/en/work/entries/squirrel-118690",
+   "https://www.lovethework.com/en/work/entries/baby-118710"
+  ]
  },
  {
-  "id": "ltwm-07269",
+  "id": "ltwm-07264",
   "year": 2015,
   "tier": "GRAND PRIX / TITANIUM",
   "categories": [],
-  "title": "TOUCH THE PICKLE",
-  "brand": "P&G",
-  "agency": "BBDO MUMBAI",
-  "raw": "TOUCH THE PICKLE – P&G (BBDO MUMBAI)",
+  "title": "RE2PECT",
+  "brand": "JORDAN BRAND",
+  "agency": "WIEDEN+KENNEDY NEW YORK",
+  "raw": "RE2PECT – JORDAN BRAND (WIEDEN+KENNEDY NEW YORK)",
   "links": [
-   "https://www2.spikes.asia/winners/2015/pr/entry.cfm?entryid=2924&award=3"
+   "https://www.wk.com/work/jordan-brand-re2pect/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Media",
-    "subcategory": "Use of Integrated Media",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Grand Prix",
-    "category": "Glass",
-    "subcategory": "Glass",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "PROCTER & GAMBLE INDIA",
-   "product": "WHISPER SANITARY NAPKINS",
-   "agencies": [
-    "BBDO INDIA Mumbai"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Media",
-     "subcategory": "Use of Integrated Media",
-     "count": 1,
-     "entry_titles": [
-      "TOUCH THE PICKLE"
-     ]
-    },
-    {
-     "level": "Grand Prix",
-     "category": "Glass",
-     "subcategory": "Glass",
-     "count": 1,
-     "entry_titles": [
-      "TOUCH THE PICKLE"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜玻璃類全場大獎 Glass Grand Prix、媒體類銅獅 Media Bronze Lion｜代理商：BBDO INDIA Mumbai"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/a3362ae5f654446ad1b8604d145ebaa4"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/touch-the-pickle-98779",
-   "https://www.lovethework.com/en/work/entries/touch-the-pickle-107212"
-  ]
- },
- {
-  "id": "ltwm-07270",
-  "year": 2015,
-  "tier": "GRAND PRIX / TITANIUM",
-  "categories": [],
-  "title": "UNSKIPPABLE",
-  "brand": "GEICO",
-  "agency": "THE MARTIN AGENCY RICHMOND",
-  "raw": "UNSKIPPABLE – GEICO (THE MARTIN AGENCY RICHMOND)",
-  "links": [
-   "https://clios.com/awards/winner/36"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Grand Prix",
     "category": "Film",
     "subcategory": "Viral Film",
     "count": 1,
     "source_count": 1
    },
    {
-    "level": "Silver",
-    "category": "Film",
-    "subcategory": "Financial Services, Commercial Public Services, Business Products & Services",
-    "count": 1,
-    "source_count": 4
-   },
-   {
-    "level": "Bronze",
-    "category": "Film Craft",
-    "subcategory": "Script",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Cyber",
-    "subcategory": "Native Advertising",
-    "count": 1,
-    "source_count": 5
-   },
-   {
-    "level": "Silver",
-    "category": "Cyber",
-    "subcategory": "Financial Services",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Use of Video",
-    "count": 1,
-    "source_count": 2
-   },
-   {
-    "level": "Bronze",
-    "category": "Direct",
-    "subcategory": "Financial Products & Services",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Direct",
-    "subcategory": "Use of Dgital Marketing",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Promo & Activation",
-    "subcategory": "Use of Digital Advertising in a Promotional Campaign",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Promo & Activation",
-    "subcategory": "Financial Products & Services",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Original Branded Digital or Social Media",
+    "level": "Grand Prix",
+    "category": "Integrated",
+    "subcategory": "Titanium and Integrated",
     "count": 1,
     "source_count": 1
    }
@@ -645,191 +538,81 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "GEICO",
-   "product": "INSURANCE",
+   "brand": "JORDAN BRAND",
+   "product": "JORDAN BRAND",
    "agencies": [
-    "THE MARTIN AGENCY Richmond"
+    "WIEDEN+KENNEDY New York"
    ],
    "awards": [
     {
-     "level": "Grand Prix",
+     "level": "Bronze",
      "category": "Film",
      "subcategory": "Viral Film",
      "count": 1,
      "entry_titles": [
-      "UNSKIPPABLE: FAMILY LONG FORM 01"
+      "RE2PECT"
      ]
     },
     {
-     "level": "Silver",
-     "category": "Film",
-     "subcategory": "Financial Services, Commercial Public Services, Business Products & Services",
+     "level": "Grand Prix",
+     "category": "Integrated",
+     "subcategory": "Titanium and Integrated",
      "count": 1,
      "entry_titles": [
-      "UNSKIPPABLE: FAMILY",
-      "UNSKIPPABLE: ELEVATOR",
-      "UNSKIPPABLE: HIGH FIVE",
-      "UNSKIPPABLE: CLEANING CREW"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Film Craft",
-     "subcategory": "Script",
-     "count": 1,
-     "entry_titles": [
-      "UNSKIPPABLE: FAMILY LONG FORM"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Cyber",
-     "subcategory": "Native Advertising",
-     "count": 1,
-     "entry_titles": [
-      "UNSKIPPABLE: ELEVATOR",
-      "UNSKIPPABLE",
-      "UNSKIPPABLE: FAMILY",
-      "UNSKIPPABLE: FAMILY LONG FORM",
-      "UNSKIPPABLES: HIGH FIVE"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Cyber",
-     "subcategory": "Financial Services",
-     "count": 1,
-     "entry_titles": [
-      "UNSKIPPABLE"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Use of Video",
-     "count": 1,
-     "entry_titles": [
-      "UNSKIPPABLE"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Direct",
-     "subcategory": "Financial Products & Services",
-     "count": 1,
-     "entry_titles": [
-      "UNSKIPPABLE"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Direct",
-     "subcategory": "Use of Dgital Marketing",
-     "count": 1,
-     "entry_titles": [
-      "UNSKIPPABLE"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Promo & Activation",
-     "subcategory": "Use of Digital Advertising in a Promotional Campaign",
-     "count": 1,
-     "entry_titles": [
-      "UNSKIPPABLE"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Promo & Activation",
-     "subcategory": "Financial Products & Services",
-     "count": 1,
-     "entry_titles": [
-      "UNSKIPPABLE"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Original Branded Digital or Social Media",
-     "count": 1,
-     "entry_titles": [
-      "UNSKIPPABLE"
+      "RE2PECT"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類全場大獎 Film Grand Prix、Cyber類金獅 Cyber Gold Lion、Promo & Activation類金獅 Promo & Activation Gold Lion、Cyber類銀獅 Cyber Silver Lion、影片類銀獅 Film Silver Lion、Promo & Activation類銀獅 Promo & Activation Silver Lion、Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion、Cyber類銅獅 Cyber Bronze Lion、直效類銅獅 Direct Bronze Lion×2、影片工藝類銅獅 Film Craft Bronze Lion｜代理商：THE MARTIN AGENCY Richmond"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Integrated類全場大獎 Integrated Grand Prix、影片類銅獅 Film Bronze Lion｜代理商：WIEDEN+KENNEDY New York"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/00c00fd300124d64ebff5833bf2bb673/storyboard_000002.jpg"
+   "https://images.ctfassets.net/8ha5xom4da7e/3duqCqeHDt9hMAdtuQjc3V/3f6a8c56aeb415ac19cd5dd916fa6976/LTW_placeholder_1.svg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/unskippable-99197",
-   "https://www.lovethework.com/en/work/entries/unskippable-130467",
-   "https://www.lovethework.com/en/work/entries/unskippable-130324"
+   "https://www.lovethework.com/en/work/entries/re2pect-119536",
+   "https://www.lovethework.com/en/work/entries/re2pect-104170"
   ]
  },
  {
-  "id": "ltwm-07271",
+  "id": "ltwm-07306",
   "year": 2015,
-  "tier": "GRAND PRIX / TITANIUM",
+  "tier": "GOLD",
   "categories": [],
-  "title": "VODAFONE BETWEEN US",
-  "brand": "VODAFONE",
-  "agency": "Y/R TEAM RED ISTANBUL",
-  "raw": "VODAFONE BETWEEN US – VODAFONE (Y/R TEAM RED ISTANBUL)",
+  "title": "THE LAST SHOT",
+  "brand": "JORDAN BRAND",
+  "agency": "AKQA SAN FRANCISCO",
+  "raw": "THE LAST SHOT – JORDAN BRAND (AKQA SAN FRANCISCO)",
   "links": [
-   "https://www.youtube.com/watch?v=GXdV22IxljY"
+   "https://clios.com/sports/winner/events-experiential/jordan-brand/the-last-shot-12418"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Silver",
-    "category": "Promo & Activation",
-    "subcategory": "Product Launch/re-Launch or Multi-Product Promotion",
-    "count": 1,
-    "source_count": 1
-   },
-   {
     "level": "Bronze",
-    "category": "Promo & Activation",
-    "subcategory": "Commercial Public Services, including Healthcare & Medical",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Grand Prix",
-    "category": "Media",
-    "subcategory": "",
+    "category": "Outdoor",
+    "subcategory": "Interactive Outdoor Experiences",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Gold",
-    "category": "Media",
-    "subcategory": "",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Mobile",
-    "subcategory": "",
+    "category": "Design",
+    "subcategory": "Spatial Installation",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Silver",
-    "category": "Creative Data",
-    "subcategory": "Use of Real-time Data",
+    "category": "Design",
+    "subcategory": "Digital Installations",
     "count": 1,
     "source_count": 1
    },
    {
-    "level": "Bronze",
-    "category": "Creative Data",
-    "subcategory": "Data Technology Enhanced Creative (including models/tools/platforms)",
+    "level": "Silver",
+    "category": "Branded Content & Entertainment",
+    "subcategory": "Branded Live experience",
     "count": 1,
     "source_count": 1
    }
@@ -837,326 +620,230 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "VODAFONE",
-   "product": "VODAFONE RED LIGHT APPLICATION",
+   "brand": "JORDAN BRAND",
+   "product": "FOOTWEAR",
    "agencies": [
-    "Y&R TEAM RED ISTANBUL"
+    "AKQA San Francisco"
    ],
    "awards": [
     {
-     "level": "Silver",
-     "category": "Promo & Activation",
-     "subcategory": "Product Launch/re-Launch or Multi-Product Promotion",
-     "count": 1,
-     "entry_titles": [
-      "VODAFONE \"BETWEEN US\""
-     ]
-    },
-    {
      "level": "Bronze",
-     "category": "Promo & Activation",
-     "subcategory": "Commercial Public Services, including Healthcare & Medical",
+     "category": "Outdoor",
+     "subcategory": "Interactive Outdoor Experiences",
      "count": 1,
      "entry_titles": [
-      "VODAFONE \"BETWEEN US\""
-     ]
-    },
-    {
-     "level": "Grand Prix",
-     "category": "Media",
-     "subcategory": "",
-     "count": 1,
-     "entry_titles": [
-      "VODAFONE RED LIGHT APPLICATION // BETWEEN US"
+      "THE LAST SHOT"
      ]
     },
     {
      "level": "Gold",
-     "category": "Media",
-     "subcategory": "",
+     "category": "Design",
+     "subcategory": "Spatial Installation",
      "count": 1,
      "entry_titles": [
-      "VODAFONE RED LIGHT APPLICATION // BETWEEN US"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Mobile",
-     "subcategory": "",
-     "count": 1,
-     "entry_titles": [
-      "VODAFONE \"BETWEEN US\""
+      "THE LAST SHOT"
      ]
     },
     {
      "level": "Silver",
-     "category": "Creative Data",
-     "subcategory": "Use of Real-time Data",
+     "category": "Design",
+     "subcategory": "Digital Installations",
      "count": 1,
      "entry_titles": [
-      "VODAFONE BETWEEN US"
+      "THE LAST SHOT"
      ]
     },
     {
-     "level": "Bronze",
-     "category": "Creative Data",
-     "subcategory": "Data Technology Enhanced Creative (including models/tools/platforms)",
+     "level": "Silver",
+     "category": "Branded Content & Entertainment",
+     "subcategory": "Branded Live experience",
      "count": 1,
      "entry_titles": [
-      "VODAFONE BETWEEN US"
+      "THE LAST SHOT"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類全場大獎 Media Grand Prix、媒體類金獅 Media Gold Lion、創意數據類銀獅 Creative Data Silver Lion、Promo & Activation類銀獅 Promo & Activation Silver Lion、創意數據類銅獅 Creative Data Bronze Lion、行動類銅獅 Mobile Bronze Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：Y&R TEAM RED ISTANBUL"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類金獅 Design Gold Lion、Branded Content & Entertainment類銀獅 Branded Content & Entertainment Silver Lion、設計類銀獅 Design Silver Lion、戶外類銅獅 Outdoor Bronze Lion｜代理商：AKQA San Francisco"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/0d42d6097c894bad8bbc68f2fb4ee9b8"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/51eab673aa624fe6cf6bfe5a1ac2af3f"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/vodafone-between-us-97674",
-   "https://www.lovethework.com/en/work/entries/vodafone-between-us-97583",
-   "https://www.lovethework.com/en/work/entries/vodafone-between-us-108391"
+   "https://www.lovethework.com/en/work/entries/the-last-shot-131484",
+   "https://www.lovethework.com/en/work/entries/the-last-shot-125425",
+   "https://www.lovethework.com/en/work/entries/the-last-shot-125410"
   ]
  },
  {
-  "id": "ltwm-07272",
+  "id": "ltwm-07430",
   "year": 2015,
-  "tier": "GRAND PRIX / TITANIUM",
+  "tier": "SILVER",
   "categories": [],
-  "title": "WORLD GALLERY",
-  "brand": "APPLE",
-  "agency": "TBWA\\MEDIA ARTS LAB LOS ANGELES",
-  "raw": "WORLD GALLERY – APPLE (TBWA\\MEDIA ARTS LAB LOS ANGELES)",
+  "title": "STREET ART PROJECT",
+  "brand": "GOOGLE",
+  "agency": "84.PARIS",
+  "raw": "STREET ART PROJECT – GOOGLE (84.PARIS)",
   "links": [
-   "https://vimeo.com/131536222"
+   "https://www.84paris.com/en/work/google-street-art-project"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Grand Prix",
-    "category": "Outdoor",
-    "subcategory": "Integrated Campaigns led by Outdoor",
+    "level": "Silver",
+    "category": "Cyber",
+    "subcategory": "Use/Curation of Image(s)",
     "count": 1,
     "source_count": 1
    },
    {
-    "level": "Gold",
-    "category": "Outdoor",
-    "subcategory": "Home Appliances, Furnishings, Electronics & Audio-Visual",
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Interface & Navigation",
     "count": 1,
-    "source_count": 5
-   },
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "GOOGLE",
+   "product": null,
+   "agencies": [
+    "84.PARIS"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Cyber",
+     "subcategory": "Use/Curation of Image(s)",
+     "count": 1,
+     "entry_titles": [
+      "STREET ART PROJECT"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Cyber",
+     "subcategory": "Interface & Navigation",
+     "count": 1,
+     "entry_titles": [
+      "STREET ART PROJECT"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion、Cyber類銅獅 Cyber Bronze Lion｜代理商：84.PARIS"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/6027bc154fa8414a98499ae3fbb0e609"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/street-art-project-88778",
+   "https://www.lovethework.com/en/work/entries/street-art-project-88775"
+  ]
+ },
+ {
+  "id": "ltwm-07463",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "INSIDE ABBEY ROAD",
+  "brand": "GOOGLE",
+  "agency": "GOOGLE CREATIVE LAB LONDON",
+  "raw": "INSIDE ABBEY ROAD – GOOGLE (GOOGLE CREATIVE LAB LONDON)",
+  "links": [
+   "https://www.dandad.org/awards/professional/2016/digital-design/25306/inside-abbey-road/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
    {
     "level": "Silver",
-    "category": "Outdoor",
-    "subcategory": "Photography",
+    "category": "Design",
+    "subcategory": "Website",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "GOOGLE",
+   "product": null,
+   "agencies": [
+    "GOOGLE CREATIVE LAB London"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Design",
+     "subcategory": "Website",
+     "count": 1,
+     "entry_titles": [
+      "INSIDE ABBEY ROAD"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銀獅 Design Silver Lion｜代理商：GOOGLE CREATIVE LAB London"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/06a329876a1d4e48c8d51eefb5fb70c3"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/inside-abbey-road-88720"
+  ]
+ },
+ {
+  "id": "ltwm-07823",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "YOU GIVE MORE THAN JUST BLOOD",
+  "brand": "CITY OF BUENOS AIRES",
+  "agency": "THE COMMUNITY MIAMI",
+  "raw": "YOU GIVE MORE THAN JUST BLOOD – CITY OF BUENOS AIRES (THE COMMUNITY MIAMI)",
+  "links": [
+   "https://www.adsoftheworld.com/campaign/city-of-buenos-aires-la-comunidad-12-2015"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Press",
+    "subcategory": "Fundraising, Donations & Appeals",
     "count": 1,
     "source_count": 2
-   },
-   {
-    "level": "Bronze",
-    "category": "Design",
-    "subcategory": "Photography",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Design",
-    "subcategory": "Posters",
-    "count": 1,
-    "source_count": 1
    }
   ],
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "APPLE",
-   "product": "IPHONE 6",
+   "brand": "CITY OF BUENOS AIRES",
+   "product": "BLOOD DONATION",
    "agencies": [
-    "TBWA\\MEDIA ARTS LAB Los Angeles / APPLE Cupertino"
-   ],
-   "awards": [
-    {
-     "level": "Grand Prix",
-     "category": "Outdoor",
-     "subcategory": "Integrated Campaigns led by Outdoor",
-     "count": 1,
-     "entry_titles": [
-      "WORLD GALLERY"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Outdoor",
-     "subcategory": "Home Appliances, Furnishings, Electronics & Audio-Visual",
-     "count": 1,
-     "entry_titles": [
-      "BRENDAN O",
-      "CIELO D",
-      "JIRASAK P",
-      "COLE R",
-      "TEPPO K"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Outdoor",
-     "subcategory": "Photography",
-     "count": 1,
-     "entry_titles": [
-      "AUSTIN M",
-      "BRENDAN Ó"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Design",
-     "subcategory": "Photography",
-     "count": 1,
-     "entry_titles": [
-      "WORLD GALLERY"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Design",
-     "subcategory": "Posters",
-     "count": 1,
-     "entry_titles": [
-      "WORLD GALLERY"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類全場大獎 Outdoor Grand Prix、戶外類金獅 Outdoor Gold Lion、戶外類銀獅 Outdoor Silver Lion、設計類銅獅 Design Bronze Lion×2｜代理商：TBWA\\MEDIA ARTS LAB Los Angeles / APPLE Cupertino"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/b8039e8a58cc4e1ea9403b9d3ed28e86"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/world-gallery-89283",
-   "https://www.lovethework.com/en/work/entries/world-gallery-89282",
-   "https://www.lovethework.com/en/work/entries/world-gallery-89233"
-  ]
- },
- {
-  "id": "ltwm-07273",
-  "year": 2015,
-  "tier": "GRAND PRIX / TITANIUM",
-  "categories": [],
-  "title": "ABLA FAHITA",
-  "brand": "CBC",
-  "agency": "JWT CAIRO",
-  "raw": "ABLA FAHITA – CBC (JWT CAIRO)",
-  "links": [
-   "https://vimeo.com/132909072"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Titanium",
-    "category": "Titanium",
-    "subcategory": "Titanium and Integrated",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "CBC",
-   "product": "ENTERTAINMENT TV PROGRAM",
-   "agencies": [
-    "J. WALTER THOMPSON CAIRO"
-   ],
-   "awards": [
-    {
-     "level": "Titanium",
-     "category": "Titanium",
-     "subcategory": "Titanium and Integrated",
-     "count": 1,
-     "entry_titles": [
-      "ABLA FAHITA"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜鈦獅 Titanium Lion｜代理商：J. WALTER THOMPSON CAIRO"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/478fee589c314d65c10b6b95c0733249/storyboard_000002.jpg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/abla-fahita-104262"
-  ]
- },
- {
-  "id": "ltwm-07274",
-  "year": 2015,
-  "tier": "GRAND PRIX / TITANIUM",
-  "categories": [],
-  "title": "TOOTH IMPLANT",
-  "brand": "CERVEZA SALTA",
-  "agency": "OGILVY BUENOS AIRES",
-  "raw": "TOOTH IMPLANT – CERVEZA SALTA (OGILVY BUENOS AIRES)",
-  "links": [
-   "https://www.youtube.com/watch?v=hWYiL5GxZz4"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Promo & Activation",
-    "subcategory": "Sponsorship or Partnership Campaigns",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Titanium",
-    "category": "Titanium",
-    "subcategory": "Titanium and Integrated",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "CCU",
-   "product": "CERVEZA SALTA",
-   "agencies": [
-    "OGILVY & MATHER ARGENTINA Buenos Aires"
+    "THE COMMUNITY/LA COMUNIDAD Miami"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Promo & Activation",
-     "subcategory": "Sponsorship or Partnership Campaigns",
+     "category": "Press",
+     "subcategory": "Fundraising, Donations & Appeals",
      "count": 1,
      "entry_titles": [
-      "BEER TOOTH IMPLANT"
-     ]
-    },
-    {
-     "level": "Titanium",
-     "category": "Titanium",
-     "subcategory": "Titanium and Integrated",
-     "count": 1,
-     "entry_titles": [
-      "BEER TOOTH IMPLANT"
+      "ANDY WARHOL",
+      "GEORGE LUCAS"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜鈦獅 Titanium Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：OGILVY & MATHER ARGENTINA Buenos Aires"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銅獅 Press Bronze Lion｜代理商：THE COMMUNITY/LA COMUNIDAD Miami"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/576c484a0d1746d7dbec3f040e686c53"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/9eb9503425ca444cf08179661afe4cdf"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/beer-tooth-implant-105221",
-   "https://www.lovethework.com/en/work/entries/beer-tooth-implant-104215"
+   "https://www.lovethework.com/en/work/entries/george-lucas-117180",
+   "https://www.lovethework.com/en/work/entries/andy-warhol-117183"
   ]
  }
 ]

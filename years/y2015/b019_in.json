@@ -1,44 +1,326 @@
 [
  {
-  "id": "ltwm-07444",
+  "id": "ltwm-07375",
   "year": 2015,
-  "tier": "SILVER",
+  "tier": "GOLD",
   "categories": [],
-  "title": "REDUCE SPEED DIAL",
-  "brand": "VOLKSWAGEN",
-  "agency": "COLENSO BBDO AUCKLAND",
-  "raw": "REDUCE SPEED DIAL – VOLKSWAGEN (COLENSO BBDO AUCKLAND)",
+  "title": "CONFERENCE ROOM",
+  "brand": "POPCLIK",
+  "agency": "BRAVO/Y&R MIAMI",
+  "raw": "CONFERENCE ROOM – POPCLIK (BRAVO/Y&R MIAMI)",
   "links": [
-   "https://clios.com/awards/winner/innovative/volkswagen/reduce-speed-dial-428"
+   "https://clios.com/awards/winner/678"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Bronze",
-    "category": "Press",
-    "subcategory": "Other Vehicles, Auto Products & Services",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Outdoor",
-    "subcategory": "Transit",
+    "level": "Gold",
+    "category": "Radio",
+    "subcategory": "Use of Music",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Silver",
-    "category": "Cyber",
-    "subcategory": "Tangible Tech (incl. Digital Products, Utilities & Tools)",
+    "category": "Radio",
+    "subcategory": "Home Appliances, Furnishings, Electronics & Audio Visual",
+    "count": 1,
+    "source_count": 2
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "POPCLIK",
+   "product": null,
+   "agencies": [
+    "BRAVO/Y&R MIAMI"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Radio",
+     "subcategory": "Use of Music",
+     "count": 1,
+     "entry_titles": [
+      "CONFERENCE ROOM"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Radio",
+     "subcategory": "Home Appliances, Furnishings, Electronics & Audio Visual",
+     "count": 1,
+     "entry_titles": [
+      "SKYPE",
+      "CONFERENCE ROOM"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Radio類金獅 Radio Gold Lion、Radio類銀獅 Radio Silver Lion｜代理商：BRAVO/Y&R MIAMI"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/HHC8rICbjMxbx6eDreIds/c7b569e03ca6b3f3521da11e51a3d198/audio-yellow.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/conference-room-113134",
+   "https://www.lovethework.com/en/work/entries/conference-room-113019",
+   "https://www.lovethework.com/en/work/entries/skype-113171"
+  ]
+ },
+ {
+  "id": "ltwm-07370",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "MISERABLE IN PUERTO RICO",
+  "brand": "PUERTO RICO TOURISM COMPANY",
+  "agency": "JWT SAN JUAN",
+  "raw": "MISERABLE IN PUERTO RICO – PUERTO RICO TOURISM COMPANY ( JWT SAN JUAN)",
+  "links": [
+   "https://activationideas.com/blog/miserable-in-puerto-rico"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Social Platform(s) in a Promotional Campaign",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "COMMONWEALTH OF PUERTO RICO",
+   "product": "PUERTO RICO TOURISM COMPANY",
+   "agencies": [
+    "J. WALTER THOMPSON PUERTO RICO San Juan"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Promo & Activation",
+     "subcategory": "Use of Social Platform(s) in a Promotional Campaign",
+     "count": 1,
+     "entry_titles": [
+      "MISERABLE IN PUERTO RICO"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類金獅 Promo & Activation Gold Lion｜代理商：J. WALTER THOMPSON PUERTO RICO San Juan"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/64937444edd54beaacaac81dd3cbd0fc"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/miserable-in-puerto-rico-104650"
+  ]
+ },
+ {
+  "id": "ltwm-07378",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "9/11 MEMORIAL MUSEUM",
+  "brand": "NATIONAL SEPTEMBER 11TH MEMORIAL AND MUSEUM",
+  "agency": "LOCAL PROJECTS NEW YORK",
+  "raw": "9/11 MEMORIAL MUSEUM – NATIONAL SEPTEMBER 11TH MEMORIAL AND MUSEUM (LOCAL PROJECTS NEW YORK)",
+  "links": [
+   "https://vimeo.com/132689857"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Creative Data",
+    "subcategory": "Creative Data Enhancement",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "NATIONAL SEPTEMBER 11TH MEMORIAL AND MUSEUM",
+   "product": "PERMANENT INTERACTIVE EXHIBITION DESIGN, DEVELOPMENT, AND IMPLEMENTATION",
+   "agencies": [
+    "LOCAL PROJECTS New York"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Creative Data",
+     "subcategory": "Creative Data Enhancement",
+     "count": 1,
+     "entry_titles": [
+      "9/11 MEMORIAL MUSEUM"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意數據類金獅 Creative Data Gold Lion｜代理商：LOCAL PROJECTS New York"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/4b988dea06fe4891900d79c2afef01fb"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/911-memorial-museum-120479"
+  ]
+ },
+ {
+  "id": "ltwm-07376",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "NIGHT BEFORE THE PROJECT",
+  "brand": "LUCOZADE",
+  "agency": "OGILVY JOHANNESBURG",
+  "raw": "NIGHT BEFORE THE PROJECT – LUCOZADE (OGILVY JOHANNESBURG)",
+  "links": [
+   "https://www.dandad.org/awards/professional/2016/radio-advertising/24951/lucozade-energy-drink-night-before-the-project/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Radio",
+    "subcategory": "Non-Alcoholic Drinks",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "SUNTORY",
+   "product": null,
+   "agencies": [
+    "OGILVY & MATHER JOHANNESBURG"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Radio",
+     "subcategory": "Non-Alcoholic Drinks",
+     "count": 1,
+     "entry_titles": [
+      "NIGHT BEFORE THE PROJECT"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Radio類金獅 Radio Gold Lion｜代理商：OGILVY & MATHER JOHANNESBURG"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/5JreyVGxHnH2ySCsasrMnv/54ecaaaf494a4b2994d37ef24686db87/audio-purple.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/night-before-the-project-113150"
+  ]
+ },
+ {
+  "id": "ltwm-07371",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "SEXY TIMES",
+  "brand": "TIGER BRANDS",
+  "agency": "TBWA\\HUNT\\LASCARIS JOHANNESBURG",
+  "raw": "SEXY TIMES – TIGER BRANDS (TBWA\\HUNT\\LASCARIS JOHANNESBURG)",
+  "links": [
+   "https://www.dandad.org/awards/professional/2016/radio-advertising/24934/sexy-times/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Radio",
+    "subcategory": "Scriptwriting",
+    "count": 1,
+    "source_count": 3
+   },
+   {
+    "level": "Gold",
+    "category": "Radio",
+    "subcategory": "Household",
+    "count": 1,
+    "source_count": 3
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "TIGER BRANDS, DOOM INSECTICIDE",
+   "product": null,
+   "agencies": [
+    "TBWA\\HUNT\\LASCARIS JOHANNESBURG"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Radio",
+     "subcategory": "Scriptwriting",
+     "count": 1,
+     "entry_titles": [
+      "LANCE THE BEDBUG",
+      "THE O'FLANNEGAN COCKROACHES",
+      "CHERYL THE FISHMOTH"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Radio",
+     "subcategory": "Household",
+     "count": 1,
+     "entry_titles": [
+      "LANCE THE BEDBUG",
+      "THE O'FLANNEGAN COCKROACHES",
+      "CHERYL THE FISHMOTH"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Radio類金獅 Radio Gold Lion×2｜代理商：TBWA\\HUNT\\LASCARIS JOHANNESBURG"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/5JreyVGxHnH2ySCsasrMnv/54ecaaaf494a4b2994d37ef24686db87/audio-purple.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/cheryl-the-fishmoth-112290",
+   "https://www.lovethework.com/en/work/entries/the-oflannegan-cockroaches-112291",
+   "https://www.lovethework.com/en/work/entries/lance-the-bedbug-112292"
+  ]
+ },
+ {
+  "id": "ltwm-07369",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "CHASING HORIZONS",
+  "brand": "CITIZEN",
+  "agency": "WIEDEN + KENNEDY AMSTERDAM",
+  "raw": "CHASING HORIZONS – CITIZEN (WIEDEN + KENNEDY AMSTERDAM)",
+  "links": [
+   "https://vimeo.com/132183265"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Promotional Events & Stunts",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Silver",
     "category": "Promo & Activation",
-    "subcategory": "Cars & Automotive Services",
+    "subcategory": "Other Consumer Products (incl. durable goods)",
     "count": 1,
     "source_count": 1
    }
@@ -46,154 +328,132 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "VOLKSWAGEN",
-   "product": "VOLKSWAGEN",
+   "brand": "CITIZEN",
+   "product": "ECO-DRIVE SATELLITE WAVE F100",
    "agencies": [
-    "COLENSO BBDO Auckland"
+    "WIEDEN+KENNEDY AMSTERDAM / WIEDEN+KENNEDY TOKYO"
    ],
    "awards": [
     {
-     "level": "Bronze",
-     "category": "Press",
-     "subcategory": "Other Vehicles, Auto Products & Services",
+     "level": "Gold",
+     "category": "Promo & Activation",
+     "subcategory": "Use of Promotional Events & Stunts",
      "count": 1,
      "entry_titles": [
-      "SPEED DIAL"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Outdoor",
-     "subcategory": "Transit",
-     "count": 1,
-     "entry_titles": [
-      "REDUCE SPEED DIAL"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Cyber",
-     "subcategory": "Tangible Tech (incl. Digital Products, Utilities & Tools)",
-     "count": 1,
-     "entry_titles": [
-      "REDUCE SPEED DIAL"
+      "CHASING HORIZONS"
      ]
     },
     {
      "level": "Silver",
      "category": "Promo & Activation",
-     "subcategory": "Cars & Automotive Services",
+     "subcategory": "Other Consumer Products (incl. durable goods)",
      "count": 1,
      "entry_titles": [
-      "REDUCE SPEED DIAL"
+      "CHASING HORIZONS"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion、Promo & Activation類銀獅 Promo & Activation Silver Lion、戶外類銅獅 Outdoor Bronze Lion、Press類銅獅 Press Bronze Lion｜代理商：COLENSO BBDO Auckland"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類金獅 Promo & Activation Gold Lion、Promo & Activation類銀獅 Promo & Activation Silver Lion｜代理商：WIEDEN+KENNEDY AMSTERDAM / WIEDEN+KENNEDY TOKYO"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/a35034133816467ed195389add1fba8c"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/4de6333d6e0b402bab8854139e213722"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/reduce-speed-dial-97306",
-   "https://www.lovethework.com/en/work/entries/reduce-speed-dial-97208",
-   "https://www.lovethework.com/en/work/entries/reduce-speed-dial-97054"
+   "https://www.lovethework.com/en/work/entries/chasing-horizons-127460",
+   "https://www.lovethework.com/en/work/entries/chasing-horizons-126359"
   ]
  },
  {
-  "id": "ltwm-07445",
+  "id": "ltwm-07372",
   "year": 2015,
-  "tier": "SILVER",
+  "tier": "GOLD",
   "categories": [],
-  "title": "EYE TEST",
-  "brand": "ESPN",
-  "agency": "AFRICA SÃO PAULO",
-  "raw": "EYE TEST – ESPN (AFRICA SÃO PAULO)",
+  "title": "QUEEN ELIZABETH",
+  "brand": "FARMATODO",
+  "agency": "WUNDERMAN BOGOTÁ",
+  "raw": "QUEEN ELIZABETH – FARMATODO (WUNDERMAN BOGOTÁ)",
   "links": [
-   "https://vimeo.com/121279279"
+   "https://clios.com/health/winner/audio-technique/farmatodo/queen-elizabeth-1442"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Silver",
-    "category": "Cyber",
-    "subcategory": "Digital Billboard",
+    "level": "Gold",
+    "category": "Radio",
+    "subcategory": "Cosmetics, Beauty & Toiletries",
     "count": 1,
-    "source_count": 1
+    "source_count": 3
    },
    {
     "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Web Service/App",
+    "category": "Health & Wellness",
+    "subcategory": "OTC Applications",
     "count": 1,
-    "source_count": 1
+    "source_count": 2
    }
   ],
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "ESPN",
-   "product": null,
+   "brand": "FARMATODO",
+   "product": "HAND SANITIZER",
    "agencies": [
-    "AFRICA São Paulo"
+    "WUNDERMAN COLOMBIA Bogotá / Y&R COLOMBIA Bogotá"
    ],
    "awards": [
     {
-     "level": "Silver",
-     "category": "Cyber",
-     "subcategory": "Digital Billboard",
+     "level": "Gold",
+     "category": "Radio",
+     "subcategory": "Cosmetics, Beauty & Toiletries",
      "count": 1,
      "entry_titles": [
-      "ESPN EYE TEST / BUS SHELTER"
+      "GEORGE WASHINGTON",
+      "ABRAHAM LINCOLN",
+      "QUEEN ELIZABETH"
      ]
     },
     {
      "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Web Service/App",
+     "category": "Health & Wellness",
+     "subcategory": "OTC Applications",
      "count": 1,
      "entry_titles": [
-      "ESPN EYE TEST / WEBSITE"
+      "GEORGE WASHINGTON",
+      "ABRAHAM LINCOLN"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion、Cyber類銅獅 Cyber Bronze Lion｜代理商：AFRICA São Paulo"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Radio類金獅 Radio Gold Lion、健康與保健類銅獅 Health & Wellness Bronze Lion｜代理商：WUNDERMAN COLOMBIA Bogotá / Y&R COLOMBIA Bogotá"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/6be117fd859644d0a6a6c341a36df1e0"
+   "https://images.ctfassets.net/8ha5xom4da7e/4eouFverMNv4kWPCEjCJNR/c4a7c858334338e1c874945f309b3c91/audio-green.svg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/espn-eye-test-website-111575",
-   "https://www.lovethework.com/en/work/entries/espn-eye-test-bus-shelter-111926"
+   "https://www.lovethework.com/en/work/entries/queen-elizabeth-113541",
+   "https://www.lovethework.com/en/work/entries/abraham-lincoln-113578",
+   "https://www.lovethework.com/en/work/entries/george-washington-113596"
   ]
  },
  {
-  "id": "ltwm-07446",
+  "id": "ltwm-07419",
   "year": 2015,
   "tier": "SILVER",
   "categories": [],
-  "title": "WOW! NO COW!",
-  "brand": "OATLY",
-  "agency": "FORSMAN & BODENFORS GOTHENBURG",
-  "raw": "WOW! NO COW! – OATLY (FORSMAN & BODENFORS GOTHENBURG)",
+  "title": "LUCOZADE SPORT CONDITIONS ZONE",
+  "brand": "LUCOZADE RIBENA SUNTORY",
+  "agency": "GREY LONDON",
+  "raw": "LUCOZADE SPORT CONDITIONS ZONE – LUCOZADE RIBENA SUNTORY (GREY LONDON)",
   "links": [
-   "https://clios.com/awards/winner/design/oatly/wow-no-cow--501"
+   "https://vimeo.com/100321455"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Silver",
-    "category": "Design",
-    "subcategory": "Rebrand or Brand Refresh: Renewing a Current brand Identity",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Design",
-    "subcategory": "Writing for Brands / Tone of Voice",
+    "category": "Creative Data",
+    "subcategory": "Creative Data Visualisation",
     "count": 1,
     "source_count": 1
    }
@@ -201,158 +461,29 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "OATLY",
-   "product": null,
+   "brand": "LUCOZADE RIBENA SUNTRORY",
+   "product": "LUCOZADE SPORT",
    "agencies": [
-    "FORSMAN & BODENFORS Gothenburg"
+    "GREY LONDON"
    ],
    "awards": [
     {
      "level": "Silver",
-     "category": "Design",
-     "subcategory": "Rebrand or Brand Refresh: Renewing a Current brand Identity",
+     "category": "Creative Data",
+     "subcategory": "Creative Data Visualisation",
      "count": 1,
      "entry_titles": [
-      "WOW! NO COW!"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Design",
-     "subcategory": "Writing for Brands / Tone of Voice",
-     "count": 1,
-     "entry_titles": [
-      "WOW! NO COW!"
+      "LUCOZADE SPORT CONDITIONS ZONE"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銀獅 Design Silver Lion、設計類銅獅 Design Bronze Lion｜代理商：FORSMAN & BODENFORS Gothenburg"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意數據類銀獅 Creative Data Silver Lion｜代理商：GREY LONDON"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/9ed6b3416b094f8483cb0bf79b16b18b"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/7a925caa8e8946c1c9cd9db12c0a36bd"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/wow-no-cow-103794",
-   "https://www.lovethework.com/en/work/entries/wow-no-cow-103578"
-  ]
- },
- {
-  "id": "ltwm-07447",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "AIRBNB REBRAND",
-  "brand": "AIRBNB",
-  "agency": "DESIGNSTUDIO LONDON",
-  "raw": "AIRBNB REBRAND – AIRBNB (DESIGNSTUDIO LONDON)",
-  "links": [
-   "https://design.studio/work/airbnb"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Design",
-    "subcategory": "Rebrand or Brand Refresh: Renewing a Current brand Identity",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Design",
-    "subcategory": "Logo & Logo Type (designed for Large Scale Organisations)",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "AIRBNB",
-   "product": null,
-   "agencies": [
-    "DESIGNSTUDIO London"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Design",
-     "subcategory": "Rebrand or Brand Refresh: Renewing a Current brand Identity",
-     "count": 1,
-     "entry_titles": [
-      "AIRBNB REBRAND"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Design",
-     "subcategory": "Logo & Logo Type (designed for Large Scale Organisations)",
-     "count": 1,
-     "entry_titles": [
-      "AIRBNB REBRAND"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銀獅 Design Silver Lion、設計類銅獅 Design Bronze Lion｜代理商：DESIGNSTUDIO London"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/ca79ed3fa4b944d7f53e2f989c459265"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/airbnb-rebrand-103479",
-   "https://www.lovethework.com/en/work/entries/airbnb-rebrand-103415"
-  ]
- },
- {
-  "id": "ltwm-07448",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "PEARL",
-  "brand": "KEIO UNIVERSITY",
-  "agency": "DENTSU INC. TOKYO",
-  "raw": "PEARL – KEIO UNIVERSITY (DENTSU INC. TOKYO)",
-  "links": [
-   "https://clios.com/awards/winner/design/pearl/pearl-184"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Design",
-    "subcategory": "New Brand Identity: the Creation of a New Brand Identity",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "KEIO UNIVERSITY",
-   "product": null,
-   "agencies": [
-    "DENTSU INC. Tokyo"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Design",
-     "subcategory": "New Brand Identity: the Creation of a New Brand Identity",
-     "count": 1,
-     "entry_titles": [
-      "PEARL"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銀獅 Design Silver Lion｜代理商：DENTSU INC. Tokyo"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/2098e41a4e484f47c2f1b94ec85868cd"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/pearl-103734"
+   "https://www.lovethework.com/en/work/entries/lucozade-sport-conditions-zone-97616"
   ]
  },
  {
@@ -407,24 +538,24 @@
   ]
  },
  {
-  "id": "ltwm-07450",
+  "id": "ltwm-07404",
   "year": 2015,
   "tier": "SILVER",
   "categories": [],
-  "title": "THE WEDDINGLOPE",
-  "brand": "ROSENTHAL",
-  "agency": "KOLLE REBBE HAMBURG",
-  "raw": "THE WEDDINGLOPE – ROSENTHAL (KOLLE REBBE HAMBURG)",
+  "title": "NINJA HIGH SCHOOL GIRL",
+  "brand": "SUNTORY",
+  "agency": "HAKUHODO TOKYO",
+  "raw": "NINJA HIGH SCHOOL GIRL – SUNTORY (HAKUHODO TOKYO)",
   "links": [
-   "https://clios.com/awards/winner/design/rosenthal/the-weddinglope-326"
+   "https://adsspot.me/media/tv-commercials/suntory-ninja-high-school-girl-4da8559a1877"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Silver",
-    "category": "Design",
-    "subcategory": "Flyers, Tickets, Invitations, Postcards, Christmas and Other Greetings Cards",
+    "category": "Branded Content & Entertainment",
+    "subcategory": "Fiction: Online (15 minutes or under in length)",
     "count": 1,
     "source_count": 1
    }
@@ -432,199 +563,29 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "ROSENTHAL",
-   "product": null,
+   "brand": "SUNTORY BEVERAGE & FOOD",
+   "product": "C.C.LEMON",
    "agencies": [
-    "KOLLE REBBE Hamburg"
+    "HAKUHODO Tokyo / HAKUHODO KETTLE Tokyo"
    ],
    "awards": [
     {
      "level": "Silver",
-     "category": "Design",
-     "subcategory": "Flyers, Tickets, Invitations, Postcards, Christmas and Other Greetings Cards",
+     "category": "Branded Content & Entertainment",
+     "subcategory": "Fiction: Online (15 minutes or under in length)",
      "count": 1,
      "entry_titles": [
-      "THE WEDDINGLOPE"
+      "NINJA HIGH SCHOOL GIRL"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銀獅 Design Silver Lion｜代理商：KOLLE REBBE Hamburg"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銀獅 Branded Content & Entertainment Silver Lion｜代理商：HAKUHODO Tokyo / HAKUHODO KETTLE Tokyo"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/5292cc4a85044206d81e7f5487a7a132"
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/169acad0694d46859375636ba9a07962/storyboard_000002.jpg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-weddinglope-103520"
-  ]
- },
- {
-  "id": "ltwm-07451",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "FILM4 IDENTS",
-  "brand": "CHANNEL 4",
-  "agency": "4CREATIVE LONDON",
-  "raw": "FILM4 IDENTS – CHANNEL 4 (4CREATIVE LONDON)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2015/branding/24367/film4-idents/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Film Craft",
-    "subcategory": "Production Design/Art Direction",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Design",
-    "subcategory": "Channel Branding or Programme Branding",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "CHANNEL 4",
-   "product": "FILM4 IDENTS",
-   "agencies": [
-    "4creative London"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Film Craft",
-     "subcategory": "Production Design/Art Direction",
-     "count": 1,
-     "entry_titles": [
-      "FILM4 IDENTS"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Design",
-     "subcategory": "Channel Branding or Programme Branding",
-     "count": 1,
-     "entry_titles": [
-      "FILM4 IDENTS"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銀獅 Design Silver Lion、影片工藝類銅獅 Film Craft Bronze Lion｜代理商：4creative London"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/366e67b831df4888b28edc4fec7d9fc2"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/film4-idents-104095",
-   "https://www.lovethework.com/en/work/entries/film4-idents-100904"
-  ]
- },
- {
-  "id": "ltwm-07452",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "2014 TITLE SEQUENCE",
-  "brand": "D&AD",
-  "agency": "MILL+ LONDON",
-  "raw": "2014 TITLE SEQUENCE – D&AD (MILL+ LONDON)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2015/graphic-design/24590/dandad-2014-title-sequence/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Design",
-    "subcategory": "Title Sequences",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "D&AD",
-   "product": null,
-   "agencies": [
-    "MILL+ London"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Design",
-     "subcategory": "Title Sequences",
-     "count": 1,
-     "entry_titles": [
-      "2014 TITLE SEQUENCE"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銀獅 Design Silver Lion｜代理商：MILL+ London"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/4c5088d37daf4aebd086931d0c199ce0"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/2014-title-sequence-104026"
-  ]
- },
- {
-  "id": "ltwm-07453",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "WISH YOU WERE HERE",
-  "brand": "D&AD",
-  "agency": "LOBO SÃO PAULO",
-  "raw": "WISH YOU WERE HERE – D&AD (LOBO SÃO PAULO)",
-  "links": [
-   "https://cargocollective.com/paulopassaro/Wish-You-Were-Here-D-AD"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Design",
-    "subcategory": "Other Video Content",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "D&AD",
-   "product": null,
-   "agencies": [
-    "LOBO São Paulo"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Design",
-     "subcategory": "Other Video Content",
-     "count": 1,
-     "entry_titles": [
-      "WISH YOU WERE HERE"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銀獅 Design Silver Lion｜代理商：LOBO São Paulo"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/abe3eee99f724d08f05f742fbc59e82b"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/wish-you-were-here-103736"
+   "https://www.lovethework.com/en/work/entries/ninja-high-school-girl-99701"
   ]
  }
 ]

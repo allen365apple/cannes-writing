@@ -1,23 +1,51 @@
 [
  {
-  "id": "ltwm-07454",
+  "id": "ltwm-07380",
   "year": 2015,
-  "tier": "SILVER",
+  "tier": "GOLD",
   "categories": [],
-  "title": "THE CANCER SUTRA",
-  "brand": "STUPID CANCER",
-  "agency": "THE BULL-WHITE HOUSE NEW YORK",
-  "raw": "THE CANCER SUTRA – STUPID CANCER (THE BULL-WHITE HOUSE NEW YORK)",
+  "title": "REVIVING LEGENDS",
+  "brand": "JAPAN SPORT COUNCIL",
+  "agency": "DENTSU INC. TOKYO",
+  "raw": "REVIVING LEGENDS – JAPAN SPORT COUNCIL (DENTSU INC. TOKYO)",
   "links": [
-   "http://jephedrine.com/cancer-sutra"
+   "https://vimeo.com/132690790"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Silver",
-    "category": "Design",
-    "subcategory": "Print and Poster",
+    "category": "Cyber",
+    "subcategory": "Data Visualisation",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Spatial Tech (incl. Digital Installation/Exhibit)",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Creative Data",
+    "subcategory": "Data Storytelling",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Creative Data",
+    "subcategory": "Creative Data Visualisation",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Creative Data",
+    "subcategory": "Innovative Use of Data",
     "count": 1,
     "source_count": 1
    }
@@ -25,50 +53,131 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "STUPID CANCER",
-   "product": null,
+   "brand": "JAPAN SPORT COUNCIL",
+   "product": "NATIONAL STADIUM",
    "agencies": [
-    "THE BULL-WHITE HOUSE New York"
+    "DENTSU INC. Tokyo / DENTSU TEC INC. Tokyo",
+    "DENTSU INC. Tokyo / DENTSU TEC INC. Tokyo / RHIZOMATIKS Tokyo"
    ],
    "awards": [
     {
      "level": "Silver",
-     "category": "Design",
-     "subcategory": "Print and Poster",
+     "category": "Cyber",
+     "subcategory": "Data Visualisation",
      "count": 1,
      "entry_titles": [
-      "THE CANCER SUTRA"
+      "REVIVING LEGENDS"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Cyber",
+     "subcategory": "Spatial Tech (incl. Digital Installation/Exhibit)",
+     "count": 1,
+     "entry_titles": [
+      "REVIVING LEGENDS"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Creative Data",
+     "subcategory": "Data Storytelling",
+     "count": 1,
+     "entry_titles": [
+      "REVIVING LEGENDS"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Creative Data",
+     "subcategory": "Creative Data Visualisation",
+     "count": 1,
+     "entry_titles": [
+      "REVIVING LEGENDS"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Creative Data",
+     "subcategory": "Innovative Use of Data",
+     "count": 1,
+     "entry_titles": [
+      "REVIVING LEGENDS"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銀獅 Design Silver Lion｜代理商：THE BULL-WHITE HOUSE New York"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意數據類金獅 Creative Data Gold Lion、創意數據類銀獅 Creative Data Silver Lion、Cyber類銀獅 Cyber Silver Lion、創意數據類銅獅 Creative Data Bronze Lion、Cyber類銅獅 Cyber Bronze Lion｜代理商：DENTSU INC. Tokyo / DENTSU TEC INC. Tokyo / DENTSU INC. Tokyo / DENTSU TEC INC. Tokyo / RHIZOMATIKS Tokyo"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/1249147f301e4767e7fc179f29a8be4c"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/343c262eaf9d44b2ab3576501b141a5f"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-cancer-sutra-125362"
+   "https://www.lovethework.com/en/work/entries/reviving-legends-130499",
+   "https://www.lovethework.com/en/work/entries/reviving-legends-130316",
+   "https://www.lovethework.com/en/work/entries/reviving-legends-120549"
   ]
  },
  {
-  "id": "ltwm-07455",
+  "id": "ltwm-07377",
   "year": 2015,
-  "tier": "SILVER",
+  "tier": "GOLD",
   "categories": [],
-  "title": "SHOEMOJI",
-  "brand": "FOOT LOCKER",
-  "agency": "BBDO NEW YORK",
-  "raw": "SHOEMOJI – FOOT LOCKER (BBDO NEW YORK)",
+  "title": "NEWCASTLE BAND OF BRANDS",
+  "brand": "HEINEKEN",
+  "agency": "DROGA5 NEW YORK",
+  "raw": "NEWCASTLE BAND OF BRANDS – HEINEKEN (DROGA5 NEW YORK)",
   "links": [
-   "https://clios.com/sports/winner/digital-mobile/foot-locker/shoemoji-12398"
+   "https://www.dandad.org/awards/professional/2016/integrated-innovative-media/25027/newcastle-band-of-brands/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Silver",
-    "category": "Design",
-    "subcategory": "Packaging and Promotional Item Design",
+    "category": "Film",
+    "subcategory": "Alcoholic Drinks",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Film",
+    "subcategory": "Fast Moving Consumer Goods",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Cyber",
+    "subcategory": "Foods & Drinks",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Integrated Multi-Platform Campaign (Online & Offline)",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Response/Real-Time Activity (including crowdsourcing)",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "PR",
+    "subcategory": "Integrated Campaign led by PR",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Integrated",
+    "subcategory": "Titanium and Integrated",
     "count": 1,
     "source_count": 1
    }
@@ -76,166 +185,114 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "FOOT LOCKER",
-   "product": null,
+   "brand": "HEINKEN USA",
+   "product": "NEWCASTLE BROWN ALE",
    "agencies": [
-    "BBDO NEW YORK"
+    "DROGA5 New York",
+    "FAST HORSE Minneapolis / DROGA5 New York"
    ],
    "awards": [
     {
      "level": "Silver",
-     "category": "Design",
-     "subcategory": "Packaging and Promotional Item Design",
+     "category": "Film",
+     "subcategory": "Alcoholic Drinks",
      "count": 1,
      "entry_titles": [
-      "SHOEMOJI"
+      "BAND OF BRANDS MEGA AD"
      ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銀獅 Design Silver Lion｜代理商：BBDO NEW YORK"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/6af2ad29292a4811c901fa699e5938a2"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/shoemoji-103468"
-  ]
- },
- {
-  "id": "ltwm-07457",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "INTEL CLEAR",
-  "brand": "INTEL",
-  "agency": "RED PEAK NEW YORK",
-  "raw": "INTEL CLEAR – INTEL (RED PEAK NEW YORK)",
-  "links": [
-   "https://adsspot.me/media/case-study/intel-intel-clear-7131bac0a1a4"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Design",
-    "subcategory": "Brands",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "INTEL",
-   "product": null,
-   "agencies": [
-    "RED PEAK New York"
-   ],
-   "awards": [
+    },
+    {
+     "level": "Bronze",
+     "category": "Film",
+     "subcategory": "Fast Moving Consumer Goods",
+     "count": 1,
+     "entry_titles": [
+      "CALL FOR BRANDS"
+     ]
+    },
     {
      "level": "Silver",
-     "category": "Design",
-     "subcategory": "Brands",
+     "category": "Cyber",
+     "subcategory": "Foods & Drinks",
      "count": 1,
      "entry_titles": [
-      "INTEL CLEAR"
+      "NEWCASTLE BAND OF BRANDS"
      ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銀獅 Design Silver Lion｜代理商：RED PEAK New York"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/3a08192248134db9e285df41be3b3072"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/intel-clear-125653"
-  ]
- },
- {
-  "id": "ltwm-07458",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "EXOBIOTANICA",
-  "brand": "MAKOTO AZUMA",
-  "agency": "SIX TOKYO",
-  "raw": "EXOBIOTANICA – MAKOTO AZUMA (SIX TOKYO)",
-  "links": [
-   "http://exobiotanica.com/award/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Design",
-    "subcategory": "Photography",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "MAKOTO AZUMA(BOTANIST/FLOWER ARTIST)",
-   "product": null,
-   "agencies": [
-    "SIX Tokyo"
-   ],
-   "awards": [
+    },
     {
-     "level": "Silver",
-     "category": "Design",
-     "subcategory": "Photography",
+     "level": "Bronze",
+     "category": "Cyber",
+     "subcategory": "Integrated Multi-Platform Campaign (Online & Offline)",
      "count": 1,
      "entry_titles": [
-      "EXOBIOTANICA"
+      "NEWCASTLE BAND OF BRANDS"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Cyber",
+     "subcategory": "Response/Real-Time Activity (including crowdsourcing)",
+     "count": 1,
+     "entry_titles": [
+      "NEWCASTLE BAND OF BRANDS"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "PR",
+     "subcategory": "Integrated Campaign led by PR",
+     "count": 1,
+     "entry_titles": [
+      "NEWCASTLE BROWN ALE'S \"BAND OF BRANDS\""
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Integrated",
+     "subcategory": "Titanium and Integrated",
+     "count": 1,
+     "entry_titles": [
+      "NEWCASTLE BAND OF BRANDS"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銀獅 Design Silver Lion｜代理商：SIX Tokyo"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Integrated類金獅 Integrated Gold Lion、Cyber類銀獅 Cyber Silver Lion、影片類銀獅 Film Silver Lion、Cyber類銅獅 Cyber Bronze Lion×2、影片類銅獅 Film Bronze Lion、公關類銅獅 PR Bronze Lion｜代理商：DROGA5 New York / FAST HORSE Minneapolis / DROGA5 New York"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/e42cdaf0fdc14a81eb6734a887b9802e"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/ce6ab8693cc84acbd3c7ef88fb28f980"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/exobiotanica-125465"
+   "https://www.lovethework.com/en/work/entries/newcastle-band-of-brands-129994",
+   "https://www.lovethework.com/en/work/entries/newcastle-band-of-brands-129399",
+   "https://www.lovethework.com/en/work/entries/newcastle-band-of-brands-125911"
   ]
  },
  {
-  "id": "ltwm-07459",
+  "id": "ltwm-07382",
   "year": 2015,
-  "tier": "SILVER",
+  "tier": "GOLD",
   "categories": [],
-  "title": "SUFFOCATION",
-  "brand": "KARMA NIRVANA",
-  "agency": "LEO BURNETT LONDON",
-  "raw": "SUFFOCATION – KARMA NIRVANA (LEO BURNETT LONDON)",
+  "title": "VOTE FOR US. WE’LL VOTE FOR YOU",
+  "brand": "KAFA",
+  "agency": "LEO BURNETT BEIRUT",
+  "raw": "VOTE FOR US. WE’LL VOTE FOR YOU – KAFA (LEO BURNETT BEIRUT)",
   "links": [
-   "https://www.dandad.org/awards/professional/2015/direct/24679/suffocation/"
+   "https://www2.dubailynx.com/winners/2015/media/entry.cfm?entryid=1564&award=3"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Direct",
-    "subcategory": "Charities (incl. Fundraising, Donations & Appeals)",
+    "category": "PR",
+    "subcategory": "Public Affairs & Lobbying",
     "count": 1,
     "source_count": 1
    },
    {
-    "level": "Silver",
-    "category": "Media",
-    "subcategory": "use of Print",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Design",
-    "subcategory": "Photography",
+    "level": "Gold",
+    "category": "Glass",
+    "subcategory": "Glass",
     "count": 1,
     "source_count": 1
    }
@@ -243,230 +300,237 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "KARMA NIRVANA",
-   "product": "KARMA NIRVANA",
+   "brand": "KAFA",
+   "product": "WOMEN'S RIGHTS NGO",
    "agencies": [
-    "LEO BURNETT LONDON"
+    "LEO BURNETT BEIRUT"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Direct",
-     "subcategory": "Charities (incl. Fundraising, Donations & Appeals)",
+     "category": "PR",
+     "subcategory": "Public Affairs & Lobbying",
      "count": 1,
      "entry_titles": [
-      "SUFFOCATION"
+      "VOTE FOR US. WE'LL VOTE FOR YOU"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Glass",
+     "subcategory": "Glass",
+     "count": 1,
+     "entry_titles": [
+      "VOTE FOR US. WE'LL VOTE FOR YOU"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜玻璃類金獅 Glass Gold Lion、公關類銅獅 PR Bronze Lion｜代理商：LEO BURNETT BEIRUT"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/63ec22f2a1a44b47f08ca9958e6a8f85"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/vote-for-us-well-vote-for-you-98822",
+   "https://www.lovethework.com/en/work/entries/vote-for-us-well-vote-for-you-125256"
+  ]
+ },
+ {
+  "id": "ltwm-07379",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "RUN THAT TOWN",
+  "brand": "AUSTRALIAN BUREAU OF STATISTICS",
+  "agency": "LEO BURNETT SYDNEY",
+  "raw": "RUN THAT TOWN – AUSTRALIAN BUREAU OF STATISTICS (LEO BURNETT SYDNEY)",
+  "links": [
+   "https://www.dandad.org/awards/professional/2014/digital-design/22981/run-that-town/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Creative Data",
+    "subcategory": "Creative Data Enhancement",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "AUSTRALIAN BUREAU OF STATISTICS",
+   "product": "CENSUS",
+   "agencies": [
+    "LEO BURNETT SYDNEY"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Creative Data",
+     "subcategory": "Creative Data Enhancement",
+     "count": 1,
+     "entry_titles": [
+      "RUN THAT TOWN"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意數據類金獅 Creative Data Gold Lion｜代理商：LEO BURNETT SYDNEY"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/0ddca15cd9514c4fee179ab05a59aa42"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/run-that-town-97774"
+  ]
+ },
+ {
+  "id": "ltwm-07383",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "FELIZ DÍA HOMBRES",
+  "brand": "URUFARMA",
+  "agency": "NOTABLE MONTEVIDEO",
+  "raw": "FELIZ DÍA HOMBRES – URUFARMA (NOTABLE MONTEVIDEO)",
+  "links": [
+   "https://www.behance.net/gallery/24254835/Feliz-dia-hombres-Urufarma"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Glass",
+    "subcategory": "Glass",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "URUFARMA",
+   "product": "INSTITUCIONAL",
+   "agencies": [
+    "NOTABLE Montevideo"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Glass",
+     "subcategory": "Glass",
+     "count": 1,
+     "entry_titles": [
+      "FELIZ DÍA HOMBRES"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜玻璃類金獅 Glass Gold Lion｜代理商：NOTABLE Montevideo"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/bac970253f5f4159e60b59691f393b6f"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/feliz-da-hombres-98820"
+  ]
+ },
+ {
+  "id": "ltwm-07381",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "TWIN SOULS",
+  "brand": "CHANGE ONE LIFE",
+  "agency": "Y&R MOSCOW",
+  "raw": "TWIN SOULS – CHANGE ONE LIFE (Y&R MOSCOW)",
+  "links": [
+   "https://adsspot.me/media/case-study/charitable-foundation-change-one-life-change-one-life-twin-souls-0c6582a045ef"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Creative Data",
+    "subcategory": "Data Technology Enhanced Creative (including models/tools/platforms)",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Creative Data",
+    "subcategory": "Creative Data Enhancement",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "CHARITABLE FOUNDATION \"CHANGE ONE LIFE\"",
+   "product": "ADOPTION AWARENESS",
+   "agencies": [
+    "Y&R Moscow"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Creative Data",
+     "subcategory": "Data Technology Enhanced Creative (including models/tools/platforms)",
+     "count": 1,
+     "entry_titles": [
+      "TWIN SOULS"
      ]
     },
     {
      "level": "Silver",
-     "category": "Media",
-     "subcategory": "use of Print",
+     "category": "Creative Data",
+     "subcategory": "Creative Data Enhancement",
      "count": 1,
      "entry_titles": [
-      "SUFFOCATION"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Design",
-     "subcategory": "Photography",
-     "count": 1,
-     "entry_titles": [
-      "SUFFOCATION"
+      "TWIN SOULS"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銀獅 Design Silver Lion、媒體類銀獅 Media Silver Lion、直效類銅獅 Direct Bronze Lion｜代理商：LEO BURNETT LONDON"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意數據類金獅 Creative Data Gold Lion、創意數據類銀獅 Creative Data Silver Lion｜代理商：Y&R Moscow"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/92dfbf7e25234b49dac10d0acdf47d66"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/0fa09eea838e477ceb96762d4f74e3e8"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/suffocation-109474",
-   "https://www.lovethework.com/en/work/entries/suffocation-107443",
-   "https://www.lovethework.com/en/work/entries/suffocation-102976"
+   "https://www.lovethework.com/en/work/entries/twin-souls-120428",
+   "https://www.lovethework.com/en/work/entries/twin-souls-120410"
   ]
  },
  {
-  "id": "ltwm-07461",
+  "id": "ltwm-07559",
   "year": 2015,
   "tier": "SILVER",
   "categories": [],
-  "title": "AIRBNB PORTLAND CALL CENTER",
-  "brand": "AIRBNB",
-  "agency": "AIRBNB SAN FRANCISCO",
-  "raw": "AIRBNB PORTLAND CALL CENTER – AIRBNB (AIRBNB SAN FRANCISCO)",
+  "title": "MOVE THE LUNCH",
+  "brand": "HEINEKEN",
+  "agency": "CHICO LATAM BOGOTÁ",
+  "raw": "MOVE THE LUNCH – HEINEKEN (CHICO LATAM BOGOTÁ)",
   "links": [
-   "https://www.youtube.com/watch?v=kv5F43TCOiE"
+   "https://www.behance.net/gallery/26378999/HEINEKEN-Move-The-Lunch"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Silver",
-    "category": "Design",
-    "subcategory": "Spatial Installation",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "AIRBNB",
-   "product": null,
-   "agencies": [
-    "AIRBNB San Francisco / BOORA ARCHITECTS Portland"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Design",
-     "subcategory": "Spatial Installation",
-     "count": 1,
-     "entry_titles": [
-      "AIRBNB PORTLAND CALL CENTER"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銀獅 Design Silver Lion｜代理商：AIRBNB San Francisco / BOORA ARCHITECTS Portland"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/c39e7658a8d541f8f0f0408458df7abe"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/airbnb-portland-call-center-103452"
-  ]
- },
- {
-  "id": "ltwm-07462",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "THE DNA PROJECT",
-  "brand": "J.VIEWZ",
-  "agency": "HELLO MONDAY AARHUS C",
-  "raw": "THE DNA PROJECT – J.VIEWZ (HELLO MONDAY AARHUS C)",
-  "links": [
-   "https://www2.eurobest.com/winners/2015/design/entry.cfm?entryid=488&award=3"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Design",
-    "subcategory": "Website",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "J.VIEWZ",
-   "product": null,
-   "agencies": [
-    "HELLO MONDAY Aarhus C"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Design",
-     "subcategory": "Website",
-     "count": 1,
-     "entry_titles": [
-      "THE DNA PROJECT"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銀獅 Design Silver Lion｜代理商：HELLO MONDAY Aarhus C"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/17de21e289b640f8d5aaf18956bdfb72"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-dna-project-125460"
-  ]
- },
- {
-  "id": "ltwm-07463",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "INSIDE ABBEY ROAD",
-  "brand": "GOOGLE",
-  "agency": "GOOGLE CREATIVE LAB LONDON",
-  "raw": "INSIDE ABBEY ROAD – GOOGLE (GOOGLE CREATIVE LAB LONDON)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2016/digital-design/25306/inside-abbey-road/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Design",
-    "subcategory": "Website",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "GOOGLE",
-   "product": null,
-   "agencies": [
-    "GOOGLE CREATIVE LAB London"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Design",
-     "subcategory": "Website",
-     "count": 1,
-     "entry_titles": [
-      "INSIDE ABBEY ROAD"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銀獅 Design Silver Lion｜代理商：GOOGLE CREATIVE LAB London"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/06a329876a1d4e48c8d51eefb5fb70c3"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/inside-abbey-road-88720"
-  ]
- },
- {
-  "id": "ltwm-07464",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "#NOMOREEVICTIONS",
-  "brand": "STOP DESAHUCIOS",
-  "agency": "PROXIMITY MADRID",
-  "raw": "#NOMOREEVICTIONS – STOP DESAHUCIOS (PROXIMITY MADRID)",
-  "links": [
-   "https://preview.happiness-brussels.com/2015/Cannes_2015/case/588835"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Direct",
-    "subcategory": "Costs/Creative Performance Direct Campaign",
+    "category": "PR",
+    "subcategory": "Community Building/Management",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Bronze",
-    "category": "Direct",
-    "subcategory": "Public Health & Safety, Public Awareness Messages",
+    "category": "PR",
+    "subcategory": "Integrated Campaign led by PR",
     "count": 1,
     "source_count": 1
    }
@@ -474,67 +538,60 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "STOP DESAHUCIOS",
-   "product": "AWARENESS CAMPAIGN",
+   "brand": "HEINEKEN",
+   "product": "HEINEKEN",
    "agencies": [
-    "PROXIMITY MADRID"
+    "CHICO LATAM Bogotá"
    ],
    "awards": [
     {
      "level": "Silver",
-     "category": "Direct",
-     "subcategory": "Costs/Creative Performance Direct Campaign",
+     "category": "PR",
+     "subcategory": "Community Building/Management",
      "count": 1,
      "entry_titles": [
-      "#NOMOREEVICTIONS"
+      "MOVE THE LUNCH"
      ]
     },
     {
      "level": "Bronze",
-     "category": "Direct",
-     "subcategory": "Public Health & Safety, Public Awareness Messages",
+     "category": "PR",
+     "subcategory": "Integrated Campaign led by PR",
      "count": 1,
      "entry_titles": [
-      "#NOMOREEVICTIONS"
+      "MOVE THE LUNCH"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜直效類銀獅 Direct Silver Lion、直效類銅獅 Direct Bronze Lion｜代理商：PROXIMITY MADRID"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類銀獅 PR Silver Lion、公關類銅獅 PR Bronze Lion｜代理商：CHICO LATAM Bogotá"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/cbbd040c5bff4859ebdf481088c3b563"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/ac812cb1299946f2b46446b6fcc80855"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/nomoreevictions-109877",
-   "https://www.lovethework.com/en/work/entries/nomoreevictions-109018"
+   "https://www.lovethework.com/en/work/entries/move-the-lunch-102139",
+   "https://www.lovethework.com/en/work/entries/move-the-lunch-101611"
   ]
  },
  {
-  "id": "ltwm-07465",
+  "id": "ltwm-07729",
   "year": 2015,
-  "tier": "SILVER",
+  "tier": "BRONZE",
   "categories": [],
-  "title": "JCDECAUX PERSONAL BILLBOARDS",
-  "brand": "JCDECAUX",
-  "agency": "BBDO BELGIUM",
-  "raw": "JCDECAUX PERSONAL BILLBOARDS – JCDECAUX (BBDO BELGIUM)",
+  "title": "THE DREAM ISLAND",
+  "brand": "HEINEKEN",
+  "agency": "PUBLICIS MILAN",
+  "raw": "THE DREAM ISLAND – HEINEKEN (PUBLICIS MILAN)",
   "links": [
-   "https://www.bbdo.be/work/personal-billboards"
+   "https://vimeo.com/202945157"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Silver",
-    "category": "Direct",
-    "subcategory": "Business Products & Services",
-    "count": 1,
-    "source_count": 1
-   },
-   {
     "level": "Bronze",
-    "category": "Direct",
-    "subcategory": "Direct Response Print or Standard Outdoor (incl.Inserts)",
+    "category": "Film",
+    "subcategory": "Corporate Image & Communication",
     "count": 1,
     "source_count": 1
    }
@@ -542,39 +599,149 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "JC DECAUX BELGIUM",
-   "product": "OUTDOOR MEDIA",
+   "brand": "HEINEKEN",
+   "product": "BEER",
    "agencies": [
-    "BBDO BELGIUM Brussels"
+    "PUBLICIS ITALY Milan"
    ],
    "awards": [
     {
-     "level": "Silver",
-     "category": "Direct",
-     "subcategory": "Business Products & Services",
+     "level": "Bronze",
+     "category": "Film",
+     "subcategory": "Corporate Image & Communication",
      "count": 1,
      "entry_titles": [
-      "JCDECAUX PERSONAL BILLBOARDS"
+      "THE HERO"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銅獅 Film Bronze Lion｜代理商：PUBLICIS ITALY Milan"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/7sDFJEwnUZaGwijBHq2OXr/aa1a7fa09f91cf7a197ee7d0c16cac41/LTW_placeholder_3.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/the-hero-119896"
+  ]
+ },
+ {
+  "id": "ltwm-07874",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "THE CITY",
+  "brand": "HEINEKEN",
+  "agency": "WIEDEN+KENNEDY AMSTERDAM",
+  "raw": "THE CITY – HEINEKEN (WIEDEN+KENNEDY AMSTERDAM)",
+  "links": [
+   "https://clios.com/awards/winner/film-technique/the-city-3876"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Film",
+    "subcategory": "Alcoholic Drinks",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Film Craft",
+    "subcategory": "Use of Licensed/Adapted Music",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "HEINEKEN",
+   "product": "HEINEKEN",
+   "agencies": [
+    "WIEDEN+KENNEDY AMSTERDAM",
+    "750MPH London / WIEDEN+KENNEDY AMSTERDAM"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Film",
+     "subcategory": "Alcoholic Drinks",
+     "count": 1,
+     "entry_titles": [
+      "THE CITY"
      ]
     },
     {
      "level": "Bronze",
-     "category": "Direct",
-     "subcategory": "Direct Response Print or Standard Outdoor (incl.Inserts)",
+     "category": "Film Craft",
+     "subcategory": "Use of Licensed/Adapted Music",
      "count": 1,
      "entry_titles": [
-      "JCDECAUX PERSONAL BILLBOARDS"
+      "THE CITY"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜直效類銀獅 Direct Silver Lion、直效類銅獅 Direct Bronze Lion｜代理商：BBDO BELGIUM Brussels"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銅獅 Film Bronze Lion、影片工藝類銅獅 Film Craft Bronze Lion｜代理商：WIEDEN+KENNEDY AMSTERDAM / 750MPH London / WIEDEN+KENNEDY AMSTERDAM"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/7a80d6c65fbd49fab6bd7538b273499a"
+   "https://images.ctfassets.net/8ha5xom4da7e/1GStA8cUUMJnbepXVsQwox/7aaaddc9cb7ae9f22939053c2fe46b31/LTW_placeholder_4.svg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/jcdecaux-personal-billboards-128564",
-   "https://www.lovethework.com/en/work/entries/jcdecaux-personal-billboards-128556"
+   "https://www.lovethework.com/en/work/entries/the-city-135691",
+   "https://www.lovethework.com/en/work/entries/the-city-124260"
+  ]
+ },
+ {
+  "id": "ltwm-07875",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "THE MATCH",
+  "brand": "HEINEKEN",
+  "agency": "WIEDEN+KENNEDY AMSTERDAM",
+  "raw": "THE MATCH – HEINEKEN (WIEDEN+KENNEDY AMSTERDAM)",
+  "links": [
+   "https://clios.com/awards/winner/945"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Film",
+    "subcategory": "Alcoholic Drinks",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "HEINEKEN",
+   "product": "HEINEKEN",
+   "agencies": [
+    "WIEDEN+KENNEDY AMSTERDAM"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Film",
+     "subcategory": "Alcoholic Drinks",
+     "count": 1,
+     "entry_titles": [
+      "THE MATCH"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銅獅 Film Bronze Lion｜代理商：WIEDEN+KENNEDY AMSTERDAM"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/21oKzZpgKK38z6CH22xvKi/2891cea86e6d97a93344f9f8fd0e6153/LTW_placeholder_2.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/the-match-135639"
   ]
  }
 ]

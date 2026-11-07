@@ -1,238 +1,100 @@
 [
  {
-  "id": "ltwm-07600",
+  "id": "ltwm-07517",
   "year": 2015,
   "tier": "SILVER",
   "categories": [],
-  "title": "RED SOX: GREEN MONSTER",
-  "brand": "PAINT",
-  "agency": "THE MARTIN AGENCY RICHMOND",
-  "raw": "RED SOX: GREEN MONSTER – PAINT (THE MARTIN AGENCY RICHMOND)",
+  "title": "TICKET BOOKS",
+  "brand": "L&PM",
+  "agency": "AFRICA SÃO PAULO",
+  "raw": "TICKET BOOKS – L&PM (AFRICA SÃO PAULO)",
   "links": [
-   "https://vimeo.com/118927992"
+   "https://creativepool.com/agenciaafrica/projects/ticket-books-for-lpm"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Silver",
-    "category": "Integrated",
-    "subcategory": "Titanium and Integrated",
+    "category": "Outdoor",
+    "subcategory": "Small Scale Special Solutions",
     "count": 1,
     "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "BENJAMIN MOORE",
-   "product": "PAINT",
-   "agencies": [
-    "THE MARTIN AGENCY Richmond"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Integrated",
-     "subcategory": "Titanium and Integrated",
-     "count": 1,
-     "entry_titles": [
-      "RED SOX: GREEN MONSTER"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Integrated類銀獅 Integrated Silver Lion｜代理商：THE MARTIN AGENCY Richmond"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/bdfeda880c034d128f9ef7e80cf64fbe/storyboard_000002.jpg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/red-sox-green-monster-125905"
-  ]
- },
- {
-  "id": "ltwm-07601",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "SETTLE IT",
-  "brand": "MARS",
-  "agency": "DDB CHICAGO",
-  "raw": "SETTLE IT – MARS (DDB CHICAGO)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2015/film-advertising/24738/settle-it/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
+   },
    {
     "level": "Silver",
-    "category": "Film",
-    "subcategory": "Sweet Foods & Snacks",
+    "category": "Media",
+    "subcategory": "Use of Ambient Media: Small Scale",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Bronze",
-    "category": "Radio",
-    "subcategory": "Foods",
+    "category": "Design",
+    "subcategory": "Promotional Item Design",
     "count": 1,
-    "source_count": 2
+    "source_count": 1
    }
   ],
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "MARS",
-   "product": "SKITTLES",
+   "brand": "L&PM",
+   "product": "POCKET BOOKS",
    "agencies": [
-    "DDB CHICAGO"
+    "AFRICA São Paulo"
    ],
    "awards": [
     {
      "level": "Silver",
-     "category": "Film",
-     "subcategory": "Sweet Foods & Snacks",
+     "category": "Outdoor",
+     "subcategory": "Small Scale Special Solutions",
      "count": 1,
      "entry_titles": [
-      "SETTLE IT 30'"
+      "TICKET BOOKS"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Media",
+     "subcategory": "Use of Ambient Media: Small Scale",
+     "count": 1,
+     "entry_titles": [
+      "TICKET BOOKS"
      ]
     },
     {
      "level": "Bronze",
-     "category": "Radio",
-     "subcategory": "Foods",
+     "category": "Design",
+     "subcategory": "Promotional Item Design",
      "count": 1,
      "entry_titles": [
-      "CLONES",
-      "TWO HEAD ED"
+      "TICKET BOOKS"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銀獅 Film Silver Lion、Radio類銅獅 Radio Bronze Lion｜代理商：DDB CHICAGO"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銀獅 Media Silver Lion、戶外類銀獅 Outdoor Silver Lion、設計類銅獅 Design Bronze Lion｜代理商：AFRICA São Paulo"
   },
   "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/3duqCqeHDt9hMAdtuQjc3V/3f6a8c56aeb415ac19cd5dd916fa6976/LTW_placeholder_1.svg"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/b384ebfea69948c7f3761c41745c3298"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/settle-it-30-120361",
-   "https://www.lovethework.com/en/work/entries/two-head-ed-112583",
-   "https://www.lovethework.com/en/work/entries/clones-112607"
+   "https://www.lovethework.com/en/work/entries/ticket-books-114708",
+   "https://www.lovethework.com/en/work/entries/ticket-books-106116",
+   "https://www.lovethework.com/en/work/entries/ticket-books-102564"
   ]
  },
  {
-  "id": "ltwm-07602",
+  "id": "ltwm-07522",
   "year": 2015,
   "tier": "SILVER",
   "categories": [],
-  "title": "BRADY BUNCH",
-  "brand": "MARS CHOCOLATE NORTH AMERICA",
-  "agency": "BBDO NEW YORK",
-  "raw": "BRADY BUNCH – MARS CHOCOLATE NORTH AMERICA (BBDO NEW YORK)",
+  "title": "ADOPTABLE TRENDS",
+  "brand": "DPA",
+  "agency": "DIESTE DALLAS",
+  "raw": "ADOPTABLE TRENDS – DPA (DIESTE DALLAS)",
   "links": [
-   "https://clios.com/awards/winner/film/brady-bunch-556"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Film",
-    "subcategory": "Sweet Foods & Snacks",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "MARS CHOCOLATE NORTH AMERICA",
-   "product": "SNICKERS",
-   "agencies": [
-    "BBDO NEW YORK"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Film",
-     "subcategory": "Sweet Foods & Snacks",
-     "count": 1,
-     "entry_titles": [
-      "BRADY BUNCH"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銀獅 Film Silver Lion｜代理商：BBDO NEW YORK"
-  },
-  "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/1GStA8cUUMJnbepXVsQwox/7aaaddc9cb7ae9f22939053c2fe46b31/LTW_placeholder_4.svg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/brady-bunch-135504"
-  ]
- },
- {
-  "id": "ltwm-07603",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "EMILY’S OZ",
-  "brand": "COMCAST/XFINITY",
-  "agency": "GOODBY SILVERSTEIN & PARTNERS NEW YORK",
-  "raw": "EMILY’S OZ – COMCAST/XFINITY (GOODBY SILVERSTEIN & PARTNERS NEW YORK)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2015/film-advertising-crafts/24790/emilys-oz/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Integrated",
-    "subcategory": "Titanium and Integrated",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "COMCAST/XFINITY",
-   "product": "COMCAST/XFINITY",
-   "agencies": [
-    "GOODBY SILVERSTEIN & PARTNERS NY New York"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Integrated",
-     "subcategory": "Titanium and Integrated",
-     "count": 1,
-     "entry_titles": [
-      "EMILY'S OZ"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Integrated類銅獅 Integrated Bronze Lion｜代理商：GOODBY SILVERSTEIN & PARTNERS NY New York"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/012e75966c65419d97c54ce19d056067/storyboard_000002.jpg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/emilys-oz-104347"
-  ]
- },
- {
-  "id": "ltwm-07604",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "WI-FI DOGS",
-  "brand": "DEUTSCHE TELEKOM",
-  "agency": "DDB BERLIN",
-  "raw": "WI-FI DOGS – DEUTSCHE TELEKOM (DDB BERLIN)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2015/film-advertising-crafts/24783/wi-fi-dogs/"
+   "https://www.youtube.com/watch?v=Fy2Z7zNRQzo"
   ],
   "zh_brief": "",
   "note_from_selection": "",
@@ -240,14 +102,14 @@
    {
     "level": "Bronze",
     "category": "Cyber",
-    "subcategory": "Other Video",
+    "subcategory": "Use of Social Data & Insight",
     "count": 1,
     "source_count": 1
    },
    {
-    "level": "Bronze",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Fiction: Online Series (minimum 3 episodes)",
+    "level": "Silver",
+    "category": "Media",
+    "subcategory": "Use of Digital Content",
     "count": 1,
     "source_count": 1
    }
@@ -255,205 +117,52 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "DEUTSCHE TELEKOM",
-   "product": "TRAVEL & SURF",
+   "brand": "DPA",
+   "product": "PET ADOPTION",
    "agencies": [
-    "DDB GROUP GERMANY Berlin"
+    "DIESTE Dallas"
    ],
    "awards": [
     {
      "level": "Bronze",
      "category": "Cyber",
-     "subcategory": "Other Video",
+     "subcategory": "Use of Social Data & Insight",
      "count": 1,
      "entry_titles": [
-      "WI FI DOGS"
+      "ADOPTABLE TRENDS"
      ]
     },
     {
-     "level": "Bronze",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Fiction: Online Series (minimum 3 episodes)",
+     "level": "Silver",
+     "category": "Media",
+     "subcategory": "Use of Digital Content",
      "count": 1,
      "entry_titles": [
-      "WI FI DOGS"
+      "ADOPTABLE TRENDS"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion、Cyber類銅獅 Cyber Bronze Lion｜代理商：DDB GROUP GERMANY Berlin"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銀獅 Media Silver Lion、Cyber類銅獅 Cyber Bronze Lion｜代理商：DIESTE Dallas"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/52788f158ab946c5c0f68f9a7a91c44e/storyboard_000002.jpg"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/ccb17919346a41a897bdb80cbe10b686"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/wi-fi-dogs-122193",
-   "https://www.lovethework.com/en/work/entries/wi-fi-dogs-111672"
+   "https://www.lovethework.com/en/work/entries/adoptable-trends-130563",
+   "https://www.lovethework.com/en/work/entries/adoptable-trends-108447"
   ]
  },
  {
-  "id": "ltwm-07605",
+  "id": "ltwm-07519",
   "year": 2015,
-  "tier": "BRONZE",
+  "tier": "SILVER",
   "categories": [],
-  "title": "ABORTION TUTORIALS",
-  "brand": "MILES CORPORATION",
-  "agency": "GREY SANTIAGO",
-  "raw": "ABORTION TUTORIALS – MILES CORPORATION (GREY SANTIAGO)",
+  "title": "TACO BELL BLACKOUT",
+  "brand": "TACO BELL",
+  "agency": "DIGITASLBI SAN FRANCISCO",
+  "raw": "TACO BELL BLACKOUT – TACO BELL (DIGITASLBI SAN FRANCISCO)",
   "links": [
-   "https://www.youtube.com/watch?v=2Wki3tQtmUI"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Fiction: Online Series (minimum 3 episodes)",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "MILES CORPORATION",
-   "product": "CAMPAIGN IN SUPPORT OF THERAPEUTIC ABORTION LAW",
-   "agencies": [
-    "GREY CHILE Santiago"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Fiction: Online Series (minimum 3 episodes)",
-     "count": 1,
-     "entry_titles": [
-      "ABORTION TUTORIALS"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：GREY CHILE Santiago"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/13192b7d5a254be4bdf0f39a0d1a146f/storyboard_000002.jpg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/abortion-tutorials-99699"
-  ]
- },
- {
-  "id": "ltwm-07606",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "ONE RAND MAN",
-  "brand": "SANLAM",
-  "agency": "KING JAMES GROUP CAPE TOWN",
-  "raw": "ONE RAND MAN – SANLAM (KING JAMES GROUP CAPE TOWN)",
-  "links": [
-   "https://www.youtube.com/watch?v=xWxeTRgkjBw"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Non-Fiction: Online Series (minumum 3 episodes)",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "SANLAM",
-   "product": "FINANCIAL SERVICES",
-   "agencies": [
-    "KING JAMES GROUP Cape Town"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Non-Fiction: Online Series (minumum 3 episodes)",
-     "count": 1,
-     "entry_titles": [
-      "ONE RAND MAN"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：KING JAMES GROUP Cape Town"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/54cf667cbde34a63e17ca247ce8b4886/storyboard_000002.jpg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/one-rand-man-122396"
-  ]
- },
- {
-  "id": "ltwm-07607",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "UNBELIEVABLE CAMPAIGN",
-  "brand": "PEPSICO",
-  "agency": "AMVBBDO LONDON",
-  "raw": "UNBELIEVABLE CAMPAIGN – PEPSICO (AMVBBDO LONDON)",
-  "links": [
-   "https://www.lbbonline.com/news/pepsi-max-amv-bbdo-create-an-unbelievable-bus-stop"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Non-Fiction: Online Series (minumum 3 episodes)",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "PEPSICO",
-   "product": "PEPSI MAX",
-   "agencies": [
-    "AMV BBDO London"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Non-Fiction: Online Series (minumum 3 episodes)",
-     "count": 1,
-     "entry_titles": [
-      "UNBELIEVABLE CAMPAIGN"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：AMV BBDO London"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/0436bb4db94447e997ee0ab167b614d9/storyboard_000002.jpg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/unbelievable-campaign-99406"
-  ]
- },
- {
-  "id": "ltwm-07608",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "LIVING WITH LAG",
-  "brand": "UMEÅ ENERGI",
-  "agency": "ANR BBDO STOCKHOLM",
-  "raw": "LIVING WITH LAG – UMEÅ ENERGI (ANR BBDO STOCKHOLM)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2015/digital-marketing/24287/living-with-lag/"
+   "https://www.google.com/search?client=safari&rls=en&q=TACO+BELL+BLACKOUT+-+TACO+BELL+(DIGITASLBi+San+Francisco)&ie=UTF-8&oe=UTF-8"
   ],
   "zh_brief": "",
   "note_from_selection": "",
@@ -461,14 +170,14 @@
    {
     "level": "Bronze",
     "category": "Cyber",
-    "subcategory": "Social Video",
+    "subcategory": "Engagement Platform",
     "count": 1,
     "source_count": 1
    },
    {
-    "level": "Bronze",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Non-Fiction: Online (15 minutes or under in length)",
+    "level": "Silver",
+    "category": "Media",
+    "subcategory": "Use of Social Platforms",
     "count": 1,
     "source_count": 1
    }
@@ -476,60 +185,81 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "UMEÅ ENERGI / UME.NET",
-   "product": "FIBER BROADBAND PROVIDER",
+   "brand": "TACO BELL",
+   "product": "FAST FOOD RESTAURANT",
    "agencies": [
-    "ANR BBDO Stockholm"
+    "DIGITASLBi San Francisco"
    ],
    "awards": [
     {
      "level": "Bronze",
      "category": "Cyber",
-     "subcategory": "Social Video",
+     "subcategory": "Engagement Platform",
      "count": 1,
      "entry_titles": [
-      "LIVING WITH LAG"
+      "TACO BELL BLACKOUT"
      ]
     },
     {
-     "level": "Bronze",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Non-Fiction: Online (15 minutes or under in length)",
+     "level": "Silver",
+     "category": "Media",
+     "subcategory": "Use of Social Platforms",
      "count": 1,
      "entry_titles": [
-      "LIVING WITH LAG"
+      "TACO BELL BLACKOUT"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion、Cyber類銅獅 Cyber Bronze Lion｜代理商：ANR BBDO Stockholm"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銀獅 Media Silver Lion、Cyber類銅獅 Cyber Bronze Lion｜代理商：DIGITASLBi San Francisco"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/10fab873594948909194d04d2d65b990"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/e32a4b8ba9d14504d2b664d66c1a1c61"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/living-with-lag-129366",
-   "https://www.lovethework.com/en/work/entries/living-with-lag-122358"
+   "https://www.lovethework.com/en/work/entries/taco-bell-blackout-129256",
+   "https://www.lovethework.com/en/work/entries/taco-bell-blackout-106496"
   ]
  },
  {
-  "id": "ltwm-07609",
+  "id": "ltwm-07524",
   "year": 2015,
-  "tier": "BRONZE",
+  "tier": "SILVER",
   "categories": [],
-  "title": "THE SNICKERS WRITE-OFF",
-  "brand": "SNICKERS",
-  "agency": "BBDO NEW YORK",
-  "raw": "THE SNICKERS WRITE-OFF – SNICKERS (BBDO NEW YORK)",
+  "title": "SNACKHOLIDAYS",
+  "brand": "TRANSAVIA",
+  "agency": "LES GAULOIS PUTEAUX",
+  "raw": "SNACKHOLIDAYS – TRANSAVIA (LES GAULOIS PUTEAUX)",
   "links": [
-   "https://adsspot.me/media/tv-commercials/snickers-the-snickers-write-off-1-703a39278c3a"
+   "https://clios.com/awards/winner/public-relations/transavia/snackholidays-523"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Non-Fiction: Online (15 minutes or under in length)",
+    "category": "Direct",
+    "subcategory": "Targeted Ambient Media: Small Scale",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Media",
+    "subcategory": "Travel, Entertainment & Leisure",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Media",
+    "subcategory": "Use of Ambient Media: Small Scale",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "PR",
+    "subcategory": "Travel, Tourism & Leisure",
     "count": 1,
     "source_count": 1
    }
@@ -537,29 +267,348 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "MARS CHOCOLATE NORTH AMERICA",
-   "product": "SNICKERS",
+   "brand": "TRANSAVIA",
+   "product": "AIRLINE COMPANY",
    "agencies": [
-    "BBDO NEW YORK"
+    "LES GAULOIS Puteaux"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Non-Fiction: Online (15 minutes or under in length)",
+     "category": "Direct",
+     "subcategory": "Targeted Ambient Media: Small Scale",
      "count": 1,
      "entry_titles": [
-      "THE SNICKERS WRITE-OFF"
+      "SNACKHOLIDAYS"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Media",
+     "subcategory": "Travel, Entertainment & Leisure",
+     "count": 1,
+     "entry_titles": [
+      "SNACKHOLIDAYS"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Media",
+     "subcategory": "Use of Ambient Media: Small Scale",
+     "count": 1,
+     "entry_titles": [
+      "SNACKHOLIDAYS"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "PR",
+     "subcategory": "Travel, Tourism & Leisure",
+     "count": 1,
+     "entry_titles": [
+      "SNACKHOLIDAYS"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：BBDO NEW YORK"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銀獅 Media Silver Lion、公關類銀獅 PR Silver Lion、直效類銅獅 Direct Bronze Lion、媒體類銅獅 Media Bronze Lion｜代理商：LES GAULOIS Puteaux"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/559234b69c354771dd874c328f9b676b/storyboard_000002.jpg"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/43df28b0ba86478d98e1e655972cb002"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-snickers-write-off-122290"
+   "https://www.lovethework.com/en/work/entries/snackholidays-124638",
+   "https://www.lovethework.com/en/work/entries/snackholidays-109375",
+   "https://www.lovethework.com/en/work/entries/snackholidays-107979"
   ]
+ },
+ {
+  "id": "ltwm-07521",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "TTYL (TALK TO YOU LATER)",
+  "brand": "CHEVROLET",
+  "agency": "MARURI GREY GUAYAQUIL",
+  "raw": "TTYL (TALK TO YOU LATER) – CHEVROLET (MARURI GREY GUAYAQUIL)",
+  "links": [
+   "https://www.latinspots.com/sp/piezas/detalle/21062/ttyl-talk-to-you-later"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Media",
+    "subcategory": "Use of Mobile Devices",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "CHEVROLET",
+   "product": "CHEVROLET",
+   "agencies": [
+    "MARURI GREY Guayaquil"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Media",
+     "subcategory": "Use of Mobile Devices",
+     "count": 1,
+     "entry_titles": [
+      "TTYL (TALK TO YOU LATER)"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銀獅 Media Silver Lion｜代理商：MARURI GREY Guayaquil"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/42dbf5eff8714edcf9c36e94e5c82d8b"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/ttyl-talk-to-you-later-106009"
+  ]
+ },
+ {
+  "id": "ltwm-07525",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "REVENGE OF THE (IT) NERDS",
+  "brand": "DELL",
+  "agency": "MEDIACOM AGENTUR FÜR MEDIENBERATUNG DÜSSELDORF",
+  "raw": "REVENGE OF THE (IT) NERDS – DELL (MEDIACOM AGENTUR FÜR MEDIENBERATUNG DÜSSELDORF)",
+  "links": [
+   "https://www.youtube.com/watch?v=3DxuKAiRufg"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Media",
+    "subcategory": "Business Products & Services",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "DELL",
+   "product": "DELL",
+   "agencies": [
+    "MEDIACOM AGENTUR FÜR MEDIENBERATUNG Düsseldorf"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Media",
+     "subcategory": "Business Products & Services",
+     "count": 1,
+     "entry_titles": [
+      "REVENGE OF THE (IT) NERDS"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銀獅 Media Silver Lion｜代理商：MEDIACOM AGENTUR FÜR MEDIENBERATUNG Düsseldorf"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/dbfaa073448540dedf90ef83fe20dbed"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/revenge-of-the-it-nerds-108607"
+  ]
+ },
+ {
+  "id": "ltwm-07516",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "WAVE",
+  "brand": "DECATHLON",
+  "agency": "ROSAPARK PARIS",
+  "raw": "WAVE – DECATHLON (ROSAPARK PARIS)",
+  "links": [
+   "https://www2.eurobest.com/winners/2015/media/entry.cfm?entryid=1037&award=99&keywords=&order=10&direction=1"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Media",
+    "subcategory": "Use of Ambient Media: Small Scale",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "DECATHLON",
+   "product": "TRIBORD IZEBER FLOTATION VESTS",
+   "agencies": [
+    "ROSAPARK Paris"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Media",
+     "subcategory": "Use of Ambient Media: Small Scale",
+     "count": 1,
+     "entry_titles": [
+      "WAVE"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銀獅 Media Silver Lion｜代理商：ROSAPARK Paris"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/919287a55ae745f5f065ed00d9143e14"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/wave-106149"
+  ]
+ },
+ {
+  "id": "ltwm-07523",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "THE 24 HOUR AD BREAK",
+  "brand": "DNB",
+  "agency": "TRY OSLO",
+  "raw": "THE 24 HOUR AD BREAK – DNB (TRY OSLO)",
+  "links": [
+   "https://vimeo.com/111237523"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Media",
+    "subcategory": "Financial Products & Services",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "DNB",
+   "product": "24 HOUR CUSTOMER SERVICE",
+   "agencies": [
+    "TRY Oslo"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Media",
+     "subcategory": "Financial Products & Services",
+     "count": 1,
+     "entry_titles": [
+      "THE 24 HOUR AD BREAK"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銀獅 Media Silver Lion｜代理商：TRY Oslo"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/5f9fbf0085d743d8ce1a4fb324fe63e0"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/the-24-hour-ad-break-108612"
+  ]
+ },
+ {
+  "id": "ltwm-07629",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "2014 TACO BELL BREAKFAST LAUNCH (RONALD MCDONALD LAUNCH)",
+  "brand": "TACO BELL",
+  "agency": "DEUTSCH LOS ANGELES",
+  "raw": "2014 TACO BELL BREAKFAST LAUNCH (RONALD MCDONALD LAUNCH) – TACO BELL (DEUTSCH LOS ANGELES)",
+  "links": [
+   "https://clios.com/awards/winner/public-relations/2014-taco-bell-breakfast-launch-ronald-mcdonald-la-3253"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Film",
+    "subcategory": "Restaurants & Fast Food Outlets",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Creative Effectiveness",
+    "subcategory": "Creative Effectiveness",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "TACO BELL",
+   "product": "BREAKFAST",
+   "agencies": [
+    "DEUTSCH LA"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Film",
+     "subcategory": "Restaurants & Fast Food Outlets",
+     "count": 1,
+     "entry_titles": [
+      "ROUTINE REPUBLIC"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Creative Effectiveness",
+     "subcategory": "Creative Effectiveness",
+     "count": 1,
+     "entry_titles": [
+      "2014 TACO BELL BREAKFAST LAUNCH (RONALD McDONALD LAUNCH)"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意實效類銅獅 Creative Effectiveness Bronze Lion、影片類銅獅 Film Bronze Lion｜代理商：DEUTSCH LA"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/42fe732827f04fb9b6314b3c1d5124df/storyboard_000002.jpg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/2014-taco-bell-breakfast-launch-ronald-mcdonald-launch-122569",
+   "https://www.lovethework.com/en/work/entries/routine-republic-120052"
+  ]
+ },
+ {
+  "id": "ltwm-07801",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "#BESTDAYEVER",
+  "brand": "CHEVROLET",
+  "agency": "MCCANN DETROIT",
+  "raw": "#BESTDAYEVER – CHEVROLET (MCCANN DETROIT)",
+  "links": [
+   "https://www.youtube.com/watch?v=n9OuU_spaEw"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [],
+  "official_case": "",
+  "official_summary": ""
  }
 ]

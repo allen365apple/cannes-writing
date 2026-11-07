@@ -1,30 +1,136 @@
 [
  {
-  "id": "ltwm-07610",
+  "id": "ltwm-07564",
   "year": 2015,
-  "tier": "BRONZE",
+  "tier": "SILVER",
   "categories": [],
-  "title": "RADIANT RETURN",
-  "brand": "PZ CUSSONS",
-  "agency": "DDB MELBOURNE",
-  "raw": "RADIANT RETURN – PZ CUSSONS (DDB MELBOURNE)",
+  "title": "#PACKATTACK",
+  "brand": "TEMPTATIONS",
+  "agency": "ADAM&EVEDDB LONDON",
+  "raw": "#PACKATTACK – TEMPTATIONS (ADAM&EVEDDB LONDON)",
   "links": [
-   "https://www.dandad.org/awards/professional/2015/digital-marketing/24268/radiant-return/"
+   "https://chrisandfran.carbonmade.com/projects/5463355"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Social Video",
+    "level": "Silver",
+    "category": "Press",
+    "subcategory": "Miscellaneous",
+    "count": 1,
+    "source_count": 3
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "MARS",
+   "product": "TEMPTATIONS CAT TREATS",
+   "agencies": [
+    "ADAM&EVEDDB London"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Press",
+     "subcategory": "Miscellaneous",
+     "count": 1,
+     "entry_titles": [
+      "SALMON",
+      "CHICKEN",
+      "SEAFOOD"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銀獅 Press Silver Lion｜代理商：ADAM&EVEDDB London"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/5d135fe13d4142e7d04b6baa3ad76be9"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/seafood-134241",
+   "https://www.lovethework.com/en/work/entries/chicken-134267",
+   "https://www.lovethework.com/en/work/entries/salmon-134305"
+  ]
+ },
+ {
+  "id": "ltwm-07602",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "BRADY BUNCH",
+  "brand": "MARS CHOCOLATE NORTH AMERICA",
+  "agency": "BBDO NEW YORK",
+  "raw": "BRADY BUNCH – MARS CHOCOLATE NORTH AMERICA (BBDO NEW YORK)",
+  "links": [
+   "https://clios.com/awards/winner/film/brady-bunch-556"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Film",
+    "subcategory": "Sweet Foods & Snacks",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "MARS CHOCOLATE NORTH AMERICA",
+   "product": "SNICKERS",
+   "agencies": [
+    "BBDO NEW YORK"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Film",
+     "subcategory": "Sweet Foods & Snacks",
+     "count": 1,
+     "entry_titles": [
+      "BRADY BUNCH"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銀獅 Film Silver Lion｜代理商：BBDO NEW YORK"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/1GStA8cUUMJnbepXVsQwox/7aaaddc9cb7ae9f22939053c2fe46b31/LTW_placeholder_4.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/brady-bunch-135504"
+  ]
+ },
+ {
+  "id": "ltwm-07526",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "FOUND",
+  "brand": "MARS",
+  "agency": "COLENSO BBDO AUCKLAND",
+  "raw": "FOUND – MARS (COLENSO BBDO AUCKLAND)",
+  "links": [
+   "https://www.colensobbdo.co.nz/portfolio/pedigree-found/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Bronze",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Non-Fiction: Online (15 minutes or under in length)",
+    "category": "Mobile",
+    "subcategory": "",
     "count": 1,
     "source_count": 1
    }
@@ -32,60 +138,120 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "PZ CUSSONS",
-   "product": "RADIANT",
+   "brand": "MARS",
+   "product": "PEDIGREE",
    "agencies": [
-    "DDB GROUP MELBOURNE"
+    "COLENSO BBDO Auckland"
    ],
    "awards": [
     {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Social Video",
+     "level": "Silver",
+     "category": "Mobile",
+     "subcategory": "",
      "count": 1,
      "entry_titles": [
-      "RADIANT RETURN MASTER FILM"
+      "FOUND"
      ]
     },
     {
      "level": "Bronze",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Non-Fiction: Online (15 minutes or under in length)",
+     "category": "Mobile",
+     "subcategory": "",
      "count": 1,
      "entry_titles": [
-      "RADIANT RETURN"
+      "FOUND"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion、Cyber類銅獅 Cyber Bronze Lion｜代理商：DDB GROUP MELBOURNE"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銀獅 Mobile Silver Lion、行動類銅獅 Mobile Bronze Lion｜代理商：COLENSO BBDO Auckland"
+  }
+ },
+ {
+  "id": "ltwm-07597",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "DOGS DON’T JUDGE",
+  "brand": "PEDIGREE",
+  "agency": "COLENSO BBDO AUCKLAND",
+  "raw": "DOGS DON’T JUDGE – PEDIGREE (COLENSO BBDO AUCKLAND)",
+  "links": [
+   "https://www.colensobbdo.co.nz/portfolio/dogs-dont-judge/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Radio",
+    "subcategory": "Miscellaneous",
+    "count": 1,
+    "source_count": 2
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "MARS",
+   "product": null,
+   "agencies": [
+    "COLENSO BBDO Auckland"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Radio",
+     "subcategory": "Miscellaneous",
+     "count": 1,
+     "entry_titles": [
+      "LOTTERY",
+      "WHACK JOB"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Radio類銀獅 Radio Silver Lion｜代理商：COLENSO BBDO Auckland"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/88d9ef631d9647bfe6dc3968c1330ee6/storyboard_000002.jpg"
+   "https://images.ctfassets.net/8ha5xom4da7e/HHC8rICbjMxbx6eDreIds/c7b569e03ca6b3f3521da11e51a3d198/audio-yellow.svg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/radiant-return-122141",
-   "https://www.lovethework.com/en/work/entries/radiant-return-master-film-129176"
+   "https://www.lovethework.com/en/work/entries/whack-job-113093",
+   "https://www.lovethework.com/en/work/entries/lottery-113098"
   ]
  },
  {
-  "id": "ltwm-07611",
+  "id": "ltwm-07574",
   "year": 2015,
-  "tier": "BRONZE",
+  "tier": "SILVER",
   "categories": [],
-  "title": "KIDS READ MEAN TWEETS",
-  "brand": "CANADIAN SAFE SCHOOL NETWORK",
-  "agency": "JOHN ST. TORONTO",
-  "raw": "KIDS READ MEAN TWEETS – CANADIAN SAFE SCHOOL NETWORK (JOHN ST. TORONTO)",
+  "title": "K9FM",
+  "brand": "PEDIGREE",
+  "agency": "COLENSO BBDO AUCKLAND",
+  "raw": "K9FM – PEDIGREE (COLENSO BBDO AUCKLAND)",
   "links": [
-   "https://vimeo.com/240493675"
+   "https://vimeo.com/102191759"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Non-Fiction: Online (15 minutes or under in length)",
+    "category": "Direct",
+    "subcategory": "Direct response broadcast: TV, radio & infomercials",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Broadcast in a Promotional Campaign",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Promo & Activation",
+    "subcategory": "Fast Moving Consumer Goods (not including Food & Drinks)",
     "count": 1,
     "source_count": 1
    }
@@ -93,50 +259,141 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "CANADIAN SAFE SCHOOL NETWORK",
-   "product": "SERVICE",
+   "brand": "MARS",
+   "product": "PEDIGREE",
    "agencies": [
-    "JOHN ST. Toronto"
+    "COLENSO BBDO Auckland / CLEMENGER BBDO MELBOURNE",
+    "COLENSO BBDO Auckland"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Non-Fiction: Online (15 minutes or under in length)",
+     "category": "Direct",
+     "subcategory": "Direct response broadcast: TV, radio & infomercials",
      "count": 1,
      "entry_titles": [
-      "KIDS READ MEAN TWEETS"
+      "K9FM"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Promo & Activation",
+     "subcategory": "Use of Broadcast in a Promotional Campaign",
+     "count": 1,
+     "entry_titles": [
+      "K9FM"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Promo & Activation",
+     "subcategory": "Fast Moving Consumer Goods (not including Food & Drinks)",
+     "count": 1,
+     "entry_titles": [
+      "K9FM"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：JOHN ST. Toronto"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銀獅 Promo & Activation Silver Lion、直效類銅獅 Direct Bronze Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：COLENSO BBDO Auckland / CLEMENGER BBDO MELBOURNE / COLENSO BBDO Auckland"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/435891d82a1e444ce26e3cfe7e4e7a34/storyboard_000002.jpg"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/d34fa2f357874a5d9fb9b9f109ef11f9"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/kids-read-mean-tweets-99729"
+   "https://www.lovethework.com/en/work/entries/k9fm-110157",
+   "https://www.lovethework.com/en/work/entries/k9fm-127491",
+   "https://www.lovethework.com/en/work/entries/k9fm-127618"
   ]
  },
  {
-  "id": "ltwm-07612",
+  "id": "ltwm-07601",
   "year": 2015,
-  "tier": "BRONZE",
+  "tier": "SILVER",
   "categories": [],
-  "title": "WORLD’S FIRST IPHONE 6 DUMPED IN A PITCHER OF BEER",
-  "brand": "REVIVEAPHONE",
-  "agency": "IG2 MONTRÉAL",
-  "raw": "WORLD’S FIRST IPHONE 6 DUMPED IN A PITCHER OF BEER – REVIVEAPHONE (IG2 MONTRÉAL)",
+  "title": "SETTLE IT",
+  "brand": "MARS",
+  "agency": "DDB CHICAGO",
+  "raw": "SETTLE IT – MARS (DDB CHICAGO)",
   "links": [
-   "https://www.youtube.com/watch?v=4R0w0-W5-pU"
+   "https://www.dandad.org/awards/professional/2015/film-advertising/24738/settle-it/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
+    "level": "Silver",
+    "category": "Film",
+    "subcategory": "Sweet Foods & Snacks",
+    "count": 1,
+    "source_count": 1
+   },
+   {
     "level": "Bronze",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Non-Fiction: Online (15 minutes or under in length)",
+    "category": "Radio",
+    "subcategory": "Foods",
+    "count": 1,
+    "source_count": 2
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "MARS",
+   "product": "SKITTLES",
+   "agencies": [
+    "DDB CHICAGO"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Film",
+     "subcategory": "Sweet Foods & Snacks",
+     "count": 1,
+     "entry_titles": [
+      "SETTLE IT 30'"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Radio",
+     "subcategory": "Foods",
+     "count": 1,
+     "entry_titles": [
+      "CLONES",
+      "TWO HEAD ED"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銀獅 Film Silver Lion、Radio類銅獅 Radio Bronze Lion｜代理商：DDB CHICAGO"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/3duqCqeHDt9hMAdtuQjc3V/3f6a8c56aeb415ac19cd5dd916fa6976/LTW_placeholder_1.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/settle-it-30-120361",
+   "https://www.lovethework.com/en/work/entries/two-head-ed-112583",
+   "https://www.lovethework.com/en/work/entries/clones-112607"
+  ]
+ },
+ {
+  "id": "ltwm-07527",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "THE NEXT PHOTO",
+  "brand": "CHILDHOOD EYE CANCER TRUST",
+  "agency": "WUNDERMAN LONDON",
+  "raw": "THE NEXT PHOTO – CHILDHOOD EYE CANCER TRUST (WUNDERMAN LONDON)",
+  "links": [
+   "https://www2.eurobest.com/winners/2015/media/entry.cfm?entryid=3466&award=99&keywords=&order=0&direction=1"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "",
     "count": 1,
     "source_count": 1
    }
@@ -144,101 +401,44 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "REVIVEAPHONE",
-   "product": "REVIVEAPHONE",
+   "brand": "CHILDHOOD EYE CANCER TRUST",
+   "product": "FLASH PHOTO POSTER CAMPAIGN",
    "agencies": [
-    "lg2 Montréal"
+    "WUNDERMAN London"
    ],
    "awards": [
     {
-     "level": "Bronze",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Non-Fiction: Online (15 minutes or under in length)",
+     "level": "Silver",
+     "category": "Mobile",
+     "subcategory": "",
      "count": 1,
      "entry_titles": [
-      "REVIVEAPHONE"
+      "THE NEXT PHOTO"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：lg2 Montréal"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/1bd2028eb8894b53a13d842326403535/storyboard_000002.jpg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/reviveaphone-99575"
-  ]
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銀獅 Mobile Silver Lion｜代理商：WUNDERMAN London"
+  }
  },
  {
-  "id": "ltwm-07613",
+  "id": "ltwm-07752",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "WATCH PORN, SAVE YOUR LIVE",
-  "brand": "PORNHUB",
-  "agency": "MCCANN LIMA",
-  "raw": "WATCH PORN, SAVE YOUR LIVE – PORNHUB (MCCANN LIMA)",
-  "links": [
-   "https://vimeo.com/126840693"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Brand or product integration into an existing programme or platform",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "PORNHUB NETWORK",
-   "product": "PORNHUB",
-   "agencies": [
-    "McCANN LIMA"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Brand or product integration into an existing programme or platform",
-     "count": 1,
-     "entry_titles": [
-      "WATCH PORN, SAVE YOUR LIVE"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：McCANN LIMA"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/27fbd5c87b47435a8f9077dd93f38c6a/storyboard_000002.jpg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/watch-porn-save-your-live-122199"
-  ]
- },
- {
-  "id": "ltwm-07614",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "SOCCER FATIGUE SENSOR",
-  "brand": "VOLKSWAGEN DO BRASIL",
+  "title": "FIRST DAYS OUT",
+  "brand": "MARS",
   "agency": "ALMAPBBDO SÃO PAULO",
-  "raw": "SOCCER FATIGUE SENSOR – VOLKSWAGEN DO BRASIL (ALMAPBBDO SÃO PAULO)",
+  "raw": "FIRST DAYS OUT – MARS (ALMAPBBDO SÃO PAULO)",
   "links": [
-   "https://www.behance.net/gallery/24989343/Volkswagen-Soccer-Fatigue-Sensor?tracking_source=search_projects_recommended%7CProximity%20Sensor"
+   "https://clios.com/awards/winner/853"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Brand or product integration into an existing programme or platform",
+    "category": "Health & Wellness",
+    "subcategory": "Animal Health",
     "count": 1,
     "source_count": 1
    }
@@ -246,42 +446,42 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "VOLKSWAGEN DO BRASIL",
-   "product": "FATIGUE SENSOR",
+   "brand": "MARS BRASIL",
+   "product": "PEDIGREE ADOPTION",
    "agencies": [
     "ALMAPBBDO São Paulo"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Brand or product integration into an existing programme or platform",
+     "category": "Health & Wellness",
+     "subcategory": "Animal Health",
      "count": 1,
      "entry_titles": [
-      "SOCCER FATIGUE SENSOR"
+      "FIRST DAYS OUT"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：ALMAPBBDO São Paulo"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜健康與保健類銅獅 Health & Wellness Bronze Lion｜代理商：ALMAPBBDO São Paulo"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/3a0a531ca1824d60c44dd97f1b56f1b8/storyboard_000002.jpg"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/10c9c58a6be34c9e92a56b3955613b30"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/soccer-fatigue-sensor-97445"
+   "https://www.lovethework.com/en/work/entries/first-days-out-97952"
   ]
  },
  {
-  "id": "ltwm-07615",
+  "id": "ltwm-07609",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "WHATEVER, USA LAUNCH 2014",
-  "brand": "BUD LIGHT",
-  "agency": "ENERGY BBDO CHICAGO",
-  "raw": "WHATEVER, USA LAUNCH 2014 – BUD LIGHT (ENERGY BBDO CHICAGO)",
+  "title": "THE SNICKERS WRITE-OFF",
+  "brand": "SNICKERS",
+  "agency": "BBDO NEW YORK",
+  "raw": "THE SNICKERS WRITE-OFF – SNICKERS (BBDO NEW YORK)",
   "links": [
-   "https://www.dandad.org/awards/professional/2015/outdoor-advertising/24692/whatever-usa/"
+   "https://adsspot.me/media/tv-commercials/snickers-the-snickers-write-off-1-703a39278c3a"
   ],
   "zh_brief": "",
   "note_from_selection": "",
@@ -289,7 +489,7 @@
    {
     "level": "Bronze",
     "category": "Branded Content & Entertainment",
-    "subcategory": "Branded Live experience",
+    "subcategory": "Non-Fiction: Online (15 minutes or under in length)",
     "count": 1,
     "source_count": 1
    }
@@ -297,250 +497,84 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "AB-INBEV",
-   "product": "BUD LIGHT",
+   "brand": "MARS CHOCOLATE NORTH AMERICA",
+   "product": "SNICKERS",
    "agencies": [
-    "ENERGY BBDO Chicago / MOSAIC Chicago, IL"
+    "BBDO NEW YORK"
    ],
    "awards": [
     {
      "level": "Bronze",
      "category": "Branded Content & Entertainment",
-     "subcategory": "Branded Live experience",
+     "subcategory": "Non-Fiction: Online (15 minutes or under in length)",
      "count": 1,
      "entry_titles": [
-      "BUD LIGHT WHATEVER, USA LAUNCH 2014"
+      "THE SNICKERS WRITE-OFF"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：ENERGY BBDO Chicago / MOSAIC Chicago, IL"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：BBDO NEW YORK"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/16ef12e9d2374aedc8f8eb0b5b7c8c6f/storyboard_000002.jpg"
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/559234b69c354771dd874c328f9b676b/storyboard_000002.jpg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/bud-light-whatever-usa-launch-2014-121926"
+   "https://www.lovethework.com/en/work/entries/the-snickers-write-off-122290"
   ]
  },
  {
-  "id": "ltwm-07616",
+  "id": "ltwm-07683",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "XPERIA UNDERWATER STORE",
-  "brand": "SONY MOBILE COMMUNICATIONS",
-  "agency": "FP7/DXB DUBAI",
-  "raw": "XPERIA UNDERWATER STORE – SONY MOBILE COMMUNICATIONS (FP7/DXB DUBAI)",
+  "title": "TWIX BITES",
+  "brand": "MARS",
+  "agency": "BBDO NEW YORK",
+  "raw": "TWIX BITES – MARS (BBDO NEW YORK)",
   "links": [
-   "https://clios.com/awards/winner/public-relations/sony-mobile-communications/xperia-underwater-store-41"
+   "https://clios.com/awards/winner/integrated-campaign/mars-chocolate-north-america/twix-bites-integrated-campaign-609"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Outdoor",
-    "subcategory": "Special Build",
+    "category": "Film",
+    "subcategory": "Sweet Foods & Snacks",
     "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Branded Live experience",
-    "count": 1,
-    "source_count": 1
+    "source_count": 3
    }
   ],
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "SONY MOBILE COMMUNICATIONS",
-   "product": "MOBILE",
+   "brand": "MARS CHOCOLATE NORTH AMERICA",
+   "product": "TWIX BITES",
    "agencies": [
-    "FP7/DXB Dubai"
+    "BBDO NEW YORK"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Outdoor",
-     "subcategory": "Special Build",
+     "category": "Film",
+     "subcategory": "Sweet Foods & Snacks",
      "count": 1,
      "entry_titles": [
-      "XPERIA UNDERWATER STORE"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Branded Live experience",
-     "count": 1,
-     "entry_titles": [
-      "XPERIA UNDERWATER STORE"
+      "DIAL-UP",
+      "FLAT TOP",
+      "Y2K"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion、戶外類銅獅 Outdoor Bronze Lion｜代理商：FP7/DXB Dubai"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銅獅 Film Bronze Lion｜代理商：BBDO NEW YORK"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/505b5622d2c340ee895541096e412dda"
+   "https://images.ctfassets.net/8ha5xom4da7e/21oKzZpgKK38z6CH22xvKi/2891cea86e6d97a93344f9f8fd0e6153/LTW_placeholder_2.svg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/xperia-underwater-store-131448",
-   "https://www.lovethework.com/en/work/entries/xperia-underwater-store-121854"
-  ]
- },
- {
-  "id": "ltwm-07618",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "SEASTARS",
-  "brand": "WWF THE NETHERLANDS",
-  "agency": "OGILVY & MATHER AMSTERDAM",
-  "raw": "SEASTARS – WWF THE NETHERLANDS (OGILVY & MATHER AMSTERDAM)",
-  "links": [
-   "https://clios.com/awards/winner/film-technique/wwf-the-netherlands/seastars-904"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Original Use of Music",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "WWF THE NETHERLANDS",
-   "product": "THE OCEANS",
-   "agencies": [
-    "OGILVY & MATHER AMSTERDAM"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Original Use of Music",
-     "count": 1,
-     "entry_titles": [
-      "SEASTARS"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：OGILVY & MATHER AMSTERDAM"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/2fa43da124cc4a89a6f89637923b11cf/storyboard_000002.jpg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/seastars-122117"
-  ]
- },
- {
-  "id": "ltwm-07619",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "LEFT SWIPE DAT",
-  "brand": "TRUTH INITIATIVE",
-  "agency": "72ANDSUNNY PLAYA VISTA",
-  "raw": "LEFT SWIPE DAT – TRUTH INITIATIVE (72ANDSUNNY PLAYA VISTA)",
-  "links": [
-   "https://clios.com/health/winner/public-relations/truth-initiative/left-swipe-dat-1361"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Original Use of Music",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "AMERICAN LEGACY FOUNDATION",
-   "product": "TRUTH",
-   "agencies": [
-    "72ANDSUNNY Playa Vista"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Original Use of Music",
-     "count": 1,
-     "entry_titles": [
-      "TRUTH - LEFT SWIPE DAT"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：72ANDSUNNY Playa Vista"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/1f552f76847b4ad1dc88ad247de6049a/storyboard_000002.jpg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/truth-left-swipe-dat-122022"
-  ]
- },
- {
-  "id": "ltwm-07620",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "DON’T DIE FOR ME",
-  "brand": "NGO VIDA MUJER",
-  "agency": "CIRCUS GREY LIMA",
-  "raw": "DON’T DIE FOR ME – NGO VIDA MUJER (CIRCUS GREY LIMA)",
-  "links": [
-   "https://www.youtube.com/watch?v=bzLqypJ7B8w"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Original Printed Content",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "NGO VIDA MUJER",
-   "product": "ORGANIZATION",
-   "agencies": [
-    "CIRCUS GREY Lima"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Original Printed Content",
-     "count": 1,
-     "entry_titles": [
-      "DON'T DIE FOR ME"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：CIRCUS GREY Lima"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/0ce3aed6454f47cfa7a1131afd574ddb"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/dont-die-for-me-99669"
+   "https://www.lovethework.com/en/work/entries/y2k-135545",
+   "https://www.lovethework.com/en/work/entries/flat-top-135569",
+   "https://www.lovethework.com/en/work/entries/dial-up-135616"
   ]
  }
 ]

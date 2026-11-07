@@ -1,23 +1,23 @@
 [
  {
-  "id": "ltwm-07855",
+  "id": "ltwm-07829",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "DREAMING OF YAMS",
-  "brand": "FOODSTUFFS NZ",
-  "agency": "COLENSO BBDO AUCKLAND",
-  "raw": "DREAMING OF YAMS – FOODSTUFFS NZ (COLENSO BBDO AUCKLAND)",
+  "title": "PAPARAZZI TROLL",
+  "brand": "CASA DO ZEZINHO",
+  "agency": "ALMAPBBDO SÃO PAULO",
+  "raw": "PAPARAZZI TROLL – CASA DO ZEZINHO (ALMAPBBDO SÃO PAULO)",
   "links": [
-   "https://adsspot.me/media/tv-commercials/foodstuffs-dreaming-of-yams-b12a23afe8bc"
+   "https://felipecirino.com/paparazzitroll"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Film Craft",
-    "subcategory": "Casting",
+    "category": "Outdoor",
+    "subcategory": "Small Scale Special Solutions",
     "count": 1,
     "source_count": 1
    }
@@ -25,42 +25,204 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "FOODSTUFFS NZ",
-   "product": "NEW WORLD",
+   "brand": "CASA DO ZEZINHO",
+   "product": "CASA DO ZEZINHO",
    "agencies": [
-    "FINCH Sydney / COLENSO BBDO Auckland"
+    "ALMAPBBDO São Paulo"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Film Craft",
-     "subcategory": "Casting",
+     "category": "Outdoor",
+     "subcategory": "Small Scale Special Solutions",
      "count": 1,
      "entry_titles": [
-      "DREAMING OF YAMS"
+      "PAPARAZZI TROLL"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片工藝類銅獅 Film Craft Bronze Lion｜代理商：FINCH Sydney / COLENSO BBDO Auckland"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：ALMAPBBDO São Paulo"
   },
   "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/21oKzZpgKK38z6CH22xvKi/2891cea86e6d97a93344f9f8fd0e6153/LTW_placeholder_2.svg"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/b6809221a87249df8da6e8b4a7633177"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/dreaming-of-yams-100596"
+   "https://www.lovethework.com/en/work/entries/paparazzi-troll-131704"
   ]
  },
  {
-  "id": "ltwm-07856",
+  "id": "ltwm-07830",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "ECOSPONGE",
-  "brand": "BIMBO GROUP",
-  "agency": "FCB BUENOS AIRES",
-  "raw": "ECOSPONGE – BIMBO GROUP (FCB BUENOS AIRES)",
+  "title": "CASH-OUT",
+  "brand": "SPORTSBET",
+  "agency": "BMF ADVERTISING SYDNEY",
+  "raw": "CASH-OUT – SPORTSBET (BMF ADVERTISING SYDNEY)",
   "links": [
-   "https://adsspot.me/media/digital/bimbo-ecosponge-3cdb7ed7cef9"
+   "https://www.youtube.com/watch?v=cxYSkIGrnKM&ab_channel=BMFAustralia"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Radio",
+    "subcategory": "Entertainment & Leisure",
+    "count": 1,
+    "source_count": 4
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "SPORTSBET",
+   "product": null,
+   "agencies": [
+    "BMF ADVERTISING Sydney"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Radio",
+     "subcategory": "Entertainment & Leisure",
+     "count": 1,
+     "entry_titles": [
+      "WALKOUT",
+      "SECURITY DOORS",
+      "COUPLES SCIENTIST",
+      "BIG CATS"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Radio類銅獅 Radio Bronze Lion｜代理商：BMF ADVERTISING Sydney"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/4eouFverMNv4kWPCEjCJNR/c4a7c858334338e1c874945f309b3c91/audio-green.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/big-cats-112310",
+   "https://www.lovethework.com/en/work/entries/couples-scientist-112316",
+   "https://www.lovethework.com/en/work/entries/security-doors-112318"
+  ]
+ },
+ {
+  "id": "ltwm-07822",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "BLIND SPOT",
+  "brand": "PERNOD RICARD",
+  "agency": "F.BIZ SÃO PAULO",
+  "raw": "BLIND SPOT – PERNOD RICARD (F.BIZ SÃO PAULO)",
+  "links": [
+   "https://www.adsoftheworld.com/campaign/pernod-ricard-fbiz-04-2015"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Press",
+    "subcategory": "Fundraising, Donations & Appeals",
+    "count": 1,
+    "source_count": 3
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "SINGULARES",
+   "product": "NGO - AGAINST ALCOOL",
+   "agencies": [
+    "F.BIZ São Paulo"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Press",
+     "subcategory": "Fundraising, Donations & Appeals",
+     "count": 1,
+     "entry_titles": [
+      "BLIND SPOT CHILD",
+      "BLIND SPOT BRIDGE",
+      "BLIND SPOT BIKE"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銅獅 Press Bronze Lion｜代理商：F.BIZ São Paulo"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/12179336837b4cddfe61730aae61e48a"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/blind-spot-bike-117876",
+   "https://www.lovethework.com/en/work/entries/blind-spot-bridge-117905",
+   "https://www.lovethework.com/en/work/entries/blind-spot-child-117906"
+  ]
+ },
+ {
+  "id": "ltwm-07901",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "HUMAN CALLIGRAPHY",
+  "brand": "PANADOL JOINT",
+  "agency": "GREY SINGAPORE",
+  "raw": "HUMAN CALLIGRAPHY – PANADOL JOINT (GREY SINGAPORE)",
+  "links": [
+   "https://www.behance.net/gallery/17344957/Human-Calligraphy-Panadol-Joint-Hong-Kong"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Health & Wellness",
+    "subcategory": "OTC Oral Medicines",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "GLAXOSMITHKLINE HONG KONG",
+   "product": "PANADOL JOINT",
+   "agencies": [
+    "GREY GROUP Singapore"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Health & Wellness",
+     "subcategory": "OTC Oral Medicines",
+     "count": 1,
+     "entry_titles": [
+      "PANADOL JOINT HUMAN CALLIGRAPHY"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜健康與保健類銅獅 Health & Wellness Bronze Lion｜代理商：GREY GROUP Singapore"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/c9e842b89451477fd741173343a33558"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/panadol-joint-human-calligraphy-120854"
+  ]
+ },
+ {
+  "id": "ltwm-07826",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "THE CONTAGIOUS BILLBOARD",
+  "brand": "CAFÉ PELÉ",
+  "agency": "TBWA SÃO PAULO",
+  "raw": "THE CONTAGIOUS BILLBOARD – CAFÉ PELÉ (TBWA SÃO PAULO)",
+  "links": [
+   "https://vimeo.com/131436285"
   ],
   "zh_brief": "",
   "note_from_selection": "",
@@ -76,10 +238,10 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "BIMBO GROUP",
-   "product": "FARGO WHITE BREAD",
+   "brand": "CIA CACIQUE DE CAFÉ SOLÚVEL",
+   "product": "CAFÉ PELÉ",
    "agencies": [
-    "FCB BUENOS AIRES"
+    "LEW'LARA\\TBWA São Paulo"
    ],
    "awards": [
     {
@@ -88,185 +250,30 @@
      "subcategory": "Food & Drinks (incl. Alcoholic Drinks)",
      "count": 1,
      "entry_titles": [
-      "ECOSPONGE"
+      "THE CONTAGIOUS BILLBOARD"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：FCB BUENOS AIRES"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：LEW'LARA\\TBWA São Paulo"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/393132ad8ab14647abf3a6376a90da1d"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/8acd689c0a7e44a5ebed1abd1cf74ece"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/ecosponge-127437"
+   "https://www.lovethework.com/en/work/entries/the-contagious-billboard-126349"
   ]
  },
  {
-  "id": "ltwm-07857",
+  "id": "ltwm-07904",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "ELLIE MAE",
-  "brand": "MUMSNET",
-  "agency": "GREY LONDON",
-  "raw": "ELLIE MAE – MUMSNET (GREY LONDON)",
+  "title": "PHILIPS CITISCAPE HEADPHONES",
+  "brand": "PHILIPS",
+  "agency": "OGILVY LONDON",
+  "raw": "PHILIPS CITISCAPE HEADPHONES – PHILIPS (OGILVY LONDON)",
   "links": [
-   "https://www.dandad.org/awards/professional/2016/direct/25362/ellee-mae/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Film",
-    "subcategory": "Public Awareness Messages",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "MUMSNET",
-   "product": "EDUCATION INITIATIVE: TEACH YOUR KIDS TO DIAL 999",
-   "agencies": [
-    "GREY LONDON"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Film",
-     "subcategory": "Public Awareness Messages",
-     "count": 1,
-     "entry_titles": [
-      "ELLEEMAE"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銅獅 Film Bronze Lion｜代理商：GREY LONDON"
-  },
-  "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/21oKzZpgKK38z6CH22xvKi/2891cea86e6d97a93344f9f8fd0e6153/LTW_placeholder_2.svg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/elleemae-119713"
-  ]
- },
- {
-  "id": "ltwm-07858",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "ANGRY TWEETS",
-  "brand": "BURGER KING",
-  "agency": "BUZZMAN PARIS",
-  "raw": "ANGRY TWEETS – BURGER KING (BUZZMAN PARIS)",
-  "links": [
-   "https://www.youtube.com/watch?v=I309Ltvnc80"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Promo & Activation",
-    "subcategory": "Use of Social Audience in a Promotional Campaign",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "BURGER KING",
-   "product": "FAST FOOD",
-   "agencies": [
-    "BUZZMAN Paris"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Promo & Activation",
-     "subcategory": "Use of Social Audience in a Promotional Campaign",
-     "count": 1,
-     "entry_titles": [
-      "ANGRY TWEETS"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：BUZZMAN Paris"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/65cddf4f928d4bd2ca44002a50002df0"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/angry-tweets-104648"
-  ]
- },
- {
-  "id": "ltwm-07859",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "WITH NO ROOM TO GET HURT",
-  "brand": "FIAT 500",
-  "agency": "MADE MEXICO CITY",
-  "raw": "WITH NO ROOM TO GET HURT – FIAT 500 (MADE MEXICO CITY)",
-  "links": [
-   "https://adsspot.me/media/prints/fiat-ok-3c021dae593b"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Outdoor",
-    "subcategory": "Cars & Automotive Services",
-    "count": 1,
-    "source_count": 2
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "FIAT",
-   "product": "FIAT 500",
-   "agencies": [
-    "MADE Mexico City"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Outdoor",
-     "subcategory": "Cars & Automotive Services",
-     "count": 1,
-     "entry_titles": [
-      "OK",
-      "TUMBS UP"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：MADE Mexico City"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/6e526160cb3d4de6a446cdcb8cce3d8f"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/tumbs-up-131636",
-   "https://www.lovethework.com/en/work/entries/ok-131637"
-  ]
- },
- {
-  "id": "ltwm-07860",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "NEW YORK, TOKYO",
-  "brand": "FRANKFURTER ALLGEMEINE ZEITUNG",
-  "agency": "SCHOLZ & FRIENDS HAMBURG",
-  "raw": "NEW YORK, TOKYO – FRANKFURTER ALLGEMEINE ZEITUNG (SCHOLZ & FRIENDS HAMBURG)",
-  "links": [
-   "http://www.sirenawards.com.au/SirenAwards/media/Common/Cannes%20Lion%20Audio/00373_00377.mp3?width=300&height=45&ext=.mp3"
+   "https://willandjordan.com/PHILIPS-HEADPHONES"
   ],
   "zh_brief": "",
   "note_from_selection": "",
@@ -274,7 +281,7 @@
    {
     "level": "Bronze",
     "category": "Radio",
-    "subcategory": "Scriptwriting",
+    "subcategory": "Home Appliances, Furnishings, Electronics & Audio Visual",
     "count": 1,
     "source_count": 2
    }
@@ -282,150 +289,100 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "FRANKFURTER ALLGEMEINE ZEITUNG",
+   "brand": "PHILIPS",
    "product": null,
    "agencies": [
-    "SCHOLZ & FRIENDS Hamburg"
+    "OGILVY & MATHER LONDON"
    ],
    "awards": [
     {
      "level": "Bronze",
      "category": "Radio",
-     "subcategory": "Scriptwriting",
+     "subcategory": "Home Appliances, Furnishings, Electronics & Audio Visual",
      "count": 1,
      "entry_titles": [
-      "NEW YORK",
-      "TOKYO"
+      "BABIES",
+      "BANGKOK"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Radio類銅獅 Radio Bronze Lion｜代理商：SCHOLZ & FRIENDS Hamburg"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Radio類銅獅 Radio Bronze Lion｜代理商：OGILVY & MATHER LONDON"
   },
   "image_candidates": [
    "https://images.ctfassets.net/8ha5xom4da7e/5JreyVGxHnH2ySCsasrMnv/54ecaaaf494a4b2994d37ef24686db87/audio-purple.svg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/new-york-112246",
-   "https://www.lovethework.com/en/work/entries/tokyo-112243"
+   "https://www.lovethework.com/en/work/entries/bangkok-112585",
+   "https://www.lovethework.com/en/work/entries/babies-112605"
   ]
  },
  {
-  "id": "ltwm-07861",
+  "id": "ltwm-07825",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "FIRST STEP PROJECT",
-  "brand": "KANUI",
-  "agency": "AFRICA SÃO PAULO",
-  "raw": "FIRST STEP PROJECT – KANUI (AFRICA SÃO PAULO)",
+  "title": "KATHRINE, MARGARET, SIMONE, JEANNE",
+  "brand": "MAXIM",
+  "agency": "OGILVY MEXICO CITY",
+  "raw": "KATHRINE, MARGARET, SIMONE, JEANNE – MAXIM (OGILVY MEXICO CITY)",
   "links": [
-   "https://www.behance.net/gallery/27439517/First-Step-Project-Bronze-Cannes-Lions-2015"
+   "https://www.adeevee.com/2015/10/maxim-mens-magazine-kathrine-margaret-simone-jeanne-print/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Media",
-    "subcategory": "Charities (incl. Fundraising, Donations & Appeals)",
+    "category": "Outdoor",
+    "subcategory": "Publications & Media",
     "count": 1,
-    "source_count": 1
+    "source_count": 4
    }
   ],
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "KANUI",
-   "product": "SPORTING GOODS E-COMMERCE",
+   "brand": "MAXIM",
+   "product": "BOOKS, NEWSPAPERS & MAGAZINES PUBLISHING",
    "agencies": [
-    "AFRICA São Paulo"
+    "OGILVY & MATHER Mexico City"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Media",
-     "subcategory": "Charities (incl. Fundraising, Donations & Appeals)",
+     "category": "Outdoor",
+     "subcategory": "Publications & Media",
      "count": 1,
      "entry_titles": [
-      "FIRST STEP PROJECT"
+      "SOLDIER",
+      "MARATHONER",
+      "MOM",
+      "PHOTOGRAPHER"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銅獅 Media Bronze Lion｜代理商：AFRICA São Paulo"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：OGILVY & MATHER Mexico City"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/6088b9f70254495eaad5506e7d992ab9"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/9f565ba417684d92fac48214c7562238"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/first-step-project-106750"
+   "https://www.lovethework.com/en/work/entries/photographer-115154",
+   "https://www.lovethework.com/en/work/entries/mom-115169",
+   "https://www.lovethework.com/en/work/entries/marathoner-115190"
   ]
  },
  {
-  "id": "ltwm-07863",
+  "id": "ltwm-07824",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "THE WORLD HAS ATTRACTIONS FOR EVERYONE",
-  "brand": "FLYING PET",
-  "agency": "Y&R SÃO PAULO",
-  "raw": "THE WORLD HAS ATTRACTIONS FOR EVERYONE – FLYING PET (Y&R SÃO PAULO)",
+  "title": "EMERGENCY CALLS",
+  "brand": "BOMBEROS VOLUNTARIOS DE GUATEMALA",
+  "agency": "OGILVY GUATEMALA",
+  "raw": "EMERGENCY CALLS – BOMBEROS VOLUNTARIOS DE GUATEMALA (OGILVY GUATEMALA)",
   "links": [
-   "https://www.adsoftheworld.com/campaign/flying-pet-yr-05-2015"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Press",
-    "subcategory": "Miscellaneous",
-    "count": 1,
-    "source_count": 3
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "FLYING PET",
-   "product": "FLYING PET SITE",
-   "agencies": [
-    "Y&R SÃO PAULO"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Press",
-     "subcategory": "Miscellaneous",
-     "count": 1,
-     "entry_titles": [
-      "NEW YORK",
-      "PARIS",
-      "BORA BORA"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銅獅 Press Bronze Lion｜代理商：Y&R SÃO PAULO"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/d46f1fde8fab40dad2b602d9470f2b9d"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/bora-bora-118010",
-   "https://www.lovethework.com/en/work/entries/paris-118011",
-   "https://www.lovethework.com/en/work/entries/new-york-118046"
-  ]
- },
- {
-  "id": "ltwm-07865",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "LITTLE GIRL, TINY LITTLE BOY",
-  "brand": "RED CROSS FOODAID",
-  "agency": "MULLENLOWE SINGAPORE",
-  "raw": "LITTLE GIRL, TINY LITTLE BOY – RED CROSS FOODAID (MULLENLOWE SINGAPORE)",
-  "links": [
-   "http://www.sirenawards.com.au/SirenAwards/media/Common/Cannes%20Lion%20Audio/00985_00986.mp3?width=300&height=45&ext=.mp3"
+   "https://www.dandad.org/awards/professional/2016/radio-advertising/24949/emergency-calls/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
@@ -441,10 +398,10 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "RED CROSS",
+   "brand": "BOMBEROS VOLUNTARIOS DE GUATEMALA",
    "product": null,
    "agencies": [
-    "LOWE SINGAPORE"
+    "OGILVY GUATEMALA"
    ],
    "awards": [
     {
@@ -453,47 +410,40 @@
      "subcategory": "Fundraising, Donations & Appeals",
      "count": 1,
      "entry_titles": [
-      "LITTLE GIRL",
-      "TINY LITTLE BOY"
+      "GASOLINE",
+      "EQUIPMENT"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Radio類銅獅 Radio Bronze Lion｜代理商：LOWE SINGAPORE"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Radio類銅獅 Radio Bronze Lion｜代理商：OGILVY GUATEMALA"
   },
   "image_candidates": [
    "https://images.ctfassets.net/8ha5xom4da7e/HHC8rICbjMxbx6eDreIds/c7b569e03ca6b3f3521da11e51a3d198/audio-yellow.svg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/tiny-little-boy-113142",
-   "https://www.lovethework.com/en/work/entries/little-girl-113163"
+   "https://www.lovethework.com/en/work/entries/equipment-112635",
+   "https://www.lovethework.com/en/work/entries/gasoline-112636"
   ]
  },
  {
-  "id": "ltwm-07866",
+  "id": "ltwm-07827",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "GET ME A SPONSOR",
-  "brand": "CHELSEA FOOTBALL CLUB",
-  "agency": "SAATCHI & SAATCHI LONDON",
-  "raw": "GET ME A SPONSOR – CHELSEA FOOTBALL CLUB (SAATCHI & SAATCHI LONDON)",
+  "title": "BREATHE RIGHT STRIPS",
+  "brand": "GLAXO SMITH-KLINE",
+  "agency": "PHD NEW YORK",
+  "raw": "BREATHE RIGHT STRIPS – GLAXO SMITH-KLINE (PHD NEW YORK)",
   "links": [
-   "https://clios.com/awards/winner/direct/chelsea-football-club/get-me-a-sponsor-1122"
+   "https://vimeo.com/211339898"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Direct",
-    "subcategory": "Corporate Image & Information",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Direct",
-    "subcategory": "Acquisitions",
+    "category": "PR",
+    "subcategory": "Healthcare & Wellbeing",
     "count": 1,
     "source_count": 1
    }
@@ -501,39 +451,84 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "CHELSEA FOOTBALL CLUB",
-   "product": "SHIRT/BRAND SPONSHORSHIP",
+   "brand": "GSK",
+   "product": "BREATHE RIGHT NASAL STRIPS",
    "agencies": [
-    "SAATCHI & SAATCHI London"
+    "PHD New York"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Direct",
-     "subcategory": "Corporate Image & Information",
+     "category": "PR",
+     "subcategory": "Healthcare & Wellbeing",
      "count": 1,
      "entry_titles": [
-      "GET ME A SPONSOR"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Direct",
-     "subcategory": "Acquisitions",
-     "count": 1,
-     "entry_titles": [
-      "GET ME A SPONSOR"
+      "HORSE SELLS NASAL STRIP TO HUMANS"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜直效類銅獅 Direct Bronze Lion×2｜代理商：SAATCHI & SAATCHI London"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類銅獅 PR Bronze Lion｜代理商：PHD New York"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/d7389ccc32114c9cf203c8c69b0206fa"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/877b18f6eaff4fea80f0e93973a1e9a2"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/get-me-a-sponsor-109894",
-   "https://www.lovethework.com/en/work/entries/get-me-a-sponsor-109650"
+   "https://www.lovethework.com/en/work/entries/horse-sells-nasal-strip-to-humans-102178"
+  ]
+ },
+ {
+  "id": "ltwm-07819",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "INSTANT TURN OFF",
+  "brand": "PHILIPS",
+  "agency": "REVOLUTION BRAZIL",
+  "raw": "INSTANT TURN OFF – PHILIPS (REVOLUTION BRAZIL)",
+  "links": [
+   "https://www.adsoftheworld.com/campaign/philips-revolution-05-2015"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Press",
+    "subcategory": "Home Appliances & Furnishings",
+    "count": 1,
+    "source_count": 3
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "PHILIPS WALITA / INSINUANTE.COM",
+   "product": "AUTO COOL IRON",
+   "agencies": [
+    "REVOLUTION BRASIL Salvador - Bahia"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Press",
+     "subcategory": "Home Appliances & Furnishings",
+     "count": 1,
+     "entry_titles": [
+      "MASTURBATION",
+      "XEROX",
+      "FETICHE"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銅獅 Press Bronze Lion｜代理商：REVOLUTION BRASIL Salvador - Bahia"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/b959e7b8b08440a1a587e6aa1e0f7478"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/fetiche-117549",
+   "https://www.lovethework.com/en/work/entries/xerox-117578",
+   "https://www.lovethework.com/en/work/entries/masturbation-117579"
   ]
  }
 ]

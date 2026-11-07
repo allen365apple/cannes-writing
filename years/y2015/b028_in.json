@@ -1,148 +1,243 @@
 [
  {
-  "id": "ltwm-07539",
+  "id": "ltwm-07451",
   "year": 2015,
   "tier": "SILVER",
   "categories": [],
-  "title": "SINKBOY",
-  "brand": "COLGATE-PALMOLIVE",
-  "agency": "Y&R NEW YORK/RED FUSE",
-  "raw": "SINKBOY – COLGATE-PALMOLIVE (Y&R NEW YORK/RED FUSE)",
+  "title": "FILM4 IDENTS",
+  "brand": "CHANNEL 4",
+  "agency": "4CREATIVE LONDON",
+  "raw": "FILM4 IDENTS – CHANNEL 4 (4CREATIVE LONDON)",
   "links": [
-   "https://www.adsoftheworld.com/media/outdoor/colgate_sinkboy"
+   "https://www.dandad.org/awards/professional/2015/branding/24367/film4-idents/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Film Craft",
+    "subcategory": "Production Design/Art Direction",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Design",
+    "subcategory": "Channel Branding or Programme Branding",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "CHANNEL 4",
+   "product": "FILM4 IDENTS",
+   "agencies": [
+    "4creative London"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Film Craft",
+     "subcategory": "Production Design/Art Direction",
+     "count": 1,
+     "entry_titles": [
+      "FILM4 IDENTS"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Design",
+     "subcategory": "Channel Branding or Programme Branding",
+     "count": 1,
+     "entry_titles": [
+      "FILM4 IDENTS"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銀獅 Design Silver Lion、影片工藝類銅獅 Film Craft Bronze Lion｜代理商：4creative London"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/366e67b831df4888b28edc4fec7d9fc2"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/film4-idents-104095",
+   "https://www.lovethework.com/en/work/entries/film4-idents-100904"
+  ]
+ },
+ {
+  "id": "ltwm-07491",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "PROTOTYPE",
+  "brand": "CHANNEL 4",
+  "agency": "4CREATIVE LONDON",
+  "raw": "PROTOTYPE – CHANNEL 4 (4CREATIVE LONDON)",
+  "links": [
+   "https://www.youtube.com/watch?v=UQUmrBnhgF4"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Silver",
-    "category": "Outdoor",
-    "subcategory": "Corporate Image & Communication",
+    "category": "Film",
+    "subcategory": "Short Fiction Film (under 10 minutes)",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "CHANNEL 4",
+   "product": "BORN RISKY",
+   "agencies": [
+    "4creative London"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Film",
+     "subcategory": "Short Fiction Film (under 10 minutes)",
+     "count": 1,
+     "entry_titles": [
+      "PROTOTYPE"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銀獅 Film Silver Lion｜代理商：4creative London"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/3duqCqeHDt9hMAdtuQjc3V/3f6a8c56aeb415ac19cd5dd916fa6976/LTW_placeholder_1.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/prototype-135966"
+  ]
+ },
+ {
+  "id": "ltwm-07444",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "REDUCE SPEED DIAL",
+  "brand": "VOLKSWAGEN",
+  "agency": "COLENSO BBDO AUCKLAND",
+  "raw": "REDUCE SPEED DIAL – VOLKSWAGEN (COLENSO BBDO AUCKLAND)",
+  "links": [
+   "https://clios.com/awards/winner/innovative/volkswagen/reduce-speed-dial-428"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Press",
+    "subcategory": "Other Vehicles, Auto Products & Services",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Bronze",
     "category": "Outdoor",
-    "subcategory": "Corporate Image & Communication",
+    "subcategory": "Transit",
     "count": 1,
-    "source_count": 2
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "COLGATE - PALMOLIVE",
-   "product": "COLGATE",
-   "agencies": [
-    "RED FUSE COMMUNICATIONS New York / Y&R NEW YORK"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Outdoor",
-     "subcategory": "Corporate Image & Communication",
-     "count": 1,
-     "entry_titles": [
-      "SINKBOY"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Outdoor",
-     "subcategory": "Corporate Image & Communication",
-     "count": 1,
-     "entry_titles": [
-      "SINKGIRL",
-      "SINKBOY"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion、戶外類銅獅 Outdoor Bronze Lion｜代理商：RED FUSE COMMUNICATIONS New York / Y&R NEW YORK"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/ab8542f474b74ae4a89de85d2ff60ff3"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/sinkboy-115923",
-   "https://www.lovethework.com/en/work/entries/sinkboy-115880",
-   "https://www.lovethework.com/en/work/entries/sinkgirl-115926"
-  ]
- },
- {
-  "id": "ltwm-07540",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "BOOKS SHAPE THE WORLD",
-  "brand": "NEW ZEALAND BOOK COUNCIL",
-  "agency": "COLENSO BBDO AUCKLAND",
-  "raw": "BOOKS SHAPE THE WORLD – NEW ZEALAND BOOK COUNCIL (COLENSO BBDO AUCKLAND)",
-  "links": [
-   "https://www.adsoftheworld.com/campaign/new-zealand-book-council-bbdo-06-2015"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
+    "source_count": 1
+   },
    {
     "level": "Silver",
-    "category": "Outdoor",
-    "subcategory": "Fundraising, Donations & Appeals, Charities, Non-Profit Organisations, Public Health & Safety, Public awareness messages",
+    "category": "Cyber",
+    "subcategory": "Tangible Tech (incl. Digital Products, Utilities & Tools)",
     "count": 1,
-    "source_count": 3
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Promo & Activation",
+    "subcategory": "Cars & Automotive Services",
+    "count": 1,
+    "source_count": 1
    }
   ],
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "NEW ZEALAND BOOK COUNCIL",
-   "product": "NEW ZEALAND BOOK COUNCIL",
+   "brand": "VOLKSWAGEN",
+   "product": "VOLKSWAGEN",
    "agencies": [
     "COLENSO BBDO Auckland"
    ],
    "awards": [
     {
-     "level": "Silver",
-     "category": "Outdoor",
-     "subcategory": "Fundraising, Donations & Appeals, Charities, Non-Profit Organisations, Public Health & Safety, Public awareness messages",
+     "level": "Bronze",
+     "category": "Press",
+     "subcategory": "Other Vehicles, Auto Products & Services",
      "count": 1,
      "entry_titles": [
-      "1984",
-      "ROMEO AND JULIET",
-      "THE BIBLE"
+      "SPEED DIAL"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Outdoor",
+     "subcategory": "Transit",
+     "count": 1,
+     "entry_titles": [
+      "REDUCE SPEED DIAL"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Cyber",
+     "subcategory": "Tangible Tech (incl. Digital Products, Utilities & Tools)",
+     "count": 1,
+     "entry_titles": [
+      "REDUCE SPEED DIAL"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Promo & Activation",
+     "subcategory": "Cars & Automotive Services",
+     "count": 1,
+     "entry_titles": [
+      "REDUCE SPEED DIAL"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion｜代理商：COLENSO BBDO Auckland"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion、Promo & Activation類銀獅 Promo & Activation Silver Lion、戶外類銅獅 Outdoor Bronze Lion、Press類銅獅 Press Bronze Lion｜代理商：COLENSO BBDO Auckland"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/0b28a0989e794c13968ea510d38cc214"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/a35034133816467ed195389add1fba8c"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-bible-114192",
-   "https://www.lovethework.com/en/work/entries/romeo-and-juliet-114193",
-   "https://www.lovethework.com/en/work/entries/1984-114201"
+   "https://www.lovethework.com/en/work/entries/reduce-speed-dial-97306",
+   "https://www.lovethework.com/en/work/entries/reduce-speed-dial-97208",
+   "https://www.lovethework.com/en/work/entries/reduce-speed-dial-97054"
   ]
  },
  {
-  "id": "ltwm-07541",
+  "id": "ltwm-07448",
   "year": 2015,
   "tier": "SILVER",
   "categories": [],
-  "title": "SPONGE CHILDREN KITCHEN",
-  "brand": "SAVE THE CHILDREN",
-  "agency": "EL TAIER/TRIBU DDB GUATEMALA CITY",
-  "raw": "SPONGE CHILDREN KITCHEN – SAVE THE CHILDREN (EL TAIER/TRIBU DDB GUATEMALA CITY)",
+  "title": "PEARL",
+  "brand": "KEIO UNIVERSITY",
+  "agency": "DENTSU INC. TOKYO",
+  "raw": "PEARL – KEIO UNIVERSITY (DENTSU INC. TOKYO)",
   "links": [
-   "https://adsspot.me/media/prints/save-the-children-sponge-children-kitchen-c14c80aba5f8"
+   "https://clios.com/awards/winner/design/pearl/pearl-184"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Silver",
-    "category": "Outdoor",
-    "subcategory": "Fundraising, Donations & Appeals, Charities, Non-Profit Organisations, Public Health & Safety, Public awareness messages",
+    "category": "Design",
+    "subcategory": "New Brand Identity: the Creation of a New Brand Identity",
     "count": 1,
     "source_count": 1
    }
@@ -150,50 +245,152 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "SAVE THE CHILDREN",
-   "product": "SOCIAL AWARENESS",
+   "brand": "KEIO UNIVERSITY",
+   "product": null,
    "agencies": [
-    "EL TAIER / TRIBU DDB Guatemala City"
+    "DENTSU INC. Tokyo"
    ],
    "awards": [
     {
      "level": "Silver",
-     "category": "Outdoor",
-     "subcategory": "Fundraising, Donations & Appeals, Charities, Non-Profit Organisations, Public Health & Safety, Public awareness messages",
+     "category": "Design",
+     "subcategory": "New Brand Identity: the Creation of a New Brand Identity",
      "count": 1,
      "entry_titles": [
-      "SPONGE CHILDREN KITCHEN"
+      "PEARL"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion｜代理商：EL TAIER / TRIBU DDB Guatemala City"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銀獅 Design Silver Lion｜代理商：DENTSU INC. Tokyo"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/b83d33b5d0474cf2b1112ad53dbbd678"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/2098e41a4e484f47c2f1b94ec85868cd"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/sponge-children-kitchen-114096"
+   "https://www.lovethework.com/en/work/entries/pearl-103734"
   ]
  },
  {
-  "id": "ltwm-07542",
+  "id": "ltwm-07450",
   "year": 2015,
   "tier": "SILVER",
   "categories": [],
-  "title": "DAD",
-  "brand": "UNICEF",
-  "agency": "OGILVY & MATHER SANTIAGO",
-  "raw": "DAD – UNICEF (OGILVY & MATHER SANTIAGO)",
+  "title": "THE WEDDINGLOPE",
+  "brand": "ROSENTHAL",
+  "agency": "KOLLE REBBE HAMBURG",
+  "raw": "THE WEDDINGLOPE – ROSENTHAL (KOLLE REBBE HAMBURG)",
   "links": [
-   "https://campaignsoftheworld.com/print/unicef-dad/"
+   "https://clios.com/awards/winner/design/rosenthal/the-weddinglope-326"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Silver",
+    "category": "Design",
+    "subcategory": "Flyers, Tickets, Invitations, Postcards, Christmas and Other Greetings Cards",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "ROSENTHAL",
+   "product": null,
+   "agencies": [
+    "KOLLE REBBE Hamburg"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Design",
+     "subcategory": "Flyers, Tickets, Invitations, Postcards, Christmas and Other Greetings Cards",
+     "count": 1,
+     "entry_titles": [
+      "THE WEDDINGLOPE"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銀獅 Design Silver Lion｜代理商：KOLLE REBBE Hamburg"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/5292cc4a85044206d81e7f5487a7a132"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/the-weddinglope-103520"
+  ]
+ },
+ {
+  "id": "ltwm-07614",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "SOCCER FATIGUE SENSOR",
+  "brand": "VOLKSWAGEN DO BRASIL",
+  "agency": "ALMAPBBDO SÃO PAULO",
+  "raw": "SOCCER FATIGUE SENSOR – VOLKSWAGEN DO BRASIL (ALMAPBBDO SÃO PAULO)",
+  "links": [
+   "https://www.behance.net/gallery/24989343/Volkswagen-Soccer-Fatigue-Sensor?tracking_source=search_projects_recommended%7CProximity%20Sensor"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Branded Content & Entertainment",
+    "subcategory": "Brand or product integration into an existing programme or platform",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "VOLKSWAGEN DO BRASIL",
+   "product": "FATIGUE SENSOR",
+   "agencies": [
+    "ALMAPBBDO São Paulo"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Branded Content & Entertainment",
+     "subcategory": "Brand or product integration into an existing programme or platform",
+     "count": 1,
+     "entry_titles": [
+      "SOCCER FATIGUE SENSOR"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：ALMAPBBDO São Paulo"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/3a0a531ca1824d60c44dd97f1b56f1b8/storyboard_000002.jpg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/soccer-fatigue-sensor-97445"
+  ]
+ },
+ {
+  "id": "ltwm-07821",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "BI-XENON HEADLAMPS",
+  "brand": "VOLKSWAGEN",
+  "agency": "DDB MUMBAI",
+  "raw": "BI-XENON HEADLAMPS – VOLKSWAGEN (DDB MUMBAI)",
+  "links": [
+   "https://www.dandad.org/awards/professional/2015/graphic-design/24602/bi-xenon-headlamps/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
     "category": "Outdoor",
-    "subcategory": "Fundraising, Donations & Appeals, Charities, Non-Profit Organisations, Public Health & Safety, Public awareness messages",
+    "subcategory": "Cars & Automotive Services",
     "count": 1,
     "source_count": 2
    }
@@ -201,123 +398,52 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "UNICEF",
-   "product": "UNICEF",
+   "brand": "VOLKSWAGEN",
+   "product": "BI-XENON HEADLAMPS",
    "agencies": [
-    "OGILVY & MATHER CHILE Santiago"
+    "DDB MUDRA GROUP Mumbai"
    ],
    "awards": [
     {
-     "level": "Silver",
+     "level": "Bronze",
      "category": "Outdoor",
-     "subcategory": "Fundraising, Donations & Appeals, Charities, Non-Profit Organisations, Public Health & Safety, Public awareness messages",
+     "subcategory": "Cars & Automotive Services",
      "count": 1,
      "entry_titles": [
-      "DAD 1",
-      "DAD 2"
+      "VOLKSWAGEN BI-XENON HEADLAMPS",
+      "VOLKSWAGEN - AUTOMATIC DISTANCE CONTROL"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion｜代理商：OGILVY & MATHER CHILE Santiago"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：DDB MUDRA GROUP Mumbai"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/6552a4c3d46249accbd47cc46cf6b0d5"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/2b0682b7ef744d0b964a9b18e44712b3"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/dad-2-113994",
-   "https://www.lovethework.com/en/work/entries/dad-1-113995"
+   "https://www.lovethework.com/en/work/entries/volkswagen-bi-xenon-headlamps-97254",
+   "https://www.lovethework.com/en/work/entries/volkswagen-automatic-distance-control-97246"
   ]
  },
  {
-  "id": "ltwm-07543",
+  "id": "ltwm-07926",
   "year": 2015,
-  "tier": "SILVER",
+  "tier": "BRONZE",
   "categories": [],
-  "title": "YOU TRY YOU GET ONE",
-  "brand": "DOS EN UNO",
-  "agency": "PROLAM Y&R SANTIAGO",
-  "raw": "YOU TRY YOU GET ONE – DOS EN UNO (PROLAM Y&R SANTIAGO)",
+  "title": "THE PEOPLE’S FILM",
+  "brand": "VOLKSWAGEN",
+  "agency": "COLENSO BBDO AUCKLAND",
+  "raw": "THE PEOPLE’S FILM – VOLKSWAGEN (COLENSO BBDO AUCKLAND)",
   "links": [
-   "https://www.behance.net/gallery/26155785/Dos-en-Uno-Lollipop"
+   "https://clios.com/awards/winner/film-technique/volkswagen/the-people-s-film-514"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Press",
-    "subcategory": "Sweet Foods & Snacks",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Outdoor",
-    "subcategory": "Foods",
-    "count": 1,
-    "source_count": 3
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "DOS EN UNO",
-   "product": "LOLLIPOP",
-   "agencies": [
-    "PROLAM Y&R Santiago"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Press",
-     "subcategory": "Sweet Foods & Snacks",
-     "count": 1,
-     "entry_titles": [
-      "PARROT"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Outdoor",
-     "subcategory": "Foods",
-     "count": 1,
-     "entry_titles": [
-      "PARROT",
-      "RAKE",
-      "BEES"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion、Press類銅獅 Press Bronze Lion｜代理商：PROLAM Y&R Santiago"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/39c230d6f47e4653af43c2459d8e76d4"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/parrot-118693",
-   "https://www.lovethework.com/en/work/entries/bees-115621",
-   "https://www.lovethework.com/en/work/entries/rake-115642"
-  ]
- },
- {
-  "id": "ltwm-07544",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "FLOWER DOG",
-  "brand": "RECKITT BENCKISER",
-  "agency": "HAVAS VALE MEXICO",
-  "raw": "FLOWER DOG – RECKITT BENCKISER (HAVAS VALE MEXICO)",
-  "links": [
-   "https://www.adsoftheworld.com/media/print/airwick_flower_dog"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Outdoor",
-    "subcategory": "Household",
+    "category": "Film Craft",
+    "subcategory": "Editing",
     "count": 1,
     "source_count": 1
    }
@@ -325,57 +451,50 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "RECKITT BENCKISER",
-   "product": "AIRWICK",
+   "brand": "VOLKSWAGEN",
+   "product": "VOLKSWAGEN",
    "agencies": [
-    "HAVAS WORLDWIDE VALE Mexico"
+    "FINCH Sydney / COLENSO BBDO Auckland"
    ],
    "awards": [
     {
-     "level": "Silver",
-     "category": "Outdoor",
-     "subcategory": "Household",
+     "level": "Bronze",
+     "category": "Film Craft",
+     "subcategory": "Editing",
      "count": 1,
      "entry_titles": [
-      "FLOWER DOG"
+      "THE PEOPLE'S FILM, 60 YEARS TOGETHER"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion｜代理商：HAVAS WORLDWIDE VALE Mexico"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片工藝類銅獅 Film Craft Bronze Lion｜代理商：FINCH Sydney / COLENSO BBDO Auckland"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/b0f3538a678d4ecaeca50ee5c7d97e53"
+   "https://images.ctfassets.net/8ha5xom4da7e/7sDFJEwnUZaGwijBHq2OXr/aa1a7fa09f91cf7a197ee7d0c16cac41/LTW_placeholder_3.svg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/flower-dog-132964"
+   "https://www.lovethework.com/en/work/entries/the-peoples-film-60-years-together-97429"
   ]
  },
  {
-  "id": "ltwm-07545",
+  "id": "ltwm-07776",
   "year": 2015,
-  "tier": "SILVER",
+  "tier": "BRONZE",
   "categories": [],
-  "title": "COUPLES",
-  "brand": "SUPER GLUE",
-  "agency": "Y&R SÃO PAULO",
-  "raw": "COUPLES – SUPER GLUE (Y&R SÃO PAULO)",
+  "title": "WASP SPIDER, SNAIL, PANDA",
+  "brand": "VOLKSWAGEN",
+  "agency": "GRABARZ & PARTNER HAMBURG",
+  "raw": "WASP SPIDER, SNAIL, PANDA – VOLKSWAGEN (GRABARZ & PARTNER HAMBURG)",
   "links": [
-   "http://www.rdolla.net/tekbond-couples"
+   "http://www.sirenawards.com.au/SirenAwards/media/Common/Cannes%20Lion%20Audio/01030_01033_01036.mp3?width=300&height=45&ext=.mp3"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Press",
-    "subcategory": "Household: Other",
-    "count": 1,
-    "source_count": 3
-   },
-   {
-    "level": "Silver",
-    "category": "Outdoor",
-    "subcategory": "Household",
+    "category": "Radio",
+    "subcategory": "Cars & Automotive Services",
     "count": 1,
     "source_count": 3
    }
@@ -383,248 +502,84 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "TEKBOND",
-   "product": "SUPER GLUE",
+   "brand": "VOLKSWAGEN",
+   "product": null,
    "agencies": [
-    "WUNDERMAN BRAZIL São Paulo",
-    "Y&R SÃO PAULO"
+    "GRABARZ & PARTNER Hamburg"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Press",
-     "subcategory": "Household: Other",
+     "category": "Radio",
+     "subcategory": "Cars & Automotive Services",
      "count": 1,
      "entry_titles": [
-      "JUDITE",
-      "NOEMIA",
-      "MIRTES"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Outdoor",
-     "subcategory": "Household",
-     "count": 1,
-     "entry_titles": [
-      "JUDITE",
-      "NOEMIA",
-      "MIRTES"
+      "WASP SPIDER",
+      "SNAIL",
+      "PANDA"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion、Press類銅獅 Press Bronze Lion｜代理商：WUNDERMAN BRAZIL São Paulo / Y&R SÃO PAULO"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Radio類銅獅 Radio Bronze Lion｜代理商：GRABARZ & PARTNER Hamburg"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/1ba7cbdd1c204a6ad1a1d6a3cc1fb722"
+   "https://images.ctfassets.net/8ha5xom4da7e/5JreyVGxHnH2ySCsasrMnv/54ecaaaf494a4b2994d37ef24686db87/audio-purple.svg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/mirtes-133973",
-   "https://www.lovethework.com/en/work/entries/noemia-133978",
-   "https://www.lovethework.com/en/work/entries/judite-134021"
+   "https://www.lovethework.com/en/work/entries/wasp-spider-97268",
+   "https://www.lovethework.com/en/work/entries/snail-97269",
+   "https://www.lovethework.com/en/work/entries/panda-97270"
   ]
  },
  {
-  "id": "ltwm-07546",
+  "id": "ltwm-07762",
   "year": 2015,
-  "tier": "SILVER",
+  "tier": "BRONZE",
   "categories": [],
-  "title": "BEST GET THERE EARLY",
-  "brand": "HARVEY NICHOLS",
-  "agency": "ADAM&EVEDDB LONDON",
-  "raw": "BEST GET THERE EARLY – HARVEY NICHOLS (ADAM&EVEDDB LONDON)",
+  "title": "TERMINAL VELOCITY",
+  "brand": "VOLKSWAGEN",
+  "agency": "OGILVY CAPE TOWN",
+  "raw": "TERMINAL VELOCITY – VOLKSWAGEN (OGILVY CAPE TOWN)",
   "links": [
-   "https://www.danielfisher.co/hn-sale"
+   "https://www.adsoftheworld.com/media/outdoor/volkswagen_terminal_velocity"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Press",
-    "subcategory": "Retail Stores",
-    "count": 1,
-    "source_count": 3
-   },
-   {
-    "level": "Silver",
-    "category": "Outdoor",
-    "subcategory": "Retail Stores, Restaurants & Fast Food Outlets",
-    "count": 1,
-    "source_count": 3
-   },
    {
     "level": "Bronze",
     "category": "Outdoor",
-    "subcategory": "Retail Stores, Restaurants & Fast Food Outlets",
+    "subcategory": "Cars & Automotive Services",
     "count": 1,
-    "source_count": 3
+    "source_count": 1
    }
   ],
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "HARVEY NICHOLS",
-   "product": "SPRING/SUMMER SALE 14",
+   "brand": "VOLKSWAGEN SOUTH AFRICA",
+   "product": "GOLF R",
    "agencies": [
-    "ADAM&EVEDDB London"
+    "OGILVY & MATHER CAPE TOWN"
    ],
    "awards": [
-    {
-     "level": "Silver",
-     "category": "Press",
-     "subcategory": "Retail Stores",
-     "count": 1,
-     "entry_titles": [
-      "SHOE",
-      "SHIRT",
-      "BIKINI"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Outdoor",
-     "subcategory": "Retail Stores, Restaurants & Fast Food Outlets",
-     "count": 1,
-     "entry_titles": [
-      "SHOE",
-      "SHIRT",
-      "BIKINI"
-     ]
-    },
     {
      "level": "Bronze",
      "category": "Outdoor",
-     "subcategory": "Retail Stores, Restaurants & Fast Food Outlets",
+     "subcategory": "Cars & Automotive Services",
      "count": 1,
      "entry_titles": [
-      "SHOE",
-      "SHIRT",
-      "BIKINI"
+      "TERMINAL VELOCITY"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion、Press類銀獅 Press Silver Lion、戶外類銅獅 Outdoor Bronze Lion｜代理商：ADAM&EVEDDB London"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：OGILVY & MATHER CAPE TOWN"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/3c43ff8f88264923b1bf85cbac69a1a0"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/0928dff8c7bc462a9c1141ce9023706a"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/bikini-134090",
-   "https://www.lovethework.com/en/work/entries/shirt-134109",
-   "https://www.lovethework.com/en/work/entries/shoe-134148"
-  ]
- },
- {
-  "id": "ltwm-07547",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "POCKET BOOKS",
-  "brand": "SARAIVA",
-  "agency": "F.BIZ SÃO PAULO",
-  "raw": "POCKET BOOKS – SARAIVA (F.BIZ SÃO PAULO)",
-  "links": [
-   "https://www.behance.net/gallery/28515805/Pocket-Books-Saraiva"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Outdoor",
-    "subcategory": "Publications & Media",
-    "count": 1,
-    "source_count": 5
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "SARAIVA",
-   "product": "BOOKS",
-   "agencies": [
-    "F.BIZ São Paulo"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Outdoor",
-     "subcategory": "Publications & Media",
-     "count": 1,
-     "entry_titles": [
-      "TWENTY THOUSAND LEAGUES UNDER THE SEA",
-      "METAMORPHOSIS",
-      "TREASURE ISLAND",
-      "THE LITTLE PRINCE",
-      "WAR AND PEACE"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion｜代理商：F.BIZ São Paulo"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/1e368ac55dc349bebaeb1f467370874f"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/war-and-peace-114897",
-   "https://www.lovethework.com/en/work/entries/the-little-prince-114928",
-   "https://www.lovethework.com/en/work/entries/treasure-island-114929"
-  ]
- },
- {
-  "id": "ltwm-07548",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "20 YEARS",
-  "brand": "GETTY IMAGES",
-  "agency": "ALMAPBBDO SÃO PAULO",
-  "raw": "20 YEARS – GETTY IMAGES (ALMAPBBDO SÃO PAULO)",
-  "links": [
-   "https://cargocollective.com/andresallowicz/Getty-Images-20-Years-2X-Gold-and-a-Bronze-at-One-Show-Silver-Cannes"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Outdoor",
-    "subcategory": "Business Equipment & Services",
-    "count": 1,
-    "source_count": 3
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "GETTY IMAGES",
-   "product": "20 YEARS OF GETTY IMAGES",
-   "agencies": [
-    "ALMAPBBDO São Paulo"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Outdoor",
-     "subcategory": "Business Equipment & Services",
-     "count": 1,
-     "entry_titles": [
-      "BILL CLINTON",
-      "SCARLET JOHANSSON",
-      "PRINCE WILLIAM"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion｜代理商：ALMAPBBDO São Paulo"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/3151f0d00c97489ce97256e0499e4ee8"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/prince-william-132454",
-   "https://www.lovethework.com/en/work/entries/scarlet-johansson-132499",
-   "https://www.lovethework.com/en/work/entries/bill-clinton-132538"
+   "https://www.lovethework.com/en/work/entries/terminal-velocity-96990"
   ]
  }
 ]

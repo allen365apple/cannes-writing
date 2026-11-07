@@ -1,15 +1,286 @@
 [
  {
-  "id": "ltwm-07731",
+  "id": "ltwm-07656",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "A MESSAGE TO SPACE",
-  "brand": "HYUNDAI",
-  "agency": "INNOCEAN SEOUL",
-  "raw": "A MESSAGE TO SPACE – HYUNDAI (INNOCEAN SEOUL)",
+  "title": "#HAPPYTOHELP",
+  "brand": "KLM ROYAL DUTCH AIRLINES",
+  "agency": "DDB & TRIBAL WORLDWIDE AMSTERDAM",
+  "raw": "#HAPPYTOHELP – KLM ROYAL DUTCH AIRLINES (DDB & TRIBAL WORLDWIDE AMSTERDAM)",
   "links": [
-   "https://clios.com/awards/winner/film-technique/hyundai-genesis/hyundai-a-message-to-space-872"
+   "https://www.youtube.com/watch?v=Q2z8JRrjCxU"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Use of Social Data & Insight",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Response/Real-Time Activity (including crowdsourcing)",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Media",
+    "subcategory": "Use of Social Platforms",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Media",
+    "subcategory": "Travel, Entertainment & Leisure",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "KLM ROYAL DUTCH AIRLINES",
+   "product": "#HAPPYTOHELP",
+   "agencies": [
+    "DDB & TRIBAL WORLDWIDE AMSTERDAM"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Cyber",
+     "subcategory": "Use of Social Data & Insight",
+     "count": 1,
+     "entry_titles": [
+      "#HAPPYTOHELP"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Cyber",
+     "subcategory": "Response/Real-Time Activity (including crowdsourcing)",
+     "count": 1,
+     "entry_titles": [
+      "#HAPPYTOHELP"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Media",
+     "subcategory": "Use of Social Platforms",
+     "count": 1,
+     "entry_titles": [
+      "#HAPPYTOHELP"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Media",
+     "subcategory": "Travel, Entertainment & Leisure",
+     "count": 1,
+     "entry_titles": [
+      "#HAPPYTOHELP"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion×2、媒體類銅獅 Media Bronze Lion×2｜代理商：DDB & TRIBAL WORLDWIDE AMSTERDAM"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/88b77c14685b42f5c5801f4ced0f7726"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/happytohelp-130369",
+   "https://www.lovethework.com/en/work/entries/happytohelp-129581",
+   "https://www.lovethework.com/en/work/entries/happytohelp-108522"
+  ]
+ },
+ {
+  "id": "ltwm-07667",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "IRON MIND",
+  "brand": "YOSHIDA HIDEO MEMORIAL FOUNDATION/ADVERTISING MUSEUM TOKYO",
+  "agency": "DENTSU INC. TOKYO",
+  "raw": "IRON MIND – YOSHIDA HIDEO MEMORIAL FOUNDATION/ADVERTISING MUSEUM TOKYO (DENTSU INC. TOKYO)",
+  "links": [
+   "https://www.dandad.org/awards/professional/2015/graphic-design/24573/iron-mind/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Design",
+    "subcategory": "Print and Poster",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "YOSHIDA HIDEO MEMORIAL FOUNDATION/ADVERTISING MUSEUM TOKYO",
+   "product": null,
+   "agencies": [
+    "DENTSU INC. Tokyo"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Design",
+     "subcategory": "Print and Poster",
+     "count": 1,
+     "entry_titles": [
+      "IRON MIND"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銅獅 Design Bronze Lion｜代理商：DENTSU INC. Tokyo"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/3d8461eb8b5040f2a24899c82447b2b8"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/iron-mind-125370"
+  ]
+ },
+ {
+  "id": "ltwm-07657",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "EYE PLAY THE PIANO",
+  "brand": "THE UNIVERSITY OF TSUKUBA’S SPECIAL NEEDS SCHOOLS",
+  "agency": "HAKUHODO KETTLE TOKYO",
+  "raw": "EYE PLAY THE PIANO – THE UNIVERSITY OF TSUKUBA’S SPECIAL NEEDS SCHOOLS (HAKUHODO KETTLE TOKYO)",
+  "links": [
+   "https://clios.com/awards/winner/engagement-experiential/the-university-of-tsukuba-s-special-needs-schools/eye-play-the-piano-437"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Tangible Tech (incl. Digital Products, Utilities & Tools)",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Pharma",
+    "subcategory": "Education & Services",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "THE UNIVERSITY OF TSUKUBA'S SPECIAL NEEDS SCHOOLS",
+   "product": "THE UNIVERSITY OF TSUKUBA'S SPECIAL NEEDS SCHOOLS",
+   "agencies": [
+    "HAKUHODO KETTLE Tokyo"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Cyber",
+     "subcategory": "Tangible Tech (incl. Digital Products, Utilities & Tools)",
+     "count": 1,
+     "entry_titles": [
+      "EYE PLAY THE PIANO"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Pharma",
+     "subcategory": "Education & Services",
+     "count": 1,
+     "entry_titles": [
+      "EYE PLAY THE PIANO"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion、製藥類銅獅 Pharma Bronze Lion｜代理商：HAKUHODO KETTLE Tokyo"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/141c7f2179c34c16c348a5db4f33c819"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/eye-play-the-piano-98577",
+   "https://www.lovethework.com/en/work/entries/eye-play-the-piano-129971"
+  ]
+ },
+ {
+  "id": "ltwm-07659",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "#THEREWILLBEHATERS",
+  "brand": "ADIDAS",
+  "agency": "IRIS WORLDWIDE LONDON",
+  "raw": "#THEREWILLBEHATERS – ADIDAS (IRIS WORLDWIDE LONDON)",
+  "links": [
+   "https://vimeo.com/117251955"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Integrated Multi-Platform Campaign (Online & Offline)",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "ADIDAS",
+   "product": null,
+   "agencies": [
+    "IRIS WORLDWIDE London"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Cyber",
+     "subcategory": "Integrated Multi-Platform Campaign (Online & Offline)",
+     "count": 1,
+     "entry_titles": [
+      "#THEREWILLBEHATERS"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：IRIS WORLDWIDE London"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/4c73b98df5cb4f9bf617c169e80caa54"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/therewillbehaters-129199"
+  ]
+ },
+ {
+  "id": "ltwm-07750",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "SUPERSTAR",
+  "brand": "ADIDAS ORIGINALS",
+  "agency": "JOHANNES LEONARDO NEW YORK",
+  "raw": "SUPERSTAR – ADIDAS ORIGINALS (JOHANNES LEONARDO NEW YORK)",
+  "links": [
+   "https://johannesleonardo.com/project/adi-superstar"
   ],
   "zh_brief": "",
   "note_from_selection": "",
@@ -17,21 +288,7 @@
    {
     "level": "Bronze",
     "category": "Film Craft",
-    "subcategory": "Achievement in Production",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Outdoor",
-    "subcategory": "Special Build",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Direct",
-    "subcategory": "Cars & Automotive Services",
+    "subcategory": "Cinematography",
     "count": 1,
     "source_count": 1
    }
@@ -39,70 +296,64 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "HYUNDAI MOTOR COMPANY",
-   "product": "BRAND CAMPAIGN",
+   "brand": "ADIDAS ORIGINALS",
+   "product": "SNEAKERS",
    "agencies": [
-    "INNOCEAN WORLDWIDE Seoul"
+    "JOHANNES LEONARDO New York"
    ],
    "awards": [
     {
      "level": "Bronze",
      "category": "Film Craft",
-     "subcategory": "Achievement in Production",
+     "subcategory": "Cinematography",
      "count": 1,
      "entry_titles": [
-      "A MESSAGE TO SPACE"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Outdoor",
-     "subcategory": "Special Build",
-     "count": 1,
-     "entry_titles": [
-      "A MESSAGE TO SPACE"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Direct",
-     "subcategory": "Cars & Automotive Services",
-     "count": 1,
-     "entry_titles": [
-      "A MESSAGE TO SPACE"
+      "ORIGINAL SUPERSTAR"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜直效類銅獅 Direct Bronze Lion、影片工藝類銅獅 Film Craft Bronze Lion、戶外類銅獅 Outdoor Bronze Lion｜代理商：INNOCEAN WORLDWIDE Seoul"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片工藝類銅獅 Film Craft Bronze Lion｜代理商：JOHANNES LEONARDO New York"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/2605781d56674634c3258c0b8520d247"
+   "https://images.ctfassets.net/8ha5xom4da7e/7sDFJEwnUZaGwijBHq2OXr/aa1a7fa09f91cf7a197ee7d0c16cac41/LTW_placeholder_3.svg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/a-message-to-space-114295",
-   "https://www.lovethework.com/en/work/entries/a-message-to-space-109814",
-   "https://www.lovethework.com/en/work/entries/a-message-to-space-101011"
+   "https://www.lovethework.com/en/work/entries/original-superstar-100610"
   ]
  },
  {
-  "id": "ltwm-07732",
+  "id": "ltwm-07661",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "WEARABLE TOMATO",
-  "brand": "KAGOME CO.",
-  "agency": "HAKUHODO TOKYO",
-  "raw": "WEARABLE TOMATO – KAGOME CO. (HAKUHODO TOKYO)",
+  "title": "WAIT",
+  "brand": "JÉRÉMIE NORMANDIN",
+  "agency": "LANDOR ASSOCIATES PARIS",
+  "raw": "WAIT – JÉRÉMIE NORMANDIN (LANDOR ASSOCIATES PARIS)",
   "links": [
-   "https://adsspot.me/media/outdoor/kagome-wearable-tomato-video-a4fa440e5a13"
+   "https://www.dandad.org/awards/professional/2015/crafts-for-design/24137/wait/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Health & Wellness",
-    "subcategory": "Other Products",
+    "category": "Design",
+    "subcategory": "Packaging and Promotional Item Design",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Design",
+    "subcategory": "New Brand Identity: the Creation of a New Brand Identity",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Design",
+    "subcategory": "Premium Brand",
     "count": 1,
     "source_count": 1
    }
@@ -110,50 +361,152 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "KAGOME",
-   "product": "TOMATO",
+   "brand": "JÉRÉMIE NORMANDIN",
+   "product": null,
    "agencies": [
-    "HAKUHODO Tokyo"
+    "LANDOR ASSOCIATES Paris"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Health & Wellness",
-     "subcategory": "Other Products",
+     "category": "Design",
+     "subcategory": "Packaging and Promotional Item Design",
      "count": 1,
      "entry_titles": [
-      "WEARABLE TOMATO"
+      "WAIT"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Design",
+     "subcategory": "New Brand Identity: the Creation of a New Brand Identity",
+     "count": 1,
+     "entry_titles": [
+      "WAIT"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Design",
+     "subcategory": "Premium Brand",
+     "count": 1,
+     "entry_titles": [
+      "WAIT"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜健康與保健類銅獅 Health & Wellness Bronze Lion｜代理商：HAKUHODO Tokyo"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銅獅 Design Bronze Lion×3｜代理商：LANDOR ASSOCIATES Paris"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/5f46f600e3bd4ad4aa944a5e73c14391"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/d42edcf23e3c4fccc26727e4bc498b6c"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/wearable-tomato-120945"
+   "https://www.lovethework.com/en/work/entries/wait-125839",
+   "https://www.lovethework.com/en/work/entries/wait-125838",
+   "https://www.lovethework.com/en/work/entries/wait-125611"
   ]
  },
  {
-  "id": "ltwm-07733",
+  "id": "ltwm-07662",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "VISUAL DICTIONARY",
-  "brand": "BRITISH COUNCIL",
-  "agency": "GREY SINGAPORE",
-  "raw": "VISUAL DICTIONARY – BRITISH COUNCIL (GREY SINGAPORE)",
+  "title": "FEDORA",
+  "brand": "FEDORA-THE EUROPEAN CIRCLE OF PHILANTHROPISTS OF BALLET AND OPERA",
+  "agency": "LANDOR ASSOCIATES PARIS",
+  "raw": "FEDORA – FEDORA-THE EUROPEAN CIRCLE OF PHILANTHROPISTS OF BALLET AND OPERA (LANDOR ASSOCIATES PARIS)",
   "links": [
-   "https://www.behance.net/gallery/27318915/British-Council-Visual-Dictionary-Mobile-Media"
+   "https://landor.com/fedora-a-stairway-to-glory"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Design",
+    "subcategory": "Posters",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Design",
+    "subcategory": "Logo & Logo Type (designed for Small Scale Organisations)",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "FEDORA-THE EUROPEAN CIRCLE OF PHILANTHROPISTS OF BALLET AND OPERA",
+   "product": null,
+   "agencies": [
+    "LANDOR ASSOCIATES Paris"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Design",
+     "subcategory": "Posters",
+     "count": 1,
+     "entry_titles": [
+      "FEDORA"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Design",
+     "subcategory": "Logo & Logo Type (designed for Small Scale Organisations)",
+     "count": 1,
+     "entry_titles": [
+      "FEDORA"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銅獅 Design Bronze Lion×2｜代理商：LANDOR ASSOCIATES Paris"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/d9a3b40569fa4cc6b052d5c818919664"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/fedora-125568",
+   "https://www.lovethework.com/en/work/entries/fedora-125515"
+  ]
+ },
+ {
+  "id": "ltwm-07658",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "LOOKING FOR YOU",
+  "brand": "BATTERSEA DOGS HOME",
+  "agency": "OGILVYONE LONDON",
+  "raw": "LOOKING FOR YOU – BATTERSEA DOGS HOME (OGILVYONE LONDON)",
+  "links": [
+   "https://www.youtube.com/watch?v=GY8QzR4RPnc"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Digital Billboard",
+    "count": 1,
+    "source_count": 1
+   },
    {
     "level": "Bronze",
     "category": "Media",
-    "subcategory": "Use of Mobile Devices",
+    "subcategory": "Charities (incl. Fundraising, Donations & Appeals)",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Media",
+    "subcategory": "Use of Screens",
     "count": 1,
     "source_count": 1
    }
@@ -161,50 +514,77 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "BRITISH COUNCIL",
-   "product": "PRIVATE EDUCATION",
+   "brand": "BATTERSEA DOGS HOME",
+   "product": "ANIMAL RESCUE SERVICE",
    "agencies": [
-    "GREY GROUP Singapore"
+    "OGILVYONE LONDON"
    ],
    "awards": [
+    {
+     "level": "Bronze",
+     "category": "Cyber",
+     "subcategory": "Digital Billboard",
+     "count": 1,
+     "entry_titles": [
+      "LOOKING FOR YOU"
+     ]
+    },
     {
      "level": "Bronze",
      "category": "Media",
-     "subcategory": "Use of Mobile Devices",
+     "subcategory": "Charities (incl. Fundraising, Donations & Appeals)",
      "count": 1,
      "entry_titles": [
-      "VISUAL DICTIONARY"
+      "LOOKING FOR YOU"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Media",
+     "subcategory": "Use of Screens",
+     "count": 1,
+     "entry_titles": [
+      "LOOKING FOR YOU"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銅獅 Media Bronze Lion｜代理商：GREY GROUP Singapore"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion、媒體類銅獅 Media Bronze Lion×2｜代理商：OGILVYONE LONDON"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/0402c644d0b1442d84cd7b58ac9478f4"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/0e36b2e8e14e4d629225ce03a7749de1"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/visual-dictionary-106356"
+   "https://www.lovethework.com/en/work/entries/looking-for-you-111989",
+   "https://www.lovethework.com/en/work/entries/looking-for-you-106780",
+   "https://www.lovethework.com/en/work/entries/looking-for-you-106751"
   ]
  },
  {
-  "id": "ltwm-07734",
+  "id": "ltwm-07655",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "TWEET TO EAT",
-  "brand": "PEPSICO",
-  "agency": "AMVBBDO LONDON",
-  "raw": "TWEET TO EAT – PEPSICO (AMVBBDO LONDON)",
+  "title": "HELLO PLAY!",
+  "brand": "BNP PARIBAS",
+  "agency": "WE ARE SOCIAL PARIS",
+  "raw": "HELLO PLAY! – BNP PARIBAS (WE ARE SOCIAL PARIS)",
   "links": [
-   "https://www.dandad.org/awards/professional/2015/direct/24653/tweet-to-eat/"
+   "https://clios.com/music/winner/digital-social/hello-bank-/hello-play--192"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Mobile",
-    "subcategory": "",
+    "category": "Cyber",
+    "subcategory": "Financial Services",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Engagement Platform",
     "count": 1,
     "source_count": 1
    }
@@ -212,95 +592,60 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "PEPSICO",
-   "product": "WALKERS",
+   "brand": "BNP PARIBAS",
+   "product": null,
    "agencies": [
-    "AMV BBDO London"
+    "WE ARE SOCIAL Paris"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Mobile",
-     "subcategory": "",
+     "category": "Cyber",
+     "subcategory": "Financial Services",
      "count": 1,
      "entry_titles": [
-      "TWEAT TO EAT"
+      "HELLO PLAY!"
      ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銅獅 Mobile Bronze Lion｜代理商：AMV BBDO London"
-  }
- },
- {
-  "id": "ltwm-07735",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "TWEET VILLAGE",
-  "brand": "SEKERBANK",
-  "agency": "CONCEPT ISTANBUL",
-  "raw": "TWEET VILLAGE – SEKERBANK (CONCEPT ISTANBUL)",
-  "links": [
-   "https://vimeo.com/131430191"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Outdoor",
-    "subcategory": "Interactive Outdoor Experiences",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "SEKERBANK",
-   "product": "FAMILY FARMING BANKING",
-   "agencies": [
-    "CONCEPT Istanbul"
-   ],
-   "awards": [
+    },
     {
      "level": "Bronze",
-     "category": "Outdoor",
-     "subcategory": "Interactive Outdoor Experiences",
+     "category": "Cyber",
+     "subcategory": "Engagement Platform",
      "count": 1,
      "entry_titles": [
-      "TWEET VILLAGE"
+      "HELLO PLAY!"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：CONCEPT Istanbul"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion×2｜代理商：WE ARE SOCIAL Paris"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/42b376e8b2724692c5a534e411df9a2e"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/fe69d2b08ec24559baa031a6dba5480a"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/tweet-village-115186"
+   "https://www.lovethework.com/en/work/entries/hello-play-130398",
+   "https://www.lovethework.com/en/work/entries/hello-play-130138"
   ]
  },
  {
-  "id": "ltwm-07736",
+  "id": "ltwm-07668",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "TWINGO STILETTO",
-  "brand": "RENAULT",
-  "agency": "PUBLICIS LISBON",
-  "raw": "TWINGO STILETTO – RENAULT (PUBLICIS LISBON)",
+  "title": "CUT A TREE. KILL A LIFE TAPIR",
+  "brand": "MALAYSIAN NATURE SOCIETY",
+  "agency": "Y&R KUALA LUMPUR",
+  "raw": "CUT A TREE. KILL A LIFE TAPIR – MALAYSIAN NATURE SOCIETY (Y&R KUALA LUMPUR)",
   "links": [
-   "https://clios.com/awards/winner/design/renault/twingo-stiletto-1293"
+   "https://clios.com/awards/winner/design/malaysian-nature-society/cut-a-tree-kill-a-life-tapir-812"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "PR",
-    "subcategory": "Launch or Re-launch",
+    "category": "Design",
+    "subcategory": "Print and Poster",
     "count": 1,
     "source_count": 1
    }
@@ -308,227 +653,29 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "RENAULT",
-   "product": "FOOTWEAR",
+   "brand": "MALAYSIAN NATURE SOCIETY",
+   "product": null,
    "agencies": [
-    "PUBLICIS Lisbon"
+    "Y&R MALAYSIA Kuala Lumpur"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "PR",
-     "subcategory": "Launch or Re-launch",
+     "category": "Design",
+     "subcategory": "Print and Poster",
      "count": 1,
      "entry_titles": [
-      "TWINGO STILETTO"
+      "CUT A TREE. KILL A LIFE - TAPIR"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類銅獅 PR Bronze Lion｜代理商：PUBLICIS Lisbon"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銅獅 Design Bronze Lion｜代理商：Y&R MALAYSIA Kuala Lumpur"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/6f22a14f27c44f0ac52904eb83719e58"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/7149a09f0ba94c26dccb93a69e7f4099"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/twingo-stiletto-125261"
-  ]
- },
- {
-  "id": "ltwm-07737",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "THE SPECIAL PROPOSAL",
-  "brand": "COORDOWN",
-  "agency": "SAATCHI & SAATCHI MILAN",
-  "raw": "THE SPECIAL PROPOSAL – COORDOWN (SAATCHI & SAATCHI MILAN)",
-  "links": [
-   "https://www.youtube.com/watch?v=JNTOlW1jCXU"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Promo & Activation",
-    "subcategory": "Public Health & Safety & Public Awareness Messages",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "COORDOWN",
-   "product": "WORLD DOWN SYNDROME DAY",
-   "agencies": [
-    "SAATCHI & SAATCHI Milan"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Promo & Activation",
-     "subcategory": "Public Health & Safety & Public Awareness Messages",
-     "count": 1,
-     "entry_titles": [
-      "THE SPECIAL PROPOSAL"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：SAATCHI & SAATCHI Milan"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/92b6330ede584f9a937034e2433d5fcc"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-special-proposal-126232"
-  ]
- },
- {
-  "id": "ltwm-07738",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "#SEATBELTB00BING",
-  "brand": "THE AUTOMOBILE CLUB OF ROMANIA",
-  "agency": "PUBLICIS BUCHAREST",
-  "raw": "#SEATBELTB00BING – THE AUTOMOBILE CLUB OF ROMANIA (PUBLICIS BUCHAREST)",
-  "links": [
-   "https://www.behance.net/gallery/28710895/seatbeltb00bing"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Promo & Activation",
-    "subcategory": "Use of Social Audience in a Promotional Campaign",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "THE AUTOMOBILE CLUB OF ROMANIA",
-   "product": "THE AUTOMOBILE CLUB OF ROMANIA",
-   "agencies": [
-    "PUBLICIS ROMANIA Bucharest"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Promo & Activation",
-     "subcategory": "Use of Social Audience in a Promotional Campaign",
-     "count": 1,
-     "entry_titles": [
-      "#SEATBELTB00BING"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：PUBLICIS ROMANIA Bucharest"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/f40c9564951843c1d0bde3f930abb8c9"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/seatbeltb00bing-127540"
-  ]
- },
- {
-  "id": "ltwm-07739",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "SMART SENTRY",
-  "brand": "MAXIS",
-  "agency": "OGILVY HONG KONG",
-  "raw": "SMART SENTRY – MAXIS (OGILVY HONG KONG)",
-  "links": [
-   "https://vimeo.com/129520462"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Mobile",
-    "subcategory": "",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "MAXIS BERHAD",
-   "product": "MOBILE NETWORK",
-   "agencies": [
-    "OGILVY & MATHER GROUP HONG KONG"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Mobile",
-     "subcategory": "",
-     "count": 1,
-     "entry_titles": [
-      "SMART SENTRY"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銅獅 Mobile Bronze Lion｜代理商：OGILVY & MATHER GROUP HONG KONG"
-  }
- },
- {
-  "id": "ltwm-07740",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "SHRED OF DECENCY",
-  "brand": "DAINTREE PAPER",
-  "agency": "ROTHCO | ACCENTURE INTERACTIVE DUBLIN",
-  "raw": "SHRED OF DECENCY – DAINTREE PAPER (ROTHCO | ACCENTURE INTERACTIVE DUBLIN)",
-  "links": [
-   "https://rothco.ie/work/a-shred-of-decency/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "PR",
-    "subcategory": "Crisis Communications & Issue Management",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "DAINTREE PAPER",
-   "product": "MARRIAGE EQUALITY",
-   "agencies": [
-    "ROTHCO Dublin"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "PR",
-     "subcategory": "Crisis Communications & Issue Management",
-     "count": 1,
-     "entry_titles": [
-      "SHRED OF DECENCY"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類銅獅 PR Bronze Lion｜代理商：ROTHCO Dublin"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/6e07712245a240c5e20212204f1035cb"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/shred-of-decency-102264"
+   "https://www.lovethework.com/en/work/entries/cut-a-tree-kill-a-life-tapir-102563"
   ]
  }
 ]

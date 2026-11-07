@@ -1,30 +1,105 @@
 [
  {
-  "id": "ltwm-07329",
+  "id": "ltwm-07359",
   "year": 2015,
   "tier": "GOLD",
   "categories": [],
-  "title": "DADSONG",
-  "brand": "OLD SPICE",
-  "agency": "WIEDEN+KENNEDY PORTLAND",
-  "raw": "DADSONG – OLD SPICE (WIEDEN+KENNEDY PORTLAND)",
+  "title": "PHOTOSHOP MURDER MYSTERY",
+  "brand": "ADOBE PHOTOSHOP",
+  "agency": "EDELMAN SAN FRANCISCO",
+  "raw": "PHOTOSHOP MURDER MYSTERY – ADOBE PHOTOSHOP (EDELMAN SAN FRANCISCO)",
   "links": [
-   "https://www.dandad.org/awards/professional/2015/film-advertising-crafts/24789/dadsong/"
+   "https://vimeo.com/117637147"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Gold",
-    "category": "Film",
-    "subcategory": "Toiletries, Cosmetics & Beauty",
+    "category": "PR",
+    "subcategory": "Community Building/Management",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "PR",
+    "subcategory": "Innovative Use of Social or Community",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "ADOBE",
+   "product": "PHOTOSHOP",
+   "agencies": [
+    "EDELMAN San Francisco"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "PR",
+     "subcategory": "Community Building/Management",
+     "count": 1,
+     "entry_titles": [
+      "PHOTOSHOP MURDER MYSTERY"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "PR",
+     "subcategory": "Innovative Use of Social or Community",
+     "count": 1,
+     "entry_titles": [
+      "PHOTOSHOP MURDER MYSTERY"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類金獅 PR Gold Lion、公關類銀獅 PR Silver Lion｜代理商：EDELMAN San Francisco"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/aff3fa6d327247fcfaac2a8d6e3ec855"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/photoshop-murder-mystery-125222",
+   "https://www.lovethework.com/en/work/entries/photoshop-murder-mystery-125159"
+  ]
+ },
+ {
+  "id": "ltwm-07298",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "PRINT FOR HELP",
+  "brand": "HEWLETT-PACKARD",
+  "agency": "FCB SÃO PAULO",
+  "raw": "PRINT FOR HELP – HEWLETT-PACKARD (FCB SÃO PAULO)",
+  "links": [
+   "https://vimeo.com/132306328"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Cyber",
+    "subcategory": "Engagement Platform",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Print or Standard Outdoor in a Promotional Campaign",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Bronze",
-    "category": "Radio",
-    "subcategory": "Use of Music",
+    "category": "Promo & Activation",
+    "subcategory": "Corporate Image & Communication",
     "count": 1,
     "source_count": 1
    }
@@ -32,180 +107,84 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "OLD SPICE",
-   "product": "PERSONAL CARE",
+   "brand": "HEWLETT-PACKARD BRASIL",
+   "product": "HP PRINTERS",
    "agencies": [
-    "WIEDEN+KENNEDY Portland"
+    "FCB BRASIL São Paulo"
    ],
    "awards": [
     {
      "level": "Gold",
-     "category": "Film",
-     "subcategory": "Toiletries, Cosmetics & Beauty",
+     "category": "Cyber",
+     "subcategory": "Engagement Platform",
      "count": 1,
      "entry_titles": [
-      "DADSONG"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Radio",
-     "subcategory": "Use of Music",
-     "count": 1,
-     "entry_titles": [
-      "DADSONG"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類金獅 Film Gold Lion、Radio類銅獅 Radio Bronze Lion｜代理商：WIEDEN+KENNEDY Portland"
-  },
-  "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/3duqCqeHDt9hMAdtuQjc3V/3f6a8c56aeb415ac19cd5dd916fa6976/LTW_placeholder_1.svg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/dadsong-135766",
-   "https://www.lovethework.com/en/work/entries/dadsong-113435"
-  ]
- },
- {
-  "id": "ltwm-07330",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "RIPPLE",
-  "brand": "NIKE GOLF",
-  "agency": "WIEDEN+KENNEDY PORTLAND",
-  "raw": "RIPPLE – NIKE GOLF (WIEDEN+KENNEDY PORTLAND)",
-  "links": [
-   "https://clios.com/awards/winner/180"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Film",
-    "subcategory": "Clothing, Footwear & Accessories",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "NIKE GOLF",
-   "product": "APPAREL AND FOOTWEAR",
-   "agencies": [
-    "WIEDEN+KENNEDY Portland"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Film",
-     "subcategory": "Clothing, Footwear & Accessories",
-     "count": 1,
-     "entry_titles": [
-      "RIPPLE"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類金獅 Film Gold Lion｜代理商：WIEDEN+KENNEDY Portland"
-  },
-  "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/21oKzZpgKK38z6CH22xvKi/2891cea86e6d97a93344f9f8fd0e6153/LTW_placeholder_2.svg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/ripple-120195"
-  ]
- },
- {
-  "id": "ltwm-07331",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "BEDS",
-  "brand": "IKEA",
-  "agency": "MOTHER LONDON",
-  "raw": "BEDS – IKEA (MOTHER LONDON)",
-  "links": [
-   "https://motherlondon.com/work/ikea-beds/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Film",
-    "subcategory": "Retail Stores",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Film Craft",
-    "subcategory": "Cinematography",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "IKEA",
-   "product": "BEDROOM HOME FURNISHINGS / RETAIL",
-   "agencies": [
-    "MOTHER London",
-    "MJZ LONDON / MOTHER London"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Film",
-     "subcategory": "Retail Stores",
-     "count": 1,
-     "entry_titles": [
-      "BEDS"
+      "PRINT FOR HELP"
      ]
     },
     {
      "level": "Silver",
-     "category": "Film Craft",
-     "subcategory": "Cinematography",
+     "category": "Promo & Activation",
+     "subcategory": "Use of Print or Standard Outdoor in a Promotional Campaign",
      "count": 1,
      "entry_titles": [
-      "BEDS"
+      "PRINT FOR HELP"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Promo & Activation",
+     "subcategory": "Corporate Image & Communication",
+     "count": 1,
+     "entry_titles": [
+      "PRINT FOR HELP"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類金獅 Film Gold Lion、影片工藝類銀獅 Film Craft Silver Lion｜代理商：MOTHER London / MJZ LONDON / MOTHER London"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類金獅 Cyber Gold Lion、Promo & Activation類銀獅 Promo & Activation Silver Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：FCB BRASIL São Paulo"
   },
   "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/3duqCqeHDt9hMAdtuQjc3V/3f6a8c56aeb415ac19cd5dd916fa6976/LTW_placeholder_1.svg"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/f1a6f80648ca40c5ac9009ed7754eaa3"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/beds-135243",
-   "https://www.lovethework.com/en/work/entries/beds-123577"
+   "https://www.lovethework.com/en/work/entries/print-for-help-126704",
+   "https://www.lovethework.com/en/work/entries/print-for-help-126703",
+   "https://www.lovethework.com/en/work/entries/print-for-help-111199"
   ]
  },
  {
-  "id": "ltwm-07332",
+  "id": "ltwm-07299",
   "year": 2015,
   "tier": "GOLD",
   "categories": [],
-  "title": "BETWEEN TWO FERNS WITH ZACH GALIFIANAKIS: PRESIDENT BARACK OBAMA",
-  "brand": "WHITE HOUSE",
-  "agency": "FUNNY OR DIE LOS ANGELES",
-  "raw": "BETWEEN TWO FERNS WITH ZACH GALIFIANAKIS: PRESIDENT BARACK OBAMA – WHITE HOUSE (FUNNY OR DIE LOS ANGELES)",
+  "title": "DREAM ON",
+  "brand": "ADOBE",
+  "agency": "GOODBY SILVERSTEIN & PARTNERS SAN FRANCISCO",
+  "raw": "DREAM ON – ADOBE (GOODBY SILVERSTEIN & PARTNERS SAN FRANCISCO)",
   "links": [
-   "https://www.youtube.com/watch?v=UnW3xkHxIEQ"
+   "https://www.dandad.org/awards/professional/2015/film-advertising/24745/dream-on/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Gold",
+    "level": "Silver",
     "category": "Film",
-    "subcategory": "Short Non-Fiction Film (under 10 minutes)",
+    "subcategory": "Business Equipment & Services",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Cyber",
+    "subcategory": "Use of Co-Creation & User Generated Content",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Cyber",
+    "subcategory": "Animation/Motion Graphics",
     "count": 1,
     "source_count": 1
    }
@@ -213,57 +192,91 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "WHITE HOUSE",
-   "product": "HEALTHCARE.GOV",
+   "brand": "ADOBE",
+   "product": "PHOTOSHOP",
    "agencies": [
-    "FUNNY OR DIE Los Angeles"
+    "GOODBY SILVERSTEIN & PARTNERS San Francisco"
    ],
    "awards": [
     {
-     "level": "Gold",
+     "level": "Silver",
      "category": "Film",
-     "subcategory": "Short Non-Fiction Film (under 10 minutes)",
+     "subcategory": "Business Equipment & Services",
      "count": 1,
      "entry_titles": [
-      "BETWEEN TWO FERNS WITH ZACH GALIFIANAKIS: PRESIDENT BARACK OBAMA"
+      "DREAM ON"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Cyber",
+     "subcategory": "Use of Co-Creation & User Generated Content",
+     "count": 1,
+     "entry_titles": [
+      "DREAM ON"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Cyber",
+     "subcategory": "Animation/Motion Graphics",
+     "count": 1,
+     "entry_titles": [
+      "DREAM ON"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類金獅 Film Gold Lion｜代理商：FUNNY OR DIE Los Angeles"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類金獅 Cyber Gold Lion、Cyber類銀獅 Cyber Silver Lion、影片類銀獅 Film Silver Lion｜代理商：GOODBY SILVERSTEIN & PARTNERS San Francisco"
   },
   "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/21oKzZpgKK38z6CH22xvKi/2891cea86e6d97a93344f9f8fd0e6153/LTW_placeholder_2.svg"
+   "https://images.ctfassets.net/8ha5xom4da7e/3duqCqeHDt9hMAdtuQjc3V/3f6a8c56aeb415ac19cd5dd916fa6976/LTW_placeholder_1.svg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/between-two-ferns-with-zach-galifianakis-president-barack-obama-135853"
+   "https://www.lovethework.com/en/work/entries/dream-on-135626",
+   "https://www.lovethework.com/en/work/entries/dream-on-129927",
+   "https://www.lovethework.com/en/work/entries/dream-on-129374"
   ]
  },
  {
-  "id": "ltwm-07333",
+  "id": "ltwm-07297",
   "year": 2015,
   "tier": "GOLD",
   "categories": [],
-  "title": "THE GAME BEFORE THE GAME",
-  "brand": "BEATS BY DR. DRE",
-  "agency": "R/GA LONDON",
-  "raw": "THE GAME BEFORE THE GAME – BEATS BY DR. DRE (R/GA LONDON)",
+  "title": "GROCERIES NOT GUNS",
+  "brand": "MOMS DEMAND ACTION FOR GUN SENSE IN AMERICA",
+  "agency": "GREY TORONTO",
+  "raw": "GROCERIES NOT GUNS – MOMS DEMAND ACTION FOR GUN SENSE IN AMERICA (GREY TORONTO)",
   "links": [
-   "https://clios.com/awards/winner/integrated-campaign/beats-by-dr-dre/the-game-before-the-game-1043"
+   "https://www.dandad.org/awards/professional/2016/digital-marketing/25290/groceries-not-guns/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Gold",
+    "level": "Bronze",
     "category": "Film",
-    "subcategory": "Short Non-Fiction Film (under 10 minutes)",
+    "subcategory": "Public Awareness Messages",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Radio",
+    "subcategory": "Public Awareness Messages",
+    "count": 1,
+    "source_count": 3
+   },
+   {
+    "level": "Gold",
+    "category": "Cyber",
+    "subcategory": "Charities, Public Health & Safety, Public Awareness Messages",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Silver",
-    "category": "Film Craft",
-    "subcategory": "Use of Licensed/Adapted Music",
+    "category": "Cyber",
+    "subcategory": "Community Building/Management",
     "count": 1,
     "source_count": 1
    },
@@ -276,298 +289,27 @@
    },
    {
     "level": "Silver",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Non-Fiction: Online (15 minutes or under in length)",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "BEATS BY DR. DRE",
-   "product": "BEATS SOLO2",
-   "agencies": [
-    "R/GA LONDON",
-    "R/GA LONDON London"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Film",
-     "subcategory": "Short Non-Fiction Film (under 10 minutes)",
-     "count": 1,
-     "entry_titles": [
-      "THE GAME BEFORE THE GAME"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Film Craft",
-     "subcategory": "Use of Licensed/Adapted Music",
-     "count": 1,
-     "entry_titles": [
-      "THE GAME BEFORE THE GAME"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Cyber",
-     "subcategory": "Social Video",
-     "count": 1,
-     "entry_titles": [
-      "THE GAME BEFORE THE GAME"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Non-Fiction: Online (15 minutes or under in length)",
-     "count": 1,
-     "entry_titles": [
-      "THE GAME BEFORE THE GAME"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類金獅 Film Gold Lion、Branded Content & Entertainment類銀獅 Branded Content & Entertainment Silver Lion、Cyber類銀獅 Cyber Silver Lion、影片工藝類銀獅 Film Craft Silver Lion｜代理商：R/GA LONDON / R/GA LONDON London"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/3a75d18abaca4858a15c1c9c8f9391d1/storyboard_000002.jpg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-game-before-the-game-99439",
-   "https://www.lovethework.com/en/work/entries/the-game-before-the-game-134874",
-   "https://www.lovethework.com/en/work/entries/the-game-before-the-game-110252"
-  ]
- },
- {
-  "id": "ltwm-07334",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "LEBANON4SALE",
-  "brand": "SAKKER EL DEKKENE (STOP THE SHOP)",
-  "agency": "LEO BURNETT BEIRUT",
-  "raw": "LEBANON4SALE – SAKKER EL DEKKENE (STOP THE SHOP) (LEO BURNETT BEIRUT)",
-  "links": [
-   "https://vimeo.com/132182857"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Media",
-    "subcategory": "Use of Events & Stunts",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "SAKKER EL DEKKENE (STOP THE SHOP)",
-   "product": "ANTI-CORRUPTION ORGANIZATION",
-   "agencies": [
-    "LEO BURNETT BEIRUT"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Media",
-     "subcategory": "Use of Events & Stunts",
-     "count": 1,
-     "entry_titles": [
-      "LEBANON4SALE"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類金獅 Media Gold Lion｜代理商：LEO BURNETT BEIRUT"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/159ce6d691ca4763992cdf608afaaa92"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/lebanon4sale-108448"
-  ]
- },
- {
-  "id": "ltwm-07335",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "SEARCH FOR FREE WIFI SEARCH FOR MISSING CHILDREN",
-  "brand": "BAOBEIHUIJIA",
-  "agency": "TBWA/BEING SHANGHAI",
-  "raw": "SEARCH FOR FREE WIFI SEARCH FOR MISSING CHILDREN – BAOBEIHUIJIA (TBWA/BEING SHANGHAI)",
-  "links": [
-   "https://vimeo.com/132182965"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Media",
-    "subcategory": "Use of Mobile Devices",
+    "category": "Direct",
+    "subcategory": "Use of Social Audience in a Direct Marketing Campaign",
     "count": 1,
     "source_count": 1
    },
    {
-    "level": "Silver",
-    "category": "Media",
+    "level": "Gold",
+    "category": "Promo & Activation",
     "subcategory": "Public Health & Safety & Public Awareness Messages",
     "count": 1,
     "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "BAOBEIHUIJIA",
-   "product": "BAOBEIHUIJIA",
-   "agencies": [
-    "TBWA/BEING Shanghai"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Media",
-     "subcategory": "Use of Mobile Devices",
-     "count": 1,
-     "entry_titles": [
-      "SEARCH FOR FREE WIFI SEARCH FOR MISSING CHILDREN"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Media",
-     "subcategory": "Public Health & Safety & Public Awareness Messages",
-     "count": 1,
-     "entry_titles": [
-      "SEARCH FOR FREE WIFI SEARCH FOR MISSING CHILDREN"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類金獅 Media Gold Lion、媒體類銀獅 Media Silver Lion｜代理商：TBWA/BEING Shanghai"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/9e38d9a87793434bc575669eb738c71d"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/search-for-free-wifi-search-for-missing-children-106307",
-   "https://www.lovethework.com/en/work/entries/search-for-free-wifi-search-for-missing-children-106016"
-  ]
- },
- {
-  "id": "ltwm-07336",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "THE BANNER THAT MAKES YOU LIKE BANNERS",
-  "brand": "3M",
-  "agency": "BBDO PROXIMITY MOSCOW",
-  "raw": "THE BANNER THAT MAKES YOU LIKE BANNERS – 3M (BBDO PROXIMITY MOSCOW)",
-  "links": [
-   "https://clios.com/awards/winner/direct/post-it-/the-banner-that-makes-you-like-banners-636"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Web Banner",
-    "count": 1,
-    "source_count": 1
    },
    {
     "level": "Gold",
-    "category": "Media",
-    "subcategory": "Use of Other Digital Platforms",
+    "category": "PR",
+    "subcategory": "Public Affairs & Lobbying",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Silver",
-    "category": "Media",
-    "subcategory": "Fast Moving Consumer Goods",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "3M",
-   "product": "POST-IT® STICKY NOTES",
-   "agencies": [
-    "BBDO RUSSIA GROUP Moscow / PROXIMITY RUSSIA Moscow"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Web Banner",
-     "count": 1,
-     "entry_titles": [
-      "THE BANNER THAT MAKES YOU LIKE BANNERS"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Media",
-     "subcategory": "Use of Other Digital Platforms",
-     "count": 1,
-     "entry_titles": [
-      "THE BANNER THAT MAKES YOU LIKE BANNERS"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Media",
-     "subcategory": "Fast Moving Consumer Goods",
-     "count": 1,
-     "entry_titles": [
-      "THE BANNER THAT MAKES YOU LIKE BANNERS"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類金獅 Media Gold Lion、媒體類銀獅 Media Silver Lion、Cyber類銅獅 Cyber Bronze Lion｜代理商：BBDO RUSSIA GROUP Moscow / PROXIMITY RUSSIA Moscow"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/f5190b6b66c9442ff9ddc7fb43056f79"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-banner-that-makes-you-like-banners-129732",
-   "https://www.lovethework.com/en/work/entries/the-banner-that-makes-you-like-banners-107079",
-   "https://www.lovethework.com/en/work/entries/the-banner-that-makes-you-like-banners-106785"
-  ]
- },
- {
-  "id": "ltwm-07337",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "RISK EVERYTHING",
-  "brand": "NIKE",
-  "agency": "WIEDEN+KENNEDY PORTLAND",
-  "raw": "RISK EVERYTHING – NIKE (WIEDEN+KENNEDY PORTLAND)",
-  "links": [
-   "https://vimeo.com/132183029"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Media",
-    "subcategory": "Use of Digital Content",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
     "category": "Integrated",
     "subcategory": "Titanium and Integrated",
     "count": 1,
@@ -577,61 +319,245 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "NIKE",
-   "product": "NIKE",
+   "brand": "MOMS DEMAND ACTION FOR GUN SENSE IN AMERICA",
+   "product": "PUBLIC AWARENESS - GUN CONTROL",
    "agencies": [
-    "WIEDEN+KENNEDY Portland",
-    "WIEDEN+KENNEDY Portland / RAZORFISH Seattle"
+    "GREY CANADA Toronto"
    ],
    "awards": [
     {
-     "level": "Gold",
-     "category": "Media",
-     "subcategory": "Use of Digital Content",
+     "level": "Bronze",
+     "category": "Film",
+     "subcategory": "Public Awareness Messages",
      "count": 1,
      "entry_titles": [
-      "RISK EVERYTHING"
+      "NOT ALLOWED"
      ]
     },
     {
-     "level": "Bronze",
+     "level": "Gold",
+     "category": "Radio",
+     "subcategory": "Public Awareness Messages",
+     "count": 1,
+     "entry_titles": [
+      "POODLE",
+      "SCOOTER",
+      "SUPER SOAKER"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Cyber",
+     "subcategory": "Charities, Public Health & Safety, Public Awareness Messages",
+     "count": 1,
+     "entry_titles": [
+      "GROCERIES NOT GUNS"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Cyber",
+     "subcategory": "Community Building/Management",
+     "count": 1,
+     "entry_titles": [
+      "GROCERIES NOT GUNS"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Cyber",
+     "subcategory": "Social Video",
+     "count": 1,
+     "entry_titles": [
+      "GROCERIES NOT GUNS"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Direct",
+     "subcategory": "Use of Social Audience in a Direct Marketing Campaign",
+     "count": 1,
+     "entry_titles": [
+      "GROCERIES NOT GUNS"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Promo & Activation",
+     "subcategory": "Public Health & Safety & Public Awareness Messages",
+     "count": 1,
+     "entry_titles": [
+      "GROCERIES NOT GUNS"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "PR",
+     "subcategory": "Public Affairs & Lobbying",
+     "count": 1,
+     "entry_titles": [
+      "GROCERIES NOT GUNS"
+     ]
+    },
+    {
+     "level": "Silver",
      "category": "Integrated",
      "subcategory": "Titanium and Integrated",
      "count": 1,
      "entry_titles": [
-      "RISK EVERYTHING"
+      "GROCERIES NOT GUNS"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類金獅 Media Gold Lion、Integrated類銅獅 Integrated Bronze Lion｜代理商：WIEDEN+KENNEDY Portland / WIEDEN+KENNEDY Portland / RAZORFISH Seattle"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類金獅 Cyber Gold Lion、公關類金獅 PR Gold Lion、Promo & Activation類金獅 Promo & Activation Gold Lion、Radio類金獅 Radio Gold Lion、Cyber類銀獅 Cyber Silver Lion×2、直效類銀獅 Direct Silver Lion、Integrated類銀獅 Integrated Silver Lion、影片類銅獅 Film Bronze Lion｜代理商：GREY CANADA Toronto"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/0192dfb015f14dde8e9d0e1566fbb3d6/storyboard_000002.jpg"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/ca5b37e9284b4120b87f926d915c6a41"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/risk-everything-85837",
-   "https://www.lovethework.com/en/work/entries/risk-everything-85834"
+   "https://www.lovethework.com/en/work/entries/groceries-not-guns-129639",
+   "https://www.lovethework.com/en/work/entries/groceries-not-guns-129503",
+   "https://www.lovethework.com/en/work/entries/groceries-not-guns-129082"
   ]
  },
  {
-  "id": "ltwm-07338",
+  "id": "ltwm-07343",
   "year": 2015,
   "tier": "GOLD",
   "categories": [],
-  "title": "THE PURSUIT BY EQUINOX",
-  "brand": "EQUINOX",
-  "agency": "R/GA NEW YORK",
-  "raw": "THE PURSUIT BY EQUINOX – EQUINOX (R/GA NEW YORK)",
+  "title": "HONDA ACCORD GPS",
+  "brand": "HONDA",
+  "agency": "IMPACT & ECHO BBDO KUWAIT",
+  "raw": "HONDA ACCORD GPS – HONDA (IMPACT & ECHO BBDO KUWAIT)",
   "links": [
-   "https://vimeo.com/132299185"
+   "https://www.adsoftheworld.com/campaign/honda-bbdo-09-2015"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Press",
+    "subcategory": "Other Vehicles, Auto Products & Services",
+    "count": 1,
+    "source_count": 3
+   },
+   {
+    "level": "Gold",
+    "category": "Outdoor",
+    "subcategory": "Cars & Automotive Services",
+    "count": 1,
+    "source_count": 3
+   },
+   {
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Cars & Automotive Services",
+    "count": 1,
+    "source_count": 3
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "ALGHANIM MOTORS - HONDA",
+   "product": "HONDA ACCORD GPS",
+   "agencies": [
+    "IMPACT & ECHO BBDO Safat"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Press",
+     "subcategory": "Other Vehicles, Auto Products & Services",
+     "count": 1,
+     "entry_titles": [
+      "CONFUSING INDIAN",
+      "CONFUSING IRANIAN",
+      "CONFUSING ARAB"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Outdoor",
+     "subcategory": "Cars & Automotive Services",
+     "count": 1,
+     "entry_titles": [
+      "CONFUSING INDIAN",
+      "CONFUSING IRANIAN",
+      "CONFUSING ARAB"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Outdoor",
+     "subcategory": "Cars & Automotive Services",
+     "count": 1,
+     "entry_titles": [
+      "CONFUSING INDIAN",
+      "CONFUSING IRANIAN",
+      "CONFUSING ARAB"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類金獅 Outdoor Gold Lion、戶外類銀獅 Outdoor Silver Lion、Press類銀獅 Press Silver Lion｜代理商：IMPACT & ECHO BBDO Safat"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/5f60b2e93e2d4f2ac06823cc38ac5dc6"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/confusing-arab-133539",
+   "https://www.lovethework.com/en/work/entries/confusing-iranian-133555",
+   "https://www.lovethework.com/en/work/entries/confusing-indian-133559"
+  ]
+ },
+ {
+  "id": "ltwm-07295",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "HAMMERHEAD",
+  "brand": "HAMMERHEAD NAVIGATION",
+  "agency": "R/GA NEW YORK",
+  "raw": "HAMMERHEAD – HAMMERHEAD NAVIGATION (R/GA NEW YORK)",
+  "links": [
+   "https://vimeo.com/132299171"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Gold",
+    "category": "Cyber",
+    "subcategory": "User Experience",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Cyber",
+    "subcategory": "Tangible Tech (incl. Digital Products, Utilities & Tools)",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Innovative Use of Technology",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Overall Aesthetic Design/Best Practice",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
     "category": "Product Design",
-    "subcategory": "Interface",
+    "subcategory": "Active Sportswear & Sports Equipment",
     "count": 1,
     "source_count": 1
    },
@@ -660,19 +586,55 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "EQUINOX",
-   "product": "EQUINOX",
+   "brand": "HAMMERHEAD NAVIGATION",
+   "product": "HAMMERHEAD",
    "agencies": [
     "R/GA New York"
    ],
    "awards": [
     {
      "level": "Gold",
-     "category": "Product Design",
-     "subcategory": "Interface",
+     "category": "Cyber",
+     "subcategory": "User Experience",
      "count": 1,
      "entry_titles": [
-      "THE PURSUIT BY EQUINOX"
+      "HAMMERHEAD"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Cyber",
+     "subcategory": "Tangible Tech (incl. Digital Products, Utilities & Tools)",
+     "count": 1,
+     "entry_titles": [
+      "HAMMERHEAD"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Cyber",
+     "subcategory": "Innovative Use of Technology",
+     "count": 1,
+     "entry_titles": [
+      "HAMMERHEAD"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Cyber",
+     "subcategory": "Overall Aesthetic Design/Best Practice",
+     "count": 1,
+     "entry_titles": [
+      "HAMMERHEAD"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Product Design",
+     "subcategory": "Active Sportswear & Sports Equipment",
+     "count": 1,
+     "entry_titles": [
+      "HAMMERHEAD"
      ]
     },
     {
@@ -681,7 +643,7 @@
      "subcategory": "",
      "count": 1,
      "entry_titles": [
-      "THE PURSUIT BY EQUINOX"
+      "HAMMERHEAD"
      ]
     },
     {
@@ -690,7 +652,7 @@
      "subcategory": "",
      "count": 1,
      "entry_titles": [
-      "THE PURSUIT BY EQUINOX"
+      "HAMMERHEAD"
      ]
     },
     {
@@ -699,17 +661,310 @@
      "subcategory": "",
      "count": 1,
      "entry_titles": [
-      "THE PURSUIT BY EQUINOX"
+      "HAMMERHEAD"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類金獅 Mobile Gold Lion、產品設計類金獅 Product Design Gold Lion、行動類銀獅 Mobile Silver Lion、行動類銅獅 Mobile Bronze Lion｜代理商：R/GA New York"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類金獅 Cyber Gold Lion、行動類金獅 Mobile Gold Lion、產品設計類金獅 Product Design Gold Lion、Cyber類銀獅 Cyber Silver Lion、行動類銀獅 Mobile Silver Lion、Cyber類銅獅 Cyber Bronze Lion×2、行動類銅獅 Mobile Bronze Lion｜代理商：R/GA New York"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/ec78ffba677b41449dc157c2fc99c33f"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/96facf5c944d406dc69889f172671b12"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-pursuit-by-equinox-99065"
+   "https://www.lovethework.com/en/work/entries/hammerhead-99047",
+   "https://www.lovethework.com/en/work/entries/hammerhead-111892",
+   "https://www.lovethework.com/en/work/entries/hammerhead-111694"
+  ]
+ },
+ {
+  "id": "ltwm-07296",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "THE OTHER SIDE",
+  "brand": "HONDA MOTOR EUROPE",
+  "agency": "WIEDEN+KENNEDY LONDON",
+  "raw": "THE OTHER SIDE – HONDA MOTOR EUROPE (WIEDEN+KENNEDY LONDON)",
+  "links": [
+   "https://wklondon.com/work/the-other-side/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Film",
+    "subcategory": "Personal Screens",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Film Craft",
+    "subcategory": "Direction",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Film Craft",
+    "subcategory": "Sound Design",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Cyber",
+    "subcategory": "Interactive Video",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Cyber",
+    "subcategory": "Storytelling",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Cyber",
+    "subcategory": "Use of Music/Sound Design",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "HONDA MOTOR EUROPE",
+   "product": "CIVIC TYPE R",
+   "agencies": [
+    "WIEDEN+KENNEDY London",
+    "SOMESUCH London / WIEDEN+KENNEDY London",
+    "FACTORY London / WIEDEN+KENNEDY London"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Film",
+     "subcategory": "Personal Screens",
+     "count": 1,
+     "entry_titles": [
+      "THE OTHER SIDE"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Film Craft",
+     "subcategory": "Direction",
+     "count": 1,
+     "entry_titles": [
+      "THE OTHER SIDE"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Film Craft",
+     "subcategory": "Sound Design",
+     "count": 1,
+     "entry_titles": [
+      "THE OTHER SIDE"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Cyber",
+     "subcategory": "Interactive Video",
+     "count": 1,
+     "entry_titles": [
+      "THE OTHER SIDE"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Cyber",
+     "subcategory": "Storytelling",
+     "count": 1,
+     "entry_titles": [
+      "THE OTHER SIDE"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Cyber",
+     "subcategory": "Use of Music/Sound Design",
+     "count": 1,
+     "entry_titles": [
+      "THE OTHER SIDE"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類金獅 Cyber Gold Lion×2、影片類金獅 Film Gold Lion、影片工藝類金獅 Film Craft Gold Lion×2、Cyber類銀獅 Cyber Silver Lion｜代理商：WIEDEN+KENNEDY London / SOMESUCH London / WIEDEN+KENNEDY London / FACTORY London / WIEDEN+KENNEDY London"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/a92e396db2434993d2149a829afc90aa"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/the-other-side-130558",
+   "https://www.lovethework.com/en/work/entries/the-other-side-130411",
+   "https://www.lovethework.com/en/work/entries/the-other-side-130345"
+  ]
+ },
+ {
+  "id": "ltwm-07876",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "FOREIGN OBJECTS",
+  "brand": "HONDA",
+  "agency": "LEO BURNETT MELBOURNE",
+  "raw": "FOREIGN OBJECTS – HONDA (LEO BURNETT MELBOURNE)",
+  "links": [
+   "https://www.robmcdowell.me/#/fashion/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Press",
+    "subcategory": "Copywriting",
+    "count": 1,
+    "source_count": 3
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "HONDA AUSTRALIA",
+   "product": "HONDA GENUINE PARTS",
+   "agencies": [
+    "LEO BURNETT MELBOURNE"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Press",
+     "subcategory": "Copywriting",
+     "count": 1,
+     "entry_titles": [
+      "HERPESTES AUROPUNCTATUS/INDIAN MONGOOSE",
+      "RHINELLA MARINA/CANE TOAD",
+      "ALOPEX LAGOPUS/ARCTIC FOX"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銅獅 Press Bronze Lion｜代理商：LEO BURNETT MELBOURNE"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/e7c17454b2a04a5b93114ebb2e8e43df"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/rhinella-marinacane-toad-117423",
+   "https://www.lovethework.com/en/work/entries/herpestes-auropunctatusindian-mongoose-117428"
+  ]
+ },
+ {
+  "id": "ltwm-07642",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "ENDLESS ROAD",
+  "brand": "HONDA",
+  "agency": "MCGARRYBOWEN LONDON",
+  "raw": "ENDLESS ROAD – HONDA (MCGARRYBOWEN LONDON)",
+  "links": [
+   "https://clios.com/awards/winner/film-technique/honda-motor-europe/endless-road-566"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Use of Video",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "HONDA",
+   "product": null,
+   "agencies": [
+    "MCGARRYBOWEN London"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Cyber",
+     "subcategory": "Use of Video",
+     "count": 1,
+     "entry_titles": [
+      "ENDLESS ROAD"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：MCGARRYBOWEN London"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/256ff193bba442ae9638e03f41f645bc"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/endless-road-111184"
+  ]
+ },
+ {
+  "id": "ltwm-07664",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "HONDA. BEAUTIFUL ENGINES.",
+  "brand": "HONDA MOTOR CO.",
+  "agency": "DENTSU INC. TOKYO",
+  "raw": "HONDA. BEAUTIFUL ENGINES. – HONDA MOTOR CO. (DENTSU INC. TOKYO)",
+  "links": [
+   "https://clios.com/awards/winner/design/honda-motor-co-ltd/honda-beautiful-engines--183"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Design",
+    "subcategory": "Publications & Brand Collateral",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "HONDA MOTOR CO.",
+   "product": null,
+   "agencies": [
+    "MORI Tokyo / DENTSU INC. Tokyo"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Design",
+     "subcategory": "Publications & Brand Collateral",
+     "count": 1,
+     "entry_titles": [
+      "HONDA. BEAUTIFUL ENGINES."
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銅獅 Design Bronze Lion｜代理商：MORI Tokyo / DENTSU INC. Tokyo"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/79ad480ddc1a425cef17dc51437195b9"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/honda-beautiful-engines-125781"
   ]
  }
 ]

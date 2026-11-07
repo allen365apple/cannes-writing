@@ -1,74 +1,86 @@
 [
  {
-  "id": "ltwm-07509",
+  "id": "ltwm-07426",
   "year": 2015,
   "tier": "SILVER",
   "categories": [],
-  "title": "MAN, YOU’RE SO BEAUTIFUL: PERSEVERE",
-  "brand": "STICHTING MENZIS BEHEER",
-  "agency": "DDB & TRIBAL AMSTERDAM",
-  "raw": "MAN, YOU’RE SO BEAUTIFUL: PERSEVERE – STICHTING MENZIS BEHEER (DDB & TRIBAL AMSTERDAM)",
+  "title": "CABLE EFFECTS",
+  "brand": "DIRECTV",
+  "agency": "GREY NEW YORK",
+  "raw": "CABLE EFFECTS – DIRECTV (GREY NEW YORK)",
   "links": [
-   "https://www.youtube.com/watch?v=GBefvjALT1Q&ab_channel=DDBWorldwide"
+   "https://www.dandad.org/awards/professional/2012/tv-cinema-advertising/19316/cable-effects/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Silver",
-    "category": "Health & Wellness",
-    "subcategory": "Creative Data: Creative Data Collection & Research - Insurance",
+    "category": "Creative Effectiveness",
+    "subcategory": "Creative Effectiveness",
     "count": 1,
-    "source_count": 2
+    "source_count": 1
    }
   ],
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "STICHTING MENZIS BEHEER",
-   "product": "INSURANCE",
+   "brand": "DIRECTV",
+   "product": "PAY TV",
    "agencies": [
-    "DDB & TRIBAL WORLDWIDE AMSTERDAM"
+    "GREY NEW YORK"
    ],
    "awards": [
     {
      "level": "Silver",
-     "category": "Health & Wellness",
-     "subcategory": "Creative Data: Creative Data Collection & Research - Insurance",
+     "category": "Creative Effectiveness",
+     "subcategory": "Creative Effectiveness",
      "count": 1,
      "entry_titles": [
-      "MAN, YOU'RE SO BEAUTIFUL - LOVE",
-      "MAN, YOU'RE SO BEAUTIFUL - PERSEVERE"
+      "CABLE EFFECTS"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜健康與保健類銀獅 Health & Wellness Silver Lion｜代理商：DDB & TRIBAL WORLDWIDE AMSTERDAM"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意實效類銀獅 Creative Effectiveness Silver Lion｜代理商：GREY NEW YORK"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/40c9ac11baae4757c0807f605eb9ab1f"
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/11247eb9eb1548ff8a91ce9051d50838/storyboard_000002.jpg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/man-youre-so-beautiful-persevere-120768",
-   "https://www.lovethework.com/en/work/entries/man-youre-so-beautiful-love-120774"
+   "https://www.lovethework.com/en/work/entries/cable-effects-122572"
   ]
  },
  {
-  "id": "ltwm-07510",
+  "id": "ltwm-07425",
   "year": 2015,
   "tier": "SILVER",
   "categories": [],
-  "title": "THE HAIR FEST",
-  "brand": "CASA DE LA AMISTAD",
-  "agency": "OGILVY & MATHER MEXICO CITY",
-  "raw": "THE HAIR FEST – CASA DE LA AMISTAD (OGILVY & MATHER MEXICO CITY)",
+  "title": "BALD CARTOONS",
+  "brand": "GRAACC",
+  "agency": "OGILVY SÃO PAULO",
+  "raw": "BALD CARTOONS – GRAACC (OGILVY SÃO PAULO)",
   "links": [
-   "https://clios.com/health/winner/out-of-home/the-hair-fest-4119"
+   "https://www.ogilvy.com/work/bald-cartoons"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Silver",
+    "category": "Creative Effectiveness",
+    "subcategory": "Creative Effectiveness",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Health & Wellness",
+    "subcategory": "Fundraising & Advocacy",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
     "category": "Health & Wellness",
     "subcategory": "Fundraising & Advocacy",
     "count": 1,
@@ -76,13 +88,6 @@
    },
    {
     "level": "Silver",
-    "category": "Health & Wellness",
-    "subcategory": "Fundraising & Advocacy",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
     "category": "Health & Wellness",
     "subcategory": "Fundraising & Advocacy",
     "count": 1,
@@ -92,19 +97,37 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "CASA DE LA AMISTAD",
-   "product": "ONCOLOGICAL WIGS",
+   "brand": "GRAACC",
+   "product": "NGO",
    "agencies": [
-    "OGILVY & MATHER Mexico City"
+    "OGILVY BRASIL São Paulo"
    ],
    "awards": [
     {
      "level": "Silver",
+     "category": "Creative Effectiveness",
+     "subcategory": "Creative Effectiveness",
+     "count": 1,
+     "entry_titles": [
+      "BALD CARTOONS"
+     ]
+    },
+    {
+     "level": "Gold",
      "category": "Health & Wellness",
      "subcategory": "Fundraising & Advocacy",
      "count": 1,
      "entry_titles": [
-      "THE HAIR FEST"
+      "BALD CARTOONS"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Health & Wellness",
+     "subcategory": "Fundraising & Advocacy",
+     "count": 1,
+     "entry_titles": [
+      "BALD CARTOONS"
      ]
     },
     {
@@ -113,157 +136,39 @@
      "subcategory": "Fundraising & Advocacy",
      "count": 1,
      "entry_titles": [
-      "THE HAIR FEST"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Health & Wellness",
-     "subcategory": "Fundraising & Advocacy",
-     "count": 1,
-     "entry_titles": [
-      "THE HAIR FEST"
+      "BALD CARTOONS"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜健康與保健類銀獅 Health & Wellness Silver Lion×2、健康與保健類銅獅 Health & Wellness Bronze Lion｜代理商：OGILVY & MATHER Mexico City"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜健康與保健類金獅 Health & Wellness Gold Lion×2、創意實效類銀獅 Creative Effectiveness Silver Lion、健康與保健類銀獅 Health & Wellness Silver Lion｜代理商：OGILVY BRASIL São Paulo"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/8b9329fee953412b8d08fad98864b9e1"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/d67dce878550464c9d01ef84d03bae25"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-hair-fest-98301",
-   "https://www.lovethework.com/en/work/entries/the-hair-fest-98222",
-   "https://www.lovethework.com/en/work/entries/the-hair-fest-98080"
+   "https://www.lovethework.com/en/work/entries/bald-cartoons-98218",
+   "https://www.lovethework.com/en/work/entries/bald-cartoons-98083",
+   "https://www.lovethework.com/en/work/entries/bald-cartoons-98034"
   ]
  },
  {
-  "id": "ltwm-07511",
+  "id": "ltwm-07582",
   "year": 2015,
   "tier": "SILVER",
   "categories": [],
-  "title": "BETTER TOMORROWS CAMPAIGN",
-  "brand": "THE HOSPITAL FOR SICK CHILDREN",
-  "agency": "JWT TORONTO",
-  "raw": "BETTER TOMORROWS CAMPAIGN – THE HOSPITAL FOR SICK CHILDREN (JWT TORONTO)",
+  "title": "CARTOON HELPLINE",
+  "brand": "GRAACC",
+  "agency": "OGILVY SÃO PAULO",
+  "raw": "CARTOON HELPLINE – GRAACC (OGILVY SÃO PAULO)",
   "links": [
-   "https://clios.com/awards/winner/integrated-campaign/the-hospital-for-sick-children/better-tomorrows-campaign-62"
+   "https://brunomontoro.squarespace.com/cartoon-helpline"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Silver",
-    "category": "Health & Wellness",
-    "subcategory": "Fundraising & Advocacy",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "THE HOSPITAL FOR SICK CHILDREN",
-   "product": "THE HOSPITAL FOR SICK CHILDREN",
-   "agencies": [
-    "J. WALTER THOMPSON CANADA Toronto"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Health & Wellness",
-     "subcategory": "Fundraising & Advocacy",
-     "count": 1,
-     "entry_titles": [
-      "BETTER TOMORROWS CAMPAIGN"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜健康與保健類銀獅 Health & Wellness Silver Lion｜代理商：J. WALTER THOMPSON CANADA Toronto"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/4e85f336897244eddd4563919a52f5c8"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/better-tomorrows-campaign-120887"
-  ]
- },
- {
-  "id": "ltwm-07512",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "THE WORLD’S FIRST FULLY PERSONALISED TV CAMPAIGN",
-  "brand": "COCA-COLA",
-  "agency": "MEDIACOM LONDON",
-  "raw": "THE WORLD’S FIRST FULLY PERSONALISED TV CAMPAIGN – COCA-COLA (MEDIACOM LONDON)",
-  "links": [
-   "https://www.youtube.com/watch?v=drMLZ4y9EaU"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Media",
-    "subcategory": "Use of Screens",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "COCA-COLA",
-   "product": "COCA-COLA",
-   "agencies": [
-    "MEDIACOM London"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Media",
-     "subcategory": "Use of Screens",
-     "count": 1,
-     "entry_titles": [
-      "THE WORLD'S FIRST FULLY PERSONALISED TV CAMPAIGN"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銀獅 Media Silver Lion｜代理商：MEDIACOM London"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/6879b50868164cf38845a3ff26643ae7"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-worlds-first-fully-personalised-tv-campaign-107256"
-  ]
- },
- {
-  "id": "ltwm-07513",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "BACK OFF RADIO",
-  "brand": "ROADS AND TRANSPORT AUTHORITY",
-  "agency": "GEOMETRY GLOBAL DUBAI",
-  "raw": "BACK OFF RADIO – ROADS AND TRANSPORT AUTHORITY (GEOMETRY GLOBAL DUBAI)",
-  "links": [
-   "https://clios.com/awards/winner/audio/road-and-transport-authority/back-off-radio-530"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Media",
-    "subcategory": "Use of Audio Platforms",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Media",
+    "category": "Promo & Activation",
     "subcategory": "Public Health & Safety & Public Awareness Messages",
     "count": 1,
     "source_count": 1
@@ -272,39 +177,97 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "ROADS AND TRANSPORT AUTHORITY",
-   "product": "PUBLIC TRANSPORT",
+   "brand": "GRAACC",
+   "product": "CORPORATE",
    "agencies": [
-    "GEOMETRY GLOBAL Dubai / MEMAC OGILVY Dubai"
+    "OGILVY BRASIL São Paulo"
    ],
    "awards": [
     {
      "level": "Silver",
-     "category": "Media",
-     "subcategory": "Use of Audio Platforms",
+     "category": "Promo & Activation",
+     "subcategory": "Public Health & Safety & Public Awareness Messages",
      "count": 1,
      "entry_titles": [
-      "BACK OFF RADIO"
+      "CARTOON HELPLINE"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銀獅 Promo & Activation Silver Lion｜代理商：OGILVY BRASIL São Paulo"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/6cf7f7c8f9a44c62caca6c5d1eff3e0e"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/cartoon-helpline-104715"
+  ]
+ },
+ {
+  "id": "ltwm-07424",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "DATA GIF",
+  "brand": "NETFLIX",
+  "agency": "OGILVY PARIS",
+  "raw": "DATA GIF – NETFLIX (OGILVY PARIS)",
+  "links": [
+   "https://www.youtube.com/watch?v=W76Sc6lmOvA"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Creative Data",
+    "subcategory": "Strategic Data Integration",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Creative Data",
+    "subcategory": "Creative Data Collection & Research",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "NETFLIX",
+   "product": "SVOD",
+   "agencies": [
+    "OGILVY PARIS"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Creative Data",
+     "subcategory": "Strategic Data Integration",
+     "count": 1,
+     "entry_titles": [
+      "NETFLIX DATA"
      ]
     },
     {
      "level": "Bronze",
-     "category": "Media",
-     "subcategory": "Public Health & Safety & Public Awareness Messages",
+     "category": "Creative Data",
+     "subcategory": "Creative Data Collection & Research",
      "count": 1,
      "entry_titles": [
-      "BACK OFF RADIO"
+      "NETFLIX DATA"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銀獅 Media Silver Lion、媒體類銅獅 Media Bronze Lion｜代理商：GEOMETRY GLOBAL Dubai / MEMAC OGILVY Dubai"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意數據類銀獅 Creative Data Silver Lion、創意數據類銅獅 Creative Data Bronze Lion｜代理商：OGILVY PARIS"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/244d78e6b63b4edfcbcd2d36f398261a"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/26f78d381d98448fb62f5e099a04bcd8"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/back-off-radio-108088",
-   "https://www.lovethework.com/en/work/entries/back-off-radio-107559"
+   "https://www.lovethework.com/en/work/entries/netflix-data-97833",
+   "https://www.lovethework.com/en/work/entries/netflix-data-97850"
   ]
  },
  {
@@ -359,31 +322,79 @@
   ]
  },
  {
-  "id": "ltwm-07515",
+  "id": "ltwm-07588",
   "year": 2015,
   "tier": "SILVER",
   "categories": [],
-  "title": "MORNING LIKE A KING",
-  "brand": "BURGER KING",
-  "agency": "CHEIL WORLDWIDE SEOUL",
-  "raw": "MORNING LIKE A KING – BURGER KING (CHEIL WORLDWIDE SEOUL)",
+  "title": "CHRISTMAS CAROLS",
+  "brand": "NETFLIX",
+  "agency": "OGILVY PARIS",
+  "raw": "CHRISTMAS CAROLS – NETFLIX (OGILVY PARIS)",
   "links": [
-   "https://www2.spikes.asia/winners/2015/media/entry.cfm?entryid=30&award=2"
+   "https://vimeo.com/127057959"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Silver",
-    "category": "Media",
-    "subcategory": "Retail, E-Commerce & Restaurants",
+    "category": "Radio",
+    "subcategory": "Publications & Media",
     "count": 1,
-    "source_count": 1
-   },
+    "source_count": 3
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "NETFLIX",
+   "product": null,
+   "agencies": [
+    "OGILVY PARIS"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Radio",
+     "subcategory": "Publications & Media",
+     "count": 1,
+     "entry_titles": [
+      "CHRISTMAS CAROLS - THE BIG BANG THEORY",
+      "CHRISTMAS CAROLS - KILL BILL",
+      "CHRISTMAS CAROLS - SUITS"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Radio類銀獅 Radio Silver Lion｜代理商：OGILVY PARIS"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/053b2b590bc444cdc59576944a200b5d"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/christmas-carols-suits-113322",
+   "https://www.lovethework.com/en/work/entries/christmas-carols-kill-bill-113348",
+   "https://www.lovethework.com/en/work/entries/christmas-carols-the-big-bang-theory-113375"
+  ]
+ },
+ {
+  "id": "ltwm-07428",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "JEFF BRIDGES SLEEPING TAPES",
+  "brand": "SQUARESPACE",
+  "agency": "WIEDEN+KENNEDY NEW YORK",
+  "raw": "JEFF BRIDGES SLEEPING TAPES – SQUARESPACE (WIEDEN+KENNEDY NEW YORK)",
+  "links": [
+   "https://www.dandad.org/awards/professional/2015/digital-marketing/24271/jeff-bridges-sleeping-tapes/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
    {
     "level": "Silver",
-    "category": "Media",
-    "subcategory": "Use of Ambient Media: Small Scale",
+    "category": "Cyber",
+    "subcategory": "Storytelling",
     "count": 1,
     "source_count": 1
    }
@@ -391,60 +402,50 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "BURGER KING",
-   "product": "BURGER KING",
+   "brand": "SQUARESPACE",
+   "product": null,
    "agencies": [
-    "CHEIL WORLDWIDE Seoul"
+    "WIEDEN+KENNEDY New York"
    ],
    "awards": [
     {
      "level": "Silver",
-     "category": "Media",
-     "subcategory": "Retail, E-Commerce & Restaurants",
+     "category": "Cyber",
+     "subcategory": "Storytelling",
      "count": 1,
      "entry_titles": [
-      "MORNING LIKE A KING"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Media",
-     "subcategory": "Use of Ambient Media: Small Scale",
-     "count": 1,
-     "entry_titles": [
-      "MORNING LIKE A KING"
+      "JEFF BRIDGES SLEEPING TAPES"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銀獅 Media Silver Lion×2｜代理商：CHEIL WORLDWIDE Seoul"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion｜代理商：WIEDEN+KENNEDY New York"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/4cee5e63bdbe421ca34f297314f25e53"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/3efbe801ad6948e6bc4d35baa21ae679"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/morning-like-a-king-108562",
-   "https://www.lovethework.com/en/work/entries/morning-like-a-king-107986"
+   "https://www.lovethework.com/en/work/entries/jeff-bridges-sleeping-tapes-110677"
   ]
  },
  {
-  "id": "ltwm-07516",
+  "id": "ltwm-07895",
   "year": 2015,
-  "tier": "SILVER",
+  "tier": "BRONZE",
   "categories": [],
-  "title": "WAVE",
-  "brand": "DECATHLON",
-  "agency": "ROSAPARK PARIS",
-  "raw": "WAVE – DECATHLON (ROSAPARK PARIS)",
+  "title": "THE WORST GIFTER",
+  "brand": "NETFLIX",
+  "agency": "CIRCUS MEXICO CITY",
+  "raw": "THE WORST GIFTER – NETFLIX (CIRCUS MEXICO CITY)",
   "links": [
-   "https://www2.eurobest.com/winners/2015/media/entry.cfm?entryid=1037&award=99&keywords=&order=10&direction=1"
+   "https://vimeo.com/114597514"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Silver",
-    "category": "Media",
-    "subcategory": "Use of Ambient Media: Small Scale",
+    "level": "Bronze",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Social Audience in a Promotional Campaign",
     "count": 1,
     "source_count": 1
    }
@@ -452,64 +453,105 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "DECATHLON",
-   "product": "TRIBORD IZEBER FLOTATION VESTS",
+   "brand": "NETFLIX",
+   "product": "NETFLIX",
    "agencies": [
-    "ROSAPARK Paris"
+    "CIRCUS Mexico City"
    ],
    "awards": [
     {
-     "level": "Silver",
-     "category": "Media",
-     "subcategory": "Use of Ambient Media: Small Scale",
+     "level": "Bronze",
+     "category": "Promo & Activation",
+     "subcategory": "Use of Social Audience in a Promotional Campaign",
      "count": 1,
      "entry_titles": [
-      "WAVE"
+      "SOCIAL TRAILERS"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銀獅 Media Silver Lion｜代理商：ROSAPARK Paris"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：CIRCUS Mexico City"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/919287a55ae745f5f065ed00d9143e14"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/3f5891e744b048fba6a5881f3cb1c6cc"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/wave-106149"
+   "https://www.lovethework.com/en/work/entries/social-trailers-104763"
   ]
  },
  {
-  "id": "ltwm-07517",
+  "id": "ltwm-07796",
   "year": 2015,
-  "tier": "SILVER",
+  "tier": "BRONZE",
   "categories": [],
-  "title": "TICKET BOOKS",
-  "brand": "L&PM",
-  "agency": "AFRICA SÃO PAULO",
-  "raw": "TICKET BOOKS – L&PM (AFRICA SÃO PAULO)",
+  "title": "GET IT TO GET IT",
+  "brand": "NETFLIX",
+  "agency": "DDB VANCOUVER",
+  "raw": "GET IT TO GET IT – NETFLIX (DDB VANCOUVER)",
   "links": [
-   "https://creativepool.com/agenciaafrica/projects/ticket-books-for-lpm"
+   "https://geoffvreeken.carbonmade.com/projects/5271430"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Silver",
-    "category": "Outdoor",
-    "subcategory": "Small Scale Special Solutions",
+    "level": "Bronze",
+    "category": "Press",
+    "subcategory": "Publications & Media",
     "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Media",
-    "subcategory": "Use of Ambient Media: Small Scale",
-    "count": 1,
-    "source_count": 1
-   },
+    "source_count": 3
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "NETFLIX",
+   "product": "ENTERTAINMENT",
+   "agencies": [
+    "DDB CANADA Vancouver"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Press",
+     "subcategory": "Publications & Media",
+     "count": 1,
+     "entry_titles": [
+      "LIFE OF PI",
+      "FARGO",
+      "GHOSTBUSTERS"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銅獅 Press Bronze Lion｜代理商：DDB CANADA Vancouver"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/980e6e41dd204b2bbf1bd9aebba4711a"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/ghostbusters-134227",
+   "https://www.lovethework.com/en/work/entries/fargo-134278",
+   "https://www.lovethework.com/en/work/entries/life-of-pi-134291"
+  ]
+ },
+ {
+  "id": "ltwm-07666",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "MARCO POLO TITLE SEQUENCE",
+  "brand": "NETFLIX/WEINSTEIN GROUP",
+  "agency": "MILL+ NEW YORK",
+  "raw": "MARCO POLO TITLE SEQUENCE – NETFLIX/WEINSTEIN GROUP (MILL+ NEW YORK)",
+  "links": [
+   "https://vimeo.com/114319296"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
    {
     "level": "Bronze",
     "category": "Design",
-    "subcategory": "Promotional Item Design",
+    "subcategory": "Title Sequences",
     "count": 1,
     "source_count": 1
    }
@@ -517,100 +559,29 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "L&PM",
-   "product": "POCKET BOOKS",
+   "brand": "NETFLIX / WEINSTEIN GROUP",
+   "product": null,
    "agencies": [
-    "AFRICA São Paulo"
+    "MILL+ New York"
    ],
    "awards": [
-    {
-     "level": "Silver",
-     "category": "Outdoor",
-     "subcategory": "Small Scale Special Solutions",
-     "count": 1,
-     "entry_titles": [
-      "TICKET BOOKS"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Media",
-     "subcategory": "Use of Ambient Media: Small Scale",
-     "count": 1,
-     "entry_titles": [
-      "TICKET BOOKS"
-     ]
-    },
     {
      "level": "Bronze",
      "category": "Design",
-     "subcategory": "Promotional Item Design",
+     "subcategory": "Title Sequences",
      "count": 1,
      "entry_titles": [
-      "TICKET BOOKS"
+      "MARCO POLO TITLE SEQUENCE"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銀獅 Media Silver Lion、戶外類銀獅 Outdoor Silver Lion、設計類銅獅 Design Bronze Lion｜代理商：AFRICA São Paulo"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銅獅 Design Bronze Lion｜代理商：MILL+ New York"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/b384ebfea69948c7f3761c41745c3298"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/340c6bf873154e52e9c174a5a29f9813"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/ticket-books-114708",
-   "https://www.lovethework.com/en/work/entries/ticket-books-106116",
-   "https://www.lovethework.com/en/work/entries/ticket-books-102564"
-  ]
- },
- {
-  "id": "ltwm-07518",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "SPEAK BEAUTIFUL",
-  "brand": "UNILEVER",
-  "agency": "MINDSHARE NEW YORK",
-  "raw": "SPEAK BEAUTIFUL – UNILEVER (MINDSHARE NEW YORK)",
-  "links": [
-   "https://adsspot.me/media/case-study/dove-speak-beautiful-90b8b39c9d88"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Media",
-    "subcategory": "Use of Social Platforms",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "UNILEVER",
-   "product": "DOVE",
-   "agencies": [
-    "MINDSHARE New York"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Media",
-     "subcategory": "Use of Social Platforms",
-     "count": 1,
-     "entry_titles": [
-      "SPEAK BEAUTIFUL"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銀獅 Media Silver Lion｜代理商：MINDSHARE New York"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/5575f6d4617f4e9ce9cfa0cc2444ca02"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/speak-beautiful-106817"
+   "https://www.lovethework.com/en/work/entries/marco-polo-title-sequence-104089"
   ]
  }
 ]

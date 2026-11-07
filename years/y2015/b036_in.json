@@ -1,23 +1,150 @@
 [
  {
-  "id": "ltwm-07622",
+  "id": "ltwm-07537",
   "year": 2015,
-  "tier": "BRONZE",
+  "tier": "SILVER",
   "categories": [],
-  "title": "HIDDEN SUGAR RECEIPT",
-  "brand": "COLGATE",
-  "agency": "RED FUSE HONG KONG",
-  "raw": "HIDDEN SUGAR RECEIPT – COLGATE (RED FUSE HONG KONG)",
+  "title": "BEACH, MOUNTAIN, WATERFALL",
+  "brand": "THAI AIRASIA",
+  "agency": "BBDO PROXIMITY BANGKOK",
+  "raw": "BEACH, MOUNTAIN, WATERFALL – THAI AIRASIA (BBDO PROXIMITY BANGKOK)",
   "links": [
-   "https://adsspot.me/media/case-study/colgate-hidden-sugar-receipt-6ea9abb4611b"
+   "https://ekarat.myportfolio.com/thai-airasia"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Bronze",
-    "category": "Creative Data",
-    "subcategory": "Creative Data Enhancement",
+    "level": "Silver",
+    "category": "Press",
+    "subcategory": "Travel, Transport & Tourism",
+    "count": 1,
+    "source_count": 3
+   },
+   {
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Travel, Transport & Tourism",
+    "count": 1,
+    "source_count": 2
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "THAI AIRASIA",
+   "product": "THAI AIR ASIA DOMESTIC CAMPAIGN",
+   "agencies": [
+    "BBDO PROXIMITY THAILAND Bangkok"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Press",
+     "subcategory": "Travel, Transport & Tourism",
+     "count": 1,
+     "entry_titles": [
+      "BEACH",
+      "MOUNTAIN",
+      "WATERFALL"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Outdoor",
+     "subcategory": "Travel, Transport & Tourism",
+     "count": 1,
+     "entry_titles": [
+      "BEACH",
+      "MOUNTAIN"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion、Press類銀獅 Press Silver Lion｜代理商：BBDO PROXIMITY THAILAND Bangkok"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/0c881a03aac14900c162028dab59dd8a"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/waterfall-118313",
+   "https://www.lovethework.com/en/work/entries/mountain-132250",
+   "https://www.lovethework.com/en/work/entries/mountain-118348"
+  ]
+ },
+ {
+  "id": "ltwm-07540",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "BOOKS SHAPE THE WORLD",
+  "brand": "NEW ZEALAND BOOK COUNCIL",
+  "agency": "COLENSO BBDO AUCKLAND",
+  "raw": "BOOKS SHAPE THE WORLD – NEW ZEALAND BOOK COUNCIL (COLENSO BBDO AUCKLAND)",
+  "links": [
+   "https://www.adsoftheworld.com/campaign/new-zealand-book-council-bbdo-06-2015"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Fundraising, Donations & Appeals, Charities, Non-Profit Organisations, Public Health & Safety, Public awareness messages",
+    "count": 1,
+    "source_count": 3
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "NEW ZEALAND BOOK COUNCIL",
+   "product": "NEW ZEALAND BOOK COUNCIL",
+   "agencies": [
+    "COLENSO BBDO Auckland"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Outdoor",
+     "subcategory": "Fundraising, Donations & Appeals, Charities, Non-Profit Organisations, Public Health & Safety, Public awareness messages",
+     "count": 1,
+     "entry_titles": [
+      "1984",
+      "ROMEO AND JULIET",
+      "THE BIBLE"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion｜代理商：COLENSO BBDO Auckland"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/0b28a0989e794c13968ea510d38cc214"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/the-bible-114192",
+   "https://www.lovethework.com/en/work/entries/romeo-and-juliet-114193",
+   "https://www.lovethework.com/en/work/entries/1984-114201"
+  ]
+ },
+ {
+  "id": "ltwm-07529",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "PHONE ADDRESS",
+  "brand": "BASE",
+  "agency": "DDB BRUSSELS",
+  "raw": "PHONE ADDRESS – BASE (DDB BRUSSELS)",
+  "links": [
+   "https://vimeo.com/148493617"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "",
     "count": 1,
     "source_count": 1
    }
@@ -25,50 +152,44 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "COLGATE PALMOLIVE",
-   "product": "SUGAR ACID NEUTRALIZER TOOTHPASTE",
+   "brand": "BASE",
+   "product": "MOBILE PROVIDER",
    "agencies": [
-    "RED FUSE COMMUNICATIONS Hong Kong / Y&R Hong Kong"
+    "DDB BRUSSELS"
    ],
    "awards": [
     {
-     "level": "Bronze",
-     "category": "Creative Data",
-     "subcategory": "Creative Data Enhancement",
+     "level": "Silver",
+     "category": "Mobile",
+     "subcategory": "",
      "count": 1,
      "entry_titles": [
-      "HIDDEN SUGAR RECEIPT"
+      "BASE PHONEADDRESS"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意數據類銅獅 Creative Data Bronze Lion｜代理商：RED FUSE COMMUNICATIONS Hong Kong / Y&R Hong Kong"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/9c0b482d8cce42399071f6ff0fee38ad"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/hidden-sugar-receipt-97625"
-  ]
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銀獅 Mobile Silver Lion｜代理商：DDB BRUSSELS"
+  }
  },
  {
-  "id": "ltwm-07623",
+  "id": "ltwm-07531",
   "year": 2015,
-  "tier": "BRONZE",
+  "tier": "SILVER",
   "categories": [],
-  "title": "YOUR YEAR",
-  "brand": "NIKE",
-  "agency": "AKQA PORTLAND",
-  "raw": "YOUR YEAR – NIKE (AKQA PORTLAND)",
+  "title": "PROJECT LEARNING CURVE",
+  "brand": "DOMTAR",
+  "agency": "ERIC MOWER + ASSOCIATES CHARLOTTE",
+  "raw": "PROJECT LEARNING CURVE – DOMTAR (ERIC MOWER + ASSOCIATES CHARLOTTE)",
   "links": [
-   "https://www.dandad.org/awards/professional/2015/crafts-for-advertising/24105/your-year/"
+   "https://clios.com/awards/winner/222"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Bronze",
-    "category": "Creative Data",
-    "subcategory": "Data Storytelling",
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "",
     "count": 1,
     "source_count": 1
    }
@@ -76,46 +197,187 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "NIKE",
-   "product": "NIKE+ APP",
+   "brand": "DOMTAR",
+   "product": "PAPER",
    "agencies": [
-    "AKQA London / AKQA Portland"
+    "ERIC MOWER + ASSOCIATES Charlotte"
    ],
    "awards": [
     {
-     "level": "Bronze",
-     "category": "Creative Data",
-     "subcategory": "Data Storytelling",
+     "level": "Silver",
+     "category": "Mobile",
+     "subcategory": "",
      "count": 1,
      "entry_titles": [
-      "YOUR YEAR. DIRECTED BY NIKE+."
+      "PROJECT LEARNING CURVE"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意數據類銅獅 Creative Data Bronze Lion｜代理商：AKQA London / AKQA Portland"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/2c26d3d4cc2848ce9b56f5fdf4735f8b"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/your-year-directed-by-nike-85758"
-  ]
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銀獅 Mobile Silver Lion｜代理商：ERIC MOWER + ASSOCIATES Charlotte"
+  }
  },
  {
-  "id": "ltwm-07624",
+  "id": "ltwm-07533",
   "year": 2015,
-  "tier": "BRONZE",
+  "tier": "SILVER",
   "categories": [],
-  "title": "THE ECONOMIST: SMART DATA IN REAL-TIME",
-  "brand": "THE ECONOMIST",
-  "agency": "UM LONDON",
-  "raw": "THE ECONOMIST: SMART DATA IN REAL-TIME – THE ECONOMIST (UM LONDON)",
+  "title": "LGBT AVATARS",
+  "brand": "PRAGUE PRIDE",
+  "agency": "GEOMETRY GLOBAL PRAGUE",
+  "raw": "LGBT AVATARS – PRAGUE PRIDE (GEOMETRY GLOBAL PRAGUE)",
   "links": [
-   "https://vimeo.com/139958634"
+   "https://clios.com/awards/winner/981"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Media",
+    "subcategory": "Use of Mobile Devices",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "PRAGUE PRIDE",
+   "product": "PRAGUE PRIDE",
+   "agencies": [
+    "GEOMETRY GLOBAL Prague / OGILVY & MATHER PRAGUE"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Media",
+     "subcategory": "Use of Mobile Devices",
+     "count": 1,
+     "entry_titles": [
+      "LGBT AVATARS"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Mobile",
+     "subcategory": "",
+     "count": 1,
+     "entry_titles": [
+      "LGBT AVATARS"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銀獅 Mobile Silver Lion、媒體類銅獅 Media Bronze Lion｜代理商：GEOMETRY GLOBAL Prague / OGILVY & MATHER PRAGUE"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/c383ef6dc4324f42d4a5a8203f3a10b4"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/lgbt-avatars-107222"
+  ]
+ },
+ {
+  "id": "ltwm-07538",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "GET THERE FASTER",
+  "brand": "BEIJING SUBWAY",
+  "agency": "GREY GROUP BEIJING",
+  "raw": "GET THERE FASTER – BEIJING SUBWAY (GREY GROUP BEIJING)",
+  "links": [
+   "https://campaignbriefasia.com/2015/04/28/beijing-subway-gets-you-there/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Travel, Transport & Tourism",
+    "count": 1,
+    "source_count": 3
+   },
+   {
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Travel, Transport & Tourism",
+    "count": 1,
+    "source_count": 3
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "BEIJING SUBWAY",
+   "product": "BEIJING SUBWAY",
+   "agencies": [
+    "GREY GROUP CHINA Beijing"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Outdoor",
+     "subcategory": "Travel, Transport & Tourism",
+     "count": 1,
+     "entry_titles": [
+      "FIREMEN",
+      "PARAMEDICS",
+      "PIZZA DELIVERYMEN"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Outdoor",
+     "subcategory": "Travel, Transport & Tourism",
+     "count": 1,
+     "entry_titles": [
+      "FIREMEN",
+      "PARAMEDICS",
+      "PIZZA DELIVERYMEN"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion×2｜代理商：GREY GROUP CHINA Beijing"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/3fcbbcdbb0e540e0a491b2b3e1cf6adf"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/pizza-deliverymen-131834",
+   "https://www.lovethework.com/en/work/entries/paramedics-131845",
+   "https://www.lovethework.com/en/work/entries/firemen-131896"
+  ]
+ },
+ {
+  "id": "ltwm-07534",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "THE LES PAUL SKILL CHECK",
+  "brand": "GIBSON GUITAR",
+  "agency": "SERVICEPLAN MUNICH",
+  "raw": "THE LES PAUL SKILL CHECK – GIBSON GUITAR (SERVICEPLAN MUNICH)",
+  "links": [
+   "https://clios.com/awards/winner/direct/gibson-guitar-gmbh/the-les-paul-skill-check-1128"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1,
+    "source_count": 1
+   },
    {
     "level": "Bronze",
     "category": "Creative Data",
@@ -127,50 +389,59 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "THE ECONOMIST",
-   "product": "PROSPECT DRIVE",
+   "brand": "GIBSON GUITAR",
+   "product": "EPIPHONE LES PAUL BJOERN GELOTTE SIGNATURE EDITION",
    "agencies": [
-    "UM London / PROXIMITY LONDON"
+    "SERVICEPLAN Munich"
    ],
    "awards": [
+    {
+     "level": "Silver",
+     "category": "Mobile",
+     "subcategory": "",
+     "count": 1,
+     "entry_titles": [
+      "THE LES PAUL SKILL CHECK"
+     ]
+    },
     {
      "level": "Bronze",
      "category": "Creative Data",
      "subcategory": "Use of Real-time Data",
      "count": 1,
      "entry_titles": [
-      "THE ECONOMIST: SMART DATA IN REAL-TIME"
+      "THE LES PAUL SKILL CHECK"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意數據類銅獅 Creative Data Bronze Lion｜代理商：UM London / PROXIMITY LONDON"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銀獅 Mobile Silver Lion、創意數據類銅獅 Creative Data Bronze Lion｜代理商：SERVICEPLAN Munich"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/0e3d43eb4b194c18abeb4f6ab6db64f5"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/28b675cb11824395941d39e7373e6a3a"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-economist-smart-data-in-real-time-120473"
+   "https://www.lovethework.com/en/work/entries/the-les-paul-skill-check-97684"
   ]
  },
  {
-  "id": "ltwm-07625",
+  "id": "ltwm-07532",
   "year": 2015,
-  "tier": "BRONZE",
+  "tier": "SILVER",
   "categories": [],
-  "title": "CHICAGO MARATHON MOVING WORDS",
-  "brand": "LIBERTY MUTUAL INSURANCE",
-  "agency": "HAVAS NEW YORK",
-  "raw": "CHICAGO MARATHON MOVING WORDS – LIBERTY MUTUAL INSURANCE (HAVAS NEW YORK)",
+  "title": "THE FUN QUEUE",
+  "brand": "LISEBERG",
+  "agency": "SHOUT GOTHENBURG",
+  "raw": "THE FUN QUEUE – LISEBERG (SHOUT GOTHENBURG)",
   "links": [
-   "https://www.youtube.com/watch?v=gmkzjUgsAAY"
+   "https://www2.eurobest.com/winners/2014/mobile/entry.cfm?entryid=3369&award=4"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Bronze",
-    "category": "Creative Data",
-    "subcategory": "Social Data",
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "",
     "count": 1,
     "source_count": 1
    }
@@ -178,50 +449,44 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "LIBERTY MUTUAL INSURANCE",
-   "product": "AUTO INSURANCE",
+   "brand": "LISEBERG",
+   "product": "ROLLER COASTER",
    "agencies": [
-    "HAVAS WORLDWIDE NEW YORK"
+    "SHOUT Gothenburg"
    ],
    "awards": [
     {
-     "level": "Bronze",
-     "category": "Creative Data",
-     "subcategory": "Social Data",
+     "level": "Silver",
+     "category": "Mobile",
+     "subcategory": "",
      "count": 1,
      "entry_titles": [
-      "CHICAGO MARATHON MOVING WORDS"
+      "THE FUN QUEUE"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意數據類銅獅 Creative Data Bronze Lion｜代理商：HAVAS WORLDWIDE NEW YORK"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/034d672be2384a6df4559f74c75c2511"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/chicago-marathon-moving-words-97692"
-  ]
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銀獅 Mobile Silver Lion｜代理商：SHOUT Gothenburg"
+  }
  },
  {
-  "id": "ltwm-07626",
+  "id": "ltwm-07535",
   "year": 2015,
-  "tier": "BRONZE",
+  "tier": "SILVER",
   "categories": [],
-  "title": "ONE MINUTE VACATION",
-  "brand": "TENNESSEE DEPARTMENT OF TOURIST DEVELOPMENT",
-  "agency": "VML KANSAS CITY",
-  "raw": "ONE MINUTE VACATION – TENNESSEE DEPARTMENT OF TOURIST DEVELOPMENT (VML KANSAS CITY)",
+  "title": "#SPRINGISWEIRD",
+  "brand": "GAP",
+  "agency": "WIEDEN+KENNEDY NEW YORK",
+  "raw": "#SPRINGISWEIRD – GAP (WIEDEN+KENNEDY NEW YORK)",
   "links": [
-   "https://www.youtube.com/watch?v=9ScyJZrYmJo"
+   "https://www.youtube.com/watch?v=iCZx6MHZ5bM"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Bronze",
-    "category": "Creative Data",
-    "subcategory": "Strategic Data Integration",
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "",
     "count": 1,
     "source_count": 1
    }
@@ -229,159 +494,58 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "TENNESSEE DEPARTMENT OF TOURIST DEVELOPMENT",
-   "product": "NON PROFIT ORGANIZATION",
+   "brand": "GAP",
+   "product": "GAP SPRING COLLECTION",
    "agencies": [
-    "VML Kansas City"
+    "WIEDEN+KENNEDY New York"
    ],
    "awards": [
     {
-     "level": "Bronze",
-     "category": "Creative Data",
-     "subcategory": "Strategic Data Integration",
+     "level": "Silver",
+     "category": "Mobile",
+     "subcategory": "",
      "count": 1,
      "entry_titles": [
-      "ONE MINUTE VACATION"
+      "#SPRINGISWEIRD"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意數據類銅獅 Creative Data Bronze Lion｜代理商：VML Kansas City"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/19a6a51af07c48b3eee2798a5c623759"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/one-minute-vacation-97847"
-  ]
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銀獅 Mobile Silver Lion｜代理商：WIEDEN+KENNEDY New York"
+  }
  },
  {
-  "id": "ltwm-07627",
+  "id": "ltwm-07536",
   "year": 2015,
-  "tier": "BRONZE",
+  "tier": "SILVER",
   "categories": [],
-  "title": "DILL",
-  "brand": "LIDL",
-  "agency": "INGO STOCKHOLM",
-  "raw": "DILL – LIDL (INGO STOCKHOLM)",
+  "title": "LITTLE GIRL",
+  "brand": "FREDDO",
+  "agency": "Y&R SÃO PAULO",
+  "raw": "LITTLE GIRL – FREDDO (Y&R SÃO PAULO)",
   "links": [
-   "https://vimeo.com/119228328"
+   "https://www.luerzersarchive.com/en/magazine/print-detail/freddo-59321.html"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Bronze",
-    "category": "Creative Effectiveness",
-    "subcategory": "Creative Effectiveness",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "LIDL",
-   "product": "LIDL",
-   "agencies": [
-    "INGO Stockholm"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Creative Effectiveness",
-     "subcategory": "Creative Effectiveness",
-     "count": 1,
-     "entry_titles": [
-      "DILL"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意實效類銅獅 Creative Effectiveness Bronze Lion｜代理商：INGO Stockholm"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/a9b6e72bffcc49ea859b5ff2218c8afb/storyboard_000002.jpg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/dill-122606"
-  ]
- },
- {
-  "id": "ltwm-07628",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "BENTLEY BURIAL",
-  "brand": "BRAZILIAN ASSOCIATION OF ORGAN TRANSPLANTATION",
-  "agency": "LEO BURNETT TAILOR MADE SÃO PAULO",
-  "raw": "BENTLEY BURIAL – BRAZILIAN ASSOCIATION OF ORGAN TRANSPLANTATION (LEO BURNETT TAILOR MADE SÃO PAULO)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2014/integrated-earned-media/23065/bentley-burial/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Creative Effectiveness",
-    "subcategory": "Creative Effectiveness",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "ABTO (BRAZILIAN ASSOCIATION OF ORGAN TRANSPLANTATION)",
-   "product": "INSTITUTIONAL",
-   "agencies": [
-    "LEO BURNETT TAILOR MADE São Paulo"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Creative Effectiveness",
-     "subcategory": "Creative Effectiveness",
-     "count": 1,
-     "entry_titles": [
-      "BENTLEY BURIAL"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意實效類銅獅 Creative Effectiveness Bronze Lion｜代理商：LEO BURNETT TAILOR MADE São Paulo"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/25c36aa015f84b788744f2879a51f971/storyboard_000002.jpg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/bentley-burial-122587"
-  ]
- },
- {
-  "id": "ltwm-07629",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "2014 TACO BELL BREAKFAST LAUNCH (RONALD MCDONALD LAUNCH)",
-  "brand": "TACO BELL",
-  "agency": "DEUTSCH LOS ANGELES",
-  "raw": "2014 TACO BELL BREAKFAST LAUNCH (RONALD MCDONALD LAUNCH) – TACO BELL (DEUTSCH LOS ANGELES)",
-  "links": [
-   "https://clios.com/awards/winner/public-relations/2014-taco-bell-breakfast-launch-ronald-mcdonald-la-3253"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Film",
-    "subcategory": "Restaurants & Fast Food Outlets",
+    "level": "Silver",
+    "category": "Press",
+    "subcategory": "Sweet Foods & Snacks",
     "count": 1,
     "source_count": 1
    },
    {
-    "level": "Bronze",
-    "category": "Creative Effectiveness",
-    "subcategory": "Creative Effectiveness",
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Foods",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Foods",
     "count": 1,
     "source_count": 1
    }
@@ -389,141 +553,49 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "TACO BELL",
-   "product": "BREAKFAST",
+   "brand": "FREDDO",
+   "product": "ICE CREAM",
    "agencies": [
-    "DEUTSCH LA"
+    "Y&R SÃO PAULO"
    ],
    "awards": [
     {
-     "level": "Bronze",
-     "category": "Film",
-     "subcategory": "Restaurants & Fast Food Outlets",
+     "level": "Silver",
+     "category": "Press",
+     "subcategory": "Sweet Foods & Snacks",
      "count": 1,
      "entry_titles": [
-      "ROUTINE REPUBLIC"
+      "LITTLE GIRL"
      ]
     },
     {
-     "level": "Bronze",
-     "category": "Creative Effectiveness",
-     "subcategory": "Creative Effectiveness",
+     "level": "Silver",
+     "category": "Outdoor",
+     "subcategory": "Foods",
      "count": 1,
      "entry_titles": [
-      "2014 TACO BELL BREAKFAST LAUNCH (RONALD McDONALD LAUNCH)"
+      "LITTLE GIRL"
      ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意實效類銅獅 Creative Effectiveness Bronze Lion、影片類銅獅 Film Bronze Lion｜代理商：DEUTSCH LA"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/42fe732827f04fb9b6314b3c1d5124df/storyboard_000002.jpg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/2014-taco-bell-breakfast-launch-ronald-mcdonald-launch-122569",
-   "https://www.lovethework.com/en/work/entries/routine-republic-120052"
-  ]
- },
- {
-  "id": "ltwm-07630",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "THE LAUNCH OF GREATNESS AWAITS",
-  "brand": "PLAYSTATION 3",
-  "agency": "BBH NEW YORK",
-  "raw": "THE LAUNCH OF GREATNESS AWAITS – PLAYSTATION 3 (BBH NEW YORK)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2014/integrated-earned-media/23037/the-launch-of-greatness-awaits/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Creative Effectiveness",
-    "subcategory": "Creative Effectiveness",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "PLAYSTATION",
-   "product": "GAMES CONSOLE",
-   "agencies": [
-    "BBH NEW YORK"
-   ],
-   "awards": [
+    },
     {
-     "level": "Bronze",
-     "category": "Creative Effectiveness",
-     "subcategory": "Creative Effectiveness",
+     "level": "Silver",
+     "category": "Outdoor",
+     "subcategory": "Foods",
      "count": 1,
      "entry_titles": [
-      "THE LAUNCH OF PS4"
+      "LITTLE GIRL"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意實效類銅獅 Creative Effectiveness Bronze Lion｜代理商：BBH NEW YORK"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion×2、Press類銀獅 Press Silver Lion｜代理商：Y&R SÃO PAULO"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/42c15703972a461281b74e70aec4e5d0/storyboard_000002.jpg"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/a6449d8070d64acd8d1651899085aa4c"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-launch-of-ps4-122562"
-  ]
- },
- {
-  "id": "ltwm-07631",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "OFFROAD",
-  "brand": "DAIMLER AG/SMART",
-  "agency": "BBDO BERLIN",
-  "raw": "OFFROAD – DAIMLER AG/SMART (BBDO BERLIN)",
-  "links": [
-   "https://danielschweinzer.de/smart-offraod-tvc"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Creative Effectiveness",
-    "subcategory": "Creative Effectiveness",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "DAIMLER AG / SMART",
-   "product": "SMART FORTWO",
-   "agencies": [
-    "BBDO GROUP GERMANY Berlin"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Creative Effectiveness",
-     "subcategory": "Creative Effectiveness",
-     "count": 1,
-     "entry_titles": [
-      "OFFROAD"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意實效類銅獅 Creative Effectiveness Bronze Lion｜代理商：BBDO GROUP GERMANY Berlin"
-  },
-  "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/3duqCqeHDt9hMAdtuQjc3V/3f6a8c56aeb415ac19cd5dd916fa6976/LTW_placeholder_1.svg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/offroad-122553"
+   "https://www.lovethework.com/en/work/entries/little-girl-134014",
+   "https://www.lovethework.com/en/work/entries/little-girl-132908",
+   "https://www.lovethework.com/en/work/entries/little-girl-132324"
   ]
  }
 ]

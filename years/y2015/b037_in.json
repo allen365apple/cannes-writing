@@ -1,23 +1,187 @@
 [
  {
-  "id": "ltwm-07632",
+  "id": "ltwm-07546",
   "year": 2015,
-  "tier": "BRONZE",
+  "tier": "SILVER",
   "categories": [],
-  "title": "GHITA, THE SOCIAL SHEPHERD",
-  "brand": "VODAFONE",
-  "agency": "MCCANN ERICKSON BUCHAREST",
-  "raw": "GHITA, THE SOCIAL SHEPHERD – VODAFONE (MCCANN ERICKSON BUCHAREST)",
+  "title": "BEST GET THERE EARLY",
+  "brand": "HARVEY NICHOLS",
+  "agency": "ADAM&EVEDDB LONDON",
+  "raw": "BEST GET THERE EARLY – HARVEY NICHOLS (ADAM&EVEDDB LONDON)",
   "links": [
-   "https://www.youtube.com/watch?v=EkMSRjeo9I8"
+   "https://www.danielfisher.co/hn-sale"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
+    "level": "Silver",
+    "category": "Press",
+    "subcategory": "Retail Stores",
+    "count": 1,
+    "source_count": 3
+   },
+   {
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Retail Stores, Restaurants & Fast Food Outlets",
+    "count": 1,
+    "source_count": 3
+   },
+   {
     "level": "Bronze",
-    "category": "Creative Effectiveness",
-    "subcategory": "Creative Effectiveness",
+    "category": "Outdoor",
+    "subcategory": "Retail Stores, Restaurants & Fast Food Outlets",
+    "count": 1,
+    "source_count": 3
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "HARVEY NICHOLS",
+   "product": "SPRING/SUMMER SALE 14",
+   "agencies": [
+    "ADAM&EVEDDB London"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Press",
+     "subcategory": "Retail Stores",
+     "count": 1,
+     "entry_titles": [
+      "SHOE",
+      "SHIRT",
+      "BIKINI"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Outdoor",
+     "subcategory": "Retail Stores, Restaurants & Fast Food Outlets",
+     "count": 1,
+     "entry_titles": [
+      "SHOE",
+      "SHIRT",
+      "BIKINI"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Outdoor",
+     "subcategory": "Retail Stores, Restaurants & Fast Food Outlets",
+     "count": 1,
+     "entry_titles": [
+      "SHOE",
+      "SHIRT",
+      "BIKINI"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion、Press類銀獅 Press Silver Lion、戶外類銅獅 Outdoor Bronze Lion｜代理商：ADAM&EVEDDB London"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/3c43ff8f88264923b1bf85cbac69a1a0"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/bikini-134090",
+   "https://www.lovethework.com/en/work/entries/shirt-134109",
+   "https://www.lovethework.com/en/work/entries/shoe-134148"
+  ]
+ },
+ {
+  "id": "ltwm-07563",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "COULD I BE ANY CLEARER?",
+  "brand": "HARVEY NICHOLS",
+  "agency": "ADAM&EVEDDB LONDON",
+  "raw": "COULD I BE ANY CLEARER? – HARVEY NICHOLS (ADAM&EVEDDB LONDON)",
+  "links": [
+   "https://www.dandad.org/awards/professional/2015/writing-for-design/24035/could-i-be-any-clearer/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Press",
+    "subcategory": "Retail Stores",
+    "count": 1,
+    "source_count": 3
+   },
+   {
+    "level": "Silver",
+    "category": "Press",
+    "subcategory": "Copywriting",
+    "count": 1,
+    "source_count": 3
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "HARVEY NICHOLS",
+   "product": "CHRISTMAS",
+   "agencies": [
+    "ADAM&EVEDDB London"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Press",
+     "subcategory": "Retail Stores",
+     "count": 1,
+     "entry_titles": [
+      "TIDINGS OF JOY",
+      "CHRISTMAS TIME",
+      "GOOD WILL TO ALL MEN"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Press",
+     "subcategory": "Copywriting",
+     "count": 1,
+     "entry_titles": [
+      "TIDINGS OF JOY",
+      "CHRISTMAS TIME",
+      "GOOD WILL TO ALL MEN"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銀獅 Press Silver Lion×2｜代理商：ADAM&EVEDDB London"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/e4449275a0894a328c8cfd24577c2b9f"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/good-will-to-all-men-133867",
+   "https://www.lovethework.com/en/work/entries/christmas-time-133895",
+   "https://www.lovethework.com/en/work/entries/tidings-of-joy-133916"
+  ]
+ },
+ {
+  "id": "ltwm-07541",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "SPONGE CHILDREN KITCHEN",
+  "brand": "SAVE THE CHILDREN",
+  "agency": "EL TAIER/TRIBU DDB GUATEMALA CITY",
+  "raw": "SPONGE CHILDREN KITCHEN – SAVE THE CHILDREN (EL TAIER/TRIBU DDB GUATEMALA CITY)",
+  "links": [
+   "https://adsspot.me/media/prints/save-the-children-sponge-children-kitchen-c14c80aba5f8"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Fundraising, Donations & Appeals, Charities, Non-Profit Organisations, Public Health & Safety, Public awareness messages",
     "count": 1,
     "source_count": 1
    }
@@ -25,50 +189,107 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "VODAFONE",
-   "product": "VODAFONE",
+   "brand": "SAVE THE CHILDREN",
+   "product": "SOCIAL AWARENESS",
    "agencies": [
-    "McCANN ERICKSON ROMANIA Bucharest"
+    "EL TAIER / TRIBU DDB Guatemala City"
    ],
    "awards": [
     {
-     "level": "Bronze",
-     "category": "Creative Effectiveness",
-     "subcategory": "Creative Effectiveness",
+     "level": "Silver",
+     "category": "Outdoor",
+     "subcategory": "Fundraising, Donations & Appeals, Charities, Non-Profit Organisations, Public Health & Safety, Public awareness messages",
      "count": 1,
      "entry_titles": [
-      "GHITA, THE SOCIAL SHEPHERD"
+      "SPONGE CHILDREN KITCHEN"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意實效類銅獅 Creative Effectiveness Bronze Lion｜代理商：McCANN ERICKSON ROMANIA Bucharest"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion｜代理商：EL TAIER / TRIBU DDB Guatemala City"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/348c534a467345f28aca55e587c5aed1/storyboard_000002.jpg"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/b83d33b5d0474cf2b1112ad53dbbd678"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/ghita-the-social-shepherd-122548"
+   "https://www.lovethework.com/en/work/entries/sponge-children-kitchen-114096"
   ]
  },
  {
-  "id": "ltwm-07633",
+  "id": "ltwm-07547",
   "year": 2015,
-  "tier": "BRONZE",
+  "tier": "SILVER",
   "categories": [],
-  "title": "KAN KHAJURA TESAN STATION",
-  "brand": "UNILEVER INDIA",
-  "agency": "LOWE AND PARTNERS WORLDWIDE LONDON",
-  "raw": "KAN KHAJURA TESAN STATION – UNILEVER INDIA (LOWE AND PARTNERS WORLDWIDE LONDON)",
+  "title": "POCKET BOOKS",
+  "brand": "SARAIVA",
+  "agency": "F.BIZ SÃO PAULO",
+  "raw": "POCKET BOOKS – SARAIVA (F.BIZ SÃO PAULO)",
   "links": [
-   "https://www.youtube.com/watch?v=QAZ6tN5nyWc"
+   "https://www.behance.net/gallery/28515805/Pocket-Books-Saraiva"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Bronze",
-    "category": "Creative Effectiveness",
-    "subcategory": "Creative Effectiveness",
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Publications & Media",
+    "count": 1,
+    "source_count": 5
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "SARAIVA",
+   "product": "BOOKS",
+   "agencies": [
+    "F.BIZ São Paulo"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Outdoor",
+     "subcategory": "Publications & Media",
+     "count": 1,
+     "entry_titles": [
+      "TWENTY THOUSAND LEAGUES UNDER THE SEA",
+      "METAMORPHOSIS",
+      "TREASURE ISLAND",
+      "THE LITTLE PRINCE",
+      "WAR AND PEACE"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion｜代理商：F.BIZ São Paulo"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/1e368ac55dc349bebaeb1f467370874f"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/war-and-peace-114897",
+   "https://www.lovethework.com/en/work/entries/the-little-prince-114928",
+   "https://www.lovethework.com/en/work/entries/treasure-island-114929"
+  ]
+ },
+ {
+  "id": "ltwm-07544",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "FLOWER DOG",
+  "brand": "RECKITT BENCKISER",
+  "agency": "HAVAS VALE MEXICO",
+  "raw": "FLOWER DOG – RECKITT BENCKISER (HAVAS VALE MEXICO)",
+  "links": [
+   "https://www.adsoftheworld.com/media/print/airwick_flower_dog"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Household",
     "count": 1,
     "source_count": 1
    }
@@ -76,441 +297,265 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "UNILEVER INDIA",
-   "product": "UNILEVER",
+   "brand": "RECKITT BENCKISER",
+   "product": "AIRWICK",
    "agencies": [
-    "LOWE AND PARTNERS WORLDWIDE London"
+    "HAVAS WORLDWIDE VALE Mexico"
    ],
    "awards": [
     {
-     "level": "Bronze",
-     "category": "Creative Effectiveness",
-     "subcategory": "Creative Effectiveness",
+     "level": "Silver",
+     "category": "Outdoor",
+     "subcategory": "Household",
      "count": 1,
      "entry_titles": [
-      "KAN KHAJURA TESAN STATION"
+      "FLOWER DOG"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意實效類銅獅 Creative Effectiveness Bronze Lion｜代理商：LOWE AND PARTNERS WORLDWIDE London"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion｜代理商：HAVAS WORLDWIDE VALE Mexico"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/1bcf19bb194b4fb383471ac6f65840b6/storyboard_000002.jpg"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/b0f3538a678d4ecaeca50ee5c7d97e53"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/kan-khajura-tesan-station-122544"
+   "https://www.lovethework.com/en/work/entries/flower-dog-132964"
   ]
  },
  {
-  "id": "ltwm-07634",
+  "id": "ltwm-07543",
   "year": 2015,
-  "tier": "BRONZE",
+  "tier": "SILVER",
   "categories": [],
-  "title": "THE AUTOCOMPLETE TRUTH",
-  "brand": "UN WOMEN",
-  "agency": "MEMAC OGILVY DUBAI",
-  "raw": "THE AUTOCOMPLETE TRUTH – UN WOMEN (MEMAC OGILVY DUBAI)",
+  "title": "YOU TRY YOU GET ONE",
+  "brand": "DOS EN UNO",
+  "agency": "PROLAM Y&R SANTIAGO",
+  "raw": "YOU TRY YOU GET ONE – DOS EN UNO (PROLAM Y&R SANTIAGO)",
   "links": [
-   "https://www.youtube.com/watch?v=IkNlGuW-0g8"
+   "https://www.behance.net/gallery/26155785/Dos-en-Uno-Lollipop"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Creative Effectiveness",
-    "subcategory": "Creative Effectiveness",
+    "category": "Press",
+    "subcategory": "Sweet Foods & Snacks",
     "count": 1,
     "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Foods",
+    "count": 1,
+    "source_count": 3
    }
   ],
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "UN WOMEN",
-   "product": "GENDER EQUALITY",
+   "brand": "DOS EN UNO",
+   "product": "LOLLIPOP",
    "agencies": [
-    "MEMAC OGILVY Dubai"
+    "PROLAM Y&R Santiago"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Creative Effectiveness",
-     "subcategory": "Creative Effectiveness",
+     "category": "Press",
+     "subcategory": "Sweet Foods & Snacks",
      "count": 1,
      "entry_titles": [
-      "THE AUTOCOMPLETE TRUTH"
+      "PARROT"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Outdoor",
+     "subcategory": "Foods",
+     "count": 1,
+     "entry_titles": [
+      "PARROT",
+      "RAKE",
+      "BEES"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意實效類銅獅 Creative Effectiveness Bronze Lion｜代理商：MEMAC OGILVY Dubai"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion、Press類銅獅 Press Bronze Lion｜代理商：PROLAM Y&R Santiago"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/044a24c92bc3499c9d8b71d0f4da6594/storyboard_000002.jpg"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/39c230d6f47e4653af43c2459d8e76d4"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-autocomplete-truth-122524"
+   "https://www.lovethework.com/en/work/entries/parrot-118693",
+   "https://www.lovethework.com/en/work/entries/bees-115621",
+   "https://www.lovethework.com/en/work/entries/rake-115642"
   ]
  },
  {
-  "id": "ltwm-07635",
+  "id": "ltwm-07539",
   "year": 2015,
-  "tier": "BRONZE",
+  "tier": "SILVER",
   "categories": [],
-  "title": "WHY WAIT UNTIL IT’S TOO LATE?",
-  "brand": "FUNERAL INSURANCE COMPANY DELA",
-  "agency": "OGILVY & MATHER AMSTERDAM",
-  "raw": "WHY WAIT UNTIL IT’S TOO LATE? – FUNERAL INSURANCE COMPANY DELA (OGILVY & MATHER AMSTERDAM)",
+  "title": "SINKBOY",
+  "brand": "COLGATE-PALMOLIVE",
+  "agency": "Y&R NEW YORK/RED FUSE",
+  "raw": "SINKBOY – COLGATE-PALMOLIVE (Y&R NEW YORK/RED FUSE)",
   "links": [
-   "https://www.youtube.com/watch?v=bBfM2cMKsSg"
+   "https://www.adsoftheworld.com/media/outdoor/colgate_sinkboy"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Bronze",
-    "category": "Creative Effectiveness",
-    "subcategory": "Creative Effectiveness",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "FUNERAL INSURANCE COMPANY DELA",
-   "product": "BRAND",
-   "agencies": [
-    "OGILVY & MATHER AMSTERDAM"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Creative Effectiveness",
-     "subcategory": "Creative Effectiveness",
-     "count": 1,
-     "entry_titles": [
-      "WHY WAIT UNTIL IT'S TOO LATE?"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意實效類銅獅 Creative Effectiveness Bronze Lion｜代理商：OGILVY & MATHER AMSTERDAM"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/9694691bd212493e8651dc116009b88f"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/why-wait-until-its-too-late-99773"
-  ]
- },
- {
-  "id": "ltwm-07636",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "IMAGINATION MACHINE",
-  "brand": "S7 AIRLINES",
-  "agency": "WIEDEN+KENNEDY AMSTERDAM",
-  "raw": "IMAGINATION MACHINE – S7 AIRLINES (WIEDEN+KENNEDY AMSTERDAM)",
-  "links": [
-   "https://clios.com/awards/winner/engagement-experiential/s7-airlines/imagination-machine-942"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Interface & Navigation",
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Corporate Image & Communication",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Live Digital",
+    "category": "Outdoor",
+    "subcategory": "Corporate Image & Communication",
     "count": 1,
-    "source_count": 1
+    "source_count": 2
    }
   ],
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "S7 AIRLINES",
-   "product": null,
+   "brand": "COLGATE - PALMOLIVE",
+   "product": "COLGATE",
    "agencies": [
-    "WIEDEN+KENNEDY AMSTERDAM"
+    "RED FUSE COMMUNICATIONS New York / Y&R NEW YORK"
    ],
    "awards": [
     {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Interface & Navigation",
+     "level": "Silver",
+     "category": "Outdoor",
+     "subcategory": "Corporate Image & Communication",
      "count": 1,
      "entry_titles": [
-      "IMAGINATION MACHINE"
+      "SINKBOY"
      ]
     },
     {
      "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Live Digital",
+     "category": "Outdoor",
+     "subcategory": "Corporate Image & Communication",
      "count": 1,
      "entry_titles": [
-      "IMAGINATION MACHINE"
+      "SINKGIRL",
+      "SINKBOY"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion×2｜代理商：WIEDEN+KENNEDY AMSTERDAM"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion、戶外類銅獅 Outdoor Bronze Lion｜代理商：RED FUSE COMMUNICATIONS New York / Y&R NEW YORK"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/7737005fa8714818a8a1cfb528fe0682"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/ab8542f474b74ae4a89de85d2ff60ff3"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/imagination-machine-112138",
-   "https://www.lovethework.com/en/work/entries/imagination-machine-111881"
+   "https://www.lovethework.com/en/work/entries/sinkboy-115923",
+   "https://www.lovethework.com/en/work/entries/sinkboy-115880",
+   "https://www.lovethework.com/en/work/entries/sinkgirl-115926"
   ]
  },
  {
-  "id": "ltwm-07637",
+  "id": "ltwm-07545",
   "year": 2015,
-  "tier": "BRONZE",
+  "tier": "SILVER",
   "categories": [],
-  "title": "FENCING VISUALIZED",
-  "brand": "SPORTS BIZ CO.",
-  "agency": "DENTSU INC. TOKYO",
-  "raw": "FENCING VISUALIZED – SPORTS BIZ CO. (DENTSU INC. TOKYO)",
+  "title": "COUPLES",
+  "brand": "SUPER GLUE",
+  "agency": "Y&R SÃO PAULO",
+  "raw": "COUPLES – SUPER GLUE (Y&R SÃO PAULO)",
   "links": [
-   "https://www.dandad.org/awards/professional/2015/digital-design/24339/fencing-visualised/"
+   "http://www.rdolla.net/tekbond-couples"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Animation/Motion Graphics",
+    "category": "Press",
+    "subcategory": "Household: Other",
     "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "SPORTS BIZ CO.",
-   "product": null,
-   "agencies": [
-    "DENTSU INC. Tokyo / RHIZOMATIKS Tokyo"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Animation/Motion Graphics",
-     "count": 1,
-     "entry_titles": [
-      "FENCING VISUALIZED"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：DENTSU INC. Tokyo / RHIZOMATIKS Tokyo"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/436b2bdc733b412aaa2676a4ec029163"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/fencing-visualized-130500"
-  ]
- },
- {
-  "id": "ltwm-07638",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "SAMSUNG HOLIDAY DREAMS",
-  "brand": "SAMSUNG",
-  "agency": "R/GA NEW YORK",
-  "raw": "SAMSUNG HOLIDAY DREAMS – SAMSUNG (R/GA NEW YORK)",
-  "links": [
-   "https://www.rga.com/work/case-studies/holiday-dreams"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Animation/Motion Graphics",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "SAMSUNG TELECOMMUNICATIONS AMERICA",
-   "product": null,
-   "agencies": [
-    "R/GA New York"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Animation/Motion Graphics",
-     "count": 1,
-     "entry_titles": [
-      "SAMSUNG HOLIDAY DREAMS"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：R/GA New York"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/60ff77dceab943dff9a38d0d1c2f7070"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/samsung-holiday-dreams-111608"
-  ]
- },
- {
-  "id": "ltwm-07639",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "VOICE OF THE DROUGHT",
-  "brand": "AKATU",
-  "agency": "DDB SÃO PAULO",
-  "raw": "VOICE OF THE DROUGHT – AKATU (DDB SÃO PAULO)",
-  "links": [
-   "https://www.youtube.com/watch?v=nfATl2tIF8o"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Illustration and Graphic Design",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "AKATU - NGO",
-   "product": null,
-   "agencies": [
-    "DDB BRASIL São Paulo"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Illustration and Graphic Design",
-     "count": 1,
-     "entry_titles": [
-      "THE VOICE OF THE DROUGHT"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：DDB BRASIL São Paulo"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/e8df31adb23346c8af2baba3698f569e"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-voice-of-the-drought-111916"
-  ]
- },
- {
-  "id": "ltwm-07641",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "ANIMAL COPYRIGHTS",
-  "brand": "WWF/LATINSTOCK",
-  "agency": "CHEIL MADRID",
-  "raw": "ANIMAL COPYRIGHTS – WWF/LATINSTOCK (CHEIL MADRID)",
-  "links": [
-   "https://www.behance.net/gallery/27155201/Animal-Copyrights"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Use/Curation of Image(s)",
-    "count": 1,
-    "source_count": 1
+    "source_count": 3
    },
    {
-    "level": "Bronze",
-    "category": "Promo & Activation",
-    "subcategory": "Sponsorship or Partnership Campaigns",
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Household",
     "count": 1,
-    "source_count": 1
+    "source_count": 3
    }
   ],
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "WWF/LATINSTOCK",
-   "product": "ANIMAL COPYRIGHTS (THE FIRST IMAGE BANK FOR WWF)",
+   "brand": "TEKBOND",
+   "product": "SUPER GLUE",
    "agencies": [
-    "CHEIL SPAIN Madrid"
+    "WUNDERMAN BRAZIL São Paulo",
+    "Y&R SÃO PAULO"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Use/Curation of Image(s)",
+     "category": "Press",
+     "subcategory": "Household: Other",
      "count": 1,
      "entry_titles": [
-      "ANIMAL COPYRIGHTS"
+      "JUDITE",
+      "NOEMIA",
+      "MIRTES"
      ]
     },
     {
-     "level": "Bronze",
-     "category": "Promo & Activation",
-     "subcategory": "Sponsorship or Partnership Campaigns",
+     "level": "Silver",
+     "category": "Outdoor",
+     "subcategory": "Household",
      "count": 1,
      "entry_titles": [
-      "ANIMAL COPYRIGHTS"
+      "JUDITE",
+      "NOEMIA",
+      "MIRTES"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：CHEIL SPAIN Madrid"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion、Press類銅獅 Press Bronze Lion｜代理商：WUNDERMAN BRAZIL São Paulo / Y&R SÃO PAULO"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/5e74c9b0fc5240a6a3db77b35b330bbd"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/1ba7cbdd1c204a6ad1a1d6a3cc1fb722"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/animal-copyrights-129745",
-   "https://www.lovethework.com/en/work/entries/animal-copyrights-127065"
+   "https://www.lovethework.com/en/work/entries/mirtes-133973",
+   "https://www.lovethework.com/en/work/entries/noemia-133978",
+   "https://www.lovethework.com/en/work/entries/judite-134021"
   ]
  },
  {
-  "id": "ltwm-07642",
+  "id": "ltwm-07910",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "ENDLESS ROAD",
-  "brand": "HONDA",
-  "agency": "MCGARRYBOWEN LONDON",
-  "raw": "ENDLESS ROAD – HONDA (MCGARRYBOWEN LONDON)",
+  "title": "ROCCO SIFFREDI’S VOW OF CHASTITY",
+  "brand": "RECKITT BENCKISER",
+  "agency": "HAVAS MILAN",
+  "raw": "ROCCO SIFFREDI’S VOW OF CHASTITY – RECKITT BENCKISER (HAVAS MILAN)",
   "links": [
-   "https://clios.com/awards/winner/film-technique/honda-motor-europe/endless-road-566"
+   "https://preview.happiness-brussels.com/2015/Cannes_2015/case/591795"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Use of Video",
+    "category": "PR",
+    "subcategory": "Healthcare & Wellbeing",
     "count": 1,
     "source_count": 1
    }
@@ -518,29 +563,80 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "HONDA",
-   "product": null,
+   "brand": "RECKITT BENCKISER ITALIA",
+   "product": "DUREX",
    "agencies": [
-    "MCGARRYBOWEN London"
+    "HAVAS WORLDWIDE MILAN"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Use of Video",
+     "category": "PR",
+     "subcategory": "Healthcare & Wellbeing",
      "count": 1,
      "entry_titles": [
-      "ENDLESS ROAD"
+      "ROCCO SIFFREDI'S VOW OF CHASTITY"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：MCGARRYBOWEN London"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類銅獅 PR Bronze Lion｜代理商：HAVAS WORLDWIDE MILAN"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/256ff193bba442ae9638e03f41f645bc"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/d3b37a46f98f462de27b2f98219bc15b"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/endless-road-111184"
+   "https://www.lovethework.com/en/work/entries/rocco-siffredis-vow-of-chastity-102202"
+  ]
+ },
+ {
+  "id": "ltwm-07622",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "HIDDEN SUGAR RECEIPT",
+  "brand": "COLGATE",
+  "agency": "RED FUSE HONG KONG",
+  "raw": "HIDDEN SUGAR RECEIPT – COLGATE (RED FUSE HONG KONG)",
+  "links": [
+   "https://adsspot.me/media/case-study/colgate-hidden-sugar-receipt-6ea9abb4611b"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Creative Data",
+    "subcategory": "Creative Data Enhancement",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "COLGATE PALMOLIVE",
+   "product": "SUGAR ACID NEUTRALIZER TOOTHPASTE",
+   "agencies": [
+    "RED FUSE COMMUNICATIONS Hong Kong / Y&R Hong Kong"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Creative Data",
+     "subcategory": "Creative Data Enhancement",
+     "count": 1,
+     "entry_titles": [
+      "HIDDEN SUGAR RECEIPT"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意數據類銅獅 Creative Data Bronze Lion｜代理商：RED FUSE COMMUNICATIONS Hong Kong / Y&R Hong Kong"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/9c0b482d8cce42399071f6ff0fee38ad"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/hidden-sugar-receipt-97625"
   ]
  }
 ]

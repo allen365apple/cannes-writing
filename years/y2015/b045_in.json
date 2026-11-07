@@ -1,23 +1,30 @@
 [
  {
-  "id": "ltwm-07721",
+  "id": "ltwm-07641",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "THE HORNBACH SPRING COLLECTION",
-  "brand": "HORNBACH BAUMARKT",
-  "agency": "HEIMAT BERLIN",
-  "raw": "THE HORNBACH SPRING COLLECTION – HORNBACH BAUMARKT (HEIMAT BERLIN)",
+  "title": "ANIMAL COPYRIGHTS",
+  "brand": "WWF/LATINSTOCK",
+  "agency": "CHEIL MADRID",
+  "raw": "ANIMAL COPYRIGHTS – WWF/LATINSTOCK (CHEIL MADRID)",
   "links": [
-   "https://www.adceurope.org/awards/annual/the-hornbach-spring-collection_313"
+   "https://www.behance.net/gallery/27155201/Animal-Copyrights"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Film",
-    "subcategory": "Retail Stores",
+    "category": "Cyber",
+    "subcategory": "Use/Curation of Image(s)",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Promo & Activation",
+    "subcategory": "Sponsorship or Partnership Campaigns",
     "count": 1,
     "source_count": 1
    }
@@ -25,49 +32,314 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "HORNBACH",
-   "product": "DIY HOME IMPROVEMENT SUPERSTORES",
+   "brand": "WWF/LATINSTOCK",
+   "product": "ANIMAL COPYRIGHTS (THE FIRST IMAGE BANK FOR WWF)",
    "agencies": [
-    "HEIMAT Berlin"
+    "CHEIL SPAIN Madrid"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Film",
-     "subcategory": "Retail Stores",
+     "category": "Cyber",
+     "subcategory": "Use/Curation of Image(s)",
      "count": 1,
      "entry_titles": [
-      "GOTH GIRL"
+      "ANIMAL COPYRIGHTS"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Promo & Activation",
+     "subcategory": "Sponsorship or Partnership Campaigns",
+     "count": 1,
+     "entry_titles": [
+      "ANIMAL COPYRIGHTS"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銅獅 Film Bronze Lion｜代理商：HEIMAT Berlin"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：CHEIL SPAIN Madrid"
   },
   "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/1GStA8cUUMJnbepXVsQwox/7aaaddc9cb7ae9f22939053c2fe46b31/LTW_placeholder_4.svg"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/5e74c9b0fc5240a6a3db77b35b330bbd"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/goth-girl-135823"
+   "https://www.lovethework.com/en/work/entries/animal-copyrights-129745",
+   "https://www.lovethework.com/en/work/entries/animal-copyrights-127065"
   ]
  },
  {
-  "id": "ltwm-07722",
+  "id": "ltwm-07639",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "DADDYTOONS NEWS",
-  "brand": "GENERAL MOTORS",
-  "agency": "TAPSA | Y&R MADRID",
-  "raw": "DADDYTOONS NEWS – GENERAL MOTORS (TAPSA | Y&R MADRID)",
+  "title": "VOICE OF THE DROUGHT",
+  "brand": "AKATU",
+  "agency": "DDB SÃO PAULO",
+  "raw": "VOICE OF THE DROUGHT – AKATU (DDB SÃO PAULO)",
   "links": [
-   "https://clios.com/awards/winner/branded-entertainment/general-motors-opel/daddytoons-news-982"
+   "https://www.youtube.com/watch?v=nfATl2tIF8o"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Radio",
+    "category": "Cyber",
+    "subcategory": "Illustration and Graphic Design",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "AKATU - NGO",
+   "product": null,
+   "agencies": [
+    "DDB BRASIL São Paulo"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Cyber",
+     "subcategory": "Illustration and Graphic Design",
+     "count": 1,
+     "entry_titles": [
+      "THE VOICE OF THE DROUGHT"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：DDB BRASIL São Paulo"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/e8df31adb23346c8af2baba3698f569e"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/the-voice-of-the-drought-111916"
+  ]
+ },
+ {
+  "id": "ltwm-07653",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "INSTACONCERT",
+  "brand": "TELEKOM",
+  "agency": "DDB GROUP DÜSSELDORF",
+  "raw": "INSTACONCERT – TELEKOM (DDB GROUP DÜSSELDORF)",
+  "links": [
+   "https://www.youtube.com/watch?v=JYuLWLEB01E&ab_channel=DDBWorldwide"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Interactive Video",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "TELEKOM",
+   "product": null,
+   "agencies": [
+    "DDB GROUP DÜSSELDORF"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Cyber",
+     "subcategory": "Interactive Video",
+     "count": 1,
+     "entry_titles": [
+      "INSTACONCERT"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：DDB GROUP DÜSSELDORF"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/47c08d432c544966b5be8496bca44b23"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/instaconcert-111494"
+  ]
+ },
+ {
+  "id": "ltwm-07645",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "#PROJECT360",
+  "brand": "MAMMUT SPORTS GROUP",
+  "agency": "HEYE MUNICH",
+  "raw": "#PROJECT360 – MAMMUT SPORTS GROUP (HEYE MUNICH)",
+  "links": [
+   "https://vimeo.com/142867233"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Website",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "MAMMUT SPORTS GROUP",
+   "product": null,
+   "agencies": [
+    "HEYE Munich"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Cyber",
+     "subcategory": "Website",
+     "count": 1,
+     "entry_titles": [
+      "#PROJECT360"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：HEYE Munich"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/eae71f36cdc143909283655dcc359fa8"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/project360-130033"
+  ]
+ },
+ {
+  "id": "ltwm-07648",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "NFSCAN",
+  "brand": "NFSCAN",
+  "agency": "LODUCCA SÃO PAULO",
+  "raw": "NFSCAN – NFSCAN (LODUCCA SÃO PAULO)",
+  "links": [
+   "https://adsspot.me/media/tv-commercials/nfscan-nfscan-video-4d3abe272189"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Web Service/App",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "NFSCAN",
+   "product": null,
+   "agencies": [
+    "LODUCCA São Paulo"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Cyber",
+     "subcategory": "Web Service/App",
+     "count": 1,
+     "entry_titles": [
+      "NFSCAN"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：LODUCCA São Paulo"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/cf01ad0b5a3c45d4c509f8c53bb4c767"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/nfscan-111631"
+  ]
+ },
+ {
+  "id": "ltwm-07712",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "IBM BITCOIN RAIN",
+  "brand": "IBM",
+  "agency": "OGILVY SAO PAULO",
+  "raw": "IBM BITCOIN RAIN – IBM (OGILVY SAO PAULO)",
+  "links": [
+   "https://activationideas.com/blog/bitcoin-rain"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Digital Advertising in a Promotional Campaign",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "IBM BRASIL",
+   "product": "IBM BLUEMIX / CLOUD COMPUTING",
+   "agencies": [
+    "OGILVY BRASIL São Paulo"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Promo & Activation",
+     "subcategory": "Use of Digital Advertising in a Promotional Campaign",
+     "count": 1,
+     "entry_titles": [
+      "IBM BITCOIN RAIN"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：OGILVY BRASIL São Paulo"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/0c902411324d4a0490e58b853008becf"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/ibm-bitcoin-rain-104499"
+  ]
+ },
+ {
+  "id": "ltwm-07644",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "PLAY!",
+  "brand": "IBM",
+  "agency": "OGILVY NEW YORK",
+  "raw": "PLAY! – IBM (OGILVY NEW YORK)",
+  "links": [
+   "https://www.youtube.com/watch?v=6x_0Ahzp6JQ"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Cyber",
     "subcategory": "Corporate Image & Communication",
     "count": 1,
     "source_count": 1
@@ -76,332 +348,42 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "GENERAL MOTORS, OPEL",
+   "brand": "IBM",
    "product": null,
    "agencies": [
-    "TAPSA | Y&R Madrid"
+    "OGILVY NEW YORK"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Radio",
+     "category": "Cyber",
      "subcategory": "Corporate Image & Communication",
      "count": 1,
      "entry_titles": [
-      "DADDYTOONS NEWS"
+      "PLAY!"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Radio類銅獅 Radio Bronze Lion｜代理商：TAPSA | Y&R Madrid"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：OGILVY NEW YORK"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/05243dc74429420ea173107c3b1c3aa7"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/096e9add504e4526a5f3721b86280be2"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/daddytoons-news-112916"
+   "https://www.lovethework.com/en/work/entries/play-111922"
   ]
  },
  {
-  "id": "ltwm-07723",
+  "id": "ltwm-07761",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "DACIA SPONSOR DAY: THE SPLIT",
-  "brand": "DACIA",
-  "agency": "PUBLICIS MILAN",
-  "raw": "DACIA SPONSOR DAY: THE SPLIT – DACIA (PUBLICIS MILAN)",
+  "title": "US OPEN SESSIONS",
+  "brand": "IBM",
+  "agency": "OGILVY NEW YORK",
+  "raw": "US OPEN SESSIONS – IBM (OGILVY NEW YORK)",
   "links": [
-   "https://www.behance.net/gallery/27541025/Dacia-Sponsor-Day-The-Split"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Promo & Activation",
-    "subcategory": "Sponsorship or Partnership Campaigns",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "PR",
-    "subcategory": "Sponsorship",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "RENAULT ITALIA",
-   "product": "DACIA",
-   "agencies": [
-    "PUBLICIS ITALY Milan",
-    "PUBLICIS CONSULTANTS ITALIA Milan"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Promo & Activation",
-     "subcategory": "Sponsorship or Partnership Campaigns",
-     "count": 1,
-     "entry_titles": [
-      "DACIA SPONSOR DAY - THE SPLIT"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "PR",
-     "subcategory": "Sponsorship",
-     "count": 1,
-     "entry_titles": [
-      "DACIA SPONSOR DAY - THE SPLIT"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類銅獅 PR Bronze Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：PUBLICIS ITALY Milan / PUBLICIS CONSULTANTS ITALIA Milan"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/b310dfc011c44de3ead0ba1b6e8f3a9f"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/dacia-sponsor-day-the-split-105492",
-   "https://www.lovethework.com/en/work/entries/dacia-sponsor-day-the-split-102010"
-  ]
- },
- {
-  "id": "ltwm-07724",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "THE HIV POSITIVE POSTER",
-  "brand": "GIV",
-  "agency": "OGILVY SAO PAULO",
-  "raw": "THE HIV POSITIVE POSTER – GIV (OGILVY SAO PAULO)",
-  "links": [
-   "https://www.youtube.com/watch?v=58-X98to3ug"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Press",
-    "subcategory": "Public Health & Safety & Public Awareness Messages",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "GIV (LIFE SUPPORT GROUP)",
-   "product": "CORPORATE",
-   "agencies": [
-    "OGILVY BRASIL São Paulo"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Press",
-     "subcategory": "Public Health & Safety & Public Awareness Messages",
-     "count": 1,
-     "entry_titles": [
-      "THE HIV POSITIVE AD"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銅獅 Press Bronze Lion｜代理商：OGILVY BRASIL São Paulo"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/5d4f621afe7840b4b50e4816cfdd95f1"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-hiv-positive-ad-116190"
-  ]
- },
- {
-  "id": "ltwm-07725",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "CINEMA DELIVERY",
-  "brand": "CIRKO FILM",
-  "agency": "Y&R BUDAPEST",
-  "raw": "CINEMA DELIVERY – CIRKO FILM (Y&R BUDAPEST)",
-  "links": [
-   "https://adsspot.me/media/tv-commercials/for-some-inexplicable-reason-cinema-delivery-70ffa110852f"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Promo & Activation",
-    "subcategory": "Publications & Media",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "CIRKO FILM",
-   "product": "FOR SOME INEXPLICABLE REASON",
-   "agencies": [
-    "Y&R BUDAPEST"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Promo & Activation",
-     "subcategory": "Publications & Media",
-     "count": 1,
-     "entry_titles": [
-      "CINEMA DELIVERY"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：Y&R BUDAPEST"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/d5cba7e8f3ed42128abab5ed5dd46a3a"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/cinema-delivery-127424"
-  ]
- },
- {
-  "id": "ltwm-07726",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "SHINE",
-  "brand": "CANON",
-  "agency": "LEO BURNETT SYDNEY",
-  "raw": "SHINE – CANON (LEO BURNETT SYDNEY)",
-  "links": [
-   "https://www2.spikes.asia/winners/2015/media/entry.cfm?entryid=17&award=101"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Media",
-    "subcategory": "Use of Digital Content",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "CANON",
-   "product": "CANON CAMERAS",
-   "agencies": [
-    "LEO BURNETT SYDNEY"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Media",
-     "subcategory": "Use of Digital Content",
-     "count": 1,
-     "entry_titles": [
-      "SHINE"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銅獅 Media Bronze Lion｜代理商：LEO BURNETT SYDNEY"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/bf068203f275478bb86788968f290699"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/shine-105925"
-  ]
- },
- {
-  "id": "ltwm-07727",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "CALL HER NAME",
-  "brand": "POLA",
-  "agency": "HAKUHODO TOKYO",
-  "raw": "CALL HER NAME – POLA (HAKUHODO TOKYO)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2015/white-pencil-creativity-for-good/24197/call-her-name/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "PR",
-    "subcategory": "Luxury goods, Fashion & Beauty",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "PR",
-    "subcategory": "Research, Data Analytics & Insight Generation",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "POLA",
-   "product": "RED B.A",
-   "agencies": [
-    "HAKUHODO Tokyo"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "PR",
-     "subcategory": "Luxury goods, Fashion & Beauty",
-     "count": 1,
-     "entry_titles": [
-      "CALL HER NAME"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "PR",
-     "subcategory": "Research, Data Analytics & Insight Generation",
-     "count": 1,
-     "entry_titles": [
-      "CALL HER NAME"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類銅獅 PR Bronze Lion×2｜代理商：HAKUHODO Tokyo"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/fc07926f134747e584d108d52f0c485f"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/call-her-name-125249",
-   "https://www.lovethework.com/en/work/entries/call-her-name-125248"
-  ]
- },
- {
-  "id": "ltwm-07728",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "REAL LIFE PAC-MAN",
-  "brand": "BUD LIGHT",
-  "agency": "BBDO CHICAGO",
-  "raw": "REAL LIFE PAC-MAN – BUD LIGHT (BBDO CHICAGO)",
-  "links": [
-   "https://www.youtube.com/watch?v=29PnHyK43DE"
+   "https://www.dandad.org/awards/professional/2015/branding/24391/us-open-sessions/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
@@ -410,24 +392,24 @@
   "official_summary": ""
  },
  {
-  "id": "ltwm-07729",
+  "id": "ltwm-07652",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "THE DREAM ISLAND",
-  "brand": "HEINEKEN",
-  "agency": "PUBLICIS MILAN",
-  "raw": "THE DREAM ISLAND – HEINEKEN (PUBLICIS MILAN)",
+  "title": "NOW IT IS OUR TURN TO WALK",
+  "brand": "NORWEGIAN CHURCH AID",
+  "agency": "POL OSLO",
+  "raw": "NOW IT IS OUR TURN TO WALK – NORWEGIAN CHURCH AID (POL OSLO)",
   "links": [
-   "https://vimeo.com/202945157"
+   "https://www2.eurobest.com/winners/2015/interactive/entry.cfm?entryid=3382&award=3"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Film",
-    "subcategory": "Corporate Image & Communication",
+    "category": "Cyber",
+    "subcategory": "Social Video",
     "count": 1,
     "source_count": 1
    }
@@ -435,50 +417,50 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "HEINEKEN",
-   "product": "BEER",
+   "brand": "NORWEGIAN CHURCH AID",
+   "product": null,
    "agencies": [
-    "PUBLICIS ITALY Milan"
+    "POL Oslo"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Film",
-     "subcategory": "Corporate Image & Communication",
+     "category": "Cyber",
+     "subcategory": "Social Video",
      "count": 1,
      "entry_titles": [
-      "THE HERO"
+      "NOW IT IS OUR TURN TO WALK"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銅獅 Film Bronze Lion｜代理商：PUBLICIS ITALY Milan"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：POL Oslo"
   },
   "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/7sDFJEwnUZaGwijBHq2OXr/aa1a7fa09f91cf7a197ee7d0c16cac41/LTW_placeholder_3.svg"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/708410586e3f4dd1fe5c4e8c07da3924"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-hero-119896"
+   "https://www.lovethework.com/en/work/entries/now-it-is-our-turn-to-walk-110289"
   ]
  },
  {
-  "id": "ltwm-07730",
+  "id": "ltwm-07643",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "MESSAGE IN A BOTTLE",
-  "brand": "ANDES",
-  "agency": "SAATCHI & SAATCHI BUENOS AIRES",
-  "raw": "MESSAGE IN A BOTTLE – ANDES (SAATCHI & SAATCHI BUENOS AIRES)",
+  "title": "UBER SAFE",
+  "brand": "UBER",
+  "agency": "RETHINK TORONTO",
+  "raw": "UBER SAFE – UBER (RETHINK TORONTO)",
   "links": [
-   "https://www.youtube.com/watch?v=SkPDDyt_lZo"
+   "https://www.google.com/search?client=safari&rls=en&q=UBER+SAFE+-+UBER+(RETHINK+Toronto)&ie=UTF-8&oe=UTF-8"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Outdoor",
-    "subcategory": "Small Scale Special Solutions",
+    "category": "Cyber",
+    "subcategory": "Innovative Use of Technology",
     "count": 1,
     "source_count": 1
    }
@@ -486,29 +468,29 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "AB-INBEV",
-   "product": "ANDES",
+   "brand": "UBER",
+   "product": null,
    "agencies": [
-    "DEL CAMPO SAATCHI & SAATCHI Buenos Aires"
+    "RETHINK Toronto"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Outdoor",
-     "subcategory": "Small Scale Special Solutions",
+     "category": "Cyber",
+     "subcategory": "Innovative Use of Technology",
      "count": 1,
      "entry_titles": [
-      "MESSAGE IN A BOTTLE"
+      "UBER SAFE"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：DEL CAMPO SAATCHI & SAATCHI Buenos Aires"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：RETHINK Toronto"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/44dada230cbf483bc2fcd623c06870ff"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/0c8a7ad322b34f6bc8d9f54a24263977"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/message-in-a-bottle-114839"
+   "https://www.lovethework.com/en/work/entries/uber-safe-110924"
   ]
  }
 ]

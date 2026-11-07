@@ -1,51 +1,357 @@
 [
  {
-  "id": "ltwm-07350",
+  "id": "ltwm-07308",
   "year": 2015,
   "tier": "GOLD",
   "categories": [],
-  "title": "SECURITY MOMS",
-  "brand": "SPORT CLUBE DO RECIFE",
-  "agency": "OGILVY SÃO PAULO",
-  "raw": "SECURITY MOMS – SPORT CLUBE DO RECIFE (OGILVY SÃO PAULO)",
+  "title": "THE INTERACTIVE FORM",
+  "brand": "CANAL+",
+  "agency": "BETC PARIS",
+  "raw": "THE INTERACTIVE FORM – CANAL+ (BETC PARIS)",
   "links": [
-   "https://www.dandad.org/awards/professional/2016/creativity-for-good-white-pencil/25047/security-moms/"
+   "https://clios.com/awards/winner/direct/canal-/the-interactive-form-1093"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Gold",
-    "category": "Outdoor",
-    "subcategory": "Live Advertising and Events",
+    "category": "Direct",
+    "subcategory": "Use of Dgital Marketing",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Gold",
-    "category": "Promo & Activation",
-    "subcategory": "Use of Live Shows/Concerts/Festivals",
+    "category": "Direct",
+    "subcategory": "Customer Journey",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Gold",
-    "category": "Promo & Activation",
+    "category": "Direct",
+    "subcategory": "Acquisitions",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "CANAL+",
+   "product": "CANAL+",
+   "agencies": [
+    "BETC Paris / BETC DIGITAL Paris"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Direct",
+     "subcategory": "Use of Dgital Marketing",
+     "count": 1,
+     "entry_titles": [
+      "THE INTERACTIVE FORM"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Direct",
+     "subcategory": "Customer Journey",
+     "count": 1,
+     "entry_titles": [
+      "THE INTERACTIVE FORM"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Direct",
+     "subcategory": "Acquisitions",
+     "count": 1,
+     "entry_titles": [
+      "THE INTERACTIVE FORM"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜直效類金獅 Direct Gold Lion×3｜代理商：BETC Paris / BETC DIGITAL Paris"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/582501d51c2f46bb9039dbf754928ab4"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/the-interactive-form-109977",
+   "https://www.lovethework.com/en/work/entries/the-interactive-form-109598",
+   "https://www.lovethework.com/en/work/entries/the-interactive-form-109358"
+  ]
+ },
+ {
+  "id": "ltwm-07315",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "JOE BOXER INACTIVITY TRACKER",
+  "brand": "JOE BOXER",
+  "agency": "FCB CHICAGO",
+  "raw": "JOE BOXER INACTIVITY TRACKER – JOE BOXER (FCB CHICAGO)",
+  "links": [
+   "https://vimeo.com/132823966"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Direct",
+    "subcategory": "Use of Mobile Marketing",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "KMART / JOE BOXER",
+   "product": "JOE BOXER INACTIVITY TRACKER",
+   "agencies": [
+    "FCB CHICAGO"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Direct",
+     "subcategory": "Use of Mobile Marketing",
+     "count": 1,
+     "entry_titles": [
+      "JOE BOXER INACTIVITY TRACKER"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜直效類金獅 Direct Gold Lion｜代理商：FCB CHICAGO"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/2f0cc7c3944f490b91adf268aa7c3806"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/joe-boxer-inactivity-tracker-127783"
+  ]
+ },
+ {
+  "id": "ltwm-07312",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "BOSSE’S MILK",
+  "brand": "LIDL",
+  "agency": "INGO STOCKHOLM",
+  "raw": "BOSSE’S MILK – LIDL (INGO STOCKHOLM)",
+  "links": [
+   "https://vimeo.com/132824125"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Direct",
+    "subcategory": "Retention",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Direct",
+    "subcategory": "Retail & E-Commerce, including Restaurants",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Direct",
+    "subcategory": "Integrated Campaign Led by Direct Marketing",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "LIDL DISCOUNT FOOD STORE",
+   "product": "MILK",
+   "agencies": [
+    "INGO Stockholm"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Direct",
+     "subcategory": "Retention",
+     "count": 1,
+     "entry_titles": [
+      "BOSSE'S MILK"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Direct",
+     "subcategory": "Retail & E-Commerce, including Restaurants",
+     "count": 1,
+     "entry_titles": [
+      "BOSSE'S MILK"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Direct",
+     "subcategory": "Integrated Campaign Led by Direct Marketing",
+     "count": 1,
+     "entry_titles": [
+      "BOSSE'S MILK"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜直效類金獅 Direct Gold Lion、直效類銀獅 Direct Silver Lion、直效類銅獅 Direct Bronze Lion｜代理商：INGO Stockholm"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/005fa5fef7a54552c6af7092226fa1d9"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/bosses-milk-128162",
+   "https://www.lovethework.com/en/work/entries/bosses-milk-128106",
+   "https://www.lovethework.com/en/work/entries/bosses-milk-128073"
+  ]
+ },
+ {
+  "id": "ltwm-07313",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "#HANDSOFF",
+  "brand": "MARC DORCEL",
+  "agency": "MARCEL PARIS",
+  "raw": "#HANDSOFF – MARC DORCEL (MARCEL PARIS)",
+  "links": [
+   "https://vimeo.com/132824034"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Direct",
+    "subcategory": "Use of Dgital Marketing",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Direct",
+    "subcategory": "Acquisitions",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Direct",
+    "subcategory": "Use of Social Audience in a Direct Marketing Campaign",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "MARC DORCEL",
+   "product": "MARC DORCEL",
+   "agencies": [
+    "MARCEL Paris"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Direct",
+     "subcategory": "Use of Dgital Marketing",
+     "count": 1,
+     "entry_titles": [
+      "#HANDSOFF"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Direct",
+     "subcategory": "Acquisitions",
+     "count": 1,
+     "entry_titles": [
+      "#HANDSOFF"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Direct",
+     "subcategory": "Use of Social Audience in a Direct Marketing Campaign",
+     "count": 1,
+     "entry_titles": [
+      "#HANDSOFF"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜直效類金獅 Direct Gold Lion×2、直效類銀獅 Direct Silver Lion｜代理商：MARCEL Paris"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/1351e2d0031f47d5a16571a3f251bfcd"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/handsoff-109393",
+   "https://www.lovethework.com/en/work/entries/handsoff-109108",
+   "https://www.lovethework.com/en/work/entries/handsoff-109003"
+  ]
+ },
+ {
+  "id": "ltwm-07314",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "BLIND TRIP",
+  "brand": "MINISTRY OF TRANSPORTATION AND TOURISM",
+  "agency": "MARURI GREY GUAYAQUIL",
+  "raw": "BLIND TRIP – MINISTRY OF TRANSPORTATION AND TOURISM (MARURI GREY GUAYAQUIL)",
+  "links": [
+   "https://clios.com/awards/winner/direct/ministry-of-transportation-and-tourism/blind-trip-1285"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Direct",
     "subcategory": "Travel, Entertainment & Leisure",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Bronze",
-    "category": "Media",
-    "subcategory": "Use of Events & Stunts",
+    "category": "Direct",
+    "subcategory": "Targeted Ambient Media: Large Scale",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Bronze",
-    "category": "PR",
-    "subcategory": "Travel, Tourism & Leisure",
+    "category": "Direct",
+    "subcategory": "Customer Journey",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Ambient in a Promotional Campaign:  Large Scale",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Branded Content & Entertainment",
+    "subcategory": "Branded Live experience",
     "count": 1,
     "source_count": 1
    }
@@ -53,324 +359,88 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "SPORT CLUBE DO RECIFE",
-   "product": "SOCCER TEAM",
+   "brand": "MINISTRY OF TRANSPORTATION AND TOURISM",
+   "product": "PROMOTIONAL TOURISM CAMPAIGN",
    "agencies": [
-    "OGILVY BRASIL São Paulo"
+    "MARURI GREY Guayaquil"
    ],
    "awards": [
     {
      "level": "Gold",
-     "category": "Outdoor",
-     "subcategory": "Live Advertising and Events",
-     "count": 1,
-     "entry_titles": [
-      "SECURITY MOMS"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Promo & Activation",
-     "subcategory": "Use of Live Shows/Concerts/Festivals",
-     "count": 1,
-     "entry_titles": [
-      "SECURITY MOMS"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Promo & Activation",
+     "category": "Direct",
      "subcategory": "Travel, Entertainment & Leisure",
      "count": 1,
      "entry_titles": [
-      "SECURITY MOMS"
+      "BLIND TRIP"
      ]
     },
     {
      "level": "Bronze",
-     "category": "Media",
-     "subcategory": "Use of Events & Stunts",
+     "category": "Direct",
+     "subcategory": "Targeted Ambient Media: Large Scale",
      "count": 1,
      "entry_titles": [
-      "SECURITY MOMS"
+      "BLIND TRIP"
      ]
     },
     {
      "level": "Bronze",
-     "category": "PR",
-     "subcategory": "Travel, Tourism & Leisure",
+     "category": "Direct",
+     "subcategory": "Customer Journey",
      "count": 1,
      "entry_titles": [
-      "SECURITY MOMS"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類金獅 Outdoor Gold Lion、Promo & Activation類金獅 Promo & Activation Gold Lion×2、媒體類銅獅 Media Bronze Lion、公關類銅獅 PR Bronze Lion｜代理商：OGILVY BRASIL São Paulo"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/edb0db8469564feaeac6760236984bc5"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/security-moms-114481",
-   "https://www.lovethework.com/en/work/entries/security-moms-105827",
-   "https://www.lovethework.com/en/work/entries/security-moms-105685"
-  ]
- },
- {
-  "id": "ltwm-07351",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "LOOK AT ME",
-  "brand": "WOMEN’S AID",
-  "agency": "WCRS LONDON",
-  "raw": "LOOK AT ME – WOMEN’S AID (WCRS LONDON)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2016/media/25423/womens-aid-look-at-me-outdoor/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Outdoor",
-    "subcategory": "Digital Screens",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Cyber",
-    "subcategory": "Digital Billboard",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "WOMEN'S AID",
-   "product": "WOMEN'S AID",
-   "agencies": [
-    "WCRS London"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Outdoor",
-     "subcategory": "Digital Screens",
-     "count": 1,
-     "entry_titles": [
-      "LOOK AT ME"
+      "BLIND TRIP"
      ]
     },
     {
      "level": "Silver",
-     "category": "Cyber",
-     "subcategory": "Digital Billboard",
-     "count": 1,
-     "entry_titles": [
-      "LOOK AT ME"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類金獅 Outdoor Gold Lion、Cyber類銀獅 Cyber Silver Lion｜代理商：WCRS London"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/98f2bb182e954f4e8b4e726ba69b5a33"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/look-at-me-133148",
-   "https://www.lovethework.com/en/work/entries/look-at-me-130531",
-   "https://www.lovethework.com/en/work/entries/look-at-me-130587"
-  ]
- },
- {
-  "id": "ltwm-07352",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "BREATHE AGAIN",
-  "brand": "XIAO ZHU",
-  "agency": "Y&R SHANGHAI",
-  "raw": "BREATHE AGAIN – XIAO ZHU (Y&R SHANGHAI)",
-  "links": [
-   "https://clios.com/awards/winner/public-relations/xiao-zhu/breathe-again-838"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Outdoor",
-    "subcategory": "Non-Formatted Digital Outdoor",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Media",
-    "subcategory": "Corporate Image & Communication",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "PR",
-    "subcategory": "Other Consumer Products",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "XIAO ZHU",
-   "product": "AIR PURIFIER",
-   "agencies": [
-    "Y&R SHANGHAI"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Outdoor",
-     "subcategory": "Non-Formatted Digital Outdoor",
-     "count": 1,
-     "entry_titles": [
-      "BREATHE AGAIN"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Media",
-     "subcategory": "Corporate Image & Communication",
-     "count": 1,
-     "entry_titles": [
-      "BREATHE AGAIN"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "PR",
-     "subcategory": "Other Consumer Products",
-     "count": 1,
-     "entry_titles": [
-      "BREATHE AGAIN"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類金獅 Outdoor Gold Lion、媒體類銅獅 Media Bronze Lion、公關類銅獅 PR Bronze Lion｜代理商：Y&R SHANGHAI"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/e9d79f3d89e34235de2bdaf5d4863cd4"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/breathe-again-115928",
-   "https://www.lovethework.com/en/work/entries/breathe-again-107408",
-   "https://www.lovethework.com/en/work/entries/breathe-again-101809"
-  ]
- },
- {
-  "id": "ltwm-07354",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "70 GUARDIANS OF WINTER",
-  "brand": "ŠKODA SPAIN",
-  "agency": "PROXIMITY BARCELONA",
-  "raw": "70 GUARDIANS OF WINTER – ŠKODA SPAIN (PROXIMITY BARCELONA)",
-  "links": [
-   "https://clios.com/awards/winner/public-relations/skoda-spain/70-guardians-of-winter-1123"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Promo & Activation",
-    "subcategory": "Sponsorship or Partnership Campaigns",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "PR",
-    "subcategory": "Automotive and Transport",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "ŠKODA SPAIN",
-   "product": "ŠKODA SCOUT 4X4",
-   "agencies": [
-    "PROXIMITY BARCELONA Barcelona"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
      "category": "Promo & Activation",
-     "subcategory": "Sponsorship or Partnership Campaigns",
+     "subcategory": "Use of Ambient in a Promotional Campaign:  Large Scale",
      "count": 1,
      "entry_titles": [
-      "70 GUARDIANS OF WINTER"
+      "BLIND TRIP"
      ]
     },
     {
-     "level": "Gold",
-     "category": "PR",
-     "subcategory": "Automotive and Transport",
+     "level": "Silver",
+     "category": "Branded Content & Entertainment",
+     "subcategory": "Branded Live experience",
      "count": 1,
      "entry_titles": [
-      "70 GUARDIANS OF WINTER"
+      "BLIND TRIP"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類金獅 PR Gold Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：PROXIMITY BARCELONA Barcelona"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜直效類金獅 Direct Gold Lion、Branded Content & Entertainment類銀獅 Branded Content & Entertainment Silver Lion、Promo & Activation類銀獅 Promo & Activation Silver Lion、直效類銅獅 Direct Bronze Lion×2｜代理商：MARURI GREY Guayaquil"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/80ef970b921848f4b0d2ef691897172e"
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/3e466ef4bf9546b7a6b2b0b3b82cab9b/storyboard_000002.jpg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/70-guardians-of-winter-126643",
-   "https://www.lovethework.com/en/work/entries/70-guardians-of-winter-124843"
+   "https://www.lovethework.com/en/work/entries/blind-trip-99101",
+   "https://www.lovethework.com/en/work/entries/blind-trip-110038",
+   "https://www.lovethework.com/en/work/entries/blind-trip-109806"
   ]
  },
  {
-  "id": "ltwm-07355",
+  "id": "ltwm-07479",
   "year": 2015,
-  "tier": "GOLD",
+  "tier": "SILVER",
   "categories": [],
-  "title": "TRUE WETSUITS",
-  "brand": "QUIKSILVER JAPAN",
-  "agency": "TBWA\\HAKUHODO TOKYO",
-  "raw": "TRUE WETSUITS – QUIKSILVER JAPAN (TBWA\\HAKUHODO TOKYO)",
+  "title": "UNICORNS",
+  "brand": "CANAL+",
+  "agency": "BETC PARIS",
+  "raw": "UNICORNS – CANAL+ (BETC PARIS)",
   "links": [
-   "https://clios.com/sports/winner/direct/quicksilver-japan/true-wetsuits-12561"
+   "https://clios.com/awards/winner/film/canal-/unicorns-722"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Gold",
-    "category": "PR",
-    "subcategory": "Luxury goods, Fashion & Beauty",
-    "count": 1,
-    "source_count": 1
-   },
-   {
     "level": "Silver",
-    "category": "PR",
-    "subcategory": "Launch or Re-launch",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Design",
-    "subcategory": "Promotional Item Design",
+    "category": "Film",
+    "subcategory": "Publications & Media",
     "count": 1,
     "source_count": 1
    }
@@ -378,457 +448,236 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "QUIKSILVER JAPAN",
-   "product": "WETSUITS",
+   "brand": "CANAL +",
+   "product": "CANAL +",
    "agencies": [
-    "TBWA\\HAKUHODO Tokyo"
+    "BETC Paris"
    ],
    "awards": [
     {
-     "level": "Gold",
-     "category": "PR",
-     "subcategory": "Luxury goods, Fashion & Beauty",
-     "count": 1,
-     "entry_titles": [
-      "TRUE WETSUITS"
-     ]
-    },
-    {
      "level": "Silver",
-     "category": "PR",
-     "subcategory": "Launch or Re-launch",
+     "category": "Film",
+     "subcategory": "Publications & Media",
      "count": 1,
      "entry_titles": [
-      "TRUE WETSUITS"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Design",
-     "subcategory": "Promotional Item Design",
-     "count": 1,
-     "entry_titles": [
-      "TRUE WETSUITS"
+      "UNICORNS"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類金獅 PR Gold Lion、設計類銀獅 Design Silver Lion、公關類銀獅 PR Silver Lion｜代理商：TBWA\\HAKUHODO Tokyo"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銀獅 Film Silver Lion｜代理商：BETC Paris"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/690f9844968d4c43d7186e1971575a4f"
+   "https://images.ctfassets.net/8ha5xom4da7e/7sDFJEwnUZaGwijBHq2OXr/aa1a7fa09f91cf7a197ee7d0c16cac41/LTW_placeholder_3.svg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/true-wetsuits-125047",
-   "https://www.lovethework.com/en/work/entries/true-wetsuits-124613",
-   "https://www.lovethework.com/en/work/entries/true-wetsuits-102716"
+   "https://www.lovethework.com/en/work/entries/unicorns-134798"
   ]
  },
  {
-  "id": "ltwm-07356",
+  "id": "ltwm-07482",
   "year": 2015,
-  "tier": "GOLD",
+  "tier": "SILVER",
   "categories": [],
-  "title": "THE RGB NEWS",
-  "brand": "ANTENA 1-OBSERVATOR",
-  "agency": "GEOMETRY GLOBAL BUCHAREST",
-  "raw": "THE RGB NEWS – ANTENA 1-OBSERVATOR (GEOMETRY GLOBAL BUCHAREST)",
+  "title": "THE SILVER HAND",
+  "brand": "CANAL DIGITAL",
+  "agency": "TRY OSLO",
+  "raw": "THE SILVER HAND – CANAL DIGITAL (TRY OSLO)",
   "links": [
-   "https://www.youtube.com/watch?v=6GKO-vu4p5U"
+   "https://vimeo.com/162422092"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Silver",
-    "category": "Promo & Activation",
-    "subcategory": "",
+    "category": "Film",
+    "subcategory": "Commercial Public Services",
     "count": 1,
     "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Media",
-    "subcategory": "Use of Screens",
-    "count": 1,
-    "source_count": 1
-   },
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "CANAL DIGITAL",
+   "product": "WEEKLY ARCHIVE",
+   "agencies": [
+    "TRY Oslo"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Film",
+     "subcategory": "Commercial Public Services",
+     "count": 1,
+     "entry_titles": [
+      "THE SILVER HAND"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銀獅 Film Silver Lion｜代理商：TRY Oslo"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/7sDFJEwnUZaGwijBHq2OXr/aa1a7fa09f91cf7a197ee7d0c16cac41/LTW_placeholder_3.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/the-silver-hand-119366"
+  ]
+ },
+ {
+  "id": "ltwm-07627",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "DILL",
+  "brand": "LIDL",
+  "agency": "INGO STOCKHOLM",
+  "raw": "DILL – LIDL (INGO STOCKHOLM)",
+  "links": [
+   "https://vimeo.com/119228328"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
    {
     "level": "Bronze",
-    "category": "Media",
+    "category": "Creative Effectiveness",
+    "subcategory": "Creative Effectiveness",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "LIDL",
+   "product": "LIDL",
+   "agencies": [
+    "INGO Stockholm"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Creative Effectiveness",
+     "subcategory": "Creative Effectiveness",
+     "count": 1,
+     "entry_titles": [
+      "DILL"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意實效類銅獅 Creative Effectiveness Bronze Lion｜代理商：INGO Stockholm"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/a9b6e72bffcc49ea859b5ff2218c8afb/storyboard_000002.jpg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/dill-122606"
+  ]
+ },
+ {
+  "id": "ltwm-07923",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "THE BATTLE",
+  "brand": "CANAL",
+  "agency": "KOUZ PRODUCTION PARIS",
+  "raw": "THE BATTLE – CANAL (KOUZ PRODUCTION PARIS)",
+  "links": [
+   "https://vimeopro.com/kouz/kouz-and-superpitch-portfolio/video/124027824"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Film Craft",
+    "subcategory": "Sound Design",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "CANALSAT",
+   "product": "CANALSAT",
+   "agencies": [
+    "KOUZ PRODUCTION Paris / BETC Paris"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Film Craft",
+     "subcategory": "Sound Design",
+     "count": 1,
+     "entry_titles": [
+      "THE BATTLE"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片工藝類銅獅 Film Craft Bronze Lion｜代理商：KOUZ PRODUCTION Paris / BETC Paris"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/7sDFJEwnUZaGwijBHq2OXr/aa1a7fa09f91cf7a197ee7d0c16cac41/LTW_placeholder_3.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/the-battle-101141"
+  ]
+ },
+ {
+  "id": "ltwm-07848",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "IT’S NEVER JUST A LETTER",
+  "brand": "MINI",
+  "agency": "PUBLICIS MEXICO CITY",
+  "raw": "IT’S NEVER JUST A LETTER – MINI (PUBLICIS MEXICO CITY)",
+  "links": [
+   "https://www.behance.net/gallery/25952323/ITS-NEVER-JUST-A-LETTER-MINI"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Press",
     "subcategory": "Public Health & Safety & Public Awareness Messages",
     "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "PR",
-    "subcategory": "Media, Arts & Entertainment",
-    "count": 1,
-    "source_count": 1
+    "source_count": 2
    }
   ],
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "ANTENA 1 - OBSERVATOR",
-   "product": "BLOOD DONATION",
+   "brand": "MINI",
+   "product": "DON'T TEXT AND DRIVE",
    "agencies": [
-    "GEOMETRY GLOBAL Bucharest"
+    "PUBLICIS MEXICO Mexico City"
    ],
    "awards": [
     {
-     "level": "Silver",
-     "category": "Promo & Activation",
-     "subcategory": "",
-     "count": 1,
-     "entry_titles": [
-      "THE RGB NEWS"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Media",
-     "subcategory": "Use of Screens",
-     "count": 1,
-     "entry_titles": [
-      "THE RGB NEWS"
-     ]
-    },
-    {
      "level": "Bronze",
-     "category": "Media",
+     "category": "Press",
      "subcategory": "Public Health & Safety & Public Awareness Messages",
      "count": 1,
      "entry_titles": [
-      "THE RGB NEWS"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "PR",
-     "subcategory": "Media, Arts & Entertainment",
-     "count": 1,
-     "entry_titles": [
-      "THE RGB NEWS"
+      "KID",
+      "TEENNAGER"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類金獅 PR Gold Lion、媒體類銀獅 Media Silver Lion、Promo & Activation類銀獅 Promo & Activation Silver Lion、媒體類銅獅 Media Bronze Lion｜代理商：GEOMETRY GLOBAL Bucharest"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銅獅 Press Bronze Lion｜代理商：PUBLICIS MEXICO Mexico City"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/a5dc9d7a1b904a8a8b6066c2bed711b7"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/df918dbbc49547cbe4080041d3f61267"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-rgb-news-107672",
-   "https://www.lovethework.com/en/work/entries/the-rgb-news-107401",
-   "https://www.lovethework.com/en/work/entries/the-rgb-news-101840"
-  ]
- },
- {
-  "id": "ltwm-07357",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "GREAT CHINESE NAMES FOR GREAT BRITAIN",
-  "brand": "VISIT BRITAIN",
-  "agency": "OGILVY BEIJING",
-  "raw": "GREAT CHINESE NAMES FOR GREAT BRITAIN – VISIT BRITAIN (OGILVY BEIJING)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2016/pr/25088/great-chinese-names-for-great-britain/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "PR",
-    "subcategory": "Travel, Tourism & Leisure",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "PR",
-    "subcategory": "Use of digital Platforms",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "PR",
-    "subcategory": "Use of Co-Creation & User Generated Content",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "VISITBRITAIN",
-   "product": "TOURISM",
-   "agencies": [
-    "OGILVY BEIJING"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "PR",
-     "subcategory": "Travel, Tourism & Leisure",
-     "count": 1,
-     "entry_titles": [
-      "GREAT CHINESE NAMES FOR GREAT BRITAIN"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "PR",
-     "subcategory": "Use of digital Platforms",
-     "count": 1,
-     "entry_titles": [
-      "GREAT CHINESE NAMES FOR GREAT BRITAIN"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "PR",
-     "subcategory": "Use of Co-Creation & User Generated Content",
-     "count": 1,
-     "entry_titles": [
-      "GREAT CHINESE NAMES FOR GREAT BRITAIN"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類金獅 PR Gold Lion×2、公關類銀獅 PR Silver Lion｜代理商：OGILVY BEIJING"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/cbd28a25f4ab4c24aee14c7c4b977b7a"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/great-chinese-names-for-great-britain-101865",
-   "https://www.lovethework.com/en/work/entries/great-chinese-names-for-great-britain-101745",
-   "https://www.lovethework.com/en/work/entries/great-chinese-names-for-great-britain-101475"
-  ]
- },
- {
-  "id": "ltwm-07358",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "ASHES",
-  "brand": "CAMPOFRIO",
-  "agency": "MCCANN MADRID",
-  "raw": "ASHES – CAMPOFRIO (MCCANN MADRID)",
-  "links": [
-   "https://clios.com/awards/winner/public-relations/campofr%C3%ADo/ashes-985"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Direct",
-    "subcategory": "Dimensional Mailing",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "PR",
-    "subcategory": "Internal Communications (incl. employee Engagement)",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "CAMPOFRIO",
-   "product": "INSTITUTIONAL. FIRE LA BUREBA FACTORY",
-   "agencies": [
-    "McCANN MADRID"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Direct",
-     "subcategory": "Dimensional Mailing",
-     "count": 1,
-     "entry_titles": [
-      "ASHES"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "PR",
-     "subcategory": "Internal Communications (incl. employee Engagement)",
-     "count": 1,
-     "entry_titles": [
-      "ASHES"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類金獅 PR Gold Lion、直效類銀獅 Direct Silver Lion｜代理商：McCANN MADRID"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/296552ab44cf43efee48ea789fb47b4d"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/ashes-109823",
-   "https://www.lovethework.com/en/work/entries/ashes-102299"
-  ]
- },
- {
-  "id": "ltwm-07359",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "PHOTOSHOP MURDER MYSTERY",
-  "brand": "ADOBE PHOTOSHOP",
-  "agency": "EDELMAN SAN FRANCISCO",
-  "raw": "PHOTOSHOP MURDER MYSTERY – ADOBE PHOTOSHOP (EDELMAN SAN FRANCISCO)",
-  "links": [
-   "https://vimeo.com/117637147"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "PR",
-    "subcategory": "Community Building/Management",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "PR",
-    "subcategory": "Innovative Use of Social or Community",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "ADOBE",
-   "product": "PHOTOSHOP",
-   "agencies": [
-    "EDELMAN San Francisco"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "PR",
-     "subcategory": "Community Building/Management",
-     "count": 1,
-     "entry_titles": [
-      "PHOTOSHOP MURDER MYSTERY"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "PR",
-     "subcategory": "Innovative Use of Social or Community",
-     "count": 1,
-     "entry_titles": [
-      "PHOTOSHOP MURDER MYSTERY"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類金獅 PR Gold Lion、公關類銀獅 PR Silver Lion｜代理商：EDELMAN San Francisco"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/aff3fa6d327247fcfaac2a8d6e3ec855"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/photoshop-murder-mystery-125222",
-   "https://www.lovethework.com/en/work/entries/photoshop-murder-mystery-125159"
-  ]
- },
- {
-  "id": "ltwm-07360",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "#TECHNOLOGYANDSTUFF",
-  "brand": "GENERAL MOTORS",
-  "agency": "FLEISHMANHILLARD ST. LOUIS",
-  "raw": "#TECHNOLOGYANDSTUFF – GENERAL MOTORS (FLEISHMANHILLARD ST. LOUIS)",
-  "links": [
-   "https://www.victorquattrin.com/#/techandstuff/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Media",
-    "subcategory": "Cars & Automotive Services",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "PR",
-    "subcategory": "Response/Real-Time Activity (including crowdsourcing)",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "PR",
-    "subcategory": "Crisis Communications & Issue Management",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "GENERAL MOTORS- CHEVROLET",
-   "product": "CARS",
-   "agencies": [
-    "COMMONWEALTH//McCANN Detroit / FLEISHMAN HILLARD Detroit",
-    "FLEISHMANHILLARD St. Louis"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Media",
-     "subcategory": "Cars & Automotive Services",
-     "count": 1,
-     "entry_titles": [
-      "TECHNOLOGY & STUFF"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "PR",
-     "subcategory": "Response/Real-Time Activity (including crowdsourcing)",
-     "count": 1,
-     "entry_titles": [
-      "#TECHNOLOGYANDSTUFF: RAPID INTEGRATION TURNS PR CRISIS INTO SOCIAL CURRENCY"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "PR",
-     "subcategory": "Crisis Communications & Issue Management",
-     "count": 1,
-     "entry_titles": [
-      "#TECHNOLOGYANDSTUFF: RAPID INTEGRATION TURNS PR CRISIS INTO SOCIAL CURRENCY"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類金獅 PR Gold Lion、公關類銀獅 PR Silver Lion、媒體類銅獅 Media Bronze Lion｜代理商：COMMONWEALTH//McCANN Detroit / FLEISHMAN HILLARD Detroit / FLEISHMANHILLARD St. Louis"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/53625d33fda7417291936ea0e15241b2"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/technology-stuff-107623",
-   "https://www.lovethework.com/en/work/entries/technologyandstuff-rapid-integration-turns-pr-crisis-into-social-currency-125228",
-   "https://www.lovethework.com/en/work/entries/technologyandstuff-rapid-integration-turns-pr-crisis-into-social-currency-125291"
+   "https://www.lovethework.com/en/work/entries/teennager-116961",
+   "https://www.lovethework.com/en/work/entries/kid-116982",
+   "https://www.lovethework.com/en/work/entries/kid-118871"
   ]
  }
 ]

@@ -1,66 +1,15 @@
 [
  {
-  "id": "ltwm-07834",
+  "id": "ltwm-07804",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "CHARITY ARCADE",
-  "brand": "SWEDAVIA SWEDISH AIRPORTS",
-  "agency": "AKESTAM HOLST STOCKHOLM",
-  "raw": "CHARITY ARCADE – SWEDAVIA SWEDISH AIRPORTS (AKESTAM HOLST STOCKHOLM)",
+  "title": "BABY CLOTHES",
+  "brand": "CARTA BRANCA",
+  "agency": "AFRICA SAO PAULO",
+  "raw": "BABY CLOTHES – CARTA BRANCA (AFRICA SAO PAULO)",
   "links": [
-   "https://www2.eurobest.com/winners/2015/promo/entry.cfm?entryid=2599&award=99&keywords=&order=0&direction=1"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Promo & Activation",
-    "subcategory": "Use of Exhibitions and Installations",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "SWEDAVIA SWEDISH AIRPORTS",
-   "product": "RED CROSS",
-   "agencies": [
-    "ÅKESTAM HOLST Stockholm"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Promo & Activation",
-     "subcategory": "Use of Exhibitions and Installations",
-     "count": 1,
-     "entry_titles": [
-      "CHARITY ARCADE"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：ÅKESTAM HOLST Stockholm"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/9be940802fbe4676da13a63ae70bb088"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/charity-arcade-126712"
-  ]
- },
- {
-  "id": "ltwm-07835",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "MUTUAL CLIMAX",
-  "brand": "DUREX",
-  "agency": "HAVAS ISTANBUL",
-  "raw": "MUTUAL CLIMAX – DUREX (HAVAS ISTANBUL)",
-  "links": [
-   "https://www.adsoftheworld.com/media/print/durex_rollercoaster"
+   "https://cargocollective.com/ricardogurgel/Carta-Branca-Baby-Clothes"
   ],
   "zh_brief": "",
   "note_from_selection": "",
@@ -68,60 +17,62 @@
    {
     "level": "Bronze",
     "category": "Outdoor",
-    "subcategory": "Cosmetics & Beauty, Toiletries & Pharmacy",
+    "subcategory": "Clothing, Footwear & Accessories",
     "count": 1,
-    "source_count": 2
+    "source_count": 3
    }
   ],
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "DUREX",
-   "product": "CONDOM-MUTUAL CLIMAX",
+   "brand": "CARTA BRANCA",
+   "product": "BABY CLOTHES",
    "agencies": [
-    "HAVAS WORLDWIDE ISTANBUL"
+    "AFRICA São Paulo"
    ],
    "awards": [
     {
      "level": "Bronze",
      "category": "Outdoor",
-     "subcategory": "Cosmetics & Beauty, Toiletries & Pharmacy",
+     "subcategory": "Clothing, Footwear & Accessories",
      "count": 1,
      "entry_titles": [
-      "PLANE",
-      "TRAIN"
+      "BABY SELFIE SAWYER",
+      "BABY SELFIE KIM",
+      "BABY SELFIE BOBBY"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：HAVAS WORLDWIDE ISTANBUL"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：AFRICA São Paulo"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/50aca072c7724e87dbe611527d0f67d0"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/c7532b17f94d4c1dd49540c5e86355e0"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/train-131013",
-   "https://www.lovethework.com/en/work/entries/plane-131015"
+   "https://www.lovethework.com/en/work/entries/baby-selfie-bobby-115774",
+   "https://www.lovethework.com/en/work/entries/baby-selfie-kim-115793",
+   "https://www.lovethework.com/en/work/entries/baby-selfie-sawyer-115794"
   ]
  },
  {
-  "id": "ltwm-07836",
+  "id": "ltwm-07807",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "CONGRATULATIONS",
-  "brand": "AVITE",
-  "agency": "AVITE MURCIA /VERSUS MADRID",
-  "raw": "CONGRATULATIONS – AVITE (AVITE MURCIA /VERSUS MADRID)",
+  "title": "STOP GUESSING",
+  "brand": "MITSUBISHI",
+  "agency": "AFRICA SÃO PAULO",
+  "raw": "STOP GUESSING – MITSUBISHI (AFRICA SÃO PAULO)",
   "links": [
-   "https://vimeo.com/513581236"
+   "https://www.adsoftheworld.com/campaign/mitsubishi-africa-04-2015"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Film",
-    "subcategory": "Public Awareness Messages",
+    "category": "Outdoor",
+    "subcategory": "Cars & Automotive Services",
     "count": 1,
     "source_count": 1
    }
@@ -129,50 +80,50 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "AVITE",
-   "product": "ASSOCIATION",
+   "brand": "MITSUBISHI MOTORS",
+   "product": "ALL NEW OUTLANDER WITH REARVIEW CAMERA",
    "agencies": [
-    "AVITE Murcia / VERSUS MADRID"
+    "AFRICA São Paulo"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Film",
-     "subcategory": "Public Awareness Messages",
+     "category": "Outdoor",
+     "subcategory": "Cars & Automotive Services",
      "count": 1,
      "entry_titles": [
-      "CONGRATULATIONS"
+      "HYDRANT"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銅獅 Film Bronze Lion｜代理商：AVITE Murcia / VERSUS MADRID"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：AFRICA São Paulo"
   },
   "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/1GStA8cUUMJnbepXVsQwox/7aaaddc9cb7ae9f22939053c2fe46b31/LTW_placeholder_4.svg"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/c36ba7c77ed74db2ee840d7737bfabab"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/congratulations-120014"
+   "https://www.lovethework.com/en/work/entries/hydrant-114470"
   ]
  },
  {
-  "id": "ltwm-07837",
+  "id": "ltwm-07794",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "MOVIE KISS",
-  "brand": "CORNETTO",
-  "agency": "MULLENLOWE MADRID",
-  "raw": "MOVIE KISS – CORNETTO (MULLENLOWE MADRID)",
+  "title": "MADE BY YOU",
+  "brand": "CONVERSE",
+  "agency": "ANOMALY NEW YORK",
+  "raw": "MADE BY YOU – CONVERSE (ANOMALY NEW YORK)",
   "links": [
-   "https://www.behance.net/gallery/26765691/Cornetto-Movie-Kiss-Digital-Activation"
+   "http://www.janecronk.com/#/converse-made-by-you-tv/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Promo & Activation",
-    "subcategory": "Food & Drinks (incl. Alcoholic Drinks)",
+    "category": "Film Craft",
+    "subcategory": "Editing",
     "count": 1,
     "source_count": 1
    }
@@ -180,144 +131,42 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "UNILEVER",
-   "product": "CORNETTO",
+   "brand": "CONVERSE",
+   "product": "FASHION/APPAREL",
    "agencies": [
-    "LOLA LOWE & PARTNERS Madrid"
+    "ANOMALY New York"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Promo & Activation",
-     "subcategory": "Food & Drinks (incl. Alcoholic Drinks)",
+     "category": "Film Craft",
+     "subcategory": "Editing",
      "count": 1,
      "entry_titles": [
-      "MOVIE KISS"
+      "CONVERSE: MADE BY YOU"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：LOLA LOWE & PARTNERS Madrid"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片工藝類銅獅 Film Craft Bronze Lion｜代理商：ANOMALY New York"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/52b05b1d901f4152c19b4b565342ec55"
+   "https://images.ctfassets.net/8ha5xom4da7e/21oKzZpgKK38z6CH22xvKi/2891cea86e6d97a93344f9f8fd0e6153/LTW_placeholder_2.svg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/movie-kiss-126453"
+   "https://www.lovethework.com/en/work/entries/converse-made-by-you-123754"
   ]
  },
  {
-  "id": "ltwm-07838",
+  "id": "ltwm-07798",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "COOKIES",
-  "brand": "IKEA",
-  "agency": "MCCANN MADRID",
-  "raw": "COOKIES – IKEA (MCCANN MADRID)",
+  "title": "THICK + FINE",
+  "brand": "COPIC",
+  "agency": "FCB CHICAGO",
+  "raw": "THICK + FINE – COPIC (FCB CHICAGO)",
   "links": [
-   "https://preview.happiness-brussels.com/2015/Cannes_2015/case/558113"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Film",
-    "subcategory": "Retail Stores",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "IKEA",
-   "product": "IKEA CHRISTMAS",
-   "agencies": [
-    "McCANN MADRID"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Film",
-     "subcategory": "Retail Stores",
-     "count": 1,
-     "entry_titles": [
-      "COOKIES"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銅獅 Film Bronze Lion｜代理商：McCANN MADRID"
-  },
-  "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/3duqCqeHDt9hMAdtuQjc3V/3f6a8c56aeb415ac19cd5dd916fa6976/LTW_placeholder_1.svg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/cookies-134475"
-  ]
- },
- {
-  "id": "ltwm-07839",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "CONTENT EXTINCT",
-  "brand": "WWF",
-  "agency": "GEOMETRY GLOBAL COPENHAGEN",
-  "raw": "CONTENT EXTINCT – WWF (GEOMETRY GLOBAL COPENHAGEN)",
-  "links": [
-   "https://www.youtube.com/watch?v=nE8Z4AbE7g8"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Promo & Activation",
-    "subcategory": "Use of Social Platform(s) in a Promotional Campaign",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "WWF",
-   "product": "WWF",
-   "agencies": [
-    "GEOMETRY GLOBAL Copenhagen"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Promo & Activation",
-     "subcategory": "Use of Social Platform(s) in a Promotional Campaign",
-     "count": 1,
-     "entry_titles": [
-      "CONTENT EXTINCT"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：GEOMETRY GLOBAL Copenhagen"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/61bbe71132514cebe4b28ddc07e6999e"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/content-extinct-104885"
-  ]
- },
- {
-  "id": "ltwm-07840",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "A SMILE CHANGES THE WHOLE STORY",
-  "brand": "CREST",
-  "agency": "SAATCHI & SAATCHI MIAMI",
-  "raw": "A SMILE CHANGES THE WHOLE STORY – CREST (SAATCHI & SAATCHI MIAMI)",
-  "links": [
-   "https://www.adsoftheworld.com/campaign/crest-conill-05-2015"
+   "https://www.gustavodorietto.com/work/thick-fine"
   ],
   "zh_brief": "",
   "note_from_selection": "",
@@ -325,56 +174,105 @@
    {
     "level": "Bronze",
     "category": "Press",
-    "subcategory": "Toiletries",
+    "subcategory": "Miscellaneous",
     "count": 1,
-    "source_count": 5
+    "source_count": 3
    }
   ],
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "PROCTER & GAMBLE",
-   "product": "CREST",
+   "brand": "COPIC",
+   "product": "COPIC MARKER",
    "agencies": [
-    "CONILL SAATCHI & SAATCHI Miami"
+    "FCB CHICAGO"
    ],
    "awards": [
     {
      "level": "Bronze",
      "category": "Press",
-     "subcategory": "Toiletries",
+     "subcategory": "Miscellaneous",
      "count": 1,
      "entry_titles": [
-      "BREAK UP",
-      "CRY",
-      "HOSPITAL",
-      "RAIN",
-      "PHOTOS"
+      "VIKING",
+      "BEAR",
+      "LUCHADOR"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銅獅 Press Bronze Lion｜代理商：CONILL SAATCHI & SAATCHI Miami"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銅獅 Press Bronze Lion｜代理商：FCB CHICAGO"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/e4738166aa0e49bb920306b62bf903ec"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/5fd4319c424747c2ab1f6e5e3618680c"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/photos-118827",
-   "https://www.lovethework.com/en/work/entries/rain-118829",
-   "https://www.lovethework.com/en/work/entries/hospital-118859"
+   "https://www.lovethework.com/en/work/entries/bear-134082",
+   "https://www.lovethework.com/en/work/entries/bear-134085",
+   "https://www.lovethework.com/en/work/entries/luchador-134153"
   ]
  },
  {
-  "id": "ltwm-07841",
+  "id": "ltwm-07795",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "DEAD ISLAND E3 CGI TRAILER",
-  "brand": "KOCH MEDIA",
-  "agency": "DEEP SILVER PLANEGG MUNICH",
-  "raw": "DEAD ISLAND E3 CGI TRAILER – KOCH MEDIA (DEEP SILVER PLANEGG MUNICH)",
+  "title": "EXPERIENCE APP",
+  "brand": "CINEMARK",
+  "agency": "JOE PUBLIC JOHANNESBURG",
+  "raw": "EXPERIENCE APP – CINEMARK (JOE PUBLIC JOHANNESBURG)",
   "links": [
-   "https://www.youtube.com/watch?v=vdiq5wtNl0Y&ab_channel=DeepSilver"
+   "https://adsspot.me/media/tv-commercials/cinemark-cinema-comfort-app-e627ce864bf8"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Broadcast in a Promotional Campaign",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "CINEMARK",
+   "product": "VOTE SA",
+   "agencies": [
+    "JOE PUBLIC UNITED Johannesburg"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Promo & Activation",
+     "subcategory": "Use of Broadcast in a Promotional Campaign",
+     "count": 1,
+     "entry_titles": [
+      "EXPERIENCE APP"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：JOE PUBLIC UNITED Johannesburg"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/09e5af60396144719748e0c897a92d8d"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/experience-app-126683"
+  ]
+ },
+ {
+  "id": "ltwm-07797",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "THE NOTEBOOK",
+  "brand": "DIALDIRECT",
+  "agency": "JOE PUBLIC JOHANNESBURG",
+  "raw": "THE NOTEBOOK – DIALDIRECT (JOE PUBLIC JOHANNESBURG)",
+  "links": [
+   "https://annettedk.com/the-notebook-dialdirect"
   ],
   "zh_brief": "",
   "note_from_selection": "",
@@ -382,7 +280,7 @@
    {
     "level": "Bronze",
     "category": "Film",
-    "subcategory": "Publications & Media",
+    "subcategory": "Banking, Investment & Insurance",
     "count": 1,
     "source_count": 1
    }
@@ -390,125 +288,223 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "KOCH MEDIA / DEEP SILVER",
-   "product": "DEAD ISLAND 2",
+   "brand": "DIALDIRECT",
+   "product": "DIALDIRECT INSURANCE",
    "agencies": [
-    "DEEP SILVER Planegg Munchen"
+    "JOE PUBLIC UNITED Johannesburg"
    ],
    "awards": [
     {
      "level": "Bronze",
      "category": "Film",
-     "subcategory": "Publications & Media",
+     "subcategory": "Banking, Investment & Insurance",
      "count": 1,
      "entry_titles": [
-      "DEAD ISLAND E3 CGI TRAILER"
+      "THE NOTEBOOK"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銅獅 Film Bronze Lion｜代理商：DEEP SILVER Planegg Munchen"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銅獅 Film Bronze Lion｜代理商：JOE PUBLIC UNITED Johannesburg"
   },
   "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/7sDFJEwnUZaGwijBHq2OXr/aa1a7fa09f91cf7a197ee7d0c16cac41/LTW_placeholder_3.svg"
+   "https://images.ctfassets.net/8ha5xom4da7e/3duqCqeHDt9hMAdtuQjc3V/3f6a8c56aeb415ac19cd5dd916fa6976/LTW_placeholder_1.svg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/dead-island-e3-cgi-trailer-135733"
+   "https://www.lovethework.com/en/work/entries/the-notebook-119201"
   ]
  },
  {
-  "id": "ltwm-07842",
+  "id": "ltwm-07803",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "DEBATTLE",
-  "brand": "SVERIGES RADIO",
-  "agency": "CP+B GOTHENBURG",
-  "raw": "DEBATTLE – SVERIGES RADIO (CP+B GOTHENBURG)",
+  "title": "REWRITE HISTORY",
+  "brand": "PT. HERO INTIPUTRA",
+  "agency": "OGILVY JAKARTA",
+  "raw": "REWRITE HISTORY – PT. HERO INTIPUTRA (OGILVY JAKARTA)",
   "links": [
-   "https://clios.com/music/winner/digital-social/sveriges-radio/debattle-201"
+   "https://www.behance.net/gallery/27420043/RISK-REWRITE-HISTORY-RADIO-CAMPAIGN"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Mobile",
-    "subcategory": "",
+    "category": "Radio",
+    "subcategory": "Entertainment & Leisure",
     "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "SVERIGES RADIO",
-   "product": "TANKESMEDJAN I P3",
-   "agencies": [
-    "CP+B SCANDINAVIA Gothenburg"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Mobile",
-     "subcategory": "",
-     "count": 1,
-     "entry_titles": [
-      "DEBATTLE"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銅獅 Mobile Bronze Lion｜代理商：CP+B SCANDINAVIA Gothenburg"
-  }
- },
- {
-  "id": "ltwm-07843",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "DEFROST DINNERS",
-  "brand": "GDF SUEZ",
-  "agency": "GREY BRUSSELS",
-  "raw": "DEFROST DINNERS – GDF SUEZ (GREY BRUSSELS)",
-  "links": [
-   "https://adsspot.me/media/case-study/gdf-suez-defrost-dinners-3bc8d22a4533"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
+    "source_count": 3
+   },
    {
     "level": "Bronze",
-    "category": "Media",
-    "subcategory": "Use of Branded Content & Sponsorship",
+    "category": "Radio",
+    "subcategory": "Performance",
     "count": 1,
-    "source_count": 1
+    "source_count": 2
    }
   ],
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "GDF SUEZ",
-   "product": "ELECTRABEL",
+   "brand": "PT. HERO INTIPUTRA",
+   "product": null,
    "agencies": [
-    "FAMOUS BRUSSELS"
+    "OGILVY INDONESIA Jakarta"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Media",
-     "subcategory": "Use of Branded Content & Sponsorship",
+     "category": "Radio",
+     "subcategory": "Entertainment & Leisure",
      "count": 1,
      "entry_titles": [
-      "DEFROST DINNERS"
+      "FIDEL CASTRO'S INAUGURATION",
+      "HITLER'S BATTLE OF GERMANY SPEECH",
+      "SADDAM'S CAPTURE OF GEORGE BUSH"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Radio",
+     "subcategory": "Performance",
+     "count": 1,
+     "entry_titles": [
+      "HITLER'S BATTLE OF GERMANY SPEECH",
+      "SADDAM'S CAPTURE OF GEORGE BUSH"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銅獅 Media Bronze Lion｜代理商：FAMOUS BRUSSELS"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Radio類銅獅 Radio Bronze Lion×2｜代理商：OGILVY INDONESIA Jakarta"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/8b03078062754c53803aaa429e2ee787"
+   "https://images.ctfassets.net/8ha5xom4da7e/7wkKWL9wo0CVTRlnqWuiy9/d10dba1a1019d638ac5f910d21b7d525/audio-pink.svg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/defrost-dinners-106594"
+   "https://www.lovethework.com/en/work/entries/saddams-capture-of-george-bush-112419",
+   "https://www.lovethework.com/en/work/entries/saddams-capture-of-george-bush-112428",
+   "https://www.lovethework.com/en/work/entries/hitlers-battle-of-germany-speech-112429"
+  ]
+ },
+ {
+  "id": "ltwm-07799",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "CONDOMANIA: FLESH LOVE",
+  "brand": "SEA ROAD INTERNATIONAL CORPORATION",
+  "agency": "OGILVY TOKYO",
+  "raw": "CONDOMANIA: FLESH LOVE – SEA ROAD INTERNATIONAL CORPORATION (OGILVY TOKYO)",
+  "links": [
+   "https://adsspot.me/media/tv-commercials/condomania-flesh-love-986edb399dfd"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [],
+  "official_case": "",
+  "official_summary": ""
+ },
+ {
+  "id": "ltwm-07802",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "SELF-CLEANING OVEN",
+  "brand": "ARCELIK",
+  "agency": "Y&R ISTANBUL",
+  "raw": "SELF-CLEANING OVEN – ARCELIK (Y&R ISTANBUL)",
+  "links": [
+   "https://www.behance.net/gallery/50402001/ARCELIK-Y-R-ISTANBUL"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Outdoor",
+    "subcategory": "Home Appliances, Furnishings, Electronics & Audio-Visual",
+    "count": 1,
+    "source_count": 2
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "ARCELIK",
+   "product": "BUILT IN SERIES",
+   "agencies": [
+    "Y&R ISTANBUL"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Outdoor",
+     "subcategory": "Home Appliances, Furnishings, Electronics & Audio-Visual",
+     "count": 1,
+     "entry_titles": [
+      "COW",
+      "SHEEP"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：Y&R ISTANBUL"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/c554a8e7aa214e2bdfc6db9496c48b94"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/sheep-132865",
+   "https://www.lovethework.com/en/work/entries/cow-132933"
+  ]
+ },
+ {
+  "id": "ltwm-07806",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "ANTI-OBESITY",
+  "brand": "SANTA CASA DA MISERICORDIA",
+  "agency": "Y&R SÃO PAULO",
+  "raw": "ANTI-OBESITY – SANTA CASA DA MISERICORDIA (Y&R SÃO PAULO)",
+  "links": [
+   "https://www.adsoftheworld.com/campaign/santa-casa-de-misericordia-yr-04-2015"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Outdoor",
+    "subcategory": "Fundraising, Donations & Appeals, Charities, Non-Profit Organisations, Public Health & Safety, Public awareness messages",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "SANTA CASA DE MISERICÓRDIA",
+   "product": "ANTI-OBESITY",
+   "agencies": [
+    "Y&R SÃO PAULO"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Outdoor",
+     "subcategory": "Fundraising, Donations & Appeals, Charities, Non-Profit Organisations, Public Health & Safety, Public awareness messages",
+     "count": 1,
+     "entry_titles": [
+      "LOLLIPOP"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：Y&R SÃO PAULO"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/9bde1c2654154b6fdffdbd154fdd6a08"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/lollipop-131269"
   ]
  }
 ]

@@ -1,484 +1,125 @@
 [
  {
-  "id": "ltwm-07559",
+  "id": "ltwm-07468",
   "year": 2015,
   "tier": "SILVER",
   "categories": [],
-  "title": "MOVE THE LUNCH",
-  "brand": "HEINEKEN",
-  "agency": "CHICO LATAM BOGOTÁ",
-  "raw": "MOVE THE LUNCH – HEINEKEN (CHICO LATAM BOGOTÁ)",
+  "title": "OLD TABLE",
+  "brand": "VALUE CITY FURNITURE",
+  "agency": "DUMMY. LOS ANGELES",
+  "raw": "OLD TABLE – VALUE CITY FURNITURE (DUMMY. LOS ANGELES)",
   "links": [
-   "https://www.behance.net/gallery/26378999/HEINEKEN-Move-The-Lunch"
+   "https://clios.com/awards/winner/film/value-city-furniture/old-table-413"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Silver",
-    "category": "PR",
-    "subcategory": "Community Building/Management",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "PR",
-    "subcategory": "Integrated Campaign led by PR",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "HEINEKEN",
-   "product": "HEINEKEN",
-   "agencies": [
-    "CHICO LATAM Bogotá"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "PR",
-     "subcategory": "Community Building/Management",
-     "count": 1,
-     "entry_titles": [
-      "MOVE THE LUNCH"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "PR",
-     "subcategory": "Integrated Campaign led by PR",
-     "count": 1,
-     "entry_titles": [
-      "MOVE THE LUNCH"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類銀獅 PR Silver Lion、公關類銅獅 PR Bronze Lion｜代理商：CHICO LATAM Bogotá"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/ac812cb1299946f2b46446b6fcc80855"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/move-the-lunch-102139",
-   "https://www.lovethework.com/en/work/entries/move-the-lunch-101611"
-  ]
- },
- {
-  "id": "ltwm-07560",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "MAS QUE UN AUTO",
-  "brand": "TOYOTA",
-  "agency": "CONILL SAATCHI & SAATCHI MIAMI",
-  "raw": "MAS QUE UN AUTO – TOYOTA (CONILL SAATCHI & SAATCHI MIAMI)",
-  "links": [
-   "https://clios.com/awards/winner/out-of-home/toyota/mas-que-un-auto-1247"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Outdoor",
-    "subcategory": "Small Scale Special Solutions",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "PR",
-    "subcategory": "Audience Targeting/Engagement (incl. social listening and conversational insight)",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "TOYOTA",
-   "product": "BRAND LOYALTY",
-   "agencies": [
-    "CONILL SAATCHI & SAATCHI Miami"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Outdoor",
-     "subcategory": "Small Scale Special Solutions",
-     "count": 1,
-     "entry_titles": [
-      "MAS QUE UN AUTO"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "PR",
-     "subcategory": "Audience Targeting/Engagement (incl. social listening and conversational insight)",
-     "count": 1,
-     "entry_titles": [
-      "MAS QUE UN AUTO"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類銀獅 PR Silver Lion、戶外類銅獅 Outdoor Bronze Lion｜代理商：CONILL SAATCHI & SAATCHI Miami"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/9cb4d53ccc534b80a03c2e5f0df94084"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/mas-que-un-auto-115406",
-   "https://www.lovethework.com/en/work/entries/mas-que-un-auto-102184"
-  ]
- },
- {
-  "id": "ltwm-07561",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "CHOOSE BEAUTIFUL",
-  "brand": "DOVE",
-  "agency": "EDELMAN LONDON/OGILVY & MATHER CHICAGO",
-  "raw": "CHOOSE BEAUTIFUL – DOVE (EDELMAN LONDON/OGILVY & MATHER CHICAGO)",
-  "links": [
-   "https://clios.com/fashion-beauty/winner/beauty-public-relations/dove/choose-beautiful-13658"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "PR",
-    "subcategory": "Multi-Markets Campaigns",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "PR",
-    "subcategory": "Luxury goods, Fashion & Beauty",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "DOVE",
-   "product": "PERSONAL CARE",
-   "agencies": [
-    "EDELMAN London / OGILVY & MATHER Chicago"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "PR",
-     "subcategory": "Multi-Markets Campaigns",
-     "count": 1,
-     "entry_titles": [
-      "CHOOSE BEAUTIFUL"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "PR",
-     "subcategory": "Luxury goods, Fashion & Beauty",
-     "count": 1,
-     "entry_titles": [
-      "CHOOSE BEAUTIFUL"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類銀獅 PR Silver Lion、公關類銅獅 PR Bronze Lion｜代理商：EDELMAN London / OGILVY & MATHER Chicago"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/1f081b7266c54b80a1b4203f0d2a27a6"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/choose-beautiful-102191",
-   "https://www.lovethework.com/en/work/entries/choose-beautiful-102144"
-  ]
- },
- {
-  "id": "ltwm-07562",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "RED PHONE",
-  "brand": "TELMA TV",
-  "agency": "NEW MOMENT NEW IDEAS COMPANY SKOPJE",
-  "raw": "RED PHONE – TELMA TV (NEW MOMENT NEW IDEAS COMPANY SKOPJE)",
-  "links": [
-   "https://adsspot.me/media/case-study/telma-tv-red-phone-ad480beb5c1e"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "PR",
-    "subcategory": "Costs/Creative Performance PR Campaign",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "TELMA TV",
-   "product": "CORPORATE",
-   "agencies": [
-    "NEW MOMENT NEW IDEAS COMPANY Skopje"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "PR",
-     "subcategory": "Costs/Creative Performance PR Campaign",
-     "count": 1,
-     "entry_titles": [
-      "RED PHONE"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類銀獅 PR Silver Lion｜代理商：NEW MOMENT NEW IDEAS COMPANY Skopje"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/222d1638251946f6ac4f199425e800dc"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/red-phone-101743"
-  ]
- },
- {
-  "id": "ltwm-07563",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "COULD I BE ANY CLEARER?",
-  "brand": "HARVEY NICHOLS",
-  "agency": "ADAM&EVEDDB LONDON",
-  "raw": "COULD I BE ANY CLEARER? – HARVEY NICHOLS (ADAM&EVEDDB LONDON)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2015/writing-for-design/24035/could-i-be-any-clearer/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Press",
-    "subcategory": "Retail Stores",
-    "count": 1,
-    "source_count": 3
-   },
-   {
-    "level": "Silver",
-    "category": "Press",
-    "subcategory": "Copywriting",
-    "count": 1,
-    "source_count": 3
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "HARVEY NICHOLS",
-   "product": "CHRISTMAS",
-   "agencies": [
-    "ADAM&EVEDDB London"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Press",
-     "subcategory": "Retail Stores",
-     "count": 1,
-     "entry_titles": [
-      "TIDINGS OF JOY",
-      "CHRISTMAS TIME",
-      "GOOD WILL TO ALL MEN"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Press",
-     "subcategory": "Copywriting",
-     "count": 1,
-     "entry_titles": [
-      "TIDINGS OF JOY",
-      "CHRISTMAS TIME",
-      "GOOD WILL TO ALL MEN"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銀獅 Press Silver Lion×2｜代理商：ADAM&EVEDDB London"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/e4449275a0894a328c8cfd24577c2b9f"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/good-will-to-all-men-133867",
-   "https://www.lovethework.com/en/work/entries/christmas-time-133895",
-   "https://www.lovethework.com/en/work/entries/tidings-of-joy-133916"
-  ]
- },
- {
-  "id": "ltwm-07564",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "#PACKATTACK",
-  "brand": "TEMPTATIONS",
-  "agency": "ADAM&EVEDDB LONDON",
-  "raw": "#PACKATTACK – TEMPTATIONS (ADAM&EVEDDB LONDON)",
-  "links": [
-   "https://chrisandfran.carbonmade.com/projects/5463355"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Press",
-    "subcategory": "Miscellaneous",
-    "count": 1,
-    "source_count": 3
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "MARS",
-   "product": "TEMPTATIONS CAT TREATS",
-   "agencies": [
-    "ADAM&EVEDDB London"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Press",
-     "subcategory": "Miscellaneous",
-     "count": 1,
-     "entry_titles": [
-      "SALMON",
-      "CHICKEN",
-      "SEAFOOD"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銀獅 Press Silver Lion｜代理商：ADAM&EVEDDB London"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/5d135fe13d4142e7d04b6baa3ad76be9"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/seafood-134241",
-   "https://www.lovethework.com/en/work/entries/chicken-134267",
-   "https://www.lovethework.com/en/work/entries/salmon-134305"
-  ]
- },
- {
-  "id": "ltwm-07565",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "ANAGRAMS",
-  "brand": "SCRABBLE",
-  "agency": "LOLA MULLENLOWE MADRID",
-  "raw": "ANAGRAMS – SCRABBLE (LOLA MULLENLOWE MADRID)",
-  "links": [
-   "https://www.behance.net/gallery/71257669/Scrabble-Anagrams-Integrated"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
     "category": "Film",
-    "subcategory": "Entertainment & Leisure",
+    "subcategory": "Household Goods, Home Appliances & Furnishings",
     "count": 1,
     "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Press",
-    "subcategory": "Entertainment & Leisure",
-    "count": 1,
-    "source_count": 3
    }
   ],
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "MATTEL",
-   "product": "SCRABBLE",
+   "brand": "VALUE CITY FURNITURE",
+   "product": "FURNITURE",
    "agencies": [
-    "LOLA LOWE & PARTNERS Madrid"
+    "DUMMY. Los Angeles / TRANSLATION New York"
    ],
    "awards": [
     {
-     "level": "Bronze",
-     "category": "Film",
-     "subcategory": "Entertainment & Leisure",
-     "count": 1,
-     "entry_titles": [
-      "ANAGRAM LOVERS"
-     ]
-    },
-    {
      "level": "Silver",
-     "category": "Press",
-     "subcategory": "Entertainment & Leisure",
+     "category": "Film",
+     "subcategory": "Household Goods, Home Appliances & Furnishings",
      "count": 1,
      "entry_titles": [
-      "ANAGRAM LOVERS",
-      "ANAGRAM DUET",
-      "ANAGRAM DREAMS"
+      "OLD TABLE"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銀獅 Press Silver Lion、影片類銅獅 Film Bronze Lion｜代理商：LOLA LOWE & PARTNERS Madrid"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銀獅 Film Silver Lion｜代理商：DUMMY. Los Angeles / TRANSLATION New York"
   },
   "image_candidates": [
    "https://images.ctfassets.net/8ha5xom4da7e/7sDFJEwnUZaGwijBHq2OXr/aa1a7fa09f91cf7a197ee7d0c16cac41/LTW_placeholder_3.svg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/anagram-lovers-134574",
-   "https://www.lovethework.com/en/work/entries/anagram-dreams-133579",
-   "https://www.lovethework.com/en/work/entries/anagram-duet-133600"
+   "https://www.lovethework.com/en/work/entries/old-table-135252"
   ]
  },
  {
-  "id": "ltwm-07566",
+  "id": "ltwm-07473",
   "year": 2015,
   "tier": "SILVER",
   "categories": [],
-  "title": "A BIT BITTER",
-  "brand": "FARNHAM",
-  "agency": "LG2 QUÉBEC",
-  "raw": "A BIT BITTER – FARNHAM (LG2 QUÉBEC)",
+  "title": "HOW CHINA ARE YOU?",
+  "brand": "PROTONET",
+  "agency": "KOLLE REBBE HAMBURG",
+  "raw": "HOW CHINA ARE YOU? – PROTONET (KOLLE REBBE HAMBURG)",
   "links": [
-   "https://www.adsoftheworld.com/campaign/farnham-ale-lager-lg2-12-2014"
+   "https://www.henning-bruemmer.de/en/portfolio_page/protonet-how-china-are-you/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Silver",
-    "category": "Press",
-    "subcategory": "Alcoholic Drinks",
+    "category": "Film",
+    "subcategory": "Home Electronics & Audio-Visual",
     "count": 1,
-    "source_count": 2
-   },
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "PROTONET",
+   "product": "PROTONET SERVER",
+   "agencies": [
+    "KOLLE REBBE Hamburg"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Film",
+     "subcategory": "Home Electronics & Audio-Visual",
+     "count": 1,
+     "entry_titles": [
+      "HOW CHINA ARE YOU?"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銀獅 Film Silver Lion｜代理商：KOLLE REBBE Hamburg"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/7sDFJEwnUZaGwijBHq2OXr/aa1a7fa09f91cf7a197ee7d0c16cac41/LTW_placeholder_3.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/how-china-are-you-135596"
+  ]
+ },
+ {
+  "id": "ltwm-07470",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "PSYCHOLOGIST, DOCTOR",
+  "brand": "CAR ONE",
+  "agency": "LEO BURNETT BUENOS AIRES",
+  "raw": "PSYCHOLOGIST, DOCTOR – CAR ONE (LEO BURNETT BUENOS AIRES)",
+  "links": [
+   "https://adsspot.me/campaigns/car-one-e10f887ba499"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
    {
-    "level": "Bronze",
-    "category": "Outdoor",
-    "subcategory": "Drinks (Alcoholic & Non-Alcoholic)",
+    "level": "Silver",
+    "category": "Film",
+    "subcategory": "Cars, Other Vehicles, Auto Products & Services",
     "count": 1,
     "source_count": 2
    }
@@ -486,55 +127,248 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "FARNHAM ALE & LAGER",
-   "product": "BEERS",
+   "brand": "CAR ONE",
+   "product": "TECHNICAL SERVICE",
    "agencies": [
-    "lg2 Québec"
+    "LEO BURNETT ARGENTINA Buenos Aires"
    ],
    "awards": [
     {
      "level": "Silver",
-     "category": "Press",
-     "subcategory": "Alcoholic Drinks",
+     "category": "Film",
+     "subcategory": "Cars, Other Vehicles, Auto Products & Services",
      "count": 1,
      "entry_titles": [
-      "SOCCER",
-      "SPOUSE"
+      "PSYCHOLOGIST",
+      "DOCTOR"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銀獅 Film Silver Lion｜代理商：LEO BURNETT ARGENTINA Buenos Aires"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/21oKzZpgKK38z6CH22xvKi/2891cea86e6d97a93344f9f8fd0e6153/LTW_placeholder_2.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/psychologist-134485",
+   "https://www.lovethework.com/en/work/entries/doctor-134484"
+  ]
+ },
+ {
+  "id": "ltwm-07469",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "I’M WEEDING RIGHT NOW",
+  "brand": "THE SCOTTS MIRACLE-GRO COMPANY",
+  "agency": "MCGARRYBOWEN LONDON",
+  "raw": "I’M WEEDING RIGHT NOW – THE SCOTTS MIRACLE-GRO COMPANY (MCGARRYBOWEN LONDON)",
+  "links": [
+   "https://www.adsoftheworld.com/media/film/weedol_im_weeding_right_now"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Film",
+    "subcategory": "Household Goods, Home Appliances & Furnishings",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "THE SCOTTS MIRACLE-GRO COMPANY",
+   "product": "WEEDOL PATHCLEAR",
+   "agencies": [
+    "MCGARRYBOWEN London"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Film",
+     "subcategory": "Household Goods, Home Appliances & Furnishings",
+     "count": 1,
+     "entry_titles": [
+      "I'M WEEDING RIGHT NOW"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銀獅 Film Silver Lion｜代理商：MCGARRYBOWEN London"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/21oKzZpgKK38z6CH22xvKi/2891cea86e6d97a93344f9f8fd0e6153/LTW_placeholder_2.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/im-weeding-right-now-119853"
+  ]
+ },
+ {
+  "id": "ltwm-07466",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "AID TO CART",
+  "brand": "EXITO FOUNDATION",
+  "agency": "SANCHO BBDO BOGOTÁ",
+  "raw": "AID TO CART – EXITO FOUNDATION (SANCHO BBDO BOGOTÁ)",
+  "links": [
+   "https://www.youtube.com/watch?v=VPFe4CLoZy4"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Direct",
+    "subcategory": "Charities (incl. Fundraising, Donations & Appeals)",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Digital Advertising in a Promotional Campaign",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Media",
+    "subcategory": "Use of Other Digital Platforms",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "EXITO GROUP / FOOD BANK",
+   "product": "EXITO FOUNDATION",
+   "agencies": [
+    "SANCHO BBDO Bogotá"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Direct",
+     "subcategory": "Charities (incl. Fundraising, Donations & Appeals)",
+     "count": 1,
+     "entry_titles": [
+      "AID TO CART"
      ]
     },
     {
      "level": "Bronze",
-     "category": "Outdoor",
-     "subcategory": "Drinks (Alcoholic & Non-Alcoholic)",
+     "category": "Promo & Activation",
+     "subcategory": "Use of Digital Advertising in a Promotional Campaign",
      "count": 1,
      "entry_titles": [
-      "SOCCER",
-      "SPOUSE"
+      "AID TO CART"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Media",
+     "subcategory": "Use of Other Digital Platforms",
+     "count": 1,
+     "entry_titles": [
+      "AID TO CART"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銀獅 Press Silver Lion、戶外類銅獅 Outdoor Bronze Lion｜代理商：lg2 Québec"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜直效類銀獅 Direct Silver Lion、媒體類銀獅 Media Silver Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：SANCHO BBDO Bogotá"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/7a51976c658b4276bf3ec019ebe52790"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/0735dea82a564471b64857f6dd2c95f4"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/spouse-134234",
-   "https://www.lovethework.com/en/work/entries/soccer-134273",
-   "https://www.lovethework.com/en/work/entries/spouse-133226"
+   "https://www.lovethework.com/en/work/entries/aid-to-cart-126044",
+   "https://www.lovethework.com/en/work/entries/aid-to-cart-109639",
+   "https://www.lovethework.com/en/work/entries/aid-to-cart-107249"
   ]
  },
  {
-  "id": "ltwm-07567",
+  "id": "ltwm-07507",
   "year": 2015,
   "tier": "SILVER",
   "categories": [],
-  "title": "TOO IMPORTANT",
-  "brand": "TIDE",
-  "agency": "DEL CAMPO SAATCHI & SAATCHI BUENOS AIRES",
-  "raw": "TOO IMPORTANT – TIDE (DEL CAMPO SAATCHI & SAATCHI BUENOS AIRES)",
+  "title": "RADIOMETRIES",
+  "brand": "EXITO FOUNDATION",
+  "agency": "SANCHO BBDO BOGOTÁ",
+  "raw": "RADIOMETRIES – EXITO FOUNDATION (SANCHO BBDO BOGOTÁ)",
   "links": [
-   "http://www.adeevee.com/2015/05/tide-sometimes-a-stain-becomes-too-important-print/"
+   "https://www.youtube.com/watch?v=p1AbkAubpbo"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Health & Wellness",
+    "subcategory": "Education & Awareness",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Health & Wellness",
+    "subcategory": "Education & Awareness",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "EXITO FOUNDATION",
+   "product": "EXITO FOUNDATION",
+   "agencies": [
+    "SANCHO BBDO Bogotá"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Health & Wellness",
+     "subcategory": "Education & Awareness",
+     "count": 1,
+     "entry_titles": [
+      "RADIOMETRIES"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Health & Wellness",
+     "subcategory": "Education & Awareness",
+     "count": 1,
+     "entry_titles": [
+      "RADIOMETRIES"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜健康與保健類銀獅 Health & Wellness Silver Lion、健康與保健類銅獅 Health & Wellness Bronze Lion｜代理商：SANCHO BBDO Bogotá"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/0013bd6061ce49b487ec5b853361b31a"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/radiometries-121081",
+   "https://www.lovethework.com/en/work/entries/radiometries-120736"
+  ]
+ },
+ {
+  "id": "ltwm-07573",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "CONNECTIONS",
+  "brand": "LAND ROVER",
+  "agency": "Y&R NEW YORK",
+  "raw": "CONNECTIONS – LAND ROVER (Y&R NEW YORK)",
+  "links": [
+   "https://www.dandad.org/awards/professional/2016/art-direction/25626/connections/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
@@ -542,7 +376,14 @@
    {
     "level": "Silver",
     "category": "Press",
-    "subcategory": "Household: Cleaning Products",
+    "subcategory": "Corporate Image & Communication",
+    "count": 1,
+    "source_count": 4
+   },
+   {
+    "level": "Silver",
+    "category": "Press",
+    "subcategory": "Art Direction",
     "count": 1,
     "source_count": 4
    }
@@ -550,55 +391,67 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "PROCTER & GAMBLE",
-   "product": "TIDE",
+   "brand": "LAND ROVER USA",
+   "product": "LAND ROVER PRINT ADS",
    "agencies": [
-    "DEL CAMPO SAATCHI & SAATCHI Buenos Aires"
+    "Y&R NEW YORK"
    ],
    "awards": [
     {
      "level": "Silver",
      "category": "Press",
-     "subcategory": "Household: Cleaning Products",
+     "subcategory": "Corporate Image & Communication",
      "count": 1,
      "entry_titles": [
-      "BUSINESS DINNER",
-      "GIRL",
-      "LEAD ROLE",
-      "VIDEO CONFERENCE"
+      "ELEPHANT",
+      "APE",
+      "HYENA",
+      "FROG"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Press",
+     "subcategory": "Art Direction",
+     "count": 1,
+     "entry_titles": [
+      "ELEPHANT",
+      "APE",
+      "HYENA",
+      "FROG"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銀獅 Press Silver Lion｜代理商：DEL CAMPO SAATCHI & SAATCHI Buenos Aires"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銀獅 Press Silver Lion×2｜代理商：Y&R NEW YORK"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/48bbf5f9cb0c459eef936c9ef8a10b19"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/b443aa7914cc4349c0ebc3f4b45590d5"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/video-conference-118058",
-   "https://www.lovethework.com/en/work/entries/lead-role-118067",
-   "https://www.lovethework.com/en/work/entries/girl-118088"
+   "https://www.lovethework.com/en/work/entries/frog-116793",
+   "https://www.lovethework.com/en/work/entries/hyena-116802",
+   "https://www.lovethework.com/en/work/entries/ape-116808"
   ]
  },
  {
-  "id": "ltwm-07568",
+  "id": "ltwm-07471",
   "year": 2015,
   "tier": "SILVER",
   "categories": [],
-  "title": "INSTRUMENTS",
-  "brand": "GASTRINA",
-  "agency": "MCCANN MUMBAI",
-  "raw": "INSTRUMENTS – GASTRINA (MCCANN MUMBAI)",
+  "title": "CROCODILE",
+  "brand": "LANDROVER",
+  "agency": "Y&R CAPE TOWN",
+  "raw": "CROCODILE – LANDROVER (Y&R CAPE TOWN)",
   "links": [
-   "https://www.behance.net/gallery/57019801/DABUR-GASTRINA-WIND-INSTRUMENTS"
+   "https://www.youtube.com/watch?v=af6_wv-LcJA&ab_channel=StephanieVazquez"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Silver",
-    "category": "Press",
-    "subcategory": "OTC Pharmacy, Healthcare & Prescription Drugs",
+    "category": "Film",
+    "subcategory": "Cars, Other Vehicles, Auto Products & Services",
     "count": 1,
     "source_count": 3
    }
@@ -606,33 +459,160 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "DABUR",
-   "product": "GASTRINA",
+   "brand": "JAGUAR LAND ROVER SOUTH AFRICA",
+   "product": "LAND ROVER",
    "agencies": [
-    "McCANN WORLDGROUP INDIA Mumbai"
+    "Y&R SOUTH AFRICA Cape Town"
    ],
    "awards": [
     {
      "level": "Silver",
-     "category": "Press",
-     "subcategory": "OTC Pharmacy, Healthcare & Prescription Drugs",
+     "category": "Film",
+     "subcategory": "Cars, Other Vehicles, Auto Products & Services",
      "count": 1,
      "entry_titles": [
-      "FRENCH HORN",
-      "FLUGELHORN",
-      "SAXOPHONE"
+      "CROCODILE",
+      "EAGLE",
+      "LION"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銀獅 Press Silver Lion｜代理商：McCANN WORLDGROUP INDIA Mumbai"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銀獅 Film Silver Lion｜代理商：Y&R SOUTH AFRICA Cape Town"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/964bd648f67043f3d2d696f7f732e893"
+   "https://images.ctfassets.net/8ha5xom4da7e/3duqCqeHDt9hMAdtuQjc3V/3f6a8c56aeb415ac19cd5dd916fa6976/LTW_placeholder_1.svg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/saxophone-117203",
-   "https://www.lovethework.com/en/work/entries/flugelhorn-117212",
-   "https://www.lovethework.com/en/work/entries/french-horn-117234"
+   "https://www.lovethework.com/en/work/entries/lion-134452",
+   "https://www.lovethework.com/en/work/entries/eagle-134457",
+   "https://www.lovethework.com/en/work/entries/crocodile-134458"
+  ]
+ },
+ {
+  "id": "ltwm-07717",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "5X5 FILM PROJECT",
+  "brand": "LAND ROVER",
+  "agency": "Y&R NEW YORK",
+  "raw": "5X5 FILM PROJECT – LAND ROVER (Y&R NEW YORK)",
+  "links": [
+   "https://www.youtube.com/watch?v=Cexs8UTyCh4"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Film",
+    "subcategory": "Public Screens & Events",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Press",
+    "subcategory": "Other Vehicles, Auto Products & Services",
+    "count": 1,
+    "source_count": 4
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "LAND ROVER USA",
+   "product": "FIVE CAMERA SURROUND SYSTEM",
+   "agencies": [
+    "Y&R NEW YORK"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Film",
+     "subcategory": "Public Screens & Events",
+     "count": 1,
+     "entry_titles": [
+      "THE WAVE"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Press",
+     "subcategory": "Other Vehicles, Auto Products & Services",
+     "count": 1,
+     "entry_titles": [
+      "BEETLE",
+      "GRAPE",
+      "SNAKE",
+      "FLOWER"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銅獅 Film Bronze Lion、Press類銅獅 Press Bronze Lion｜代理商：Y&R NEW YORK"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/21oKzZpgKK38z6CH22xvKi/2891cea86e6d97a93344f9f8fd0e6153/LTW_placeholder_2.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/the-wave-120311",
+   "https://www.lovethework.com/en/work/entries/flower-117829",
+   "https://www.lovethework.com/en/work/entries/snake-117846"
+  ]
+ },
+ {
+  "id": "ltwm-07787",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "SEE EVERYTHING",
+  "brand": "JAGUAR",
+  "agency": "Y&R CAPE TOWN",
+  "raw": "SEE EVERYTHING – JAGUAR (Y&R CAPE TOWN)",
+  "links": [
+   "https://www.behance.net/gallery/38583349/Land-Rover-360-Camera-See-Everything-Print-Campaign"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Outdoor",
+    "subcategory": "Cars & Automotive Services",
+    "count": 1,
+    "source_count": 3
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "JAGUAR LAND ROVER SOUTH AFRICA",
+   "product": "LAND ROVER BRAND",
+   "agencies": [
+    "Y&R SOUTH AFRICA Cape Town"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Outdoor",
+     "subcategory": "Cars & Automotive Services",
+     "count": 1,
+     "entry_titles": [
+      "SPIDER",
+      "SCORPION",
+      "LEECH"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：Y&R SOUTH AFRICA Cape Town"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/0c9275cbed65465993e9ec01bd0d8080"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/leech-131092",
+   "https://www.lovethework.com/en/work/entries/scorpion-131101",
+   "https://www.lovethework.com/en/work/entries/spider-131114"
   ]
  }
 ]

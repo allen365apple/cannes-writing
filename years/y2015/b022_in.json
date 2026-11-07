@@ -1,88 +1,119 @@
 [
  {
-  "id": "ltwm-07476",
+  "id": "ltwm-13768",
   "year": 2015,
-  "tier": "SILVER",
+  "tier": "GOLD",
   "categories": [],
-  "title": "IMAGINE",
-  "brand": "S7 AIRLINES",
-  "agency": "WIEDEN+KENNEDY AMSTERDAM",
-  "raw": "IMAGINE – S7 AIRLINES (WIEDEN+KENNEDY AMSTERDAM)",
+  "title": "THE FAMILY FARM OF CHEBURASHKINI BROTHERS",
+  "brand": "",
+  "agency": "ERMOLAEV BUREAU MOSCOW",
+  "raw": "THE FAMILY FARM OF CHEBURASHKINI BROTHERS (ERMOLAEV BUREAU MOSCOW)",
   "links": [
-   "https://vimeo.com/122549147"
+   "https://www.behance.net/gallery/45921391/Cheburashkini-Brothers-Identity"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Silver",
-    "category": "Film",
-    "subcategory": "Travel, Transport & Tourism",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "S7 AIRLINES",
-   "product": "S7 AIRLINES",
-   "agencies": [
-    "WIEDEN+KENNEDY AMSTERDAM"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Film",
-     "subcategory": "Travel, Transport & Tourism",
-     "count": 1,
-     "entry_titles": [
-      "IMAGINE"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銀獅 Film Silver Lion｜代理商：WIEDEN+KENNEDY AMSTERDAM"
-  },
-  "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/1GStA8cUUMJnbepXVsQwox/7aaaddc9cb7ae9f22939053c2fe46b31/LTW_placeholder_4.svg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/imagine-120088"
-  ]
- },
- {
-  "id": "ltwm-07477",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "IF YOU’RE HAPPY",
-  "brand": "WEIGHT WATCHERS",
-  "agency": "WIEDEN+KENNEDY PORTLAND",
-  "raw": "IF YOU’RE HAPPY – WEIGHT WATCHERS (WIEDEN+KENNEDY PORTLAND)",
-  "links": [
-   "http://cargocollective.com/brooke-barker/Weight-Watchers-If-you-re-happy"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Film",
-    "subcategory": "Entertainment & Leisure",
+    "level": "Gold",
+    "category": "Design",
+    "subcategory": "New Brand Identity: the Creation of a New Brand Identity",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Bronze",
-    "category": "Film",
-    "subcategory": "Entertainment & Leisure",
+    "category": "Design",
+    "subcategory": "Premium Brand",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "THE FAMILY FARM OF CHEBURASHKINI BROTHERS",
+   "product": null,
+   "agencies": [
+    "ERMOLAEV BUREAU Moscow"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Design",
+     "subcategory": "New Brand Identity: the Creation of a New Brand Identity",
+     "count": 1,
+     "entry_titles": [
+      "IDENTITY FOR THE FAMILY FARM OF CHEBURASHKINI BROTHERS"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Design",
+     "subcategory": "Premium Brand",
+     "count": 1,
+     "entry_titles": [
+      "DAIRY PACKAGING FOR THE FAMILY FARM OF CHEBURASHKINI BROTHERS"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類金獅 Design Gold Lion、設計類銅獅 Design Bronze Lion｜代理商：ERMOLAEV BUREAU Moscow"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/9e0e298b52d04746ba01b11ac4725438"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/identity-for-the-family-farm-of-cheburashkini-brothers-103680",
+   "https://www.lovethework.com/en/work/entries/dairy-packaging-for-the-family-farm-of-cheburashkini-brothers-104060"
+  ]
+ },
+ {
+  "id": "ltwm-07400",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "LIFE SAVING DOT",
+  "brand": "TALWAR BINDI",
+  "agency": "GREY GROUP SINGAPORE",
+  "raw": "LIFE SAVING DOT – TALWAR BINDI (GREY GROUP SINGAPORE)",
+  "links": [
+   "https://www.dandad.org/awards/professional/2016/creativity-for-good-white-pencil/25065/life-saving-dot/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "PR",
+    "subcategory": "Corporate Responsibility",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Product Design",
+    "subcategory": "Well-Being & Environmental Impact",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Innovation",
+    "subcategory": "Creative Innovation (including Business Solutions in Association with a Brand or Creative Campaign)",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Health & Wellness",
+    "subcategory": "Education & Awareness",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Bronze",
-    "category": "Film Craft",
-    "subcategory": "Use of Licensed/Adapted Music",
+    "category": "Health & Wellness",
+    "subcategory": "Education & Awareness",
     "count": 1,
     "source_count": 1
    }
@@ -90,70 +121,287 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "WEIGHT WATCHERS",
-   "product": "WEIGHT LOSS",
+   "brand": "TALWAR BINDI",
+   "product": "BINDI",
    "agencies": [
-    "WIEDEN+KENNEDY Portland"
+    "GREY GROUP Singapore"
    ],
    "awards": [
     {
+     "level": "Bronze",
+     "category": "PR",
+     "subcategory": "Corporate Responsibility",
+     "count": 1,
+     "entry_titles": [
+      "LIFE SAVING DOT"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Product Design",
+     "subcategory": "Well-Being & Environmental Impact",
+     "count": 1,
+     "entry_titles": [
+      "LIFE SAVING DOT"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Innovation",
+     "subcategory": "Creative Innovation (including Business Solutions in Association with a Brand or Creative Campaign)",
+     "count": 1,
+     "entry_titles": [
+      "LIFE SAVING DOT"
+     ]
+    },
+    {
      "level": "Silver",
-     "category": "Film",
-     "subcategory": "Entertainment & Leisure",
+     "category": "Health & Wellness",
+     "subcategory": "Education & Awareness",
      "count": 1,
      "entry_titles": [
-      "IF YOU'RE HAPPY"
+      "LIFE SAVING DOT"
      ]
     },
     {
      "level": "Bronze",
-     "category": "Film",
-     "subcategory": "Entertainment & Leisure",
+     "category": "Health & Wellness",
+     "subcategory": "Education & Awareness",
      "count": 1,
      "entry_titles": [
-      "MY BUTT"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Film Craft",
-     "subcategory": "Use of Licensed/Adapted Music",
-     "count": 1,
-     "entry_titles": [
-      "IF YOU'RE HAPPY"
+      "LIFE SAVING DOT"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銀獅 Film Silver Lion、影片類銅獅 Film Bronze Lion、影片工藝類銅獅 Film Craft Bronze Lion｜代理商：WIEDEN+KENNEDY Portland"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創新類金獅 Innovation Gold Lion、產品設計類金獅 Product Design Gold Lion、健康與保健類銀獅 Health & Wellness Silver Lion、健康與保健類銅獅 Health & Wellness Bronze Lion、公關類銅獅 PR Bronze Lion｜代理商：GREY GROUP Singapore"
   },
   "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/21oKzZpgKK38z6CH22xvKi/2891cea86e6d97a93344f9f8fd0e6153/LTW_placeholder_2.svg"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/69fc25da3d6b4503bd9c8842d53dd692"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/if-youre-happy-134714",
-   "https://www.lovethework.com/en/work/entries/if-youre-happy-124032",
-   "https://www.lovethework.com/en/work/entries/my-butt-134689"
+   "https://www.lovethework.com/en/work/entries/life-saving-dot-98978",
+   "https://www.lovethework.com/en/work/entries/life-saving-dot-98320",
+   "https://www.lovethework.com/en/work/entries/life-saving-dot-98214"
   ]
  },
  {
-  "id": "ltwm-07478",
+  "id": "ltwm-07401",
   "year": 2015,
-  "tier": "SILVER",
+  "tier": "GOLD",
   "categories": [],
-  "title": "THERE IS NO BIGGER PRICE THAN SHARING",
-  "brand": "LOTERÍAS Y APUESTAS DEL ESTADO",
-  "agency": "LEO BURNETT MADRID",
-  "raw": "THERE IS NO BIGGER PRICE THAN SHARING – LOTERÍAS Y APUESTAS DEL ESTADO (LEO BURNETT MADRID)",
+  "title": "ACH2O",
+  "brand": "PANASONIC",
+  "agency": "MARURI GREY GUAYAQUIL",
+  "raw": "ACH2O – PANASONIC (MARURI GREY GUAYAQUIL)",
   "links": [
-   "https://vimeo.com/405034299"
+   "https://vimeo.com/132213831"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Direct",
+    "subcategory": "Targeted Ambient Media: Small Scale",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Direct",
+    "subcategory": "Other Consumer Products (including Durable Goods)",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Direct",
+    "subcategory": "Product Launch/Re-launch",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Product Design",
+    "subcategory": "Home Electronics and Appliances",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Innovation",
+    "subcategory": "Creative Innovation (including Business Solutions in Association with a Brand or Creative Campaign)",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "PANASONIC",
+   "product": "ACH2O",
+   "agencies": [
+    "MARURI GREY Guayaquil"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Direct",
+     "subcategory": "Targeted Ambient Media: Small Scale",
+     "count": 1,
+     "entry_titles": [
+      "ACH2O"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Direct",
+     "subcategory": "Other Consumer Products (including Durable Goods)",
+     "count": 1,
+     "entry_titles": [
+      "ACH2O"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Direct",
+     "subcategory": "Product Launch/Re-launch",
+     "count": 1,
+     "entry_titles": [
+      "ACH2O"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Product Design",
+     "subcategory": "Home Electronics and Appliances",
+     "count": 1,
+     "entry_titles": [
+      "ACH2O"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Innovation",
+     "subcategory": "Creative Innovation (including Business Solutions in Association with a Brand or Creative Campaign)",
+     "count": 1,
+     "entry_titles": [
+      "ACH2O"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創新類金獅 Innovation Gold Lion、產品設計類金獅 Product Design Gold Lion、直效類銅獅 Direct Bronze Lion×3｜代理商：MARURI GREY Guayaquil"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/6c03dd92f69341d3c0a1c83e8917fed0"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/ach2o-99068",
+   "https://www.lovethework.com/en/work/entries/ach2o-97868",
+   "https://www.lovethework.com/en/work/entries/ach2o-110039"
+  ]
+ },
+ {
+  "id": "ltwm-07397",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "BIORANGER",
+  "brand": "DIAGENETIX",
+  "agency": "R/GA NEW YORK",
+  "raw": "BIORANGER – DIAGENETIX (R/GA NEW YORK)",
+  "links": [
+   "https://vimeo.com/132213494"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Product Design",
+    "subcategory": "Solution",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Innovation",
+    "subcategory": "Innovative Technology (including Stand-alone, Technological Solutions not in Association with a Brand or Creative Campaign)",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "DIAGENETIX",
+   "product": "CROP TESTING DEVICE AND APP",
+   "agencies": [
+    "R/GA New York"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Product Design",
+     "subcategory": "Solution",
+     "count": 1,
+     "entry_titles": [
+      "BIORANGER"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Innovation",
+     "subcategory": "Innovative Technology (including Stand-alone, Technological Solutions not in Association with a Brand or Creative Campaign)",
+     "count": 1,
+     "entry_titles": [
+      "BIORANGER"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創新類金獅 Innovation Gold Lion、產品設計類金獅 Product Design Gold Lion｜代理商：R/GA New York"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/f3df6cfb904b4e6dd80b21047297398b"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/bioranger-98921",
+   "https://www.lovethework.com/en/work/entries/bioranger-120589"
+  ]
+ },
+ {
+  "id": "ltwm-07398",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "OWLET",
+  "brand": "OWLET BABY CARE",
+  "agency": "R/GA NEW YORK",
+  "raw": "OWLET – OWLET BABY CARE (R/GA NEW YORK)",
+  "links": [
+   "https://vimeo.com/132213520"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Silver",
-    "category": "Film",
-    "subcategory": "Entertainment & Leisure",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Innovation",
+    "subcategory": "Innovative Technology (including Stand-alone, Technological Solutions not in Association with a Brand or Creative Campaign)",
     "count": 1,
     "source_count": 1
    }
@@ -161,50 +409,75 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "LOTERIAS Y APUESTAS DEL ESTADO",
-   "product": "LOTERIA DE NAVIDAD",
+   "brand": "OWLET BABY CARE",
+   "product": "OWLET",
    "agencies": [
-    "LEO BURNETT MADRID Madrid"
+    "R/GA New York"
    ],
    "awards": [
     {
      "level": "Silver",
-     "category": "Film",
-     "subcategory": "Entertainment & Leisure",
+     "category": "Mobile",
+     "subcategory": "",
      "count": 1,
      "entry_titles": [
-      "THERE IS NO BIGGER PRICE THAN SHARING"
+      "OWLET"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Mobile",
+     "subcategory": "",
+     "count": 1,
+     "entry_titles": [
+      "OWLET"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Innovation",
+     "subcategory": "Innovative Technology (including Stand-alone, Technological Solutions not in Association with a Brand or Creative Campaign)",
+     "count": 1,
+     "entry_titles": [
+      "OWLET"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銀獅 Film Silver Lion｜代理商：LEO BURNETT MADRID Madrid"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創新類金獅 Innovation Gold Lion、行動類銀獅 Mobile Silver Lion、行動類銅獅 Mobile Bronze Lion｜代理商：R/GA New York"
   },
   "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/21oKzZpgKK38z6CH22xvKi/2891cea86e6d97a93344f9f8fd0e6153/LTW_placeholder_2.svg"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/2150f93ae0b84e668cf5904a8d420a6e"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/there-is-no-bigger-price-than-sharing-119669"
+   "https://www.lovethework.com/en/work/entries/owlet-120580"
   ]
  },
  {
-  "id": "ltwm-07479",
+  "id": "ltwm-07399",
   "year": 2015,
-  "tier": "SILVER",
+  "tier": "GOLD",
   "categories": [],
-  "title": "UNICORNS",
-  "brand": "CANAL+",
-  "agency": "BETC PARIS",
-  "raw": "UNICORNS – CANAL+ (BETC PARIS)",
+  "title": "PENNY THE PIRATE",
+  "brand": "LUXOTTICA",
+  "agency": "SAATCHI & SAATCHI SYDNEY",
+  "raw": "PENNY THE PIRATE – LUXOTTICA (SAATCHI & SAATCHI SYDNEY)",
   "links": [
-   "https://clios.com/awards/winner/film/canal-/unicorns-722"
+   "https://www.dandad.org/awards/professional/2015/direct/24668/penny-the-pirate/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Silver",
-    "category": "Film",
-    "subcategory": "Publications & Media",
+    "level": "Bronze",
+    "category": "Creative Effectiveness",
+    "subcategory": "Creative Effectiveness",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Innovation",
+    "subcategory": "Creative Innovation (including Business Solutions in Association with a Brand or Creative Campaign)",
     "count": 1,
     "source_count": 1
    }
@@ -212,50 +485,146 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "CANAL +",
-   "product": "CANAL +",
+   "brand": "LUXOTTICA",
+   "product": "OPSM",
    "agencies": [
-    "BETC Paris"
+    "SAATCHI & SAATCHI Sydney"
    ],
    "awards": [
     {
-     "level": "Silver",
-     "category": "Film",
-     "subcategory": "Publications & Media",
+     "level": "Bronze",
+     "category": "Creative Effectiveness",
+     "subcategory": "Creative Effectiveness",
      "count": 1,
      "entry_titles": [
-      "UNICORNS"
+      "PENNY THE PIRATE"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Innovation",
+     "subcategory": "Creative Innovation (including Business Solutions in Association with a Brand or Creative Campaign)",
+     "count": 1,
+     "entry_titles": [
+      "PENNY THE PIRATE"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銀獅 Film Silver Lion｜代理商：BETC Paris"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創新類金獅 Innovation Gold Lion、創意實效類銅獅 Creative Effectiveness Bronze Lion｜代理商：SAATCHI & SAATCHI Sydney"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/afef068a13514977b67cccccd503e4e4"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/penny-the-pirate-122617",
+   "https://www.lovethework.com/en/work/entries/penny-the-pirate-120566"
+  ]
+ },
+ {
+  "id": "ltwm-07403",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "STRUCK BY A RAINBOW",
+  "brand": "SKITTLES",
+  "agency": "BBDO TORONTO",
+  "raw": "STRUCK BY A RAINBOW – SKITTLES (BBDO TORONTO)",
+  "links": [
+   "https://www.youtube.com/watch?v=6Zv-ez_AYWc"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Film",
+    "subcategory": "Short Fiction Film (under 10 minutes)",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Branded Content & Entertainment",
+    "subcategory": "Fiction: Online (15 minutes or under in length)",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "WRIGLEY CANADA",
+   "product": "SKITTLES",
+   "agencies": [
+    "BBDO Toronto"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Film",
+     "subcategory": "Short Fiction Film (under 10 minutes)",
+     "count": 1,
+     "entry_titles": [
+      "STRUCK BY A RAINBOW"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Branded Content & Entertainment",
+     "subcategory": "Fiction: Online (15 minutes or under in length)",
+     "count": 1,
+     "entry_titles": [
+      "STRUCK BY A RAINBOW"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銀獅 Branded Content & Entertainment Silver Lion、影片類銅獅 Film Bronze Lion｜代理商：BBDO Toronto"
   },
   "image_candidates": [
    "https://images.ctfassets.net/8ha5xom4da7e/7sDFJEwnUZaGwijBHq2OXr/aa1a7fa09f91cf7a197ee7d0c16cac41/LTW_placeholder_3.svg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/unicorns-134798"
+   "https://www.lovethework.com/en/work/entries/struck-by-a-rainbow-135570",
+   "https://www.lovethework.com/en/work/entries/struck-by-a-rainbow-122192"
   ]
  },
  {
-  "id": "ltwm-07480",
+  "id": "ltwm-07590",
   "year": 2015,
   "tier": "SILVER",
   "categories": [],
-  "title": "STEVES",
-  "brand": "LA NACION",
-  "agency": "THE COMMUNITY/LA COMUNIDAD BUENOS AIRES",
-  "raw": "STEVES – LA NACION (THE COMMUNITY/LA COMUNIDAD BUENOS AIRES)",
+  "title": "YOUTUBE THE RAINBOW",
+  "brand": "SKITTLES",
+  "agency": "DDB JOHANNESBURG",
+  "raw": "YOUTUBE THE RAINBOW – SKITTLES (DDB JOHANNESBURG)",
   "links": [
-   "https://adsspot.me/media/tv-commercials/la-nacion-steves-efa26c7d490c"
+   "https://www.behance.net/gallery/25170669/Skittles-Youtube-the-Rainbow"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [],
+  "official_case": "",
+  "official_summary": ""
+ },
+ {
+  "id": "ltwm-07402",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "THE ELECTRIC SAGA",
+  "brand": "EDF",
+  "agency": "HAVAS WORLDWIDE PARIS",
+  "raw": "THE ELECTRIC SAGA – EDF (HAVAS WORLDWIDE PARIS)",
+  "links": [
+   "https://www.dandad.org/awards/professional/2015/film-advertising/24764/electric-saga/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Silver",
-    "category": "Film",
-    "subcategory": "Publications & Media",
+    "category": "Branded Content & Entertainment",
+    "subcategory": "Fiction: Online Series (minimum 3 episodes)",
     "count": 1,
     "source_count": 1
    }
@@ -263,122 +632,50 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "LA NACION",
-   "product": "ROLLING STONE MAGAZINE",
+   "brand": "EDF",
+   "product": "ENERGY",
    "agencies": [
-    "THE COMMUNITY / LA COMUNIDAD Buenos Aires"
+    "HAVAS WORLDWIDE PARIS"
    ],
    "awards": [
     {
      "level": "Silver",
-     "category": "Film",
-     "subcategory": "Publications & Media",
+     "category": "Branded Content & Entertainment",
+     "subcategory": "Fiction: Online Series (minimum 3 episodes)",
      "count": 1,
      "entry_titles": [
-      "STEVES"
+      "THE ELECTRIC SAGA"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銀獅 Film Silver Lion｜代理商：THE COMMUNITY / LA COMUNIDAD Buenos Aires"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銀獅 Branded Content & Entertainment Silver Lion｜代理商：HAVAS WORLDWIDE PARIS"
   },
   "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/3duqCqeHDt9hMAdtuQjc3V/3f6a8c56aeb415ac19cd5dd916fa6976/LTW_placeholder_1.svg"
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/0b9b527cb69b427f8a563fe67914ad8d/storyboard_000002.jpg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/steves-119712"
+   "https://www.lovethework.com/en/work/entries/the-electric-saga-122444"
   ]
  },
  {
-  "id": "ltwm-07481",
+  "id": "ltwm-07406",
   "year": 2015,
   "tier": "SILVER",
   "categories": [],
-  "title": "JACKPOT",
-  "brand": "MEXICAN INSURANCE ASSOCIATION",
-  "agency": "OGILVY & MATHER MEXICO CITY",
-  "raw": "JACKPOT – MEXICAN INSURANCE ASSOCIATION (OGILVY & MATHER MEXICO CITY)",
+  "title": "THE RETURN OF COACH LASSO",
+  "brand": "NBC SPORTS",
+  "agency": "THE BROOKLYN BROTHERS NEW YORK",
+  "raw": "THE RETURN OF COACH LASSO – NBC SPORTS (THE BROOKLYN BROTHERS NEW YORK)",
   "links": [
-   "https://clios.com/awards/winner/1263"
+   "https://clios.com/sports/winner/film/nbc-sports/the-return-of-coach-lasso-2319"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Silver",
-    "category": "Film",
-    "subcategory": "Banking, Investment & Insurance",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Outdoor",
-    "subcategory": "Fundraising, Donations & Appeals, Charities, Non-Profit Organisations, Public Health & Safety, Public awareness messages",
-    "count": 1,
-    "source_count": 3
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "MEXICAN INSURANCE ASSOCIATION",
-   "product": "HEALTH INSURANCES",
-   "agencies": [
-    "OGILVY & MATHER Mexico City",
-    "OGILVY & MATHER Bangkok"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Film",
-     "subcategory": "Banking, Investment & Insurance",
-     "count": 1,
-     "entry_titles": [
-      "JACKPOT"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Outdoor",
-     "subcategory": "Fundraising, Donations & Appeals, Charities, Non-Profit Organisations, Public Health & Safety, Public awareness messages",
-     "count": 1,
-     "entry_titles": [
-      "STRAWBERRY CAKE",
-      "VANILLA CAKE",
-      "CHOCOLATE BROWNIE"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銀獅 Film Silver Lion、戶外類銅獅 Outdoor Bronze Lion｜代理商：OGILVY & MATHER Mexico City / OGILVY & MATHER Bangkok"
-  },
-  "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/21oKzZpgKK38z6CH22xvKi/2891cea86e6d97a93344f9f8fd0e6153/LTW_placeholder_2.svg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/jackpot-119163",
-   "https://www.lovethework.com/en/work/entries/chocolate-brownie-114000",
-   "https://www.lovethework.com/en/work/entries/vanilla-cake-114005"
-  ]
- },
- {
-  "id": "ltwm-07482",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "THE SILVER HAND",
-  "brand": "CANAL DIGITAL",
-  "agency": "TRY OSLO",
-  "raw": "THE SILVER HAND – CANAL DIGITAL (TRY OSLO)",
-  "links": [
-   "https://vimeo.com/162422092"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Film",
-    "subcategory": "Commercial Public Services",
+    "category": "Branded Content & Entertainment",
+    "subcategory": "Fiction: Online (15 minutes or under in length)",
     "count": 1,
     "source_count": 1
    }
@@ -386,200 +683,29 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "CANAL DIGITAL",
-   "product": "WEEKLY ARCHIVE",
+   "brand": "NBC SPORTS",
+   "product": "BARCLAYS PREMIER LEAGUE",
    "agencies": [
-    "TRY Oslo"
+    "THE BROOKLYN BROTHERS New York"
    ],
    "awards": [
     {
      "level": "Silver",
-     "category": "Film",
-     "subcategory": "Commercial Public Services",
+     "category": "Branded Content & Entertainment",
+     "subcategory": "Fiction: Online (15 minutes or under in length)",
      "count": 1,
      "entry_titles": [
-      "THE SILVER HAND"
+      "THE RETURN OF LASSO"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銀獅 Film Silver Lion｜代理商：TRY Oslo"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銀獅 Branded Content & Entertainment Silver Lion｜代理商：THE BROOKLYN BROTHERS New York"
   },
   "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/7sDFJEwnUZaGwijBHq2OXr/aa1a7fa09f91cf7a197ee7d0c16cac41/LTW_placeholder_3.svg"
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/df815673a7f1486cfd0219d060dfc30f/storyboard_000002.jpg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-silver-hand-119366"
-  ]
- },
- {
-  "id": "ltwm-07483",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "FIRST MOON PARTY",
-  "brand": "HELLOFLO",
-  "agency": "HAYDEN 5 MEDIA NEW YORK",
-  "raw": "FIRST MOON PARTY – HELLOFLO (HAYDEN 5 MEDIA NEW YORK)",
-  "links": [
-   "https://www.youtube.com/watch?v=NEcZmT0fiNM"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Film",
-    "subcategory": "Fast Moving Consumer Goods",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "HELLOFLO",
-   "product": "PERIOD STARTER KIT/TAMPON SUBSCRIPTION SERVICE",
-   "agencies": [
-    "HAYDEN 5 MEDIA New York"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Film",
-     "subcategory": "Fast Moving Consumer Goods",
-     "count": 1,
-     "entry_titles": [
-      "FIRST MOON PARTY"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銀獅 Film Silver Lion｜代理商：HAYDEN 5 MEDIA New York"
-  },
-  "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/21oKzZpgKK38z6CH22xvKi/2891cea86e6d97a93344f9f8fd0e6153/LTW_placeholder_2.svg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/first-moon-party-135409"
-  ]
- },
- {
-  "id": "ltwm-07484",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "THE LAST GAME",
-  "brand": "NIKE",
-  "agency": "WIEDEN+KENNEDY PORTLAND",
-  "raw": "THE LAST GAME – NIKE (WIEDEN+KENNEDY PORTLAND)",
-  "links": [
-   "https://www.youtube.com/watch?v=CJ2xU9GUPVY"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Film",
-    "subcategory": "Other Consumer Products (incl. Durable Goods)",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Film Craft",
-    "subcategory": "Animation",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "NIKE",
-   "product": "FOOTWEAR/APPAREL",
-   "agencies": [
-    "WIEDEN+KENNEDY Portland",
-    "PASSION PICTURES London / WIEDEN+KENNEDY Portland"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Film",
-     "subcategory": "Other Consumer Products (incl. Durable Goods)",
-     "count": 1,
-     "entry_titles": [
-      "THE LAST GAME"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Film Craft",
-     "subcategory": "Animation",
-     "count": 1,
-     "entry_titles": [
-      "THE LAST GAME"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銀獅 Film Silver Lion、影片工藝類銀獅 Film Craft Silver Lion｜代理商：WIEDEN+KENNEDY Portland / PASSION PICTURES London / WIEDEN+KENNEDY Portland"
-  },
-  "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/3duqCqeHDt9hMAdtuQjc3V/3f6a8c56aeb415ac19cd5dd916fa6976/LTW_placeholder_1.svg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-last-game-85764",
-   "https://www.lovethework.com/en/work/entries/the-last-game-124281"
-  ]
- },
- {
-  "id": "ltwm-07485",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "1914 TRUCE (3MIN)",
-  "brand": "SAINSBURY’S",
-  "agency": "AMV BBDO LONDON",
-  "raw": "1914 TRUCE (3MIN) – SAINSBURY’S (AMV BBDO LONDON)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2015/film-advertising-crafts/24779/1914/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Film",
-    "subcategory": "Travel, Leisure & Retail (incl. e-Commerce & Restaurants)",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "SAINSBURY'S",
-   "product": "SAINSBURY'S",
-   "agencies": [
-    "AMV BBDO London"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Film",
-     "subcategory": "Travel, Leisure & Retail (incl. e-Commerce & Restaurants)",
-     "count": 1,
-     "entry_titles": [
-      "1914 TRUCE (3MIN)"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銀獅 Film Silver Lion｜代理商：AMV BBDO London"
-  },
-  "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/1GStA8cUUMJnbepXVsQwox/7aaaddc9cb7ae9f22939053c2fe46b31/LTW_placeholder_4.svg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/1914-truce-3min-135270"
+   "https://www.lovethework.com/en/work/entries/the-return-of-lasso-99554"
   ]
  }
 ]

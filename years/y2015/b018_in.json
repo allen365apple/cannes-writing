@@ -1,23 +1,23 @@
 [
  {
-  "id": "ltwm-07433",
+  "id": "ltwm-07364",
   "year": 2015,
-  "tier": "SILVER",
+  "tier": "GOLD",
   "categories": [],
-  "title": "SELF-DESTRUCTING BOOK",
-  "brand": "JAMES PATTERSON",
-  "agency": "MOTHER NEW YORK",
-  "raw": "SELF-DESTRUCTING BOOK – JAMES PATTERSON (MOTHER NEW YORK)",
+  "title": "A CREAM THAT GIVES YOU WRINKLES",
+  "brand": "SKINFOODS",
+  "agency": "COLENSO BBDO AUCKLAND",
+  "raw": "A CREAM THAT GIVES YOU WRINKLES – SKINFOODS (COLENSO BBDO AUCKLAND)",
   "links": [
-   "https://mothernewyork.com/work/the-self-destructing-book/"
+   "https://clios.com/awards/winner/1070"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Silver",
-    "category": "Cyber",
-    "subcategory": "Publications & Media",
+    "level": "Gold",
+    "category": "Press",
+    "subcategory": "Cosmetics & Beauty",
     "count": 1,
     "source_count": 1
    }
@@ -25,64 +25,558 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "JAMES PATTERSON",
+   "brand": "SKINFOODS / NEW ZEALAND BREAST CANCER FOUNDATION",
+   "product": "BREAST CREAM",
+   "agencies": [
+    "COLENSO BBDO Auckland"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Press",
+     "subcategory": "Cosmetics & Beauty",
+     "count": 1,
+     "entry_titles": [
+      "A CREAM THAT GIVES YOU WRINKLES"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類金獅 Press Gold Lion｜代理商：COLENSO BBDO Auckland"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/3ef70740da2143ec847aa03171e9e3eb"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/a-cream-that-gives-you-wrinkles-118638"
+  ]
+ },
+ {
+  "id": "ltwm-07360",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "#TECHNOLOGYANDSTUFF",
+  "brand": "GENERAL MOTORS",
+  "agency": "FLEISHMANHILLARD ST. LOUIS",
+  "raw": "#TECHNOLOGYANDSTUFF – GENERAL MOTORS (FLEISHMANHILLARD ST. LOUIS)",
+  "links": [
+   "https://www.victorquattrin.com/#/techandstuff/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Media",
+    "subcategory": "Cars & Automotive Services",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "PR",
+    "subcategory": "Response/Real-Time Activity (including crowdsourcing)",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "PR",
+    "subcategory": "Crisis Communications & Issue Management",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "GENERAL MOTORS- CHEVROLET",
+   "product": "CARS",
+   "agencies": [
+    "COMMONWEALTH//McCANN Detroit / FLEISHMAN HILLARD Detroit",
+    "FLEISHMANHILLARD St. Louis"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Media",
+     "subcategory": "Cars & Automotive Services",
+     "count": 1,
+     "entry_titles": [
+      "TECHNOLOGY & STUFF"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "PR",
+     "subcategory": "Response/Real-Time Activity (including crowdsourcing)",
+     "count": 1,
+     "entry_titles": [
+      "#TECHNOLOGYANDSTUFF: RAPID INTEGRATION TURNS PR CRISIS INTO SOCIAL CURRENCY"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "PR",
+     "subcategory": "Crisis Communications & Issue Management",
+     "count": 1,
+     "entry_titles": [
+      "#TECHNOLOGYANDSTUFF: RAPID INTEGRATION TURNS PR CRISIS INTO SOCIAL CURRENCY"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類金獅 PR Gold Lion、公關類銀獅 PR Silver Lion、媒體類銅獅 Media Bronze Lion｜代理商：COMMONWEALTH//McCANN Detroit / FLEISHMAN HILLARD Detroit / FLEISHMANHILLARD St. Louis"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/53625d33fda7417291936ea0e15241b2"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/technology-stuff-107623",
+   "https://www.lovethework.com/en/work/entries/technologyandstuff-rapid-integration-turns-pr-crisis-into-social-currency-125228",
+   "https://www.lovethework.com/en/work/entries/technologyandstuff-rapid-integration-turns-pr-crisis-into-social-currency-125291"
+  ]
+ },
+ {
+  "id": "ltwm-07365",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "4G4GOOD",
+  "brand": "STARHUB",
+  "agency": "DDB SINGAPORE",
+  "raw": "4G4GOOD – STARHUB (DDB SINGAPORE)",
+  "links": [
+   "https://vimeo.com/132183127"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Direct",
+    "subcategory": "Product Launch/Re-launch",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Promo & Activation",
+    "subcategory": "Commercial Public Services, including Healthcare & Medical",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "STARHUB",
+   "product": "4G",
+   "agencies": [
+    "DDB GROUP SINGAPORE"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Direct",
+     "subcategory": "Product Launch/Re-launch",
+     "count": 1,
+     "entry_titles": [
+      "4G4GOOD"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Promo & Activation",
+     "subcategory": "Commercial Public Services, including Healthcare & Medical",
+     "count": 1,
+     "entry_titles": [
+      "4G4GOOD"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類金獅 Promo & Activation Gold Lion、直效類銅獅 Direct Bronze Lion｜代理商：DDB GROUP SINGAPORE"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/354b0f2788b74673b38a5a3f749787e1"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/4g4good-128238",
+   "https://www.lovethework.com/en/work/entries/4g4good-105775"
+  ]
+ },
+ {
+  "id": "ltwm-07368",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "THE SALT YOU CAN SEE",
+  "brand": "FUNDACIÓN FAVALORO",
+  "agency": "GREY ARGENTINA",
+  "raw": "THE SALT YOU CAN SEE – FUNDACIÓN FAVALORO (GREY ARGENTINA)",
+  "links": [
+   "https://www.youtube.com/watch?v=vEra6jOLqK8"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Ambient in a Promotional Campaign: Small Scale",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Promo & Activation",
+    "subcategory": "Commercial Public Services, including Healthcare & Medical",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Promo & Activation",
+    "subcategory": "Product Launch/re-Launch or Multi-Product Promotion",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "PR",
+    "subcategory": "Healthcare & Wellbeing",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Health & Wellness",
+    "subcategory": "Education & Awareness",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "FUNDACIÓN FAVALORO",
+   "product": "FUNDACIÓN FAVALORO",
+   "agencies": [
+    "GREY ARGENTINA Buenos Aires"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Promo & Activation",
+     "subcategory": "Use of Ambient in a Promotional Campaign: Small Scale",
+     "count": 1,
+     "entry_titles": [
+      "THE SALT YOU CAN SEE"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Promo & Activation",
+     "subcategory": "Commercial Public Services, including Healthcare & Medical",
+     "count": 1,
+     "entry_titles": [
+      "THE SALT YOU CAN SEE"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Promo & Activation",
+     "subcategory": "Product Launch/re-Launch or Multi-Product Promotion",
+     "count": 1,
+     "entry_titles": [
+      "THE SALT YOU CAN SEE"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "PR",
+     "subcategory": "Healthcare & Wellbeing",
+     "count": 1,
+     "entry_titles": [
+      "THE SALT YOU CAN SEE"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Health & Wellness",
+     "subcategory": "Education & Awareness",
+     "count": 1,
+     "entry_titles": [
+      "THE SALT YOU CAN SEE"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類金獅 Promo & Activation Gold Lion×2、Promo & Activation類銀獅 Promo & Activation Silver Lion、健康與保健類銅獅 Health & Wellness Bronze Lion、公關類銅獅 PR Bronze Lion｜代理商：GREY ARGENTINA Buenos Aires"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/0fcd3a5764c84c86b9a21a49f32d3754"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/the-salt-you-can-see-127270",
+   "https://www.lovethework.com/en/work/entries/the-salt-you-can-see-126520",
+   "https://www.lovethework.com/en/work/entries/the-salt-you-can-see-126486"
+  ]
+ },
+ {
+  "id": "ltwm-07367",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "SOS SMS",
+  "brand": "RED CROSS",
+  "agency": "GREY MEXICO",
+  "raw": "SOS SMS – RED CROSS (GREY MEXICO)",
+  "links": [
+   "https://www.youtube.com/watch?v=htaWB8r_h1w"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Digital Advertising in a Promotional Campaign",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Media",
+    "subcategory": "Use of Mobile Devices",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Creative Data",
+    "subcategory": "Creative Business Data Strategy",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Pharma",
+    "subcategory": "Education & Services",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Health & Wellness",
+    "subcategory": "Fundraising & Advocacy",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "MEXICAN RED CROSS",
+   "product": "ONLINE EMERGENCY SERVICE",
+   "agencies": [
+    "GREY MÈXICO Mexico City"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Promo & Activation",
+     "subcategory": "Use of Digital Advertising in a Promotional Campaign",
+     "count": 1,
+     "entry_titles": [
+      "SOS SMS"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Media",
+     "subcategory": "Use of Mobile Devices",
+     "count": 1,
+     "entry_titles": [
+      "SOS SMS"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Mobile",
+     "subcategory": "",
+     "count": 1,
+     "entry_titles": [
+      "SOS SMS"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Creative Data",
+     "subcategory": "Creative Business Data Strategy",
+     "count": 1,
+     "entry_titles": [
+      "SOS SMS"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Pharma",
+     "subcategory": "Education & Services",
+     "count": 1,
+     "entry_titles": [
+      "SOS SMS"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Health & Wellness",
+     "subcategory": "Fundraising & Advocacy",
+     "count": 1,
+     "entry_titles": [
+      "SOS SMS"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意數據類金獅 Creative Data Gold Lion、Promo & Activation類金獅 Promo & Activation Gold Lion、行動類銀獅 Mobile Silver Lion、製藥類銀獅 Pharma Silver Lion、健康與保健類銅獅 Health & Wellness Bronze Lion、媒體類銅獅 Media Bronze Lion｜代理商：GREY MÈXICO Mexico City"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/e42bc4ecf2f145d2867219f4fcce2d51"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/sos-sms-98564",
+   "https://www.lovethework.com/en/work/entries/sos-sms-97832",
+   "https://www.lovethework.com/en/work/entries/sos-sms-126162"
+  ]
+ },
+ {
+  "id": "ltwm-07366",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "SHADOW WIFI",
+  "brand": "LIGA CONTRA EL CANCER",
+  "agency": "HAPPINESS BRUSSELS",
+  "raw": "SHADOW WIFI – LIGA CONTRA EL CANCER (HAPPINESS BRUSSELS)",
+  "links": [
+   "https://vimeo.com/132183349"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Ambient in a Promotional Campaign:  Large Scale",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "LIGA CONTRA EL CANCER",
+   "product": "HEALTH AWARENESS ORGANISATION",
+   "agencies": [
+    "HAPPINESS BRUSSELS"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Promo & Activation",
+     "subcategory": "Use of Ambient in a Promotional Campaign:  Large Scale",
+     "count": 1,
+     "entry_titles": [
+      "SHADOW WIFI"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類金獅 Promo & Activation Gold Lion｜代理商：HAPPINESS BRUSSELS"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/43fb1377156045adef079f316e75bca2"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/shadow-wifi-126617"
+  ]
+ },
+ {
+  "id": "ltwm-07865",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "LITTLE GIRL, TINY LITTLE BOY",
+  "brand": "RED CROSS FOODAID",
+  "agency": "MULLENLOWE SINGAPORE",
+  "raw": "LITTLE GIRL, TINY LITTLE BOY – RED CROSS FOODAID (MULLENLOWE SINGAPORE)",
+  "links": [
+   "http://www.sirenawards.com.au/SirenAwards/media/Common/Cannes%20Lion%20Audio/00985_00986.mp3?width=300&height=45&ext=.mp3"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Radio",
+    "subcategory": "Fundraising, Donations & Appeals",
+    "count": 1,
+    "source_count": 2
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "RED CROSS",
    "product": null,
    "agencies": [
-    "MOTHER NEW YORK"
+    "LOWE SINGAPORE"
    ],
    "awards": [
     {
-     "level": "Silver",
-     "category": "Cyber",
-     "subcategory": "Publications & Media",
+     "level": "Bronze",
+     "category": "Radio",
+     "subcategory": "Fundraising, Donations & Appeals",
      "count": 1,
      "entry_titles": [
-      "SELF-DESTRUCTING BOOK"
+      "LITTLE GIRL",
+      "TINY LITTLE BOY"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion｜代理商：MOTHER NEW YORK"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Radio類銅獅 Radio Bronze Lion｜代理商：LOWE SINGAPORE"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/78cf8f82577c444b8c7fd5a119251f76"
+   "https://images.ctfassets.net/8ha5xom4da7e/HHC8rICbjMxbx6eDreIds/c7b569e03ca6b3f3521da11e51a3d198/audio-yellow.svg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/self-destructing-book-130566"
+   "https://www.lovethework.com/en/work/entries/tiny-little-boy-113142",
+   "https://www.lovethework.com/en/work/entries/little-girl-113163"
   ]
  },
  {
-  "id": "ltwm-07434",
+  "id": "ltwm-07828",
   "year": 2015,
-  "tier": "SILVER",
+  "tier": "BRONZE",
   "categories": [],
-  "title": "RELOCKLOVE",
-  "brand": "ORANGE",
-  "agency": "MARCEL PARIS",
-  "raw": "RELOCKLOVE – ORANGE (MARCEL PARIS)",
+  "title": "BUTTON FOR HELP",
+  "brand": "RED CROSS",
+  "agency": "NEW MOMENT NEW IDEAS COMPANY BELGRADE",
+  "raw": "BUTTON FOR HELP – RED CROSS (NEW MOMENT NEW IDEAS COMPANY BELGRADE)",
   "links": [
-   "https://clios.com/awards/winner/direct/orange/relocklove-765"
+   "https://adsspot.me/media/digital/anti-traficking-button-for-help-5e5eabee5243"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Silver",
-    "category": "Cyber",
-    "subcategory": "Commercial Public Services",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Direct",
-    "subcategory": "Commercial Public Services, incl. Healthcare & Medical",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Direct",
-    "subcategory": "Use of Dgital Marketing",
+    "level": "Bronze",
+    "category": "Outdoor",
+    "subcategory": "Non-Standard Indoor Advertising",
     "count": 1,
     "source_count": 1
    }
@@ -90,94 +584,46 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "ORANGE",
-   "product": "ORANGE FRANCE",
+   "brand": "RED CROSS OF SERBIA",
+   "product": "ANTI TRAFFICKING",
    "agencies": [
-    "MARCEL Paris"
+    "NEW MOMENT NEW IDEAS COMPANY Y&R Belgrade"
    ],
    "awards": [
     {
-     "level": "Silver",
-     "category": "Cyber",
-     "subcategory": "Commercial Public Services",
+     "level": "Bronze",
+     "category": "Outdoor",
+     "subcategory": "Non-Standard Indoor Advertising",
      "count": 1,
      "entry_titles": [
-      "RELOCKLOVE"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Direct",
-     "subcategory": "Commercial Public Services, incl. Healthcare & Medical",
-     "count": 1,
-     "entry_titles": [
-      "RELOCKLOVE"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Direct",
-     "subcategory": "Use of Dgital Marketing",
-     "count": 1,
-     "entry_titles": [
-      "RELOCKLOVE"
+      "BUTTON"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion、直效類銀獅 Direct Silver Lion×2｜代理商：MARCEL Paris"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：NEW MOMENT NEW IDEAS COMPANY Y&R Belgrade"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/43a4ea321fe6483ad8877c70deeff7e8"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/8089550459d645bd9b9d2a0b8a91d8e7"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/relocklove-128616",
-   "https://www.lovethework.com/en/work/entries/relocklove-127775",
-   "https://www.lovethework.com/en/work/entries/relocklove-112121"
+   "https://www.lovethework.com/en/work/entries/button-115276"
   ]
  },
  {
-  "id": "ltwm-07435",
+  "id": "ltwm-07693",
   "year": 2015,
-  "tier": "SILVER",
+  "tier": "BRONZE",
   "categories": [],
-  "title": "HOPE.LY",
-  "brand": "AMERICAN RED CROSS & BITLY",
-  "agency": "BBDO NEW YORK",
-  "raw": "HOPE.LY – AMERICAN RED CROSS & BITLY (BBDO NEW YORK)",
+  "title": "SOCIAL BLOOD APP",
+  "brand": "RED CROSS",
+  "agency": "SAATCHI & SAATCHI GUAYAQUIL",
+  "raw": "SOCIAL BLOOD APP – RED CROSS (SAATCHI & SAATCHI GUAYAQUIL)",
   "links": [
-   "https://www.dandad.org/awards/professional/2015/digital-marketing/24274/hopely/"
+   "https://clios.com/health/winner/digital-mobile/cruz-roja-ecuador/social-blood-14504"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Cyber",
-    "subcategory": "Web Service/App",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Cyber",
-    "subcategory": "Charities, Public Health & Safety, Public Awareness Messages",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Innovative Use of Social or Community (incl. Emerging Platforms for Brands)",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Social Currency & Commerce",
-    "count": 1,
-    "source_count": 1
-   },
    {
     "level": "Bronze",
     "category": "Mobile",
@@ -189,95 +635,44 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "AMERICAN RED CROSS & BITLY",
-   "product": "AMERICAN RED CROSS & BITLY",
+   "brand": "RED CROSS",
+   "product": "BANK OF BLOOD",
    "agencies": [
-    "BBDO NEW YORK"
+    "PUBLICITAS/SAATCHI & SAATCHI Guayaquil"
    ],
    "awards": [
-    {
-     "level": "Silver",
-     "category": "Cyber",
-     "subcategory": "Web Service/App",
-     "count": 1,
-     "entry_titles": [
-      "HOPE.LY"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Cyber",
-     "subcategory": "Charities, Public Health & Safety, Public Awareness Messages",
-     "count": 1,
-     "entry_titles": [
-      "HOPE.LY"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Innovative Use of Social or Community (incl. Emerging Platforms for Brands)",
-     "count": 1,
-     "entry_titles": [
-      "HOPE.LY"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Social Currency & Commerce",
-     "count": 1,
-     "entry_titles": [
-      "HOPE.LY"
-     ]
-    },
     {
      "level": "Bronze",
      "category": "Mobile",
      "subcategory": "",
      "count": 1,
      "entry_titles": [
-      "HOPE.LY"
+      "SOCIAL BLOOD APP"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion×2、Cyber類銅獅 Cyber Bronze Lion×2、行動類銅獅 Mobile Bronze Lion｜代理商：BBDO NEW YORK"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/53b91955d6b147d0ecd09730522a5eba"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/hopely-130484",
-   "https://www.lovethework.com/en/work/entries/hopely-130168",
-   "https://www.lovethework.com/en/work/entries/hopely-130087"
-  ]
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銅獅 Mobile Bronze Lion｜代理商：PUBLICITAS/SAATCHI & SAATCHI Guayaquil"
+  }
  },
  {
-  "id": "ltwm-07436",
+  "id": "ltwm-07722",
   "year": 2015,
-  "tier": "SILVER",
+  "tier": "BRONZE",
   "categories": [],
-  "title": "EVERY MAN REMEMBERED",
-  "brand": "ROYAL BRITISH LEGION",
-  "agency": "RKCR/Y&R LONDON",
-  "raw": "EVERY MAN REMEMBERED – ROYAL BRITISH LEGION (RKCR/Y&R LONDON)",
+  "title": "DADDYTOONS NEWS",
+  "brand": "GENERAL MOTORS",
+  "agency": "TAPSA | Y&R MADRID",
+  "raw": "DADDYTOONS NEWS – GENERAL MOTORS (TAPSA | Y&R MADRID)",
   "links": [
-   "https://clios.com/awards/winner/integrated-campaign/royal-british-legion/every-man-remembered-674"
+   "https://clios.com/awards/winner/branded-entertainment/general-motors-opel/daddytoons-news-982"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Silver",
-    "category": "Cyber",
-    "subcategory": "Microsite",
-    "count": 1,
-    "source_count": 1
-   },
-   {
     "level": "Bronze",
-    "category": "Creative Data",
-    "subcategory": "Data Storytelling",
+    "category": "Radio",
+    "subcategory": "Corporate Image & Communication",
     "count": 1,
     "source_count": 1
    }
@@ -285,587 +680,29 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "ROYAL BRITISH LEGION",
-   "product": "ROYAL BRITISH LEGION",
-   "agencies": [
-    "RKCR/Y&R London"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Cyber",
-     "subcategory": "Microsite",
-     "count": 1,
-     "entry_titles": [
-      "EVERY MAN REMEMBERED"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Creative Data",
-     "subcategory": "Data Storytelling",
-     "count": 1,
-     "entry_titles": [
-      "EVERY MAN REMEMBERED"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion、創意數據類銅獅 Creative Data Bronze Lion｜代理商：RKCR/Y&R London"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/3c315028a4c04e19a4363e8d5f675d54"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/every-man-remembered-129274",
-   "https://www.lovethework.com/en/work/entries/every-man-remembered-120450"
-  ]
- },
- {
-  "id": "ltwm-07438",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "MUTANT FONT",
-  "brand": "AMNESTY INTERNATIONAL",
-  "agency": "AFRICA SÃO PAULO",
-  "raw": "MUTANT FONT – AMNESTY INTERNATIONAL (AFRICA SÃO PAULO)",
-  "links": [
-   "https://vimeo.com/123199639"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Cyber",
-    "subcategory": "Web Service/App",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Applications / Tools",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "AMNESTY INTERNATIONAL",
+   "brand": "GENERAL MOTORS, OPEL",
    "product": null,
    "agencies": [
-    "AFRICA São Paulo"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Cyber",
-     "subcategory": "Web Service/App",
-     "count": 1,
-     "entry_titles": [
-      "MUTANT FONT"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Applications / Tools",
-     "count": 1,
-     "entry_titles": [
-      "MUTANT FONT"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion、Cyber類銅獅 Cyber Bronze Lion｜代理商：AFRICA São Paulo"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/dd34f3fffc544792db9caf42a1b39fb6"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/mutant-font-111782",
-   "https://www.lovethework.com/en/work/entries/mutant-font-111486"
-  ]
- },
- {
-  "id": "ltwm-07439",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "LEGO: EVERYTHING IS NOT AWESOME",
-  "brand": "GREENPEACE",
-  "agency": "DON’T PANIC LONDON",
-  "raw": "LEGO: EVERYTHING IS NOT AWESOME – GREENPEACE (DON’T PANIC LONDON)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2015/white-pencil-creativity-for-good/24233/lego-everything-is-not-awesome/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Film",
-    "subcategory": "Charities, Fundraising, Appeals, Non-Profit Organisations, Public Health & Safety, Public Awareness Messages",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Cyber",
-    "subcategory": "Social Video",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "GREENPEACE",
-   "product": "SAVE THE ARCTIC",
-   "agencies": [
-    "DON'T PANIC London"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Film",
-     "subcategory": "Charities, Fundraising, Appeals, Non-Profit Organisations, Public Health & Safety, Public Awareness Messages",
-     "count": 1,
-     "entry_titles": [
-      "LEGO: EVERYTHING IS NOT AWESOME"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Cyber",
-     "subcategory": "Social Video",
-     "count": 1,
-     "entry_titles": [
-      "LEGO: EVERYTHING IS NOT AWESOME"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion、影片類銀獅 Film Silver Lion｜代理商：DON'T PANIC London"
-  },
-  "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/21oKzZpgKK38z6CH22xvKi/2891cea86e6d97a93344f9f8fd0e6153/LTW_placeholder_2.svg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/lego-everything-is-not-awesome-119226",
-   "https://www.lovethework.com/en/work/entries/lego-everything-is-not-awesome-110543"
-  ]
- },
- {
-  "id": "ltwm-07440",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "TASTE THE TRANSLATION",
-  "brand": "ELAN LANGUAGES",
-  "agency": "JWT AMSTERDAM",
-  "raw": "TASTE THE TRANSLATION – ELAN LANGUAGES (JWT AMSTERDAM)",
-  "links": [
-   "https://clios.com/awards/winner/direct/elan-languages/taste-the-translation-376"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Film",
-    "subcategory": "Financial Services, Commercial Public Services, Business Products & Services",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Cyber",
-    "subcategory": "Social Video",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "ELAN",
-   "product": "TRANSLATOR",
-   "agencies": [
-    "J. WALTER THOMPSON AMSTERDAM"
+    "TAPSA | Y&R Madrid"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Film",
-     "subcategory": "Financial Services, Commercial Public Services, Business Products & Services",
+     "category": "Radio",
+     "subcategory": "Corporate Image & Communication",
      "count": 1,
      "entry_titles": [
-      "TASTE THE TRANSLATION"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Cyber",
-     "subcategory": "Social Video",
-     "count": 1,
-     "entry_titles": [
-      "TASTE THE TRANSLATION"
+      "DADDYTOONS NEWS"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion、影片類銅獅 Film Bronze Lion｜代理商：J. WALTER THOMPSON AMSTERDAM"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Radio類銅獅 Radio Bronze Lion｜代理商：TAPSA | Y&R Madrid"
   },
   "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/21oKzZpgKK38z6CH22xvKi/2891cea86e6d97a93344f9f8fd0e6153/LTW_placeholder_2.svg"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/05243dc74429420ea173107c3b1c3aa7"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/taste-the-translation-119465",
-   "https://www.lovethework.com/en/work/entries/taste-the-translation-110508"
-  ]
- },
- {
-  "id": "ltwm-07441",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "WHAT LIVES INSIDE",
-  "brand": "INTEL + DELL",
-  "agency": "PEREIRA & O’DELL SAN FRANCISCO",
-  "raw": "WHAT LIVES INSIDE – INTEL + DELL (PEREIRA & O’DELL SAN FRANCISCO)",
-  "links": [
-   "https://pereiraodell.com/campaign/what-lives-inside"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Film Craft",
-    "subcategory": "Casting",
-    "count": 1,
-    "source_count": 4
-   },
-   {
-    "level": "Bronze",
-    "category": "Film Craft",
-    "subcategory": "Direction",
-    "count": 1,
-    "source_count": 4
-   },
-   {
-    "level": "Silver",
-    "category": "Cyber",
-    "subcategory": "Webisodes/Series",
-    "count": 1,
-    "source_count": 4
-   },
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Storytelling",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Use of Co-Creation & User Generated Content",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Original User-generated content",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "INTEL + DELL",
-   "product": "DELL VENUE TABLET WITH INTEL INSIDE",
-   "agencies": [
-    "PEREIRA & O'DELL San Francisco"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Film Craft",
-     "subcategory": "Casting",
-     "count": 1,
-     "entry_titles": [
-      "WHAT LIVES INSIDE - EPISODE ONE",
-      "WHAT LIVES INSIDE - EPISODE TWO",
-      "WHAT LIVES INSIDE - EPISODE THREE",
-      "WHAT LIVES INSIDE - EPISODE FOUR"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Film Craft",
-     "subcategory": "Direction",
-     "count": 1,
-     "entry_titles": [
-      "WHAT LIVES INSIDE - EPISODE ONE",
-      "WHAT LIVES INSIDE - EPISODE TWO",
-      "WHAT LIVES INSIDE - EPISODE THREE",
-      "WHAT LIVES INSIDE - EPISODE FOUR"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Cyber",
-     "subcategory": "Webisodes/Series",
-     "count": 1,
-     "entry_titles": [
-      "WHAT LIVES INSIDE - EPISODE ONE",
-      "WHAT LIVES INSIDE - EPISODE TWO",
-      "WHAT LIVES INSIDE - EPISODE THREE",
-      "WHAT LIVES INSIDE - EPISODE FOUR"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Storytelling",
-     "count": 1,
-     "entry_titles": [
-      "WHAT LIVES INSIDE"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Use of Co-Creation & User Generated Content",
-     "count": 1,
-     "entry_titles": [
-      "WHAT LIVES INSIDE"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Original User-generated content",
-     "count": 1,
-     "entry_titles": [
-      "WHAT LIVES INSIDE"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion、影片工藝類銀獅 Film Craft Silver Lion、Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion、Cyber類銅獅 Cyber Bronze Lion×2、影片工藝類銅獅 Film Craft Bronze Lion｜代理商：PEREIRA & O'DELL San Francisco"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/efdf3079bb3247d786aec825175fbeb2"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/what-lives-inside-129368",
-   "https://www.lovethework.com/en/work/entries/what-lives-inside-129192",
-   "https://www.lovethework.com/en/work/entries/what-lives-inside-122095"
-  ]
- },
- {
-  "id": "ltwm-07442",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "ASSASSIN’S CREED UNITY",
-  "brand": "UBISOFT EMEA",
-  "agency": "SID LEE PARIS",
-  "raw": "ASSASSIN’S CREED UNITY – UBISOFT EMEA (SID LEE PARIS)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2015/direct/24636/assassins-creed-unity/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Cyber",
-    "subcategory": "Engagement Platform",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Interactive Video",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Microsite",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Integrated Multi-Platform Campaign (Online & Offline)",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "PR",
-    "subcategory": "Use of Co-Creation & User Generated Content",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "UBISOFT",
-   "product": "VIDEO GAME",
-   "agencies": [
-    "SID LEE Paris"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Cyber",
-     "subcategory": "Engagement Platform",
-     "count": 1,
-     "entry_titles": [
-      "ASSASSIN'S CREED UNITY"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Interactive Video",
-     "count": 1,
-     "entry_titles": [
-      "ASSASSIN'S CREED UNITY"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Microsite",
-     "count": 1,
-     "entry_titles": [
-      "ASSASSIN'S CREED UNITY"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Integrated Multi-Platform Campaign (Online & Offline)",
-     "count": 1,
-     "entry_titles": [
-      "ASSASSIN'S CREED UNITY"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "PR",
-     "subcategory": "Use of Co-Creation & User Generated Content",
-     "count": 1,
-     "entry_titles": [
-      "ASSASSIN'S CREED UNITY"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion、Cyber類銅獅 Cyber Bronze Lion×3、公關類銅獅 PR Bronze Lion｜代理商：SID LEE Paris"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/1f6b9ba8221d4c7e940154b9133ce150"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/assassins-creed-unity-111590",
-   "https://www.lovethework.com/en/work/entries/assassins-creed-unity-111140",
-   "https://www.lovethework.com/en/work/entries/assassins-creed-unity-110896"
-  ]
- },
- {
-  "id": "ltwm-07443",
-  "year": 2015,
-  "tier": "SILVER",
-  "categories": [],
-  "title": "KEEP THE FLAME ALIVE",
-  "brand": "DIAGEO LEBANON",
-  "agency": "LEO BURNETT BEIRUT",
-  "raw": "KEEP THE FLAME ALIVE – DIAGEO LEBANON (LEO BURNETT BEIRUT)",
-  "links": [
-   "https://www.areejmahmoud.com/brandedcontent/theflame"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Cyber",
-    "subcategory": "Response/Real-Time Activity (including crowdsourcing)",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Use/Curation of Image(s)",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "PR",
-    "subcategory": "Other Consumer Products",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "DIAGEO LEBANON",
-   "product": "JOHNNIE WALKER",
-   "agencies": [
-    "LEO BURNETT BEIRUT"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Cyber",
-     "subcategory": "Response/Real-Time Activity (including crowdsourcing)",
-     "count": 1,
-     "entry_titles": [
-      "KEEP THE FLAME ALIVE"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Use/Curation of Image(s)",
-     "count": 1,
-     "entry_titles": [
-      "KEEP THE FLAME ALIVE"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "PR",
-     "subcategory": "Other Consumer Products",
-     "count": 1,
-     "entry_titles": [
-      "KEEP THE FLAME ALIVE"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion、Cyber類銅獅 Cyber Bronze Lion、公關類銅獅 PR Bronze Lion｜代理商：LEO BURNETT BEIRUT"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/32dcda77bb3341d38063bf48871c06ce"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/keep-the-flame-alive-130213",
-   "https://www.lovethework.com/en/work/entries/keep-the-flame-alive-130086",
-   "https://www.lovethework.com/en/work/entries/keep-the-flame-alive-102125"
+   "https://www.lovethework.com/en/work/entries/daddytoons-news-112916"
   ]
  }
 ]

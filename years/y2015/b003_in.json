@@ -1,15 +1,15 @@
 [
  {
-  "id": "ltwm-07275",
+  "id": "ltwm-07263",
   "year": 2015,
   "tier": "GRAND PRIX / TITANIUM",
   "categories": [],
-  "title": "CLEVER BUOY",
-  "brand": "OPTUS",
-  "agency": "M&C SAATCHI SYDNEY",
-  "raw": "CLEVER BUOY – OPTUS (M&C SAATCHI SYDNEY)",
+  "title": "LOOK AT ME",
+  "brand": "SAMSUNG",
+  "agency": "CHEIL SEOUL",
+  "raw": "LOOK AT ME – SAMSUNG (CHEIL SEOUL)",
   "links": [
-   "https://www.dandad.org/awards/professional/2015/integrated-innovative-media/24264/clever-buoy/"
+   "https://clios.com/awards/winner/digital/samsung-electronics/look-at-me-432"
   ],
   "zh_brief": "",
   "note_from_selection": "",
@@ -17,56 +17,35 @@
    {
     "level": "Gold",
     "category": "Cyber",
-    "subcategory": "Tangible Tech (incl. Digital Products, Utilities & Tools)",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Cyber",
-    "subcategory": "Innovative Use of Technology",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Media",
-    "subcategory": "Use of Other Digital Platforms",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "PR",
-    "subcategory": "Technology & Manufacturing",
+    "subcategory": "Other Consumer Products (Including Durable Goods)",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Silver",
     "category": "PR",
-    "subcategory": "Corporate Reputation & Communication",
+    "subcategory": "Use of digital Platforms",
     "count": 1,
     "source_count": 1
    },
    {
-    "level": "Gold",
+    "level": "Silver",
     "category": "Mobile",
     "subcategory": "",
     "count": 1,
     "source_count": 1
    },
    {
-    "level": "Titanium",
-    "category": "Titanium",
-    "subcategory": "Titanium and Integrated",
+    "level": "Bronze",
+    "category": "Mobile",
+    "subcategory": "",
     "count": 1,
     "source_count": 1
    },
    {
-    "level": "Gold",
-    "category": "Innovation",
-    "subcategory": "Creative Innovation (including Business Solutions in Association with a Brand or Creative Campaign)",
+    "level": "Silver",
+    "category": "Pharma",
+    "subcategory": "Education & Services",
     "count": 1,
     "source_count": 1
    }
@@ -74,95 +53,67 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "OPTUS",
-   "product": "OPTUS NETWORK",
+   "brand": "SAMSUNG ELECTRONICS",
+   "product": "SAMSUNG ELECTRONICS",
    "agencies": [
-    "M&C SAATCHI Sydney",
-    "FUEL COMMUNICATIONS Sydney / M&C SAATCHI Sydney"
+    "CHEIL WORLDWIDE Seoul"
    ],
    "awards": [
     {
      "level": "Gold",
      "category": "Cyber",
-     "subcategory": "Tangible Tech (incl. Digital Products, Utilities & Tools)",
+     "subcategory": "Other Consumer Products (Including Durable Goods)",
      "count": 1,
      "entry_titles": [
-      "CLEVER BUOY"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Cyber",
-     "subcategory": "Innovative Use of Technology",
-     "count": 1,
-     "entry_titles": [
-      "CLEVER BUOY"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Media",
-     "subcategory": "Use of Other Digital Platforms",
-     "count": 1,
-     "entry_titles": [
-      "CLEVER BUOY"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "PR",
-     "subcategory": "Technology & Manufacturing",
-     "count": 1,
-     "entry_titles": [
-      "CLEVER BUOY"
+      "LOOK AT ME"
      ]
     },
     {
      "level": "Silver",
      "category": "PR",
-     "subcategory": "Corporate Reputation & Communication",
+     "subcategory": "Use of digital Platforms",
      "count": 1,
      "entry_titles": [
-      "CLEVER BUOY"
+      "LOOK AT ME"
      ]
     },
     {
-     "level": "Gold",
+     "level": "Silver",
      "category": "Mobile",
      "subcategory": "",
      "count": 1,
      "entry_titles": [
-      "CLEVER BUOY"
+      "LOOK AT ME"
      ]
     },
     {
-     "level": "Titanium",
-     "category": "Titanium",
-     "subcategory": "Titanium and Integrated",
+     "level": "Bronze",
+     "category": "Mobile",
+     "subcategory": "",
      "count": 1,
      "entry_titles": [
-      "CLEVER BUOY"
+      "LOOK AT ME"
      ]
     },
     {
-     "level": "Gold",
-     "category": "Innovation",
-     "subcategory": "Creative Innovation (including Business Solutions in Association with a Brand or Creative Campaign)",
+     "level": "Silver",
+     "category": "Pharma",
+     "subcategory": "Education & Services",
      "count": 1,
      "entry_titles": [
-      "CLEVER BUOY"
+      "LOOK AT ME"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜鈦獅 Titanium Lion、Cyber類金獅 Cyber Gold Lion、創新類金獅 Innovation Gold Lion、行動類金獅 Mobile Gold Lion、公關類金獅 PR Gold Lion、Cyber類銀獅 Cyber Silver Lion、公關類銀獅 PR Silver Lion、媒體類銅獅 Media Bronze Lion｜代理商：M&C SAATCHI Sydney / FUEL COMMUNICATIONS Sydney / M&C SAATCHI Sydney"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類金獅 Cyber Gold Lion、行動類銀獅 Mobile Silver Lion、公關類銀獅 PR Silver Lion、製藥類銀獅 Pharma Silver Lion、行動類銅獅 Mobile Bronze Lion｜代理商：CHEIL WORLDWIDE Seoul"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/054ca8ba61e041d68c87e45def1f4bf1"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/e48137d1a3184d38f06c4ae3c40b23d8"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/clever-buoy-130295",
-   "https://www.lovethework.com/en/work/entries/clever-buoy-129702",
-   "https://www.lovethework.com/en/work/entries/clever-buoy-125972"
+   "https://www.lovethework.com/en/work/entries/look-at-me-130587",
+   "https://www.lovethework.com/en/work/entries/look-at-me-124960",
+   "https://www.lovethework.com/en/work/entries/look-at-me-121681"
   ]
  },
  {
@@ -315,59 +266,38 @@
   ]
  },
  {
-  "id": "ltwm-07277",
+  "id": "ltwm-07392",
   "year": 2015,
-  "tier": "GRAND PRIX / TITANIUM",
+  "tier": "GOLD",
   "categories": [],
-  "title": "100",
-  "brand": "LEICA",
-  "agency": "SAATCHI & SAATCHI SÃO PAULO",
-  "raw": "100 – LEICA (SAATCHI & SAATCHI SÃO PAULO)",
+  "title": "THE BACKUP MEMORY",
+  "brand": "SAMSUNG TUNISIA",
+  "agency": "3SG BBDO ARIANA",
+  "raw": "THE BACKUP MEMORY – SAMSUNG TUNISIA (3SG BBDO ARIANA)",
   "links": [
-   "https://www.youtube.com/watch?v=DMkQQSt6d8s"
+   "https://www.dandad.org/awards/professional/2016/digital-design/25312/backup-memory/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Grand Prix",
-    "category": "Film",
-    "subcategory": "Entertainment & Leisure",
+    "level": "Bronze",
+    "category": "Direct",
+    "subcategory": "Use of Mobile Marketing",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Mobile",
+    "subcategory": "",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Gold",
-    "category": "Film Craft",
-    "subcategory": "Direction",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Film Craft",
-    "subcategory": "Cinematography",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Film Craft",
-    "subcategory": "Use of Original Music",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Film Craft",
-    "subcategory": "Production Design/Art Direction",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Film Craft",
-    "subcategory": "Editing",
+    "category": "Health & Wellness",
+    "subcategory": "Corporate Image & Communication",
     "count": 1,
     "source_count": 1
    }
@@ -375,90 +305,283 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "LEICA GALLERY SÃO PAULO",
-   "product": "LEICA INSTITUTIONAL",
+   "brand": "SAMSUNG TUNISIA",
+   "product": "SERVICE",
    "agencies": [
-    "F/NAZCA SAATCHI & SAATCHI São Paulo",
-    "STINK Sao Paulo / F/NAZCA SAATCHI & SAATCHI São Paulo"
+    "3SG-BBDO Ariana"
    ],
    "awards": [
     {
-     "level": "Grand Prix",
-     "category": "Film",
-     "subcategory": "Entertainment & Leisure",
+     "level": "Bronze",
+     "category": "Direct",
+     "subcategory": "Use of Mobile Marketing",
      "count": 1,
      "entry_titles": [
-      "100"
+      "THE BACKUP MEMORY"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Mobile",
+     "subcategory": "",
+     "count": 1,
+     "entry_titles": [
+      "THE BACKUP MEMORY"
+     ]
+    },
+    {
+     "level": "Gold",
+     "category": "Health & Wellness",
+     "subcategory": "Corporate Image & Communication",
+     "count": 1,
+     "entry_titles": [
+      "THE BACKUP MEMORY"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜健康與保健類金獅 Health & Wellness Gold Lion、行動類銀獅 Mobile Silver Lion、直效類銅獅 Direct Bronze Lion｜代理商：3SG-BBDO Ariana"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/921c1228c89e48e3b82cf12030690f4e"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/the-backup-memory-98092",
+   "https://www.lovethework.com/en/work/entries/the-backup-memory-128377"
+  ]
+ },
+ {
+  "id": "ltwm-07321",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "EVERY DAY IS DAY ONE",
+  "brand": "SAMSUNG",
+  "agency": "72ANDSUNNY AMSTERDAM",
+  "raw": "EVERY DAY IS DAY ONE – SAMSUNG (72ANDSUNNY AMSTERDAM)",
+  "links": [
+   "https://www.dandad.org/awards/professional/2015/film-advertising-crafts/24844/every-day-is-day-one/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Film",
+    "subcategory": "Corporate Image & Communication",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Film Craft",
+    "subcategory": "Use of Licensed/Adapted Music",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Film Craft",
+    "subcategory": "Cinematography",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "SAMSUNG",
+   "product": "ASP SURF SPONSORSHIP, SAMSUNG GS5",
+   "agencies": [
+    "72ANDSUNNY AMSTERDAM",
+    "EXIT FILMS Melbourne / 72ANDSUNNY AMSTERDAM"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Film",
+     "subcategory": "Corporate Image & Communication",
+     "count": 1,
+     "entry_titles": [
+      "EVERY DAY IS DAY ONE"
      ]
     },
     {
      "level": "Gold",
      "category": "Film Craft",
-     "subcategory": "Direction",
+     "subcategory": "Use of Licensed/Adapted Music",
      "count": 1,
      "entry_titles": [
-      "100"
+      "EVERY DAY IS DAY ONE"
      ]
     },
     {
-     "level": "Gold",
+     "level": "Silver",
      "category": "Film Craft",
      "subcategory": "Cinematography",
      "count": 1,
      "entry_titles": [
-      "100"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Film Craft",
-     "subcategory": "Use of Original Music",
-     "count": 1,
-     "entry_titles": [
-      "100"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Film Craft",
-     "subcategory": "Production Design/Art Direction",
-     "count": 1,
-     "entry_titles": [
-      "100"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Film Craft",
-     "subcategory": "Editing",
-     "count": 1,
-     "entry_titles": [
-      "100"
+      "EVERY DAY IS DAY ONE"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類全場大獎 Film Grand Prix、影片工藝類金獅 Film Craft Gold Lion×2、影片工藝類銀獅 Film Craft Silver Lion×3｜代理商：F/NAZCA SAATCHI & SAATCHI São Paulo / STINK Sao Paulo / F/NAZCA SAATCHI & SAATCHI São Paulo"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片工藝類金獅 Film Craft Gold Lion、影片工藝類銀獅 Film Craft Silver Lion、影片類銅獅 Film Bronze Lion｜代理商：72ANDSUNNY AMSTERDAM / EXIT FILMS Melbourne / 72ANDSUNNY AMSTERDAM"
   },
   "image_candidates": [
-   "https://images.ctfassets.net/8ha5xom4da7e/21oKzZpgKK38z6CH22xvKi/2891cea86e6d97a93344f9f8fd0e6153/LTW_placeholder_2.svg"
+   "https://images.ctfassets.net/8ha5xom4da7e/3duqCqeHDt9hMAdtuQjc3V/3f6a8c56aeb415ac19cd5dd916fa6976/LTW_placeholder_1.svg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/100-124008",
-   "https://www.lovethework.com/en/work/entries/100-123944",
-   "https://www.lovethework.com/en/work/entries/100-123876"
+   "https://www.lovethework.com/en/work/entries/every-day-is-day-one-135972",
+   "https://www.lovethework.com/en/work/entries/every-day-is-day-one-124408",
+   "https://www.lovethework.com/en/work/entries/every-day-is-day-one-124351"
   ]
  },
  {
-  "id": "ltwm-07279",
+  "id": "ltwm-07412",
   "year": 2015,
-  "tier": "GRAND PRIX / TITANIUM",
+  "tier": "SILVER",
   "categories": [],
-  "title": "THE LUCKY IRON FISH PROJECT",
-  "brand": "LUCKY IRON FISH",
-  "agency": "GEOMETRY DUBAI",
-  "raw": "THE LUCKY IRON FISH PROJECT – LUCKY IRON FISH (GEOMETRY DUBAI)",
+  "title": "SAMSUNG SLIDELINER",
+  "brand": "SAMSUNG",
+  "agency": "TRAFFIK SYDNEY",
+  "raw": "SAMSUNG SLIDELINER – SAMSUNG (TRAFFIK SYDNEY)",
   "links": [
-   "https://clios.com/awards/winner/design/lucky-iron-fish/the-lucky-iron-fish-project-1267"
+   "https://www2.spikes.asia/winners/2015/promo/entry.cfm?entryid=1096&award=101"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Ambient in a Promotional Campaign:  Large Scale",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Live Shows/Concerts/Festivals",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Branded Content & Entertainment",
+    "subcategory": "Branded Live experience",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "SAMSUNG AUSTRALIA",
+   "product": "SAMSUNG CURVED TV RANGE",
+   "agencies": [
+    "TRAFFIK Sydney"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Promo & Activation",
+     "subcategory": "Use of Ambient in a Promotional Campaign:  Large Scale",
+     "count": 1,
+     "entry_titles": [
+      "SAMSUNG SLIDELINER"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Promo & Activation",
+     "subcategory": "Use of Live Shows/Concerts/Festivals",
+     "count": 1,
+     "entry_titles": [
+      "SAMSUNG SLIDELINER"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Branded Content & Entertainment",
+     "subcategory": "Branded Live experience",
+     "count": 1,
+     "entry_titles": [
+      "SAMSUNG SLIDELINER"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銀獅 Branded Content & Entertainment Silver Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion×2｜代理商：TRAFFIK Sydney"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/5ff861af7723419dd40baef14df12df9"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/samsung-slideliner-127499",
+   "https://www.lovethework.com/en/work/entries/samsung-slideliner-127281",
+   "https://www.lovethework.com/en/work/entries/samsung-slideliner-122227"
+  ]
+ },
+ {
+  "id": "ltwm-07660",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "IS THIS THE NEXT?",
+  "brand": "SAMSUNG",
+  "agency": "DDB STOCKHOLM",
+  "raw": "IS THIS THE NEXT? – SAMSUNG (DDB STOCKHOLM)",
+  "links": [
+   "https://nordddb.com/case/is-this-the-next/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Integrated Multi-Platform Campaign (Online & Offline)",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "SAMSUNG",
+   "product": null,
+   "agencies": [
+    "DDB STOCKHOLM"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Cyber",
+     "subcategory": "Integrated Multi-Platform Campaign (Online & Offline)",
+     "count": 1,
+     "entry_titles": [
+      "IS THIS THE NEXT?"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：DDB STOCKHOLM"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/e96e44f306d74877c156bf04d22a0bbf"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/is-this-the-next-111079"
+  ]
+ },
+ {
+  "id": "ltwm-07714",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "HEARING HANDS",
+  "brand": "SAMSUNG",
+  "agency": "LEO BURNETT ISTANBUL",
+  "raw": "HEARING HANDS – SAMSUNG (LEO BURNETT ISTANBUL)",
+  "links": [
+   "https://www.dandad.org/awards/professional/2016/pr/25108/samsung-hearing-hands/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
@@ -471,37 +594,9 @@
     "source_count": 1
    },
    {
-    "level": "Gold",
+    "level": "Bronze",
     "category": "PR",
-    "subcategory": "Healthcare & Wellbeing",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Grand Prix",
-    "category": "Product Design",
-    "subcategory": "Well-Being & Environmental Impact",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Health & Wellness",
-    "subcategory": "Education & Awareness",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Health & Wellness",
-    "subcategory": "Education & Awareness",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Health & Wellness",
-    "subcategory": "Education & Awareness",
+    "subcategory": "Events & Experiential (incl. stunts)",
     "count": 1,
     "source_count": 1
    }
@@ -509,11 +604,10 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "LUCKY IRON FISH",
-   "product": "FORTIFIED NUTRITION PRODUCT",
+   "brand": "SAMSUNG ELECTRONICS TURKEY",
+   "product": "DUYANELLER",
    "agencies": [
-    "GEOMETRY GLOBAL Dubai / MEMAC OGILVY Dubai",
-    "GEOMETRY GLOBAL Dubai"
+    "LEO BURNETT ISTANBUL"
    ],
    "awards": [
     {
@@ -522,550 +616,48 @@
      "subcategory": "Product Launch/re-Launch or Multi-Product Promotion",
      "count": 1,
      "entry_titles": [
-      "THE LUCKY IRON FISH PROJECT"
+      "HEARING HANDS"
      ]
     },
     {
-     "level": "Gold",
-     "category": "PR",
-     "subcategory": "Healthcare & Wellbeing",
-     "count": 1,
-     "entry_titles": [
-      "THE LUCKY IRON FISH PROJECT"
-     ]
-    },
-    {
-     "level": "Grand Prix",
-     "category": "Product Design",
-     "subcategory": "Well-Being & Environmental Impact",
-     "count": 1,
-     "entry_titles": [
-      "THE LUCKY IRON FISH PROJECT"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Health & Wellness",
-     "subcategory": "Education & Awareness",
-     "count": 1,
-     "entry_titles": [
-      "THE LUCKY IRON FISH PROJECT"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Health & Wellness",
-     "subcategory": "Education & Awareness",
-     "count": 1,
-     "entry_titles": [
-      "THE LUCKY IRON FISH PROJECT"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Health & Wellness",
-     "subcategory": "Education & Awareness",
-     "count": 1,
-     "entry_titles": [
-      "THE LUCKY IRON FISH PROJECT"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜產品設計類全場大獎 Product Design Grand Prix、健康與保健類金獅 Health & Wellness Gold Lion、公關類金獅 PR Gold Lion、健康與保健類銀獅 Health & Wellness Silver Lion×2、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：GEOMETRY GLOBAL Dubai / MEMAC OGILVY Dubai / GEOMETRY GLOBAL Dubai"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/a57d57571bcf404dabce18b19499f727"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-lucky-iron-fish-project-98923",
-   "https://www.lovethework.com/en/work/entries/the-lucky-iron-fish-project-98293",
-   "https://www.lovethework.com/en/work/entries/the-lucky-iron-fish-project-98194"
-  ]
- },
- {
-  "id": "ltwm-07280",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "TINNYVISION",
-  "brand": "NZ TRANSPORT AGENCY",
-  "agency": "CLEMENGER BBDO AUCKLAND",
-  "raw": "TINNYVISION – NZ TRANSPORT AGENCY (CLEMENGER BBDO AUCKLAND)",
-  "links": [
-   "https://www.clemengerbbdo.co.nz/the-work/tinnyvision"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Fiction: Online Series (minimum 3 episodes)",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "NZ TRANSPORT AGENCY",
-   "product": "DRUG DRIVING",
-   "agencies": [
-    "CLEMENGER BBDO WELLINGTON Wellington"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Fiction: Online Series (minimum 3 episodes)",
-     "count": 1,
-     "entry_titles": [
-      "TINNYVISION"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類金獅 Branded Content & Entertainment Gold Lion｜代理商：CLEMENGER BBDO WELLINGTON Wellington"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/13a7c29a86134bba9daa59ac78f6fe29/storyboard_000002.jpg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/tinnyvision-122060"
-  ]
- },
- {
-  "id": "ltwm-07281",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "THE GUN SHOP",
-  "brand": "STATES UNITED TO PREVENT GUN VIOLENCE",
-  "agency": "GREY NEW YORK",
-  "raw": "THE GUN SHOP – STATES UNITED TO PREVENT GUN VIOLENCE (GREY NEW YORK)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2016/creativity-for-good-white-pencil/25051/the-gun-shop/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Silver",
-    "category": "Film",
-    "subcategory": "Short Non-Fiction Film (under 10 minutes)",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Outdoor",
-    "subcategory": "Integrated Campaigns led by Outdoor",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Outdoor",
-    "subcategory": "Live Advertising and Events",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Direct",
-    "subcategory": "Costs/Creative Performance Direct Campaign",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Promo & Activation",
-    "subcategory": "Public Health & Safety & Public Awareness Messages",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Promo & Activation",
-    "subcategory": "Use of Exhibitions and Installations",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Promo & Activation",
-    "subcategory": "Use of Customer in-Store Experience",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Media",
-    "subcategory": "Use of Events & Stunts",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "PR",
-    "subcategory": "Charity & not for Profit",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "PR",
-    "subcategory": "Events & Experiential (incl. stunts)",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "PR",
-    "subcategory": "Public Affairs & Lobbying",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Design",
-    "subcategory": "Small Business",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Design",
-    "subcategory": "Promotional Item Design",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Non-Fiction: Online (15 minutes or under in length)",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "STATES UNITED TO PREVENT GUN VIOLENCE",
-   "product": "ANTI-GUN VIOLENCE",
-   "agencies": [
-    "GREY NEW YORK",
-    "GREY NEW YORK / GREY ACTIVATION & PR New York"
-   ],
-   "awards": [
-    {
-     "level": "Silver",
-     "category": "Film",
-     "subcategory": "Short Non-Fiction Film (under 10 minutes)",
-     "count": 1,
-     "entry_titles": [
-      "THE GUN SHOP"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Outdoor",
-     "subcategory": "Integrated Campaigns led by Outdoor",
-     "count": 1,
-     "entry_titles": [
-      "THE GUN SHOP"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Outdoor",
-     "subcategory": "Live Advertising and Events",
-     "count": 1,
-     "entry_titles": [
-      "THE GUN SHOP"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Direct",
-     "subcategory": "Costs/Creative Performance Direct Campaign",
-     "count": 1,
-     "entry_titles": [
-      "THE GUN SHOP"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Promo & Activation",
-     "subcategory": "Public Health & Safety & Public Awareness Messages",
-     "count": 1,
-     "entry_titles": [
-      "THE GUN SHOP"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Promo & Activation",
-     "subcategory": "Use of Exhibitions and Installations",
-     "count": 1,
-     "entry_titles": [
-      "THE GUN SHOP"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Promo & Activation",
-     "subcategory": "Use of Customer in-Store Experience",
-     "count": 1,
-     "entry_titles": [
-      "THE GUN SHOP"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Media",
-     "subcategory": "Use of Events & Stunts",
-     "count": 1,
-     "entry_titles": [
-      "THE GUN SHOP"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "PR",
-     "subcategory": "Charity & not for Profit",
-     "count": 1,
-     "entry_titles": [
-      "THE GUN SHOP"
-     ]
-    },
-    {
-     "level": "Silver",
+     "level": "Bronze",
      "category": "PR",
      "subcategory": "Events & Experiential (incl. stunts)",
      "count": 1,
      "entry_titles": [
-      "THE GUN SHOP"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "PR",
-     "subcategory": "Public Affairs & Lobbying",
-     "count": 1,
-     "entry_titles": [
-      "THE GUN SHOP"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Design",
-     "subcategory": "Small Business",
-     "count": 1,
-     "entry_titles": [
-      "THE GUN SHOP"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Design",
-     "subcategory": "Promotional Item Design",
-     "count": 1,
-     "entry_titles": [
-      "THE GUN SHOP"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Non-Fiction: Online (15 minutes or under in length)",
-     "count": 1,
-     "entry_titles": [
-      "THE GUN SHOP"
+      "HEARING HANDS"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類金獅 Branded Content & Entertainment Gold Lion、設計類金獅 Design Gold Lion、媒體類金獅 Media Gold Lion、戶外類金獅 Outdoor Gold Lion、公關類金獅 PR Gold Lion、Promo & Activation類金獅 Promo & Activation Gold Lion×2、設計類銀獅 Design Silver Lion、直效類銀獅 Direct Silver Lion、影片類銀獅 Film Silver Lion、戶外類銀獅 Outdoor Silver Lion、公關類銀獅 PR Silver Lion×2、Promo & Activation類銀獅 Promo & Activation Silver Lion｜代理商：GREY NEW YORK / GREY NEW YORK / GREY ACTIVATION & PR New York"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類銅獅 PR Bronze Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：LEO BURNETT ISTANBUL"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/5c87006c2a6242dee5ada1339694070d/storyboard_000002.jpg"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/440253b812ad43c9e037a7019e3bfac5"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-gun-shop-99587",
-   "https://www.lovethework.com/en/work/entries/the-gun-shop-134825",
-   "https://www.lovethework.com/en/work/entries/the-gun-shop-115417"
+   "https://www.lovethework.com/en/work/entries/hearing-hands-126780",
+   "https://www.lovethework.com/en/work/entries/hearing-hands-124507"
   ]
  },
  {
-  "id": "ltwm-07282",
+  "id": "ltwm-07697",
   "year": 2015,
-  "tier": "GOLD",
+  "tier": "BRONZE",
   "categories": [],
-  "title": "THE MARATHON WALKER",
-  "brand": "WATER FOR AFRICA",
-  "agency": "OGILVY PARIS",
-  "raw": "THE MARATHON WALKER – WATER FOR AFRICA (OGILVY PARIS)",
+  "title": "SAMSUNG SMART PLAY-BOARD",
+  "brand": "SAMSUNG",
+  "agency": "LEO BURNETT MILAN",
+  "raw": "SAMSUNG SMART PLAY-BOARD – SAMSUNG (LEO BURNETT MILAN)",
   "links": [
-   "https://www.youtube.com/watch?v=1v_06b1cid4"
+   "https://cargocollective.com/zanterino/Samsung-Smart-Play-Board"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Outdoor",
-    "subcategory": "Live Advertising and Events",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Media",
-    "subcategory": "Use of Events & Stunts",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Media",
-    "subcategory": "Charities (incl. Fundraising, Donations & Appeals)",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "PR",
-    "subcategory": "Costs/Creative Performance PR Campaign",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Brand or product integration into an existing programme or platform",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "WATER FOR AFRICA",
-   "product": "CHARITY",
-   "agencies": [
-    "OGILVY PARIS"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Outdoor",
-     "subcategory": "Live Advertising and Events",
-     "count": 1,
-     "entry_titles": [
-      "THE MARATHON WALKER"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Media",
-     "subcategory": "Use of Events & Stunts",
-     "count": 1,
-     "entry_titles": [
-      "THE MARATHON WALKER"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Media",
-     "subcategory": "Charities (incl. Fundraising, Donations & Appeals)",
-     "count": 1,
-     "entry_titles": [
-      "THE MARATHON WALKER"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "PR",
-     "subcategory": "Costs/Creative Performance PR Campaign",
-     "count": 1,
-     "entry_titles": [
-      "THE MARATHON WALKER"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Brand or product integration into an existing programme or platform",
-     "count": 1,
-     "entry_titles": [
-      "THE MARATHON WALKER"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類金獅 Branded Content & Entertainment Gold Lion、戶外類金獅 Outdoor Gold Lion、媒體類銀獅 Media Silver Lion、媒體類銅獅 Media Bronze Lion、公關類銅獅 PR Bronze Lion｜代理商：OGILVY PARIS"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/076126cc5a904be9d7ff8f7c7dc1a298/storyboard_000002.jpg"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-marathon-walker-121848",
-   "https://www.lovethework.com/en/work/entries/the-marathon-walker-114588",
-   "https://www.lovethework.com/en/work/entries/the-marathon-walker-107171"
-  ]
- },
- {
-  "id": "ltwm-07283",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "805 MILLION NAMES",
-  "brand": "UNITED NATIONS WORLD FOOD PROGRAMME",
-  "agency": "FORSMAN & BODENFORS GOTHENBURG",
-  "raw": "805 MILLION NAMES – UNITED NATIONS WORLD FOOD PROGRAMME (FORSMAN & BODENFORS GOTHENBURG)",
-  "links": [
-   "https://clios.com/sports/winner/public-relations/united-nations-world-food-programme/805-million-names-2336"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Outdoor",
-    "subcategory": "Live Advertising and Events",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Influencer/Celebrity/Blogger Outreach Program",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Social Video",
-    "count": 1,
-    "source_count": 1
-   },
    {
     "level": "Bronze",
     "category": "Promo & Activation",
-    "subcategory": "Charities (incl. Fundraising, Donations & Appeals)",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "PR",
-    "subcategory": "Celebrity Endorsement",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Brand or product integration into an existing programme or platform",
+    "subcategory": "Corporate Image & Communication",
     "count": 1,
     "source_count": 1
    }
@@ -1073,97 +665,50 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "UNITED NATIONS WORLD FOOD PROGRAMME",
-   "product": "FIGHTING HUNGER WORLDWIDE",
+   "brand": "SAMSUNG ELECTRONICS ITALY",
+   "product": "THE FIRST SMART-DEVICE FOR DEVELOPING THE FULL POTENTIAL OF EVERY CHILD.",
    "agencies": [
-    "FORSMAN & BODENFORS Gothenburg"
+    "LEO BURNETT ITALY Milan"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Outdoor",
-     "subcategory": "Live Advertising and Events",
-     "count": 1,
-     "entry_titles": [
-      "805 MILLION NAMES"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Influencer/Celebrity/Blogger Outreach Program",
-     "count": 1,
-     "entry_titles": [
-      "805 MILLION NAMES"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Social Video",
-     "count": 1,
-     "entry_titles": [
-      "805 MILLION NAMES"
-     ]
-    },
-    {
-     "level": "Bronze",
      "category": "Promo & Activation",
-     "subcategory": "Charities (incl. Fundraising, Donations & Appeals)",
+     "subcategory": "Corporate Image & Communication",
      "count": 1,
      "entry_titles": [
-      "805 MILLION NAMES"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "PR",
-     "subcategory": "Celebrity Endorsement",
-     "count": 1,
-     "entry_titles": [
-      "805 MILLION NAMES"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Brand or product integration into an existing programme or platform",
-     "count": 1,
-     "entry_titles": [
-      "805 MILLION NAMES"
+      "SAMSUNG SMART PLAY-BOARD"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類金獅 Branded Content & Entertainment Gold Lion、Cyber類銅獅 Cyber Bronze Lion×2、戶外類銅獅 Outdoor Bronze Lion、公關類銅獅 PR Bronze Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：FORSMAN & BODENFORS Gothenburg"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：LEO BURNETT ITALY Milan"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/1c9074ab3156481583cdff18eb1f0d60/storyboard_000002.jpg"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/f7e5dc199cf44948acf05d9b28ab6b91"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/805-million-names-99511",
-   "https://www.lovethework.com/en/work/entries/805-million-names-114902",
-   "https://www.lovethework.com/en/work/entries/805-million-names-111164"
+   "https://www.lovethework.com/en/work/entries/samsung-smart-play-board-126910"
   ]
  },
  {
-  "id": "ltwm-07284",
+  "id": "ltwm-07638",
   "year": 2015,
-  "tier": "GOLD",
+  "tier": "BRONZE",
   "categories": [],
-  "title": "COKE THIRST",
-  "brand": "COCA-COLA",
-  "agency": "JWT SÃO PAULO",
-  "raw": "COKE THIRST – COCA-COLA (JWT SÃO PAULO)",
+  "title": "SAMSUNG HOLIDAY DREAMS",
+  "brand": "SAMSUNG",
+  "agency": "R/GA NEW YORK",
+  "raw": "SAMSUNG HOLIDAY DREAMS – SAMSUNG (R/GA NEW YORK)",
   "links": [
-   "https://vimeo.com/132185807#"
+   "https://www.rga.com/work/case-studies/holiday-dreams"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Gold",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Brand or product integration into an existing programme or platform",
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Animation/Motion Graphics",
     "count": 1,
     "source_count": 1
    }
@@ -1171,85 +716,50 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "COCA-COLA",
-   "product": "COCA-COLA",
+   "brand": "SAMSUNG TELECOMMUNICATIONS AMERICA",
+   "product": null,
    "agencies": [
-    "J. WALTER THOMPSON BRAZIL São Paulo"
+    "R/GA New York"
    ],
    "awards": [
     {
-     "level": "Gold",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Brand or product integration into an existing programme or platform",
+     "level": "Bronze",
+     "category": "Cyber",
+     "subcategory": "Animation/Motion Graphics",
      "count": 1,
      "entry_titles": [
-      "COKE THIRST"
+      "SAMSUNG HOLIDAY DREAMS"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類金獅 Branded Content & Entertainment Gold Lion｜代理商：J. WALTER THOMPSON BRAZIL São Paulo"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：R/GA New York"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/c44f5b988c68471baade6e6f564f078d/storyboard_000002.jpg"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/60ff77dceab943dff9a38d0d1c2f7070"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/coke-thirst-99393"
+   "https://www.lovethework.com/en/work/entries/samsung-holiday-dreams-111608"
   ]
  },
  {
-  "id": "ltwm-07285",
+  "id": "ltwm-07673",
   "year": 2015,
-  "tier": "GOLD",
+  "tier": "BRONZE",
   "categories": [],
-  "title": "HOUSE OF MAMBA",
-  "brand": "NIKE",
-  "agency": "AKQA LONDON",
-  "raw": "HOUSE OF MAMBA – NIKE (AKQA LONDON)",
+  "title": "CENTERSTAGE",
+  "brand": "SAMSUNG ELECTRONICS",
+  "agency": "THE BARBARIAN GROUP NEW YORK",
+  "raw": "CENTERSTAGE – SAMSUNG ELECTRONICS (THE BARBARIAN GROUP NEW YORK)",
   "links": [
-   "https://www.dandad.org/awards/professional/2015/digital-design/24319/house-of-mamba/"
+   "https://vimeo.com/99379887"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Gold",
-    "category": "Cyber",
-    "subcategory": "Spatial Tech (incl. Digital Installation/Exhibit)",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "User Experience",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Promo & Activation",
-    "subcategory": "Use of New Technology in a Promotional Campaign",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Design",
-    "subcategory": "Spatial Installation",
-    "count": 1,
-    "source_count": 1
-   },
-   {
     "level": "Bronze",
     "category": "Design",
-    "subcategory": "Digital Installations",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Branded Live experience",
+    "subcategory": "Large Business",
     "count": 1,
     "source_count": 1
    }
@@ -1257,76 +767,29 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "NIKE",
-   "product": "NIKE BASKETBALL CHINA",
+   "brand": "SAMSUNG ELECTRONICS",
+   "product": null,
    "agencies": [
-    "AKQA London / AKQA Shanghai"
+    "THE BARBARIAN GROUP New York"
    ],
    "awards": [
     {
-     "level": "Gold",
-     "category": "Cyber",
-     "subcategory": "Spatial Tech (incl. Digital Installation/Exhibit)",
-     "count": 1,
-     "entry_titles": [
-      "HOUSE OF MAMBA"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "User Experience",
-     "count": 1,
-     "entry_titles": [
-      "HOUSE OF MAMBA"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Promo & Activation",
-     "subcategory": "Use of New Technology in a Promotional Campaign",
-     "count": 1,
-     "entry_titles": [
-      "HOUSE OF MAMBA"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Design",
-     "subcategory": "Spatial Installation",
-     "count": 1,
-     "entry_titles": [
-      "HOUSE OF MAMBA"
-     ]
-    },
-    {
      "level": "Bronze",
      "category": "Design",
-     "subcategory": "Digital Installations",
+     "subcategory": "Large Business",
      "count": 1,
      "entry_titles": [
-      "HOUSE OF MAMBA"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Branded Content & Entertainment",
-     "subcategory": "Branded Live experience",
-     "count": 1,
-     "entry_titles": [
-      "HOUSE OF MAMBA"
+      "CENTERSTAGE"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類金獅 Branded Content & Entertainment Gold Lion、Cyber類金獅 Cyber Gold Lion、Promo & Activation類金獅 Promo & Activation Gold Lion、設計類銀獅 Design Silver Lion、Cyber類銅獅 Cyber Bronze Lion、設計類銅獅 Design Bronze Lion｜代理商：AKQA London / AKQA Shanghai"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銅獅 Design Bronze Lion｜代理商：THE BARBARIAN GROUP New York"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/storyboard/269c7828a6ed4c8d9e74a8cd9364fdd6/storyboard_000002.jpg"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/5db4a105271c4d10c0e3391500395b18"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/house-of-mamba-85753",
-   "https://www.lovethework.com/en/work/entries/house-of-mamba-85728",
-   "https://www.lovethework.com/en/work/entries/house-of-mamba-85724"
+   "https://www.lovethework.com/en/work/entries/centerstage-125766"
   ]
  }
 ]

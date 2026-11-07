@@ -1,44 +1,412 @@
 [
  {
-  "id": "ltwm-07656",
+  "id": "ltwm-07560",
   "year": 2015,
-  "tier": "BRONZE",
+  "tier": "SILVER",
   "categories": [],
-  "title": "#HAPPYTOHELP",
-  "brand": "KLM ROYAL DUTCH AIRLINES",
-  "agency": "DDB & TRIBAL WORLDWIDE AMSTERDAM",
-  "raw": "#HAPPYTOHELP – KLM ROYAL DUTCH AIRLINES (DDB & TRIBAL WORLDWIDE AMSTERDAM)",
+  "title": "MAS QUE UN AUTO",
+  "brand": "TOYOTA",
+  "agency": "CONILL SAATCHI & SAATCHI MIAMI",
+  "raw": "MAS QUE UN AUTO – TOYOTA (CONILL SAATCHI & SAATCHI MIAMI)",
   "links": [
-   "https://www.youtube.com/watch?v=Q2z8JRrjCxU"
+   "https://clios.com/awards/winner/out-of-home/toyota/mas-que-un-auto-1247"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Use of Social Data & Insight",
+    "category": "Outdoor",
+    "subcategory": "Small Scale Special Solutions",
     "count": 1,
     "source_count": 1
    },
    {
+    "level": "Silver",
+    "category": "PR",
+    "subcategory": "Audience Targeting/Engagement (incl. social listening and conversational insight)",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "TOYOTA",
+   "product": "BRAND LOYALTY",
+   "agencies": [
+    "CONILL SAATCHI & SAATCHI Miami"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Outdoor",
+     "subcategory": "Small Scale Special Solutions",
+     "count": 1,
+     "entry_titles": [
+      "MAS QUE UN AUTO"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "PR",
+     "subcategory": "Audience Targeting/Engagement (incl. social listening and conversational insight)",
+     "count": 1,
+     "entry_titles": [
+      "MAS QUE UN AUTO"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類銀獅 PR Silver Lion、戶外類銅獅 Outdoor Bronze Lion｜代理商：CONILL SAATCHI & SAATCHI Miami"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/9cb4d53ccc534b80a03c2e5f0df94084"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/mas-que-un-auto-115406",
+   "https://www.lovethework.com/en/work/entries/mas-que-un-auto-102184"
+  ]
+ },
+ {
+  "id": "ltwm-07556",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "THE ART OF WAITING",
+  "brand": "RECLAME AQUI INSTITUTIONAL",
+  "agency": "GREY SÃO PAULO",
+  "raw": "THE ART OF WAITING – RECLAME AQUI INSTITUTIONAL (GREY SÃO PAULO)",
+  "links": [
+   "https://www.youtube.com/watch?v=7XRYvV0Qp6E"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "PR",
+    "subcategory": "Corporate Reputation & Communication",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "RECLAME AQUI",
+   "product": "INSTITUTIONAL",
+   "agencies": [
+    "GREY BRAZIL São Paulo"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "PR",
+     "subcategory": "Corporate Reputation & Communication",
+     "count": 1,
+     "entry_titles": [
+      "THE ART OF WAITING"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類銀獅 PR Silver Lion｜代理商：GREY BRAZIL São Paulo"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/00735aee3a3d42e084b56ab80b0c5164"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/the-art-of-waiting-101490"
+  ]
+ },
+ {
+  "id": "ltwm-07571",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "HANDS",
+  "brand": "DHL",
+  "agency": "GREY GROUP BANGALORE",
+  "raw": "HANDS – DHL (GREY GROUP BANGALORE)",
+  "links": [
+   "https://www.behance.net/gallery/27510041/DHL-HANDS"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Press",
+    "subcategory": "Business Equipment & Services",
+    "count": 1,
+    "source_count": 3
+   },
+   {
     "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Response/Real-Time Activity (including crowdsourcing)",
+    "category": "Outdoor",
+    "subcategory": "Business Equipment & Services",
+    "count": 1,
+    "source_count": 3
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "DHL",
+   "product": "EXPRESS COURIER SERVICES",
+   "agencies": [
+    "GREY WORLDWIDE INDIA Mumbai / MARURI GREY Guayaquil"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Press",
+     "subcategory": "Business Equipment & Services",
+     "count": 1,
+     "entry_titles": [
+      "DHL HANDS - RIPPED",
+      "DHL HANDS - CUTTER",
+      "DHL HANDS - SCISSORS"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Outdoor",
+     "subcategory": "Business Equipment & Services",
+     "count": 1,
+     "entry_titles": [
+      "DHL HANDS - RIPPED",
+      "DHL HANDS - CUTTER",
+      "DHL HANDS - SCISSORS"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銀獅 Press Silver Lion、戶外類銅獅 Outdoor Bronze Lion｜代理商：GREY WORLDWIDE INDIA Mumbai / MARURI GREY Guayaquil"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/052ea4f4137f492ce766ef0b92a071a5"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/dhl-hands-scissors-134072",
+   "https://www.lovethework.com/en/work/entries/dhl-hands-cutter-134129",
+   "https://www.lovethework.com/en/work/entries/dhl-hands-ripped-134133"
+  ]
+ },
+ {
+  "id": "ltwm-07566",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "A BIT BITTER",
+  "brand": "FARNHAM",
+  "agency": "LG2 QUÉBEC",
+  "raw": "A BIT BITTER – FARNHAM (LG2 QUÉBEC)",
+  "links": [
+   "https://www.adsoftheworld.com/campaign/farnham-ale-lager-lg2-12-2014"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Press",
+    "subcategory": "Alcoholic Drinks",
+    "count": 1,
+    "source_count": 2
+   },
+   {
+    "level": "Bronze",
+    "category": "Outdoor",
+    "subcategory": "Drinks (Alcoholic & Non-Alcoholic)",
+    "count": 1,
+    "source_count": 2
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "FARNHAM ALE & LAGER",
+   "product": "BEERS",
+   "agencies": [
+    "lg2 Québec"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Press",
+     "subcategory": "Alcoholic Drinks",
+     "count": 1,
+     "entry_titles": [
+      "SOCCER",
+      "SPOUSE"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Outdoor",
+     "subcategory": "Drinks (Alcoholic & Non-Alcoholic)",
+     "count": 1,
+     "entry_titles": [
+      "SOCCER",
+      "SPOUSE"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銀獅 Press Silver Lion、戶外類銅獅 Outdoor Bronze Lion｜代理商：lg2 Québec"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/7a51976c658b4276bf3ec019ebe52790"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/spouse-134234",
+   "https://www.lovethework.com/en/work/entries/soccer-134273",
+   "https://www.lovethework.com/en/work/entries/spouse-133226"
+  ]
+ },
+ {
+  "id": "ltwm-07565",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "ANAGRAMS",
+  "brand": "SCRABBLE",
+  "agency": "LOLA MULLENLOWE MADRID",
+  "raw": "ANAGRAMS – SCRABBLE (LOLA MULLENLOWE MADRID)",
+  "links": [
+   "https://www.behance.net/gallery/71257669/Scrabble-Anagrams-Integrated"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Film",
+    "subcategory": "Entertainment & Leisure",
     "count": 1,
     "source_count": 1
    },
    {
-    "level": "Bronze",
-    "category": "Media",
-    "subcategory": "Use of Social Platforms",
+    "level": "Silver",
+    "category": "Press",
+    "subcategory": "Entertainment & Leisure",
     "count": 1,
-    "source_count": 1
-   },
+    "source_count": 3
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "MATTEL",
+   "product": "SCRABBLE",
+   "agencies": [
+    "LOLA LOWE & PARTNERS Madrid"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Film",
+     "subcategory": "Entertainment & Leisure",
+     "count": 1,
+     "entry_titles": [
+      "ANAGRAM LOVERS"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Press",
+     "subcategory": "Entertainment & Leisure",
+     "count": 1,
+     "entry_titles": [
+      "ANAGRAM LOVERS",
+      "ANAGRAM DUET",
+      "ANAGRAM DREAMS"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銀獅 Press Silver Lion、影片類銅獅 Film Bronze Lion｜代理商：LOLA LOWE & PARTNERS Madrid"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/7sDFJEwnUZaGwijBHq2OXr/aa1a7fa09f91cf7a197ee7d0c16cac41/LTW_placeholder_3.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/anagram-lovers-134574",
+   "https://www.lovethework.com/en/work/entries/anagram-dreams-133579",
+   "https://www.lovethework.com/en/work/entries/anagram-duet-133600"
+  ]
+ },
+ {
+  "id": "ltwm-07568",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "INSTRUMENTS",
+  "brand": "GASTRINA",
+  "agency": "MCCANN MUMBAI",
+  "raw": "INSTRUMENTS – GASTRINA (MCCANN MUMBAI)",
+  "links": [
+   "https://www.behance.net/gallery/57019801/DABUR-GASTRINA-WIND-INSTRUMENTS"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
    {
-    "level": "Bronze",
-    "category": "Media",
-    "subcategory": "Travel, Entertainment & Leisure",
+    "level": "Silver",
+    "category": "Press",
+    "subcategory": "OTC Pharmacy, Healthcare & Prescription Drugs",
+    "count": 1,
+    "source_count": 3
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "DABUR",
+   "product": "GASTRINA",
+   "agencies": [
+    "McCANN WORLDGROUP INDIA Mumbai"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Press",
+     "subcategory": "OTC Pharmacy, Healthcare & Prescription Drugs",
+     "count": 1,
+     "entry_titles": [
+      "FRENCH HORN",
+      "FLUGELHORN",
+      "SAXOPHONE"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銀獅 Press Silver Lion｜代理商：McCANN WORLDGROUP INDIA Mumbai"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/964bd648f67043f3d2d696f7f732e893"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/saxophone-117203",
+   "https://www.lovethework.com/en/work/entries/flugelhorn-117212",
+   "https://www.lovethework.com/en/work/entries/french-horn-117234"
+  ]
+ },
+ {
+  "id": "ltwm-07562",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "RED PHONE",
+  "brand": "TELMA TV",
+  "agency": "NEW MOMENT NEW IDEAS COMPANY SKOPJE",
+  "raw": "RED PHONE – TELMA TV (NEW MOMENT NEW IDEAS COMPANY SKOPJE)",
+  "links": [
+   "https://adsspot.me/media/case-study/telma-tv-red-phone-ad480beb5c1e"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "PR",
+    "subcategory": "Costs/Creative Performance PR Campaign",
     "count": 1,
     "source_count": 1
    }
@@ -46,86 +414,101 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "KLM ROYAL DUTCH AIRLINES",
-   "product": "#HAPPYTOHELP",
+   "brand": "TELMA TV",
+   "product": "CORPORATE",
    "agencies": [
-    "DDB & TRIBAL WORLDWIDE AMSTERDAM"
+    "NEW MOMENT NEW IDEAS COMPANY Skopje"
    ],
    "awards": [
     {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Use of Social Data & Insight",
+     "level": "Silver",
+     "category": "PR",
+     "subcategory": "Costs/Creative Performance PR Campaign",
      "count": 1,
      "entry_titles": [
-      "#HAPPYTOHELP"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Response/Real-Time Activity (including crowdsourcing)",
-     "count": 1,
-     "entry_titles": [
-      "#HAPPYTOHELP"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Media",
-     "subcategory": "Use of Social Platforms",
-     "count": 1,
-     "entry_titles": [
-      "#HAPPYTOHELP"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Media",
-     "subcategory": "Travel, Entertainment & Leisure",
-     "count": 1,
-     "entry_titles": [
-      "#HAPPYTOHELP"
+      "RED PHONE"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion×2、媒體類銅獅 Media Bronze Lion×2｜代理商：DDB & TRIBAL WORLDWIDE AMSTERDAM"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類銀獅 PR Silver Lion｜代理商：NEW MOMENT NEW IDEAS COMPANY Skopje"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/88b77c14685b42f5c5801f4ced0f7726"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/222d1638251946f6ac4f199425e800dc"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/happytohelp-130369",
-   "https://www.lovethework.com/en/work/entries/happytohelp-129581",
-   "https://www.lovethework.com/en/work/entries/happytohelp-108522"
+   "https://www.lovethework.com/en/work/entries/red-phone-101743"
   ]
  },
  {
-  "id": "ltwm-07657",
+  "id": "ltwm-07558",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "INSPIRING SPIRIT",
+  "brand": "SCOOT AIRLINES",
+  "agency": "SAATCHI & SAATCHI SINGAPORE",
+  "raw": "INSPIRING SPIRIT – SCOOT AIRLINES (SAATCHI & SAATCHI SINGAPORE )",
+  "links": [
+   "https://www.youtube.com/watch?v=2n1YWpT4zEw"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "PR",
+    "subcategory": "Brand voice (incl. strategic storytelling)",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "SCOOT AIRLINES",
+   "product": "AIRLINE",
+   "agencies": [
+    "SAATCHI & SAATCHI Singapore"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "PR",
+     "subcategory": "Brand voice (incl. strategic storytelling)",
+     "count": 1,
+     "entry_titles": [
+      "INSPIRING SPIRIT"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類銀獅 PR Silver Lion｜代理商：SAATCHI & SAATCHI Singapore"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/352653e7a65348f2ed50573cd42bd2cd"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/inspiring-spirit-101738"
+  ]
+ },
+ {
+  "id": "ltwm-07686",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "EYE PLAY THE PIANO",
-  "brand": "THE UNIVERSITY OF TSUKUBA’S SPECIAL NEEDS SCHOOLS",
-  "agency": "HAKUHODO KETTLE TOKYO",
-  "raw": "EYE PLAY THE PIANO – THE UNIVERSITY OF TSUKUBA’S SPECIAL NEEDS SCHOOLS (HAKUHODO KETTLE TOKYO)",
+  "title": "THE WEATHER CHALLENGE",
+  "brand": "TOYOTA",
+  "agency": "SAATCHI & SAATCHI MADRID",
+  "raw": "THE WEATHER CHALLENGE – TOYOTA (SAATCHI & SAATCHI MADRID)",
   "links": [
-   "https://clios.com/awards/winner/engagement-experiential/the-university-of-tsukuba-s-special-needs-schools/eye-play-the-piano-437"
+   "https://clios.com/awards/winner/branded-entertainment/toyota-motor-europe/the-weather-challenge-1142"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Tangible Tech (incl. Digital Products, Utilities & Tools)",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Pharma",
-    "subcategory": "Education & Services",
+    "category": "Promo & Activation",
+    "subcategory": "Cars & Automotive Services",
     "count": 1,
     "source_count": 1
    }
@@ -133,74 +516,50 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "THE UNIVERSITY OF TSUKUBA'S SPECIAL NEEDS SCHOOLS",
-   "product": "THE UNIVERSITY OF TSUKUBA'S SPECIAL NEEDS SCHOOLS",
+   "brand": "TOYOTA MOTOR EUROPE",
+   "product": "AYGO",
    "agencies": [
-    "HAKUHODO KETTLE Tokyo"
+    "DEL CAMPO SAATCHI & SAATCHI MADRID Madrid"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Tangible Tech (incl. Digital Products, Utilities & Tools)",
+     "category": "Promo & Activation",
+     "subcategory": "Cars & Automotive Services",
      "count": 1,
      "entry_titles": [
-      "EYE PLAY THE PIANO"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Pharma",
-     "subcategory": "Education & Services",
-     "count": 1,
-     "entry_titles": [
-      "EYE PLAY THE PIANO"
+      "THE WEATHER CHALLENGE"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion、製藥類銅獅 Pharma Bronze Lion｜代理商：HAKUHODO KETTLE Tokyo"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：DEL CAMPO SAATCHI & SAATCHI MADRID Madrid"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/141c7f2179c34c16c348a5db4f33c819"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/2720c49812724f9ee766ffac395d1725"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/eye-play-the-piano-98577",
-   "https://www.lovethework.com/en/work/entries/eye-play-the-piano-129971"
+   "https://www.lovethework.com/en/work/entries/the-weather-challenge-126949"
   ]
  },
  {
-  "id": "ltwm-07658",
+  "id": "ltwm-07746",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "LOOKING FOR YOU",
-  "brand": "BATTERSEA DOGS HOME",
-  "agency": "OGILVYONE LONDON",
-  "raw": "LOOKING FOR YOU – BATTERSEA DOGS HOME (OGILVYONE LONDON)",
+  "title": "MUSICAL CITY",
+  "brand": "TOYOTA",
+  "agency": "SAATCHI & SAATCHI MADRID",
+  "raw": "MUSICAL CITY – TOYOTA (SAATCHI & SAATCHI MADRID)",
   "links": [
-   "https://www.youtube.com/watch?v=GY8QzR4RPnc"
+   "https://www.youtube.com/watch?v=yozPARTXBkY"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Digital Billboard",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Media",
-    "subcategory": "Charities (incl. Fundraising, Donations & Appeals)",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Media",
-    "subcategory": "Use of Screens",
+    "category": "Direct",
+    "subcategory": "Acquisitions",
     "count": 1,
     "source_count": 1
    }
@@ -208,457 +567,29 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "BATTERSEA DOGS HOME",
-   "product": "ANIMAL RESCUE SERVICE",
+   "brand": "TOYOTA MOTOR EUROPE",
+   "product": "YARIS HYBRID",
    "agencies": [
-    "OGILVYONE LONDON"
+    "DEL CAMPO SAATCHI & SAATCHI MADRID Madrid"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Digital Billboard",
+     "category": "Direct",
+     "subcategory": "Acquisitions",
      "count": 1,
      "entry_titles": [
-      "LOOKING FOR YOU"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Media",
-     "subcategory": "Charities (incl. Fundraising, Donations & Appeals)",
-     "count": 1,
-     "entry_titles": [
-      "LOOKING FOR YOU"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Media",
-     "subcategory": "Use of Screens",
-     "count": 1,
-     "entry_titles": [
-      "LOOKING FOR YOU"
+      "MUSICAL CITY"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion、媒體類銅獅 Media Bronze Lion×2｜代理商：OGILVYONE LONDON"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜直效類銅獅 Direct Bronze Lion｜代理商：DEL CAMPO SAATCHI & SAATCHI MADRID Madrid"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/0e36b2e8e14e4d629225ce03a7749de1"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/a7cfa1f526504837e72b7284dcea96c9"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/looking-for-you-111989",
-   "https://www.lovethework.com/en/work/entries/looking-for-you-106780",
-   "https://www.lovethework.com/en/work/entries/looking-for-you-106751"
-  ]
- },
- {
-  "id": "ltwm-07659",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "#THEREWILLBEHATERS",
-  "brand": "ADIDAS",
-  "agency": "IRIS WORLDWIDE LONDON",
-  "raw": "#THEREWILLBEHATERS – ADIDAS (IRIS WORLDWIDE LONDON)",
-  "links": [
-   "https://vimeo.com/117251955"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Integrated Multi-Platform Campaign (Online & Offline)",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "ADIDAS",
-   "product": null,
-   "agencies": [
-    "IRIS WORLDWIDE London"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Integrated Multi-Platform Campaign (Online & Offline)",
-     "count": 1,
-     "entry_titles": [
-      "#THEREWILLBEHATERS"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：IRIS WORLDWIDE London"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/4c73b98df5cb4f9bf617c169e80caa54"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/therewillbehaters-129199"
-  ]
- },
- {
-  "id": "ltwm-07660",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "IS THIS THE NEXT?",
-  "brand": "SAMSUNG",
-  "agency": "DDB STOCKHOLM",
-  "raw": "IS THIS THE NEXT? – SAMSUNG (DDB STOCKHOLM)",
-  "links": [
-   "https://nordddb.com/case/is-this-the-next/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Cyber",
-    "subcategory": "Integrated Multi-Platform Campaign (Online & Offline)",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "SAMSUNG",
-   "product": null,
-   "agencies": [
-    "DDB STOCKHOLM"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Cyber",
-     "subcategory": "Integrated Multi-Platform Campaign (Online & Offline)",
-     "count": 1,
-     "entry_titles": [
-      "IS THIS THE NEXT?"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：DDB STOCKHOLM"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/e96e44f306d74877c156bf04d22a0bbf"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/is-this-the-next-111079"
-  ]
- },
- {
-  "id": "ltwm-07661",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "WAIT",
-  "brand": "JÉRÉMIE NORMANDIN",
-  "agency": "LANDOR ASSOCIATES PARIS",
-  "raw": "WAIT – JÉRÉMIE NORMANDIN (LANDOR ASSOCIATES PARIS)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2015/crafts-for-design/24137/wait/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Design",
-    "subcategory": "Packaging and Promotional Item Design",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Design",
-    "subcategory": "New Brand Identity: the Creation of a New Brand Identity",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Design",
-    "subcategory": "Premium Brand",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "JÉRÉMIE NORMANDIN",
-   "product": null,
-   "agencies": [
-    "LANDOR ASSOCIATES Paris"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Design",
-     "subcategory": "Packaging and Promotional Item Design",
-     "count": 1,
-     "entry_titles": [
-      "WAIT"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Design",
-     "subcategory": "New Brand Identity: the Creation of a New Brand Identity",
-     "count": 1,
-     "entry_titles": [
-      "WAIT"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Design",
-     "subcategory": "Premium Brand",
-     "count": 1,
-     "entry_titles": [
-      "WAIT"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銅獅 Design Bronze Lion×3｜代理商：LANDOR ASSOCIATES Paris"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/d42edcf23e3c4fccc26727e4bc498b6c"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/wait-125839",
-   "https://www.lovethework.com/en/work/entries/wait-125838",
-   "https://www.lovethework.com/en/work/entries/wait-125611"
-  ]
- },
- {
-  "id": "ltwm-07662",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "FEDORA",
-  "brand": "FEDORA-THE EUROPEAN CIRCLE OF PHILANTHROPISTS OF BALLET AND OPERA",
-  "agency": "LANDOR ASSOCIATES PARIS",
-  "raw": "FEDORA – FEDORA-THE EUROPEAN CIRCLE OF PHILANTHROPISTS OF BALLET AND OPERA (LANDOR ASSOCIATES PARIS)",
-  "links": [
-   "https://landor.com/fedora-a-stairway-to-glory"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Design",
-    "subcategory": "Posters",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Design",
-    "subcategory": "Logo & Logo Type (designed for Small Scale Organisations)",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "FEDORA-THE EUROPEAN CIRCLE OF PHILANTHROPISTS OF BALLET AND OPERA",
-   "product": null,
-   "agencies": [
-    "LANDOR ASSOCIATES Paris"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Design",
-     "subcategory": "Posters",
-     "count": 1,
-     "entry_titles": [
-      "FEDORA"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Design",
-     "subcategory": "Logo & Logo Type (designed for Small Scale Organisations)",
-     "count": 1,
-     "entry_titles": [
-      "FEDORA"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銅獅 Design Bronze Lion×2｜代理商：LANDOR ASSOCIATES Paris"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/d9a3b40569fa4cc6b052d5c818919664"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/fedora-125568",
-   "https://www.lovethework.com/en/work/entries/fedora-125515"
-  ]
- },
- {
-  "id": "ltwm-07664",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "HONDA. BEAUTIFUL ENGINES.",
-  "brand": "HONDA MOTOR CO.",
-  "agency": "DENTSU INC. TOKYO",
-  "raw": "HONDA. BEAUTIFUL ENGINES. – HONDA MOTOR CO. (DENTSU INC. TOKYO)",
-  "links": [
-   "https://clios.com/awards/winner/design/honda-motor-co-ltd/honda-beautiful-engines--183"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Design",
-    "subcategory": "Publications & Brand Collateral",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "HONDA MOTOR CO.",
-   "product": null,
-   "agencies": [
-    "MORI Tokyo / DENTSU INC. Tokyo"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Design",
-     "subcategory": "Publications & Brand Collateral",
-     "count": 1,
-     "entry_titles": [
-      "HONDA. BEAUTIFUL ENGINES."
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銅獅 Design Bronze Lion｜代理商：MORI Tokyo / DENTSU INC. Tokyo"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/79ad480ddc1a425cef17dc51437195b9"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/honda-beautiful-engines-125781"
-  ]
- },
- {
-  "id": "ltwm-07665",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "THE BURGER REPORT",
-  "brand": "MCDONALD’S GERMANY",
-  "agency": "THJNK HAMBURG/LEO BURNETT FRANKFURT",
-  "raw": "THE BURGER REPORT – MCDONALD’S GERMANY (THJNK HAMBURG/LEO BURNETT FRANKFURT)",
-  "links": [
-   "https://www.behance.net/gallery/26087559/The-Burger-Report"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Design",
-    "subcategory": "Large Business",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "McDONALD´S GERMANY",
-   "product": null,
-   "agencies": [
-    "THJNK Hamburg / LEO BURNETT FRANKFURT"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Design",
-     "subcategory": "Large Business",
-     "count": 1,
-     "entry_titles": [
-      "THE BURGER REPORT"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銅獅 Design Bronze Lion｜代理商：THJNK Hamburg / LEO BURNETT FRANKFURT"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/f84a080ae3934eb8d94b95091453a8ed"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-burger-report-104010"
-  ]
- },
- {
-  "id": "ltwm-07666",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "MARCO POLO TITLE SEQUENCE",
-  "brand": "NETFLIX/WEINSTEIN GROUP",
-  "agency": "MILL+ NEW YORK",
-  "raw": "MARCO POLO TITLE SEQUENCE – NETFLIX/WEINSTEIN GROUP (MILL+ NEW YORK)",
-  "links": [
-   "https://vimeo.com/114319296"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Design",
-    "subcategory": "Title Sequences",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "NETFLIX / WEINSTEIN GROUP",
-   "product": null,
-   "agencies": [
-    "MILL+ New York"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Design",
-     "subcategory": "Title Sequences",
-     "count": 1,
-     "entry_titles": [
-      "MARCO POLO TITLE SEQUENCE"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜設計類銅獅 Design Bronze Lion｜代理商：MILL+ New York"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/340c6bf873154e52e9c174a5a29f9813"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/marco-polo-title-sequence-104089"
+   "https://www.lovethework.com/en/work/entries/musical-city-127895"
   ]
  }
 ]

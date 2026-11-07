@@ -1,347 +1,146 @@
 [
  {
-  "id": "ltwm-07381",
+  "id": "ltwm-07332",
   "year": 2015,
   "tier": "GOLD",
   "categories": [],
-  "title": "TWIN SOULS",
-  "brand": "CHANGE ONE LIFE",
-  "agency": "Y&R MOSCOW",
-  "raw": "TWIN SOULS – CHANGE ONE LIFE (Y&R MOSCOW)",
+  "title": "BETWEEN TWO FERNS WITH ZACH GALIFIANAKIS: PRESIDENT BARACK OBAMA",
+  "brand": "WHITE HOUSE",
+  "agency": "FUNNY OR DIE LOS ANGELES",
+  "raw": "BETWEEN TWO FERNS WITH ZACH GALIFIANAKIS: PRESIDENT BARACK OBAMA – WHITE HOUSE (FUNNY OR DIE LOS ANGELES)",
   "links": [
-   "https://adsspot.me/media/case-study/charitable-foundation-change-one-life-change-one-life-twin-souls-0c6582a045ef"
+   "https://www.youtube.com/watch?v=UnW3xkHxIEQ"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Gold",
-    "category": "Creative Data",
-    "subcategory": "Data Technology Enhanced Creative (including models/tools/platforms)",
+    "category": "Film",
+    "subcategory": "Short Non-Fiction Film (under 10 minutes)",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "WHITE HOUSE",
+   "product": "HEALTHCARE.GOV",
+   "agencies": [
+    "FUNNY OR DIE Los Angeles"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Film",
+     "subcategory": "Short Non-Fiction Film (under 10 minutes)",
+     "count": 1,
+     "entry_titles": [
+      "BETWEEN TWO FERNS WITH ZACH GALIFIANAKIS: PRESIDENT BARACK OBAMA"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類金獅 Film Gold Lion｜代理商：FUNNY OR DIE Los Angeles"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/21oKzZpgKK38z6CH22xvKi/2891cea86e6d97a93344f9f8fd0e6153/LTW_placeholder_2.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/between-two-ferns-with-zach-galifianakis-president-barack-obama-135853"
+  ]
+ },
+ {
+  "id": "ltwm-07324",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "BIRTH",
+  "brand": "AUDI",
+  "agency": "BBH LONDON",
+  "raw": "BIRTH – AUDI (BBH LONDON)",
+  "links": [
+   "https://clios.com/awards/winner/film-technique/birth-13186"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Film Craft",
+    "subcategory": "Animation",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "AUDI",
+   "product": "AUDI RS3",
+   "agencies": [
+    "MILL+ London / BBH London"
+   ],
+   "awards": [
+    {
+     "level": "Gold",
+     "category": "Film Craft",
+     "subcategory": "Animation",
+     "count": 1,
+     "entry_titles": [
+      "BIRTH"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片工藝類金獅 Film Craft Gold Lion｜代理商：MILL+ London / BBH London"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/3duqCqeHDt9hMAdtuQjc3V/3f6a8c56aeb415ac19cd5dd916fa6976/LTW_placeholder_1.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/birth-123950"
+  ]
+ },
+ {
+  "id": "ltwm-07333",
+  "year": 2015,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "THE GAME BEFORE THE GAME",
+  "brand": "BEATS BY DR. DRE",
+  "agency": "R/GA LONDON",
+  "raw": "THE GAME BEFORE THE GAME – BEATS BY DR. DRE (R/GA LONDON)",
+  "links": [
+   "https://clios.com/awards/winner/integrated-campaign/beats-by-dr-dre/the-game-before-the-game-1043"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Gold",
+    "category": "Film",
+    "subcategory": "Short Non-Fiction Film (under 10 minutes)",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Silver",
-    "category": "Creative Data",
-    "subcategory": "Creative Data Enhancement",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "CHARITABLE FOUNDATION \"CHANGE ONE LIFE\"",
-   "product": "ADOPTION AWARENESS",
-   "agencies": [
-    "Y&R Moscow"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Creative Data",
-     "subcategory": "Data Technology Enhanced Creative (including models/tools/platforms)",
-     "count": 1,
-     "entry_titles": [
-      "TWIN SOULS"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Creative Data",
-     "subcategory": "Creative Data Enhancement",
-     "count": 1,
-     "entry_titles": [
-      "TWIN SOULS"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜創意數據類金獅 Creative Data Gold Lion、創意數據類銀獅 Creative Data Silver Lion｜代理商：Y&R Moscow"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/0fa09eea838e477ceb96762d4f74e3e8"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/twin-souls-120428",
-   "https://www.lovethework.com/en/work/entries/twin-souls-120410"
-  ]
- },
- {
-  "id": "ltwm-07382",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "VOTE FOR US. WE’LL VOTE FOR YOU",
-  "brand": "KAFA",
-  "agency": "LEO BURNETT BEIRUT",
-  "raw": "VOTE FOR US. WE’LL VOTE FOR YOU – KAFA (LEO BURNETT BEIRUT)",
-  "links": [
-   "https://www2.dubailynx.com/winners/2015/media/entry.cfm?entryid=1564&award=3"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "PR",
-    "subcategory": "Public Affairs & Lobbying",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Glass",
-    "subcategory": "Glass",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "KAFA",
-   "product": "WOMEN'S RIGHTS NGO",
-   "agencies": [
-    "LEO BURNETT BEIRUT"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "PR",
-     "subcategory": "Public Affairs & Lobbying",
-     "count": 1,
-     "entry_titles": [
-      "VOTE FOR US. WE'LL VOTE FOR YOU"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Glass",
-     "subcategory": "Glass",
-     "count": 1,
-     "entry_titles": [
-      "VOTE FOR US. WE'LL VOTE FOR YOU"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜玻璃類金獅 Glass Gold Lion、公關類銅獅 PR Bronze Lion｜代理商：LEO BURNETT BEIRUT"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/63ec22f2a1a44b47f08ca9958e6a8f85"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/vote-for-us-well-vote-for-you-98822",
-   "https://www.lovethework.com/en/work/entries/vote-for-us-well-vote-for-you-125256"
-  ]
- },
- {
-  "id": "ltwm-07383",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "FELIZ DÍA HOMBRES",
-  "brand": "URUFARMA",
-  "agency": "NOTABLE MONTEVIDEO",
-  "raw": "FELIZ DÍA HOMBRES – URUFARMA (NOTABLE MONTEVIDEO)",
-  "links": [
-   "https://www.behance.net/gallery/24254835/Feliz-dia-hombres-Urufarma"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Glass",
-    "subcategory": "Glass",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "URUFARMA",
-   "product": "INSTITUCIONAL",
-   "agencies": [
-    "NOTABLE Montevideo"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Glass",
-     "subcategory": "Glass",
-     "count": 1,
-     "entry_titles": [
-      "FELIZ DÍA HOMBRES"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜玻璃類金獅 Glass Gold Lion｜代理商：NOTABLE Montevideo"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/bac970253f5f4159e60b59691f393b6f"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/feliz-da-hombres-98820"
-  ]
- },
- {
-  "id": "ltwm-07384",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "THE EQUAL PAY BACK PROJECT",
-  "brand": "NATIONAL WOMEN’S LAW CENTER",
-  "agency": "DROGA5 NEW YORK",
-  "raw": "THE EQUAL PAY BACK PROJECT – NATIONAL WOMEN’S LAW CENTER (DROGA5 NEW YORK)",
-  "links": [
-   "https://clios.com/awards/winner/public-relations/national-women-s-law-center/the-equal-pay-back-project-1196"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Glass",
-    "subcategory": "Glass",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "NATIONAL WOMEN'S LAW CENTER",
-   "product": "PSA",
-   "agencies": [
-    "DROGA5 New York"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Glass",
-     "subcategory": "Glass",
-     "count": 1,
-     "entry_titles": [
-      "THE EQUAL PAY BACK PROJECT"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜玻璃類金獅 Glass Gold Lion｜代理商：DROGA5 New York"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/4e4479e543d648b8a985e1a260a766fc"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-equal-pay-back-project-98798"
-  ]
- },
- {
-  "id": "ltwm-07386",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "GIVE MOM BACK HER NAME",
-  "brand": "UN WOMEN",
-  "agency": "IMPACT BBDO DUBAI",
-  "raw": "GIVE MOM BACK HER NAME – UN WOMEN (IMPACT BBDO DUBAI)",
-  "links": [
-   "https://clios.com/awards/winner/social-media/un-women/give-mom-back-her-name-1082"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Glass",
-    "subcategory": "Glass",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "UN WOMEN",
-   "product": "UN WOMEN",
-   "agencies": [
-    "IMPACT BBDO Dubai"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Glass",
-     "subcategory": "Glass",
-     "count": 1,
-     "entry_titles": [
-      "GIVE MOM BACK HER NAME"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜玻璃類金獅 Glass Gold Lion｜代理商：IMPACT BBDO Dubai"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/03a5460f692f4989c1479ed4d84aeedf"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/give-mom-back-her-name-98674"
-  ]
- },
- {
-  "id": "ltwm-07388",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "I TOUCH MYSELF PROJECT",
-  "brand": "CANCER COUNCIL NSW",
-  "agency": "JWT SYDNEY",
-  "raw": "I TOUCH MYSELF PROJECT – CANCER COUNCIL NSW (JWT SYDNEY)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2015/integrated-innovative-media/24252/i-touch-myself-project/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Health & Wellness",
-    "subcategory": "Education & Awareness",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Health & Wellness",
-    "subcategory": "Education & Awareness",
+    "category": "Film Craft",
+    "subcategory": "Use of Licensed/Adapted Music",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Silver",
-    "category": "Health & Wellness",
-    "subcategory": "Education & Awareness",
+    "category": "Cyber",
+    "subcategory": "Social Video",
     "count": 1,
     "source_count": 1
    },
    {
-    "level": "Bronze",
-    "category": "Health & Wellness",
-    "subcategory": "Education & Awareness",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Health & Wellness",
-    "subcategory": "Education & Awareness",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Health & Wellness",
-    "subcategory": "Education & Awareness",
+    "level": "Silver",
+    "category": "Branded Content & Entertainment",
+    "subcategory": "Non-Fiction: Online (15 minutes or under in length)",
     "count": 1,
     "source_count": 1
    }
@@ -349,112 +148,87 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "CANCER COUNCIL NSW",
-   "product": "BREAST CANCER CAMPAIGN",
+   "brand": "BEATS BY DR. DRE",
+   "product": "BEATS SOLO2",
    "agencies": [
-    "J. WALTER THOMPSON Sydney",
-    "J. WALTER THOMPSON Sydney / HILL & KNOWLTON Sydney"
+    "R/GA LONDON",
+    "R/GA LONDON London"
    ],
    "awards": [
     {
      "level": "Gold",
-     "category": "Health & Wellness",
-     "subcategory": "Education & Awareness",
+     "category": "Film",
+     "subcategory": "Short Non-Fiction Film (under 10 minutes)",
      "count": 1,
      "entry_titles": [
-      "I TOUCH MYSELF PROJECT"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Health & Wellness",
-     "subcategory": "Education & Awareness",
-     "count": 1,
-     "entry_titles": [
-      "I TOUCH MYSELF PROJECT"
+      "THE GAME BEFORE THE GAME"
      ]
     },
     {
      "level": "Silver",
-     "category": "Health & Wellness",
-     "subcategory": "Education & Awareness",
+     "category": "Film Craft",
+     "subcategory": "Use of Licensed/Adapted Music",
      "count": 1,
      "entry_titles": [
-      "I TOUCH MYSELF PROJECT"
+      "THE GAME BEFORE THE GAME"
      ]
     },
     {
-     "level": "Bronze",
-     "category": "Health & Wellness",
-     "subcategory": "Education & Awareness",
+     "level": "Silver",
+     "category": "Cyber",
+     "subcategory": "Social Video",
      "count": 1,
      "entry_titles": [
-      "I TOUCH MYSELF PROJECT"
+      "THE GAME BEFORE THE GAME"
      ]
     },
     {
-     "level": "Bronze",
-     "category": "Health & Wellness",
-     "subcategory": "Education & Awareness",
+     "level": "Silver",
+     "category": "Branded Content & Entertainment",
+     "subcategory": "Non-Fiction: Online (15 minutes or under in length)",
      "count": 1,
      "entry_titles": [
-      "I TOUCH MYSELF PROJECT"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Health & Wellness",
-     "subcategory": "Education & Awareness",
-     "count": 1,
-     "entry_titles": [
-      "I TOUCH MYSELF PROJECT"
+      "THE GAME BEFORE THE GAME"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜健康與保健類金獅 Health & Wellness Gold Lion×2、健康與保健類銀獅 Health & Wellness Silver Lion、健康與保健類銅獅 Health & Wellness Bronze Lion×3｜代理商：J. WALTER THOMPSON Sydney / J. WALTER THOMPSON Sydney / HILL & KNOWLTON Sydney"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類金獅 Film Gold Lion、Branded Content & Entertainment類銀獅 Branded Content & Entertainment Silver Lion、Cyber類銀獅 Cyber Silver Lion、影片工藝類銀獅 Film Craft Silver Lion｜代理商：R/GA LONDON / R/GA LONDON London"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/5d8badc751ab4cdc8e25b2d167644150"
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/3a75d18abaca4858a15c1c9c8f9391d1/storyboard_000002.jpg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/i-touch-myself-project-98436",
-   "https://www.lovethework.com/en/work/entries/i-touch-myself-project-98197",
-   "https://www.lovethework.com/en/work/entries/i-touch-myself-project-98138"
+   "https://www.lovethework.com/en/work/entries/the-game-before-the-game-99439",
+   "https://www.lovethework.com/en/work/entries/the-game-before-the-game-134874",
+   "https://www.lovethework.com/en/work/entries/the-game-before-the-game-110252"
   ]
  },
  {
-  "id": "ltwm-07389",
+  "id": "ltwm-07329",
   "year": 2015,
   "tier": "GOLD",
   "categories": [],
-  "title": "TATTOO SKIN CANCER CHECK",
-  "brand": "SOL DE JANEIRO",
-  "agency": "OGILVY SÃO PAULO",
-  "raw": "TATTOO SKIN CANCER CHECK – SOL DE JANEIRO (OGILVY SÃO PAULO)",
+  "title": "DADSONG",
+  "brand": "OLD SPICE",
+  "agency": "WIEDEN+KENNEDY PORTLAND",
+  "raw": "DADSONG – OLD SPICE (WIEDEN+KENNEDY PORTLAND)",
   "links": [
-   "https://www.dandad.org/awards/professional/2015/direct/24654/tattoo-skin-cancer-check/"
+   "https://www.dandad.org/awards/professional/2015/film-advertising-crafts/24789/dadsong/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Gold",
-    "category": "Health & Wellness",
-    "subcategory": "Education & Awareness",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Health & Wellness",
-    "subcategory": "Education & Awareness",
+    "category": "Film",
+    "subcategory": "Toiletries, Cosmetics & Beauty",
     "count": 1,
     "source_count": 1
    },
    {
     "level": "Bronze",
-    "category": "Health & Wellness",
-    "subcategory": "Education & Awareness",
+    "category": "Radio",
+    "subcategory": "Use of Music",
     "count": 1,
     "source_count": 1
    }
@@ -462,270 +236,358 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "SOL DE JANEIRO",
-   "product": "CORPORATE",
+   "brand": "OLD SPICE",
+   "product": "PERSONAL CARE",
    "agencies": [
-    "OGILVY BRASIL São Paulo"
+    "WIEDEN+KENNEDY Portland"
    ],
    "awards": [
     {
      "level": "Gold",
-     "category": "Health & Wellness",
-     "subcategory": "Education & Awareness",
+     "category": "Film",
+     "subcategory": "Toiletries, Cosmetics & Beauty",
      "count": 1,
      "entry_titles": [
-      "TATTOO SKIN CANCER CHECK"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Health & Wellness",
-     "subcategory": "Education & Awareness",
-     "count": 1,
-     "entry_titles": [
-      "TATTOO SKIN CANCER CHECK"
+      "DADSONG"
      ]
     },
     {
      "level": "Bronze",
-     "category": "Health & Wellness",
-     "subcategory": "Education & Awareness",
+     "category": "Radio",
+     "subcategory": "Use of Music",
      "count": 1,
      "entry_titles": [
-      "TATTOO SKIN CANCER CHECK"
+      "DADSONG"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜健康與保健類金獅 Health & Wellness Gold Lion、健康與保健類銀獅 Health & Wellness Silver Lion、健康與保健類銅獅 Health & Wellness Bronze Lion｜代理商：OGILVY BRASIL São Paulo"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類金獅 Film Gold Lion、Radio類銅獅 Radio Bronze Lion｜代理商：WIEDEN+KENNEDY Portland"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/3duqCqeHDt9hMAdtuQjc3V/3f6a8c56aeb415ac19cd5dd916fa6976/LTW_placeholder_1.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/dadsong-135766",
+   "https://www.lovethework.com/en/work/entries/dadsong-113435"
+  ]
+ },
+ {
+  "id": "ltwm-07569",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "NOISE CANCELLING HEADPHONES",
+  "brand": "AUDIOGEAR",
+  "agency": "​​OGILVY BANGKOK",
+  "raw": "NOISE CANCELLING HEADPHONES – AUDIOGEAR (​​OGILVY BANGKOK)",
+  "links": [
+   "https://www.behance.net/gallery/30427541/Audiogear-Noise-Canceling-Headphones"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Press",
+    "subcategory": "Home Electronics & Audio-Visual",
+    "count": 1,
+    "source_count": 2
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "CKGADGET",
+   "product": "AUDIOGEAR",
+   "agencies": [
+    "OGILVY & MATHER Bangkok"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Press",
+     "subcategory": "Home Electronics & Audio-Visual",
+     "count": 1,
+     "entry_titles": [
+      "BIG AIRPLANE",
+      "BUS"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銀獅 Press Silver Lion｜代理商：OGILVY & MATHER Bangkok"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/84ef5d97232549cea94de1252f8e74af"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/bus-118423",
+   "https://www.lovethework.com/en/work/entries/big-airplane-118434"
+  ]
+ },
+ {
+  "id": "ltwm-07405",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "BARELY LEGAL PAWN",
+  "brand": "AUDI OF AMERICA",
+  "agency": "PMK*BNC NEW YORK",
+  "raw": "BARELY LEGAL PAWN – AUDI OF AMERICA (PMK*BNC NEW YORK)",
+  "links": [
+   "https://clios.com/awards/winner/branded-entertainment/barely-legal-pawn-493"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Branded Content & Entertainment",
+    "subcategory": "Fiction: Online (15 minutes or under in length)",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "AUDI OF AMERICA",
+   "product": "BRAND",
+   "agencies": [
+    "PMK*BNC New York"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Branded Content & Entertainment",
+     "subcategory": "Fiction: Online (15 minutes or under in length)",
+     "count": 1,
+     "entry_titles": [
+      "BARELY LEGAL PAWN"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銀獅 Branded Content & Entertainment Silver Lion｜代理商：PMK*BNC New York"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/4aa550caffa8430f92de48053211529f/storyboard_000002.jpg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/barely-legal-pawn-99698"
+  ]
+ },
+ {
+  "id": "ltwm-07472",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "MECHANICS",
+  "brand": "AUDI",
+  "agency": "THJNK BERLIN",
+  "raw": "MECHANICS – AUDI (THJNK BERLIN)",
+  "links": [
+   "https://vimeo.com/405049469"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Film",
+    "subcategory": "Cars, Other Vehicles, Auto Products & Services",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Film Craft",
+    "subcategory": "Production Design/Art Direction",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "AUDI",
+   "product": "AUDI SERVICE",
+   "agencies": [
+    "THJNK Berlin"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Film",
+     "subcategory": "Cars, Other Vehicles, Auto Products & Services",
+     "count": 1,
+     "entry_titles": [
+      "MECHANICS"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Film Craft",
+     "subcategory": "Production Design/Art Direction",
+     "count": 1,
+     "entry_titles": [
+      "MECHANICS"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銀獅 Film Silver Lion、影片工藝類銀獅 Film Craft Silver Lion｜代理商：THJNK Berlin"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/3duqCqeHDt9hMAdtuQjc3V/3f6a8c56aeb415ac19cd5dd916fa6976/LTW_placeholder_1.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/mechanics-119083",
+   "https://www.lovethework.com/en/work/entries/mechanics-100656"
+  ]
+ },
+ {
+  "id": "ltwm-07805",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "AUDI LED SCOREBOARD",
+  "brand": "AUDI",
+  "agency": "RAZORFISH BERLIN",
+  "raw": "AUDI LED SCOREBOARD – AUDI (RAZORFISH BERLIN)",
+  "links": [
+   "https://clios.com/awards/winner/public-relations/audi/audi-led-scoreboard-317"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Outdoor",
+    "subcategory": "Special Build",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "AUDI",
+   "product": "LED LIGHT TECHNOLOGY",
+   "agencies": [
+    "RAZORFISH Berlin"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Outdoor",
+     "subcategory": "Special Build",
+     "count": 1,
+     "entry_titles": [
+      "AUDI LED SCOREBOARD"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：RAZORFISH Berlin"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/a8d7e1107dfd4597d10bf93e9d2a0d04"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/audi-led-scoreboard-132600"
+  ]
+ },
+ {
+  "id": "ltwm-07818",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "AUDI TT BROCHURE HACK",
+  "brand": "AUDI",
+  "agency": "RAZORFISH BERLIN",
+  "raw": "AUDI TT BROCHURE HACK – AUDI (RAZORFISH BERLIN)",
+  "links": [
+   "http://danielrighi.com/audittbrochurehack/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "AUDI",
+   "product": "AUDI TT",
+   "agencies": [
+    "RAZORFISH Berlin"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Mobile",
+     "subcategory": "",
+     "count": 1,
+     "entry_titles": [
+      "AUDI TT BROCHURE HACK"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銅獅 Mobile Bronze Lion｜代理商：RAZORFISH Berlin"
+  }
+ },
+ {
+  "id": "ltwm-07928",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "THE SCRIPTED LIFE",
+  "brand": "AUDI",
+  "agency": "VENABLES BELL & PARTNERS SAN FRANCISCO",
+  "raw": "THE SCRIPTED LIFE – AUDI (VENABLES BELL & PARTNERS SAN FRANCISCO)",
+  "links": [
+   "https://adsspot.me/media/tv-commercials/audi-the-scripted-life-e7e36fed754a"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Film",
+    "subcategory": "Cars, Other Vehicles, Auto Products & Services",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "AUDI OF AMERICA",
+   "product": "2015 AUDI Q3",
+   "agencies": [
+    "VENABLES BELL & PARTNERS San Francisco"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Film",
+     "subcategory": "Cars, Other Vehicles, Auto Products & Services",
+     "count": 1,
+     "entry_titles": [
+      "THE SCRIPTED LIFE"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片類銅獅 Film Bronze Lion｜代理商：VENABLES BELL & PARTNERS San Francisco"
   },
   "image_candidates": [
    "https://images.ctfassets.net/8ha5xom4da7e/7sDFJEwnUZaGwijBHq2OXr/aa1a7fa09f91cf7a197ee7d0c16cac41/LTW_placeholder_3.svg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/tattoo-skin-cancer-check-98271",
-   "https://www.lovethework.com/en/work/entries/tattoo-skin-cancer-check-98187",
-   "https://www.lovethework.com/en/work/entries/tattoo-skin-cancer-check-98069"
-  ]
- },
- {
-  "id": "ltwm-07390",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "THE EYES OF A CHILD",
-  "brand": "ASSOCIATION NOEMI",
-  "agency": "LEO BURNETT PARIS",
-  "raw": "THE EYES OF A CHILD – ASSOCIATION NOEMI (LEO BURNETT PARIS)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2015/outdoor-advertising/24683/the-eyes-of-a-child/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Gold",
-    "category": "Health & Wellness",
-    "subcategory": "Fundraising & Advocacy",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "ASSOCIATION NOEMI",
-   "product": "DISABILITIES ASSOCIATION",
-   "agencies": [
-    "LEO BURNETT FRANCE Paris"
-   ],
-   "awards": [
-    {
-     "level": "Gold",
-     "category": "Health & Wellness",
-     "subcategory": "Fundraising & Advocacy",
-     "count": 1,
-     "entry_titles": [
-      "THE EYES OF A CHILD"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜健康與保健類金獅 Health & Wellness Gold Lion｜代理商：LEO BURNETT FRANCE Paris"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/0bfb7a27d7da44c09fc9c6849c341e85"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-eyes-of-a-child-121510"
-  ]
- },
- {
-  "id": "ltwm-07391",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "MEETING MURILO",
-  "brand": "HUGGIES",
-  "agency": "MOOD\\TBWA SÃO PAULO",
-  "raw": "MEETING MURILO – HUGGIES (MOOD\\TBWA SÃO PAULO)",
-  "links": [
-   "https://clios.com/health/winner/direct/huggies/meeting-murilo-1342"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Creative Data",
-    "subcategory": "Data Technology Enhanced Creative (including models/tools/platforms)",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Health & Wellness",
-    "subcategory": "Corporate Image & Communication",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Health & Wellness",
-    "subcategory": "OTC Products/Devices",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "KIMBERLY CLARK",
-   "product": "HUGGIES",
-   "agencies": [
-    "MOOD\\TBWA São Paulo / THE GOODFELLAS São Paulo",
-    "MOOD\\TBWA São Paulo"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Creative Data",
-     "subcategory": "Data Technology Enhanced Creative (including models/tools/platforms)",
-     "count": 1,
-     "entry_titles": [
-      "MEETING MURILO"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Health & Wellness",
-     "subcategory": "Corporate Image & Communication",
-     "count": 1,
-     "entry_titles": [
-      "MEETING"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Health & Wellness",
-     "subcategory": "OTC Products/Devices",
-     "count": 1,
-     "entry_titles": [
-      "MEETING"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜健康與保健類金獅 Health & Wellness Gold Lion、健康與保健類銀獅 Health & Wellness Silver Lion、創意數據類銅獅 Creative Data Bronze Lion｜代理商：MOOD\\TBWA São Paulo / THE GOODFELLAS São Paulo / MOOD\\TBWA São Paulo"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/309701fbcfe0428990fb8636030c2fee"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/meeting-murilo-97647",
-   "https://www.lovethework.com/en/work/entries/meeting-98461",
-   "https://www.lovethework.com/en/work/entries/meeting-98254"
-  ]
- },
- {
-  "id": "ltwm-07392",
-  "year": 2015,
-  "tier": "GOLD",
-  "categories": [],
-  "title": "THE BACKUP MEMORY",
-  "brand": "SAMSUNG TUNISIA",
-  "agency": "3SG BBDO ARIANA",
-  "raw": "THE BACKUP MEMORY – SAMSUNG TUNISIA (3SG BBDO ARIANA)",
-  "links": [
-   "https://www.dandad.org/awards/professional/2016/digital-design/25312/backup-memory/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Direct",
-    "subcategory": "Use of Mobile Marketing",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Mobile",
-    "subcategory": "",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Health & Wellness",
-    "subcategory": "Corporate Image & Communication",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "SAMSUNG TUNISIA",
-   "product": "SERVICE",
-   "agencies": [
-    "3SG-BBDO Ariana"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Direct",
-     "subcategory": "Use of Mobile Marketing",
-     "count": 1,
-     "entry_titles": [
-      "THE BACKUP MEMORY"
-     ]
-    },
-    {
-     "level": "Silver",
-     "category": "Mobile",
-     "subcategory": "",
-     "count": 1,
-     "entry_titles": [
-      "THE BACKUP MEMORY"
-     ]
-    },
-    {
-     "level": "Gold",
-     "category": "Health & Wellness",
-     "subcategory": "Corporate Image & Communication",
-     "count": 1,
-     "entry_titles": [
-      "THE BACKUP MEMORY"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜健康與保健類金獅 Health & Wellness Gold Lion、行動類銀獅 Mobile Silver Lion、直效類銅獅 Direct Bronze Lion｜代理商：3SG-BBDO Ariana"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/921c1228c89e48e3b82cf12030690f4e"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-backup-memory-98092",
-   "https://www.lovethework.com/en/work/entries/the-backup-memory-128377"
+   "https://www.lovethework.com/en/work/entries/the-scripted-life-119043"
   ]
  }
 ]

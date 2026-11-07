@@ -1,15 +1,86 @@
 [
  {
-  "id": "ltwm-07687",
+  "id": "ltwm-07598",
   "year": 2015,
-  "tier": "BRONZE",
+  "tier": "SILVER",
   "categories": [],
-  "title": "THE CUP OF LIFE",
-  "brand": "NATIONAL MUSEUM OF MILITARY HISTORY",
-  "agency": "IRELAND/DAVENPORT JOHANNESBURG",
-  "raw": "THE CUP OF LIFE – NATIONAL MUSEUM OF MILITARY HISTORY (IRELAND/DAVENPORT JOHANNESBURG)",
+  "title": "CRIME NIGHT",
+  "brand": "SBS BELGIUM",
+  "agency": "BBDO BRUXELLES",
+  "raw": "CRIME NIGHT – SBS BELGIUM (BBDO BRUXELLES)",
   "links": [
-   "https://adsspot.me/media/tv-commercials/south-african-national-museum-of-military-history-the-cup-of-life-video-297482578e86"
+   "https://fredericenmichiel.wordpress.com/2015/06/16/vier-crime-night/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Silver",
+    "category": "Radio",
+    "subcategory": "Publications & Media",
+    "count": 1,
+    "source_count": 3
+   },
+   {
+    "level": "Bronze",
+    "category": "Direct",
+    "subcategory": "Publications & Media",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "SBS BELGIUM",
+   "product": "VIER",
+   "agencies": [
+    "BBDO BELGIUM Brussels"
+   ],
+   "awards": [
+    {
+     "level": "Silver",
+     "category": "Radio",
+     "subcategory": "Publications & Media",
+     "count": 1,
+     "entry_titles": [
+      "YOGHURT",
+      "SOFTENER",
+      "SANITARY PADS"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Direct",
+     "subcategory": "Publications & Media",
+     "count": 1,
+     "entry_titles": [
+      "STALKER VIEWED YOUR PROFILE"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Radio類銀獅 Radio Silver Lion、直效類銅獅 Direct Bronze Lion｜代理商：BBDO BELGIUM Brussels"
+  },
+  "image_candidates": [
+   "https://images.ctfassets.net/8ha5xom4da7e/7wkKWL9wo0CVTRlnqWuiy9/d10dba1a1019d638ac5f910d21b7d525/audio-pink.svg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/sanitary-pads-113066",
+   "https://www.lovethework.com/en/work/entries/softener-113083",
+   "https://www.lovethework.com/en/work/entries/yoghurt-113117"
+  ]
+ },
+ {
+  "id": "ltwm-07599",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "SOCIAL SAVVY BURGLAR",
+  "brand": "ALLSTATE INSURANCE",
+  "agency": "LEO BURNETT CHICAGO",
+  "raw": "SOCIAL SAVVY BURGLAR – ALLSTATE INSURANCE (LEO BURNETT CHICAGO)",
+  "links": [
+   "https://www.dandad.org/awards/professional/2015/integrated-innovative-media/24251/social-savvy-burglar/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
@@ -17,7 +88,28 @@
    {
     "level": "Bronze",
     "category": "Direct",
-    "subcategory": "Dimensional Mailing",
+    "subcategory": "Use of Social Audience in a Direct Marketing Campaign",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Promo & Activation",
+    "subcategory": "Integrated Campaign Led by Promotion and Activation",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Media",
+    "subcategory": "Use of Events & Stunts",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Integrated",
+    "subcategory": "Titanium and Integrated",
     "count": 1,
     "source_count": 1
    }
@@ -25,166 +117,79 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "NATIONAL MUSEUM OF MILITARY HISTORY",
-   "product": "WORLD WAR 2 EXHIBIT",
+   "brand": "ALLSTATE INSURANCE COMPANY",
+   "product": "HOME INSURANCE",
    "agencies": [
-    "IRELAND/DAVENPORT Johannesburg"
+    "LEO BURNETT CHICAGO"
    ],
    "awards": [
     {
      "level": "Bronze",
      "category": "Direct",
-     "subcategory": "Dimensional Mailing",
+     "subcategory": "Use of Social Audience in a Direct Marketing Campaign",
      "count": 1,
      "entry_titles": [
-      "THE CUP OF LIFE"
+      "SOCIAL SAVVY BURGLAR"
      ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜直效類銅獅 Direct Bronze Lion｜代理商：IRELAND/DAVENPORT Johannesburg"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/dbd31297bfc243a6c3cc962e76334331"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/the-cup-of-life-109509"
-  ]
- },
- {
-  "id": "ltwm-07688",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "FAVOURITE CHILD DETECTOR",
-  "brand": "PRIME TV",
-  "agency": "FCB AUCKLAND",
-  "raw": "FAVOURITE CHILD DETECTOR – PRIME TV (FCB AUCKLAND)",
-  "links": [
-   "https://alanandangelo.com/FAVOURITE-CHILD-DETECTOR"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Outdoor",
-    "subcategory": "Publications & Media",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "PRIME TV",
-   "product": "TELEVISION PROGRAMME ADVERTISING",
-   "agencies": [
-    "FCB NEW ZEALAND Auckland"
-   ],
-   "awards": [
+    },
     {
      "level": "Bronze",
-     "category": "Outdoor",
-     "subcategory": "Publications & Media",
+     "category": "Promo & Activation",
+     "subcategory": "Integrated Campaign Led by Promotion and Activation",
      "count": 1,
      "entry_titles": [
-      "GLAMAZON"
+      "SOCIAL SAVVY BURGLAR"
      ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：FCB NEW ZEALAND Auckland"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/ba70b50a423049c8f6eea98d2a23247c"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/glamazon-131468"
-  ]
- },
- {
-  "id": "ltwm-07689",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "SUN LIFEGUARDS",
-  "brand": "LALCEC",
-  "agency": "JWT BUENOS AIRES",
-  "raw": "SUN LIFEGUARDS – LALCEC (JWT BUENOS AIRES)",
-  "links": [
-   "https://www.lucianogriessi.com/lalcec"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Media",
-    "subcategory": "Use of Ambient Media: Large Scale",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "LALCEC",
-   "product": "LALCEC",
-   "agencies": [
-    "J. WALTER THOMPSON ARGENTINA Buenos Aires"
-   ],
-   "awards": [
+    },
     {
      "level": "Bronze",
      "category": "Media",
-     "subcategory": "Use of Ambient Media: Large Scale",
+     "subcategory": "Use of Events & Stunts",
      "count": 1,
      "entry_titles": [
-      "SUN LIFEGUARDS"
+      "SOCIAL SAVVY BURGLAR"
+     ]
+    },
+    {
+     "level": "Silver",
+     "category": "Integrated",
+     "subcategory": "Titanium and Integrated",
+     "count": 1,
+     "entry_titles": [
+      "SOCIAL SAVVY BURGLAR"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銅獅 Media Bronze Lion｜代理商：J. WALTER THOMPSON ARGENTINA Buenos Aires"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Integrated類銀獅 Integrated Silver Lion、直效類銅獅 Direct Bronze Lion、媒體類銅獅 Media Bronze Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：LEO BURNETT CHICAGO"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/a1c3cefb77314011f95c8ee670be199d"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/d37d10f7a8924667848a8648f089aef7"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/sun-lifeguards-106869"
+   "https://www.lovethework.com/en/work/entries/social-savvy-burglar-126537",
+   "https://www.lovethework.com/en/work/entries/social-savvy-burglar-125842",
+   "https://www.lovethework.com/en/work/entries/social-savvy-burglar-109330"
   ]
  },
  {
-  "id": "ltwm-07690",
+  "id": "ltwm-07600",
   "year": 2015,
-  "tier": "BRONZE",
+  "tier": "SILVER",
   "categories": [],
-  "title": "SUNDAY GRANNIES",
-  "brand": "VODAFONE",
-  "agency": "MCCANN BUCHAREST",
-  "raw": "SUNDAY GRANNIES – VODAFONE (MCCANN BUCHAREST)",
+  "title": "RED SOX: GREEN MONSTER",
+  "brand": "PAINT",
+  "agency": "THE MARTIN AGENCY RICHMOND",
+  "raw": "RED SOX: GREEN MONSTER – PAINT (THE MARTIN AGENCY RICHMOND)",
   "links": [
-   "https://www.youtube.com/watch?v=35kOjvU2HkA"
+   "https://vimeo.com/118927992"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
-    "level": "Bronze",
-    "category": "Promo & Activation",
-    "subcategory": "Commercial Public Services, including Healthcare & Medical",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Promo & Activation",
-    "subcategory": "Use of Social Platform(s) in a Promotional Campaign",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "PR",
-    "subcategory": "Technology & Manufacturing",
+    "level": "Silver",
+    "category": "Integrated",
+    "subcategory": "Titanium and Integrated",
     "count": 1,
     "source_count": 1
    }
@@ -192,119 +197,93 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "VODAFONE ROMANIA",
-   "product": "TELECOMMUNICATIONS",
+   "brand": "BENJAMIN MOORE",
+   "product": "PAINT",
    "agencies": [
-    "McCANN ERICKSON ROMANIA Bucharest"
+    "THE MARTIN AGENCY Richmond"
    ],
    "awards": [
     {
-     "level": "Bronze",
-     "category": "Promo & Activation",
-     "subcategory": "Commercial Public Services, including Healthcare & Medical",
+     "level": "Silver",
+     "category": "Integrated",
+     "subcategory": "Titanium and Integrated",
      "count": 1,
      "entry_titles": [
-      "SUNDAY GRANNIES"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Promo & Activation",
-     "subcategory": "Use of Social Platform(s) in a Promotional Campaign",
-     "count": 1,
-     "entry_titles": [
-      "SUNDAY GRANNIES"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "PR",
-     "subcategory": "Technology & Manufacturing",
-     "count": 1,
-     "entry_titles": [
-      "SUNDAY GRANNIES"
+      "RED SOX: GREEN MONSTER"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類銅獅 PR Bronze Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion×2｜代理商：McCANN ERICKSON ROMANIA Bucharest"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Integrated類銀獅 Integrated Silver Lion｜代理商：THE MARTIN AGENCY Richmond"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/b1eba7475eab45adc86550e20f8346de"
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/bdfeda880c034d128f9ef7e80cf64fbe/storyboard_000002.jpg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/sunday-grannies-105680",
-   "https://www.lovethework.com/en/work/entries/sunday-grannies-104592",
-   "https://www.lovethework.com/en/work/entries/sunday-grannies-101684"
+   "https://www.lovethework.com/en/work/entries/red-sox-green-monster-125905"
   ]
  },
  {
-  "id": "ltwm-07691",
+  "id": "ltwm-07607",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "BALLOONS",
-  "brand": "THE SAMARITANS",
-  "agency": "Y&R SHANGHAI",
-  "raw": "BALLOONS – THE SAMARITANS (Y&R SHANGHAI)",
+  "title": "UNBELIEVABLE CAMPAIGN",
+  "brand": "PEPSICO",
+  "agency": "AMVBBDO LONDON",
+  "raw": "UNBELIEVABLE CAMPAIGN – PEPSICO (AMVBBDO LONDON)",
   "links": [
-   "http://www.adeevee.com/2016/01/the-samaritans-balloons-print/"
+   "https://www.lbbonline.com/news/pepsi-max-amv-bbdo-create-an-unbelievable-bus-stop"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Press",
-    "subcategory": "Illustration",
+    "category": "Branded Content & Entertainment",
+    "subcategory": "Non-Fiction: Online Series (minumum 3 episodes)",
     "count": 1,
-    "source_count": 5
+    "source_count": 1
    }
   ],
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "THE SAMARITANS HONG KONG",
-   "product": "SUICIDE PREVENTION HELPLINE",
+   "brand": "PEPSICO",
+   "product": "PEPSI MAX",
    "agencies": [
-    "Y&R SHANGHAI"
+    "AMV BBDO London"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Press",
-     "subcategory": "Illustration",
+     "category": "Branded Content & Entertainment",
+     "subcategory": "Non-Fiction: Online Series (minumum 3 episodes)",
      "count": 1,
      "entry_titles": [
-      "HOMEWRECK",
-      "HEARTBREAK",
-      "ALCOHOLIC",
-      "GAMBLER",
-      "BULLY"
+      "UNBELIEVABLE CAMPAIGN"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銅獅 Press Bronze Lion｜代理商：Y&R SHANGHAI"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：AMV BBDO London"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/97af9ad5818f4721d9ca087c926bc539"
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/0436bb4db94447e997ee0ab167b614d9/storyboard_000002.jpg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/bully-116307",
-   "https://www.lovethework.com/en/work/entries/gambler-116310",
-   "https://www.lovethework.com/en/work/entries/alcoholic-116313"
+   "https://www.lovethework.com/en/work/entries/unbelievable-campaign-99406"
   ]
  },
  {
-  "id": "ltwm-07692",
+  "id": "ltwm-07734",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "SOUTH KOREAN NORTH KOREAN TRANSLATOR",
-  "brand": "DREAM TOUCH FOR ALL",
-  "agency": "CHEIL SEOUL",
-  "raw": "SOUTH KOREAN NORTH KOREAN TRANSLATOR – DREAM TOUCH FOR ALL (CHEIL SEOUL)",
+  "title": "TWEET TO EAT",
+  "brand": "PEPSICO",
+  "agency": "AMVBBDO LONDON",
+  "raw": "TWEET TO EAT – PEPSICO (AMVBBDO LONDON)",
   "links": [
-   "https://www.youtube.com/watch?v=EZvztKXLGRQ"
+   "https://www.dandad.org/awards/professional/2015/direct/24653/tweet-to-eat/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
@@ -320,10 +299,10 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "DREAM TOUCH FOR ALL",
-   "product": "EDUCATIONAL NONPROFIT ORGANIZATION",
+   "brand": "PEPSICO",
+   "product": "WALKERS",
    "agencies": [
-    "CHEIL WORLDWIDE Seoul / PENGTAI Seoul"
+    "AMV BBDO London"
    ],
    "awards": [
     {
@@ -332,32 +311,39 @@
      "subcategory": "",
      "count": 1,
      "entry_titles": [
-      "SOUTH KOREAN NORTH KOREAN TRANSLATOR"
+      "TWEAT TO EAT"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銅獅 Mobile Bronze Lion｜代理商：CHEIL WORLDWIDE Seoul / PENGTAI Seoul"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銅獅 Mobile Bronze Lion｜代理商：AMV BBDO London"
   }
  },
  {
-  "id": "ltwm-07693",
+  "id": "ltwm-07604",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "SOCIAL BLOOD APP",
-  "brand": "RED CROSS",
-  "agency": "SAATCHI & SAATCHI GUAYAQUIL",
-  "raw": "SOCIAL BLOOD APP – RED CROSS (SAATCHI & SAATCHI GUAYAQUIL)",
+  "title": "WI-FI DOGS",
+  "brand": "DEUTSCHE TELEKOM",
+  "agency": "DDB BERLIN",
+  "raw": "WI-FI DOGS – DEUTSCHE TELEKOM (DDB BERLIN)",
   "links": [
-   "https://clios.com/health/winner/digital-mobile/cruz-roja-ecuador/social-blood-14504"
+   "https://www.dandad.org/awards/professional/2015/film-advertising-crafts/24783/wi-fi-dogs/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Mobile",
-    "subcategory": "",
+    "category": "Cyber",
+    "subcategory": "Other Video",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Branded Content & Entertainment",
+    "subcategory": "Fiction: Online Series (minimum 3 episodes)",
     "count": 1,
     "source_count": 1
    }
@@ -365,74 +351,192 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "RED CROSS",
-   "product": "BANK OF BLOOD",
+   "brand": "DEUTSCHE TELEKOM",
+   "product": "TRAVEL & SURF",
    "agencies": [
-    "PUBLICITAS/SAATCHI & SAATCHI Guayaquil"
+    "DDB GROUP GERMANY Berlin"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Mobile",
-     "subcategory": "",
+     "category": "Cyber",
+     "subcategory": "Other Video",
      "count": 1,
      "entry_titles": [
-      "SOCIAL BLOOD APP"
+      "WI FI DOGS"
      ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銅獅 Mobile Bronze Lion｜代理商：PUBLICITAS/SAATCHI & SAATCHI Guayaquil"
-  }
- },
- {
-  "id": "ltwm-07694",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "SKY SQREENING",
-  "brand": "SKY",
-  "agency": "SERVICEPLAN MUNICH",
-  "raw": "SKY SQREENING – SKY (SERVICEPLAN MUNICH)",
-  "links": [
-   "https://adsspot.me/media/digital/sky-deutschland-sky-sqreening-video-542a301a1358"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Media",
-    "subcategory": "Publications & Media",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "SKY DEUTSCHLAND FERNSEHEN",
-   "product": "SKY GO",
-   "agencies": [
-    "SERVICEPLAN Munich"
-   ],
-   "awards": [
+    },
     {
      "level": "Bronze",
-     "category": "Media",
-     "subcategory": "Publications & Media",
+     "category": "Branded Content & Entertainment",
+     "subcategory": "Fiction: Online Series (minimum 3 episodes)",
      "count": 1,
      "entry_titles": [
-      "SKY SQREENING"
+      "WI FI DOGS"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銅獅 Media Bronze Lion｜代理商：SERVICEPLAN Munich"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion、Cyber類銅獅 Cyber Bronze Lion｜代理商：DDB GROUP GERMANY Berlin"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/7eae8f3e5406461af2a610320754cfce"
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/52788f158ab946c5c0f68f9a7a91c44e/storyboard_000002.jpg"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/sky-sqreening-108199"
+   "https://www.lovethework.com/en/work/entries/wi-fi-dogs-122193",
+   "https://www.lovethework.com/en/work/entries/wi-fi-dogs-111672"
+  ]
+ },
+ {
+  "id": "ltwm-07603",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "EMILY’S OZ",
+  "brand": "COMCAST/XFINITY",
+  "agency": "GOODBY SILVERSTEIN & PARTNERS NEW YORK",
+  "raw": "EMILY’S OZ – COMCAST/XFINITY (GOODBY SILVERSTEIN & PARTNERS NEW YORK)",
+  "links": [
+   "https://www.dandad.org/awards/professional/2015/film-advertising-crafts/24790/emilys-oz/"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Integrated",
+    "subcategory": "Titanium and Integrated",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "COMCAST/XFINITY",
+   "product": "COMCAST/XFINITY",
+   "agencies": [
+    "GOODBY SILVERSTEIN & PARTNERS NY New York"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Integrated",
+     "subcategory": "Titanium and Integrated",
+     "count": 1,
+     "entry_titles": [
+      "EMILY'S OZ"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Integrated類銅獅 Integrated Bronze Lion｜代理商：GOODBY SILVERSTEIN & PARTNERS NY New York"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/012e75966c65419d97c54ce19d056067/storyboard_000002.jpg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/emilys-oz-104347"
+  ]
+ },
+ {
+  "id": "ltwm-07605",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "ABORTION TUTORIALS",
+  "brand": "MILES CORPORATION",
+  "agency": "GREY SANTIAGO",
+  "raw": "ABORTION TUTORIALS – MILES CORPORATION (GREY SANTIAGO)",
+  "links": [
+   "https://www.youtube.com/watch?v=2Wki3tQtmUI"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Branded Content & Entertainment",
+    "subcategory": "Fiction: Online Series (minimum 3 episodes)",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "MILES CORPORATION",
+   "product": "CAMPAIGN IN SUPPORT OF THERAPEUTIC ABORTION LAW",
+   "agencies": [
+    "GREY CHILE Santiago"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Branded Content & Entertainment",
+     "subcategory": "Fiction: Online Series (minimum 3 episodes)",
+     "count": 1,
+     "entry_titles": [
+      "ABORTION TUTORIALS"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：GREY CHILE Santiago"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/13192b7d5a254be4bdf0f39a0d1a146f/storyboard_000002.jpg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/abortion-tutorials-99699"
+  ]
+ },
+ {
+  "id": "ltwm-07606",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "ONE RAND MAN",
+  "brand": "SANLAM",
+  "agency": "KING JAMES GROUP CAPE TOWN",
+  "raw": "ONE RAND MAN – SANLAM (KING JAMES GROUP CAPE TOWN)",
+  "links": [
+   "https://www.youtube.com/watch?v=xWxeTRgkjBw"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Branded Content & Entertainment",
+    "subcategory": "Non-Fiction: Online Series (minumum 3 episodes)",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "SANLAM",
+   "product": "FINANCIAL SERVICES",
+   "agencies": [
+    "KING JAMES GROUP Cape Town"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Branded Content & Entertainment",
+     "subcategory": "Non-Fiction: Online Series (minumum 3 episodes)",
+     "count": 1,
+     "entry_titles": [
+      "ONE RAND MAN"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：KING JAMES GROUP Cape Town"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/54cf667cbde34a63e17ca247ce8b4886/storyboard_000002.jpg"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/one-rand-man-122396"
   ]
  },
  {
@@ -484,57 +588,6 @@
   ],
   "ltw_card_urls": [
    "https://www.lovethework.com/en/work/entries/sendbadluck-107150"
-  ]
- },
- {
-  "id": "ltwm-07696",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "SELL THE JOBLESS",
-  "brand": "ASSOCIATION OF COMMUNICATION COMPANIES BELGIUM",
-  "agency": "FCB BRUSSELS",
-  "raw": "SELL THE JOBLESS – ASSOCIATION OF COMMUNICATION COMPANIES BELGIUM (FCB BRUSSELS)",
-  "links": [
-   "https://adsspot.me/media/digital/association-of-communication-companies-belgium-sell-the-jobless-6957d153a29e"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Promo & Activation",
-    "subcategory": "Use of Competitions & Promotional Games",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "ASSOCIATION OF COMMUNICATION COMPANIES BELGIUM",
-   "product": "MASTERCLASS COPYWRITING",
-   "agencies": [
-    "HAPPINESS BRUSSELS"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Promo & Activation",
-     "subcategory": "Use of Competitions & Promotional Games",
-     "count": 1,
-     "entry_titles": [
-      "SELL THE JOBLESS"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：HAPPINESS BRUSSELS"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/2d81c097897b4625c3fe1fc104c3fe0d"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/sell-the-jobless-127263"
   ]
  }
 ]

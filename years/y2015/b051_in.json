@@ -1,15 +1,117 @@
 [
  {
-  "id": "ltwm-07783",
+  "id": "ltwm-07735",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "MISSION 22",
-  "brand": "ELDER HEART",
-  "agency": "CP+B MIAMI",
-  "raw": "MISSION 22 – ELDER HEART (CP+B MIAMI)",
+  "title": "TWEET VILLAGE",
+  "brand": "SEKERBANK",
+  "agency": "CONCEPT ISTANBUL",
+  "raw": "TWEET VILLAGE – SEKERBANK (CONCEPT ISTANBUL)",
   "links": [
-   "https://www.danielpradilla.com/war-at-home"
+   "https://vimeo.com/131430191"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Outdoor",
+    "subcategory": "Interactive Outdoor Experiences",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "SEKERBANK",
+   "product": "FAMILY FARMING BANKING",
+   "agencies": [
+    "CONCEPT Istanbul"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Outdoor",
+     "subcategory": "Interactive Outdoor Experiences",
+     "count": 1,
+     "entry_titles": [
+      "TWEET VILLAGE"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：CONCEPT Istanbul"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/42b376e8b2724692c5a534e411df9a2e"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/tweet-village-115186"
+  ]
+ },
+ {
+  "id": "ltwm-07733",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "VISUAL DICTIONARY",
+  "brand": "BRITISH COUNCIL",
+  "agency": "GREY SINGAPORE",
+  "raw": "VISUAL DICTIONARY – BRITISH COUNCIL (GREY SINGAPORE)",
+  "links": [
+   "https://www.behance.net/gallery/27318915/British-Council-Visual-Dictionary-Mobile-Media"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Media",
+    "subcategory": "Use of Mobile Devices",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "BRITISH COUNCIL",
+   "product": "PRIVATE EDUCATION",
+   "agencies": [
+    "GREY GROUP Singapore"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Media",
+     "subcategory": "Use of Mobile Devices",
+     "count": 1,
+     "entry_titles": [
+      "VISUAL DICTIONARY"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銅獅 Media Bronze Lion｜代理商：GREY GROUP Singapore"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/0402c644d0b1442d84cd7b58ac9478f4"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/visual-dictionary-106356"
+  ]
+ },
+ {
+  "id": "ltwm-07727",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "CALL HER NAME",
+  "brand": "POLA",
+  "agency": "HAKUHODO TOKYO",
+  "raw": "CALL HER NAME – POLA (HAKUHODO TOKYO)",
+  "links": [
+   "https://www.dandad.org/awards/professional/2015/white-pencil-creativity-for-good/24197/call-her-name/"
   ],
   "zh_brief": "",
   "note_from_selection": "",
@@ -17,7 +119,14 @@
    {
     "level": "Bronze",
     "category": "PR",
-    "subcategory": "Integrated Campaign led by PR",
+    "subcategory": "Luxury goods, Fashion & Beauty",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "PR",
+    "subcategory": "Research, Data Analytics & Insight Generation",
     "count": 1,
     "source_count": 1
    }
@@ -25,297 +134,196 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "ELDER HEART",
-   "product": "MISSION 22",
+   "brand": "POLA",
+   "product": "RED B.A",
    "agencies": [
-    "CP+B Miami"
+    "HAKUHODO Tokyo"
    ],
    "awards": [
     {
      "level": "Bronze",
      "category": "PR",
-     "subcategory": "Integrated Campaign led by PR",
+     "subcategory": "Luxury goods, Fashion & Beauty",
      "count": 1,
      "entry_titles": [
-      "MISSION 22: WAR AT HOME"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類銅獅 PR Bronze Lion｜代理商：CP+B Miami"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/c6ec2c7d89d8422ac24dcec2450fe886"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/mission-22-war-at-home-101621"
-  ]
- },
- {
-  "id": "ltwm-07784",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "DELIVERING WHAT YOU LOVE",
-  "brand": "MCDONALD’S",
-  "agency": "LEO BURNETT DUBAI",
-  "raw": "DELIVERING WHAT YOU LOVE – MCDONALD’S (LEO BURNETT DUBAI)",
-  "links": [
-   "https://lenasoliman.cargo.site/McDonald-s-Delivering-What-You-Love"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Press",
-    "subcategory": "Restaurants & Fast Food Outlets",
-    "count": 1,
-    "source_count": 3
-   },
-   {
-    "level": "Bronze",
-    "category": "Press",
-    "subcategory": "Restaurants & Fast Food Outlets",
-    "count": 1,
-    "source_count": 2
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "McDONALD´S",
-   "product": "McDONALD´S",
-   "agencies": [
-    "LEO BURNETT DUBAI"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Press",
-     "subcategory": "Restaurants & Fast Food Outlets",
-     "count": 1,
-     "entry_titles": [
-      "ALLEY",
-      "SQUARE",
-      "STREET"
+      "CALL HER NAME"
      ]
     },
     {
      "level": "Bronze",
-     "category": "Press",
-     "subcategory": "Restaurants & Fast Food Outlets",
+     "category": "PR",
+     "subcategory": "Research, Data Analytics & Insight Generation",
      "count": 1,
      "entry_titles": [
-      "McDONALD'S BREAKFAST - HOTCAKES",
-      "McDONALD'S BREAKFAST - SAUSAGE McMUFFIN & EGG"
+      "CALL HER NAME"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銅獅 Press Bronze Lion×2｜代理商：LEO BURNETT DUBAI"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜公關類銅獅 PR Bronze Lion×2｜代理商：HAKUHODO Tokyo"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/da0f44cbd0704df990a06df0b7d1b68f"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/fc07926f134747e584d108d52f0c485f"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/street-134172",
-   "https://www.lovethework.com/en/work/entries/square-134210",
-   "https://www.lovethework.com/en/work/entries/alley-134233"
+   "https://www.lovethework.com/en/work/entries/call-her-name-125249",
+   "https://www.lovethework.com/en/work/entries/call-her-name-125248"
   ]
  },
  {
-  "id": "ltwm-07785",
+  "id": "ltwm-07732",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "LOVIN’ THE SUPER BOWL",
-  "brand": "MCDONALD’S",
-  "agency": "DDB CHICAGO",
-  "raw": "LOVIN’ THE SUPER BOWL – MCDONALD’S (DDB CHICAGO)",
+  "title": "WEARABLE TOMATO",
+  "brand": "KAGOME CO.",
+  "agency": "HAKUHODO TOKYO",
+  "raw": "WEARABLE TOMATO – KAGOME CO. (HAKUHODO TOKYO)",
   "links": [
-   "https://www.youtube.com/watch?v=IQDfP4W4tGU"
+   "https://adsspot.me/media/outdoor/kagome-wearable-tomato-video-a4fa440e5a13"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Promo & Activation",
-    "subcategory": "Use of Social Platform(s) in a Promotional Campaign",
+    "category": "Health & Wellness",
+    "subcategory": "Other Products",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "KAGOME",
+   "product": "TOMATO",
+   "agencies": [
+    "HAKUHODO Tokyo"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Health & Wellness",
+     "subcategory": "Other Products",
+     "count": 1,
+     "entry_titles": [
+      "WEARABLE TOMATO"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜健康與保健類銅獅 Health & Wellness Bronze Lion｜代理商：HAKUHODO Tokyo"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/5f46f600e3bd4ad4aa944a5e73c14391"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/wearable-tomato-120945"
+  ]
+ },
+ {
+  "id": "ltwm-07731",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "A MESSAGE TO SPACE",
+  "brand": "HYUNDAI",
+  "agency": "INNOCEAN SEOUL",
+  "raw": "A MESSAGE TO SPACE – HYUNDAI (INNOCEAN SEOUL)",
+  "links": [
+   "https://clios.com/awards/winner/film-technique/hyundai-genesis/hyundai-a-message-to-space-872"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Film Craft",
+    "subcategory": "Achievement in Production",
     "count": 1,
     "source_count": 1
    },
-   {
-    "level": "Bronze",
-    "category": "Media",
-    "subcategory": "Use of Social Platforms",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "McDONALD´S",
-   "product": "McDONALD´S",
-   "agencies": [
-    "DDB CHICAGO",
-    "OMD New York / DDB CHICAGO / LEO BURNETT CHICAGO"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Promo & Activation",
-     "subcategory": "Use of Social Platform(s) in a Promotional Campaign",
-     "count": 1,
-     "entry_titles": [
-      "LOVIN' THE SUPER BOWL"
-     ]
-    },
-    {
-     "level": "Bronze",
-     "category": "Media",
-     "subcategory": "Use of Social Platforms",
-     "count": 1,
-     "entry_titles": [
-      "BLUEBIRD"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銅獅 Media Bronze Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：DDB CHICAGO / OMD New York / DDB CHICAGO / LEO BURNETT CHICAGO"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/2c0bbc8361564967dbd15e645cb38ccf"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/lovin-the-super-bowl-104634",
-   "https://www.lovethework.com/en/work/entries/bluebird-105892"
-  ]
- },
- {
-  "id": "ltwm-07786",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "MATSUKO-ROID",
-  "brand": "NATURAL EIGHT",
-  "agency": "DENTSU TOKYO",
-  "raw": "MATSUKO-ROID – NATURAL EIGHT (DENTSU TOKYO)",
-  "links": [
-   "https://adsspot.me/media/tv-commercials/matsuko-deluxe-matsuko-roid-ac98a994d183"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Promo & Activation",
-    "subcategory": "Use of New Technology in a Promotional Campaign",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "NATURAL EIGHT",
-   "product": "MATSUKO DELUXE",
-   "agencies": [
-    "DENTSU INC. Tokyo / DENTSU CASTING AND ENTERTAINMENT INC. Tokyo"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Promo & Activation",
-     "subcategory": "Use of New Technology in a Promotional Campaign",
-     "count": 1,
-     "entry_titles": [
-      "MATSUKO-ROID"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：DENTSU INC. Tokyo / DENTSU CASTING AND ENTERTAINMENT INC. Tokyo"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/b6b1d39a2623423afc6eec76d914d9ca"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/matsuko-roid-127670"
-  ]
- },
- {
-  "id": "ltwm-07787",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "SEE EVERYTHING",
-  "brand": "JAGUAR",
-  "agency": "Y&R CAPE TOWN",
-  "raw": "SEE EVERYTHING – JAGUAR (Y&R CAPE TOWN)",
-  "links": [
-   "https://www.behance.net/gallery/38583349/Land-Rover-360-Camera-See-Everything-Print-Campaign"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
    {
     "level": "Bronze",
     "category": "Outdoor",
+    "subcategory": "Special Build",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Direct",
     "subcategory": "Cars & Automotive Services",
     "count": 1,
-    "source_count": 3
+    "source_count": 1
    }
   ],
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "JAGUAR LAND ROVER SOUTH AFRICA",
-   "product": "LAND ROVER BRAND",
+   "brand": "HYUNDAI MOTOR COMPANY",
+   "product": "BRAND CAMPAIGN",
    "agencies": [
-    "Y&R SOUTH AFRICA Cape Town"
+    "INNOCEAN WORLDWIDE Seoul"
    ],
    "awards": [
     {
      "level": "Bronze",
+     "category": "Film Craft",
+     "subcategory": "Achievement in Production",
+     "count": 1,
+     "entry_titles": [
+      "A MESSAGE TO SPACE"
+     ]
+    },
+    {
+     "level": "Bronze",
      "category": "Outdoor",
+     "subcategory": "Special Build",
+     "count": 1,
+     "entry_titles": [
+      "A MESSAGE TO SPACE"
+     ]
+    },
+    {
+     "level": "Bronze",
+     "category": "Direct",
      "subcategory": "Cars & Automotive Services",
      "count": 1,
      "entry_titles": [
-      "SPIDER",
-      "SCORPION",
-      "LEECH"
+      "A MESSAGE TO SPACE"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：Y&R SOUTH AFRICA Cape Town"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜直效類銅獅 Direct Bronze Lion、影片工藝類銅獅 Film Craft Bronze Lion、戶外類銅獅 Outdoor Bronze Lion｜代理商：INNOCEAN WORLDWIDE Seoul"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/0c9275cbed65465993e9ec01bd0d8080"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/2605781d56674634c3258c0b8520d247"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/leech-131092",
-   "https://www.lovethework.com/en/work/entries/scorpion-131101",
-   "https://www.lovethework.com/en/work/entries/spider-131114"
+   "https://www.lovethework.com/en/work/entries/a-message-to-space-114295",
+   "https://www.lovethework.com/en/work/entries/a-message-to-space-109814",
+   "https://www.lovethework.com/en/work/entries/a-message-to-space-101011"
   ]
  },
  {
-  "id": "ltwm-07788",
+  "id": "ltwm-07726",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "KEEP OUT OF CHILDREN’S REACH",
-  "brand": "SANTANA DRUGSTORE",
-  "agency": "REVOLUTION BRAZIL",
-  "raw": "KEEP OUT OF CHILDREN’S REACH – SANTANA DRUGSTORE (REVOLUTION BRAZIL)",
+  "title": "SHINE",
+  "brand": "CANON",
+  "agency": "LEO BURNETT SYDNEY",
+  "raw": "SHINE – CANON (LEO BURNETT SYDNEY)",
   "links": [
-   "http://www.bestadsontv.com/files/print/2014/Dec/67520_EnglishSantana.jpg"
+   "https://www2.spikes.asia/winners/2015/media/entry.cfm?entryid=17&award=101"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Pharma",
-    "subcategory": "Education & Services",
+    "category": "Media",
+    "subcategory": "Use of Digital Content",
     "count": 1,
     "source_count": 1
    }
@@ -323,68 +331,50 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "SANTANA DRUGSTORE",
-   "product": "INSTITUTIONAL",
+   "brand": "CANON",
+   "product": "CANON CAMERAS",
    "agencies": [
-    "REVOLUTION BRASIL Salvador - Bahia"
+    "LEO BURNETT SYDNEY"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Pharma",
-     "subcategory": "Education & Services",
+     "category": "Media",
+     "subcategory": "Use of Digital Content",
      "count": 1,
      "entry_titles": [
-      "KEEP OUT OF CHILDREN'S REACH"
+      "SHINE"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜製藥類銅獅 Pharma Bronze Lion｜代理商：REVOLUTION BRASIL Salvador - Bahia"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銅獅 Media Bronze Lion｜代理商：LEO BURNETT SYDNEY"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/d2476e47900347e3d043f5dc5bdb6814"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/bf068203f275478bb86788968f290699"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/keep-out-of-childrens-reach-121725"
+   "https://www.lovethework.com/en/work/entries/shine-105925"
   ]
  },
  {
-  "id": "ltwm-07790",
+  "id": "ltwm-07724",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "INSA’S SPACE GIF-ITI",
-  "brand": "BALLANTINE’S",
-  "agency": "LANGLAND WINDSOR",
-  "raw": "INSA’S SPACE GIF-ITI – BALLANTINE’S (LANGLAND WINDSOR)",
+  "title": "THE HIV POSITIVE POSTER",
+  "brand": "GIV",
+  "agency": "OGILVY SAO PAULO",
+  "raw": "THE HIV POSITIVE POSTER – GIV (OGILVY SAO PAULO)",
   "links": [
-   "https://sportandentertainment.mcsaatchi.com/project/ballantines-presents-insa/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [],
-  "official_case": "",
-  "official_summary": ""
- },
- {
-  "id": "ltwm-07791",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "HUNGRY GHOST (OK GO ALBUM)",
-  "brand": "OK GO",
-  "agency": "MORI TOKYO",
-  "raw": "HUNGRY GHOST (OK GO ALBUM) – OK GO (MORI TOKYO)",
-  "links": [
-   "https://www2.spikes.asia/winners/2015/film/entry.cfm?entryid=1709&award=2"
+   "https://www.youtube.com/watch?v=58-X98to3ug"
   ],
   "zh_brief": "",
   "note_from_selection": "",
   "official_awards": [
    {
     "level": "Bronze",
-    "category": "Promo & Activation",
-    "subcategory": "Sponsorship or Partnership Campaigns",
+    "category": "Press",
+    "subcategory": "Public Health & Safety & Public Awareness Messages",
     "count": 1,
     "source_count": 1
    }
@@ -392,97 +382,42 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "OK GO",
-   "product": "HUNGRY GHOST (OK GO ALBUM)",
+   "brand": "GIV (LIFE SUPPORT GROUP)",
+   "product": "CORPORATE",
    "agencies": [
-    "MORI Tokyo / DRILL Tokyo / DENTSU INC. Tokyo"
+    "OGILVY BRASIL São Paulo"
    ],
    "awards": [
     {
      "level": "Bronze",
-     "category": "Promo & Activation",
-     "subcategory": "Sponsorship or Partnership Campaigns",
+     "category": "Press",
+     "subcategory": "Public Health & Safety & Public Awareness Messages",
      "count": 1,
      "entry_titles": [
-      "OK GO: I WON'T LET YOU DOWN"
+      "THE HIV POSITIVE AD"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：MORI Tokyo / DRILL Tokyo / DENTSU INC. Tokyo"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Press類銅獅 Press Bronze Lion｜代理商：OGILVY BRASIL São Paulo"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/f53478fad04f492bda37702a4291624b"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/5d4f621afe7840b4b50e4816cfdd95f1"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/ok-go-i-wont-let-you-down-127343"
+   "https://www.lovethework.com/en/work/entries/the-hiv-positive-ad-116190"
   ]
  },
  {
-  "id": "ltwm-07792",
+  "id": "ltwm-07738",
   "year": 2015,
   "tier": "BRONZE",
   "categories": [],
-  "title": "TOYS SHOULD LIVE FOREVER",
-  "brand": "DURACELL",
-  "agency": "GREY LONDON",
-  "raw": "TOYS SHOULD LIVE FOREVER – DURACELL (GREY LONDON)",
+  "title": "#SEATBELTB00BING",
+  "brand": "THE AUTOMOBILE CLUB OF ROMANIA",
+  "agency": "PUBLICIS BUCHAREST",
+  "raw": "#SEATBELTB00BING – THE AUTOMOBILE CLUB OF ROMANIA (PUBLICIS BUCHAREST)",
   "links": [
-   "https://www.paulmorancreative.com/#/weite/"
-  ],
-  "zh_brief": "",
-  "note_from_selection": "",
-  "official_awards": [
-   {
-    "level": "Bronze",
-    "category": "Outdoor",
-    "subcategory": "Home Appliances, Furnishings, Electronics & Audio-Visual",
-    "count": 1,
-    "source_count": 3
-   }
-  ],
-  "official_case": "",
-  "official_summary": "",
-  "official": {
-   "brand": "DURACELL",
-   "product": "HOME ELECTRONICS & AUDIO-VISUAL",
-   "agencies": [
-    "GREY LONDON"
-   ],
-   "awards": [
-    {
-     "level": "Bronze",
-     "category": "Outdoor",
-     "subcategory": "Home Appliances, Furnishings, Electronics & Audio-Visual",
-     "count": 1,
-     "entry_titles": [
-      "HELLO KITTY",
-      "MONKEY",
-      "CLASSIC ROBOT"
-     ]
-    }
-   ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：GREY LONDON"
-  },
-  "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/800d600dae4c4d1eb1d341ab1cb7d746"
-  ],
-  "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/classic-robot-114238",
-   "https://www.lovethework.com/en/work/entries/monkey-114245",
-   "https://www.lovethework.com/en/work/entries/hello-kitty-114246"
-  ]
- },
- {
-  "id": "ltwm-07793",
-  "year": 2015,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "FOO FIGHTERS RVA",
-  "brand": "FOO FIGHTERS",
-  "agency": "THE BRANCHING RICHMOND",
-  "raw": "FOO FIGHTERS RVA – FOO FIGHTERS (THE BRANCHING RICHMOND)",
-  "links": [
-   "https://clios.com/music/winner/events-experiential/foo-fighters/foo-fighters-rva-1264"
+   "https://www.behance.net/gallery/28710895/seatbeltb00bing"
   ],
   "zh_brief": "",
   "note_from_selection": "",
@@ -498,10 +433,10 @@
   "official_case": "",
   "official_summary": "",
   "official": {
-   "brand": "THE BRANCHING",
-   "product": "THE BRANCHING",
+   "brand": "THE AUTOMOBILE CLUB OF ROMANIA",
+   "product": "THE AUTOMOBILE CLUB OF ROMANIA",
    "agencies": [
-    "THE BRANCHING Richmond"
+    "PUBLICIS ROMANIA Bucharest"
    ],
    "awards": [
     {
@@ -510,17 +445,119 @@
      "subcategory": "Use of Social Audience in a Promotional Campaign",
      "count": 1,
      "entry_titles": [
-      "FOO FIGHTERS RVA"
+      "#SEATBELTB00BING"
      ]
     }
    ],
-   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：THE BRANCHING Richmond"
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：PUBLICIS ROMANIA Bucharest"
   },
   "image_candidates": [
-   "https://ascentialcdn.filespin.io/api/v1/conversion/a017108b01d14577e80131875d1896d8"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/f40c9564951843c1d0bde3f930abb8c9"
   ],
   "ltw_card_urls": [
-   "https://www.lovethework.com/en/work/entries/foo-fighters-rva-126226"
+   "https://www.lovethework.com/en/work/entries/seatbeltb00bing-127540"
+  ]
+ },
+ {
+  "id": "ltwm-07737",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "THE SPECIAL PROPOSAL",
+  "brand": "COORDOWN",
+  "agency": "SAATCHI & SAATCHI MILAN",
+  "raw": "THE SPECIAL PROPOSAL – COORDOWN (SAATCHI & SAATCHI MILAN)",
+  "links": [
+   "https://www.youtube.com/watch?v=JNTOlW1jCXU"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Promo & Activation",
+    "subcategory": "Public Health & Safety & Public Awareness Messages",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "COORDOWN",
+   "product": "WORLD DOWN SYNDROME DAY",
+   "agencies": [
+    "SAATCHI & SAATCHI Milan"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Promo & Activation",
+     "subcategory": "Public Health & Safety & Public Awareness Messages",
+     "count": 1,
+     "entry_titles": [
+      "THE SPECIAL PROPOSAL"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：SAATCHI & SAATCHI Milan"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/92b6330ede584f9a937034e2433d5fcc"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/the-special-proposal-126232"
+  ]
+ },
+ {
+  "id": "ltwm-07725",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "CINEMA DELIVERY",
+  "brand": "CIRKO FILM",
+  "agency": "Y&R BUDAPEST",
+  "raw": "CINEMA DELIVERY – CIRKO FILM (Y&R BUDAPEST)",
+  "links": [
+   "https://adsspot.me/media/tv-commercials/for-some-inexplicable-reason-cinema-delivery-70ffa110852f"
+  ],
+  "zh_brief": "",
+  "note_from_selection": "",
+  "official_awards": [
+   {
+    "level": "Bronze",
+    "category": "Promo & Activation",
+    "subcategory": "Publications & Media",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "official_case": "",
+  "official_summary": "",
+  "official": {
+   "brand": "CIRKO FILM",
+   "product": "FOR SOME INEXPLICABLE REASON",
+   "agencies": [
+    "Y&R BUDAPEST"
+   ],
+   "awards": [
+    {
+     "level": "Bronze",
+     "category": "Promo & Activation",
+     "subcategory": "Publications & Media",
+     "count": 1,
+     "entry_titles": [
+      "CINEMA DELIVERY"
+     ]
+    }
+   ],
+   "award_line": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：Y&R BUDAPEST"
+  },
+  "image_candidates": [
+   "https://ascentialcdn.filespin.io/api/v1/conversion/d5cba7e8f3ed42128abab5ed5dd46a3a"
+  ],
+  "ltw_card_urls": [
+   "https://www.lovethework.com/en/work/entries/cinema-delivery-127424"
   ]
  }
 ]
