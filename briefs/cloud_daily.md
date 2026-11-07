@@ -8,6 +8,7 @@
 - 開工前先看 git log：若最近 3 小時內有別輪的「寫完驗完」commit 而且那輪的批次還沒全部進 verified.txt，代表上一輪可能還在跑——只取它沒碰的批次（cloud_log 最後一行會寫上一輪拿了哪些批）。開工時先在 cloud_log.md 記一行「<時間> 開工：<批號們>」並 commit＋push，讓下一輪看得到。
 
 ## 2. 寫
+- 派寫手前，主管先跑 `python3 tools/check_images.py {Y} <這輪的批號們>`（候選圖體檢，結果在 O/checks/images_<批號>.md，寫手會看）。
 - 每批派一個 Sonnet 5.5 subagent，prompt＝「先完整讀 briefs/sonnet_write.md，照它寫 {Y} 的 <批號>（說明裡 {Y}＝{Y}、{B}＝<批號>），寫完照說明回報」。同時最多 4 個，有人寫完再補下一批。
 
 ## 3. 驗
@@ -31,6 +32,6 @@
   撞額度或出錯沒寫完：第二行改成「這輪沒寫完：<原因>，停在 <批號>，下一輪接續」。
 
 ## 鐵則
-- 派驗收員前，主管自己先跑 `python3 tools/check_batches.py {Y} <批號們>`，不交給 subagent 決定要不要跑。寫手、驗收員回報裡有違規（rm、偽裝標頭、跳過檢查、沒搜爭議）就記進 cloud_log 的「問題」，並寫進 last_report.txt。
+- 派驗收員前，主管自己先跑 `python3 tools/check_batches.py {Y} <批號們>`，不交給 subagent 決定要不要跑。寫手、驗收員回報裡有違規（rm、偽裝標頭、跳過檢查、沒搜爭議）就記進 cloud_log 的「問題」，並寫進 last_report.txt。檢查報告「整批」底下的「違規：…」（程式掃 tmp_<批號>/ 腳本抓到的自加標頭、刪檔指令）也一樣要記。用 weserv 把圖轉成 JPEG 是允許的，不算違規。
 - 不刪任何檔（subagent 也一樣）；只改 years/y{Y}；不改 bNNN_in.json。
 - 不發任何 Slack／Email 訊息；不寫 Google、不 force push。

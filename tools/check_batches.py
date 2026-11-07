@@ -1,11 +1,15 @@
 # 審稿前的程式檢查：python3 tools/check_batches.py <年> <批號> [<批號> …]   例：python3 tools/check_batches.py 2017 b005 b006 b007 b008
-# 2026-10-31 建立。把能機械判斷的先掃完，產出 work/out/y<年>/checks/check_<批號們>.md，Opus 驗收時只要重點看被標的件＋抽查事實。
+# 2026-10-31 建立，2026-11-07 加檢查。把能機械判斷的先掃完，產出 work/out/y<年>/checks/check_<批號們>.md，Opus 驗收時只要重點看被標的件＋抽查事實。
 # 只讀不改。檢查：筆數與 id 順序、【得獎】開頭與是否等於 in 檔 official.award_line、資料來源、`**`、空【爭議】、
 # （--dir <資料夾> 可指定 in／out 所在資料夾）
 # 一句話字數／連續中文／寫到得獎、標籤前 8 個、疑似成效句、uncertain、note 搜尋摘要、敏感字、
 # 圖片（HEAD：image/*、<5MB、http／redirect／過期 CDN）、有 case board 候選卻沒用、資料來源網址（404／網域不存在）。
-import json, os, re, sys, collections, datetime, urllib.request, concurrent.futures as cf
+# 2026-11-07 加（2017 檢討）：note 沒有「已搜爭議」紀錄、一句話只寫「一系列平面／海報」、圖片尺寸太小或疑似全黑、
+# 暫存資料夾 tmp_<批號>/ 裡的腳本有自加 User-Agent 或刪檔指令（違規）。
+import json, os, re, sys, glob, collections, datetime, urllib.request, concurrent.futures as cf
 here = os.path.dirname(os.path.abspath(__file__)); W = here + '/..'
+sys.path.insert(0, here)
+from imgprobe import probe
 av = sys.argv[1:]; D = av.pop(av.index('--dir') + 1) if '--dir' in av else None
 if '--dir' in av: av.remove('--dir')
 if not av or av[0] in ('-h', '--help') or not re.fullmatch(r'\d{4}', av[0]) or not all(re.fullmatch(r'b\d{3}', b) for b in av[1:]):
@@ -16,6 +20,20 @@ EFFECT = re.compile(r'[^。\n]*(收聽了|觀看次數|觀看超過|播放超過
 SENS = [(r'AIza[0-9A-Za-z_-]{20,}', 'API key'), (r'sk-[A-Za-z0-9]{20,}', 'API key'), (r'xox[bap]-', 'Slack token'),
         (r'[\w.+-]+@[\w-]+\.[\w.]+', 'email')] + ([(os.environ['CANNES_SENS'], '內部字樣')] if os.environ.get('CANNES_SENS') else [])  # 內部字樣清單不放公開專案，本機上線前的 dryrun 會再掃
 UA = {'User-Agent': 'Mozilla/5.0'}
+SERIES = re.compile(r'一系列|系列(平面|海報|廣告|印刷|作品|插畫|圖像)')
+BAD = [(re.compile(r'User-Agent|user_agent|--user-agent|(^|\s)-A\s|Mozilla/\d'), '自己加瀏覽器標頭（User-Agent）'),
+       (re.compile(r'(^|[\s;&|(`])(rm|rmdir|unlink|trash)\s|os\.(remove|unlink|rmdir)\(|shutil\.rmtree|\.unlink\(|find\s.*-delete'), '刪檔指令')]
+
+def scan_tmp(b):
+    out = []
+    for p in glob.glob(f'{O}/tmp_{b}/**/*', recursive=True):
+        if not re.search(r'\.(py|sh|js|mjs|bash|zsh|command)$', p) or os.path.getsize(p) > 500000: continue
+        try: t = open(p, encoding='utf-8', errors='ignore').read()
+        except Exception: continue
+        for rx, why in BAD:
+            m = rx.search(t)
+            if m: out.append(f'違規：{why}（{os.path.relpath(p, O)}：{m.group(0).strip()[:30]}）')
+    return out
 
 def head(u, img=False):
     for m in ('HEAD', 'GET'):
@@ -38,6 +56,7 @@ def main():
     for b in BS:
         o = json.load(open(f'{O}/{b}_out.json')); i = json.load(open(f'{O}/{b}_in.json')); im = {x['id']: x for x in i}
         if [x['id'] for x in o] != [x['id'] for x in i]: flags[(b, '整批')].append('筆數或 id 順序跟 in 不同')
+        flags[(b, '整批')] += scan_tmp(b)
         for x in o:
             k = (b, x['id'] + ' ' + (x.get('title') or '')); total += 1
             if x.get('decision', '收') != '收': flags[k].append(f'decision＝{x.get("decision")}'); continue
@@ -52,6 +71,8 @@ def main():
             run = max((len(m) for m in re.findall(r'[一-鿿]+', ol)), default=0)
             if run > 15: flags[k].append(f'一句話連續中文 {run} 字')
             if re.search(r'獅|得獎|全場大獎', ol): flags[k].append('一句話可能寫到得獎')
+            if SERIES.search(ol): flags[k].append('一句話只說「一系列…」：要講出這組作品的巧思（找不到說明就看畫面判斷，看不出就標 uncertain）')
+            if not re.search(r'爭議', (x.get('note') or '') + ft): flags[k].append('note 沒有「已搜爭議」紀錄')
             if [t.strip() for t in (x.get('tags') or '').split(',')][:8] != HEAD8: flags[k].append('標籤前 8 個不對')
             for m in EFFECT.finditer(body):
                 s = m.group(0).strip()
@@ -75,9 +96,13 @@ def main():
                 imgs.append((k, u))
             if cand and u and not any(c.split('?')[0] in u for c in cand): flags[k].append('有官方 case board 沒用：' + cand[0])
             urls += [(k, r) for r in refs]
+    flags = {k: v for k, v in flags.items() if v}; flags = collections.defaultdict(list, flags)
     with cf.ThreadPoolExecutor(8) as ex:
         for (k, u), e in zip(imgs, ex.map(lambda t: head(t[1], True), imgs)):
             if e: flags[k].append('圖片：' + e)
+        for (k, u), (ps, info) in zip(imgs, ex.map(lambda t: probe(t[1]), imgs)):
+            for q in ps:
+                if q.startswith(('太小', '檔案極小', '幾乎單色', '是預留圖')): flags[k].append(f'圖片{q}')
         for (k, u), e in zip(urls, ex.map(lambda t: head(t[1]), urls)):
             if e and (e in ('404', '410') or '打不開' in e): flags[k].append(f'資料來源壞掉（{e}）：{u[:80]}')
     os.makedirs(f'{O}/checks', exist_ok=True)

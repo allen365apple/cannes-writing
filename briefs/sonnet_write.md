@@ -6,6 +6,7 @@
 ## 先讀（只讀這兩個）
 1. 規則卡：rules/writer_rules_card.md
 2. 範本一份：examples/b030_out.json（看格式與語感，讀前 3 件即可）
+3. 圖片體檢：O/checks/images_{B}.md（有就看；沒有就先跑 `python3 tools/check_images.py {Y} {B}`）
 
 ## 檔案（O=years/y{Y}）
 - 輸入：O/{B}_in.json。每件已預填 `official`（官方品牌、代理商、獎項、**award_line＝【得獎】行，直接用**）、`image_candidates`（`/conversion/` 是官方 case board，優先用）、`ltw_card_urls`。
@@ -22,7 +23,8 @@
 - 打 rm（連暫存檔、空檔也不行）→ 改用 `mv <檔> years/y{Y}/tmp_{B}/old/`。
 - 在腳本或 curl 自己加偽裝的瀏覽器標頭（User-Agent）、用 weserv 轉址去抓擋爬蟲的網頁 → 不行。網站擋就換別的來源，或用 WebFetch 讀。
 - 用 `tools/check_batches.py` 以外的方式「自己檢查」就當作檢查完 → 不行，寫完一定要跑 `python3 tools/check_batches.py {Y} {B}`，看報告逐項處理（工具已內建標頭，不用改）。
-- 沒逐件搜【爭議】→ 每件都要搜。
+- 沒逐件搜【爭議】→ 每件都要搜，搜完在 note 寫「已搜爭議：…」（程式會檢查）。
+- 平面系列的一句話只寫「一系列 X 海報」→ 要講出巧思，找不到說明就看畫面判斷（規則卡「一句話」最後一點）。
 - 寫錯支（同品牌別支作品）→ 對 `official.awards[].entry_titles`。
 
 ## 回報（200 字內）
