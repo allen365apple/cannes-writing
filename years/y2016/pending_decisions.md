@@ -120,3 +120,12 @@
 - 仍 uncertain：b026 08203 McDonald's 泰國 LOVING THE NIGHT（缺官方說明）、08204 LUMINOUS FREEDOM NEW BUILD（缺名人名單與劇情）；b027 08213 Fabogesic（缺劇情）、08214 NEVER TOO OLD（Radio 報名，只讀到電視版，needs_audio）、08215 NO BORDERS（執行細節報導打不開；官方有 Starcom 與 TBWA 兩家代理商、兩個頁面）。
 - 圖：b026 08204 改用 Vimeo 封面，左上角印有 Cannes Lions 標誌，請決定留不留；b026 LEYDEMIERDA 看不到狗便袋實物；b027 08211 Mirrors of Racism 沒有看板實景；b028 08218 PAY WITH BLOOD 官方案例板回 570，用 YouTube 縮圖。
 - 【爭議】候選 0；撤獎 0。
+
+## 2026-11-08 雲端第 5 輪 b029 b030 b032（Sonnet 寫、Opus 驗）
+- 不收待決：b029 ltwm-08234 WALMART RADIO ROLLED & ROUNDED（Play-Doh 廣播，Alma DDB Miami）找不到腳本或音檔，設不收＋needs_audio；有音檔可補回。
+- 仍 uncertain：b029 08231 READ BETTER STORIES（Paper Plus 廣播，缺音檔，只看到戶外版 Boots）；b030 08245 SLAM POETRY DANIEL（Xolair，缺詩的內容與影片）；b032 08260 Maserati THE ITALIAN ART OF PERSUASION（缺「數據怎麼鎖定受眾」的來源；活動站標題 Die Probefahrt zur Probefahrt 與官方作品名不同）。
+- 來源偏少（照收）：b029 08238 Suzuki SCHOOL ZONE RADIO 只有 D&AD；b032 08261 Canesten 幾乎全依案例板。
+- 不算爭議（驗收員判斷，請確認）：b030 08244 SIZZL 與 Farmland Sizlr 相似，無人指控；b032 08262 ColorADD 發明者 Miguel Neiva 列在客戶端核准名單，無冒領指控；b029 08237 Sberbank 日後因制裁被拒參賽，不是撤獎。
+- 代理商欄：b032 08259 Delta 官方 Smuggler（製作公司），Adweek 寫 W+K New York（廣告公司），【得獎】行照官方。
+- 圖不理想：b030 08241 Nissan 分鏡格看不出車；b032 08260 官方 storyboard 全黑改 YouTube 縮圖、08259 Delta 引擎特寫分鏡格。
+- 【爭議】候選 0；撤獎 0；重複候選 0。
