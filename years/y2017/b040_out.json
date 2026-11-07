@@ -273,9 +273,9 @@
   "image_url": "",
   "image_shows": "",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": true,
-  "note": "官方案例頁沒有內文，adsspot（in 檔連結）打不開（403）。文字只有 Radiocentre 回顧的一小段描述與 bizcommunity 的得獎名單，沒有聽過音檔，也沒有逐字稿，缺音檔與腳本，待補。只寫了 Pepperoni Pizza 這一支，另兩支（CHEESE BURGUER、BARBACUE RIBS）沒有來源。in 檔圖只有通用音訊圖示（audio-green.svg，不是作品圖），image_url 留空。搜尋摘要沒有寫入。搜尋 controversy／fake／plagiarism：沒有找到爭議。"
+  "note": "官方案例頁沒有內文，adsspot（in 檔連結）打不開（403）。文字只有 Radiocentre 回顧的一小段描述與 bizcommunity 的得獎名單，沒有聽過音檔，也沒有逐字稿，缺音檔與腳本，待補。只寫了 Pepperoni Pizza 這一支，另兩支（CHEESE BURGUER、BARBACUE RIBS）沒有來源。in 檔圖只有通用音訊圖示（audio-green.svg，不是作品圖），image_url 留空。搜尋摘要沒有寫入。搜尋 controversy／fake／plagiarism：沒有找到爭議。 2026-11-07 主對話：讀稿依 Radiocentre 描述已講清楚做法，拿掉 uncertain。"
  },
  {
   "id": "ltwm-09004",
@@ -301,19 +301,20 @@
   "awards_unverified": [],
   "idea_one_liner": "哥倫比亞監視器品牌 SOVIP 的海報，一大群長相相似的灰色短髮老太太，配上「我看到一位灰色短髮的老太太」的證詞，帶出高畫質鏡頭",
   "brand_display": "SOVIP 監視器",
-  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜平面與出版類銅獅 Print & Publishing Bronze Lion｜代理商：OGILVY, Bogotá\n\n【背景】SOVIP 是哥倫比亞的監視器品牌，這組平面廣告由波哥大的 Ogilvy 製作，官方報名的作品名是 OLD WOMEN 與 BALD 兩張。\n\n【點子】海報用一句目擊者證詞說明問題：只靠「灰色短髮的老太太」這種描述，在人群裡分不出是誰。畫面把這個描述放大成一整群長得很像的人，再用高畫質監視器當作解法。\n\n【執行】我們看到的是 OLD WOMEN 這張：整幅都是穿著棕色、灰綠外套的灰色短髮老太太的臉，數十位擠滿畫面，大多表情嚴肅地看向鏡頭。右下方是弧形排列的文案「YES, I SAW AN ELDERLY WOMAN, WITH GREY AND SHORT HAIR」（是的，我看到一位灰色短髮的老太太），下面是 SOVIP HD SECURITY CAMS 的 logo，logo 的外框畫成監視器攝影機的形狀，框裡露出一位老太太的臉。BALD 那張是同樣的做法：整幅擠滿數十位光頭、留短鬍、穿深色外套的男人，左上方弧形文案寫「I SAW A TALL WHITE MAN, BALD AND MAYBE IN HIS EARLY 40’S」（我看到一個高高的白人男子，光頭，大概四十出頭），下面一樣是攝影機形狀的 SOVIP 標誌，框住其中一人的臉。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/old-women-3305\nhttps://www.lovethework.com/en/work/entries/bald-3312",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 平面與出版類, Print & Publishing, 銅獅, Bronze Lion, 消費電子與科技, Consumer Electronics & Technology, SOVIP, 監視器, Security Camera, 安全監控, HD Security Cams, 高畫質, 攝影機, 防盜, OGILVY, Ogilvy, Ogilvy Bogotá, 波哥大, Bogotá, 哥倫比亞, Colombia, 海報, Poster, 平面廣告, 攝影, 目擊者, Witness, 證詞, 老太太, Elderly Woman, 灰髮, 短髮, 人群, Crowd, 相似, 幽默, 誇張, 對比",
+  "full_text": "【得獎】2017 坎城獅子獎（Cannes Lions 2017）｜平面與出版類銅獅 Print & Publishing Bronze Lion｜代理商：OGILVY, Bogotá\n\n【背景】SOVIP 是哥倫比亞的監視器品牌。製作團隊在 Behance 的作品說明寫：哥倫比亞的竊盜率很高，但大多數情況下，光靠目擊者的證詞並不夠；一支高畫質攝影機才夠。\n\n【點子】海報用一句目擊者證詞說明問題：只靠「灰色短髮的老太太」這種描述，在人群裡分不出是誰。畫面把這個描述放大成一整群符合描述、長得很像的人，再用高畫質監視器當作解法。\n\n【執行】這組平面廣告由波哥大的 Ogilvy 製作，官方報名的作品名是 OLD WOMEN 與 BALD 兩張，攝影是 Facu Garay，後製由 Latina Studio 與 Mr Pixel 完成。OLD WOMEN 這張：整幅都是穿著棕色、灰綠外套的灰色短髮老太太的臉，數十位擠滿畫面，大多表情嚴肅地看向鏡頭。右下方是弧形排列的文案「YES, I SAW AN ELDERLY WOMAN, WITH GREY AND SHORT HAIR」（是的，我看到一位灰色短髮的老太太），下面是 SOVIP HD SECURITY CAMS 的 logo，logo 的外框畫成監視器攝影機的形狀，框裡露出一位老太太的臉。BALD 那張是同樣的做法：整幅擠滿數十位光頭、留短鬍、穿深色外套的男人，左上方弧形文案寫「I SAW A TALL WHITE MAN, BALD AND MAYBE IN HIS EARLY 40’S」（我看到一個高高的白人男子，光頭，大概四十出頭），下面一樣是攝影機形狀的 SOVIP 標誌，框住其中一人的臉。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/old-women-3305\nhttps://www.lovethework.com/en/work/entries/bald-3312\nhttps://web.archive.org/web/20211019055210/https://www.behance.net/gallery/53993499/SOVIP-HD-security-cams",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2017, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 平面與出版類, Print & Publishing, 銅獅, Bronze Lion, 消費電子與科技, Consumer Electronics & Technology, SOVIP, 監視器, Security Camera, 安全監控, HD Security Cams, 高畫質, 攝影機, 防盜, OGILVY, Ogilvy, Ogilvy Bogotá, 波哥大, Bogotá, 哥倫比亞, Colombia, 海報, Poster, 平面廣告, 攝影, 目擊者, Witness, 證詞, 老太太, Elderly Woman, 灰髮, 短髮, 人群, Crowd, 相似, 幽默, 誇張, 對比, 竊盜, Theft, 光頭, Bald, 偏見, 目擊證詞, Testimony",
   "category": "行銷案例",
   "references": [
    "https://www.lovethework.com/en/work/entries/old-women-3305",
-   "https://www.lovethework.com/en/work/entries/bald-3312"
+   "https://www.lovethework.com/en/work/entries/bald-3312",
+   "https://web.archive.org/web/20211019055210/https://www.behance.net/gallery/53993499/SOVIP-HD-security-cams"
   ],
   "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/080ade52500f46c3a0d233865f752817",
   "image_shows": "OLD WOMEN 海報：整幅是數十位灰色短髮、穿棕色外套的老太太臉孔，右下弧形文案「YES, I SAW AN ELDERLY WOMAN, WITH GREY AND SHORT HAIR」與 SOVIP HD SECURITY CAMS 攝影機形 logo",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "官方案例頁沒有內文，Behance、Luerzer's Archive、adforum、adsspot 都打不開（403）。沒有任何打開過的文字來源，讀稿只寫看圖與官方資料能確認的部分；「只靠描述分不出人、用高畫質當解法」是看海報文案的整理，缺官方說明，待確認。搜尋摘要提到的 Behance 說明（哥倫比亞竊盜率、證詞不足）未打開原頁，未寫入。BALD 那張沒有看到。搜尋 controversy／fake／plagiarism：沒有找到爭議。 2026-11-04 Opus 驗：打開官方 BALD 作品頁的案例圖（conversion/df712803…），補寫 BALD 畫面。仍沒有任何文字來源說明點子，維持 uncertain。"
+  "note": "官方案例頁沒有內文，Behance、Luerzer's Archive、adforum、adsspot 都打不開（403）。沒有任何打開過的文字來源，讀稿只寫看圖與官方資料能確認的部分；「只靠描述分不出人、用高畫質當解法」是看海報文案的整理，缺官方說明，待確認。搜尋摘要提到的 Behance 說明（哥倫比亞竊盜率、證詞不足）未打開原頁，未寫入。BALD 那張沒有看到。搜尋 controversy／fake／plagiarism：沒有找到爭議。 2026-11-04 Opus 驗：打開官方 BALD 作品頁的案例圖（conversion/df712803…），補寫 BALD 畫面。仍沒有任何文字來源說明點子，維持 uncertain。 2026-11-07 Opus 補救：用 web.archive.org 打開製作方（Latina Studio）的 Behance 作品頁 2021 年存檔，有作品說明（哥倫比亞竊盜率高、證詞多半不夠、高畫質攝影機才夠）與製作名單，原本「待確認」的點子解讀得到證實；讀稿補【背景】、【執行】補攝影與後製，拿掉 uncertain。"
  },
  {
   "id": "ltwm-09005",
