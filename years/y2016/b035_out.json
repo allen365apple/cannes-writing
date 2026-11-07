@@ -36,7 +36,7 @@
   "text_source_level": 1,
   "uncertain": false,
   "needs_audio": false,
-  "note": "來源：LTW 兩個頁面只有標題與獎項，文字全靠官方案例板（圖片，已打開）；網路上找不到其他可打開的報導（Fierce Pharma 等 403 或沒有這支），所以只有案例板一個內容來源，資料來源列了 LTW 頁與案例板。in 檔作品名「XIFAXAN GUT GUY」跟官方報名名「XIFAXAN HE」不同，寫的是官方 XIFAXAN HE（案例板即此作）；Gut Guy 是同品牌別支，未寫。案例板印的成效（網站轉換率、銷量）未寫入。已搜爭議：搜「Xifaxan HE CDM Cannes campaign controversy / fake / withdrawn」，沒有看到這支作品的爭議。"
+  "note": "來源：LTW 兩個頁面只有標題與獎項，文字全靠官方案例板（圖片，已打開）；網路上找不到其他可打開的報導（Fierce Pharma 等 403 或沒有這支），所以只有案例板一個內容來源，資料來源列了 LTW 頁與案例板。in 檔作品名「XIFAXAN GUT GUY」跟官方報名名「XIFAXAN HE」不同，寫的是官方 XIFAXAN HE（案例板即此作）；Gut Guy 是同品牌別支，未寫。案例板印的成效（網站轉換率、銷量）未寫入。已搜爭議：搜「Xifaxan HE CDM Cannes campaign controversy / fake / withdrawn」，沒有看到這支作品的爭議。 2026-11-07 Opus 驗：標題：寫的是官方報名作品 XIFAXAN HE（案例板即此作），正確；in 檔 title「XIFAXAN GUT GUY」與官方不同，收尾時請照官方改 title。"
  },
  {
   "id": "ltwm-08290",
@@ -84,12 +84,12 @@
    "https://www.lovethework.com/en/work/entries/youre-accepted-54465",
    "https://ascentialcdn.filespin.io/api/v1/storyboard/2aacf76308ff4dd0b13716f2b06d8b69/storyboard_000014.jpg"
   ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/2aacf76308ff4dd0b13716f2b06d8b69/storyboard_000014.jpg",
-  "image_shows": "影片分鏡：灰色背景上疊著許多社群貼文截圖，被黃色標出的字眼是對同志的歧視語，前景一則推文寫「If you’re a gay, you are no friend of mine.」（用來呈現網路上的歧視）",
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/2aacf76308ff4dd0b13716f2b06d8b69/storyboard_000024.jpg",
+  "image_shows": "官方影片分鏡格：手機上的臉書程式畫面，彩虹斜紋底，標題「You're Accepted」，寫著「Find out how many people in your friends group would support you coming out」與「GET SUPPORT」按鈕",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "LTW 頁面只有標題與獎項；內容來源是 Direct New Ideas 案例頁。官方卡片有三張（Cyber 銀、媒體銅、健康銅）。找不到呈現程式本身介面的好圖（候選圖只有一位年輕女性在屋頂說話的畫面），改選影片中呈現網路歧視貼文的分鏡；該圖上有歧視字眼，如不適合請換圖。報導寫的觸及與出櫃成效未寫入。wpp 案例站（sites.wpp.com）網域連不上。已搜爭議：搜「Minus18 You’re Accepted GPY&R controversy / criticism / fake / withdrawn」，沒有看到這支作品的爭議。"
+  "note": "LTW 頁面只有標題與獎項；內容來源是 Direct New Ideas 案例頁。官方卡片有三張（Cyber 銀、媒體銅、健康銅）。找不到呈現程式本身介面的好圖（候選圖只有一位年輕女性在屋頂說話的畫面），改選影片中呈現網路歧視貼文的分鏡；該圖上有歧視字眼，如不適合請換圖。報導寫的觸及與出櫃成效未寫入。wpp 案例站（sites.wpp.com）網域連不上。已搜爭議：搜「Minus18 You’re Accepted GPY&R controversy / criticism / fake / withdrawn」，沒有看到這支作品的爭議。 2026-11-07 Opus 驗：圖由帶歧視字眼的貼文分鏡（000014）換成同支官方分鏡 000024（程式首頁，看得出點子）。事實抽查 Direct New Ideas：匿名請求、用臉書朋友群組與聯絡人投放贊助廣告、匿名個人化訊息、朋友回傳支持留言相符。"
  },
  {
   "id": "ltwm-08292",
@@ -124,7 +124,7 @@
   "text_source_level": 0,
   "uncertain": true,
   "needs_audio": true,
-  "note": "不收：ROAD TRIP EQUATION 是南非 Tiger Brands 助眠噴霧 Peaceful Sleep 的廣播作品，LTW 卡片只有作品名、客戶、代理商與獎項（頁面註明屬於「Irritation Equations」系列，官方報名作品含 ROAD TRIP EQUATION 與 SLEEP OVER EQUATION 兩支）；沒有內文、沒有音檔。adforum 播放頁 403，Ads of the World／其他網站搜不到這支。搜尋只出現同品牌 2008 年的 Lights-out 戶外作品，是另一支，未寫入。需有人聽音檔後補。官方獎項是同一個銀獅併了兩支作品，補寫時兩支可能要合成一筆。已搜爭議：搜「Peaceful Sleep Road Trip Equation radio Cannes controversy / fake / scam / withdrawn」，沒有看到。"
+  "note": "不收：ROAD TRIP EQUATION 是南非 Tiger Brands 助眠噴霧 Peaceful Sleep 的廣播作品，LTW 卡片只有作品名、客戶、代理商與獎項（頁面註明屬於「Irritation Equations」系列，官方報名作品含 ROAD TRIP EQUATION 與 SLEEP OVER EQUATION 兩支）；沒有內文、沒有音檔。adforum 播放頁 403，Ads of the World／其他網站搜不到這支。搜尋只出現同品牌 2008 年的 Lights-out 戶外作品，是另一支，未寫入。需有人聽音檔後補。官方獎項是同一個銀獅併了兩支作品，補寫時兩支可能要合成一筆。已搜爭議：搜「Peaceful Sleep Road Trip Equation radio Cannes controversy / fake / scam / withdrawn」，沒有看到。 2026-11-07 Opus 驗：補搜：LTW Irritation Equations 系列頁（含原始 HTML）只有標題，og 圖是 2KB 預留圖；搜尋摘要有「把蚊子有多煩人算成一道數學方程式的聲音版」一句，屬搜尋摘要未寫入；Ads of the World 只有 2008 年 Lights-out。仍無腳本或音檔，同意不收（無內容來源，非撤獎）。"
  },
  {
   "id": "ltwm-13772",
@@ -163,7 +163,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片只有標題與獎項；內容來自官方案例板（圖片）與 Almirall 新聞稿轉載（MarketScreener）。官方代理商寫 Shackleton Madrid，各來源有 Madrid／Barcelona 兩種寫法，【得獎】行照官方。五種皮膚病的名稱案例板沒寫，未列。「兩小時化妝、看不到自己」來自新聞稿，案例板只寫「帶上街看路人反應」。案例板與新聞稿的成效數字未寫入。Fierce Pharma、AdForum、adsspot 打不開（403）。已搜爭議：搜「Almirall Shared Skin Initiative controversy / criticism / fake / withdrawn」，沒有看到爭議。"
+  "note": "官方卡片只有標題與獎項；內容來自官方案例板（圖片）與 Almirall 新聞稿轉載（MarketScreener）。官方代理商寫 Shackleton Madrid，各來源有 Madrid／Barcelona 兩種寫法，【得獎】行照官方。五種皮膚病的名稱案例板沒寫，未列。「兩小時化妝、看不到自己」來自新聞稿，案例板只寫「帶上街看路人反應」。案例板與新聞稿的成效數字未寫入。Fierce Pharma、AdForum、adsspot 打不開（403）。已搜爭議：搜「Almirall Shared Skin Initiative controversy / criticism / fake / withdrawn」，沒有看到爭議。 2026-11-07 Opus 驗：代理商 Madrid／Barcelona：【得獎】行照官方 SHACKLETON Madrid，正確。"
  },
  {
   "id": "ltwm-13773",
@@ -198,7 +198,7 @@
   "text_source_level": 0,
   "uncertain": true,
   "needs_audio": false,
-  "note": "不收：PREMONITION 是 Dhélet Y&R 為阿根廷紅十字會（急救課程）做的影片，LTW 卡片只有標題、客戶與獎項，Clio 頁 404，沒有任何打開過的頁面描述影片內容。候選圖（分鏡）只拍到一間沒人的餐廳，一張桌子、幾把椅子，不足以推出點子。搜尋中出現的 The Inevitable Bite（餐桌上有人預告自己會噎到、旁人不會急救）是 2018 年 Shoot 報導的另一支，作品名與年份都不同，不能當作這支，未寫入。需有人看過影片或找到官方說明後補。已搜爭議：搜「Cruz Roja Premonition Dhelet Y&R Cannes controversy / fake / scam / withdrawn」，沒有看到。"
+  "note": "不收：PREMONITION 是 Dhélet Y&R 為阿根廷紅十字會（急救課程）做的影片，LTW 卡片只有標題、客戶與獎項，Clio 頁 404，沒有任何打開過的頁面描述影片內容。候選圖（分鏡）只拍到一間沒人的餐廳，一張桌子、幾把椅子，不足以推出點子。搜尋中出現的 The Inevitable Bite（餐桌上有人預告自己會噎到、旁人不會急救）是 2018 年 Shoot 報導的另一支，作品名與年份都不同，不能當作這支，未寫入。需有人看過影片或找到官方說明後補。已搜爭議：搜「Cruz Roja Premonition Dhelet Y&R Cannes controversy / fake / scam / withdrawn」，沒有看到。 2026-11-07 Opus 驗：補搜：LTW 作品頁 78345 與 Premonition 系列頁（含原始 HTML）只有標題、類別與獎項；搜尋摘要提到 brief 與阿根廷急救課程立法有關，未寫入；YouTube／Clio／Dhélet 網站找不到影片說明。分鏡只有空餐廳，不能推劇情。同意不收（無內容來源，非撤獎）。"
  },
  {
   "id": "ltwm-08293",
@@ -237,7 +237,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "內容來自官方案例板（圖片）與日本 J-Cast 報導（日文，打開讀過）。案例板說起因是「一位男子」發推文，J-Cast 指是喜劇演員 Makitasports 在電台節目提出，讀稿兩邊都有交代。道歉發布日期兩個來源說法不一（案例板以外的官方頁寫約五天後，J-Cast 寫 12 月 18 日），讀稿未寫日期。案例板印的銷量成效（缺貨、1.5 倍）未寫入。已搜爭議：搜「Nissin Donbei 10 minutes noodle campaign staged / controversy / fake Cannes」，沒有看到爭議；未發現造假或撤獎。"
+  "note": "內容來自官方案例板（圖片）與日本 J-Cast 報導（日文，打開讀過）。案例板說起因是「一位男子」發推文，J-Cast 指是喜劇演員 Makitasports 在電台節目提出，讀稿兩邊都有交代。道歉發布日期兩個來源說法不一（案例板以外的官方頁寫約五天後，J-Cast 寫 12 月 18 日），讀稿未寫日期。案例板印的銷量成效（缺貨、1.5 倍）未寫入。已搜爭議：搜「Nissin Donbei 10 minutes noodle campaign staged / controversy / fake Cannes」，沒有看到爭議；未發現造假或撤獎。 2026-11-07 Opus 驗：事實抽查 J-Cast：Makitasports 2015 年 11 月在 TBS 電台「東京ポッド許可局」提出、12 月 18 日日清官網道歉、道歉內容與感謝相符。"
  },
  {
   "id": "ltwm-08294",
@@ -389,7 +389,7 @@
   "awards_unverified": [],
   "idea_one_liner": "Nike 在 Kobe Bryant 退休前拍片，讓他當指揮家，把全場球迷與對手喊的「Kobe 爛」指揮成一首合唱送別曲",
   "brand_display": "Nike",
-  "full_text": "【得獎】2016 坎城獅子獎（Cannes Lions 2016）｜影片類銅獅 Film Bronze Lion｜代理商：ANONYMOUS CONTENT Culver City\n\n【背景】Kobe Bryant 即將從洛杉磯湖人隊退休。他一生有許多球迷，也有很多恨他的對手與球迷。\n\n【點子】Nike 不拍煽情的告別，而是讓 Kobe 成為「指揮家」，把那些原本是噓聲的「Kobe 爛」變成送給他的音樂。\n\n【執行】影片由 Wieden+Kennedy Portland 製作，Mark Romanek 導演。片中 Kobe 穿著 Nike Kobe 11 完成一記致勝球，隨後來自沙加緬度國王、波特蘭拓荒者、波士頓塞爾提克等球隊的球迷齊聲喊「Kobe Sucks」。接著，球員、球迷、吉祥物、播報員與啦啦隊也一起加入，由 Kobe 親自站在中間指揮。他的前教練 Phil Jackson 彈鋼琴，Paul Pierce 與 Rasheed Wallace 這些對手也出現，還有公牛隊吉祥物 Benny the Bull 與代表九支球隊的球迷。分鏡畫面中，Kobe 身穿湖人紫色球衣，背對鏡頭持球，前面有一名穿白色 12 號球衣、背後印著 KORINE 的防守球員貼身防守。影片與他在 Staples Center 的最後一場比賽有關。\n\n資料來源：\nhttps://www.adweek.com/adfreak/kobe-bryant-maestro-end-nikes-quirky-musical-sendoff-conductor-170795\nhttps://www.sneakerfiles.com/kobe-bryant-the-conductor-commercial/\nhttps://www.nss-sports.com/en/lifestyle/8514/nike-presents-the-conductor-the-last-dance-of-kobe-bryant\nhttps://www.lovethework.com/en/work/entries/the-conductor-42547",
+  "full_text": "【得獎】2016 坎城獅子獎（Cannes Lions 2016）｜影片類銅獅 Film Bronze Lion｜代理商：ANONYMOUS CONTENT Culver City\n\n【背景】Kobe Bryant 即將從洛杉磯湖人隊退休。他一生有許多球迷，也有很多恨他的對手與球迷。\n\n【點子】Nike 不拍煽情的告別，而是讓 Kobe 成為「指揮家」，把那些原本是噓聲的「Kobe 爛」變成送給他的音樂。\n\n【執行】這支影片是 Wieden+Kennedy Portland 替 Nike 做的廣告，Mark Romanek 導演；官方得獎名單列的是製作公司 Anonymous Content。片中 Kobe 穿著 Nike Kobe 11 完成一記致勝球，隨後來自沙加緬度國王、波特蘭拓荒者、波士頓塞爾提克等球隊的球迷齊聲喊「Kobe Sucks」。接著，球員、球迷、吉祥物、播報員與啦啦隊也一起加入，由 Kobe 親自站在中間指揮。他的前教練 Phil Jackson 彈鋼琴，Paul Pierce 與 Rasheed Wallace 這些對手也出現，還有公牛隊吉祥物 Benny the Bull 與代表九支球隊的球迷。分鏡畫面中，Kobe 身穿湖人紫色球衣，背對鏡頭持球，前面有一名穿白色 12 號球衣、背後印著 KORINE 的防守球員貼身防守。影片與他在 Staples Center 的最後一場比賽有關。\n\n資料來源：\nhttps://www.adweek.com/adfreak/kobe-bryant-maestro-end-nikes-quirky-musical-sendoff-conductor-170795\nhttps://www.sneakerfiles.com/kobe-bryant-the-conductor-commercial/\nhttps://www.nss-sports.com/en/lifestyle/8514/nike-presents-the-conductor-the-last-dance-of-kobe-bryant\nhttps://www.lovethework.com/en/work/entries/the-conductor-42547",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2016, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片類, Film, 銅獅, Bronze Lion, 服飾、鞋類與配件, Clothing, Footwear & Accessories, Nike, 耐吉, Kobe Bryant, 柯比布萊恩, Kobe 11, ANONYMOUS CONTENT, Wieden+Kennedy Portland, W+K, 運動, 籃球, NBA, 湖人, Lakers, 退休, 告別, 致敬, 指揮家, The Conductor, 噓聲, 反轉, 球迷, 對手, 嘲諷, 影片廣告, 電視廣告, 導演 Mark Romanek, 球鞋, 美國, United States, 幽默, 情感",
   "category": "行銷案例",
   "references": [
@@ -403,6 +403,6 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "LTW 卡片只有標題與獎項。三篇報導各有出入：Adweek 沒寫音樂，SneakerFiles 說致勝球與球迷喊「Kobe Sucks」、Phil Jackson 彈鋼琴，NSS 說與最後一場比賽有關，讀稿只留彼此不衝突的部分；沒寫歌名與歌詞（只在未打開的來源提到，不採用）。官方代理商是 ANONYMOUS CONTENT（Culver City），in 檔寫 W+K Portland，【得獎】行照官方，內文說明 W+K Portland 製作。觀看次數與 Mamba Day 等成效未寫入。已搜爭議：搜「Nike Kobe The Conductor ad controversy / criticism / withdrawn / plagiarism」，沒有看到爭議。"
+  "note": "LTW 卡片只有標題與獎項。三篇報導各有出入：Adweek 沒寫音樂，SneakerFiles 說致勝球與球迷喊「Kobe Sucks」、Phil Jackson 彈鋼琴，NSS 說與最後一場比賽有關，讀稿只留彼此不衝突的部分；沒寫歌名與歌詞（只在未打開的來源提到，不採用）。官方代理商是 ANONYMOUS CONTENT（Culver City），in 檔寫 W+K Portland，【得獎】行照官方，內文說明 W+K Portland 製作。觀看次數與 Mamba Day 等成效未寫入。已搜爭議：搜「Nike Kobe The Conductor ad controversy / criticism / withdrawn / plagiarism」，沒有看到爭議。 2026-11-07 Opus 驗：代理商：官方 award_line 是製作公司 ANONYMOUS CONTENT（同 b032 Delta／Smuggler 前例），【得獎】行照官方，內文改成「W+K Portland 做的廣告、Anonymous Content 是製作公司」，避免兩個都寫「製作」。"
  }
 ]

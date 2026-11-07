@@ -36,7 +36,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Shelter Pet Project JWT Toast Keyboard Cat campaign controversy／fake／withdrawn」，未見造假、抄襲或撤獎指控。官方全文與 LBB、The Drum、Maddie's Fund 等頁面連不上（403／500），內容依 PR Newswire、WARC 與官方案例板整理。案例板的成效數字、$0 影響者費用等未寫入。搜尋摘要提到的「70 位支持者社群帳號」未打開來源，未寫入。"
+  "note": "已搜爭議：搜「Shelter Pet Project JWT Toast Keyboard Cat campaign controversy／fake／withdrawn」，未見造假、抄襲或撤獎指控。官方全文與 LBB、The Drum、Maddie's Fund 等頁面連不上（403／500），內容依 PR Newswire、WARC 與官方案例板整理。案例板的成效數字、$0 影響者費用等未寫入。搜尋摘要提到的「70 位支持者社群帳號」未打開來源，未寫入。 2026-11-07 Opus 驗：WARC 網址程式檢查是連線被重設（站方擋自動抓取），不是網址壞掉，保留。"
  },
  {
   "id": "ltwm-08270",
@@ -60,9 +60,9 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "印度手機品牌 Videocon 在德里舊城的牛身上，掛裝了手機的項圈，做成 App 讓人看到牛在哪、走哪些路",
+  "idea_one_liner": "印度手機品牌 Videocon 替德里舊城的牛，戴上裝了舊手機的項圈，再用 App 告訴通勤者牛在哪，好避開牛或走牛走過的路",
   "brand_display": "Videocon（印度手機品牌）",
-  "full_text": "【得獎】2016 坎城獅子獎（Cannes Lions 2016）｜行動類銀獅 Mobile Silver Lion｜代理商：Y&R Dubai\n\n【背景】德里舊城的街道擁擠，牛在路上自在走動，是當地人習以為常的景象，也常是塞車的來源之一。Videocon Mobiles 想用手機把這個交通問題變成可以利用的資訊。\n\n【洞察】在這些街上，牛走多快，周圍的車流就跟著多快。換句話說，牛的位置和行進路線，本身就透露了哪裡塞、哪裡通。\n\n【點子】既然牛是塞車的指標，就讓牛來當路況回報員，把牛的行蹤變成給通勤者的導航資訊。\n\n【執行】Y&R 杜拜替牛戴上項圈，項圈裡裝著回收來的智慧型手機與太陽能充電器，用手機的 GPS 追蹤牛的位置。團隊另做了「Traffic Gaaye」App，以 Google 地圖為基礎，讓通勤者看到牛在哪裡、收到路況更新，也能看到牛走過的路線。這個 App 在 2016 年 4 月上架 Google Play 商店。\n\n資料來源：\nhttps://www2.dubailynx.com/winners/2017/mobile/index.cfm?award=4\nhttps://arabianmarketer.ae/?p=10425\nhttps://www.lovethework.com/en/work/entries/the-traffic-gaaye-75008",
+  "full_text": "【得獎】2016 坎城獅子獎（Cannes Lions 2016）｜行動類銀獅 Mobile Silver Lion｜代理商：Y&R Dubai\n\n【背景】德里舊城的街道擁擠，牛在路上自在走動，是當地人習以為常的景象，也常是塞車的來源之一。Videocon Mobiles 想幫通勤者應付塞車，也想在當地熟悉科技的手機用戶之間提升品牌市占。\n\n【洞察】Dubai Lynx 的參賽說明指出，德里塞車的一大原因就是路上的牛，牠們會拖慢、甚至擋住車流。\n\n【點子】把路障變成交通嚮導（「We turned these roadblocks into traffic guides.」）：追蹤牛的位置並分享給通勤者，讓人事先避開牛，或跟著牛在城裡走出來的獨特路線走。\n\n【執行】Y&R 杜拜替牛戴上項圈，項圈裡裝著回收來的智慧型手機與太陽能充電器，用手機的 GPS 追蹤牛的位置。團隊另做了「Traffic Gaaye」App，以 Google 地圖為基礎，讓通勤者看到牛在哪裡好避開，也能看到牛走過的路線，帳號還會發推文更新路況。這個 App 在 2016 年 4 月上架 Google Play 商店。\n\n資料來源：\nhttps://www2.dubailynx.com/winners/2017/mobile/index.cfm?award=4\nhttps://arabianmarketer.ae/?p=10425\nhttps://www.lovethework.com/en/work/entries/the-traffic-gaaye-75008",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2016, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Mobile, 行動類, 銀獅, Silver Lion, 地點活化, Activation by Location, Videocon, Videocon Mobiles, Y&R Dubai, Y&R, 手機, 智慧型手機, 電信, 行動裝置, App, 應用程式, 路況, 交通, 塞車, Traffic, 牛, Cow, Gaaye, 項圈, 追蹤, GPS, 太陽能, 回收手機, Google Maps, 導航, 德里, Delhi, 舊德里, Old Delhi, 印度, India, 在地洞察, 影片",
   "category": "行銷案例",
   "references": [
@@ -70,12 +70,13 @@
    "https://arabianmarketer.ae/?p=10425",
    "https://www.lovethework.com/en/work/entries/the-traffic-gaaye-75008"
   ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/54313190314a44c7a6571fb0452429fa/storyboard_000005.jpg",
-  "image_shows": "案例影片分鏡格：德里舊城擁擠的街頭，三輪車與行人呈動態模糊，畫面中央是天城文「दिल्ली 6」與英文「Delhi 6」字樣",
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/54313190314a44c7a6571fb0452429fa/storyboard_000018.jpg",
+  "image_shows": "案例影片分鏡格：德里舊城綠色老房子前，一頭脖子戴著橘黃色項圈的黑牛走過停著的機車與西瓜攤",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Videocon Traffic Gaaye cow tracking controversy／fake／fraud／withdrawn」，結果與本作無關，未見指控。官方卡片與 Ads of the World、AdsSpot 無文字或連不上，內容依 Dubai Lynx 得獎頁與 Arabian Marketer 整理，兩者說法略有出入（Arabian Marketer 稱牛身上裝『錄影機』，Dubai Lynx 稱回收手機加 GPS），讀稿採 Dubai Lynx 較詳細的說法。下載量、通勤縮短分鐘數、品牌好感度等自報數字未寫入。圖為影片分鏡格，找不到官方案例板，只看得到街景，沒有牛，建議本機有機會再換圖。官方獎項為行動類銀獅（地點活化），Dubai Lynx 是另一個獎，未併入。"
+  "note": "已搜爭議：搜「Videocon Traffic Gaaye cow tracking controversy／fake／fraud／withdrawn」，結果與本作無關，未見指控。官方卡片與 Ads of the World、AdsSpot 無文字或連不上，內容依 Dubai Lynx 得獎頁與 Arabian Marketer 整理，兩者說法略有出入（Arabian Marketer 稱牛身上裝『錄影機』，Dubai Lynx 稱回收手機加 GPS），讀稿採 Dubai Lynx 較詳細的說法。下載量、通勤縮短分鐘數、品牌好感度等自報數字未寫入。圖為影片分鏡格，找不到官方案例板，只看得到街景，沒有牛，建議本機有機會再換圖。官方獎項為行動類銀獅（地點活化），Dubai Lynx 是另一個獎，未併入。 2026-11-07 Opus 驗：事實抽查 Dubai Lynx 頁：回收手機＋太陽能充電器、GPS 追蹤、Google 地圖 API、2016 年 4 月 7 日上架 Google Play 相符；但原稿【洞察】「牛走多快車流就多快」與【點子】「牛是塞車指標」來源沒有，改寫成 Dubai Lynx 的說法（牛是塞車主因、讓人避開牛或走牛的路線），一句話同步改。錄影機與 GPS 兩說：Arabian Marketer 只一句「equipped these cows with recorders」，Dubai Lynx 明寫回收手機與 GPS、未提攝影機，採 Dubai Lynx 正確。圖換成同支分鏡 000018（看得到戴項圈的牛；項圈是否就是追蹤裝置畫面看不出，image_shows 只寫看得到的）。",
+  "idea_one_liner_r0": "印度手機品牌 Videocon 在德里舊城的牛身上，掛裝了手機的項圈，做成 App 讓人看到牛在哪、走哪些路"
  },
  {
   "id": "ltwm-08271",
@@ -173,7 +174,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「AstraZeneca touch table figurines Ogilvy Cannes Lions pharma controversy／withdrawn」，未見本作爭議（搜到的撤獎是 Ogilvy 越南等其他作品，無關）。官方全文需登入、Inition 與 WARC 連不上，內容依 PMEA 入圍頁與官方案例板整理。PMEA 頁面稱此為「Patient Profiler TouchTable」，與官方作品名不同但案例板畫面相符，視為同一件。官方還有另一筆同系列「Patient Profiler」複製獎項，未併入。"
+  "note": "已搜爭議：搜「AstraZeneca touch table figurines Ogilvy Cannes Lions pharma controversy／withdrawn」，未見本作爭議（搜到的撤獎是 Ogilvy 越南等其他作品，無關）。官方全文需登入、Inition 與 WARC 連不上，內容依 PMEA 入圍頁與官方案例板整理。PMEA 頁面稱此為「Patient Profiler TouchTable」，與官方作品名不同但案例板畫面相符，視為同一件。官方還有另一筆同系列「Patient Profiler」複製獎項，未併入。 2026-11-07 Opus 驗：名稱不同（PMEA 的 Patient Profiler TouchTable vs 官方 TOUCHING DIABETES PATIENTS' LIVES）：案例板畫面與 PMEA 描述一致，視為同一件，同意。"
  },
  {
   "id": "ltwm-08273",
@@ -226,7 +227,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Tribeca ReActor JWT Cannes controversy／fake／withdrawn」，未見指控（搜到的撤獎與影展爭議為其他事件）。官方作品名為「Tribeca Film Festival ReActor」，三座獎皆為同一作品。官方卡片 66457、61913 等多張，內容依官方案例板、Tribeca 官網與 Shots 整理。"
+  "note": "已搜爭議：搜「Tribeca ReActor JWT Cannes controversy／fake／withdrawn」，未見指控（搜到的撤獎與影展爭議為其他事件）。官方作品名為「Tribeca Film Festival ReActor」，三座獎皆為同一作品。官方卡片 66457、61913 等多張，內容依官方案例板、Tribeca 官網與 Shots 整理。 2026-11-07 Opus 驗：事實抽查 Tribeca 官網：語音與臉部辨識＋Kinect 動作感測、2016 年 3 月 29 日亮相、麥迪遜廣場花園到影展中心、高分送影展門票、#Tribeca2016 相符（九呎、YouTube 上傳來自 Shots）。"
  },
  {
   "id": "ltwm-08274",
@@ -239,7 +240,7 @@
   "links": [
    "https://www.youtube.com/watch?v=JuskbW8fD3I&ab_channel=DelCampoSaatchi%26SaatchiBuenosAires"
   ],
-  "decision": "收",
+  "decision": "重複",
   "awards": [
    {
     "level": "Silver",
@@ -265,7 +266,8 @@
   "text_source_level": 2,
   "uncertain": true,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Andes beer Hagglers Del Campo Saatchi controversy／fake／plagiarism／withdrawn」，未見指控。uncertain：找不到說明整支影片劇情的文字來源（官方卡片只有分鏡格，YouTube 讀不到內容，Adweek 只一句『說客與男人的女友談判去露營』），讀稿只寫得出這個梗概，無法寫出談判的過程與結尾，本機需看影片或字幕補寫。搜尋摘要未寫入。"
+  "note": "已搜爭議：搜「Andes beer Hagglers Del Campo Saatchi controversy／fake／plagiarism／withdrawn」，未見指控。uncertain：找不到說明整支影片劇情的文字來源（官方卡片只有分鏡格，YouTube 讀不到內容，Adweek 只一句『說客與男人的女友談判去露營』），讀稿只寫得出這個梗概，無法寫出談判的過程與結尾，本機需看影片或字幕補寫。搜尋摘要未寫入。 2026-11-07 Opus 驗：依柏文 2026-11-06 決定（pending_decisions：PARTY 08046／TRIP 08274／HAGGLERS 08389 留 PARTY）設「重複」、same_as ltwm-08046（b011 PARTY，金獅）；本件影片類銀獅待主對話併入 08046 的 awards 與【得獎】行（規則不准改別批檔）。補搜 Trip 劇情仍無文字來源，維持 uncertain。",
+  "same_as": "ltwm-08046"
  },
  {
   "id": "ltwm-08275",
@@ -434,6 +436,6 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Under Armour I Will What I Want Droga5 criticism controversy comments real fake」，未見造假或撤獎指控；網路上有關於 Copeland 廣告拒絕信是否為真實信件的說法不一（Droga 說不是真實信件、為多則批評的整合），讀稿寫成片中的描述，不寫是真實信件。Gisele 片留言是否為真實網友留言，案例板寫 real online comments，Droga5 與 The Drum 頁面連不上，未能再求證，讀稿依案例板與 Media Shower 轉述。案例板的曝光、銷售、市占等成效數字全數未寫入。官方作品名為「UNDER ARMOUR I WILL WHAT I WANT」，是整個活動而非單支廣告。"
+  "note": "已搜爭議：搜「Under Armour I Will What I Want Droga5 criticism controversy comments real fake」，未見造假或撤獎指控；網路上有關於 Copeland 廣告拒絕信是否為真實信件的說法不一（Droga 說不是真實信件、為多則批評的整合），讀稿寫成片中的描述，不寫是真實信件。Gisele 片留言是否為真實網友留言，案例板寫 real online comments，Droga5 與 The Drum 頁面連不上，未能再求證，讀稿依案例板與 Media Shower 轉述。案例板的曝光、銷售、市占等成效數字全數未寫入。官方作品名為「UNDER ARMOUR I WILL WHAT I WANT」，是整個活動而非單支廣告。 2026-11-07 Opus 驗：案例板已打開核對：Will trumps fate／Will beats noise、TV/cinema/online/OOH、Gisele 用「real online comments」、牆上「Gisele is no(t) an athlete」相符。拒絕信：補搜，David Droga 說片中拒絕信不是真實信件、是 Copeland 歷年聽到的批評的整合（Time 曾寫成真實信件，屬報導不一）；代理商公開說明、無人指控造假，不算【爭議】。讀稿寫「片中一位小女孩讀著一封拒絕信」未宣稱是真信，維持。"
  }
 ]

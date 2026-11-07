@@ -129,3 +129,15 @@
 - 代理商欄：b032 08259 Delta 官方 Smuggler（製作公司），Adweek 寫 W+K New York（廣告公司），【得獎】行照官方。
 - 圖不理想：b030 08241 Nissan 分鏡格看不出車；b032 08260 官方 storyboard 全黑改 YouTube 縮圖、08259 Delta 引擎特寫分鏡格。
 - 【爭議】候選 0；撤獎 0；重複候選 0。
+
+## 2026-11-08 雲端第 5 輪 b031 b033 b034 b035（Sonnet 寫、Opus 驗）
+- 重複（照柏文 11-06 決定已設）：b033 ltwm-08274 TRIP 設「重複」、same_as ltwm-08046 PARTY；TRIP 的影片類銀獅請本機收尾時併入 08046 的 awards 與【得獎】行（雲端不能改別批）。
+- 重複候選：b031 ltwm-08249 SPARE THE ACT 與 b024 ltwm-08182 HINTS 同一波 Currys 聖誕活動，寫手與驗收員都建議兩件都收（電視片 vs 店內看板），decision 沒動，請確認。
+- 不收待決：b031 ltwm-08255 Persil 廣播（Date Night／Sunday Stroll／Barking Puppy）無腳本、音檔與圖；b035 ltwm-08292 ROAD TRIP EQUATION（廣播，官方同一銀獅併 ROAD TRIP 與 SLEEP OVER 兩支）無內容；b035 ltwm-13773 PREMONITION 無任何內容來源（搜到的 The Inevitable Bite 是 2018 年另一支，未採用）。有音檔或影片可補回。
+- 標題欄：b035 ltwm-08289 in 檔 XIFAXAN GUT GUY，官方報名是 XIFAXAN HE，收尾時請照官方改。
+- 代理商欄：b035 ltwm-08297 官方代理商列 ANONYMOUS CONTENT（製作公司），in 檔寫 W+K Portland，【得獎】行照官方；b035 ltwm-13772 Shackleton 照官方寫 Madrid。
+- 仍 uncertain：b031 08254 STEP OUT（缺另五張海報與文字說明）；b033 08274 TRIP（缺劇情，已設重複）。
+- 來源偏少（照收）：b034 Words to Watch 只有案例板；b035 08289 XIFAXAN 只有案例板。
+- 不算爭議：b033 08278 Under Armour 拒絕信是 Droga5 公開說明的整合版，已補 note。
+- 圖：b031 08258 Target 用 BizBash 現場圖、08257 Bonds 分鏡格；b033 08275 改用同卡片案例板；b034 Voodoo 用帶 VEVO 標誌的 YouTube 縮圖（驗收員判斷可用）；b035 08294 Old Irish 分鏡仍看不出點子。
+- 【爭議】候選 0；撤獎 0。
