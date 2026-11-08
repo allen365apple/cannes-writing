@@ -1,11 +1,10 @@
-*坎城雲端寫稿｜2016＋2015 第 6 輪（11/08 14:10）*
-• 這輪寫完並驗收：2016 b036–b038＋2015 b001–b004，共 7 批 70 件（收 69 件；1 件 Bayer 疑似撤獎先不收）
-• 這輪寫到的作品（舉 3～5 件）：Always〈#LikeAGirl〉、Volvo〈LifePaint〉、Google〈Cardboard〉、Domino's〈Emoji Ordering〉、Adidas〈A Valentine from Adidas〉
-• 2016 進度：64／64 批全部寫完驗完，等本機收尾
-• 2015 進度：已完成 11／65 批，剩 54 批（b005–b058）
-• 待決新增：12 件（2016：撤獎待決 1、重複候選 1、爭議候選 1、要不要另立一筆 1、仍 uncertain 4；2015：只入圍待決 1、輸入檔品牌／代理商互換 1、仍 uncertain 2）
-• 問題：
-  • 2015 b004 寫手下過一次刪檔指令，被系統擋下沒執行、沒刪到檔，已記進紀錄
-  • Jeep〈The Landscape Song〉查不到得獎、只有入圍，要請你決定收不收
-  • 不少報導網站擋讀取（LBB、Campaign、Behance、The Drum 等），內容不完整的已列進待決清單
-• 預計：照一天 14 批，2015 剩下約 4 天寫完（11/12 左右），之後隊伍裡沒有下一年，等本機做前置
+*坎城雲端寫稿｜2015 第 3 輪（11/09 02:08）*
+• 這輪寫完並驗收：b005～b011，共 7 批 70 件（全收）
+• 這輪寫到的作品（舉 3～5 件）：Burger King〈Proud Whopper〉、John Lewis〈The Bear and the Hare〉、Lucky Iron Fish〈The Lucky Iron Fish Project〉、Adobe Photoshop〈Photoshop Murder Mystery〉、Canal+〈The Interactive Form〉
+• 2015 進度：已完成 18／70 批，剩 52 批
+• 待決新增：20 件（重複候選 1、爭議 4、uncertain 2、得獎行 1、內容缺口 6、圖不理想 6）
+  • 重複候選：Nike 世界盃 07337 與 07484 同一平台，建議留 07337、07484 併過去
+  • 爭議：Lucky Iron Fish、The Gun Shop、熊與兔保留；Blind Trip 驗收員刪掉爭議段，請確認
+• 問題：無違規
+  • 多個廣告媒體網站擋連線（Campaign Live、LBB、The Drum 等），改用其他來源，不影響收件
+• 預計：照一天 14 批，剩下約 4 天寫完（11/12 左右），接著寫 2014（隊伍裡沒有，等本機做前置）
