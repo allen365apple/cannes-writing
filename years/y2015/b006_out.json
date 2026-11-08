@@ -268,7 +268,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依 D&AD 與 TypeRoom 整理。官方 Cannes 頁無內文；候選圖只有黑暗的城市與球場空景，看不出點子，改用 TypeRoom 的字樣樣稿照（圖小，約 513 像素寬），本機驗收時如有更好的圖可換。Zlatan 被警告一事：D&AD 寫 cautioned，TypeRoom 寫被禁賽一場，說法不同，讀稿只寫「被警告」。各來源對紋身是否為暫時性、名字數量（15 或 50）說法不一，讀稿只寫 50 個名字（D&AD、TypeRoom）。已搜爭議：Zlatan 805 Million Names controversy／criticism／fake／withdrawn，沒有找到造假、抄襲或撤獎指控（只有球場脫球衣被罰的花絮）。"
+  "note": "官方全文需登入，內容依 D&AD 與 TypeRoom 整理。官方 Cannes 頁無內文；候選圖只有黑暗的城市與球場空景，看不出點子，改用 TypeRoom 的字樣樣稿照（圖小，約 513×342，程式檢查會標「太小」，找不到更大的可用圖），本機驗收時如有更好的圖可換。Zlatan 被警告一事：D&AD 寫 cautioned，TypeRoom 寫被禁賽一場，說法不同，讀稿只寫「被警告」。各來源對紋身是否為暫時性、名字數量（15 或 50）說法不一，讀稿只寫 50 個名字（D&AD、TypeRoom）。已搜爭議：Zlatan 805 Million Names controversy／criticism／fake／withdrawn，沒有找到造假、抄襲或撤獎指控（只有球場脫球衣被罰的花絮）。"
  },
  {
   "id": "ltwm-07286",
@@ -369,13 +369,13 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "德國反極端組織 EXIT 趁新納粹遊行，找居民與商家，依遊行者走的每公尺捐 10 歐元，讓遊行變成一場他們不情願的慈善路跑",
+  "idea_one_liner": "德國反極端組織 EXIT 趁新納粹遊行，找居民與商家，依遊行者走的每公尺捐 10 歐元，讓遊行變成，一場他們不情願的慈善路跑",
   "brand_display": "EXIT-Deutschland",
-  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類金獅 Branded Content & Entertainment Gold Lion、直效類金獅 Direct Gold Lion×2、戶外類金獅 Outdoor Gold Lion、公關類金獅 PR Gold Lion、Promo & Activation類金獅 Promo & Activation Gold Lion、直效類銀獅 Direct Silver Lion、媒體類銀獅 Media Silver Lion、公關類銀獅 PR Silver Lion×2、Promo & Activation類銀獅 Promo & Activation Silver Lion、Cyber類銅獅 Cyber Bronze Lion｜代理商：GRABARZ & PARTNER Hamburg / GGH LOWE Hamburg / GGH LOWE Hamburg / GRABARZ & PARTNER Hamburg\n\n【背景】EXIT-Deutschland 是德國協助人脫離納粹圈子的非政府組織。德國巴伐利亞小鎮溫西德爾（Wunsiedel）每年都有新納粹分子遊行，案例板說 EXIT 與鎮上居民一起，在 2014 年出其不意地把這場遊行變成慈善路跑。\n\n【點子】讓遊行的人走得越遠，反納粹的資金就越多：居民與小商家按遊行者走的每一公尺，捐 10 歐元給 EXIT，結果新納粹每走一步，就等於替幫人脫離納粹圈的組織募款。案例板用一句話說明：這是德國最不情願的慈善路跑（Germany's most involuntary charity walk）。\n\n【執行】2014 年 11 月 15 日，約 250 名遊行者照常上路，路面被畫上 START 起點線，路上依序標出累積金額的里程標示，最後是終點線；沿途掛著粉紅色圓點花樣的橫幅，寫著 #RechtsgegenRechts（右派對抗右派）、「Wenn das der Führer wüsste!」（要是元首知道了！），路面上還寫著「Danke für 5.000€」（謝謝你們的 5,000 歐元）。另一條橫幅寫「Endspurt statt Endsieg」（最後衝刺，而不是最終勝利），Bustle 指出這句話影射大屠殺。終點附近還擺了像路跑補給站的點心桌，有香蕉。活動另有一個網站，手機版只有兩個按鈕：一個給想捐款的人，一個給想離開納粹圈的人。\n\n資料來源：\nhttps://sofii.org/case-study/nazis-against-nazis-the-most-involuntary-walkathon\nhttps://www.bustle.com/articles/49877-this-prank-on-neo-nazis-is-one-german-towns-way-of-fighting-back-against-the-extremists-annual\nhttps://ascentialcdn.filespin.io/api/v1/conversion/c597e1390d6f4c30c52f702577fd154d",
+  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類金獅 Branded Content & Entertainment Gold Lion、直效類金獅 Direct Gold Lion×2、戶外類金獅 Outdoor Gold Lion、公關類金獅 PR Gold Lion、Promo & Activation類金獅 Promo & Activation Gold Lion、直效類銀獅 Direct Silver Lion、媒體類銀獅 Media Silver Lion、公關類銀獅 PR Silver Lion×2、Promo & Activation類銀獅 Promo & Activation Silver Lion、Cyber類銅獅 Cyber Bronze Lion｜代理商：GRABARZ & PARTNER Hamburg / GGH LOWE Hamburg / GGH LOWE Hamburg / GRABARZ & PARTNER Hamburg\n\n【背景】EXIT-Deutschland 是德國協助人脫離納粹圈子的非政府組織。德國巴伐利亞小鎮溫西德爾（Wunsiedel）每年都有新納粹分子遊行，案例板說 EXIT 與鎮上居民一起，在 2014 年出其不意地把這場遊行變成慈善路跑。\n\n【點子】讓遊行的人走得越遠，反納粹的資金就越多：居民與小商家按遊行者走的每一公尺，捐 10 歐元給 EXIT，結果新納粹每走一步，就等於替幫人脫離納粹圈的組織募款。案例板用一句話說明：這是德國最不情願的慈善路跑（Germany's most involuntary charity walk）。\n\n【執行】2014 年 11 月 15 日，遊行者照常上路（The Local 寫約 200 人，Bustle 寫約 250 人），路面被畫上 START 起點線，路上依序標出累積金額的里程標示，最後是終點線；沿途掛著粉紅色圓點花樣的橫幅，寫著 #RechtsgegenRechts（右派對抗右派）、「Wenn das der Führer wüsste!」（要是元首知道了！），路面上還寫著「Danke für 5.000€」（謝謝你們的 5,000 歐元）。另一條橫幅寫「Endspurt statt Endsieg」（最後衝刺，而不是最終勝利），Bustle 指出這句話影射大屠殺。終點附近還擺了像路跑補給站的點心桌，桌上有香蕉，據 The Local 說橫幅寫著「Mein Mampf」（雙關希特勒自傳《我的奮鬥》）；The Local 還提到終點有彩色紙花、完賽證書，以及一塊告訴他們「你們剛剛籌錢對付自己」的牌子。活動另有一個網站，手機版只有兩個按鈕：一個給想捐款的人，一個給想離開納粹圈的人。\n\n資料來源：\nhttps://www.thelocal.com/20141117/charity-turns-neo-nazi-march-into-fundraiser-wunseidel\nhttps://www.bustle.com/articles/49877-this-prank-on-neo-nazis-is-one-german-towns-way-of-fighting-back-against-the-extremists-annual\nhttps://ascentialcdn.filespin.io/api/v1/conversion/c597e1390d6f4c30c52f702577fd154d",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Branded Content & Entertainment, 品牌內容與娛樂類, 金獅, Gold Lion, 戶外類, Outdoor, 直效類, Direct, Promo & Activation, 公關類, PR, 銀獅, Silver Lion, 媒體類, Media, Cyber, 銅獅, Bronze Lion, EXIT-Deutschland, EXIT Deutschland, ZDK, GRABARZ & PARTNER, GGH LOWE, 非營利, 公益, 反極端主義, 新納粹, Neo-Nazi, 慈善路跑, Charity Walk, 募款, 遊行, 橫幅, 路面標線, 起點線, 終點線, 里程標示, 反差, 反諷, 幽默, 德國, Germany, 溫西德爾, Wunsiedel, 巴伐利亞, 網站, 手機網站",
   "category": "行銷案例",
   "references": [
-   "https://sofii.org/case-study/nazis-against-nazis-the-most-involuntary-walkathon",
+   "https://www.thelocal.com/20141117/charity-turns-neo-nazi-march-into-fundraiser-wunseidel",
    "https://www.bustle.com/articles/49877-this-prank-on-neo-nazis-is-one-german-towns-way-of-fighting-back-against-the-extremists-annual",
    "https://ascentialcdn.filespin.io/api/v1/conversion/c597e1390d6f4c30c52f702577fd154d"
   ],
@@ -384,7 +384,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依官方案例板（圖上文字）、SOFII、Bustle 整理；案例板上的媒體價值、曝光、捐款成長數字不採用，捐款總額各來源也不一致（約 1 萬歐元或更高），讀稿未寫。遊行人數約 250 人取自 Bustle。已搜爭議：Nazis against Nazis Wunsiedel controversy／criticism／fake／staged，沒有找到造假、抄襲或撤獎指控（市府發言人還稱活動是成功）。"
+  "note": "官方全文需登入，內容依官方案例板（圖上文字）、The Local、Bustle 整理；案例板上的媒體價值、曝光、捐款成長數字不採用，捐款總額各來源也不一致（約 1 萬歐元或更高），讀稿未寫。遊行人數 The Local 寫約 200 人、Bustle 寫約 250 人，讀稿兩者並列。SOFII 頁面 404 打不開，未引用。已搜爭議：Nazis against Nazis Wunsiedel controversy／criticism／fake／staged，沒有找到造假、抄襲或撤獎指控（鎮公所發言人對 The Local 說反應非常正面）。"
  },
  {
   "id": "ltwm-07288",
@@ -415,7 +415,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "電玩 Madden NFL 15 拍惡搞 MV，Kevin Hart 登門搧 Dave Franco 一巴掌，兩人從饒舌對嗆打到遊戲對決",
+  "idea_one_liner": "Madden NFL 15 拍惡搞 MV：Kevin Hart 登門搧 Dave Franco 一巴掌，兩人從饒舌對嗆打到遊戲對決",
   "brand_display": "EA Sports（Madden NFL 15）",
   "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類金獅 Branded Content & Entertainment Gold Lion、Branded Content & Entertainment類銀獅 Branded Content & Entertainment Silver Lion｜代理商：HEAT San Francisco / HUNGRY MAN New York\n\n【背景】EA Sports 的美式足球電玩系列 Madden NFL，要替 2014 年 8 月推出的 Madden NFL 15 打響名號。EA 與 HEAT（舊金山）把重點放在玩家都懂的場面：朋友一玩起 Madden 就會變成對手，這段時期叫作「Madden Season」。\n\n【點子】把「玩 Madden 的朋友會翻臉」放大成一部誇張荒謬的音樂錄影帶，讓廣告本身就是一支能在網路上被轉傳的娛樂短片。\n\n【執行】影片近四分鐘，演員 Kevin Hart 跑到 Dave Franco 的豪宅，Franco 開門招呼「Kev, what's up?」，Hart 立刻甩他一巴掌。接著一群啦啦隊與伴舞冒出來，影片變成饒舌歌曲，最後兩人在 Franco 起火燃燒的豪宅前，用 Madden NFL 15 一決高下。NFL 球員 LeSean McCoy、Colin Kaepernick、Richard Sherman 也客串。Shots 提到，EA 隔年的 Madden NFL 16 也延續同一個「Madden Season」系列。\n\n資料來源：\nhttps://www.thewrap.com/dave-franco-kevin-hart-slap-and-rap-in-most-annoying-madden-nfl-ad-ever-created-video/\nhttps://shots.net/news/view/88018-ea-sports-takes-madden-to-the-movies",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Branded Content & Entertainment, 品牌內容與娛樂類, 金獅, Gold Lion, 銀獅, Silver Lion, EA Sports, EA, Madden NFL 15, Madden, 電玩, 遊戲, 電動遊戲, 美式足球, NFL, HEAT, HEAT SAN FRANCISCO, HUNGRY MAN, 音樂錄影帶, Music Video, MV, 饒舌, Rap, 惡搞, 幽默, 荒謬, Kevin Hart, Dave Franco, 名人, 球星, 啦啦隊, 豪宅, 網路影片, 社群分享, 美國, United States, Madden Season",
@@ -424,7 +424,7 @@
    "https://www.thewrap.com/dave-franco-kevin-hart-slap-and-rap-in-most-annoying-madden-nfl-ad-ever-created-video/",
    "https://shots.net/news/view/88018-ea-sports-takes-madden-to-the-movies"
   ],
-  "image_url": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2014/08/kevin-hart-dave-franco.jpg",
+  "image_url": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2014/08/kevin-hart-dave-franco.jpg?fit=618%2C412&quality=89&ssl=1",
   "image_shows": "影片劇照：Kevin Hart（左）與 Dave Franco（右）並肩坐在座位上，後方有一群表情錯愕的群眾",
   "text_source_level": 2,
   "uncertain": false,
