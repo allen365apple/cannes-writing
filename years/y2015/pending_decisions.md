@@ -19,3 +19,7 @@
 - 不算爭議：b001 07495 Poo Face（只有網友疑擺拍、P&G 否認）。
 - 圖：b002 07255 CARDBOARD 用 Wikipedia Commons 實物照、07264 RE2PECT 用 W+K 官網主圖；b003 07321 用 Horizont 報導截圖；b004 07271 用 YouTube 縮圖；b001 07254 #LikeAGirl 用 YouTube 縮圖、07503 只有片名卡。
 - 撤獎 0；重複候選 0。
+
+## 2026-11-08 柏文決定（第 2 輪）
+- Jeep THE LANDSCAPE SONG 07268：只入圍 → 不收（規則卡已加：只入圍不收）。
+- Ice Bucket Challenge 07267：照驗收員，不加【爭議】，照收（非原創不影響參考價值）。
