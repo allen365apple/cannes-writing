@@ -141,3 +141,16 @@
 - 不算爭議：b033 08278 Under Armour 拒絕信是 Droga5 公開說明的整合版，已補 note。
 - 圖：b031 08258 Target 用 BizBash 現場圖、08257 Bonds 分鏡格；b033 08275 改用同卡片案例板；b034 Voodoo 用帶 VEVO 標誌的 YouTube 縮圖（驗收員判斷可用）；b035 08294 Old Irish 分鏡仍看不出點子。
 - 【爭議】候選 0；撤獎 0。
+
+## 2026-11-08 雲端第 6 輪 b036 b037 b038（Sonnet 寫、Opus 驗）
+- 不收待決（撤獎）：b037 ltwm-08315 BALD, BOX, PARACHUTE（Bayer／AlmapBBDO）。戶外那座銅獅（.MP3／.DOC／.MOV）有明確交回證據（Adweek 引 BBDO「All Bayer work created by AlmapBBDO has been withdrawn」）；本筆是平面那座（BOX、BALD），沒有來源單獨說被撤，官方資料仍列著。建議維護者決定平面那座要不要另收；要收得另找 BALD／BOX／PARACHUTE 的畫面。
+- 重複候選：b038 ltwm-08323 BREAK UP 與 b027 ltwm-08213 MOVING（Fabogesic，同品牌、代理商、導演、同系列）。驗收員建議合併、保留獎項較多的 08213，08323 的影片類銅獅併進去。decision 沒動。
+- 【爭議】候選：b036 ltwm-08306 Ambuja Khali。afaqs 只寫社群上很多人說像 2008 年 Eupron Mr. W 廣告，沒說抄襲、無正式認定或品牌回應。【爭議】段先保留，算不算「被指控抄襲」請決定。（D&AD 的 A Giant's Story 是同一支的別名，不算重複。）
+- 是否另立一筆：b038 ltwm-08322 匿名戒酒會，官方同組獎項另列 SKYLINE／ICEBERG／DUNES。
+- 仍 uncertain：b036 08300 Opel Invisible Dangers（看不到閃光拍照後畫面）；b037 08311 Opel ASS, ARMPIT, BELLY（看圖推測，另兩張與 OPEL INTELLILUX 沒看到）；b037 08312 Tobacco Free Florida 廣播（缺音檔或逐字稿）；b038 08322 匿名戒酒會（缺 Grey Face、White Face）。
+- 驗收員改回收：b038 08329 Carrefour BABY NIGHT（從官方作品頁原始碼找到真正的分鏡；in 檔給的 case board 是別件作品）。字卡寫越晚越便宜，但折扣圖表 3 點最高，讀稿兩者並列。
+- 代理商欄：b036 Antidiary 官方 Edelman，Webby 寫 72andSunny 主創，讀稿並列；b036 Sagami 代理商說法不一，讀稿沒寫。
+- 來源偏少（照收）：b036 ADHD 只有一個來源（用同作品另一 entry 的 case board）。
+- 不算爭議：b037 08318 ALCOHOL ART（是 2022 年別的廣告被指像它）。
+- 其他：b038 08320 JBL 報名的是 MLK 日首映的〈Bigger Than Us〉MV，in 檔寫耳機正確；b038 08321 Bild 兩個作品名併一件；b038 08327 Gollo 分店數 133／130 並列。
+- 撤獎確認 0（08315 待決）。
