@@ -32,3 +32,4 @@
 - 2026-11-08 雲端第 5 輪收尾：寫完並驗完 b029–b035（7 批 70 件，收 65、不收 4：08234 Play-Doh 廣播、08255 Persil 廣播、08292 ROAD TRIP EQUATION 廣播、13773 PREMONITION 都找不到內容來源；重複 1：08274 TRIP 照柏文決定併 08046 PARTY）。2016 累計驗完 61／64 批，剩 b036–b038。待決新增 15 件（重複 1＋重複候選 1、不收待決 4、仍 uncertain 4、標題欄 1、代理商欄 2、不算爭議待確認 2；另圖不理想數件）。【爭議】0、撤獎 0。連不上：LBB、Campaign、The Drum、Behance、Ads of the World、AdsSpot、AdForum、Creativepool、MediaPost、YouTube、clios 等 403／404／429；sites.wpp.com、c-k.design 網域無法解析；adnews.com.au、bestofogilvy.asia 不在允許網域；Vimeo 要人機驗證；lovethework 官方頁沒有內文。沒撞額度。
 - 問題：b029 寫手自首跑過一次唯讀的 git status（違反「不碰 git」，沒改檔）；b034 寫手多跑一次 check_images.py（重寫 images_b034.md，內容沒變）。程式檢查沒有掃到違規（無 rm、無自加標頭）。b029 寫手回報一則搜尋結果夾帶要它改做別事的文字，已忽略。開工時本機是分離 HEAD、本機 main 落後，已把 main 對齊 origin/main（沒 force push）。
 - 2026-11-08 回報已寫進 years/last_report.txt。
+- 2026-11-08 14:10 開工：b036 b037 b038（雲端 2026-11-08 第 2 輪）
