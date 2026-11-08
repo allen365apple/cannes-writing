@@ -33,3 +33,5 @@
 - 問題：b029 寫手自首跑過一次唯讀的 git status（違反「不碰 git」，沒改檔）；b034 寫手多跑一次 check_images.py（重寫 images_b034.md，內容沒變）。程式檢查沒有掃到違規（無 rm、無自加標頭）。b029 寫手回報一則搜尋結果夾帶要它改做別事的文字，已忽略。開工時本機是分離 HEAD、本機 main 落後，已把 main 對齊 origin/main（沒 force push）。
 - 2026-11-08 回報已寫進 years/last_report.txt。
 - 2026-11-08 14:10 開工：b036 b037 b038（雲端 2026-11-08 第 2 輪）
+- 2026-11-08 雲端第 6 輪收尾：寫完並驗完 b036–b038（3 批 30 件，收 29、不收 1：08315 BALD, BOX, PARACHUTE 疑 Bayer／AlmapBBDO 撤獎，平面那座是否也撤待決；驗收員把 08329 Carrefour BABY NIGHT 改回收）。**2016 雲端 64／64 批全部寫完驗完，等本機收尾。** 待決新增 8 件（撤獎待決 1、重複候選 1：Fabogesic BREAK UP／MOVING、【爭議】候選 1：Ambuja Khali、另立一筆 1：AA SKYLINE／ICEBERG／DUNES、仍 uncertain 4）。連不上：Behance、The Drum、MediaPost、markt-kom、thedrinksbusiness、fiercepharma、AdsSpot、Clios、YouTube 等 403／404；lbb.lbbonline.com 網域無法解析；Vimeo 要人機驗證；lovethework 官方頁沒有內文。沒撞額度。
+- 問題：程式檢查與驗收員都沒發現違規。b037 寫手自承沒逐件完整重讀讀稿，驗收員已 10 件全看並改 3 件。開工時本機是分離 HEAD、本機 main 與 origin 歷史分岔，已把 main 對齊 origin/main（舊提交留在本機分支，沒 force push）。
