@@ -4,6 +4,11 @@
 - b063 Shell：倡議團體報告點名本案為石油公司誤導性氣候廣告，暫加【爭議】；發報告者非學者／主管機關，屬邊界。建議：保留【爭議】。
 - b060 ltwm-07852 Double Whammy：仍 uncertain，lovethework 只有名稱、Effie 404、找不到原片。建議：不上線。
 - 無圖 3 件：b060 07850 Dos Equis（廣播）、07852、b061 07860 法蘭克福匯報（廣播）。建議：廣播兩件接受無圖上線。
+- 2026-11-08 柏文決定（照建議）：
+  - LIVER SONGS 07873：2014 還沒寫進點子庫，先收 2015 這筆。**寫 2014 時**，Radio 的《Shape of My Liver》《Total Eclipse of the Liver》不另收，把 2014 的獎補掛到 07873。
+  - Shell：保留【爭議】。
+  - Double Whammy 07852：改「不收」。
+  - 無圖廣播 07850、07860：准許無圖上線（本機 work/out/y2015/no_image_ok.txt）。
 - 已處理：b031 ltwm-07481 JACKPOT 預填誤併 Sweet Kills 的戶外銅獅與 Ogilvy Bangkok，2026-11-08 已從 in 檔移除（備份在 idea-collections/_archive/2026-11-08/）。
 
 ## 2026-11-08 雲端第 2 輪 b001 b002 b003 b004（Sonnet 寫、Opus 驗）
