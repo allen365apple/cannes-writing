@@ -249,7 +249,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方案例板（LTW）只有預留圖，圖片改用 Horizont 報導的影片截圖（og:image，1200×630）；YouTube 縮圖（ID tNqPSKHqZnw）已 404。官方全文需登入，內容依 D&AD 頁面與 Adweek 整理，D&AD 頁面標 2015 Film 類。已搜爭議：搜了「Samsung Every Day Is Day One controversy／plagiarism／withdrawn」，沒有相關指控。作品名只有一支，in 檔有兩個代理商欄位（72andSunny Amsterdam／Exit Films）照官方 award_line。"
+  "note": "官方案例板（LTW）只有預留圖，圖片改用 Horizont 報導的影片截圖（og:image，1200×630）；YouTube 縮圖（ID tNqPSKHqZnw）已 404。官方全文需登入，內容依 D&AD 頁面與 Adweek 整理，D&AD 頁面標 2015 Film 類。已搜爭議：搜了「Samsung Every Day Is Day One controversy／plagiarism／withdrawn」，沒有相關指控。作品名只有一支，in 檔有兩個代理商欄位（72andSunny Amsterdam／Exit Films）照官方 award_line。 2026-11-08 Opus 驗：Horizont 圖已打開確認是衝浪者自岩岸跳海的影片畫面，與讀稿描述一致，可用。"
  },
  {
   "id": "ltwm-07412",
@@ -339,7 +339,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依官方案例板與 Pocket-lint 整理。案例板上的推文數、報導數、預購數屬成效，未寫入。各報導稱網站是三星挪威的團隊（Pocket-lint），官方報名代理商是 DDB Stockholm，故讀稿未寫哪國分公司。DDB 北歐官網頁面 404，未使用。已搜爭議：搜了「Samsung Is This The Next DDB campaign controversy／fake／withdrawn」，沒有相關指控（搜到的是別支廣告）。"
+  "note": "官方全文需登入，內容依官方案例板與 Pocket-lint 整理。案例板上的推文數、報導數、預購數屬成效，未寫入。各報導稱網站是三星挪威的團隊（Pocket-lint），官方報名代理商是 DDB Stockholm，故讀稿未寫哪國分公司。DDB 北歐官網頁面 404，未使用。已搜爭議：搜了「Samsung Is This The Next DDB campaign controversy／fake／withdrawn」，沒有相關指控（搜到的是別支廣告）。 2026-11-08 Opus 驗：事實抽查：打開案例板，傳言 05／02／06／08 的文字、倒數計時與「for Samsung in the Nordics」對得上；網站網址是 samsung.com/se，讀稿不寫哪國分公司的處理妥當。Pocket-lint 用 curl 實測 200，程式標壞是誤判。"
  },
  {
   "id": "ltwm-07714",
@@ -461,7 +461,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依官方案例板與 Cartoon Brew 整理。案例板上的一週觀看次數屬成效，未寫入。Campaign、Shots 與 soyacincau 有的連不上（403），故劇情只寫案例板與截圖看得到的部分。已搜爭議：搜了「Samsung Holiday Dreams R/GA controversy／plagiarism／copied」，沒有相關指控。"
+  "note": "官方全文需登入，內容依官方案例板與 Cartoon Brew 整理。案例板上的一週觀看次數屬成效，未寫入。Campaign、Shots 與 soyacincau 有的連不上（403），故劇情只寫案例板與截圖看得到的部分。已搜爭議：搜了「Samsung Holiday Dreams R/GA controversy／plagiarism／copied」，沒有相關指控。 2026-11-08 Opus 驗：事實抽查：案例板寫 more than 70 devices、2 吋 Gear S 到 65 吋曲面電視、集中控管系統，對得上；70 多／74 並列已標明出處，保留。"
  },
  {
   "id": "ltwm-07673",
