@@ -32,3 +32,10 @@
 - 內容缺口：b007 07337 得的是媒體類，找不到具體媒體作法的來源，建議本機補；b008 07876 FOREIGN OBJECTS 北極狐那張仍缺。
 - 圖：b005 Leica 100 用非官方頻道 YouTube 縮圖（畫面是影片本身）；b007 07330 RIPPLE 只有 Adweek 600px 圖。
 - 撤獎 0。
+
+## 2026-11-09 雲端第 1 輪 b009 b010 b011（Sonnet 寫、Opus 驗）
+- 【爭議】：b010 07314 BLIND TRIP，寫手加了【爭議】（哥斯大黎加官方抗議借用國家形象、影片下架），驗收員認為不屬造假／抄襲／撤獎／誤導，已刪段改記 note，請確認。
+- 仍 uncertain：b010 07923 THE BATTLE（缺劇情與音效，需看片補；YouTube cPGMobBfK_Y）。
+- 內容缺口：b011 07319 THE OCEAN 劇本獎沒有逐字稿；b011 07363 COMPETITORS、07916 ROME／BERLIN、07917 SMART FOR TWO 系列只看到一張。
+- 圖：b011 07396 BAIDU、07319、07881（724px）圖弱，找不到更好的；b010 07482 THE SILVER HAND 圖無法確認是哪支影片。
+- 撤獎 0；重複候選 0。
