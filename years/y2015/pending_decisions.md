@@ -23,3 +23,12 @@
 ## 2026-11-08 柏文決定（第 2 輪）
 - Jeep THE LANDSCAPE SONG 07268：只入圍 → 不收（規則卡已加：只入圍不收）。
 - Ice Bucket Challenge 07267：照驗收員，不加【爭議】，照收（非原創不影響參考價值）。
+
+## 2026-11-09 雲端第 1 輪 b005 b006 b007 b008（Sonnet 寫、Opus 驗）
+- 重複候選：b007 ltwm-07337 RISK EVERYTHING 與 ltwm-07484 THE LAST GAME（Nike 世界盃同一平台的第三支影片）。驗收員建議留 07337（金＋銅），07484 標重複、same_as 07337、獎項併過去。decision 沒動。
+- 【爭議】：b005 07279 Lucky Iron Fish（坎城調查後產品設計大獎改頒 Lucky Iron Fish 單一得主，是換得主不是撤獎）；b005 07281 The Gun Shop（驗收員新加：NRA-ILA 指控顧客是付費演員）；b007 07293 THE BEAR AND THE HARE（網友指劇情像童書，無正式裁定）。三件都照收，請確認保留。
+- 【得獎】行：b005 07279 award_line 照官方仍列 Geometry／Memac Ogilvy 為代理商，要不要加註換得主請決定。
+- 仍 uncertain：b005 07273 Abla Fahita（缺她最早代言的品牌與案例影片內容）。
+- 內容缺口：b007 07337 得的是媒體類，找不到具體媒體作法的來源，建議本機補；b008 07876 FOREIGN OBJECTS 北極狐那張仍缺。
+- 圖：b005 Leica 100 用非官方頻道 YouTube 縮圖（畫面是影片本身）；b007 07330 RIPPLE 只有 Adweek 600px 圖。
+- 撤獎 0。
