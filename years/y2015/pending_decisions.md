@@ -39,3 +39,10 @@
 - 內容缺口：b011 07319 THE OCEAN 劇本獎沒有逐字稿；b011 07363 COMPETITORS、07916 ROME／BERLIN、07917 SMART FOR TWO 系列只看到一張。
 - 圖：b011 07396 BAIDU、07319、07881（724px）圖弱，找不到更好的；b010 07482 THE SILVER HAND 圖無法確認是哪支影片。
 - 撤獎 0；重複候選 0。
+
+## 2026-11-09 雲端第 2 輪 b013 b014 b015（Sonnet 寫、Opus 驗）
+- 【爭議】候選：b014 07561 Choose Beautiful（Fortune 說兩扇門是為拍片搭的、4% 出自 Edelman 旗下單位市調），驗收員判一般評論、刪掉【爭議】段改記 note，請確認；b014 07518 Speak Beautiful 同樣刪段改記 note。
+- 仍 uncertain：b013 07928 THE SCRIPTED LIFE（缺劇情）；b014 07373 A MOTHER'S BODY（缺影片內容與詩，寫手原稿讀稿只有 PLACEHOLDER，驗收員補了最小版本）；b014 07898 OMO OPEN HERE/SPOON（廣播，缺音檔逐字稿，needs_audio）。
+- 圖：b015 07838 IKEA COOKIES 沒圖，請本機補；b013 07333、07329 用報導 og:image，可再換；b014 07373 用 Vimeo 縮圖。
+- 事實：b015 07335 Wi-Fi 案例板「每年 20 萬兒童失蹤」，其他估計約 7 萬，已在讀稿補註。
+- 撤獎 0；重複候選 0。
