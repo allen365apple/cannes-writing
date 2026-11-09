@@ -84,7 +84,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依官方案例板（日期以外的事實）與 Fox Business 整理；案例板與 LTW 上的成效數字（免費媒體價值、曝光數）未寫入。官方報名名稱有兩種：媒體類銅獅是「TECHNOLOGY & STUFF」，公關類金銀獅是「#TECHNOLOGYANDSTUFF: RAPID INTEGRATION TURNS PR CRISIS INTO SOCIAL CURRENCY」，是同一個行動，合併成一件。已搜爭議：搜「Chevrolet #TechnologyAndStuff Cannes controversy／fake／withdrawn／staged」，沒有造假或撤獎指控；失言本身是真實事件。MediaPost 連線 403、未採用。"
+  "note": "官方全文需登入，內容依官方案例板（日期以外的事實）與 Fox Business 整理；案例板與 LTW 上的成效數字（免費媒體價值、曝光數）未寫入。官方報名名稱有兩種：媒體類銅獅是「TECHNOLOGY & STUFF」，公關類金銀獅是「#TECHNOLOGYANDSTUFF: RAPID INTEGRATION TURNS PR CRISIS INTO SOCIAL CURRENCY」，是同一個行動，合併成一件。已搜爭議：搜「Chevrolet #TechnologyAndStuff Cannes controversy／fake／withdrawn／staged」，沒有造假或撤獎指控；失言本身是真實事件。MediaPost 連線 403、未採用。 2026-11-09 Opus 驗：官方 award_line 本身就把 TECHNOLOGY & STUFF（媒體銅）與 #TECHNOLOGYANDSTUFF（公關金、銀）列在同一 id，同一行動，合併正確。案例板已打開確認，板上成效數字未寫。"
  },
  {
   "id": "ltwm-07365",
@@ -330,7 +330,7 @@
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": true,
-  "note": "uncertain：這件官方登記的是兩支廣播（Little Girl、Tiny Little Boy），本機版請轉逐字稿補寫。音檔：http://www.sirenawards.com.au/SirenAwards/media/Common/Cannes%20Lion%20Audio/00985_00986.mp3 。缺：廣播的實際台詞與做法；目前讀稿只依同活動平面稿畫面寫，圖也是平面稿，不是廣播本身，LTW 卡片（113142、113163）沒有說明文字。官方候選圖只有音檔圖示，故改用 foodaid-228556 頁面上的圖。已搜爭議：搜「Red Cross FoodAid Lowe Singapore radio controversy／fake／scam ad」，沒有找到相關指控。兩支廣播併為一件。搜尋摘要說的創意說明未寫入。"
+  "note": "uncertain：這件官方登記的是兩支廣播（Little Girl、Tiny Little Boy），本機版請轉逐字稿補寫。音檔：http://www.sirenawards.com.au/SirenAwards/media/Common/Cannes%20Lion%20Audio/00985_00986.mp3 。缺：廣播的實際台詞與做法；目前讀稿只依同活動平面稿畫面寫，圖也是平面稿，不是廣播本身，LTW 卡片（113142、113163）沒有說明文字。官方候選圖只有音檔圖示，故改用 foodaid-228556 頁面上的圖。已搜爭議：搜「Red Cross FoodAid Lowe Singapore radio controversy／fake／scam ad」，沒有找到相關指控。兩支廣播併為一件。搜尋摘要說的創意說明未寫入。 2026-11-09 Opus 驗：再搜廣播腳本無結果，維持 uncertain，待本機用 whisper 轉音檔（in 檔 links 已有 sirenawards 音檔）。"
  },
  {
   "id": "ltwm-07828",
@@ -356,18 +356,19 @@
   "category": "行銷案例",
   "idea_one_liner": "塞爾維亞紅十字會，在通往歐盟的公路加油站女廁，裝一顆求救按鈕，被販運的女性一按就拍照，連同指紋與位置傳給警方",
   "brand_display": "塞爾維亞紅十字會 求救按鈕",
-  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：NEW MOMENT NEW IDEAS COMPANY Y&R Belgrade\n\n【背景】案例板寫道，每天有數百名女性被送往歐盟，目的是人口販運。她們被許諾某處有一份正當工作，一路上受到持續監視，手機也被收走；但是在公路加油站的女廁，是這些受害者唯一能獨處的地方，即使只有一下子。\n\n【點子】把求救的機會裝進她們唯一獨處的地方：在塞爾維亞幾座加油站的女廁裡裝一台裝置，讓可能的受害者按一顆鈕就能求助。\n\n【執行】案例板說明裝置的運作：按下按鈕，鏡頭會替可能的受害者拍照，照片連同指紋與確切位置一起傳給警方，等這輛車開到邊境，警方就能認出可能的受害者並安全地協助她。案例板上的照片是一塊貼在牆上的白色面板，有鏡頭、紅色按鈕，上面貼著四種語言的紅黃標示，提醒對方「再想一想，在太遲之前」；另一張是警察在電腦螢幕上收到一名女性的照片，右上是邊境檢查站，並且用地圖畫出路線從東邊穿過塞爾維亞往西歐，上面有一把剪刀剪斷箭頭。這個作品由 Y&R 在貝爾格勒的 New Moment New Ideas Company 製作。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/button-115276\nhttps://www.lovethework.com/work-awards/campaigns/button-228559",
+  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：NEW MOMENT NEW IDEAS COMPANY Y&R Belgrade\n\n【背景】案例板寫道，每天有數百名女性被送往歐盟，目的是人口販運。她們被許諾某處有一份正當工作，一路上受到持續監視，手機也被收走；但是在公路加油站的女廁，是這些受害者唯一能獨處的地方，即使只有一下子。\n\n【點子】把求救的機會裝進她們唯一獨處的地方：在塞爾維亞幾座加油站的女廁裡裝一台裝置，讓可能的受害者按一顆鈕就能求助。\n\n【執行】案例板說明裝置的運作：按下按鈕，鏡頭會替可能的受害者拍照，照片連同指紋與確切位置一起傳給警方，等這輛車開到邊境，警方就能認出可能的受害者並安全地協助她。案例板上的照片是一塊貼在牆上的白色面板，有鏡頭、紅色按鈕，上面貼著四種語言的紅黃標示，提醒對方「再想一想，在太遲之前」；另一張是警察在電腦螢幕上收到一名女性的照片，右上是邊境檢查站，並且用地圖畫出路線從東邊穿過塞爾維亞往西歐，上面有一把剪刀剪斷箭頭。這個作品由 Y&R 在貝爾格勒的 New Moment New Ideas Company 製作。Digiday 介紹塞爾維亞廣告的文章也說明了同樣的做法：在幾座加油站的女廁裝上特別的按鈕，處境危險的女性一按，照片就會暗中傳給警方。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/button-115276\nhttps://www.lovethework.com/work-awards/campaigns/button-228559\nhttps://digiday.com/marketing/global-creative-6-serbian-campaigns-worth-checking/",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 戶外類銅獅, Outdoor Bronze Lion, 戶外類, Outdoor, 環境媒介, Ambient, 塞爾維亞紅十字會, Red Cross of Serbia, 紅十字會, Red Cross, 人口販運, Human Trafficking, 反人口販運, Anti-Trafficking, 求救按鈕, Button, 按鈕, 加油站, 女廁, 廁所, 攝影機, 指紋, 警察, 邊境, 歐盟, 公益, 裝置, 製作物, 塞爾維亞, Serbia, NEW MOMENT NEW IDEAS COMPANY, Y&R Belgrade, Y&R, 被害者, 求助",
   "references": [
    "https://www.lovethework.com/en/work/entries/button-115276",
-   "https://www.lovethework.com/work-awards/campaigns/button-228559"
+   "https://www.lovethework.com/work-awards/campaigns/button-228559",
+   "https://digiday.com/marketing/global-creative-6-serbian-campaigns-worth-checking/"
   ],
   "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/8089550459d645bd9b9d2a0b8a91d8e7",
   "image_shows": "官方案例板：左邊是紅色按鈕當頭的女廁圖示「ANTI-TRAFFICKING BUTTON」，右側有背景、點子、成果文字，中間是歐洲路線地圖、邊境檢查站、廁所牆上有鏡頭與紅按鈕的面板、警察螢幕上的女性照片，底部一排圖示說明流程",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依官方案例板文字與 LTW 卡片整理；案例板 Results 欄（議會提案設置於脫衣舞酒吧）屬事後結果，未寫入。找不到獨立報導（adsspot 回 404），所以只有官方案例板一個內容來源，驗收請多注意。已搜爭議：搜「Red Cross Serbia Button anti-trafficking Y&R Belgrade controversy／fake／scam ad」，沒有找到造假或撤獎指控；也沒有第三方確認裝置實際運作，這點只列在 note，未寫進讀稿。官方報名名稱是「BUTTON」，卡片分類為 Outdoor／Ambient。"
+  "note": "官方全文需登入，內容依官方案例板文字與 LTW 卡片整理；案例板 Results 欄（議會提案設置於脫衣舞酒吧）屬事後結果，未寫入。找不到獨立報導（adsspot 回 404），所以只有官方案例板一個內容來源，驗收請多注意。已搜爭議：搜「Red Cross Serbia Button anti-trafficking Y&R Belgrade controversy／fake／scam ad」，沒有找到造假或撤獎指控；也沒有第三方確認裝置實際運作，這點只列在 note，未寫進讀稿。官方報名名稱是「BUTTON」，卡片分類為 Outdoor／Ambient。 2026-11-09 Opus 驗：補到第二個獨立來源 Digiday（說法與案例板一致：加油站女廁按鈕、照片暗中傳給警方），加進讀稿與來源；Digiday 提到的其他獎項未寫。案例板圖已打開確認。"
  },
  {
   "id": "ltwm-07693",
@@ -442,6 +443,6 @@
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": true,
-  "note": "uncertain：找不到廣播的文字內容或可讀的案例說明（LTW 卡片、Clios、unblock.coffee 只有標題、品牌、類別；Reason Why 只提到入圍），一句話只依案例影片字卡與標題寫，並未描述廣播做法，本機版請轉逐字稿補寫。音檔：in 檔 links 沒有音檔，需到 LTW 卡片 daddytoons-news-112916 找。搜尋摘要提到的內容（把新聞改寫成卡通用語等）因未在打開的頁面找到，未寫入。已搜爭議：搜「Opel Daddytoons News controversy／fake／scam ad Cannes」，沒有找到相關指控。官方報名名稱是 DADDYTOONS NEWS。"
+  "note": "uncertain：找不到廣播的文字內容或可讀的案例說明（LTW 卡片、Clios、unblock.coffee 只有標題、品牌、類別；Reason Why 只提到入圍），一句話只依案例影片字卡與標題寫，並未描述廣播做法，本機版請轉逐字稿補寫。音檔：in 檔 links 沒有音檔，需到 LTW 卡片 daddytoons-news-112916 找。搜尋摘要提到的內容（把新聞改寫成卡通用語等）因未在打開的頁面找到，未寫入。已搜爭議：搜「Opel Daddytoons News controversy／fake／scam ad Cannes」，沒有找到相關指控。官方報名名稱是 DADDYTOONS NEWS。 2026-11-09 Opus 驗：再搜 LatinSpots 作品頁（只有基本資料）、AdForum（403），仍無內容；維持 uncertain，待找音檔。圖為官方案例影片開場字卡，看不出點子，補到內容後應換圖。"
  }
 ]
