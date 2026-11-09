@@ -1,11 +1,13 @@
-*坎城雲端寫稿｜2015 第 4 輪（11/09 14:14）*
-• 這輪寫完並驗收：b012～b018，共 7 批 70 件（全收）
-• 這輪寫到的作品（舉 3～5 件）：Diageo〈Made of Black〉、Audi〈Birth〉、Dove〈A Mother's Body〉、IKEA〈Beds〉、KFC〈So Good〉
-• 2015 進度：已完成 25／70 批，剩 45 批
-• 待決新增：16 件（重複候選 0、爭議 2、uncertain 7、圖不理想 6、事實補註 1）
-  • 爭議：Choose Beautiful、Speak Beautiful 寫手加了爭議段，驗收員判一般評論刪掉，請確認
-  • 廣播金獅 MARTIN 找不到任何內容和圖，需本機找音檔，要不要收請決定
-• 問題：無違規
-  • A Mother's Body 寫手交稿時讀稿只有佔位字，驗收員已補最小版本，仍待補影片內容
-  • 多個廣告媒體網站擋連線（LBB、Campaign Live、The Drum 等），改用其他來源，不影響收件
-• 預計：照一天 14 批，剩下約 3 天寫完（11/12 左右），接著寫 2014（隊伍裡沒有，等本機做前置）
+*坎城雲端寫稿｜2015 第 5 輪（11/10 02:10）*
+• 這輪寫完並驗收：b019～b025，共 7 批 70 件（全收）
+• 這輪寫到的作品（舉 3～5 件）：UN Women〈Give Mom Back Her Name〉、Lowe's〈Tap Thru〉、Mercedes-Benz Japan〈Crossword Targeting〉、DirecTV〈Cable Effects〉、GRAACC〈Bald Cartoons〉
+• 2015 進度：已完成 32／70 批，剩 38 批（另 b059～b065 本機認領）
+• 待決新增：33 件（重複候選 1、爭議 2、uncertain 12、圖不理想 15、待核對 3）
+  • 重複：Netflix〈Data GIF〉07424 和 b069〈Netflix GIF Campaign〉是同一個活動，建議留 07424
+  • 爭議：Life Saving Dot（醫師說沒效）、Superpower for Hire（受訪記者不知情），都保留爭議段，請確認
+  • 07590 Skittles 廣播：寫手原判不收，驗收員找到銀獅紀錄改回收，得獎行請對官方名單
+  • 07729 Heineken〈The Hero〉疑似寫錯支（寫到 2016 年那支），請確認
+• 問題：寫手無違規
+  • 驗收員自報誤下一次只讀的 git 指令，沒改任何東西
+  • 多個廣告媒體網站擋連線（LBB、Campaign、The Drum 等），改用其他來源，不影響收件
+• 預計：照一天 14 批，剩下約 3 天寫完（11/13 左右），接著寫 2014（隊伍裡沒有，等本機做前置）
