@@ -10,3 +10,4 @@
 - 2026-11-09 雲端第 1 輪收尾：寫完並驗完 b005–b011（7 批 70 件全收）。2015 累計驗完 18／70 批，剩 b012–b058、b066–b070。待決新增 20 件（重複候選 1：07337／07484；【爭議】4：07279、07281、07293 保留，07314 驗收員刪段待確認；uncertain 2：07273、07923；【得獎】行 1：07279；內容缺口 6；圖不理想 6）。撤獎 0。連不上：Campaign Live、LBB、The Drum、Marketing Week、MediaPost、Adforum、lareclame、Fast Company 等 403；adnews.com.au、lbb.lbbonline.com 網域無法解析；Vimeo 擋、YouTube 驗證頁；lovethework 官方頁沒有內文。沒撞額度。
 - 問題：無違規（驗收員查過各 tmp 腳本，沒有自加標頭或刪檔指令；程式檢查沒掃到違規）。b006 寫手試過用 weserv 轉圖，被權限系統擋下、沒用。程式把 canadianpackaging、WARC、selfstorming 標成壞網址，寫手實測可開（誤判）。寫作中為了保存進度提交過數次「寫作中暫存（未驗）」，驗完已提交最終版。
 - 2026-11-09 02:00 回報已寫進 years/last_report.txt。
+- 2026-11-09 14:14 開工：b012 b013 b014 b015 b016 b017 b018（雲端 2026-11-09 第 2 輪）
