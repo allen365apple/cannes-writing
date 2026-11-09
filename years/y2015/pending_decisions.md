@@ -61,3 +61,12 @@
 - 仍 uncertain：廣播 07371、07376、07590（已找到音檔，待本機 whisper 轉寫）；07375、07372（缺音檔）；07378 9/11 Memorial、07419 Lucozade（缺數據的使用方式）；07729（見上）；07398 OWLET、07402 THE ELECTRIC SAGA（缺案例說明）。
 - 圖：沒圖 07375、07376、07371、07372、07378、07419、07729、07874、07875、07590；圖不理想 07381、07391、07402。
 - 撤獎 0；重複候選 0。
+
+## 2026-11-10 雲端第 1 輪 b023 b024 b025（Sonnet 寫、Opus 驗）
+- 重複候選：b025 07424 NETFLIX DATA 與 b069 99538 NETFLIX GIF CAMPAIGN 是同一場行動的不同報名；驗收員建議保留 07424、99538 標重複、媒體類銅獅併過來（未改 decision）。
+- 【爭議】候選：b023 07409 SUPERPOWER FOR HIRE（NYT 記者桑格說不知道訪問會用在遊戲宣傳，屬受訪者不知情的原生廣告評論），驗收員保留【爭議】段，請確認算不算。
+- 併件：b024 07785 LOVIN' THE SUPER BOWL 與 BLUEBIRD（OMD 媒體類）是同一行動，兩座獎已併在同一筆，清單沒有另一筆，不算跨筆重複。
+- 標題更正：b024 07784 in 檔標題 DELIVERING WHAT YOU LOVE 與官方 ALLEY／SQUARE／STREET 不同，驗收員確認稿子寫的是官方那組海報；b025 07895 in 檔標題 THE WORST GIFTER 是另一支，稿子照官方 SOCIAL TRAILERS 寫。
+- 仍 uncertain：b024 07422 ECRM EVOLUTION（只有標題，缺做法）；b025 07588 CHRISTMAS CAROLS（廣播，需本機用 vimeo.com/127057959 轉寫）。
+- 圖不理想：07422（只有麥當勞標誌）、07588（鈴鐺字卡）。
+- 撤獎 0。
