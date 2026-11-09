@@ -41,7 +41,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依官方案例板文字（已打開看圖）、We and the Color、Red Dot 說明整理。官方報名分兩件（識別設計＝金獅、乳品包裝＝銅獅），讀稿以識別為主、包裝一併說明。已搜爭議：搜「Cheburashkini Brothers identity controversy／plagiarism」，沒有針對這組作品的造假、抄襲或撤獎指控。品牌名拼法各來源不同（案例板 Cheburashkini，in 檔品牌欄空白）。"
+  "note": "官方全文需登入，內容依官方案例板文字（已打開看圖）、We and the Color、Red Dot 說明整理。官方報名分兩件（識別設計＝金獅、乳品包裝＝銅獅），讀稿以識別為主、包裝一併說明。已搜爭議：搜「Cheburashkini Brothers identity controversy／plagiarism」，沒有針對這組作品的造假、抄襲或撤獎指控。品牌名拼法各來源不同（案例板 Cheburashkini，in 檔品牌欄空白）。 2026-11-09 Opus 驗：官方識別（金）與包裝（銅）兩件報名屬同一套設計，合一件合理。"
  },
  {
   "id": "ltwm-07400",
@@ -105,7 +105,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依官方案例板文字（已打開看圖）、D&AD 作品說明、Borgen Project、VOA 與 The News Minute 整理。官方這件有五個獎項（創新金、產品設計金、健康與保健銀與銅、公關銅），entry_titles 皆為 LIFE SAVING DOT。已搜爭議：搜「Life Saving Dot Jeevan Bindi controversy／criticism／fake」，有學者與醫師指沒有臨床證據顯示有效、基金會未提供成果數據（VOA、The News Minute），但沒有被指造假、也未撤獎或下架；寫手判斷屬成效不確定，加【爭議】段，請驗收員確認是否改記 note。Borgen 稱「超過 30 萬名女性、100 個村落」、各報導說法不一，讀稿未寫。"
+  "note": "官方全文需登入，內容依官方案例板文字（已打開看圖）、D&AD 作品說明、Borgen Project、VOA 與 The News Minute 整理。官方這件有五個獎項（創新金、產品設計金、健康與保健銀與銅、公關銅），entry_titles 皆為 LIFE SAVING DOT。已搜爭議：搜「Life Saving Dot Jeevan Bindi controversy／criticism／fake」，有學者與醫師指沒有臨床證據顯示有效、基金會未提供成果數據（VOA、The News Minute），但沒有被指造假、也未撤獎或下架；寫手判斷屬成效不確定，加【爭議】段，請驗收員確認是否改記 note。Borgen 稱「超過 30 萬名女性、100 個村落」、各報導說法不一，讀稿未寫。 2026-11-09 Opus 驗：判斷：AIIMS 的 Pandav（The News Minute：沒有證據顯示有效、需做隨機對照試驗）與內分泌科醫師 Majumdar（VOA：沒有臨床證據）質疑的是產品核心功效、基金會拒絕公開數據，接近「成效不實／學者指內容誤導」，保留【爭議】段；但沒有造假或撤獎指控，列為【爭議】候選請主對話確認。抽查 VOA、The News Minute 與案例板，人名、150～220 微克、12% 吸收率說法一致；VOA 寫 30 片一條、免費發放，與讀稿「售價 10 盧比」（Borgen 說法）不同，未改，請留意。"
  },
  {
   "id": "ltwm-07401",
@@ -362,24 +362,34 @@
   "links": [
    "https://www.behance.net/gallery/25170669/Skittles-Youtube-the-Rainbow"
   ],
-  "decision": "不收",
-  "awards": [],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Radio",
+    "subcategory": "",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
   "awards_unverified": [],
   "category": "行銷案例",
   "idea_one_liner": "南非 Skittles 把粉絲在 YouTube 廣告底下留的正面留言，編成一首歌，做成粉絲寫詞的廣播廣告",
   "brand_display": "Skittles「YouTube the Rainbow」",
-  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜官方資料沒有查到這件作品的獲獎紀錄｜代理商：DDB Johannesburg\n\n【背景】Skittles 以古怪的電視廣告聞名。這些廣告在網路上出現時，粉絲會跑到 YouTube 留下正面留言，常常和廣告本身一樣瘋狂、出人意料，顯示他們對廣告與品牌的喜愛。\n\n【點子】DDB 南非把這些正面留言編成一首歌，做成一支由 Skittles 粉絲寫詞、風格歡快的廣播廣告。\n\n資料來源：\nhttps://dandad.org/awards/professional/2015/radio-advertising/24060/youtube-the-rainbow\nhttps://www.lovethework.com/work-awards/campaigns/skittles-223010",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 廣播類, Radio, Skittles, Wrigley, DDB, DDB Johannesburg, 糖果, 食品飲料, YouTube, 粉絲留言, 網友留言, 歌曲, 廣播, 南非, South Africa, 約翰尼斯堡",
+  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Radio類銀獅 Radio Silver Lion｜代理商：DDB SOUTH AFRICA Johannesburg\n\n【背景】Skittles 以古怪的電視廣告聞名。這些廣告放上網路後，粉絲會跑到 YouTube 留下正面留言，常常和廣告本身一樣瘋狂、出人意料，顯示他們對廣告與品牌的喜愛。\n\n【點子】DDB 南非把這些正面留言編成歌，做成一組由 Skittles 粉絲「寫詞」、風格歡快的廣播廣告。\n\n【執行】坎城得獎的是同一組三支廣播作品，作品名分別是《Country》（鄉村）、《Opera》（歌劇）與《Disney》（迪士尼），客戶為 Wrigley 旗下的 Skittles。三支實際唱了哪些留言、怎麼編曲，目前沒有可確認的文字，所以不寫。\n\n資料來源：\nhttps://dandad.org/awards/professional/2015/radio-advertising/24060/youtube-the-rainbow\nhttps://dandad.org/awards/professional/2015/radio-advertising/24058/disney\nhttps://www.bizcommunity.com/Article/196/111/130492.html\nhttps://www.yumda.com/en/news/1145675/mars-wins-record-19-awards-at-cannes-lions.html",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 廣播類銀獅, Radio Silver Lion, 廣播類, Radio, Skittles, Wrigley, DDB, DDB Johannesburg, 糖果, 食品飲料, YouTube, 粉絲留言, 網友留言, 歌曲, 廣播, 南非, South Africa, 約翰尼斯堡, Country, Opera, Disney, 鄉村, 歌劇, 迪士尼",
   "references": [
    "https://dandad.org/awards/professional/2015/radio-advertising/24060/youtube-the-rainbow",
-   "https://www.lovethework.com/work-awards/campaigns/skittles-223010"
+   "https://dandad.org/awards/professional/2015/radio-advertising/24058/disney",
+   "https://www.bizcommunity.com/Article/196/111/130492.html",
+   "https://www.yumda.com/en/news/1145675/mars-wins-record-19-awards-at-cannes-lions.html"
   ],
   "image_url": "",
   "image_shows": "",
   "text_source_level": 2,
   "uncertain": true,
-  "needs_audio": false,
-  "note": "不收：in 檔 official_awards 為空，Love the Work 的 Skittles 頁面打開後沒有內文，D&AD 只查到 2015 年 Radio 類木鉛筆；沒有在任何官方來源查到坎城獅子獎（只看到入圍或根本沒入圍）。查過：Love the Work 三個 Skittles 活動頁、D&AD、Reel Chicago（內容為 2018 年無關作品）。Behance 頁被擋沒打開。若主對話查到官方獲獎名單另有紀錄，請改回收並補寫。沒有找到音檔或逐字稿、沒有圖片。已搜爭議：搜「YouTube the Rainbow Skittles Cannes Lions 2015 radio」，沒有造假或撤獎相關資料。"
+  "needs_audio": true,
+  "note": "不收：in 檔 official_awards 為空，Love the Work 的 Skittles 頁面打開後沒有內文，D&AD 只查到 2015 年 Radio 類木鉛筆；沒有在任何官方來源查到坎城獅子獎（只看到入圍或根本沒入圍）。查過：Love the Work 三個 Skittles 活動頁、D&AD、Reel Chicago（內容為 2018 年無關作品）。Behance 頁被擋沒打開。若主對話查到官方獲獎名單另有紀錄，請改回收並補寫。沒有找到音檔或逐字稿、沒有圖片。已搜爭議：搜「YouTube the Rainbow Skittles Cannes Lions 2015 radio」，沒有造假或撤獎相關資料。 2026-11-09 Opus 驗：改回收：寫手判不收不符規則（只有坎城撤獎、全無內容、只入圍才不收）。查到坎城 2015 有得獎：Mars 2015/7/17 新聞稿列「SILVER / DDB South Africa / SKITTLES / Country, Disney, Opera」為 Radio Lions 銀獅；Bizcommunity 2015/6/24 得獎表列 COUNTRY、OPERA、DISNEY（WRIGLEY，DDB SOUTH AFRICA Johannesburg）皆為 Silver Lion Campaign；D&AD 2015 的 YouTube the Rainbow 與 Disney 條目描述相同，判定是同一組。in 檔 official 為空，【得獎】行與 awards 依上述兩個來源自組（subcategory 不明），請本機以官方得獎表核對。內容只有 D&AD 一段說明，三支歌詞與編曲缺，維持 uncertain。音檔：https://biz-file.com/f/1506/A01_002_00060_COUNTRY_-_Radio_3.mp3（Country，已確認 audio/mpeg），本機請用 whisper 轉寫後補寫。無圖（LTW 只有 audio 預留圖示）。"
  },
  {
   "id": "ltwm-07402",

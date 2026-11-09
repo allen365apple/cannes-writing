@@ -35,7 +35,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 內頁只有標題、沒有文字；內容依官方案例板（挑戰、點子、網站畫面，已逐一打開看過）、Salon 與 Shots 整理。案例板寫的募款目標是「$30 billion」，但板上網站畫面與 Salon 都是約 30 兆（29,811,746,430,000 美元），讀稿以 30 兆為準。案例板上的成效與媒體數字未寫入；網站的捐款獎勵細節（含玩笑性質的回饋）字太小，未寫入。已搜爭議：搜「Equal Pay Back Project Sarah Silverman controversy／fake／criticism」，沒有造假、抄襲、撤獎的報導；有 2014 年 10 月的跨性別議題批評（GLAAD 說這支片「missed the mark」，NWLC 與 Droga5 之後在網站補上跨性別歧視資料，Silverman 否認有意冒犯）、對統計數字的質疑、以及 2015 年 Silverman 另一則薪資軼事被喜劇俱樂部老闆反駁後道歉，都屬一般評論或同人另一事件，只寫 note、未寫進讀稿（這些只看到搜尋摘要、沒有逐篇打開，未寫入）。驗收員如認為跨性別批評算爭議，可補【爭議】段。"
+  "note": "官方 lovethework 內頁只有標題、沒有文字；內容依官方案例板（挑戰、點子、網站畫面，已逐一打開看過）、Salon 與 Shots 整理。案例板寫的募款目標是「$30 billion」，但板上網站畫面與 Salon 都是約 30 兆（29,811,746,430,000 美元），讀稿以 30 兆為準。案例板上的成效與媒體數字未寫入；網站的捐款獎勵細節（含玩笑性質的回饋）字太小，未寫入。已搜爭議：搜「Equal Pay Back Project Sarah Silverman controversy／fake／criticism」，沒有造假、抄襲、撤獎的報導；有 2014 年 10 月的跨性別議題批評（GLAAD 說這支片「missed the mark」，NWLC 與 Droga5 之後在網站補上跨性別歧視資料，Silverman 否認有意冒犯）、對統計數字的質疑、以及 2015 年 Silverman 另一則薪資軼事被喜劇俱樂部老闆反駁後道歉，都屬一般評論或同人另一事件，只寫 note、未寫進讀稿（這些只看到搜尋摘要、沒有逐篇打開，未寫入）。驗收員如認為跨性別批評算爭議，可補【爭議】段。 2026-11-09 Opus 驗：判斷：GLAAD 的跨性別批評、統計質疑屬一般評論，不是造假、抄襲、撤獎或成效不實，不加【爭議】。"
  },
  {
   "id": "ltwm-07394",
@@ -179,7 +179,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 三個內頁都沒有文字；內容依 B&T、Jezebel、D&AD 整理。這個影像是官方候選圖（非案例板文字版），只看到一格影片截圖，所以 image_shows 只描述畫面。Jezebel 稱新版為 a cappella，B&T 與其他來源沒這樣說，讀稿未寫。各來源的歌手名單略有出入（B&T 十人名單與 Jezebel 不完全相同），讀稿採 B&T。D&AD 與 B&T 的觸及與自我檢查比例等成效數字未寫入。官方獎項有 6 筆（金獅×2、銀獅、銅獅×3），in 檔全為健康與保健類。已搜爭議：搜「I Touch Myself Project Cancer Council NSW controversy／criticism／fake／withdrawn」，沒有造假或撤獎報導；有人針對電視廣告向澳洲廣告標準委員會（ASB）投訴性相關內容，已被駁回（案號 0195/14），屬一般評論，只寫 note、未寫入讀稿（只看到搜尋摘要）。"
+  "note": "官方 lovethework 三個內頁都沒有文字；內容依 B&T、Jezebel、D&AD 整理。這個影像是官方候選圖（非案例板文字版），只看到一格影片截圖，所以 image_shows 只描述畫面。Jezebel 稱新版為 a cappella，B&T 與其他來源沒這樣說，讀稿未寫。各來源的歌手名單略有出入（B&T 十人名單與 Jezebel 不完全相同），讀稿採 B&T。D&AD 與 B&T 的觸及與自我檢查比例等成效數字未寫入。官方獎項有 6 筆（金獅×2、銀獅、銅獅×3），in 檔全為健康與保健類。已搜爭議：搜「I Touch Myself Project Cancer Council NSW controversy／criticism／fake／withdrawn」，沒有造假或撤獎報導；有人針對電視廣告向澳洲廣告標準委員會（ASB）投訴性相關內容，已被駁回（案號 0195/14），屬一般評論，只寫 note、未寫入讀稿（只看到搜尋摘要）。 2026-11-09 Opus 驗：判斷：ASB 投訴已駁回，屬一般評論，不加【爭議】。"
  },
  {
   "id": "ltwm-07390",
@@ -205,21 +205,22 @@
   "category": "行銷案例",
   "idea_one_liner": "法國 Noemi 協會做實驗，孩子與大人隔著隔板，模仿螢幕上的鬼臉，結果只有孩子肯學多重障礙女孩",
   "brand_display": "法國 Noemi 協會（Association Noemi）",
-  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜健康與保健類金獅 Health & Wellness Gold Lion｜代理商：LEO BURNETT FRANCE Paris\n\n【背景】Noemi 是法國的一個協會，致力於讓大眾更能接納多重障礙者。Leo Burnett Paris 為它拍的影片來自 CB News 與 Google 合辦的創意競賽 Carte Blanche Digitale；影片名「孩子的眼睛」，要邀請大家用孩子的眼光看待差異。\n\n【點子】把「大人在面對障礙時的尷尬」直接做成一個現場實驗，讓大人與孩子在同一個遊戲裡，看誰會自然地接受一張和大家不同的臉。\n\n【執行】孩子與家長被一道隔板隔開，要模仿大螢幕上播出的各種臉孔表情。所有人一開始玩得很投入，直到螢幕出現一位多重障礙的女孩，她做了一個有趣的鬼臉。這時只有孩子跟著她做，家長則顯得太尷尬而沒有加入。實驗全程被拍下，剪成線上影片。以上依作品頁的說明整理。Leo Burnett Paris 的創意團隊包括創意總監 Xavier Beauregard、導演 Thomas Rhazi，由 Home Digital 與 Les Télécréateurs 製作。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/the-eyes-of-a-child-121510\nhttps://www.dandad.org/awards/professional/2015/outdoor-advertising/24683/the-eyes-of-a-child/\nhttps://www.adsoftheworld.com/campaigns/the-eyes-of-a-child\nhttps://www.cbnews.fr/node/12279\nhttps://www.journaldugeek.com/2014/12/03/noemi-les-yeux-dun-enfant/",
+  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜健康與保健類金獅 Health & Wellness Gold Lion｜代理商：LEO BURNETT FRANCE Paris\n\n【背景】Noemi 是法國的一個協會，致力於讓大眾更能接納多重障礙者。Leo Burnett Paris 為它拍的影片來自 CB News 與 Google 合辦的創意競賽 Carte Blanche Digitale；影片名「孩子的眼睛」，要邀請大家用孩子的眼光看待差異。\n\n【點子】把「大人在面對障礙時的尷尬」直接做成一個現場實驗，讓大人與孩子在同一個遊戲裡，看誰會自然地接受一張和大家不同的臉。\n\n【執行】2014 年 12 月 3 日國際身心障礙者日前後，團隊把家長和孩子請進一間學校，兩人並排坐在大螢幕前，中間隔著一道隔板，看不到對方的反應。螢幕依序出現各種鬼臉，請他們跟著模仿，大家都玩得很開心；直到畫面出現一位多重障礙的少女在做鬼臉，孩子照樣跟著做，家長卻沒有跟著做。全程被拍成約 2 分鐘、沒有對白的影片，結尾的訊息是「用孩子的眼睛看差異」。Noemi 協會以名譽主席 Olivier Delplanque 的女兒 Noémi 命名，她 5 個月大時因腦膜炎成為多重障礙者。影片由 Leo Burnett Paris 創意總監 Xavier Beauregard 帶隊、Thomas Rhazi 導演，Les Télécréateurs 製作。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/the-eyes-of-a-child-121510\nhttps://www.dandad.org/awards/professional/2015/outdoor-advertising/24683/the-eyes-of-a-child/\nhttps://www.adsoftheworld.com/campaigns/the-eyes-of-a-child\nhttps://www.cbnews.fr/node/12279\nhttps://informations.handicap.fr/a--7358.php\nhttps://informations.handicap.fr/a--7740.php",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 健康與保健類, Health & Wellness, 金獅, Gold Lion, Noemi 協會, Association Noemi, Noemi, LEO BURNETT FRANCE PARIS, Leo Burnett Paris, Leo Burnett, 公益, 非營利組織, 募款與倡議, Fundraising & Advocacy, 身心障礙, 多重障礙, Disability, 接納, 偏見, 孩子, 兒童, 社會實驗, Social Experiment, 現場實驗, 隱藏攝影機, 影片, 線上影片, 鬼臉, 模仿, 情感, 法國, France, 巴黎, Paris",
   "references": [
    "https://www.lovethework.com/en/work/entries/the-eyes-of-a-child-121510",
    "https://www.dandad.org/awards/professional/2015/outdoor-advertising/24683/the-eyes-of-a-child/",
    "https://www.adsoftheworld.com/campaigns/the-eyes-of-a-child",
    "https://www.cbnews.fr/node/12279",
-   "https://www.journaldugeek.com/2014/12/03/noemi-les-yeux-dun-enfant/"
+   "https://informations.handicap.fr/a--7358.php",
+   "https://informations.handicap.fr/a--7740.php"
   ],
-  "image_url": "https://i.ytimg.com/vi/GFVMe8w0Tx0/maxresdefault.jpg",
-  "image_shows": "影片截圖（取自 Journal du Geek 內嵌的這支影片）：一位閉著眼的中年女性臉部特寫，捲髮向四周散開，背景為灰藍色",
+  "image_url": "https://i.ytimg.com/vi/WB9UvjnYO90/maxresdefault.jpg",
+  "image_shows": "官方 YouTube 影片（THE EYES OF A CHILD // Noémi Association）縮圖：一個小女孩和一位母親並排坐著，中間隔著一道木隔板，兩人都用手指拉著臉做同一個鬼臉",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "uncertain：官方 case board 是一張灰色空白圖（已跳過）；官方 lovethework 內頁沒有文字。實驗的具體做法只有 D&AD 作品頁的簡短說明（隔板、大螢幕、鬼臉、只有孩子跟著做）一個來源，其他來源（Ads of the World、CB News、Journal du Geek）只有作品資料、獎項與「用孩子的眼睛看」的主旨，Leo Burnett 作品頁（La Réclame）回 403、Journal du Geek 內嵌的影片我沒有看過，細節（受測的人數與場地、現場是否為真實素人）無法確認，缺影片或第二個說明來源。圖：YouTube 縮圖是從 Journal du Geek 內嵌的影片取得，只看到一格女性臉部特寫，看不出這個點子，也無法確定是實驗中的畫面；需要有人補一張看得出隔板與螢幕的圖。D&AD 把這件放在 Outdoor 類，坎城獎項是健康與保健類，in 檔為準。已搜爭議：搜「Noemi The Eyes of a Child Leo Burnett Paris controversy／fake／staged」，沒有找到對這件作品的爭議報導（搜尋摘要未寫入）。"
+  "note": "uncertain：官方 case board 是一張灰色空白圖（已跳過）；官方 lovethework 內頁沒有文字。實驗的具體做法只有 D&AD 作品頁的簡短說明（隔板、大螢幕、鬼臉、只有孩子跟著做）一個來源，其他來源（Ads of the World、CB News、Journal du Geek）只有作品資料、獎項與「用孩子的眼睛看」的主旨，Leo Burnett 作品頁（La Réclame）回 403、Journal du Geek 內嵌的影片我沒有看過，細節（受測的人數與場地、現場是否為真實素人）無法確認，缺影片或第二個說明來源。圖：YouTube 縮圖是從 Journal du Geek 內嵌的影片取得，只看到一格女性臉部特寫，看不出這個點子，也無法確定是實驗中的畫面；需要有人補一張看得出隔板與螢幕的圖。D&AD 把這件放在 Outdoor 類，坎城獎項是健康與保健類，in 檔為準。已搜爭議：搜「Noemi The Eyes of a Child Leo Burnett Paris controversy／fake／staged」，沒有找到對這件作品的爭議報導（搜尋摘要未寫入）。 2026-11-09 Opus 驗：補來源 Handicap.fr 兩篇（2014/12/6、2015/5/29），寫明家長與孩子在學校、隔板、模仿螢幕鬼臉、多重障礙少女出現後只有孩子跟著做、影片 1 分 57 秒無對白，與 D&AD 說法一致，改寫【執行】並拿掉 uncertain。原圖 GFVMe8w0Tx0 經 oEmbed 查是 Mimi Foundation 另一支影片（Journal du Geek 內嵌錯片），不是本件，已換成官方影片 WB9UvjnYO90 的縮圖（已下載看過）；Journal du Geek 從來源移除。"
  },
  {
   "id": "ltwm-07391",
@@ -269,7 +270,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 case board（conversion/309701…）是 Time 雜誌引言字卡，看不出點子，改用同件 Social & Influencer 報名頁（meeting-murilo-110499）的官方圖；這張是「Meeting Isabela」版本的圖，不是 Murilo 本人，已在 image_shows 寫明，需要的話可換成影片截圖。YouTube 縮圖取不到。官方內頁沒有文字；內容依 Great Bend Tribune（轉述 3DPrint.com 與 CNET）、NBC News 整理。懷孕週數兩邊說法不同（Tribune 說 20 週、NBC 說約五個月），讀稿寫「懷孕中期」。NBC 稱「3-D mold」，讀稿採 Tribune 的 3D 列印說法。Shoot 另提到續集「Murilo’s First 100 Days」，是別支作品，未寫入。in 檔品牌欄寫 HUGGIES，官方為 KIMBERLY CLARK／HUGGIES。觸及與播放數、媒體價值、其他獎項未寫入。已搜爭議：搜「Huggies Meeting Murilo controversy／fake／criticism」，沒有找到造假、抄襲或撤獎報導（搜尋摘要未寫入）。"
+  "note": "官方 case board（conversion/309701…）是 Time 雜誌引言字卡，看不出點子，改用同件 Social & Influencer 報名頁（meeting-murilo-110499）的官方圖；這張是「Meeting Isabela」版本的圖，不是 Murilo 本人，已在 image_shows 寫明，需要的話可換成影片截圖。YouTube 縮圖取不到。官方內頁沒有文字；內容依 Great Bend Tribune（轉述 3DPrint.com 與 CNET）、NBC News 整理。懷孕週數兩邊說法不同（Tribune 說 20 週、NBC 說約五個月），讀稿寫「懷孕中期」。NBC 稱「3-D mold」，讀稿採 Tribune 的 3D 列印說法。Shoot 另提到續集「Murilo’s First 100 Days」，是別支作品，未寫入。in 檔品牌欄寫 HUGGIES，官方為 KIMBERLY CLARK／HUGGIES。觸及與播放數、媒體價值、其他獎項未寫入。已搜爭議：搜「Huggies Meeting Murilo controversy／fake／criticism」，沒有找到造假、抄襲或撤獎報導（搜尋摘要未寫入）。 2026-11-09 Opus 驗：官方 conversion 圖是 TIME 引言字卡（已下載看過），不用合理；現用圖是 Meeting Isabela 版本，非本件主角，圖不理想。"
  },
  {
   "id": "ltwm-07389",
@@ -441,6 +442,6 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 case board 候選是全黑／單色的分鏡圖（已跳過）；圖片用官方 YouTube 影片（IkNlGuW-0g8）的 sddefault 縮圖（640×480，maxres 沒有），已打開看過，看得出點子。官方內頁沒有文字；內容依 Adweek 兩篇（後半被付費牆擋、只讀到概念）、Arabian Marketer、官方影片縮圖。來源都沒寫完整的系列內容（共幾張、各國女性、每張的搜尋字詞），讀稿與一句話只寫看得到的這一張，需要的話請驗收員補其他張。Creative Effectiveness 報名的是 2013 年原宣導的成效，成效數字（Twitter、媒體聲量、Google 取消部分建議）依規則未寫入。已搜爭議：搜「UN Women Autocomplete Truth controversy／fake／staged／criticism」，沒有造假、抄襲或撤獎報導；有社會學者的部落格質疑團隊是否只挑最極端的建議、搜尋是在美國以外做的（建議因地區而異），屬一般評論，只寫 note、未寫入（只看到搜尋摘要）。"
+  "note": "官方 case board 候選是全黑／單色的分鏡圖（已跳過）；圖片用官方 YouTube 影片（IkNlGuW-0g8）的 sddefault 縮圖（640×480，maxres 沒有），已打開看過，看得出點子。官方內頁沒有文字；內容依 Adweek 兩篇（後半被付費牆擋、只讀到概念）、Arabian Marketer、官方影片縮圖。來源都沒寫完整的系列內容（共幾張、各國女性、每張的搜尋字詞），讀稿與一句話只寫看得到的這一張，需要的話請驗收員補其他張。Creative Effectiveness 報名的是 2013 年原宣導的成效，成效數字（Twitter、媒體聲量、Google 取消部分建議）依規則未寫入。已搜爭議：搜「UN Women Autocomplete Truth controversy／fake／staged／criticism」，沒有造假、抄襲或撤獎報導；有社會學者的部落格質疑團隊是否只挑最極端的建議、搜尋是在美國以外做的（建議因地區而異），屬一般評論，只寫 note、未寫入（只看到搜尋摘要）。 2026-11-09 Opus 驗：補搜「autocomplete truth criticism misleading cherry-picked」：只找到部落客質疑方法、訪談裡有人問是否挑過結果、Adweek 自己試搜部分結果相近，沒有學者或主管機關指內容誤導，不加【爭議】。抽查官方 YouTube 縮圖（oEmbed 確認是 UN Women 官方影片）與讀稿描述一致。"
  }
 ]
