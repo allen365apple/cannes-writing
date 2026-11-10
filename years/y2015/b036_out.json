@@ -45,7 +45,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 頁只有基本資料，點子與畫面依官方案例板、攝影師作品集與 Ads of the World 列表整理；案例板只看到清邁瀑布這張，BEACH、MOUNTAIN 兩張未見畫面，讀稿只依官方作品名提到。依作品畫面解讀，無完整文字說明。背景一句取自 2018 續集的報導（The Drum、BrandKnew 對『平日人少』的說法），已在讀稿標明是續集。已搜爭議：Thai AirAsia weekdays BBDO controversy／fake／plagiarism／copied／photoshop，沒有找到；搜尋結果出現的 2019 年 AirAsia 布里斯本廣告被批促進性旅遊，是別支作品，不算。搜尋摘要未寫入。攝影師作品集頁（ekarat.myportfolio.com）用 WebFetch 打開過、有列創意團隊，但程式用 curl 會 404。"
+  "note": "官方 lovethework 頁只有基本資料，點子與畫面依官方案例板、攝影師作品集與 Ads of the World 列表整理；案例板只看到清邁瀑布這張，BEACH、MOUNTAIN 兩張未見畫面，讀稿只依官方作品名提到。依作品畫面解讀，無完整文字說明。背景一句取自 2018 續集的報導（The Drum、BrandKnew 對『平日人少』的說法），已在讀稿標明是續集。已搜爭議：Thai AirAsia weekdays BBDO controversy／fake／plagiarism／copied／photoshop，沒有找到；搜尋結果出現的 2019 年 AirAsia 布里斯本廣告被批促進性旅遊，是別支作品，不算。搜尋摘要未寫入。攝影師作品集頁（ekarat.myportfolio.com）用 WebFetch 打開過、有列創意團隊，但程式用 curl 會 404。 2026-11-10 Opus 驗：程式報 404 的攝影師作品集頁重測回 200，保留。"
  },
  {
   "id": "ltwm-07540",
@@ -118,12 +118,12 @@
    "https://techcrunch.com/2015/06/08/phoneaddress/",
    "https://www.directnewideas.com/magazine/ddb_brussels_base_phoneaddresstm/?id=1810"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://assets.directnewideas.com/9805l.jpg",
+  "image_shows": "App 畫面照：手機上寫著「Gavin is nearby」「THIS IS GAVIN」，顯示外送員的大頭照與「CALL COURIER」按鈕，背景是餐桌",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "找不到好圖：lovethework 沒有候選圖，Vimeo 連結被擋（驗證頁），TechCrunch og:image 404，DDB／BASE 官方頁沒開到可用圖，image_url 留空。官方 lovethework 與 Ads of the World 打不開（405）；文字依 Media Marketing（法文）、TechCrunch、Direct New Ideas 整理。成效數字（網站造訪、媒體報導）未寫。官方作品名為 BASE PHONEADDRESS。已搜爭議：BASE PhoneAddress DDB Brussels controversy／fake／fraud／withdrawn，沒找到。搜尋摘要未寫入。"
+  "note": "找不到好圖：lovethework 沒有候選圖，Vimeo 連結被擋（驗證頁），TechCrunch og:image 404，DDB／BASE 官方頁沒開到可用圖，image_url 留空。官方 lovethework 與 Ads of the World 打不開（405）；文字依 Media Marketing（法文）、TechCrunch、Direct New Ideas 整理。成效數字（網站造訪、媒體報導）未寫。官方作品名為 BASE PHONEADDRESS。已搜爭議：BASE PhoneAddress DDB Brussels controversy／fake／fraud／withdrawn，沒找到。搜尋摘要未寫入。 2026-11-10 Opus 驗：補圖，用 Direct New Ideas 報導裡的 App 畫面照（外送員快到時顯示他的照片），已下載確認；TechCrunch 事實抽查相符（Royal Delivery、照片互認、無額外費用）。"
  },
  {
   "id": "ltwm-07531",
@@ -193,7 +193,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "布拉格同志大遊行做了加密社群 App，讓同性戀受壓迫國家的人，配對現場遊行者當分身，遠端傳訊息指揮他代為參加",
+  "idea_one_liner": "布拉格同志大遊行做了加密 App，身在打壓同志國家的人，可配對一位現場遊行者當分身，遠端傳訊指揮他替自己遊行",
   "brand_display": "Prague Pride",
   "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銀獅 Mobile Silver Lion、媒體類銅獅 Media Bronze Lion｜代理商：GEOMETRY GLOBAL Prague / OGILVY & MATHER PRAGUE\n\n【背景】捷克與布拉格在前東歐集團中算是寬容的綠洲，但在其他東歐與周邊國家，同性戀是違法或受歧視的。布拉格同志大遊行（Prague Pride）2014 年想讓這些國家的人也能參加遊行，同年也是俄羅斯通過反同性戀宣傳法律的時期。\n\n【點子】既然人到不了現場，就讓現場的人當他的分身：遊行者註冊成為「LGBTavatar」，代替另一個國家的人走上街頭。\n\n【執行】Geometry Global Prague（與 Ogilvy & Mather Prague）構想，Adikt Mobile 做了網站與手機 App，一個專門的社群網路。遊行者在 LGBTavatars 網站註冊、不用留個人資料，就會和東方國家的一位同志配對。遊行時，兩人透過 App 交換訊息、照片與短影片，遠方的人還能下指令，例如喊口號，由分身照做；沒有配對的人可以看網站上的公開直播。通訊受到保護，案例板寫著使用美國政府等級的 256 位元 AES 加密，訊息匿名投射在遊行現場的大螢幕上，分身也舉著手工製作的標語牌，替遠方的人喊話；有一說法是 App 設有「緊急清除」功能，讓使用者在擔心被當局查看手機時立刻刪光資料。宣傳在社群網站（含俄羅斯的 VKontakte）、寄信給東歐社群與在 Twitter 找名人。\n\n資料來源：\nhttps://www.mediaguru.cz/clanky/2014/08/prague-pride-2014-spustila-kampan-lgbt-avatars\nhttps://www.selfstorming.com/tools/libraries/campaigns/prague-pride-lgbt-avatars\nhttps://www.lovethework.com/en/work/entries/lgbt-avatars-107222\nhttps://ascentialcdn.filespin.io/api/v1/conversion/c383ef6dc4324f42d4a5a8203f3a10b4",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 行動類, Mobile, 銀獅, Silver Lion, 媒體類, Media, 銅獅, Bronze Lion, 行動裝置運用, Use of Mobile Devices, Prague Pride, 布拉格驕傲, GEOMETRY GLOBAL, Geometry, OGILVY & MATHER, Ogilvy, 公益, 非營利, LGBT, 同志, 人權, 遊行, Parade, App, 行動應用, 社群網路, 加密, 分身, Avatar, 遠端參與, 捷克, Czech Republic, Adikt Mobile",
@@ -209,7 +209,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 頁只有基本資料；案例板文字（Idea、Execution）加上 Mediaguru、Selfstorming 整理。『緊急清除』與『22 國、俄羅斯法律』等說法來自 Selfstorming（非官方），讀稿以『有一說法』帶過。成效（參與人數、22 國等）與其他獎項未寫。已搜爭議：LGBT Avatars Prague Pride controversy／fake／criticism／fraud Geometry，沒找到針對此作品的指控；搜尋出現的是 2011 年 Prague Pride 的政治爭論，不算。"
+  "note": "官方 lovethework 頁只有基本資料；案例板文字（Idea、Execution）加上 Mediaguru、Selfstorming 整理。『緊急清除』與『22 國、俄羅斯法律』等說法來自 Selfstorming（非官方），讀稿以『有一說法』帶過。成效（參與人數、22 國等）與其他獎項未寫。已搜爭議：LGBT Avatars Prague Pride controversy／fake／criticism／fraud Geometry，沒找到針對此作品的指控；搜尋出現的是 2011 年 Prague Pride 的政治爭論，不算。 2026-11-10 Opus 驗：一句話改順（原句「同性戀受壓迫國家的人」不通順）。",
+  "idea_one_liner_r0": "布拉格同志大遊行做了加密社群 App，讓同性戀受壓迫國家的人，配對現場遊行者當分身，遠端傳訊息指揮他代為參加"
  },
  {
   "id": "ltwm-07538",
@@ -256,7 +257,7 @@
   "text_source_level": 3,
   "uncertain": false,
   "needs_audio": false,
-  "note": "依作品畫面解讀，加上 The Beijinger 對概念的簡述；官方與 Ads of the World 沒有文字說明，Campaign Brief Asia 連不上。只看到披薩外送員這張，另兩張畫面未見。The Beijinger（2015-04-03）批評這組廣告不夠真實、不知道在賣什麼，也說自己沒看到實際刊出，推測可能是愚人節玩笑或概念測試，這只是個人質疑，沒有人指控造假或撤獎，Ads of the World 記載 2015 年 4 月在中國刊出，故不寫【爭議】。已搜爭議：Beijing Subway Grey Get There Faster controversy／scam／fake／withdrawn／spec，沒有找到造假、撤獎的報導。搜尋摘要未寫入。"
+  "note": "依作品畫面解讀，加上 The Beijinger 對概念的簡述；官方與 Ads of the World 沒有文字說明，Campaign Brief Asia 連不上。只看到披薩外送員這張，另兩張畫面未見。The Beijinger（2015-04-03）批評這組廣告不夠真實、不知道在賣什麼，也說自己沒看到實際刊出，推測可能是愚人節玩笑或概念測試，這只是個人質疑，沒有人指控造假或撤獎，Ads of the World 記載 2015 年 4 月在中國刊出，故不寫【爭議】。已搜爭議：Beijing Subway Grey Get There Faster controversy／scam／fake／withdrawn／spec，沒有找到造假、撤獎的報導。搜尋摘要未寫入。 2026-11-10 Opus 驗：重讀 The Beijinger 原文：只說「還沒在任何地方看到」、可能是愚人節玩笑或概念測試，沒有指控造假，維持不寫【爭議】，列為【爭議】候選回報主對話。"
  },
  {
   "id": "ltwm-07534",
@@ -342,7 +343,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "找不到好圖：lovethework 沒有候選圖，Eurobest 頁的 og:image 只是活動標誌，Liseberg 官方頁 404，image_url 留空。文字依 Eurobest 得獎頁（該頁標的是 2014 年 Eurobest 的同一支作品，內容吻合）；lovethework 兩個頁面只有基本資料。成效數字（下載、遊戲次數、回訪率）未寫。已搜爭議：Liseberg Helix Fun Queue game Shout controversy／fake／withdrawn／fraud，沒找到；有論壇留言說新的排隊區讓遊戲停用，無官方來源，不算。搜尋摘要未寫入。"
+  "note": "找不到好圖：lovethework 沒有候選圖，Eurobest 頁的 og:image 只是活動標誌，Liseberg 官方頁 404，image_url 留空。文字依 Eurobest 得獎頁（該頁標的是 2014 年 Eurobest 的同一支作品，內容吻合）；lovethework 兩個頁面只有基本資料。成效數字（下載、遊戲次數、回訪率）未寫。已搜爭議：Liseberg Helix Fun Queue game Shout controversy／fake／withdrawn／fraud，沒找到；有論壇留言說新的排隊區讓遊戲停用，無官方來源，不算。搜尋摘要未寫入。 2026-11-10 Opus 驗：再找圖：Eurobest 頁只有活動標誌、Liseberg 新聞室 og:image 是隔年 AeroSpin，搜不到 Helix 遊戲的案例影片，仍無圖。Eurobest 原文抽查相符（每 15 分鐘最高分者走 VIP 通道免排隊）。"
  },
  {
   "id": "ltwm-07535",
@@ -368,20 +369,21 @@
   "awards_unverified": [],
   "idea_one_liner": "美國服飾 Gap 在 Instagram 連載十二集十五秒短劇，演一對在多變春天談戀愛的情侶",
   "brand_display": "Gap",
-  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銀獅 Mobile Silver Lion｜代理商：WIEDEN+KENNEDY New York\n\n【背景】Gap 要宣傳春季系列，商品包括貼身的 Resolution Denim、新款 Spring Khaki 與 Jogger Pants。\n\n【點子】不拍一般的廣告，而是在 Instagram 上推出品牌第一個「微影集」（micro-series），用連續劇的方式讓人每週追下一集，主題是「春天很怪」（Spring Is Weird）。\n\n【執行】Gap 與 Wieden+Kennedy 紐約合作，找 The Daniels 執導，共十二支十五秒的短片，在春季每週放出一集。內容是一對偶然相遇的情侶，去初次約會，還得面對說變就變的春天天氣；兩人漸漸分不清什麼是真實、什麼是數位「內容」，開始懷疑自己的生活是不是不完全屬於自己。主角是喜劇演員 Jenny Slate（《Marcel the Shell》創作者）與獨立電影演員 Paul Dano，他在這次第一次演商業廣告。這是最早使用 Instagram 新的影片自動重播功能的活動之一；短片也放在 YouTube 與交友網站、App 上，另外搭配 #APerfectFit 試穿活動，以及平面與網路廣告。官方報名行動類銀獅，作品名 #SPRINGISWEIRD。\n\n資料來源：\nhttps://www.gapinc.com/en-us/articles/2015/02/gap-celebrates-spring-in-its-first-ever-%E2%80%98micro-ser\nhttps://www.adweek.com/performance-marketing/gap-instagram-videos-spring-is-weird/\nhttps://www.youtube.com/watch?v=iCZx6MHZ5bM",
+  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銀獅 Mobile Silver Lion｜代理商：WIEDEN+KENNEDY New York\n\n【背景】Gap 要宣傳春季系列，商品包括貼身的 Resolution Denim、新款 Spring Khaki 與 Jogger Pants。\n\n【點子】不拍一般的廣告，而是在 Instagram 上推出品牌第一個「微影集」（micro-series），用連續劇的方式讓人每週追下一集，主題是「春天很怪」（Spring Is Weird）。\n\n【執行】Gap 與 Wieden+Kennedy 紐約合作，找 The Daniels 執導，共十二支十五秒的短片，在春季每週放出一集。內容是一對偶然相遇的情侶，去初次約會，還得面對說變就變的春天天氣；兩人漸漸分不清什麼是真實、什麼是數位「內容」，開始懷疑自己的生活是不是不完全屬於自己。主角是喜劇演員 Jenny Slate（《Marcel the Shell》創作者）與獨立電影演員 Paul Dano，他在這次第一次演商業廣告。這是最早使用 Instagram 新的影片自動重播功能的活動之一；短片也放在 YouTube 與交友網站、App 上，另外搭配 #APerfectFit 試穿活動，以及平面與網路廣告。官方報名行動類銀獅，作品名 #SPRINGISWEIRD。\n\n資料來源：\nhttps://www.gapinc.com/en-us/articles/2015/02/gap-celebrates-spring-in-its-first-ever-%E2%80%98micro-ser\nhttps://www.adweek.com/performance-marketing/gap-instagram-videos-spring-is-weird/\nhttps://www.youtube.com/watch?v=iCZx6MHZ5bM\nhttps://martech.org/gap-launches-springisweird-micro-series-instagram/",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 行動類, Mobile, 銀獅, Silver Lion, Gap, WIEDEN+KENNEDY, Wieden+Kennedy, Wieden+Kennedy New York, 服飾, 時尚, 春季系列, Instagram, 社群, 社群平台, 微影集, Micro-series, 短影音, 連續劇, 系列影片, 十五秒, 循環播放, Loop, 戀愛, 愛情故事, Jenny Slate, Paul Dano, The Daniels, SpringIsWeird, 美國, United States",
   "category": "行銷案例",
   "references": [
    "https://www.gapinc.com/en-us/articles/2015/02/gap-celebrates-spring-in-its-first-ever-%E2%80%98micro-ser",
    "https://www.adweek.com/performance-marketing/gap-instagram-videos-spring-is-weird/",
-   "https://www.youtube.com/watch?v=iCZx6MHZ5bM"
+   "https://www.youtube.com/watch?v=iCZx6MHZ5bM",
+   "https://martech.org/gap-launches-springisweird-micro-series-instagram/"
   ],
-  "image_url": "https://i.ytimg.com/vi/iCZx6MHZ5bM/hqdefault.jpg",
-  "image_shows": "官方案例影片縮圖（低解析度）：公園長椅上一名留鬍子的男子翹腳坐著，畫面上寫著「Spring is breakups.」，右上角有 Cannes Lions 標誌",
+  "image_url": "https://martech.org/wp-content/uploads/2015/02/Gap_Spring_Is_Weird_Episode_1.jpg",
+  "image_shows": "第一集短片畫面（檔名 Episode_1）：Jenny Slate 在臥室鏡子前穿牛仔褲，右上角粉紅字「Spring is weird.」",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "圖是官方 YouTube 案例影片的 hqdefault 縮圖（maxresdefault 404），解析度低（480x360）、看不出整個點子，只算勉強可用；官方連結的影片本身沒有打開看內容（YouTube），文字依 Gap 官方新聞稿與 Adweek。lovethework 沒有候選圖。Gap 官方新聞稿的網址原本含彎引號，已改成百分比編碼。成效數字與其他獎項未寫。已搜爭議：Gap #SpringIsWeird Cannes Silver Lion controversy／fake／withdrawn Tinder removed，沒有造假、撤獎之類的指控；搜尋結果顯示活動中另外幫角色開的 Tinder 個人檔案被 Tinder 移除（Tinder 說是違反服務條款），這屬於活動執行層面的糾紛，不是造假或抄襲，因沒打開原頁，只寫在 note，未寫入讀稿。搜尋摘要未寫入。"
+  "note": "圖是官方 YouTube 案例影片的 hqdefault 縮圖（maxresdefault 404），解析度低（480x360）、看不出整個點子，只算勉強可用；官方連結的影片本身沒有打開看內容（YouTube），文字依 Gap 官方新聞稿與 Adweek。lovethework 沒有候選圖。Gap 官方新聞稿的網址原本含彎引號，已改成百分比編碼。成效數字與其他獎項未寫。已搜爭議：Gap #SpringIsWeird Cannes Silver Lion controversy／fake／withdrawn Tinder removed，沒有造假、撤獎之類的指控；搜尋結果顯示活動中另外幫角色開的 Tinder 個人檔案被 Tinder 移除（Tinder 說是違反服務條款），這屬於活動執行層面的糾紛，不是造假或抄襲，因沒打開原頁，只寫在 note，未寫入讀稿。搜尋摘要未寫入。 2026-11-10 Opus 驗：原圖 480×360 太小，換成 Marketing Land（martech.org）報導的第一集畫面（1679×942），已下載確認；該文事實抽查相符（12 集、15 秒、The Daniels、Jenny Slate 與 Paul Dano、W+K 紐約、每週一集），也證實 Tinder 說要刪除 Gap 的角色檔案（違反服務條款），依規則不算爭議。"
  },
  {
   "id": "ltwm-07536",
@@ -419,7 +421,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "Freddo 冰淇淋的海報，小女孩笑得開心，手臂卻正被針筒注射，用打針也開心的反差，推銷冰淇淋的快樂",
+  "idea_one_liner": "阿根廷冰淇淋店 Freddo 的海報，小女孩被針筒扎著手臂，卻對鏡頭笑得燦爛，用打針也開心的反差，暗示冰淇淋的快樂",
   "brand_display": "Freddo",
   "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銀獅 Outdoor Silver Lion×2、Press類銀獅 Press Silver Lion｜代理商：Y&R SÃO PAULO\n\n【點子】依海報畫面判斷：冰淇淋品牌 Freddo 把「打針」這個孩子最怕的場面，拍成孩子笑得很開心的樣子，用反差表現 Freddo 冰淇淋帶來的快樂。\n\n【執行】官方報名作品名為 LITTLE GIRL，Y&R 聖保羅製作，同時得到 Press 類銀獅與兩座戶外類銀獅。這次打開的案例板畫面是一張攝影海報：一個綁著馬尾的小女孩，穿淺藍色 polo 衫，對著鏡頭笑得燦爛，旁邊戴著白色手套的雙手把針筒扎進她的手臂，背景是模糊的診間，右上角是「Freddo ICE CREAM」橢圓標誌。海報上沒有其他文字。因為找不到任何文字說明，上面對『為什麼笑』的解讀是依畫面推測，不是官方說法。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/little-girl-134014\nhttps://www.bizcommunity.com/Article/196/111/130415.html\nhttps://ascentialcdn.filespin.io/api/v1/conversion/a6449d8070d64acd8d1651899085aa4c",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 戶外類, Outdoor, Press類, Press, 銀獅, Silver Lion, Freddo, Y&R SÃO PAULO, Y&R, 食品, 甜點, 冰淇淋, Ice Cream, 平面廣告, 戶外廣告, 海報, 攝影, 小女孩, 小孩, 兒童, 打針, 針筒, 注射, 診間, 手套, 反差, 幽默, 巴西, Brazil",
@@ -434,6 +436,7 @@
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": false,
-  "note": "uncertain：找不到文字說明，點子的『冰淇淋讓孩子連打針都開心』是依畫面推測。lovethework 卡片、Bizcommunity 得獎表只有基本資料，Luerzer's Archive 被擋、Ads of the World 與 Poster House 搜到的 Freddo 是別支作品（Boyfriend 等，2018），不採用；缺的是代理商或品牌對這件作品的說明。依作品畫面解讀，無文字說明。已搜爭議：Freddo Little Girl Y&R São Paulo Cannes 2015 controversy／fake／spec／scam，沒找到任何相關報導。搜尋摘要未寫入。"
+  "note": "uncertain：找不到文字說明，點子的『冰淇淋讓孩子連打針都開心』是依畫面推測。lovethework 卡片、Bizcommunity 得獎表只有基本資料，Luerzer's Archive 被擋、Ads of the World 與 Poster House 搜到的 Freddo 是別支作品（Boyfriend 等，2018），不採用；缺的是代理商或品牌對這件作品的說明。依作品畫面解讀，無文字說明。已搜爭議：Freddo Little Girl Y&R São Paulo Cannes 2015 controversy／fake／spec／scam，沒找到任何相關報導。搜尋摘要未寫入。 2026-11-10 Opus 驗：補搜「Freddo vacina menina Y&R」「Freddo Little Girl injection」、Ads of the World、Folha Vitória（403）都沒有這件的文字說明，只確認 Y&R 替 Freddo 拿 Press 銀獅；仍 uncertain，缺代理商或品牌說明。一句話補品牌身分。",
+  "idea_one_liner_r0": "Freddo 冰淇淋的海報，小女孩笑得開心，手臂卻正被針筒注射，用打針也開心的反差，推銷冰淇淋的快樂"
  }
 ]

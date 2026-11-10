@@ -86,3 +86,12 @@
 - 仍 uncertain：b030 07470 PSYCHOLOGIST, DOCTOR（缺兩支片劇情）；b031 07481 JACKPOT（缺完整劇情）；b032 07498 BREAKDANCE（缺劇情）；b032 07506 KY TOUCH（廣播，需本機轉寫，音檔頁 adsspot k-y-man-boobs）。
 - 圖：沒圖 07497 BEAUTY GREW ALL AROUND、07506 KY TOUCH；圖偏小 07477（480×360）、Weedol、CROCODILE；07499 MAYA 是製作過程畫面；07882 JUNKFACE 有意不用官方字卡板。
 - 重複候選 0（07476 IMAGINE 與 07636 IMAGINATION MACHINE 是同活動的影片與裝置，不算重複）；【爭議】0；撤獎 0。
+
+## 2026-11-11 雲端第 1 輪 b033 b034 b035（Sonnet 寫、Opus 驗）
+- 不收待確認：b035 07597 DOGS DON'T JUDGE（Pedigree 廣播 LOTTERY、WHACK JOB），雲端找不到腳本或音檔（Clio 音檔要登入），寫手判不收、驗收員維持；建議本機找音檔轉寫後改收。
+- 跨年重複候選：b033 07510 THE HAIR FEST，同一場活動 2014 年已得 Promo、PR 銀獅，2015 再得健康類獎；請本機確認 2014 是否已收。
+- 拆筆建議：b034 07629 Taco Bell 早餐上市，官方另有影片類銅獅「Routine Republic」是另一支、另一個點子，驗收員建議拆成兩筆（decision 未改）。b035 07601 SETTLE IT 另有廣播銅獅（CLONES、TWO HEAD ED），找不到內容，暫併本筆，要不要另立一筆請決定。
+- 撤獎疑慮已排除：b033 07504、07854（AlmapBBDO／拜耳），2016 年撤的是當年作品，lovethework 仍標 2015 得獎，照收。
+- 仍 uncertain：b033 07509 Menzis PERSEVERE（缺影片情節）；b034 07801 #BESTDAYEVER（Chevrolet，查不到官方類別，【得獎】行是暫寫）；b035 07597（見上）。
+- 圖：b033 07509 用 YouTube 縮圖、07814 用 Ads of the World 海報（官方板太小或全黑）；b035 SNICKERS WRITE-OFF、BRADY BUNCH 圖偏小；b034 07801 用 Shorty 案例板。
+- 【爭議】0；撤獎 0。
