@@ -1,13 +1,13 @@
-*坎城雲端寫稿｜2015 第 5 輪（11/10 02:10）*
-• 這輪寫完並驗收：b019～b025，共 7 批 70 件（全收）
-• 這輪寫到的作品（舉 3～5 件）：UN Women〈Give Mom Back Her Name〉、Lowe's〈Tap Thru〉、Mercedes-Benz Japan〈Crossword Targeting〉、DirecTV〈Cable Effects〉、GRAACC〈Bald Cartoons〉
-• 2015 進度：已完成 32／70 批，剩 38 批（另 b059～b065 本機認領）
-• 待決新增：33 件（重複候選 1、爭議 2、uncertain 12、圖不理想 15、待核對 3）
-  • 重複：Netflix〈Data GIF〉07424 和 b069〈Netflix GIF Campaign〉是同一個活動，建議留 07424
-  • 爭議：Life Saving Dot（醫師說沒效）、Superpower for Hire（受訪記者不知情），都保留爭議段，請確認
-  • 07590 Skittles 廣播：寫手原判不收，驗收員找到銀獅紀錄改回收，得獎行請對官方名單
-  • 07729 Heineken〈The Hero〉疑似寫錯支（寫到 2016 年那支），請確認
-• 問題：寫手無違規
-  • 驗收員自報誤下一次只讀的 git 指令，沒改任何東西
-  • 多個廣告媒體網站擋連線（LBB、Campaign、The Drum 等），改用其他來源，不影響收件
-• 預計：照一天 14 批，剩下約 3 天寫完（11/13 左右），接著寫 2014（隊伍裡沒有，等本機做前置）
+*坎城雲端寫稿｜2015 第 6 輪（11/10 14:12）*
+• 這輪寫完並驗收：b026～b032，共 7 批 70 件（全收）
+• 這輪寫到的作品（舉 3～5 件）：Airbnb〈Airbnb Rebrand〉、Oatly〈Wow! No Cow!〉、Sainsbury's〈1914 Truce〉、Volkswagen〈Custom-Made Commercial〉、國際特赦組織〈Mutant Font〉
+• 2015 進度：已完成 39／70 批，剩 31 批（b033～b058、b066～b070）
+• 待決新增：12 件（爭議 2、改收待確認 2、uncertain 9 有重疊、圖錯 1；另圖沒圖或不理想約 10 件）
+  • 爭議：Oatly 被瑞典法院判行銷貶低牛奶（驗收員新加）、Airbnb 新標誌被指像別家公司，請確認算不算
+  • 改收：JACKPOT、CUSTOM-MADE COMMERCIAL 寫手原判不收，驗收員找到來源改收，請確認
+  • 07800 Greenpeace〈Petroleum Hurts〉輸入檔的候選圖是別支作品（紅酒熊），稿子已改用正確的圖，建議修輸入來源
+  • 待本機聽音檔補寫：07896、07776、07506
+• 問題：寫手、驗收員都沒有違規
+  • b028 寫手沒逐件重讀，驗收員已逐件看過並修 3 件
+  • 多個廣告媒體網站擋連線（LBB、Campaign、The Drum、AdForum 等），改用其他來源，不影響收件
+• 預計：照一天 14 批，剩下約 2.5 天寫完（11/12 左右），接著寫 2014（隊伍裡沒有，等本機做前置）
