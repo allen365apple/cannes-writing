@@ -78,3 +78,11 @@
 - 仍 uncertain：b026 07896 MY LAST DAY（廣播／影片旁白，需本機轉寫 youtube vez8q-LA37s）；b028 07776 WASP SPIDER/SNAIL/PANDA（廣播，siren mp3 待轉寫）；b027 07921 STORY OF A SPOON（缺影片內容）；b028 07926 THE PEOPLE'S FILM（只有徵集報導，缺成片內容）；b028 07762 TERMINAL VELOCITY（巧思只能從畫面推測）。
 - 圖：沒圖 07926、07776；圖不理想 07921（只有地球縮圖）、07467 DISHES（已換中段影格，但只有 480×360）、PROTOTYPE（YouTube 縮圖很小）。
 - 撤獎 0；重複候選 0。
+
+## 2026-11-10 雲端第 2 輪 b030 b031 b032（Sonnet 寫、Opus 驗）
+- 改收待確認：b031 07481 JACKPOT、b032 07493 CUSTOM-MADE COMMERCIAL，寫手因找不到內容判不收，驗收員找到來源（美術指導作品頁＋Vimeo 報名影片；Clube de Criação＋One Show 作品頁）依規則改收。07481 仍缺完整劇情。
+- 寫錯支疑慮已排除：b030 07717 5X5 FILM PROJECT（THE WAVE 是專案五部短片之一，寫整個專案可接受，圖改 THE WAVE 截圖）；b031 07478 西班牙樂透（確認是 2014 Antonio 酒吧那支）；b031 07477 IF YOU'RE HAPPY（不是 MY BUTT）。
+- 事實修正：b030 07470 Car One 改為「母親帶兒子做大學入學職業性向測驗」；b032 07496 Lurpak 國別改丹麥。
+- 仍 uncertain：b030 07470 PSYCHOLOGIST, DOCTOR（缺兩支片劇情）；b031 07481 JACKPOT（缺完整劇情）；b032 07498 BREAKDANCE（缺劇情）；b032 07506 KY TOUCH（廣播，需本機轉寫，音檔頁 adsspot k-y-man-boobs）。
+- 圖：沒圖 07497 BEAUTY GREW ALL AROUND、07506 KY TOUCH；圖偏小 07477（480×360）、Weedol、CROCODILE；07499 MAYA 是製作過程畫面；07882 JUNKFACE 有意不用官方字卡板。
+- 重複候選 0（07476 IMAGINE 與 07636 IMAGINATION MACHINE 是同活動的影片與裝置，不算重複）；【爭議】0；撤獎 0。
