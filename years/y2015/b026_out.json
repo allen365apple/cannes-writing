@@ -1,0 +1,542 @@
+[
+ {
+  "id": "ltwm-07438",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "MUTANT FONT",
+  "brand": "AMNESTY INTERNATIONAL",
+  "agency": "AFRICA SÃO PAULO",
+  "links": [
+   "https://vimeo.com/123199639"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Cyber",
+    "subcategory": "Web Service/App",
+    "count": 1,
+    "entry_titles": [
+     "MUTANT FONT"
+    ]
+   },
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Applications / Tools",
+    "count": 1,
+    "entry_titles": [
+     "MUTANT FONT"
+    ]
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "國際特赦組織做了款網頁字體，字形被加上干擾、程式碼每 24 小時重排，人眼讀得懂但追蹤程式讀不出",
+  "brand_display": "國際特赦組織",
+  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion、Cyber類銅獅 Cyber Bronze Lion｜代理商：AFRICA São Paulo\n\n【背景】國際特赦組織（Amnesty International）想提高大家對網路隱私被侵犯的警覺，尤其是在網路上發表意見的人，文字容易被機器自動掃描與追蹤。這支作品由巴西 Africa 廣告公司（AFRICA São Paulo）負責。\n\n【點子】既然追蹤靠機器讀文字，就做一套機器讀不懂、人卻看得懂的網頁字體。案例板把它形容成「加強版的 CAPTCHA（人機驗證）」。\n\n【策略】Africa 找來一位字體設計師，再找加密專家做演算法，一起做出這套字體。\n\n【執行】字體叫 Mutant Font（突變字體），共有七種樣式，例如波浪、斜線、星點、方塊、蛇形。它用兩招保護隱私。第一招，每個字母都加上小小的圖形干擾，讓機器認不出字形。第二招，字體的程式碼被完全打亂，自動追蹤系統讀不到文字內容，而且程式碼每 24 小時重排一次，更難破解。使用方式很簡單：寫好文章後，到 mutantfont.com 把文字貼進產生器、選一種字體，產生器給出一段程式碼，再把它貼進部落格平台的 HTML 欄位發布。文章載入這套字體後，人眼讀起來正常，機器卻無法追蹤。團隊也做了活動網站，並邀請巴西有影響力的部落客試用。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/mutant-font-111782\nhttps://dandad.org/awards/professional/2016/digital-marketing/25291/mutant-font\nhttps://lists.w3.org/Archives/Public/public-privacy/2015AprJun/0017.html",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 銀獅, Silver Lion, 銅獅, Bronze Lion, 網路服務／應用程式, Web Service/App, 應用程式／工具, Applications / Tools, 國際特赦組織, Amnesty International, 特赦組織, AFRICA São Paulo, Africa, 非營利組織, NGO, 人權, 網路隱私, Online Privacy, 隱私, Privacy, 網頁字體, Web Font, 字體, Font, Typeface, 加密, Encryption, 反追蹤, 防監控, 驗證碼, CAPTCHA, 互動網頁, 微型網站, Microsite, 部落客, Blogger, 社群媒體, 網路, 數位, 巴西, Brazil, 突變字體, Mutant Font, 程式碼, 演算法, Algorithm",
+  "category": "行銷案例",
+  "references": [
+   "https://www.lovethework.com/en/work/entries/mutant-font-111782",
+   "https://dandad.org/awards/professional/2016/digital-marketing/25291/mutant-font",
+   "https://lists.w3.org/Archives/Public/public-privacy/2015AprJun/0017.html"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/dd34f3fffc544792db9caf42a1b39fb6",
+  "image_shows": "官方案例板：黑底黃字的 Mutant Font 標題，列出使用步驟畫面、字母加干擾的原理圖、七種字體樣式與部落格範例",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "已搜爭議：搜「Amnesty Mutant Font controversy／criticism／fake／withdrawn」，沒有造假、抄襲或撤獎指控；W3C 隱私郵件討論串有人回報網站憑證過期、螢幕閱讀器（JAWS、VoiceOver）讀不出這套字體，屬一般評論，只記在 note，未寫入讀稿。官方作品頁無文字，內容依官方案例板、D&AD 頁整理；案例板上的採用部落格數是成效，未寫入。搜尋摘要未寫入。"
+ },
+ {
+  "id": "ltwm-07429",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "THE MSSNG PROJECT",
+  "brand": "AUTISM SPEAKS",
+  "agency": "BBDO NEW YORK",
+  "links": [
+   "https://clios.com/awards/winner/digital-technique/the-mssng-project-660"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Cyber",
+    "subcategory": "Use/Curation of Image(s)",
+    "count": 1,
+    "entry_titles": [
+     "THE MSSNG PROJECT"
+    ]
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "美國自閉症組織 Autism Speaks 為籌基因定序經費，把 DNA 結晶拍成斑斕影像，賣一萬張海報，一張資助一筆定序",
+  "brand_display": "Autism Speaks",
+  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion｜代理商：BBDO NEW YORK\n\n【背景】自閉症公益組織 Autism Speaks 要推動 MSSNG 計畫：替一萬個受自閉症影響的家庭做 DNA 定序，並把資料上傳到 Google Cloud，讓全球科學家一起找出自閉症的缺漏答案。計畫需要建立品牌形象、提高知名度，也要籌經費。\n\n【點子】一般人覺得 DNA 是冷冰冰的科學。BBDO New York 反過來，用握著答案的 DNA 本身做出藝術品，讓科學計畫變得好看，也讓每一件作品直接變成募款工具。\n\n【執行】影像由生化學家兼攝影師 Linden Gledhill 拍攝。流程是把合成並純化過的 DNA 溶進高濃度的純水，滴在載玻片上放到顯微鏡下放大；水分蒸發時 DNA 結晶，偏振光照過結晶就折射出五彩的色塊與形狀。網站上有四種玩法：看一支把 DNA 變成美麗攝影、並與自閉症患者肖像並置的影片；操作互動式顯微鏡親自探索 DNA；用 WebGL 做自己的 DNA 結晶，每個結晶會上傳到象徵雲端的圖像上；還有一萬張 DNA 海報，每張的收益直接資助一筆所需的 DNA 定序。此外，品牌也辦了一場只有一晚的紐約展覽，現場把顯微鏡下的結晶即時投影到牆上，並出版了收錄自閉症患者故事的咖啡桌書。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/the-mssng-project-111769\nhttps://www.foxnews.com/science/art-and-technology-battle-autism-through-mssng-project\nhttps://www.directnewideas.com/magazine/bbdo_new_york_the_mssng_project/?id=1765",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 銀獅, Silver Lion, 影像運用／策展, Use/Curation of Image(s), Autism Speaks, 自閉症之聲, 自閉症, Autism, 非營利組織, NGO, 公益, 募款, Fundraising, BBDO New York, BBDO, MSSNG, MSSNG Project, DNA, 基因定序, Genome Sequencing, DNA 結晶, DNA Crystal, 顯微鏡, Microscope, 偏振光, Polarized Light, 科學, 藝術, 攝影, Photography, 海報, Poster, 一萬張海報, ⭐製作物：DNA 海報, 咖啡桌書, 互動網頁, Interactive Website, WebGL, 互動顯微鏡, 展覽, Exhibition, 美國, United States, Google Cloud, 雲端, Linden Gledhill",
+  "category": "行銷案例",
+  "references": [
+   "https://www.lovethework.com/en/work/entries/the-mssng-project-111769",
+   "https://www.foxnews.com/science/art-and-technology-battle-autism-through-mssng-project",
+   "https://www.directnewideas.com/magazine/bbdo_new_york_the_mssng_project/?id=1765"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/aec1383d9c204cca83d0c567047b6264",
+  "image_shows": "官方案例板：左上 MSSNG 標題與簡介，中間是互動網站上五彩的 DNA 結晶 3D 圖，右側是製作流程照片，下方是網站各頁面與一排 DNA 結晶海報",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "已搜爭議：搜「MSSNG Project Autism Speaks DNA posters controversy／criticism／fake」，沒有造假、抄襲或撤獎指控；搜到自閉症社群批評 MSSNG 名稱暗示自閉者「缺了什麼」（#NOTMSSNG）與對 Autism Speaks 的整體批評，屬對計畫本身與組織的一般評論，只記在 note，未寫入讀稿。官方作品頁無文字，內容依官方案例板、Fox News 與 Direct News Ideas 整理；案例板上的進度數字是成效，未寫入。搜尋摘要未寫入。"
+ },
+ {
+  "id": "ltwm-07435",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "HOPE.LY",
+  "brand": "AMERICAN RED CROSS & BITLY",
+  "agency": "BBDO NEW YORK",
+  "links": [
+   "https://www.dandad.org/awards/professional/2015/digital-marketing/24274/hopely/"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Cyber",
+    "subcategory": "Web Service/App",
+    "count": 1,
+    "entry_titles": [
+     "HOPE.LY"
+    ]
+   },
+   {
+    "level": "Silver",
+    "category": "Cyber",
+    "subcategory": "Charities, Public Health & Safety, Public Awareness Messages",
+    "count": 1,
+    "entry_titles": [
+     "HOPE.LY"
+    ]
+   },
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Innovative Use of Social or Community (incl. Emerging Platforms for Brands)",
+    "count": 1,
+    "entry_titles": [
+     "HOPE.LY"
+    ]
+   },
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Social Currency & Commerce",
+    "count": 1,
+    "entry_titles": [
+     "HOPE.LY"
+    ]
+   },
+   {
+    "level": "Bronze",
+    "category": "Mobile",
+    "subcategory": "",
+    "count": 1,
+    "entry_titles": [
+     "HOPE.LY"
+    ]
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "美國紅十字會與 Bitly 做出會募款的縮網址 Hope.ly，連結一被分享，點開的頁面頂端就多一條捐款橫幅",
+  "brand_display": "Hope.ly",
+  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion×2、Cyber類銅獅 Cyber Bronze Lion×2、行動類銅獅 Mobile Bronze Lion｜代理商：BBDO NEW YORK\n\n【背景】美國紅十字會（American Red Cross）的傳統捐款者年紀漸長，需要接觸愈來愈多時間花在網路上的新一代捐款人；但沒有媒體預算，傳統網路廣告對非營利組織太貴。\n\n【洞察】人在網路上每天都在做一件事：分享連結。\n\n【點子】把分享連結變成募款工具。BBDO New York 與縮網址服務 Bitly 合作，做出 Hope.ly，案例板稱它是世界第一個能為善款募款的縮網址。用 Hope.ly 縮出來的連結，會在被分享的網頁加上一條募款橫幅，等於每次分享都向看的人提出一次直接的捐款請求。\n\n【執行】使用方式分三步。一，用 Hope.ly 把任何網址縮短；二，把短連結貼到社群媒體分享；三，點進連結的人在網頁上方看到紅色橫幅，寫著「有位好心人分享了這個頁面，請幫助透過美國紅十字會需要幫助的人」，旁邊是「Donate now（立即捐款）」按鈕。案例板用手機畫面示範：紐約時報一篇「髮型師替遊民免費剪髮」的報導頂端出現這條橫幅，周圍是許多推特帳號分享 hope.ly 連結的貼文。報導指出，這個工具預計在 2014 年 12 月 2 日的捐獻星期二（Giving Tuesday）上線，12 月內開放使用。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/hopely-130484\nhttps://www.philanthropy.com/news/red-cross-aims-to-boost-sharing-and-giving-with-hopely/",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 銀獅, Silver Lion, 銅獅, Bronze Lion, 網路服務／應用程式, Web Service/App, 公益／公共衛生／公眾意識訊息, Charities, 社群媒體創新運用, Social Currency & Commerce, 行動類, Mobile, 美國紅十字會, American Red Cross, 紅十字會, Bitly, Bit.ly, BBDO New York, BBDO, 非營利組織, NGO, 公益, 募款, Fundraising, 捐款, Donation, 縮網址, Link Shortener, URL Shortener, 短連結, 社群分享, Social Sharing, 推特, Twitter, 橫幅, Banner, 網頁工具, Web Tool, 數位, 美國, United States, Hope.ly, 捐獻星期二, Giving Tuesday",
+  "category": "行銷案例",
+  "references": [
+   "https://www.lovethework.com/en/work/entries/hopely-130484",
+   "https://www.philanthropy.com/news/red-cross-aims-to-boost-sharing-and-giving-with-hopely/"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/53b91955d6b147d0ecd09730522a5eba",
+  "image_shows": "官方案例板：紅底，中間手機畫面顯示紐約時報報導頂端的紅色 Hope.ly 捐款橫幅，周圍是一圈分享 hope.ly 連結的推特貼文，下方有 Shorten、Share、Support 三步驟",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "已搜爭議：搜「Hope.ly Red Cross Bitly controversy／criticism／fraud／withdrawn」，沒有針對 Hope.ly 的造假、抄襲或撤獎指控；搜到的只有紅十字會其他事件的批評，屬別的事，未寫入。官方作品頁無文字，內容依官方案例板與 The Chronicle of Philanthropy 整理；案例板的連結數、點擊數、媒體報導是成效，未寫入。官方 5 個獎項的作品名都是 HOPE.LY。搜尋摘要未寫入。"
+ },
+ {
+  "id": "ltwm-07440",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "TASTE THE TRANSLATION",
+  "brand": "ELAN LANGUAGES",
+  "agency": "JWT AMSTERDAM",
+  "links": [
+   "https://clios.com/awards/winner/direct/elan-languages/taste-the-translation-376"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Bronze",
+    "category": "Film",
+    "subcategory": "Financial Services, Commercial Public Services, Business Products & Services",
+    "count": 1,
+    "entry_titles": [
+     "TASTE THE TRANSLATION"
+    ]
+   },
+   {
+    "level": "Silver",
+    "category": "Cyber",
+    "subcategory": "Social Video",
+    "count": 1,
+    "entry_titles": [
+     "TASTE THE TRANSLATION"
+    ]
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "翻譯公司 ElaN 拿同一份日文食譜，請真人與 Google 翻成英文，廚師照兩版做壽司蛋糕，拍成對照影片",
+  "brand_display": "ElaN Languages",
+  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion、影片類銅獅 Film Bronze Lion｜代理商：J. WALTER THOMPSON AMSTERDAM\n\n【背景】ElaN Languages 是提供真人翻譯的語言服務公司。網路上有免費又方便的機器翻譯 Google 翻譯，ElaN 想讓人看見：對每個字都不能錯的文件，機器翻譯有風險。\n\n【點子】不講道理，直接讓人「吃」翻譯。同一份日文食譜，一份交給 ElaN 的真人翻譯，一份交給 Google 翻譯，再讓廚師照兩個英文版本各做一次，看做出來的東西能不能吃。\n\n【執行】JWT Amsterdam 把這個測試拍成影片，標題 Taste the Translation（嘗嘗翻譯的味道）。料理是日式壽司蛋糕。廚師照 Google 翻譯的版本做，步驟一路出錯：用平底鍋壓碎菠菜、用電鋸切真的硬幣、拌進切碎的傳單紙，最後在上面放小塑膠馬。照 ElaN 版本做，步驟就合理：菠菜要燙熟、丟掉菠菜根，鋪上鮭魚、酪梨和鮭魚卵。影片一開始是幾位被矇住眼睛的客人等著吃，兩版成品端上桌後，ElaN 那份看起來能吃，Google 那份混了紙和塑膠馬，客人難以下嚥。影片放到社群媒體上。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/taste-the-translation-119465\nhttps://www.adweek.com/brand-marketing/translation-sites-clever-recipe-taste-test-shows-how-wrong-google-translate-can-be-168170/\nhttps://www.latinpost.com/articles/95447/20151117/google-translate-unknown-competitor-challenges-google-translates-accuracy-with-recipe-test.htm\nhttps://www.informabtl.com/divertida-campana-en-la-que-una-empresa-traductora-supera-a-google-translate/",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 銀獅, Silver Lion, 影片類, Film, 銅獅, Bronze Lion, 社群影片, Social Video, ElaN, ELAN Languages, ElaN Languages, 語言服務, 翻譯服務, Translation, 翻譯, Google 翻譯, Google Translate, 機器翻譯, JWT Amsterdam, J. Walter Thompson, JWT, 食譜, Recipe, 壽司蛋糕, Sushi Cake, 日本料理, 日文, 烹飪, 試吃, 蒙眼試吃, 比較廣告, 對照實驗, 產品實測, 影片, 線上影片, Online Film, 幽默, 荒謬, 反差, 社群媒體, 荷蘭, Netherlands, 電鋸, 塑膠馬, 硬幣",
+  "category": "行銷案例",
+  "references": [
+   "https://www.lovethework.com/en/work/entries/taste-the-translation-119465",
+   "https://www.adweek.com/brand-marketing/translation-sites-clever-recipe-taste-test-shows-how-wrong-google-translate-can-be-168170/",
+   "https://www.latinpost.com/articles/95447/20151117/google-translate-unknown-competitor-challenges-google-translates-accuracy-with-recipe-test.htm",
+   "https://www.informabtl.com/divertida-campana-en-la-que-una-empresa-traductora-supera-a-google-translate/"
+  ],
+  "image_url": "https://i.ytimg.com/vi/t9sD-5tOx9A/maxresdefault.jpg",
+  "image_shows": "官方影片畫面：俯拍一雙手用筷子把鮭魚丁、酪梨丁與鮭魚卵放到壽司蛋糕上，畫面字幕寫「ELAN LANGUAGES: ADD THE ROSE SALMON, DICED AVOCADO AND SALMON TOPPING」",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "已搜爭議：搜「Elan Languages Taste the Translation controversy／fake／staged／withdrawn」，沒有造假、抄襲或撤獎指控；只看到有人指出這是商業公司自己做的測試，屬一般評論，未寫入。官方作品頁（lovethework）無文字，內容依 Adweek、Latin Post、InformaBTL 整理（Latin Post 有逐項錯誤描述）。官方卡片 entry_titles 都是 TASTE THE TRANSLATION；搜尋結果提到另一支 Promise the Translation（2016，婚禮誓詞）是同品牌別支作品，未寫入。官方獎項為 Cyber 社群影片銀獅與影片類銅獅，搜尋摘要提到的 Titanium 入圍未寫入。圖用 Latin Post 文章嵌入的官方影片（YouTube t9sD-5tOx9A）縮圖，因官方候選圖是預留圖示。搜尋摘要未寫入。"
+ },
+ {
+  "id": "ltwm-07434",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "RELOCKLOVE",
+  "brand": "ORANGE",
+  "agency": "MARCEL PARIS",
+  "links": [
+   "https://clios.com/awards/winner/direct/orange/relocklove-765"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Cyber",
+    "subcategory": "Commercial Public Services",
+    "count": 1,
+    "entry_titles": [
+     "RELOCKLOVE"
+    ]
+   },
+   {
+    "level": "Silver",
+    "category": "Direct",
+    "subcategory": "Commercial Public Services, incl. Healthcare & Medical",
+    "count": 1,
+    "entry_titles": [
+     "RELOCKLOVE"
+    ]
+   },
+   {
+    "level": "Silver",
+    "category": "Direct",
+    "subcategory": "Use of Dgital Marketing",
+    "count": 1,
+    "entry_titles": [
+     "RELOCKLOVE"
+    ]
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "法國電信商 Orange 在巴黎藝術橋愛情鎖被拆光前，花七個月拍下四萬把鎖，做出虛擬藝術橋，讓情侶找回自己的鎖",
+  "brand_display": "Orange",
+  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion、直效類銀獅 Direct Silver Lion×2｜代理商：MARCEL Paris\n\n【背景】巴黎的藝術橋（Pont des Arts）是世界知名的步行橋，情侶把寫了名字的鎖扣在橋欄上，象徵愛情永固，橋上鎖超過四萬把。2014 年橋欄的一部分坍塌，法國當局決定把所有鎖拆掉。這支作品由法國 Marcel 廣告公司為電信商 Orange 製作，要推的是 Orange 雲端服務（Orange Cloud）：把你珍視的東西存下來、保護好。\n\n【點子】鎖被拆了，那就在線上把愛情鎖「還」給情侶。同時借這件事說出品牌訊息：值得珍惜的東西，應該被保護。\n\n【執行】團隊花了七個月，在鎖被拆除之前，把四萬把鎖逐一拍下來。據 Shots 報導，由法國攝影師 Alexis Bourdillat 拍攝並記下每一把鎖在橋上的確切位置。情人節時，團隊做出一座與原橋一模一樣的虛擬藝術橋 RelockLove，四萬把鎖都掛回原來的位置。網友可以在線上走過這座橋，找回自己那把鎖，也能點「建立一把鎖」做新的虛擬鎖。每把鎖背後都有故事，這些故事在社群網路上流傳，其中一些很感人，團隊就把它們拍成影片。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/relocklove-128616\nhttps://shots.net/news/view/86757-orange-locks-love-in-paris",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 銀獅, Silver Lion, 商業公共服務, Commercial Public Services, 直效類, Direct, 數位行銷運用, Use of Digital Marketing, Orange, Orange France, 法國 Orange, 電信, Telecom, 電信商, Marcel Paris, Marcel, Orange Cloud, 雲端, 雲端儲存, Cloud Storage, 愛情鎖, Love Locks, 巴黎, Paris, 藝術橋, Pont des Arts, 橋, 愛情, Love, 情人節, Valentine's Day, 虛擬, 虛擬橋, Virtual Bridge, 3D 場景, 互動網頁, Interactive Website, 攝影, Photography, 影片, 情感, 懷舊, 法國, France, 拆除, 回憶, 保存, 鎖",
+  "category": "行銷案例",
+  "references": [
+   "https://www.lovethework.com/en/work/entries/relocklove-128616",
+   "https://shots.net/news/view/86757-orange-locks-love-in-paris"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/43a4ea321fe6483ad8877c70deeff7e8",
+  "image_shows": "官方案例板：黑底，左上 relock love 標誌，中間是藝術橋虛擬場景（左半橋欄空蕩、右半掛滿愛情鎖），下方是鎖的特寫、建立虛擬鎖的介面，與一排報導媒體標誌",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "已搜爭議：搜「Orange Relocklove Pont des Arts campaign controversy／criticism／fake」，沒有針對這支廣告的造假、抄襲或撤獎指控；搜到的是愛情鎖本身對橋的破壞與是否該拆的爭論，不是廣告的爭議，未寫入。官方作品頁無文字，內容依官方案例板與 Shots 報導整理；案例板的「傳到 43 個國家」與媒體清單是成效，未寫入。Shots 說作品發表於 2015 年 3 月，案例板說情人節，兩者不一致，故讀稿用「情人節時」並照案例板、不另寫日期。搜尋摘要未寫入。"
+ },
+ {
+  "id": "ltwm-07433",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "SELF-DESTRUCTING BOOK",
+  "brand": "JAMES PATTERSON",
+  "agency": "MOTHER NEW YORK",
+  "links": [
+   "https://mothernewyork.com/work/the-self-destructing-book/"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Cyber",
+    "subcategory": "Publications & Media",
+    "count": 1,
+    "entry_titles": [
+     "SELF-DESTRUCTING BOOK"
+    ]
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "驚悚小說家 James Patterson 讓新書《Private Vegas》的數位版倒數 24 小時，時間到整本書就消失",
+  "brand_display": "James Patterson",
+  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion｜代理商：MOTHER NEW YORK\n\n【背景】驚悚小說家 James Patterson 要為新書《Private Vegas》上市造勢。團隊想證明：寫了三十年，他仍然是驚悚之王。\n\n【點子】讓讀書這件事變得更緊張。Mother New York 做出「自毀之書（Self-Destructing Book）」，只給讀者 24 小時讀完《Private Vegas》，時間一到書就自己毀掉。案例板的標語是「改變人們讀驚悚小說的方式，一次一秒」。\n\n【執行】Mother 做了兩個版本。第一個是標價 294,038 美元的實體自毀版，用一支線上影片宣傳，案例板上的照片是一位穿拆彈裝的人雙手拿著一本攤開、附紅色倒數計時器的書；Engadget 報導這個版本還附專屬拆彈小組。第二個是免費的數位版，在 selfdestructingbook.com 提供：讀者要兌換專屬代碼，才能解鎖 1,000 本書的其中一本，平板上的書頁邊緣有倒數時鐘，燒焦般的書頁隨時間流逝。為了讓緊張感升高，讀者還能在網站地圖上追蹤其他讀者，並從他們身上「偷」時間。據 Engadget，書的文字會在時間到後永久消失。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/self-destructing-book-130566\nhttps://www.engadget.com/2015-01-21-self-destructing-book.html",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 銀獅, Silver Lion, 出版與媒體, Publications & Media, James Patterson, 詹姆斯·帕特森, Private Vegas, Mother New York, Mother, 出版, Publishing, 書, Book, 小說, 驚悚小說, Thriller, 電子書, E-book, 數位版, 自毀, Self-Destruct, 倒數計時, Countdown Timer, 24 小時, 限時, 稀缺, 兌換碼, 互動網頁, Interactive Website, App, 平板, Tablet, 拆彈, 拆彈小組, 炸彈, 影片, 緊張感, 驚悚, ⭐製作物：附計時器的實體自毀書, 美國, United States, 作家, Author",
+  "category": "行銷案例",
+  "references": [
+   "https://www.lovethework.com/en/work/entries/self-destructing-book-130566",
+   "https://www.engadget.com/2015-01-21-self-destructing-book.html"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/78cf8f82577c444b8c7fd5a119251f76",
+  "image_shows": "官方案例板：頂端是紅色數位倒數 24.00.00，下方左側是穿拆彈裝的人手拿附計時器的書，右側是網站地圖與平板上的自毀書頁面",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "已搜爭議：搜「James Patterson Self-Destructing Book campaign controversy／fake／criticism」，沒有造假、抄襲或撤獎指控；只有評論說這是宣傳噱頭、書並未真的爆炸，屬一般評論，未寫入。官方作品頁無文字，內容依官方案例板與 Engadget 整理；案例板的閱讀時數、報導篇數、曝光與暢銷榜是成效，未寫入。Engadget 沒說明實體版如何自毀，故讀稿只寫案例板可見的畫面。搜尋摘要未寫入。"
+ },
+ {
+  "id": "ltwm-07436",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "EVERY MAN REMEMBERED",
+  "brand": "ROYAL BRITISH LEGION",
+  "agency": "RKCR/Y&R LONDON",
+  "links": [
+   "https://clios.com/awards/winner/integrated-campaign/royal-british-legion/every-man-remembered-674"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Cyber",
+    "subcategory": "Microsite",
+    "count": 1,
+    "entry_titles": [
+     "EVERY MAN REMEMBERED"
+    ]
+   },
+   {
+    "level": "Bronze",
+    "category": "Creative Data",
+    "subcategory": "Data Storytelling",
+    "count": 1,
+    "entry_titles": [
+     "EVERY MAN REMEMBERED"
+    ]
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "英國皇家退伍軍人協會，用訃聞式海報紀念與歌手 Harry Styles 同名的一戰陣亡士兵，引人到網站找同名者",
+  "brand_display": "英國皇家退伍軍人協會",
+  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion、創意數據類銅獅 Creative Data Bronze Lion｜代理商：RKCR/Y&R London\n\n【背景】第一次世界大戰讓 1,117,077 名大英國協士兵喪生。為了紀念一戰一百週年，英國皇家退伍軍人協會（Royal British Legion）推動「Every Man Remembered（每一個人都被記得）」，要記住每一個人。這支作品由 RKCR/Y&R London 製作。\n\n【洞察】陣亡者太多，數字只是數字，要讓人關心，得先讓人覺得「這跟我有關」。\n\n【點子】找出與名人同名的一戰陣亡士兵，用「他不有名，但他應該被記得」這句話做成訃聞式的廣告。名人的名字吸引目光，名字背後是真實的人。\n\n【執行】海報是一整片黑底，白字寫「REMEMBER HARRY STYLES 1893–1915」，下方小字說明：二等兵 Harry Styles 不有名，但他應該被記得，他是來自蘭開夏郡奧爾德姆的 Mary Styles 的兒子，隸屬曼徹斯特團第十營，在土耳其作戰，1915 年 6 月 4 日在加里波利戰壕陣亡，得年 22 歲，是 1,117,077 名陣亡者之一。其他海報還有 Tom Jones、Andy Murray、Gordon Brown 等同名士兵。社群貼文用同樣格式，例如「Tom Hardy wasn't famous, but he should be remembered」並附紀念連結。據作品條目，名單也包括 Alex Ferguson、Patrick Stewart。廣告把人導向 everymanremembered.org 這個線上紀念網站：輸入名字與居住城鎮，就能找出同名、同地區，或一百年前的今天陣亡的軍人，並列出每位陣亡者的名字、年齡與故事，網站上有地圖與可供紀念的功能。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/every-man-remembered-129274\nhttps://www.dandad.org/work/d-ad-awards-archive/every-man-remembered",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 銀獅, Silver Lion, 微型網站, Microsite, 創意數據類, Creative Data, 銅獅, Bronze Lion, 數據敘事, Data Storytelling, 英國皇家退伍軍人協會, Royal British Legion, RBL, RKCR/Y&R London, RKCR/Y&R, Y&R, 非營利組織, 公益, 一戰, World War I, 第一次世界大戰, 一百週年, 紀念, Remembrance, Commemoration, 陣亡士兵, 訃聞, Obituary, 同名, 名人, Celebrity Names, Harry Styles, Andy Murray, 海報, Poster, 平面廣告, 社群貼文, 線上紀念館, Online Memorial, 互動網頁, 地圖, 資料庫, 數據, 英國, United Kingdom, 罌粟花, Poppy, ⭐製作物：訃聞式海報",
+  "category": "行銷案例",
+  "references": [
+   "https://www.lovethework.com/en/work/entries/every-man-remembered-129274",
+   "https://www.dandad.org/work/d-ad-awards-archive/every-man-remembered"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/3c315028a4c04e19a4363e8d5f675d54",
+  "image_shows": "官方案例板：左側是黑底白字「REMEMBER HARRY STYLES 1893–1915」海報，右側列出網站畫面、社群貼文、數據與三張同風格海報",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "已搜爭議：搜「Every Man Remembered Royal British Legion controversy／complaint／criticism／withdrawn」，沒有針對這支作品的造假、抄襲或撤獎指控；搜到的是英國皇家退伍軍人協會其他活動的批評，屬別的事，未寫入。官方作品頁無文字，內容依官方案例板與 D&AD 頁整理；案例板的募款、曝光、報導國家等是成效，未寫入。官方卡片 entry_titles 都是 EVERY MAN REMEMBERED。「他不有名」為案例板海報英文 wasn't famous 的意譯。搜尋摘要未寫入。"
+ },
+ {
+  "id": "ltwm-07442",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "ASSASSIN’S CREED UNITY",
+  "brand": "UBISOFT EMEA",
+  "agency": "SID LEE PARIS",
+  "links": [
+   "https://www.dandad.org/awards/professional/2015/direct/24636/assassins-creed-unity/"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Cyber",
+    "subcategory": "Engagement Platform",
+    "count": 1,
+    "entry_titles": [
+     "ASSASSIN'S CREED UNITY"
+    ]
+   },
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Interactive Video",
+    "count": 1,
+    "entry_titles": [
+     "ASSASSIN'S CREED UNITY"
+    ]
+   },
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Microsite",
+    "count": 1,
+    "entry_titles": [
+     "ASSASSIN'S CREED UNITY"
+    ]
+   },
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Integrated Multi-Platform Campaign (Online & Offline)",
+    "count": 1,
+    "entry_titles": [
+     "ASSASSIN'S CREED UNITY"
+    ]
+   },
+   {
+    "level": "Bronze",
+    "category": "PR",
+    "subcategory": "Use of Co-Creation & User Generated Content",
+    "count": 1,
+    "entry_titles": [
+     "ASSASSIN'S CREED UNITY"
+    ]
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "法國遊戲商育碧讓玩家替《刺客教條 Unity》自創刺客，按讚最多的 1430 個被放進預告片，影片還能暫停找人",
+  "brand_display": "育碧",
+  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion、Cyber類銅獅 Cyber Bronze Lion×3、公關類銅獅 PR Bronze Lion｜代理商：SID LEE Paris\n\n【背景】育碧（Ubisoft）要宣傳《刺客教條：大革命（Assassin's Creed Unity）》最新的產品特色：這是第一款為多人合作玩法設計的刺客教條。這支作品由 Sid Lee Paris 製作，主題字是「UNITE（團結）」。\n\n【點子】既然賣點是「很多人一起」，預告片就不只演一位英雄，而是出現成千上百個刺客，而且每一個都是玩家自己做的。\n\n【執行】玩家先在網站上自訂刺客角色（案例板的畫面可以選顏色、上身、褲子、圖案等），按讚數最多的 1,430 個角色被放進一支史詩預告片。預告片由《創戰紀》《遺落戰境》的導演 Joseph Kosinski 執導，在世界各地的電視和電影院播出。網站上另有互動版預告片，觀眾可以隨時暫停影片，找到自己或朋友做的刺客；案例板的畫面上，鏡頭拉遠到巴黎街區，人群中標出了各個玩家的刺客。有些幸運的玩家還驚喜地發現自己的角色出現在城市的戶外廣告看板、報章廣告，還有遊戲限量版的封面上。案例板上有巴黎地鐵 Tolbiac 站的「UNITE」海報與雜誌頁、Xbox One 版遊戲封面。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/assassins-creed-unity-111590\nhttps://shots.net/news/view/85563-sid-lee-friends-unite-for-assassin-s-creed",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 銀獅, Silver Lion, 銅獅, Bronze Lion, 互動影片, Interactive Video, 微型網站, Microsite, 整合行銷, 線上線下整合, Integrated Multi-Platform Campaign, PR類, PR, 共創與使用者生成內容, Co-Creation & User Generated Content, UGC, 互動平台, Engagement Platform, Ubisoft, 育碧, Assassin's Creed Unity, 刺客教條, 刺客教條大革命, 電玩, 電玩遊戲, Video Game, 遊戲, Sid Lee Paris, Sid Lee, 預告片, Trailer, 影片, 互動影片, 玩家共創, 自訂角色, Avatar, 角色創建, 看板, 戶外廣告, 地鐵海報, 雜誌, 遊戲封面, 法國, France, 巴黎, Paris, 法國大革命, 合作遊戲, Co-op",
+  "category": "行銷案例",
+  "references": [
+   "https://www.lovethework.com/en/work/entries/assassins-creed-unity-111590",
+   "https://shots.net/news/view/85563-sid-lee-friends-unite-for-assassin-s-creed"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/1f6b9ba8221d4c7e940154b9133ce150",
+  "image_shows": "官方案例板：上方是電腦、平板、手機上的刺客自訂介面，下方有巴黎地鐵站的 UNITE 海報、雜誌與遊戲封面、預告片截圖與互動版預告片畫面",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "已搜爭議：搜「Assassin's Creed Unity Unite avatars campaign controversy／fake／criticism」，沒有針對這支廣告的造假、抄襲或撤獎指控；搜到的是遊戲本身的爭議（女性角色缺席、發售時的錯誤），屬同品牌別的事，未寫入。官方作品頁無文字，內容依官方案例板與 Shots 報導整理；案例板的創角數、造訪、分享等是成效，未寫入。Shots 寫「按社群選出」、案例板寫「按讚最多」，讀稿用案例板說法。搜尋摘要未寫入。"
+ },
+ {
+  "id": "ltwm-07431",
+  "year": 2015,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "BE MORE HUMAN ONLINE EXPERIENCE",
+  "brand": "REEBOK",
+  "agency": "VENABLES BELL & PARTNERS SAN FRANCISCO",
+  "links": [
+   "https://www.venablesbell.com/work/be-more-human"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Cyber",
+    "subcategory": "Overall Aesthetic Design/Best Practice",
+    "count": 1,
+    "entry_titles": [
+     "BE MORE HUMAN ONLINE EXPERIENCE"
+    ]
+   },
+   {
+    "level": "Silver",
+    "category": "Cyber",
+    "subcategory": "Integrated Multi-Platform Campaign (Online & Offline)",
+    "count": 1,
+    "entry_titles": [
+     "BE MORE HUMAN"
+    ]
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "Reebok 的「Be More Human」（更有人味）網站，用人性分數測驗、運動後狼狽自拍、大腦 3D 視覺化三種玩法談運動",
+  "brand_display": "Reebok",
+  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Cyber類銀獅 Cyber Silver Lion×2｜代理商：VENABLES BELL & PARTNERS San Francisco\n\n【背景】這一年 Reebok 重新介紹品牌，號召新一代運動員「Be more human（活得更像人）」。案例板說，這波活動的核心是一個線上據點，讓訪客探索「更像人」是什麼意思。這支作品由 Venables Bell & Partners San Francisco 製作，同一波活動也有 Freak Show 品牌影片。\n\n【點子】不只說「運動」，而是談運動讓人更完整。網站放了三種內容，每一種都有互動可玩。\n\n【執行】第一種是 The Human Score（人性分數），案例板稱是全世界第一個量化「人性」的測驗，用靈魂拷問式的選擇題，從社交、心理、身體等面向給出可分享的個人分數；Digiday 舉的題目例子是「在熱鬧的派對上，生活教練和小說家哪個比較好相處」。第二種是 #Breakyourselfie（打破你的自拍），社群活動挑戰漂亮自拍的想法，鼓勵健身愛好者上傳運動後最疲憊、最狼狽的「反自拍」，案例板的手機畫面是一格格汗水與扭曲表情的臉；精選作品做成圖文專題。第三種是 Gray Matters（灰質），互動式 3D 視覺化，顯示各種體能活動如何刺激大腦，內容配合腦科學專家 John Ratey 博士的研究。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/be-more-human-online-experience-112042\nhttps://digiday.com/marketing/latest-campaign-reeboks-revival-bid",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 銀獅, Silver Lion, 整體美學設計／最佳實務, Overall Aesthetic Design/Best Practice, 整合行銷, 線上線下整合, Integrated Multi-Platform Campaign, Reebok, 銳跑, 運動品牌, Sports Brand, 運動, Fitness, 健身, Venables Bell & Partners, Venables Bell, Be More Human, 更像人, 人性, Humanity, 人性分數, Human Score, 測驗, Quiz, Break Your Selfie, #Breakyourselfie, 自拍, Selfie, 反自拍, 社群活動, 社群媒體, Instagram, Gray Matters, 大腦, Brain, 3D 視覺化, 3D Visualizer, 互動網頁, Online Experience, 品牌網站, 數位, 美國, United States, 超級盃, Freak Show",
+  "category": "行銷案例",
+  "references": [
+   "https://www.lovethework.com/en/work/entries/be-more-human-online-experience-112042",
+   "https://digiday.com/marketing/latest-campaign-reeboks-revival-bid"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/6b5503994f6d42c2cdb31a058fea9d12",
+  "image_shows": "官方案例板：米色底，上方是 Be More Human 網站在電腦、平板、手機上的畫面與 #Breakyourselfie 手機畫面，下方是 Human Score、Gray Matters 的介面",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "已搜爭議：搜「Reebok Be More Human online experience Venables Bell controversy／fake／criticism」，沒有針對這個線上體驗的造假、抄襲或撤獎指控；搜到俄羅斯一則 Instagram 廣告因雙關標語下架，是同品牌別支廣告，未寫入。官方作品頁無文字，內容依官方案例板與 Digiday 報導整理；搜尋摘要提到的測驗人數、照片數是成效，未寫入。官方 5 個獎項裡第二個 Cyber 銀獅的作品名是 BE MORE HUMAN（整合活動），本件寫的是線上體驗網站，其他內容（Freak Show 影片等）只簡述。搜尋摘要未寫入。"
+ },
+ {
+  "id": "ltwm-07896",
+  "year": 2015,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "MY LAST DAY",
+  "brand": "AMNESTY INTERNATIONAL",
+  "agency": "OGILVY AMSTERDAM",
+  "links": [
+   "https://clios.com/awards/winner/film/amnesty-international-the-netherlands/my-last-day-669"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Bronze",
+    "category": "Film Craft",
+    "subcategory": "Script",
+    "count": 1,
+    "entry_titles": [
+     "MY LAST DAY"
+    ]
+   },
+   {
+    "level": "Bronze",
+    "category": "Radio",
+    "subcategory": "Performance",
+    "count": 1,
+    "entry_titles": [
+     "MY LAST DAY"
+    ]
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "荷蘭國際特赦組織拍短片，由曾被冤判死刑的 Anthony Graves 講述死囚的最後一天，推動廢除死刑",
+  "brand_display": "荷蘭國際特赦組織",
+  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜影片工藝類銅獅 Film Craft Bronze Lion、Radio類銅獅 Radio Bronze Lion｜代理商：OGILVY & MATHER AMSTERDAM\n\n【背景】國際特赦組織荷蘭分會（Amnesty International The Netherlands）發表全球死刑現況報告時，只靠新聞稿觸及的人不夠多。團隊想用一個人的故事，把廢除死刑的訊息帶給更多人，也呼應當時對冤案平反者增加，以及槍決、毒藥等執行方式的討論。這支作品由 Ogilvy & Mather Amsterdam 製作，沒有媒體預算，靠 Amnesty 自己的線上管道與公關。\n\n【點子】用一個真實的人來講。Anthony Graves 1992 年被冤判德州索默維爾的六人命案，在死囚牢關了十八年半後才平反。影片以他的親口自述，帶觀眾看死囚牢裡的最後一天。\n\n【執行】成品是一支敘事短片，Direct News Ideas 描述它是「對死刑不人道的深刻敘述」；InformaBTL 說它要呈現死囚最後一天的樣子。截圖看得到的畫面是昏黃的牢房，一個穿白衣的人坐在牆角。影片透過 Amnesty 的線上管道發布，也寄出公關訊息，荷蘭的電視台後來也播出。這件作品獲獎的類別是影片工藝類的劇本與 Radio 類的表演，但雲端找不到逐字稿，具體旁白內容待本機轉寫後補寫。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/my-last-day-112403\nhttps://www.directnewideas.com/magazine/ogilvy_and_mather_amsterdam_my_last_day/?id=1776\nhttps://www.informabtl.com/mi-ultimo-dia-melancolica-accion-en-contra-de-la-pena-de-muerte/",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片工藝類, Film Craft, 銅獅, Bronze Lion, 劇本, Script, Radio類, Radio, 表演, Performance, 荷蘭國際特赦組織, Amnesty International The Netherlands, 國際特赦組織, Amnesty International, Ogilvy & Mather Amsterdam, Ogilvy, 奧美, 非營利組織, 人權, 死刑, Death Penalty, 廢除死刑, 死囚, Death Row, 冤獄, Wrongful Conviction, Anthony Graves, 敘事, Storytelling, 真人真事, 自述, 旁白, Narration, 影片, 短片, 廣播, 音檔, 社會議題, 荷蘭, Netherlands, 美國德州, Texas, 牢房",
+  "category": "行銷案例",
+  "references": [
+   "https://www.lovethework.com/en/work/entries/my-last-day-112403",
+   "https://www.directnewideas.com/magazine/ogilvy_and_mather_amsterdam_my_last_day/?id=1776",
+   "https://www.informabtl.com/mi-ultimo-dia-melancolica-accion-en-contra-de-la-pena-de-muerte/"
+  ],
+  "image_url": "https://i.ytimg.com/vi/vez8q-LA37s/maxresdefault.jpg",
+  "image_shows": "官方影片畫面（InformaBTL 文章嵌入的影片）：昏黃的牢房，一名穿白衣的人坐在牆角，旁邊是蓋著白布的床鋪",
+  "text_source_level": 2,
+  "uncertain": true,
+  "needs_audio": true,
+  "note": "音檔：https://www.youtube.com/watch?v=vez8q-LA37s（InformaBTL 文章嵌入的影片）。缺：官方作品頁無文字，找不到影片或廣播的逐字稿，只有報導描述概念（Anthony Graves 的親述、死囚最後一天），影片與廣播的具體內容與旁白文字須本機轉寫後補；讀稿只寫報導與影片截圖看得到的事。已搜爭議：搜「Amnesty My Last Day Anthony Graves controversy／fake／withdrawn Ogilvy」，沒有針對這支作品的造假、抄襲或撤獎指控；搜到的是 Graves 原案前檢察官至今堅稱他有罪，屬原案爭論、不是作品的爭議，未寫入。案例板類候選圖是預留圖示，圖用影片縮圖。搜尋摘要未寫入。"
+ }
+]
