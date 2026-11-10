@@ -45,7 +45,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 頁只有基本資料，點子與畫面依官方案例板、攝影師作品集與 Ads of the World 列表整理；案例板只看到清邁瀑布這張，BEACH、MOUNTAIN 兩張未見畫面，讀稿只依官方作品名提到。依作品畫面解讀，無完整文字說明。背景一句取自 2018 續集的報導（The Drum、BrandKnew 對『平日人少』的說法），已在讀稿標明是續集。已搜爭議：Thai AirAsia weekdays BBDO controversy／fake／plagiarism／copied／photoshop，沒有找到；搜尋結果出現的 2019 年 AirAsia 布里斯本廣告被批促進性旅遊，是別支作品，不算。搜尋摘要未寫入。攝影師作品集頁（ekarat.myportfolio.com）用 WebFetch 打開過、有列創意團隊，但程式用 curl 會 404。 2026-11-10 Opus 驗：程式報 404 的攝影師作品集頁重測回 200，保留。"
+  "note": "官方 lovethework 頁只有基本資料，點子與畫面依官方案例板、攝影師作品集與 Ads of the World 列表整理；案例板只看到清邁瀑布這張，BEACH、MOUNTAIN 兩張未見畫面，讀稿只依官方作品名提到。依作品畫面解讀，無完整文字說明。背景一句取自 2018 續集的報導（The Drum、BrandKnew 對『平日人少』的說法），已在讀稿標明是續集。已搜爭議：Thai AirAsia weekdays BBDO controversy／fake／plagiarism／copied／photoshop，沒有找到；搜尋結果出現的 2019 年 AirAsia 布里斯本廣告被批促進性旅遊，是別支作品，不算。搜尋摘要未寫入。攝影師作品集頁（ekarat.myportfolio.com）用 WebFetch 打開過、有列創意團隊，但程式用 curl 會 404。 2026-11-10 Opus 驗：程式報 404 的攝影師作品集頁用 curl -L 重測回 200（程式檢查仍報 404，疑為轉址），BrandKnew 這次回 500，兩頁寫手都開過，保留。"
  },
  {
   "id": "ltwm-07540",

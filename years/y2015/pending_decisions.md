@@ -95,3 +95,10 @@
 - 仍 uncertain：b033 07509 Menzis PERSEVERE（缺影片情節）；b034 07801 #BESTDAYEVER（Chevrolet，查不到官方類別，【得獎】行是暫寫）；b035 07597（見上）。
 - 圖：b033 07509 用 YouTube 縮圖、07814 用 Ads of the World 海報（官方板太小或全黑）；b035 SNICKERS WRITE-OFF、BRADY BUNCH 圖偏小；b034 07801 用 Shorty 案例板。
 - 【爭議】0；撤獎 0。
+
+## 2026-11-11 雲端第 1 輪 b036 b037 b038 b039（Sonnet 寫、Opus 驗）
+- 【爭議】候選：b036 07538 北京地鐵，The Beijinger 說沒看到實際刊出、可能是愚人節玩笑或測試（沒有指控造假），寫手、驗收員都沒加【爭議】，請決定算不算。
+- 爭議已排除：b039 07562 Telma Red Phone，電視台老闆被控侵占等是電視台本身的事，與作品無關，不加。
+- 仍 uncertain：b036 07536 LITTLE GIRL（Freddo，缺代理商或品牌說明，只依畫面寫）；b037 07545 COUPLES（作品名用意不明）。
+- 圖：b036 07532 THE FUN QUEUE 仍沒圖；b037 07622 改用收據截圖（官方板全黑）；b039 07565 ANAGRAMS 用影片截圖。
+- 重複候選 0；撤獎 0。
