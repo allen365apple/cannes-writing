@@ -70,3 +70,11 @@
 - 仍 uncertain：b024 07422 ECRM EVOLUTION（只有標題，缺做法）；b025 07588 CHRISTMAS CAROLS（廣播，需本機用 vimeo.com/127057959 轉寫）。
 - 圖不理想：07422（只有麥當勞標誌）、07588（鈴鐺字卡）。
 - 撤獎 0。
+
+## 2026-11-10 雲端第 2 輪 b026 b027 b028 b029（Sonnet 寫、Opus 驗）
+- 【爭議】候選：b027 07446 WOW! NO COW!（Oatly）驗收員新加【爭議】段：瑞典市場法院 2015 年判決（MD 2015:18）認定行銷貶低乳製品、禁用部分包裝文案，請確認算不算爭議。b027 07447 AIRBNB REBRAND 寫手加的【爭議】（Bélo 標誌被指與 Automation Anywhere 相似）保留，請確認。
+- 寫錯支疑慮已排除：b026 07431 Reebok 第二座 Cyber 銀獅（BE MORE HUMAN 整合活動）與網站同一波活動，官方預填已併在同一筆。
+- in 檔候選圖錯誤：b027 07800 PETROLEUM HURTS 的 image_candidates 與第一個 ltw 卡是別支作品（Salentein 紅酒熊），稿子已改用 Greenpeace 海象案例板，建議本機修 in 的候選來源。
+- 仍 uncertain：b026 07896 MY LAST DAY（廣播／影片旁白，需本機轉寫 youtube vez8q-LA37s）；b028 07776 WASP SPIDER/SNAIL/PANDA（廣播，siren mp3 待轉寫）；b027 07921 STORY OF A SPOON（缺影片內容）；b028 07926 THE PEOPLE'S FILM（只有徵集報導，缺成片內容）；b028 07762 TERMINAL VELOCITY（巧思只能從畫面推測）。
+- 圖：沒圖 07926、07776；圖不理想 07921（只有地球縮圖）、07467 DISHES（已換中段影格，但只有 480×360）、PROTOTYPE（YouTube 縮圖很小）。
+- 撤獎 0；重複候選 0。
