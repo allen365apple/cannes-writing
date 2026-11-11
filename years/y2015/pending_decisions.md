@@ -102,3 +102,9 @@
 - 仍 uncertain：b036 07536 LITTLE GIRL（Freddo，缺代理商或品牌說明，只依畫面寫）；b037 07545 COUPLES（作品名用意不明）。
 - 圖：b036 07532 THE FUN QUEUE 仍沒圖；b037 07622 改用收據截圖（官方板全黑）；b039 07565 ANAGRAMS 用影片截圖。
 - 重複候選 0；撤獎 0。
+
+## 2026-11-11 雲端第 2 輪 b044 b045 b046（Sonnet 寫、Opus 驗）
+- 不收待確認：b045 07761 US OPEN SESSIONS（IBM），in 檔沒有官方獎項資料，只查到坎城入圍（Cyber、Design），Bizcommunity 兩類完整得獎表都沒有這件，清單的 BRONZE 疑誤植；寫手判不收、驗收員維持。請確認。
+- 仍 uncertain：b044 07625 Chicago Marathon MOVING WORDS（缺跑者如何被辨識、留言出現時機的原始來源）；建議本機補找。
+- 圖：b044 07626、07635 不用官方板（板只有風景或太小），07625 只有起跑截圖看不出點子；b046 07658 LOOKING FOR YOU 用媒體夥伴 Exterion Media 上傳的 YouTube 縮圖、SUPERSTAR 用第三方 YouTube 縮圖。
+- 重複候選 0；【爭議】0；撤獎 0。
