@@ -115,3 +115,10 @@
 - 沒有圖：b040 07584；b041 07586、07592、07593、07595。
 - 爭議已排除：b040 07583 Mums and Maids「羞辱媽媽」批評、b042 SOCIAL SAVVY BURGLAR 事先安排、ABORTION TUTORIALS、EMILY'S OZ 等都屬一般評論，只寫 note。
 - 重複候選 0；【爭議】0；撤獎 0。
+
+## 2026-11-12 雲端第 1 輪 b047 b048 b049（Sonnet 寫、Opus 驗）
+- 重複候選：b049 07701 PRICELESS PETS，官方另有 2016 同名報名（同一寵物店換展示動物的行動再報名）；驗收員建議保留這筆 2015 銅獅，decision 未改，請決定。
+- 仍 uncertain：b047 07674 BE PREPARED（Tic Tac，缺能說明創意的文字來源；得獎以官方戶外、設計各一銅為準，卡片 102626 的入圍是另一個報名分類）；b048 07688 GLAMAZON（缺文字說明；in 檔標題 FAVOURITE CHILD DETECTOR 是同客戶另一件，本列得獎作品確認是 GLAMAZON）。
+- 資料：b049 07696 in 檔代理商 FCB Brussels，官方 Happiness Brussels（稿照官方）；07700 in 檔作品名 Prima Finezja，官方 Thank-you Parcels。
+- 圖／來源偏薄：b048 07691 BALLOONS 官方 5 件只找到 1 張圖；07687 THE CUP OF LIFE 只有案例板一個來源；b049 07755 BMW Motorrad 只有 Race 一張、來源少；b047 07669 Travel Weekly 連結已 404。
+- 【爭議】0；撤獎 0。
