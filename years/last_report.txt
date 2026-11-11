@@ -1,12 +1,11 @@
-*坎城雲端寫稿｜2015 第 7 輪（11/11 02:09）*
-• 這輪寫完並驗收：b033～b039，共 7 批 70 件（收 69、不收 1）
-• 這輪寫到的作品（舉 3～5 件）：Taco Bell〈Taco Bell Blackout〉、Snickers〈The Snickers Write-Off〉、Getty Images〈20 Years〉、DHL〈Hands〉、Harvey Nichols〈Could I Be Any Clearer?〉
-• 2015 進度：已完成 46／70 批，剩 24 批（b040～b058、b066～b070）
-• 待決新增：9 件（不收待確認 1、跨年重複候選 1、拆筆建議 2、爭議候選 1、uncertain 4；另圖沒圖或不理想約 7 件）
-  • 不收：Pedigree〈Dogs Don't Judge〉是廣播，雲端找不到腳本或音檔，請本機找音檔後改收
-  • 重複：Casa de la Amistad〈The Hair Fest〉2014 年已得過獎，請確認 2014 有沒有收
-  • 拆筆：Taco Bell 早餐上市另有一支〈Routine Republic〉、Mars〈Settle It〉另有廣播得獎，要不要拆開請決定
-  • 爭議：北京地鐵廣告有媒體說沒看到實際刊出，請確認算不算爭議
-• 問題：寫手、驗收員都沒有違規
-  • 多個廣告媒體網站擋連線（LBB、Campaign、The Drum、Behance 等），改用其他來源，不影響收件
-• 預計：照一天 14 批，剩下約 2 天寫完（11/12 左右），接著寫 2014（隊伍裡沒有，等本機做前置）
+*坎城雲端寫稿｜2015 第 8 輪（11/11 14:13）*
+• 這輪寫完並驗收：b040～b046，共 7 批 70 件（收 68、不收 2）
+• 這輪寫到的作品（舉 3～5 件）：Allstate〈Social Savvy Burglar〉、KLM〈#HappyToHelp〉、Telekom〈Instaconcert〉、Truth Initiative〈Left Swipe Dat〉、Umeå Energi〈Living with Lag〉
+• 2015 進度：已完成 53／70 批，剩 17 批（b047～b058、b066～b070）
+• 待決新增：8 件（不收待確認 2、uncertain 6；重複 0、爭議 0）
+  • 不收：Bud Light〈Real Life Pac-Man〉、IBM〈US Open Sessions〉都只查到入圍、查不到得獎，請確認
+  • uncertain：6 件，其中 5 件是廣播，缺音檔或逐字稿，要本機轉寫；另 5 件沒有圖
+• 問題：
+  • 驗收途中雲端機器重啟，驗收員中斷；已先存進度、再派新驗收員接續驗完，沒有遺失
+  • 寫手、驗收員都沒有違規；多個廣告媒體網站擋連線（LBB、The Drum、Behance 等），改用其他來源
+• 預計：照一天 14 批，剩下約 1～2 天寫完（11/12 左右），接著寫 2014（隊伍裡沒有，等本機做前置）
