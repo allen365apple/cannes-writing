@@ -122,3 +122,11 @@
 - 資料：b049 07696 in 檔代理商 FCB Brussels，官方 Happiness Brussels（稿照官方）；07700 in 檔作品名 Prima Finezja，官方 Thank-you Parcels。
 - 圖／來源偏薄：b048 07691 BALLOONS 官方 5 件只找到 1 張圖；07687 THE CUP OF LIFE 只有案例板一個來源；b049 07755 BMW Motorrad 只有 Race 一張、來源少；b047 07669 Travel Weekly 連結已 404。
 - 【爭議】0；撤獎 0。
+
+## 2026-11-12 雲端第 1 輪 b050 b051 b052 b053（Sonnet 寫、Opus 驗）
+- 待決：b050 07715 Neuroth，官方得獎作品名 SERGEANT 看來是廣播作品，讀稿寫的 Hearing Test Concert 音樂會影片很可能是別件（in 檔連結指向音樂會影片）；請決定要本機找 SERGEANT 音檔重寫，還是改不收。目前標 uncertain。
+- 仍 uncertain：b052 07743 PRO VISION（Oakley，缺第二個文字來源）；b053 07763 du TOO INFORMATIVE（缺影片劇情，可本機看 https://www.youtube.com/watch?v=2I21reGUTKo 轉寫；in 檔 title NASTY NANNY 疑對錯件）。
+- 【爭議】已寫進讀稿（照收）：b051 07738 #SEATBELTB00BING（羅馬尼亞反歧視委員會以厭女為由裁罰）、07731 A MESSAGE TO SPACE（Hyundai，NASA 發言人說部分太空站畫面由演員演出）。
+- 資料：b050 07721 in 檔 THE HORNBACH SPRING COLLECTION，官方 Goth Girl（稿照官方）；07720 in 檔 brand 寫 Doctors Without Borders，實際是 Doctors of the World。
+- 圖：b050 07716 THE BOY WHO BEEPS 只有 480×360 小圖；b052 07748 找不到更好的圖。
+- 重複候選 0；撤獎 0。

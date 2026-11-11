@@ -41,7 +41,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方頁面沒有內文，內容依 GE 官方報導與 Adweek 整理。已搜爭議：搜「GE The Boy Who Beeps controversy／fake／withdrawn」，沒有找到相關爭議。圖是 Shoot 報導的片段截圖（480×360），解析度不高，沒找到官方 case board。YouTube 上的官方上傳連結沒查到，in 檔只有 Vimeo 連結。"
+  "note": "官方頁面沒有內文，內容依 GE 官方報導與 Adweek 整理。已搜爭議：搜「GE The Boy Who Beeps controversy／fake／withdrawn」，沒有找到相關爭議。圖是 Shoot 報導的片段截圖（480×360），解析度不高，沒找到官方 case board。YouTube 上的官方上傳連結沒查到，in 檔只有 Vimeo 連結。 2026-11-11 Opus 驗：圖仍是 480×360 小圖；官方 YouTube（FmB8R2v5ZrE）縮圖已失效、lovethework 分鏡是別支 GE 影片，找不到更好的圖，維持。"
  },
  {
   "id": "ltwm-07705",
@@ -116,7 +116,7 @@
   "text_source_level": 2,
   "uncertain": true,
   "needs_audio": false,
-  "note": "【請主對話確認】官方報名作品名（official.awards.entry_titles）是「SERGEANT」，Lovethework 卡片 sergeant-121396 沒有說明文字，網路上也查不到叫 Sergeant 的 Neuroth 作品（FCB Zürich／FCB Chicago）；選件清單的作品名與 in 檔 links 的 YouTube 影片（BXq1jKldSUA）都是「Hearing Test Concert」。本件讀稿是依 Hearing Test Concert 寫的，可能不是官方得獎的那支，故 uncertain；缺少：Sergeant 的作品內容。官方獎項是健康與保健類 OTC 銅獅（in 檔為準）。已搜爭議：搜「Neuroth Hearing Test Concert controversy／fake／withdrawn」，沒有找到爭議。圖是 in 檔 YouTube 影片的預設縮圖（小提琴手），與 Sergeant 無關。成效數字（聽力檢查人次、預約數）各來源不一，未寫入。"
+  "note": "【請主對話確認】官方報名作品名（official.awards.entry_titles）是「SERGEANT」，Lovethework 卡片 sergeant-121396 沒有說明文字，網路上也查不到叫 Sergeant 的 Neuroth 作品（FCB Zürich／FCB Chicago）；選件清單的作品名與 in 檔 links 的 YouTube 影片（BXq1jKldSUA）都是「Hearing Test Concert」。本件讀稿是依 Hearing Test Concert 寫的，可能不是官方得獎的那支，故 uncertain；缺少：Sergeant 的作品內容。官方獎項是健康與保健類 OTC 銅獅（in 檔為準）。已搜爭議：搜「Neuroth Hearing Test Concert controversy／fake／withdrawn」，沒有找到爭議。圖是 in 檔 YouTube 影片的預設縮圖（小提琴手），與 Sergeant 無關。成效數字（聽力檢查人次、預約數）各來源不一，未寫入。 2026-11-11 Opus 驗：lovethework sergeant-121396 的縮圖是音檔圖示（audio-purple.svg），所屬 campaign 頁名為 HEARING AID；bizcommunity 的 2015 Radio 入圍名單另列 Neuroth／FCB Zürich 的 WIFE、BORN 兩支廣播。研判官方得獎的 SERGEANT 是同系列的廣播（音訊）作品，不是 Hearing Test Concert 這支網路影片，讀稿目前寫的很可能是別件；網路上找不到 SERGEANT 的音檔或文案。維持 uncertain，待主對話決定（本機找音檔改寫，或改不收）。"
  },
  {
   "id": "ltwm-07719",
@@ -204,7 +204,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方頁面無內文，內容依 HORIZONT、My Modern Met 整理。選件清單與 in 檔的作品名是「THE HORNBACH SPRING COLLECTION」，in 檔 links 也指向 Spring Collection（縫在工作服上的 Herzblut 標籤），但官方報名作品名與 Lovethework 卡片（goth-girl-135823，Film > TV & Cinema Film）都是「Goth Girl」，所以寫 Goth Girl；請驗收員確認是否需改選件作品名。已搜爭議：搜「Hornbach Gothic Girl controversy」，沒有找到這支片的爭議（Hornbach 2019 年另一支春季廣告有種族歧視爭議，是別支廣告，不算）。圖是 Laughing Squid 轉貼的片段截圖（854×480），不是官方 case board。"
+  "note": "官方頁面無內文，內容依 HORIZONT、My Modern Met 整理。選件清單與 in 檔的作品名是「THE HORNBACH SPRING COLLECTION」，in 檔 links 也指向 Spring Collection（縫在工作服上的 Herzblut 標籤），但官方報名作品名與 Lovethework 卡片（goth-girl-135823，Film > TV & Cinema Film）都是「Goth Girl」，所以寫 Goth Girl；請驗收員確認是否需改選件作品名。已搜爭議：搜「Hornbach Gothic Girl controversy」，沒有找到這支片的爭議（Hornbach 2019 年另一支春季廣告有種族歧視爭議，是別支廣告，不算）。圖是 Laughing Squid 轉貼的片段截圖（854×480），不是官方 case board。 2026-11-11 Opus 驗：官方報名作品是「GOTH GIRL」，讀稿照官方寫 Goth Girl 正確；in 檔 title／links 指向同代理商另一件 Spring Collection，title 欄不改，請主對話知悉。圖維持 Laughing Squid 截圖（854×480，看得到哥德少女，看不到黑色房子），lovethework 沒有這件的分鏡圖。"
  },
  {
   "id": "ltwm-07706",
@@ -284,7 +284,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方頁面無內文，內容依官方案例板與 Motorino Limits、Motorbox 報導整理；成效數字未寫入。案例板說「一場比賽」球衣分半，Motorino Limits 說三場義甲賽事，兩者不一致，故讀稿不寫場數；Motorbox 沒標年份，只用於描述分半球衣與 Rovereto 比賽。官方獎項是公關類、Promo & Activation 類銅獅。已搜爭議：搜「Dacia Sponsor Day The Split Udinese controversy／polemica」，沒有找到這項活動的爭議（Dacia 與 Udinese 的球場冠名權爭議是別件事，不算）。"
+  "note": "官方頁面無內文，內容依官方案例板與 Motorino Limits、Motorbox 報導整理；成效數字未寫入。案例板說「一場比賽」球衣分半，Motorino Limits 說三場義甲賽事，兩者不一致，故讀稿不寫場數；Motorbox 沒標年份，只用於描述分半球衣與 Rovereto 比賽。官方獎項是公關類、Promo & Activation 類銅獅。已搜爭議：搜「Dacia Sponsor Day The Split Udinese controversy／polemica」，沒有找到這項活動的爭議（Dacia 與 Udinese 的球場冠名權爭議是別件事，不算）。 2026-11-11 Opus 驗：程式標的「分走一半媒體曝光」是點子本身的做法，不是成效，保留。"
  },
  {
   "id": "ltwm-07720",
@@ -316,7 +316,7 @@
   "idea_one_liner": "Doctors of the World 趁伊波拉萬聖節裝扮鬧上新聞，請穿這套裝扮的人，改捐真正的防護衣",
   "brand_display": "Doctors of the World（美國世界醫生組織）",
   "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜健康與保健類銅獅 Health & Wellness Bronze Lion、公關類銅獅 PR Bronze Lion｜代理商：PUBLICIS KAPLAN THALER New York\n\n【背景】2014 年，Doctors of the World 需要為西非的醫生募集伊波拉防護衣。同時美國正逢萬聖節，伊波拉防護衣成了當年最受爭議的萬聖節裝扮，新聞上到處都是。\n\n【點子】把這個爭議轉成捐款：攔截這股討論，請穿伊波拉裝扮的人，捐出真正的防護裝備。\n\n【執行】案例板上的做法有四塊：線上商店，讓人買真正的防護用品捐出去（捐款單價例如 1 美元的手套、5 美元的口罩、250 美元的防護衣）；針對性的社群貼文；在社群上攔截對話，例如回覆在節目中穿這套裝扮的名人「你穿起來很好看，但穿在真的醫生身上會更好」，並附上活動網址；以及針對自拍的貼文。另有報紙廣告，畫面是穿防護衣、提著南瓜桶的人，標語「Here it's a costume. There it saves lives.」（在這裡是裝扮，在那裡能救命）。\n\n資料來源：\nhttps://www.adweek.com/creativity/wearing-fake-ebola-hazmat-suit-halloween-donate-real-one-instead-161085/\nhttps://www.today.com/money/controversial-sexy-ebola-halloween-costume-sparks-donations-1d80258281\nhttps://www.warc.com/content/article/jaychiat/doctors_of_the_world_more_than_a_costume/105615",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 健康與保健類, Health & Wellness, 教育與服務, Education & Services, 公關類, PR, 銅獅, Bronze Lion, Doctors of the World, 世界醫生組織, Doctors Without Borders, PUBLICIS KAPLAN THALER, Publicis, 伊波拉, Ebola, 萬聖節, Halloween, 防護衣, 裝扮, 募款, 捐款, 公益, 非營利, 社群攔截, 社群媒體, 線上商店, 報紙廣告, 借勢, 西非, 美國, United States",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 健康與保健類, Health & Wellness, 教育與服務, Education & Services, 公關類, PR, 銅獅, Bronze Lion, Doctors of the World, 世界醫生組織, PUBLICIS KAPLAN THALER, Publicis, 伊波拉, Ebola, 萬聖節, Halloween, 防護衣, 裝扮, 募款, 捐款, 公益, 非營利, 社群攔截, 社群媒體, 線上商店, 報紙廣告, 借勢, 西非, 美國, United States",
   "category": "行銷案例",
   "references": [
    "https://www.adweek.com/creativity/wearing-fake-ebola-hazmat-suit-halloween-donate-real-one-instead-161085/",
@@ -328,7 +328,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方頁面無內文，內容依官方案例板與 Adweek、TODAY、WARC 整理；案例板上的成效數字未寫入。選件清單作品名是 DOCTORS OF THE WORLD，官方作品名是「More Than a Costume」，內容一致。官方獎項是健康與保健類、公關類銅獅（Lovethework 卡片列在健康與保健的 Education & Services）。已搜爭議：搜「Doctors of the World More Than a Costume criticism／controversy／fake」，沒有找到針對活動本身的爭議（爭議的是萬聖節伊波拉裝扮本身，是活動要攔截的對象，不算）。品牌名：官方是 Doctors Without Borders 欄位，實際是美國的 Doctors of the World（世界醫生組織），與無國界醫生是不同組織，請驗收員確認品牌寫法。"
+  "note": "官方頁面無內文，內容依官方案例板與 Adweek、TODAY、WARC 整理；案例板上的成效數字未寫入。選件清單作品名是 DOCTORS OF THE WORLD，官方作品名是「More Than a Costume」，內容一致。官方獎項是健康與保健類、公關類銅獅（Lovethework 卡片列在健康與保健的 Education & Services）。已搜爭議：搜「Doctors of the World More Than a Costume criticism／controversy／fake」，沒有找到針對活動本身的爭議（爭議的是萬聖節伊波拉裝扮本身，是活動要攔截的對象，不算）。品牌名：官方是 Doctors Without Borders 欄位，實際是美國的 Doctors of the World（世界醫生組織），與無國界醫生是不同組織，請驗收員確認品牌寫法。 2026-11-11 Opus 驗：brand 欄（DOCTORS WITHOUT BORDERS）來自 in 檔不改；brand_display 已是 Doctors of the World，標籤拿掉 Doctors Without Borders 以免與無國界醫生混淆。Adweek 核對：組織、代理商、捐款單價（手套 1、口罩 5、防護衣 250 美元）正確。"
  },
  {
   "id": "ltwm-07736",
@@ -366,7 +366,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方頁面無內文，內容依官方案例板、World Footwear 與 adRuby 整理；案例板的成效與銷售數字未寫入。已搜爭議：搜「Renault Twingo Stiletto Luís Onofre controversy／fake」，沒有找到相關爭議（法國 La Réclame 評論問車廠鎖定女性會不會落入性別刻板，只是一般評論，未寫入）。"
+  "note": "官方頁面無內文，內容依官方案例板、World Footwear 與 adRuby 整理；案例板的成效與銷售數字未寫入。已搜爭議：搜「Renault Twingo Stiletto Luís Onofre controversy／fake」，沒有找到相關爭議（法國 La Réclame 評論問車廠鎖定女性會不會落入性別刻板，只是一般評論，未寫入）。 2026-11-11 Opus 驗：事實抽查：打開官方案例板與 World Footwear 核對，Vogue Fashion Night Out、Michelle Obama／Paris Hilton、打孔皮革、仿輪胎紋橡膠鞋底、Stiletto Cap 都出自案例板，正確。"
  },
  {
   "id": "ltwm-07718",
