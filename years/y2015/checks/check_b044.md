@@ -1,0 +1,18 @@
+# 2015 程式檢查 b044（2026-11-11 06:29）
+
+共 10 件，被標 4 件。「疑似成效」是關鍵字比對，背景數字也會被標，要人判斷。
+
+## b044 ltwm-07625 CHICAGO MARATHON MOVING WORDS
+- uncertain：ontroversy／fake／fraud／withdrawn」，沒有找到相關指控（結果只有 2026 年無關的 Liberty Biberty 吉祥物抗議）。
+
+## b044 ltwm-07626 ONE MINUTE VACATION
+- 有官方 case board 沒用：https://ascentialcdn.filespin.io/api/v1/conversion/19a6a51af07c48b3eee2798a5c623759
+- 圖片太小（480×360）
+
+## b044 ltwm-07630 THE LAUNCH OF GREATNESS AWAITS
+- 疑似成效／其他獎：【策略】報導說，BBH New York 拿下這個客戶後，沒有像 Xbox 那樣把主機包裝成適合全家的多媒體娛樂，而是鎖定核心玩家。
+
+## b044 ltwm-07635 WHY WAIT UNTIL IT’S TOO LATE?
+- 有官方 case board 沒用：https://ascentialcdn.filespin.io/api/v1/conversion/9694691bd212493e8651dc116009b88f
+- 圖片太小（480×360）
+
