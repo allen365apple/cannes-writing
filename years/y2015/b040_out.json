@@ -135,7 +135,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方案例板只是影片字卡（一行文字），不看得出點子，改用報導網站轉載的活動示意圖（blogger 圖床，非官方）。內容依 Marketing Matters 部落格文章與 D&AD 檔案頁整理；兩者對留言是演算法自動送出還是團隊人工回覆說法略有出入，讀稿照 D&AD 寫（程式通知、團隊回覆）。WPP 官方頁面連不上（網域不在允許清單）。成效數字（觸及人數、點擊率）未寫入。已搜爭議：Melanoma Likes Me controversy／privacy／fake，沒有查到針對這件的指控（搜尋摘要未寫入）。官方代理商 GPY&R Brisbane。 2026-11-11 Opus 驗：官方 case board（/conversion/554094…）已下載打開，是影片第一格字卡「Aussies love the sun, and we love telling friends about it.」，看不出點子；寫手改用的 blogger 圖已打開，是 MPA 署名的活動示意圖（四則 melanoma 按讚／追蹤／留言通知與 Instagram 手機畫面），能看出點子，保留。"
+  "note": "官方案例板只是影片字卡（一行文字），不看得出點子，改用報導網站轉載的活動示意圖（blogger 圖床，非官方）。內容依 Marketing Matters 部落格文章與 D&AD 檔案頁整理；兩者對留言是演算法自動送出還是團隊人工回覆說法略有出入，讀稿照 D&AD 寫（程式通知、團隊回覆）。WPP 官方頁面連不上（網域不在允許清單）。成效數字（觸及人數、點擊率）未寫入。已搜爭議：Melanoma Likes Me controversy／privacy／fake，沒有查到針對這件的指控（搜尋摘要未寫入）。官方代理商 GPY&R Brisbane。 2026-11-11 Opus 驗：官方 case board（/conversion/554094…）已下載打開，是影片第一格字卡「Aussies love the sun, and we love telling friends about it.」，看不出點子；寫手改用的 blogger 圖已打開，是 MPA 署名的活動示意圖（四則 melanoma 按讚／追蹤／留言通知與 Instagram 手機畫面），能看出點子，保留。 2026-11-11 Opus 驗（接續）：程式報告標的 mktg-matters 部落格 503 是暫時性，重測 200，保留。"
  },
  {
   "id": "ltwm-07577",
@@ -236,7 +236,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 頁面需登入；內容依 Mothership 報導、D&AD 檔案頁、Campaign Asia 與官方案例板整理。D&AD 頁面的影片在登入後面，影片內容（八組、問題範例）依 Mothership。影片的觀看、留言、承諾數字與案例板上的成效未寫入。已搜爭議：Mums and Maids controversy，有「羞辱媽媽」的公眾批評（Campaign Asia、Mothership），屬一般評論，依規則只寫 note、讀稿不加【爭議】（批評內容：說影片羞辱媽媽、忽略爸爸；奧美回應片中是真實家庭，後者來自搜尋摘要，未寫入）。沒有造假、抄襲或撤獎。Campaign Asia 全文在登入後面，只讀到開頭。 2026-11-11 Opus 驗：一句話原本在主詞與動作之間下逗號，已改寫。【爭議】判斷：Campaign Asia、Mothership 的「羞辱媽媽、忽略爸爸」屬公開的一般評論，不是造假、抄襲、撤獎或成效不實，依規則卡不加【爭議】段，維持寫手做法。",
+  "note": "官方 lovethework 頁面需登入；內容依 Mothership 報導、D&AD 檔案頁、Campaign Asia 與官方案例板整理。D&AD 頁面的影片在登入後面，影片內容（八組、問題範例）依 Mothership。影片的觀看、留言、承諾數字與案例板上的成效未寫入。已搜爭議：Mums and Maids controversy，有「羞辱媽媽」的公眾批評（Campaign Asia、Mothership），屬一般評論，依規則只寫 note、讀稿不加【爭議】（批評內容：說影片羞辱媽媽、忽略爸爸；奧美回應片中是真實家庭，後者來自搜尋摘要，未寫入）。沒有造假、抄襲或撤獎。Campaign Asia 全文在登入後面，只讀到開頭。 2026-11-11 Opus 驗：一句話原本在主詞與動作之間下逗號，已改寫。【爭議】判斷：Campaign Asia、Mothership 的「羞辱媽媽、忽略爸爸」屬公開的一般評論，不是造假、抄襲、撤獎或成效不實，依規則卡不加【爭議】段，維持寫手做法。 2026-11-11 Opus 驗（接續）：複核上一位的【爭議】判斷：同意不加（「羞辱媽媽」屬一般評論，不在規則卡的爭議清單）。",
   "idea_one_liner_r0": "新加坡團體 TWC2 拍影片，請媽媽與幫傭，各答一輪孩子的日常問題，幫傭答得更準，藉此呼籲雇主讓幫傭每週休假"
  },
  {
@@ -441,20 +441,21 @@
   "awards_unverified": [],
   "idea_one_liner": "南非 Play-Doh 戶外廣告：餅乾罐裡是黏土捏的巧克力豆餅乾，檯面留著碎屑，暗示孩子偷吃後用黏土補回，標語「讓孩子變聰明」",
   "brand_display": "Play-Doh",
-  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：PUBLICIS MACHINE Cape Town\n\n【背景】Play-Doh 是孩子的黏土玩具。依獎項檔案頁的說明，這組廣告要說的是：玩黏土能讓孩子學到形狀與顏色，也學到大小、數量等抽象概念，並訓練精細動作與想像力。\n\n【點子】廣告要傳達的主張是「Play-Doh Makes Smart Kids」（Play-Doh 讓孩子變聰明）。同一段說明寫道，這組作品呈現孩子把黏土學到的本事「用在好地方」，語氣帶著反諷：畫面裡的「好地方」其實是掩飾自己做的壞事。\n\n【執行】官方報名的這支名稱是 COOKIES，Publicis Machine 開普敦製作，Ads of the World 把這組系列列為「Gnomes、Piggy bank、Cookies」三則。依官方案例圖，Cookies 這張的畫面是：明亮的廚房檯面上放著一個玻璃餅乾罐，罐裡堆滿帶著黑色巧克力點的餅乾，餅乾的質地看起來是黏土；罐子旁有裝著湯匙的杯子，檯面上有幾點碎屑；右下角是 Play-Doh 標誌，下面用類似黏土捏出的字體寫著「MAKES SMART KIDS」。依畫面解讀：罐裡是以假亂真的黏土餅乾，檯面上卻留著真餅乾的碎屑，暗示孩子偷吃了真餅乾，再用 Play-Doh 捏一批放回罐裡矇混過去；這份「聰明」正好呼應右下角的標語。\n\n資料來源：\nhttps://www.dandad.org/awards/professional/2016/outdoor-advertising/25198/cookies\nhttps://www.adsoftheworld.com/campaigns/gnomes\nhttps://ascentialcdn.filespin.io/api/v1/conversion/160fed91c359426dadcd38b6c2cbef29",
+  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：PUBLICIS MACHINE Cape Town\n\n【背景】Play-Doh 是孩子的黏土玩具。依獎項檔案頁的說明，這組廣告要說的是：玩黏土能讓孩子學到形狀與顏色，也學到大小、數量等抽象概念，並訓練精細動作與想像力。\n\n【點子】廣告要傳達的主張是「Play-Doh Makes Smart Kids」（Play-Doh 讓孩子變聰明）。同一段說明寫道，這組作品呈現孩子把黏土學到的本事「用在好地方」，語氣帶著反諷：畫面裡的「好地方」其實是掩飾自己做的壞事。\n\n【執行】官方報名的這支名稱是 COOKIES，Publicis Machine 開普敦製作，Ads of the World 把這組系列列為「Gnomes、Piggy bank、Cookies」三則。依官方案例圖，Cookies 這張的畫面是：明亮的廚房檯面上放著一個玻璃餅乾罐，罐裡堆滿帶著黑色巧克力點的餅乾，餅乾的質地看起來是黏土；罐子旁有裝著湯匙的杯子，檯面上有幾點碎屑；右下角是 Play-Doh 標誌，下面用類似黏土捏出的字體寫著「MAKES SMART KIDS」。Trend Hunter 的介紹寫道，這組廣告要說 Play-Doh 能幫孩子替自己闖的禍想出解法：像是沒經允許吃掉一罐餅乾、偷開撲滿，都能靠黏土掩蓋痕跡；畫面裡的破綻很細微，要仔細看才會發現。對照這張圖：罐裡是黏土捏的假餅乾，檯面卻留著真餅乾的碎屑，也就是孩子偷吃後用 Play-Doh 補了一罐矇混過去，這份「聰明」正好呼應右下角的標語。\n\n資料來源：\nhttps://www.dandad.org/awards/professional/2016/outdoor-advertising/25198/cookies\nhttps://www.adsoftheworld.com/campaigns/gnomes\nhttps://ascentialcdn.filespin.io/api/v1/conversion/160fed91c359426dadcd38b6c2cbef29\nhttps://www.trendhunter.com/trends/playdoh-ad",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 戶外類, Outdoor, 娛樂休閒, Entertainment & Leisure, 銅獅, Bronze Lion, Play-Doh, 培樂多, Hasbro, 孩之寶, Publicis Machine, Publicis, 開普敦, Cape Town, 南非, South Africa, 玩具, 黏土, 黏土玩具, 兒童, 戶外廣告, 平面廣告, 餅乾, 餅乾罐, 廚房, 以假亂真, 視覺錯覺, 聰明, 學習, 想像力, 系列廣告, 幽默, 偷吃, 掩飾, 反諷, 視覺雙關",
   "category": "行銷案例",
   "references": [
    "https://dandad.org/awards/professional/2016/outdoor-advertising/25198/cookies",
    "https://www.adsoftheworld.com/campaigns/gnomes",
-   "https://ascentialcdn.filespin.io/api/v1/conversion/160fed91c359426dadcd38b6c2cbef29"
+   "https://ascentialcdn.filespin.io/api/v1/conversion/160fed91c359426dadcd38b6c2cbef29",
+   "https://www.trendhunter.com/trends/playdoh-ad"
   ],
   "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/160fed91c359426dadcd38b6c2cbef29",
   "image_shows": "官方案例圖：廚房檯面上的玻璃餅乾罐，裡面是帶黑色巧克力點的黏土餅乾，罐旁有杯子與檯面碎屑，右下角是 Play-Doh 標誌與「MAKES SMART KIDS」",
   "text_source_level": 3,
   "uncertain": false,
   "needs_audio": false,
-  "note": "uncertain：沒有文字來源說明這張的情節。官方 lovethework 頁面連不上說明；Trend Hunter 擋爬（403）未讀到，搜尋摘要提到的「孩子偷餅乾」劇情未寫入；Behance／adsoftheworld 沒有敘述。一句話與讀稿只寫看得到的畫面與 D&AD 的通用說明；餅乾是黏土做的（質地、無法吃）這點是依畫面判斷。這張標語與構圖的「巧思」看不出文字依據，請驗收員判斷是否收。Ads of the World 把系列標為平面（print），官方獎項是戶外；in 檔 title MAKES SMART KIDS 是系列標語，官方報名名稱 COOKIES。已搜爭議：Play-Doh Makes Smart Kids Publicis scam／controversy／fake，沒有針對這件的指控（搜到的新加坡 Hasbro 假廣告是別件）。 2026-11-11 Opus 驗：官方作品圖已下載打開：玻璃罐裡是黏土質感的巧克力豆餅乾，罐外檯面有碎屑。依作品畫面解讀，無完整文字說明（Trend Hunter 403；D&AD 只寫到孩子把 Play-Doh 本事「用在好地方…」）；「偷吃後用黏土補回」是依畫面與 D&AD 反諷語氣的解讀，已在讀稿標明。看得出巧思，拿掉 uncertain。",
+  "note": "uncertain：沒有文字來源說明這張的情節。官方 lovethework 頁面連不上說明；Trend Hunter 擋爬（403）未讀到，搜尋摘要提到的「孩子偷餅乾」劇情未寫入；Behance／adsoftheworld 沒有敘述。一句話與讀稿只寫看得到的畫面與 D&AD 的通用說明；餅乾是黏土做的（質地、無法吃）這點是依畫面判斷。這張標語與構圖的「巧思」看不出文字依據，請驗收員判斷是否收。Ads of the World 把系列標為平面（print），官方獎項是戶外；in 檔 title MAKES SMART KIDS 是系列標語，官方報名名稱 COOKIES。已搜爭議：Play-Doh Makes Smart Kids Publicis scam／controversy／fake，沒有針對這件的指控（搜到的新加坡 Hasbro 假廣告是別件）。 2026-11-11 Opus 驗：官方作品圖已下載打開：玻璃罐裡是黏土質感的巧克力豆餅乾，罐外檯面有碎屑。依作品畫面解讀，無完整文字說明（Trend Hunter 403；D&AD 只寫到孩子把 Play-Doh 本事「用在好地方…」）；「偷吃後用黏土補回」是依畫面與 D&AD 反諷語氣的解讀，已在讀稿標明。看得出巧思，拿掉 uncertain。 2026-11-11 Opus 驗（接續）：Trend Hunter 重新打開可讀（200），文中寫明這組作品是孩子用 Play-Doh 掩蓋偷吃餅乾、偷開撲滿的痕跡，證實上一位依畫面的解讀，已把讀稿改成引用 Trend Hunter 並加入資料來源；維持拿掉 uncertain。",
   "idea_one_liner_r0": "南非 Play-Doh 戶外廣告，畫面是廚房檯面上的餅乾罐，罐裡裝滿黏土捏的餅乾，旁邊撒著碎屑，標語寫「讓孩子變聰明」"
  }
 ]

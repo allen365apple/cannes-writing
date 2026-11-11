@@ -43,7 +43,7 @@
   "text_source_level": 2,
   "uncertain": true,
   "needs_audio": true,
-  "note": "uncertain：三支廣播（Yoghurt、Softener、Sanitary Pads）的音檔與台詞沒取得，官方卡片與作品頁只有基本資料；SoundCloud 播放清單 https://api.soundcloud.com/playlists/117724711 本機可轉逐字稿補寫。【得獎】行品牌欄 in 檔寫 SBS Belgium，官方產品為 VIER。LinkedIn 檔案的細節只依 WARC 摘要，其他報導（如瀏覽人數）是搜尋摘要，未寫入。圖是節目時段主視覺（來自作者部落格），非廣播本身。已搜爭議：搜「VIER Crime Night radio BBDO Stalker」及相關詞，沒有造假、抄襲或撤獎紀錄。 2026-11-11 Opus 驗：WARC 網址重測可開（轉到新網址、200）。另搜 Yoghurt／Softener／Sanitary Pads 台詞沒找到，維持 uncertain，等本機轉寫 SoundCloud 音檔。"
+  "note": "uncertain：三支廣播（Yoghurt、Softener、Sanitary Pads）的音檔與台詞沒取得，官方卡片與作品頁只有基本資料；SoundCloud 播放清單 https://api.soundcloud.com/playlists/117724711 本機可轉逐字稿補寫。【得獎】行品牌欄 in 檔寫 SBS Belgium，官方產品為 VIER。LinkedIn 檔案的細節只依 WARC 摘要，其他報導（如瀏覽人數）是搜尋摘要，未寫入。圖是節目時段主視覺（來自作者部落格），非廣播本身。已搜爭議：搜「VIER Crime Night radio BBDO Stalker」及相關詞，沒有造假、抄襲或撤獎紀錄。 2026-11-11 Opus 驗：WARC 網址重測可開（轉到新網址、200）。另搜 Yoghurt／Softener／Sanitary Pads 台詞沒找到，維持 uncertain，等本機轉寫 SoundCloud 音檔。 2026-11-11 Opus 驗（接續）：再搜三支廣播台詞仍無文字來源，維持 uncertain，等本機轉寫 SoundCloud。"
  },
  {
   "id": "ltwm-07599",
@@ -142,7 +142,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入（lovethework 頁面只有基本資料），也沒找到代理商作品頁；內容依 Trendhunter（產品）、KBB Online（價格與合作）、WARC 的 Jay Chiat 策略獎案例摘要整理，WARC 摘要未直接寫 Martin Agency，但與本件的 Fenway Collection 是同一活動。電視廣告的內容、青少年球場改造的細節沒有打開過的來源，故未寫。成效未寫入。圖只是影片一格，看得到綠色怪物牆但看不出整個做法。已搜爭議：搜「Benjamin Moore Fenway Collection Green Monster Martin Agency controversy fraud」，沒有爭議紀錄。 2026-11-11 Opus 驗：一句話原本把「把…綠色怪物牆」與動詞「賣」用逗號拆開，已改。寫錯支核對：in 檔官方連結 vimeo.com/118927992 的標題是「Bringing the Green Monster to Local Fields | Benjamin Moore」（2015-02 上傳，Martin Agency 系統的配音案），與讀稿的 Fenway Collection＋整修少年球場是同一個整合活動，官方作品名 RED SOX: GREEN MONSTER 只有一支，沒有寫錯支。WARC 網址重測可開（301 轉到新網址、200）。",
+  "note": "官方全文需登入（lovethework 頁面只有基本資料），也沒找到代理商作品頁；內容依 Trendhunter（產品）、KBB Online（價格與合作）、WARC 的 Jay Chiat 策略獎案例摘要整理，WARC 摘要未直接寫 Martin Agency，但與本件的 Fenway Collection 是同一活動。電視廣告的內容、青少年球場改造的細節沒有打開過的來源，故未寫。成效未寫入。圖只是影片一格，看得到綠色怪物牆但看不出整個做法。已搜爭議：搜「Benjamin Moore Fenway Collection Green Monster Martin Agency controversy fraud」，沒有爭議紀錄。 2026-11-11 Opus 驗：一句話原本把「把…綠色怪物牆」與動詞「賣」用逗號拆開，已改。寫錯支核對：in 檔官方連結 vimeo.com/118927992 的標題是「Bringing the Green Monster to Local Fields | Benjamin Moore」（2015-02 上傳，Martin Agency 系統的配音案），與讀稿的 Fenway Collection＋整修少年球場是同一個整合活動，官方作品名 RED SOX: GREEN MONSTER 只有一支，沒有寫錯支。WARC 網址重測可開（301 轉到新網址、200）。 2026-11-11 Opus 驗（接續）：複核寫錯支：官方 entry_titles 只有 RED SOX: GREEN MONSTER 一支，讀稿寫的 Fenway Collection＋少年球場整修與 in 檔 Vimeo 官方影片同一活動，沒有寫錯支；圖是綠色怪物牆，已打開確認。",
   "idea_one_liner_r0": "美國油漆品牌 Benjamin Moore 推出限量色系，把紅襪球場的綠色怪物牆，連同其他配色賣給球迷，銷售額用來整修少年棒球場"
  },
  {
@@ -177,12 +177,12 @@
    "https://www.dandad.org/work/d-ad-awards-archive/unbelievable-bus-shelter",
    "https://clickz.com/?p=32896"
   ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/0436bb4db94447e997ee0ab167b614d9/storyboard_000002.jpg",
-  "image_shows": "官方影片分鏡：黑底，左邊是 Pepsi Max 罐子，右邊白字寫 Maximum Taste、No Sugar、Unbelievable",
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/0436bb4db94447e997ee0ab167b614d9/storyboard_000010.jpg",
+  "image_shows": "官方影片分鏡：一名男子在倫敦的籃球場圍網邊凌空後空翻，背景是磚造公寓與籃框",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方作品名是 Unbelievable Campaign（BCE 非虛構線上系列銅獅）；官方全文需登入，也沒找到完整的系列清單。讀稿只寫打開過的 Famous Campaigns 與 D&AD 兩頁（D&AD 該頁是同一活動的「Unbelievable Bus Shelter」另一項作品）的內容：自由奔跑圈與公車站，其他集數與系列的整體做法未能確認，建議驗收員核對。LBB、The Drum 等頁面回 403 打不開。播放量與銷售數字未寫入。圖是影片尾卡，不是公車站畫面（分鏡其他格是運動場腳部、黑白走廊，看不出內容）。已搜爭議：搜「Pepsi Max Unbelievable bus shelter fake CGI controversy」，沒有爭議紀錄。 2026-11-11 Opus 驗：核對系列內容：ClickZ（2014-03-04）寫到 Unbelievable Channel 每週更新，列出 Unbelievable Challenges、Card Ninja、合作的 YouTube 導演與創作者，以及 Vine 看板，已補進讀稿與一句話；各集細節仍無來源，未寫。",
+  "note": "官方作品名是 Unbelievable Campaign（BCE 非虛構線上系列銅獅）；官方全文需登入，也沒找到完整的系列清單。讀稿只寫打開過的 Famous Campaigns 與 D&AD 兩頁（D&AD 該頁是同一活動的「Unbelievable Bus Shelter」另一項作品）的內容：自由奔跑圈與公車站，其他集數與系列的整體做法未能確認，建議驗收員核對。LBB、The Drum 等頁面回 403 打不開。播放量與銷售數字未寫入。圖是影片尾卡，不是公車站畫面（分鏡其他格是運動場腳部、黑白走廊，看不出內容）。已搜爭議：搜「Pepsi Max Unbelievable bus shelter fake CGI controversy」，沒有爭議紀錄。 2026-11-11 Opus 驗：核對系列內容：ClickZ（2014-03-04）寫到 Unbelievable Channel 每週更新，列出 Unbelievable Challenges、Card Ninja、合作的 YouTube 導演與創作者，以及 Vine 看板，已補進讀稿與一句話；各集細節仍無來源，未寫。 2026-11-11 Opus 驗（接續）：圖原本是品牌字卡（Maximum Taste／No Sugar／Unbelievable），看不出點子，改用同一支官方影片分鏡第 10 格（街頭後空翻特技），已下載打開確認、image/jpeg。複核 ClickZ：每週更新、Unbelievable Challenges、Card Ninja、合作導演與創作者、七處 Vine 看板與日期，均相符。",
   "idea_one_liner_r0": "Pepsi Max 以「Unbelievable」為題連續推出影片，其中一支把倫敦公車站變成透明窗，播放外星人與老虎特效"
  },
  {
@@ -369,7 +369,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "南非金融集團 Sanlam 請一位上班族整整一個月，只用一元硬幣生活，薪水全領硬幣、金融卡凍結，並每週公開拍成紀錄片",
+  "idea_one_liner": "南非金融集團 Sanlam 請上班族只用一元硬幣過一個月：薪水全換成硬幣、金融卡凍結，每週拍成紀錄片公開",
   "brand_display": "Sanlam 南非金融服務公司",
   "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：KING JAMES GROUP Cape Town\n\n【背景】Sanlam 是南非的金融服務公司，想幫人們重新和自己的錢連結。依 Direct New Ideas 的案例整理，南非人是全球最不會存錢的族群之一，家庭負債平均約等於稅後收入的四分之三，而信用卡主要讓人多花錢。\n\n【洞察】如果一個人被切斷所有信用，只能用一元硬幣付錢，會發生什麼事？Sanlam 的想法是：很少南非人真的知道自己花了多少錢。\n\n【點子】做一個社會實驗：讓一個普通人的錢全部變成硬幣，拉近人與金錢的距離，也看看他會不會存得下錢。\n\n【執行】2014 年 7 月的全國儲蓄月，一位 32 歲、住開普敦的建築顧問成為「One Rand Man（一元男）」。整整一個月，他的銀行帳戶、金融卡與自動扣款都被凍結，一個月薪水用大包的一元硬幣一次交給他，他得親手管理每一塊錢的進出。實驗用隱藏攝影機拍下他與人互動的真實反應，包括用硬幣付大筆款項時店家的反應。成品被剪成五集，每週在線上發布，內容包括他最初的掙扎、用硬幣付大額款項、生活習慣如何被影響，以及月底只剩幾個硬幣時他怎麼處理。他每天的花費也被貼在社群上，每集之後，由南非最大財經報紙的專家針對他的表現寫評論。圖片取自官方影片分鏡：開普敦的市中心天際線，疊上大字 INCOME 與 75% 的比例圖形，對應家庭負債占收入約四分之三的背景數字。\n\n資料來源：\nhttps://www.directnewideas.com/magazine/king_james_group_cape_town_one_rand_man_a_social_experiment/?id=1698\nhttps://themediaonline.co.za/2014/07/briefly-one-rand-man-will-live-off-r1-coins-for-a-month\nhttps://www.lovethework.com/en/work/entries/one-rand-man-122396",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Branded Content & Entertainment類, Branded Content & Entertainment, 品牌內容與娛樂類, 非虛構線上系列, Non-Fiction Online Series, 銅獅, Bronze Lion, Sanlam, 金融, 金融服務, 儲蓄, 理財, 存錢, 儲蓄月, 硬幣, 一元硬幣, 現金, 信用卡, 負債, 社會實驗, Social Experiment, 紀錄片, 網路紀錄片, 隱藏攝影機, 真人實驗, 網路系列影片, YouTube, 影片系列, 每週更新, KING JAMES GROUP, King James, 南非, South Africa, 開普敦, Cape Town, 一元男, One Rand Man, 專家評論, 報紙, 社群媒體",
@@ -384,7 +384,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片頁只有基本資料；內容依 Direct New Ideas（案例整理）與 The Media Online（2014 年 7 月活動開始時的報導）整理，兩個來源在細節上互補。成效數字（媒體曝光、觀看）與 Sanlam 之後的一元家庭續作未寫入。圖是同一支影片的分鏡格（INCOME 與 75% 圖表），不是他搬硬幣的畫面，同批其他格只有天際線、辦公室內的男子；驗收員可決定是否換圖。已搜爭議：搜「Sanlam One Rand Man controversy fake staged criticism」，沒有造假、抄襲或撤獎紀錄。"
+  "note": "官方卡片頁只有基本資料；內容依 Direct New Ideas（案例整理）與 The Media Online（2014 年 7 月活動開始時的報導）整理，兩個來源在細節上互補。成效數字（媒體曝光、觀看）與 Sanlam 之後的一元家庭續作未寫入。圖是同一支影片的分鏡格（INCOME 與 75% 圖表），不是他搬硬幣的畫面，同批其他格只有天際線、辦公室內的男子；驗收員可決定是否換圖。已搜爭議：搜「Sanlam One Rand Man controversy fake staged criticism」，沒有造假、抄襲或撤獎紀錄。 2026-11-11 Opus 驗（接續）：一句話原本把「一位上班族整整一個月」與「只用一元硬幣生活」用逗號拆開，已改。事實抽查 The Media Online：32 歲開普敦建築顧問、全國儲蓄月、帳戶與金融卡與自動扣款凍結、薪水一大袋一元硬幣、五集隱藏攝影機紀錄片，均相符。",
+  "idea_one_liner_r0": "南非金融集團 Sanlam 請一位上班族整整一個月，只用一元硬幣生活，薪水全領硬幣、金融卡凍結，並每週公開拍成紀錄片"
  },
  {
   "id": "ltwm-07695",
@@ -408,7 +409,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "Allstate 讓世界盃球迷發推文，請「厄運」這個角色對對手球隊施咒，厄運再用即時影片，回覆他怎麼讓對手出糗",
+  "idea_one_liner": "美國保險公司 Allstate 讓世界盃球迷發推文，請「厄運」這個角色對對手球隊施咒，厄運再用即時影片，回覆他怎麼讓對手出糗",
   "brand_display": "Allstate 全州保險",
   "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜媒體類銅獅 Media Bronze Lion｜代理商：LAPIZ Chicago / LEO BURNETT CHICAGO\n\n【背景】案例板寫的挑戰是：世界盃四年一次，每個品牌都在媒體上要球迷表達對自己國家隊的熱情。\n\n【點子】Allstate 決定反其道而行：讓球迷可以把壞運氣送給對手，只要發一則推文給壞運的化身，「厄運先生」（西班牙語帳號是 Mala Suerte）。\n\n【執行】在 2014 年世界盃期間，球迷用 #SendBadLuck（西語為 #EnviaLaMalaSuerte）發推文給 @SoyLaMalaSuerte 帳號。案例板舉的例子是：球迷 Kyle 發文要巴西球員烏龍球，之後 Marcelo 真的踢了一個烏龍球，厄運先生便回推一支影片，演他在背後怎麼做到的。Allstate 在 64 場比賽中做了 300 多支即時影片。決賽前，球迷可以決定誰是輸家：厄運先生帶著他的黑貓，球迷發推文決定把貓糧放進哪一隊的碗裡，最後貓選了阿根廷。Portada 的報導補充，這個帳號會即時跳進進球等場面，用戲謔的口氣回覆球迷，Allstate 沒有限制語言的使用，並搭配付費與自然的推特操作、電視、數位與平面；平面包括墨西哥國家隊的比賽節目冊與在芝加哥、波士頓比賽現場的訊息，社群頁由 Leo Burnett 旗下的 Lapiz 協助管理。\n\n資料來源：\nhttps://www.portada-online.com/2014/07/07/world-cup-marketing-how-allstate-enables-fans-to-send-mala-suerte-to-rival-team\nhttps://www.lovethework.com/en/work/entries/sendbadluck-107150",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 媒體類, Media, 銅獅, Bronze Lion, 社群平台運用, Use of Social Platforms, Allstate, Allstate Insurance, 全州保險, LAPIZ, Lapiz, LEO BURNETT CHICAGO, Leo Burnett, 保險, 金融, 世界盃, World Cup, 足球, Soccer, 體育賽事, 球迷, 厄運, Bad Luck, Mala Suerte, 角色, 品牌角色, 推特, Twitter, 社群媒體, 即時行銷, Real-time Marketing, 即時影片, 主題標籤, Hashtag, 黑貓, 烏龍球, 西班牙語, 拉丁裔, 美國, United States, 芝加哥, Chicago",
@@ -422,6 +423,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "內容依案例板（已打開、可讀）與 Portada 報導整理。案例板左下的 300 支即時影片、64 場比賽是做了多少，不是成效；案例板右下的推特熱門話題、成長百分比與曝光數都是成效，未寫入。搜尋摘要提到 Lucky 黑貓預測是 2016 年美洲盃的活動，與案例板的 2014 年決賽畫面不同，讀稿只採案例板。官方報名名稱為 #SENDBADLUCK（媒體類銅獅），in 檔代理商 LAPIZ Chicago / LEO BURNETT CHICAGO。已搜爭議：搜「Allstate SendBadLuck Mala Suerte controversy criticism fake」，沒有爭議紀錄。 2026-11-11 Opus 驗：事實抽查官方案例板：Kyle 推文要巴西烏龍球、Marcelo 烏龍球、回推影片、64 場 300 多支即時影片、決賽黑貓選阿根廷，均相符。"
+  "note": "內容依案例板（已打開、可讀）與 Portada 報導整理。案例板左下的 300 支即時影片、64 場比賽是做了多少，不是成效；案例板右下的推特熱門話題、成長百分比與曝光數都是成效，未寫入。搜尋摘要提到 Lucky 黑貓預測是 2016 年美洲盃的活動，與案例板的 2014 年決賽畫面不同，讀稿只採案例板。官方報名名稱為 #SENDBADLUCK（媒體類銅獅），in 檔代理商 LAPIZ Chicago / LEO BURNETT CHICAGO。已搜爭議：搜「Allstate SendBadLuck Mala Suerte controversy criticism fake」，沒有爭議紀錄。 2026-11-11 Opus 驗：事實抽查官方案例板：Kyle 推文要巴西烏龍球、Marcelo 烏龍球、回推影片、64 場 300 多支即時影片、決賽黑貓選阿根廷，均相符。 2026-11-11 Opus 驗（接續）：一句話補上 Allstate 的身分。",
+  "idea_one_liner_r0": "Allstate 讓世界盃球迷發推文，請「厄運」這個角色對對手球隊施咒，厄運再用即時影片，回覆他怎麼讓對手出糗"
  }
 ]

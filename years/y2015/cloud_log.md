@@ -27,3 +27,6 @@
 - 問題：無違規（程式檢查「整批」沒掃到違規；寫手、驗收員都自報沒用 rm、沒自加標頭、沒用 git；b033–b035 驗收員跑過一次唯讀 git diff）。b033 寫手自報沒逐件重讀，驗收員已逐件看過並修 3 件。寫作中提交過數次「寫作中暫存（未驗）」，驗完已提交最終版。
 - 2026-11-11 02:09 回報已寫進 years/last_report.txt。
 - 2026-11-11 14:13 開工：b040 b041 b042 b043 b044 b045 b046（雲端 2026-11-11 第 2 輪）
+- 2026-11-11 雲端第 2 輪收尾：寫完並驗完 b040–b046（7 批 70 件，收 68、不收 2：b043 07728 REAL LIFE PAC-MAN、b045 07761 US OPEN SESSIONS，都是只查到入圍、查不到得獎，待本機確認）。2015 累計驗完 53／70 批，剩 b047–b058、b066–b070。待決新增 8 件（不收待確認 2：07728、07761；仍 uncertain 6：07584、07586、07591、07595、07598、07625；另沒圖 5 件、圖不理想數件）。重複 0、【爭議】0、撤獎 0。連不上：LBB、The Drum、MediaPost、Behance、AdsSpot、Ads of the World 部分頁、AdForum、Clio、creativepool、Trend Hunter、La Réclame 等 403／404；Vimeo、SAAQ 人機驗證；sites.wpp.com、adnews.com.au 網域不在允許清單；lovethework 官方頁沒有內文。沒撞額度。
+- 問題：無違規（程式檢查「整批」沒掃到違規；寫手、驗收員都自報沒用 rm、沒自加標頭、沒用 git）。b042 寫手有一次誤把空檔寫到專案外 /home/user/tmp_unused，已用 mv 搬進 tmp_b042/old/，沒刪檔。驗收途中容器重啟，兩位驗收員中斷；已先提交「2015 驗收中暫存（容器重啟）」，再派新驗收員接續（新驗收員逐一核對了前一位的修改），最後提交最終版。寫作中提交過數次「寫作中暫存（未驗）」。開工時本機 main 與 origin 分岔，已把 main 對齊 origin/main（舊提交留在本機分支 tmp_local_main_0611，沒 force push）。
+- 2026-11-11 14:13 回報已寫進 years/last_report.txt。

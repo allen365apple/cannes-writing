@@ -108,3 +108,10 @@
 - 仍 uncertain：b044 07625 Chicago Marathon MOVING WORDS（缺跑者如何被辨識、留言出現時機的原始來源）；建議本機補找。
 - 圖：b044 07626、07635 不用官方板（板只有風景或太小），07625 只有起跑截圖看不出點子；b046 07658 LOOKING FOR YOU 用媒體夥伴 Exterion Media 上傳的 YouTube 縮圖、SUPERSTAR 用第三方 YouTube 縮圖。
 - 重複候選 0；【爭議】0；撤獎 0。
+
+## 2026-11-11 雲端第 2 輪 b040 b041 b042 b043（Sonnet 寫、Opus 驗）
+- 不收待確認：b043 07728 REAL LIFE PAC-MAN（Bud Light），in 檔沒有官方獎項資料，只查到 Promo 類入圍（BUD LIGHT COIN），Promo、Film 得獎名單都沒有；lovethework 搜尋摘要寫 1 銅但頁面要登入看不到類別。寫手判不收、驗收員建議維持；請本機用 lovethework 登入確認。
+- 仍 uncertain（都是廣播，缺音檔或逐字稿，要本機轉寫）：b040 07584 Flight Centre BEER FEST／MUSIC FEST；b041 07586 POP TRANSLATOR、07591 XMAS DLIGHTS、07595 FACEBOOK／HISTORY；b042 07598 CRIME NIGHT（SoundCloud 播放清單 117724711）。
+- 沒有圖：b040 07584；b041 07586、07592、07593、07595。
+- 爭議已排除：b040 07583 Mums and Maids「羞辱媽媽」批評、b042 SOCIAL SAVVY BURGLAR 事先安排、ABORTION TUTORIALS、EMILY'S OZ 等都屬一般評論，只寫 note。
+- 重複候選 0；【爭議】0；撤獎 0。

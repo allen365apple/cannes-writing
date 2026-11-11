@@ -73,7 +73,7 @@
   "text_source_level": 3,
   "uncertain": false,
   "needs_audio": false,
-  "note": "建議不收：in 檔沒有 official 官方資料與獎項（official_awards 空白），lovethework 搜不到這件，查到的所有來源（Shots、Time、Adweek、LBB、iSpot）都只談 2015 年超級盃廣告，沒有任何坎城得獎或入圍紀錄。疑似清單把同品牌的 Whatever, USA（ltwm-07615，同批第 5 件）誤列，或根本不是獅子獎得獎作品，請主對話或驗收員確認。因此只做簡短整理、沒有挑圖。LBB 頁面打不開（403）、YouTube 頁面沒有內文，只有 Shots 一個來源。已搜爭議：搜 Real Life Pac-Man 相關，搜尋摘要有「Bud Light 稱主角參與 100% 自然」的真假討論，未打開來源，不寫入。 2026-11-11 Opus 驗：查證得獎：in 檔無官方獎項；搜尋到的 2015 Bud Light／Energy BBDO Chicago 銅獅在 Branded Content & Entertainment，對應的是同批 ltwm-07615 Whatever, USA；One Show 2015 只有 Real Life Pac-Man 的 Merit（非坎城）。lovethework「BUD LIGHT」campaign 頁（219540）搜尋摘要稱 1 銅 2 入圍且描述是 Pac-Man，但頁面內容靠 JS 載入讀不到，無法確認獎項類別與作品名。目前查不到這件自己的獅子獎，維持寫手的不收，未改 decision，交主對話確認。"
+  "note": "建議不收：in 檔沒有 official 官方資料與獎項（official_awards 空白），lovethework 搜不到這件，查到的所有來源（Shots、Time、Adweek、LBB、iSpot）都只談 2015 年超級盃廣告，沒有任何坎城得獎或入圍紀錄。疑似清單把同品牌的 Whatever, USA（ltwm-07615，同批第 5 件）誤列，或根本不是獅子獎得獎作品，請主對話或驗收員確認。因此只做簡短整理、沒有挑圖。LBB 頁面打不開（403）、YouTube 頁面沒有內文，只有 Shots 一個來源。已搜爭議：搜 Real Life Pac-Man 相關，搜尋摘要有「Bud Light 稱主角參與 100% 自然」的真假討論，未打開來源，不寫入。 2026-11-11 Opus 驗：查證得獎：in 檔無官方獎項；搜尋到的 2015 Bud Light／Energy BBDO Chicago 銅獅在 Branded Content & Entertainment，對應的是同批 ltwm-07615 Whatever, USA；One Show 2015 只有 Real Life Pac-Man 的 Merit（非坎城）。lovethework「BUD LIGHT」campaign 頁（219540）搜尋摘要稱 1 銅 2 入圍且描述是 Pac-Man，但頁面內容靠 JS 載入讀不到，無法確認獎項類別與作品名。目前查不到這件自己的獅子獎，維持寫手的不收，未改 decision，交主對話確認。 2026-11-11 Opus 驗（接續）：續查得獎：bizcommunity 2015 Promo & Activation 入圍名單有「BUD LIGHT COIN」（AB-INBEV／ENERGY BBDO Chicago，即本件超級盃廣告《Coin》），但同站 Promo & Activation 得獎名單（含銅獅）沒有它，Film 得獎名單也沒有；全年 in 檔官方資料裡 Bud Light 唯一的獅子是 07615 Whatever, USA（Branded Live Experience 銅）。lovethework campaign 頁 bud-light-219540 的 og:image 分鏡第 6 格是洛杉磯市區停車場搭景（應是本件），搜尋摘要稱 1 銅 2 入圍，但頁面獎項需登入、無法確認那座銅是哪個類別。判斷：目前可證實的只有入圍，依「只入圍不收」維持不收；若主對話的官方得獎表查到 COIN／PAC-MAN 的獅子再改。decision 未動。"
  },
  {
   "id": "ltwm-07610",
@@ -114,12 +114,12 @@
    "https://www2.spikes.asia/winners/2014/branded/entry.cfm?entryid=3869&award=99&order=4&direction=1",
    "https://www.lovethework.com/en/work/entries/radiant-return-122141"
   ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/88d9ef631d9647bfe6dc3968c1330ee6/storyboard_000002.jpg",
-  "image_shows": "影片字卡：紫色與粉紅色格紋布料，中間白字寫 RADIANT KEEPS CLOTHES LOOKING NEWER",
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/88d9ef631d9647bfe6dc3968c1330ee6/storyboard_000009.jpg",
+  "image_shows": "官方影片分鏡：多格拼貼，有人穿著便服騎越野四輪車、戴口罩在閣樓裡清雜物、豬在泥地裡拱桶子、男子幫忙倒垃圾車、兩名男子穿著圓點洋裝，呈現穿著衣服做各種髒事的各集片段",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 頁無內文，內容依 D&AD 作品頁與 第二個來源（亞洲創意節網站作品頁）整理。官方兩個報名作品名為 RADIANT RETURN MASTER FILM 與 RADIANT RETURN，讀稿合併描述。圖只找到影片字卡（其餘候選格是模糊人臉），看不出點子，僅供辨識品牌。D&AD 頁提到 14 件中 13 件退貨成功，屬成果，未寫入；The Stable、Marketing 網站打不開（503／403）。已搜爭議：搜「Radiant Return DDB Melbourne controversy／fake／staged／withdrawn」，沒有找到造假、抄襲或撤獎指控（搜尋摘要提到有一件衣服拍攝時被魚刺扯破，非爭議，未寫入）。"
+  "note": "官方 lovethework 頁無內文，內容依 D&AD 作品頁與 第二個來源（亞洲創意節網站作品頁）整理。官方兩個報名作品名為 RADIANT RETURN MASTER FILM 與 RADIANT RETURN，讀稿合併描述。圖只找到影片字卡（其餘候選格是模糊人臉），看不出點子，僅供辨識品牌。D&AD 頁提到 14 件中 13 件退貨成功，屬成果，未寫入；The Stable、Marketing 網站打不開（503／403）。已搜爭議：搜「Radiant Return DDB Melbourne controversy／fake／staged／withdrawn」，沒有找到造假、抄襲或撤獎指控（搜尋摘要提到有一件衣服拍攝時被魚刺扯破，非爭議，未寫入）。 2026-11-11 Opus 驗（接續）：圖原本是標語字卡（RADIANT KEEPS CLOTHES LOOKING NEWER），改用同一支官方影片分鏡第 9 格（各集弄髒衣服的拼貼），已下載打開確認、image/jpeg。"
  },
  {
   "id": "ltwm-07730",
@@ -143,7 +143,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "阿根廷啤酒 Andes 推出限量瓶，掃瓶身 QR 碼錄 20 秒影片綁在瓶上，遞給對方，對方看完訊息就自毀",
+  "idea_one_liner": "阿根廷啤酒 Andes 推出限量瓶：掃瓶身 QR 碼就能錄 20 秒影片綁在瓶上，遞給對方，對方看完訊息就自毀",
   "brand_display": "Andes 啤酒",
   "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：DEL CAMPO SAATCHI & SAATCHI Buenos Aires\n\n【背景】官方案例板寫道，有些話當面說實在太難，像是承認自己做錯事，或是傳達壞消息。Andes 的標語是「If you have something tough to say, say it with an Andes」（有難開口的話，就用 Andes 來說）。La Criatura Creativa 的報導則寫到，這個想法來自「一起喝啤酒，問題就變得比較小」。\n\n【點子】把啤酒瓶變成傳話的人：用一瓶啤酒，讓人把難以開口的話錄成影片，連同酒一起交給對方。\n\n【執行】Andes 做了一支 App 和一款限量版啤酒，瓶身貼有 QR 碼，每個 QR 碼對應一段影片。案例板列出五個步驟：下載 App；掃描酒瓶；錄下訊息（畫面上寫著「You have 20 seconds」，只有 20 秒）；把酒瓶交給收件人；訊息被聽過一次後就會自我銷毀（畫面上是一團爆炸的火光）。收件人用手機掃同一個瓶身 QR 碼就能收看。版面上的示範畫面是一對情侶在沙發上親吻，旁邊是貼著 QR 碼的酒瓶，瓶標寫著「Mensaje en una botella」（瓶中信）。作品由 Del Campo Saatchi & Saatchi Buenos Aires 為 AB InBev 的 Andes 製作。\n\n資料來源：\nhttps://ascentialcdn.filespin.io/api/v1/conversion/44dada230cbf483bc2fcd623c06870ff\nhttps://lacriaturacreativa.com/2014/12/15/cerveza-andes-crea-un-sistema-de-envio-de-mensajes-a-traves-de-sus-botellas/\nhttps://www.lovethework.com/en/work/entries/message-in-a-bottle-114839",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 戶外類銅獅, Outdoor Bronze Lion, 戶外類, Outdoor, 銅獅, Bronze Lion, Small Scale Special Solutions, 小規模特殊解決方案, Andes, AB InBev, 安地斯啤酒, 啤酒, Beer, 酒類, 阿根廷, Argentina, Del Campo Saatchi & Saatchi, Saatchi & Saatchi Buenos Aires, 限量版瓶身, 限量瓶, 包裝, Packaging, QR 碼, QR Code, 手機 App, App, 影片訊息, Video Message, 閱後即焚, 自我銷毀, Self-destruct, 瓶中信, Message in a Bottle, 告白, 道歉, 傳話, 年輕人, 啤酒瓶",
@@ -158,7 +158,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 頁無內文，內容依案例板與 La Criatura Creativa 報導整理。案例板上的銷量、下載數、訊息數等成效未寫入。搜尋摘要提到的 Marketing Directo、MarTech 等頁面沒有打開，未寫入。已搜爭議：搜「Andes Message in a Bottle Saatchi Buenos Aires controversy／fake／withdrawn」，沒有找到造假、抄襲或撤獎指控（搜尋出現的是 Andes 另一支「The Fairest Night」被媒體質疑真實性，屬同品牌別支廣告，不算）。"
+  "note": "官方 lovethework 頁無內文，內容依案例板與 La Criatura Creativa 報導整理。案例板上的銷量、下載數、訊息數等成效未寫入。搜尋摘要提到的 Marketing Directo、MarTech 等頁面沒有打開，未寫入。已搜爭議：搜「Andes Message in a Bottle Saatchi Buenos Aires controversy／fake／withdrawn」，沒有找到造假、抄襲或撤獎指控（搜尋出現的是 Andes 另一支「The Fairest Night」被媒體質疑真實性，屬同品牌別支廣告，不算）。 2026-11-11 Opus 驗（接續）：一句話原本「掃瓶身 QR 碼錄影片」沒有主詞，已改。圖已打開：官方案例板，五步驟與瓶身 QR 碼看得清楚。",
+  "idea_one_liner_r0": "阿根廷啤酒 Andes 推出限量瓶，掃瓶身 QR 碼錄 20 秒影片綁在瓶上，遞給對方，對方看完訊息就自毀"
  },
  {
   "id": "ltwm-07615",
@@ -197,7 +198,7 @@
   "text_source_level": 3,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 頁無內文；Adweek 只讀到開頭（付費牆），其餘依 NBC 報導。官方報名作品名為「BUD LIGHT WHATEVER, USA LAUNCH 2014」，讀稿寫的是整個小鎮活動，影片本身的內容沒有文字來源，只描述看得到的畫面。圖為影片分鏡格，模糊，只看得出小鎮與藍色元素，建議驗收員視需要換圖。已搜爭議：搜「Whatever USA Bud Light controversy」，有居民對活動意見分歧（NBC：有人批評保密與商業化、市長稱多數居民支持），屬一般評論、不算指控造假抄襲，只寫在 note，讀稿未加【爭議】；搜尋出現的 2015 年酒標「removing no from your vocabulary」爭議是同品牌別支廣告，不算。"
+  "note": "官方 lovethework 頁無內文；Adweek 只讀到開頭（付費牆），其餘依 NBC 報導。官方報名作品名為「BUD LIGHT WHATEVER, USA LAUNCH 2014」，讀稿寫的是整個小鎮活動，影片本身的內容沒有文字來源，只描述看得到的畫面。圖為影片分鏡格，模糊，只看得出小鎮與藍色元素，建議驗收員視需要換圖。已搜爭議：搜「Whatever USA Bud Light controversy」，有居民對活動意見分歧（NBC：有人批評保密與商業化、市長稱多數居民支持），屬一般評論、不算指控造假抄襲，只寫在 note，讀稿未加【爭議】；搜尋出現的 2015 年酒標「removing no from your vocabulary」爭議是同品牌別支廣告，不算。 2026-11-11 Opus 驗（接續）：事實抽查 NBC News：小鎮約 1,500 人、約一千位線上抽獎入選者搭巴士入鎮、Elk Avenue 漆藍、藍色大猩猩雕像、鎮議會一致通過、5,000 美元申請費、50 萬美元捐款、外人不能進派對但小鎮照常開放，均相符。"
  },
  {
   "id": "ltwm-07616",
@@ -384,10 +385,10 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "荷蘭 WWF 的動畫短片，先拍珊瑚礁裡表情豐富的海星與魚，再切到黑暗冰冷的人類世界，點出珊瑚破壞、塑膠垃圾與濫捕",
+  "idea_one_liner": "荷蘭 WWF 的動畫短片，先畫出珊瑚礁裡的海星與魚，個個表情豐富，再切到黑暗冰冷的人類世界，點出珊瑚破壞、塑膠垃圾與濫捕",
   "brand_display": "WWF 荷蘭",
   "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：OGILVY & MATHER AMSTERDAM\n\n【背景】Creative Bloq 引用 WWF Sea Stars 網站的數字：當時全球只有 2.8% 的海洋受到保護，WWF 的目標是在 2020 年前提高到 10%。WWF 荷蘭因此發起 Sea Stars（海洋之星）行動，邀請各地喜愛大自然的人一起參與。\n\n【點子】用一支討喜的動畫短片講沉重的題目。導演之一 Bertrand Bey 說，WWF 想談珊瑚礁破壞、塑膠垃圾與工業捕撈，並希望用聰明、好懂的方式說故事。做法是先讓觀眾喜歡上、認同水下世界的角色，再把他們從安靜好笑的地方，拉進一個暴力的世界。\n\n【執行】腳本由 Ogilvy Amsterdam 撰寫，Not To Scale 阿姆斯特丹工作室的法國導演二人組 Pierre + Bertrand（Pierre Ducos 與 Bertrand Bey）把它做成約兩分鐘的動畫。他們混用 2D 與 3D：水下是繽紛的 3D 世界，魚被做成帶有人類表情的角色；人類世界則刻意做得黑暗冰冷，形成對比。影片畫面裡，圓臉的卡通海星坐在彩色珊瑚礁上，周圍有海龜與魚，一塊岩石上刻著 WWF 熊貓標誌與荷蘭文「Beschermd zeegebied」（受保護的海域）。Not To Scale 的團隊也替這個行動的互動網站製作了平面與宣傳素材。依 Naocrituss 部落格，片中歌曲「World of Blue」由荷蘭歌手 Wyke van Weelden 與 Guido's Orchestra 演唱。\n\n資料來源：\nhttps://www.creativebloq.com/advertising/pixar-style-animation-highlights-plight-ocean-61411864\nhttps://nottoscale.tv/video/sea-stars\nhttps://magazine.shots.net/news/view/84061-wwf-seastars\nhttps://naocrituss.wordpress.com/2014/05/23/wwf-seastars/\nhttps://www.lovethework.com/en/work/entries/seastars-122117",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Branded Content & Entertainment類, Branded Content & Entertainment, 銅獅, Bronze Lion, Original Use of Music, 原創音樂, WWF, WWF The Netherlands, 世界自然基金會荷蘭, 荷蘭, Netherlands, Ogilvy & Mather Amsterdam, Ogilvy, 公益, 非營利, 環保, 海洋保育, 海洋, Oceans, 珊瑚礁, Coral Reef, 珊瑚礁修復, 海星, Seastars, Sea Stars, 動畫, Animation, 歌曲, 音樂, World of Blue, 捐款, Not To Scale, Pierre & Bertrand, 海龜, 熊貓標誌, 塑膠垃圾, 海洋污染, 過度捕撈, Overfishing, 工業捕撈, 2D 動畫, 3D 動畫, 擬人化, 對比, 海洋保護區",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Branded Content & Entertainment類, Branded Content & Entertainment, 銅獅, Bronze Lion, Original Use of Music, 原創音樂, WWF, WWF The Netherlands, 世界自然基金會荷蘭, 荷蘭, Netherlands, Ogilvy & Mather Amsterdam, Ogilvy, 公益, 非營利, 環保, 海洋保育, 海洋, Oceans, 珊瑚礁, Coral Reef, 海星, Seastars, Sea Stars, 動畫, Animation, 歌曲, 音樂, World of Blue, Not To Scale, Pierre & Bertrand, 海龜, 熊貓標誌, 塑膠垃圾, 海洋污染, 過度捕撈, Overfishing, 工業捕撈, 2D 動畫, 3D 動畫, 擬人化, 對比, 海洋保護區",
   "category": "行銷案例",
   "references": [
    "https://www.creativebloq.com/advertising/pixar-style-animation-highlights-plight-ocean-61411864",
@@ -401,7 +402,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "uncertain：缺影片的情節與歌詞內容。官方 lovethework 頁無內文，Clio、AdForum、Brown Bag 等頁面打不開（403／404），只讀到 Naocrituss 部落格、另一份歐洲創意節清單（只有基本資料）與影片畫面，所以讀稿只寫看得到與來源有寫的部分，點子是依部落格的描述與影片畫面整理，沒有寫故事。部落格另寫歌曲進入荷蘭排行榜前 50 名，屬成果，未寫入。圖用 YouTube 影片 -Yg8WYEDFQk（搜尋結果標示為 WWF Seastars）的 maxresdefault 縮圖，沒有確認是否為 WWF 官方頻道，請驗收員確認。已搜爭議：搜「WWF Seastars Ogilvy Amsterdam controversy／fake／withdrawn／plagiarism」，沒有找到造假、抄襲或撤獎指控。 2026-11-11 Opus 驗：補強來源：Creative Bloq（2014-06-04，導演訪談：2.8%／10% 背景、腳本主題、2D＋3D、水下與人類世界對比、約兩分鐘）、Not To Scale 作品頁、Shots，已改寫一句話與讀稿並拿掉 uncertain；拿掉「Donations for Oceans」與珊瑚礁修復平台的說法（無打開來源支持）。Not To Scale 頁寫的坎城獎項未寫入。圖：YouTube -Yg8WYEDFQk 經 oEmbed 確認標題「WWF - Seastars」、上傳者是製作公司 Not To Scale 頻道，圖已打開確認，可用。",
-  "idea_one_liner_r0": "荷蘭 WWF 做了一支動畫短片，讓海星角色在珊瑚礁間登場，邀請人們當「海洋之星」，支持保護海洋與修復珊瑚礁"
+  "note": "uncertain：缺影片的情節與歌詞內容。官方 lovethework 頁無內文，Clio、AdForum、Brown Bag 等頁面打不開（403／404），只讀到 Naocrituss 部落格、另一份歐洲創意節清單（只有基本資料）與影片畫面，所以讀稿只寫看得到與來源有寫的部分，點子是依部落格的描述與影片畫面整理，沒有寫故事。部落格另寫歌曲進入荷蘭排行榜前 50 名，屬成果，未寫入。圖用 YouTube 影片 -Yg8WYEDFQk（搜尋結果標示為 WWF Seastars）的 maxresdefault 縮圖，沒有確認是否為 WWF 官方頻道，請驗收員確認。已搜爭議：搜「WWF Seastars Ogilvy Amsterdam controversy／fake／withdrawn／plagiarism」，沒有找到造假、抄襲或撤獎指控。 2026-11-11 Opus 驗：補強來源：Creative Bloq（2014-06-04，導演訪談：2.8%／10% 背景、腳本主題、2D＋3D、水下與人類世界對比、約兩分鐘）、Not To Scale 作品頁、Shots，已改寫一句話與讀稿並拿掉 uncertain；拿掉「Donations for Oceans」與珊瑚礁修復平台的說法（無打開來源支持）。Not To Scale 頁寫的坎城獎項未寫入。圖：YouTube -Yg8WYEDFQk 經 oEmbed 確認標題「WWF - Seastars」、上傳者是製作公司 Not To Scale 頻道，圖已打開確認，可用。 2026-11-11 Opus 驗（接續）：複核 Creative Bloq：2.8%／10%、Ogilvy Amsterdam 腳本、Pierre Ducos 與 Bertrand Bey、2D＋3D、水下與人類世界對比、Bey 的引言，均相符。動畫片一句話「先拍」改「先畫出」；拿掉讀稿已不再提的標籤「珊瑚礁修復」「捐款」。",
+  "idea_one_liner_r0": "荷蘭 WWF 做了一支動畫短片，讓海星角色在珊瑚礁間登場，邀請人們當「海洋之星」，支持保護海洋與修復珊瑚礁",
+  "idea_one_liner_r1": "荷蘭 WWF 的動畫短片，先拍珊瑚礁裡表情豐富的海星與魚，再切到黑暗冰冷的人類世界，點出珊瑚破壞、塑膠垃圾與濫捕"
  }
 ]
