@@ -1,10 +1,11 @@
-*坎城雲端寫稿｜2015 第 9 輪（11/12 02:09）*
-• 這輪寫完並驗收：b047～b053，共 7 批 70 件（全收）
-• 這輪寫到的作品（舉 3～5 件）：Hyundai〈A Message to Space〉、比利時廣告公司協會〈Sell the Jobless〉、美國海軍〈Project Architeuthis〉、Purina〈Priceless Pets〉、Fashion Revolution〈The 2 Euro T-shirt〉
-• 2015 進度：已完成 60／70 批，剩 10 批（b054～b058、b066～b070）
-• 待決新增：9 件（重複候選 1、要決定的 1、uncertain 4、已加爭議段 2、其他 1）
-  • 要決定：Neuroth 那件官方得獎的是廣播〈Sergeant〉，稿寫成另一支音樂會影片；請決定找音檔重寫或改不收
-  • 重複候選：Purina〈Priceless Pets〉2016 年又報名一次，建議保留 2015 這筆
-  • 爭議：現代汽車〈A Message to Space〉部分畫面被指演出、#SeatbeltB00bing 被羅馬尼亞裁罰，都照收並寫了爭議段
-• 問題：無（寫手、驗收員都沒有違規；多個廣告網站擋連線，已改用其他來源）
-• 預計：照一天 14 批，剩下約 1 天寫完（11/13 左右），接著寫 2014（輸入檔已備好，在隊伍裡）
+*坎城雲端寫稿｜2015 第 10 輪（11/12 14:09）*
+• 這輪寫完並驗收：b054～b058、b066、b067，共 7 批 70 件（收 65、不收 4、重複 1）
+• 這輪寫到的作品（舉 3～5 件）：OK Go〈Upside Down & Inside Out〉、Foo Fighters 粉絲募資演唱會、Mophie〈All-Powerless〉、AIAIAI〈TMA-2 模組耳機〉、Volvo〈Hijacking Car Service〉
+• 2015 進度：已完成 67／70 批，剩 3 批（b068～b070）
+• 待決新增：23 件（重複候選 4、由不收改收待確認 1、資料不足不收待確認 3、仍 uncertain 15；爭議 0、撤獎 0）
+• 問題：
+  • 重複要你決定：Dove〈A Mother's Body〉廣播與影片版疑同一件，驗收員建議以獎項較高的廣播金獅為主；Snickers 壁畫、Lucozade 廣播也疑與舊批重複
+  • AXA〈Art Insurance〉寫手因網站擋讀取判不收，驗收員找到別的來源改成收，請確認
+  • b056 寫手有一次想透過第三方中繼網站讀取被擋的網頁，被系統擋下沒執行，已記進紀錄
+  • 不少報導網站擋讀取（LBB、Behance、AdsSpot、Campaign 等），廣播類多件缺音檔，需本機轉逐字稿
+• 預計：2015 剩 3 批，下一輪（11/13 02:00）寫完，接著寫 2014（56 批，約 4 天，11/17 左右）
