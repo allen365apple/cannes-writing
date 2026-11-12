@@ -84,7 +84,7 @@
   "uncertain": false,
   "needs_audio": false,
   "note": "已搜爭議：「Clinton Foundation Not There campaign controversy criticism Droga5 fake」，沒有造假、抄襲、撤獎指控（只找到一篇部落格批評代理商缺乏多元性，屬一般評論，未寫入讀稿）。案例板上的成效數字（Twitter 追蹤數、曝光量）未寫入。官方報名名稱 NOT THERE，一致。lbbonline 連不上（403），Drum 連不上，故以 Designboom、HuffPost 與案例板為主。",
-  "idea_one_liner": "克林頓基金會在國際婦女節找 115 個品牌與名人，把廣告看板和雜誌封面上的女性拿掉，只留網址 Not-There.org"
+  "idea_one_liner": "克林頓基金會在國際婦女節找 115 個品牌與名人，把看板和雜誌封面上的女性拿掉，只留網址 Not-There.org"
  },
  {
   "id": "ltwm-07773",
@@ -170,7 +170,7 @@
   "uncertain": false,
   "needs_audio": false,
   "note": "官方報名名稱 THE BODY 1／2／3，三張；只看到一張畫面（案例板），其他兩張未看。文字來源只有 Trend Hunter（引用 adeevee 與品牌官網），其餘為畫面描述，故 text_source_level 2。Ads of the World 回 405、La Réclame 被擋，無法取得其他說明。標語的意思為依字面翻譯。已搜爭議：「Römerquelle Water made Herezie controversy／banned／withdrawn」，沒有爭議。",
-  "idea_one_liner": "奧地利礦泉水 Römerquelle 請插畫家用水彩畫女性身體，顏料像水一樣暈開，角落標語「Water-made sensuality」"
+  "idea_one_liner": "奧地利礦泉水 Römerquelle 用水彩畫女性身體，顏料像水暈開，標語「Water-made sensuality」"
  },
  {
   "id": "ltwm-07772",
@@ -256,7 +256,7 @@
   "uncertain": false,
   "needs_audio": false,
   "note": "已搜爭議：「Kahlúa The White Russian Jeff Bridges ad controversy／plagiarism／withdrawn／fake」，沒有爭議（只有 Lebowski 致敬的輕鬆評論）。Lucky Generals 官網文末有銷量與觀看數字，屬成效，未寫入。官方卡片只寫標題；劇情來源 CinemaBlend 與 Shots 的描述略有出入（Shots 寫「兩個來自不同世界的男人」），讀稿以兩者共通處為主，手提箱情節標明來自 CinemaBlend。官方獎項是影片工藝類劇本、導演各一座銅獅。圖用 Shots 文章主圖（slatecdn）。YouTube 連不上、lbbonline 連不上。",
-  "idea_one_liner": "Kahlúa 請奧斯卡影帝傑夫·布里吉斯在爵士酒吧邊喝白俄羅斯雞尾酒，邊講年輕時的離奇故事，拍成四分鐘短片"
+  "idea_one_liner": "Kahlúa 拍四分鐘短片，請奧斯卡影帝傑夫·布里吉斯，在爵士酒吧邊喝 White Russian，邊講年輕時的離奇故事"
  },
  {
   "id": "ltwm-07778",
@@ -295,7 +295,7 @@
   "uncertain": true,
   "needs_audio": false,
   "note": "依作品畫面解讀，無文字說明。FIGHTER、SAILOR 兩張都看過；沒有任何文字說明（Behance 回 403，WebFetch 也 403；lovethework 卡片只有標題）。缺：代理商或報導的案例說明，確認「找回男人雄風」的解讀。已搜爭議：「X Sense Men Bring Him Back Y&R Santiago」，沒有搜到相關報導或爭議。",
-  "idea_one_liner": "X-Sense Men 勃起功能障礙藥廣告，床上的中年女子抱著丈夫當年拳擊手模樣的相框，標語「Bring Him Back」"
+  "idea_one_liner": "X-Sense Men 勃起障礙藥廣告，年長女子坐在床邊，抱著男子壯年的黑白相框，標語「Bring Him Back」"
  },
  {
   "id": "ltwm-07907",
@@ -335,7 +335,7 @@
   "uncertain": false,
   "needs_audio": false,
   "note": "已搜爭議：「Bexsero Protecting Our Tomorrows Anne Geddes controversy criticism」，沒有針對本作品的造假或抄襲指控（搜到的是 Bexsero 疫苗在英國的接種政策爭議，與此作品無關，不算）。贊助方說法不一：Novartis 2013 年新聞稿寫 Novartis Vaccines；Fox News 2015 年寫與 GSK 合作出書（Bexsero 後來由 GSK 接手）。官方 award_line 與品牌欄用官方的 NOVARTIS VACCINES，讀稿未寫贊助方。案例板最後一段為成果描述，未寫入。clios 連結 404。",
-  "idea_one_liner": "疫苗品牌 Bexsero 找攝影師 Anne Geddes 為腦膜炎雙球菌倖存的孩子與家人拍藝術肖像，再集結成免費電子書"
+  "idea_one_liner": "疫苗品牌 Bexsero 找攝影師 Anne Geddes，為腦膜炎倖存的孩子與家人，拍成藝術肖像並集結成電子書"
  },
  {
   "id": "ltwm-07774",
@@ -412,6 +412,6 @@
   "uncertain": false,
   "needs_audio": false,
   "note": "已搜爭議：「Schick Free Your Skin animal beards controversy／fake／animal welfare」，沒有造假、抄襲指控（只有美國留鬍子團體批評廣告屬一般評論，未寫入）。官方報名名稱 WHAT EMMA/KATE/SARAH SEES，只看到 SARAH 一張的畫面，EMMA、KATE 未看。Designboom 的動物製作說明引自後製工作室 Electric Art。Ads of the World 回 404，Clios 連結 404。",
-  "idea_one_liner": "Schick 紐西蘭把留鬍子的男人拍成下巴上黏著一隻毛茸茸動物，警告鬍子不刮就會失控，標題是「What Sarah Sees」"
+  "idea_one_liner": "Schick 紐西蘭拍男人的大鬍子變成毛茸茸動物，趴在下巴上，警告鬍子不刮就失控，標題「What Sarah Sees」"
  }
 ]
