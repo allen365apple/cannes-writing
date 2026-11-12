@@ -130,3 +130,12 @@
 - 資料：b050 07721 in 檔 THE HORNBACH SPRING COLLECTION，官方 Goth Girl（稿照官方）；07720 in 檔 brand 寫 Doctors Without Borders，實際是 Doctors of the World。
 - 圖：b050 07716 THE BOY WHO BEEPS 只有 480×360 小圖；b052 07748 找不到更好的圖。
 - 重複候選 0；撤獎 0。
+
+## 2026-11-12 雲端第 2 輪 b054 b055 b057（Sonnet 寫、Opus 驗）
+- 改判請確認：b057 07816 AXA ART INSURANCE，寫手因 Behance 403 標不收，驗收員找到 Spikes Asia 參賽頁＋DDB 作品集頁、三張原圖都看過，改成收。
+- 重複候選：b057 07811 THE GUY WITH NO TIMING（in 檔無 official 資料，目前不收）疑與 b069 ltwm-99532 SOUP 同一件（YouTube 標題「SOPA (Homem Sem Timing)」）；建議由 b069 收這筆。
+- 不收待確認（資料不足）：b055 07790 INSA'S SPACE GIF-ITI（無 official 資料，只查到入圍；代理商 Langland Windsor／M&C Saatchi 說法不一）；b055 07780 NOT IN THE SHAPE THEY USED TO BE（Hill's，影片工藝，查無內容）；b057 07810 Otsuka ADPKD（clios 404、官方頁無內文）。建議本機看片，有內容就改收。
+- 仍 uncertain：b054 07772 TRUE LOVE（無內容，需看影片）、07774 BOB（廣播，需轉音檔 https://adsspot.me/media/radio/vhv-bob-8b92882dba8f）、07773 CROSS BORDERS、07778 BRING HIM BACK（只有畫面、缺文字說明）；b055 07781 YWCA 三支廣播（缺腳本，note 有 sirenawards mp3）；b057 07813 Santa Teresa（4 則只看到 OUTPUT）。
+- 資料：b055 07782 官方作品名 PIMP，in 檔標題 HATED BY SOME（稿照官方）；b057 07817 官方 ATM，in 檔 THE ATM SWITCH；b054 07771 BEXSERO 贊助方 Novartis／GSK 說法不一，讀稿未寫。
+- 圖：b054 07772、07774，b055 07781、07780、07790 沒圖。
+- 【爭議】0；撤獎 0；OK Go 07791 驗收員確認不是跨批重複。
