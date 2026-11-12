@@ -1,11 +1,12 @@
-*坎城雲端寫稿｜2015 第 10 輪（11/12 14:09）*
-• 這輪寫完並驗收：b054～b058、b066、b067，共 7 批 70 件（收 65、不收 4、重複 1）
-• 這輪寫到的作品（舉 3～5 件）：OK Go〈Hungry Ghosts 專輯〉、Foo Fighters〈Foo Fighters RVA〉、Mophie〈All-Powerless〉、AIAIAI〈TMA-2 模組耳機〉、Volvo〈Hijacking Car Service〉
-• 2015 進度：已完成 67／70 批，剩 3 批（b068～b070）
-• 待決新增：23 件（重複候選 4、由不收改收待確認 1、資料不足不收待確認 3、仍 uncertain 15；爭議 0、撤獎 0）
+*坎城雲端寫稿｜2015 收尾＋2014 第 1 輪（11/13 02:10）*
+• 這輪寫完並驗收：2015 b068～b070（3 批 29 件）＋ 2014 b001～b004（4 批 40 件），共 7 批 69 件
+• 這輪寫到的作品（舉 3～5 件）：Volvo〈The Epic Split〉、Chipotle〈The Scarecrow〉、Pharrell〈24 Hours of Happy〉、Terre des Hommes〈Sweetie〉、Kraft〈Wake Up & Smell the Bacon〉
+• 2015 進度：已完成 70／70 批，全部寫完，等你本機收尾
+• 2014 進度：已完成 4／56 批，剩 52 批
+• 待決新增：14 件（2015：重複候選 4、同計畫疑重複 2、不收待確認 1、uncertain 3；2014：重複候選 1、爭議新增 1、uncertain 1、來源偏薄 1）
 • 問題：
-  • 重複要你決定：Dove〈A Mother's Body〉廣播與影片版疑同一件，驗收員建議以獎項較高的廣播金獅為主；Snickers 壁畫、Lucozade 廣播也疑與舊批重複
-  • AXA〈Art Insurance〉寫手因網站擋讀取判不收，驗收員找到別的來源改成收，請確認
-  • b056 寫手有一次想透過第三方中繼網站讀取被擋的網頁，被系統擋下沒執行，已記進紀錄
-  • 不少報導網站擋讀取（LBB、Behance、AdsSpot、Campaign 等），廣播類多件缺音檔，需本機轉逐字稿
-• 預計：2015 剩 3 批，下一輪（11/13 02:00）寫完，接著寫 2014（56 批，約 4 天，11/17 左右）
+  • 重複要你決定：2015 Bayer 海報寫手標重複、驗收員建議改回收；Nike Rise 與 House of Mamba 同計畫但點子不同；2014 Chipotle〈Farmed and Dangerous〉兩次報名
+  • 2014 紐西蘭交通局〈BLAZED〉被研究者批評醜化毛利人，已加爭議段，請確認
+  • 2015 b068 寫手有一次多行指令被系統誤判成刪檔擋下（自報沒用 rm），已改簡單指令重跑
+  • 不少報導網站擋讀取（LBB、Campaign、La Réclame、AdsSpot 等），廣播類 3 件缺音檔，需本機補
+• 預計：照一天 14 批，2014 剩下約 4 天寫完（11/16 左右），之後隊伍沒有更早年份，等本機做前置
