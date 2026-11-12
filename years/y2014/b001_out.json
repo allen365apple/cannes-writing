@@ -1,590 +1,592 @@
 [
- {
-  "id": "ltwm-06662",
-  "year": 2014,
-  "tier": "GRAND PRIX / TITANIUM",
-  "categories": [],
-  "title": "MEGAFACES",
-  "brand": "MEGAFON/ASIF KHAN",
-  "agency": "AXIS MOSCOW",
-  "links": [
-   "https://www.dandad.org/awards/professional/2015/digital-design/24335/megafaces/"
-  ],
-  "decision": "收",
-  "awards": [
-   {
-    "level": "Grand Prix",
-    "category": "Innovation",
-    "subcategory": "Innovation Lions",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "awards_unverified": [],
-  "idea_one_liner": "俄羅斯電信商 MegaFon 在索契冬奧展館外牆，裝上上萬根伸縮桿，把訪客的 3D 臉部掃描放大成立體巨臉",
-  "brand_display": "MegaFon",
-  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜創新類全場大獎 Innovation Grand Prix｜代理商：MEGAFON Moscow / AXIS Moscow / ASIF KHAN LTD London\n\n【背景】MegaFon 是俄羅斯電信業者，這座展館是為 2014 年索契冬季奧運打造的。官方案例說明，目標是讓奧運對現場訪客更有個人感，靈感來自自拍。\n\n【點子】把自拍變成建築：每位訪客的臉都能被掃描，再以巨大尺寸「長」在展館外牆上，讓人在奧運園區入口看見自己的臉。\n\n【執行】展館是一座約 2,000 平方公尺的立方體，位在索契奧林匹克公園入口，外牆覆著有彈性的織物外皮，底下是約 11,000 根伸縮桿（各來源寫法略有出入，此處照 D&AD 與 Wallpaper）。每根桿子頂端有一顆 RGB LED，當作一個像素：可以變色顯示影像，也能伸出最長約兩公尺，堆出立體形狀。案例稱這是世界首面三維驅動的大型 LED 螢幕。\n訪客在展館周邊與俄羅斯各地 MegaFon 門市的拍照亭做 3D 掃描，演算法會依光線、大小、角度與顏色調整掃描檔，再傳到外牆。臉會放大到原尺寸的 3,500 倍、最高約 8 公尺，外牆同一時間顯示三張臉。\n\n資料來源：\nhttps://www.dandad.org/awards/professional/2015/digital-design/24335/megafaces/\nhttps://wallpaper.com/architecture/megafaces-architect-asif-khans-kinetic-faade-for-the-sochi-2014-winter-olympics",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 創新類, Innovation, Innovation Lions, 全場大獎, Grand Prix, MegaFon, 俄羅斯電信商, JSC MEGAFON, AXIS Moscow, Asif Khan, 電信, 奧運, 索契冬奧, Sochi 2014, 冬季奧運, 展館, Pavilion, 建築, 動態立面, Kinetic Facade, 伸縮桿, 致動器, Actuator, LED, 3D 掃描, 3D Scan, 自拍, Selfie, 臉, 巨臉, 拍照亭, 裝置, 互動裝置, 俄羅斯, Russia, 製作物, 展館外牆",
-  "category": "行銷案例",
-  "references": [
-   "https://www.dandad.org/awards/professional/2015/digital-design/24335/megafaces/",
-   "https://wallpaper.com/architecture/megafaces-architect-asif-khans-kinetic-faade-for-the-sochi-2014-winter-olympics"
-  ],
-  "image_url": "https://cdn.mos.cms.futurecdn.net/AZQ8kw3NX28Ao7jKmSB9H8-770-80.jpg",
-  "image_shows": "傍晚的白色立方體展館，MEGAFON 字樣下方的大面外牆上浮現三張並排的巨大人臉，由無數小圓點組成",
-  "text_source_level": 2,
-  "uncertain": false,
-  "needs_audio": false,
-  "note": "官方 LTW 卡片頁只有標題與獎項、沒有案例文字（WebFetch 讀到的只有頁首），內容依 D&AD 案例頁與 Wallpaper 報導整理。in 檔的候選圖是影片分鏡（內容為古埃及娜芙蒂蒂胸像，與作品無關，未用），改用 Wallpaper 報導圖（770 px 寬，較小）。伸縮桿數量來源寫法不一（約 1 萬到 1.1 萬），讀稿寫約 11,000 並註明。已搜爭議：搜「Megafon MegaFaces controversy／fake／withdrawn」，結果只有 MegaFon 其他事件（2011 簡訊外洩、2021 AI 廣告等），與本件無關，未發現爭議。"
- },
- {
-  "id": "ltwm-06664",
-  "year": 2014,
-  "tier": "GRAND PRIX / TITANIUM",
-  "categories": [],
-  "title": "PROTECTION AD",
-  "brand": "NIVEA SUN KIDS",
-  "agency": "FCB SÃO PAULO",
-  "links": [
-   "https://www.dandad.org/awards/professional/2015/direct/24627/protection/"
-  ],
-  "decision": "收",
-  "awards": [
-   {
-    "level": "Gold",
-    "category": "Media",
-    "subcategory": "use of Print",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Media",
-    "subcategory": "Use of Mobile Devices",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Media",
-    "subcategory": "Fast Moving Consumer Goods",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Grand Prix",
-    "category": "Mobile",
-    "subcategory": "",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Mobile",
-    "subcategory": "",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Mobile",
-    "subcategory": "",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Promo & Activation",
-    "subcategory": "Use of Print or Standard Outdoor in a Promotional Campaign",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "awards_unverified": [],
-  "idea_one_liner": "Nivea 防曬把雜誌廣告做成手環，撕下戴在孩子手上，孩子跑出家長設定的距離，手機 App 就響警報",
-  "brand_display": "Nivea Sun Kids",
-  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜行動類全場大獎 Mobile Grand Prix、媒體類金獅 Media Gold Lion、行動類金獅 Mobile Gold Lion、媒體類銀獅 Media Silver Lion×2、行動類銅獅 Mobile Bronze Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：FCB BRASIL São Paulo\n\n【背景】Nivea Sun Kids 是 Nivea 的兒童防曬系列。官方案例板點出一個家長的另一個擔心：海灘人多時，孩子可能走失。\n\n【策略】目標對象是住在里約熱內盧主要海灘附近、有智慧型手機、訂閱巴西銷量最高雜誌 Veja 的媽媽。\n\n【點子】品牌一向強調「保護」，這次想讓廣告本身就展現保護力：把印刷廣告做成一條能保護孩子的手環，所以廣告標題寫「連我們的廣告也保護你的孩子」。\n\n【執行】雜誌頁面右側是可撕下的一條，內建定位裝置。使用方式是：撕下這條，像手環一樣調整後戴在孩子手臂上；下載「NIVEA PROTEGE」App 並與手環配對；選擇警示距離（案例板寫半徑約 32 碼）；孩子超出範圍時手機會響起警報，雷達畫面也會顯示家長與孩子的距離。廣告用耐用、防潮的材質，可重複使用。\n\n資料來源：\nhttps://www.dandad.org/awards/professional/2015/direct/24627/protection/\nhttps://www.fipp.com/news/focus-on-advertising-innovation-nivea-magazin/",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 行動類, Mobile, 全場大獎, Grand Prix, 媒體類, Media, 促銷與活化類, Promo & Activation, 金獅, 銀獅, 銅獅, Nivea, Nivea Sun Kids, 倍恩斯, Beiersdorf, FCB Brasil, FCB Brazil, DraftFCB, 防曬, 兒童防曬, 日用品, 雜誌廣告, 平面廣告, Print, 手環, Bracelet, 可撕下, 定位, 距離警報, App, 手機 App, 行動應用, 海灘, 親子, 孩子走失, 父母, 巴西, Brazil, 里約熱內盧, Veja, 製作物, 可撕式手環, 互動雜誌",
-  "category": "行銷案例",
-  "references": [
-   "https://www.dandad.org/awards/professional/2015/direct/24627/protection/",
-   "https://www.fipp.com/news/focus-on-advertising-innovation-nivea-magazin/"
-  ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/de8502327500477092f294e5d1d80ef3",
-  "image_shows": "案例板：左側是 Nivea Sun Kids 雜誌跨頁，右側有一條可撕下的帶子，頁面旁放著手機 App 畫面與海灘上跑步的孩子；右側是『The Protection Ad』的點子、目標對象與五步驟使用說明，另有孩子手腕戴著 Nivea 手環的照片",
-  "text_source_level": 2,
-  "uncertain": false,
-  "needs_audio": false,
-  "note": "官方 LTW 卡片頁只有標題與獎項，內文依 D&AD 案例頁、FIPP 報導與官方案例板（已開圖）整理。案例板下方印有成效數字，讀稿未寫。官方獎項共 7 項、作品名含 Protection Ad／Protection App／Protection for Children，視為同一支。已搜爭議：搜「Nivea Protection Ad bracelet controversy／fake／criticism／withdrawn」，只出現 Nivea 其他廣告的爭議（2011、2017 年），與本件無關；有評論提到手環須有條款保護品牌，只是一般意見，未寫入。"
- },
- {
-  "id": "ltwm-06666",
-  "year": 2014,
-  "tier": "GRAND PRIX / TITANIUM",
-  "categories": [],
-  "title": "RAW FOR THE OCEANS",
-  "brand": "",
-  "agency": "G STAR RAW/BBDO AMSTERDAM",
-  "links": [
-   "https://www.dandad.org/awards/professional/2015/product-design/24342/g-star-raw-for-the-oceans/"
-  ],
-  "decision": "收",
-  "awards": [
-   {
-    "level": "Grand Prix",
-    "category": "Product Design",
-    "subcategory": "Ready to wear",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "awards_unverified": [],
-  "idea_one_liner": "牛仔品牌 G-Star RAW 與 Parley、Bionic 合作，把海中塑膠紡成紗線，織出全球首批海洋塑膠牛仔布",
-  "brand_display": "G-Star RAW",
-  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜產品設計類全場大獎 Product Design Grand Prix｜代理商：G-STAR RAW Amsterdam / FHV BBDO Amsterdam / PART OF A BIGGER PLAN Amsterdam\n\n【背景】G-Star RAW 一向想挑戰牛仔布品類的界線。官方案例板寫，這一年品牌把自己的製造流程整個翻過來。\n\n【策略】與海洋保護組織 Parley for the Oceans、再生紗線公司 Bionic Yarn，以及 Bionic 的創意總監 Pharrell Williams 合作，做出「為未來而生的牛仔布」。\n\n【點子】把海裡的塑膠撈出來、回收，變成新一代牛仔布，讓穿的人用衣服表達對海洋污染的關心。\n\n【執行】Parley 負責從海中蒐集塑膠，Bionic 把它紡成紗線；為了用這種紗線做牛仔布，G-Star 得從布廠到設計師整個重整生產流程。Pharrell 協助確保布料的外觀與觸感跟一般牛仔布一樣。系列在紐約時裝週發表，2014 年秋冬款包含牛仔褲、T 恤、運動衫、帽子、外套與連身褲，色調以靛藍與黑為主；活動吉祥物是章魚 Otto，牠的形體被放進設計，變成千鳥格等經典圖樣。D&AD 案例說第一批系列的原料有 33% 是回收塑膠。\n\n資料來源：\nhttps://www.dandad.org/awards/professional/2015/product-design/24342/g-star-raw-for-the-oceans/\nhttps://www.designboom.com/design/pharrell-williams-g-star-ocean-plastic-denim-collection-07-01-2014/",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 產品設計類, Product Design, 全場大獎, Grand Prix, 成衣, Ready to wear, G-Star RAW, G-Star, FHV BBDO, Part of a Bigger Plan, 時尚, 服飾, 牛仔褲, 牛仔布, Denim, 海洋塑膠, Ocean Plastic, 回收塑膠, 再生紗線, Bionic Yarn, Parley for the Oceans, Pharrell Williams, 永續, Sustainability, 環保, 海洋保護, 聯名, 章魚, Otto, 吉祥物, 紐約時裝週, 荷蘭, Netherlands, 製作物, 牛仔布系列",
-  "category": "行銷案例",
-  "references": [
-   "https://www.dandad.org/awards/professional/2015/product-design/24342/g-star-raw-for-the-oceans/",
-   "https://www.designboom.com/design/pharrell-williams-g-star-ocean-plastic-denim-collection-07-01-2014/"
-  ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/33e75847369c4345b960bf4e7c244d05",
-  "image_shows": "案例板：藍色底，上方一排影片截圖（海中塑膠、紗線、織布機、Pharrell），中央是兩隻黑色章魚抱著一條牛仔褲的插畫，左側大字 RAW FOR THE OCEANS，右側有策略與點子文字",
-  "text_source_level": 2,
-  "uncertain": false,
-  "needs_audio": false,
-  "note": "官方 LTW 卡片頁只有標題與獎項，內文依 D&AD 案例頁與 Designboom 報導、官方案例板整理。案例板印有公關價值數字，讀稿未寫。已搜爭議：搜「G-Star RAW for the Oceans greenwashing／criticism」，只有法文媒體對動機的疑問與 Greenpeace 2012 年針對 G-Star 廢水化學污染的指控（屬品牌別事，且僅看到搜尋摘要，未開頁），不算本件爭議，未寫入。"
- },
- {
-  "id": "ltwm-06663",
-  "year": 2014,
-  "tier": "GRAND PRIX / TITANIUM",
-  "categories": [],
-  "title": "PHARRELL WILLIAMS 24 HOURS OF HAPPY",
-  "brand": "HAPPY",
-  "agency": "ICONOCLAST PARIS",
-  "links": [
-   "https://www.dandad.org/awards/professional/2014/digital-design/22975/24-hours-of-happy-pharrell-williams/"
-  ],
-  "decision": "收",
-  "awards": [
-   {
-    "level": "Grand Prix",
-    "category": "Cyber",
-    "subcategory": "User Experience",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Cyber",
-    "subcategory": "Interface & Navigation",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Cyber",
-    "subcategory": "Use of Video",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Cyber",
-    "subcategory": "Use of Music/Sound Design",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Cyber",
-    "subcategory": "Microsite",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Cyber",
-    "subcategory": "Interactive Video",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Cyber",
-    "subcategory": "Overall Aesthetic Design/Best Practice",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "awards_unverified": [],
-  "idea_one_liner": "歌手 Pharrell Williams 把〈Happy〉做成 24 小時互動 MV，網頁用時鐘切換，每小時都有路人與名人跳舞",
-  "brand_display": "Pharrell Williams",
-  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜Cyber類全場大獎 Cyber Grand Prix、Cyber類金獅 Cyber Gold Lion×5、Cyber類銀獅 Cyber Silver Lion｜代理商：ICONOCLAST Paris\n\n【背景】〈Happy〉是 Pharrell Williams 為電影《神偷奶爸 2》演唱的歌。這支 24 小時互動 MV 由法國導演團隊 We Are From L.A.（WAFLA）構想與執導，Iconoclast 製作。\n\n【點子】既然〈Happy〉是一首四分鐘的歌，就把它拍成一支接近一整天的 MV，讓一整天都有人在鏡頭前隨歌起舞，用「持續不斷的快樂」放大歌曲的主題。\n\n【執行】MV 在網站 24hoursofhappy.com 上播放，是一個會循環的長影片：Pharrell 每小時整點演唱一次，一天共 24 次，每次之間還穿插其他表演者。觀眾可以拖動畫面上的黃色時鐘，跳到任一個時間，也能切換不同的「頻道」，看不同的人或團體朝鏡頭邊走邊跳。約 400 人參與演出，有素人也有 Steve Carell、Jimmy Kimmel、Tyler, The Creator 等名人；選角看重個性與多元，而不是專業舞者。拍攝在洛杉磯分 11 天完成，從日出的市中心出發，經過 LAX、Silver Lake、Echo Park、好萊塢再回到市中心，用單一台 Steadicam 游擊式拍攝，每位表演者只拍一次。官方案例另提到網站內有世界舞蹈百科，觀眾也能拍自己的片段加入專案。\n\n【爭議】2014 年 4 月起，有人指出這支影片與 2011 年的獨立舞蹈長片《Girl Walk // All Day》相似：兩者都是在公共空間拍攝、看似即興的長舞蹈片，場景、舞步、服裝與對鏡頭的互動有雷同之處。該片主角 Anne Marsen 製作了對照影片；導演 Jacob Krupnick 說「無論是否知情，Pharrell 很可能受過那部片啟發」。Pharrell 的代表回應，Pharrell 與導演團隊都沒看過該片，影片是以《神偷奶爸 2》為基礎發想。此事沒有進入法律程序，雙方說法未經第三方驗證。\n\n資料來源：\nhttps://www.dandad.org/awards/professional/2014/digital-design/22975/24-hours-of-happy-pharrell-williams/\nhttps://www.slate.com/blogs/browbeat/2013/11/21/pharrell_happy_video_24_hours_of_happy_first_24_hour_music_video_stream.html\nhttps://theneptunes.org/?p=22789\nhttps://www.itsnicethat.com/articles/music-video-24-hours-of-happy\nhttps://www.spinmagazine.com/2014/04/pharrell-happy-looks-like-girl-walk-all-day-video-interview/",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber 類, Cyber, 全場大獎, Grand Prix, 使用者體驗, User Experience, 互動影片, Interactive Video, 微型網站, Microsite, 音樂, 音效設計, Pharrell Williams, Happy, 神偷奶爸 2, Despicable Me 2, Iconoclast, We Are From L.A., WAFLA, 音樂影片, Music Video, MV, 24 小時, 24 Hours, 互動網頁, 互動影片網站, 時鐘介面, 24hoursofhappy.com, 舞蹈, 跳舞, 路人, 名人客串, 一鏡到底, Steadicam, 洛杉磯, Los Angeles, 法國, France, 快樂, 正能量, 製作物, 互動網站",
-  "category": "行銷案例",
-  "references": [
-   "https://www.dandad.org/awards/professional/2014/digital-design/22975/24-hours-of-happy-pharrell-williams/",
-   "https://www.slate.com/blogs/browbeat/2013/11/21/pharrell_happy_video_24_hours_of_happy_first_24_hour_music_video_stream.html",
-   "https://theneptunes.org/?p=22789",
-   "https://www.itsnicethat.com/articles/music-video-24-hours-of-happy",
-   "https://www.spinmagazine.com/2014/04/pharrell-happy-looks-like-girl-walk-all-day-video-interview/"
-  ],
-  "image_url": "https://m.itsnicethat.com/original_images/528f2af45c3e3c3557003d80.jpg?class=w1440",
-  "image_shows": "戴白框太陽眼鏡、穿印有笑臉圖案條紋 T 恤的 Pharrell，站在洛杉磯河道中，雙手舉在胸前，背景有橋",
-  "text_source_level": 2,
-  "uncertain": false,
-  "needs_audio": false,
-  "note": "官方案例板只是黃底『HAPPY – The first 24 hours music video』標題字卡，沒有點子可看，改用 It's Nice That 文章配圖（影片畫面）。官方 LTW 卡片頁沒有案例文字，內文依 D&AD 案例頁、Slate、The Neptunes 訪談整理與 It's Nice That；It's Nice That 未寫導演資訊，導演與製作公司以 D&AD／Slate 為準。已搜爭議：搜「Pharrell 24 Hours of Happy controversy／fake／lawsuit」，找到《Girl Walk // All Day》相似之爭（已開 Spin 文章確認，寫入讀稿【爭議】）；其餘（川普造勢會場事件等）與本件無關，未寫入。"
- },
- {
-  "id": "ltwm-06660",
-  "year": 2014,
-  "tier": "GRAND PRIX / TITANIUM",
-  "categories": [],
-  "title": "GUILT TRIPS",
-  "brand": "V/LINE",
-  "agency": "MCCANN MELBOURNE",
-  "links": [
-   "https://www.patrickbaron.com/?p=6253"
-  ],
-  "decision": "收",
-  "awards": [
-   {
-    "level": "Grand Prix",
-    "category": "Creative Effectiveness",
-    "subcategory": "Creative Effectiveness",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "awards_unverified": [],
-  "idea_one_liner": "澳洲區域火車 V/Line 推出「愧疚之旅」車票，讓家鄉父母寫一封催人愧疚的訊息，連同車票寄給城裡的子女",
-  "brand_display": "V/Line",
-  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜創意實效類全場大獎 Creative Effectiveness Grand Prix｜代理商：McCANN MELBOURNE\n\n【背景】官方案例板寫：年輕人一長大就離開鄉下小鎮，很少再回來。V/Line 是澳洲最大的區域火車業者（維多利亞州），想提高城市居民回鄉下探訪的次數。\n\n【洞察】Ads of the World 的案例整理指出，由品牌自己出面勸說效果有限，不如借用最了解這些人的親友，以及「父母的愧疚攻勢」本身的力量。\n\n【點子】創造一種新車票「Guilt Trip（愧疚之旅）」，附上媽媽們逼孩子回家需要的所有工具，把回鄉探親改寫成「被愧疚去旅行」。\n\n【執行】在專屬網站上，寄件人寫下一段個人化的愧疚訊息並購買車票，訊息與車票會以電子郵件寄給在城市的收件人；範例訊息寫成「Steven，是生你養你的媽媽……如果你找得出時間探望，這裡有張回家的車票」。另有《日常生活的愧疚之旅》手冊教父母怎麼把訊息寫得更有效；平面與戶外廣告用立體拼貼字寫出「喬安的兒子昨天來看她，他真貼心，不是嗎？」這類話，收尾都是「你們只差一趟愧疚之旅」；社群上有「愧疚之旅大師」的短片教學，車站另有票夾與海報延伸。\n\n資料來源：\nhttp://www.adsoftheworld.com/campaigns/guilt-trips-case-study\nhttps://mumbrella.com.au/vic-train-operator-sends-melburnians-on-a-guilt-trip-94550",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 創意實效類, Creative Effectiveness, 全場大獎, Grand Prix, V/Line, 維多利亞州, McCann Melbourne, McCann, MRM, 火車, 鐵路, 區域鐵路, 交通, 大眾運輸, 車票, 愧疚, Guilt Trip, 母親, 親情, 回家, 探親, 鄉下, 城市, 幽默, 洞察, 微型網站, 電子郵件, 手冊, 平面廣告, 戶外廣告, 整合行銷, 社群影片, 澳洲, Australia, 製作物, 愧疚之旅車票, 愧疚手冊",
-  "category": "行銷案例",
-  "references": [
-   "http://www.adsoftheworld.com/campaigns/guilt-trips-case-study",
-   "https://mumbrella.com.au/vic-train-operator-sends-melburnians-on-a-guilt-trip-94550"
-  ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/3c34afe7fb06432ce08473242a1aee59",
-  "image_shows": "案例板：標題『Bringing country towns back to life one Guilt Trip at a time』，下方依序是兩張立體拼貼字海報、愧疚之旅微型網站畫面、手機收到的『Guilt Trip from Mum』訊息、紅色《Guilt Trips for Everyday Living》手冊、Facebook 教學影片頁與擁抱中的母子票券照",
-  "text_source_level": 2,
-  "uncertain": false,
-  "needs_audio": false,
-  "note": "官方 LTW 卡片頁沒有案例文字，內文依官方案例板（已開圖）、Ads of the World 案例整理與 Mumbrella 報導。案例板與各報導有銷售與探訪次數等成效數字，且各來源說法互相不一致，讀稿全未寫。Campaign Brief、Campaign Asia 因 404／付費牆未取得內文，Patrick Baron 連結（in 檔）網域連不上。已搜爭議：搜「V/Line Guilt Trips controversy／criticism／complaint」，沒有正式申訴或裁罰，只有網友說個人化訊息功能有點失望，屬一般評論，未寫入。"
- },
- {
-  "id": "ltwm-06658",
-  "year": 2014,
-  "tier": "GRAND PRIX / TITANIUM",
-  "categories": [],
-  "title": "GIVE ME STRENGTH",
-  "brand": "LUCOZADE",
-  "agency": "OGILVY JOHANNESBURG",
-  "links": [
-   "https://www.dandad.org/awards/professional/2015/writing-for-advertising/24525/give-me-strength/"
-  ],
-  "decision": "收",
-  "awards": [
-   {
-    "level": "Grand Prix",
-    "category": "Radio",
-    "subcategory": "Non-Alcoholic Drinks",
-    "count": 1,
-    "source_count": 3
-   },
-   {
-    "level": "Gold",
-    "category": "Radio",
-    "subcategory": "Scriptwriting",
-    "count": 1,
-    "source_count": 3
-   }
-  ],
-  "awards_unverified": [],
-  "idea_one_liner": "南非 Lucozade 能量飲料的三支廣播，用熱血勵志演講配史詩音樂，替開會、兒童派對、歌手演唱會這些日常折磨加油",
-  "brand_display": "Lucozade",
-  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜Radio類全場大獎 Radio Grand Prix、Radio類金獅 Radio Gold Lion｜代理商：OGILVY & MATHER JOHANNESBURG\n\n【背景】這是 Lucozade 能量飲料的廣播系列，由 Ogilvy & Mather Johannesburg 製作，主題是「給我力量（Give Me Strength）」。\n\n【點子】能量飲料的廣告通常談運動表現，這組廣播改談日常讓人精疲力竭的場面：三支廣播都寫成勵志演講，配上史詩般的激勵音樂，把 Lucozade 的提神效果放進這些平凡又累人的時刻。\n\n【執行】三支廣播分別是「Teleconference」（一場特別折磨人的電話會議）、「Kids Party」（讓人體力耗盡的兒童生日派對）、「Enrique Concert」（算錯日期、被迫聽完 Enrique 安可的約會）。有報導把情境寫成兒童派對、簡報與 Enrique Iglesias 演唱會。\n\n說明：目前打開過的頁面只有情境摘要，沒有取得逐字稿或音檔，各支廣播裡實際的台詞與笑點尚未寫入。\n\n資料來源：\nhttps://dandad.org/awards/professional/2015/radio-advertising/24050/give-me-strength\nhttps://www.dandad.org/awards/professional/2015/writing-for-advertising/24525/give-me-strength/\nhttps://shots.net/news/view/89547-south-africa-special-molefi-thulo",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Radio 類, Radio, 全場大獎, Grand Prix, 金獅, Gold Lion, 文案, Scriptwriting, 非酒精飲料, Non-Alcoholic Drinks, Lucozade, 能量飲料, 飲料, 三得利, Suntory, Ogilvy & Mather Johannesburg, Ogilvy, 廣播, 廣播廣告, Radio Ad, 勵志演講, 激勵音樂, 史詩音樂, 幽默, 反差, 日常, 電話會議, 兒童生日派對, 演唱會, Enrique Iglesias, 南非, South Africa, 音檔, 製作物",
-  "category": "行銷案例",
-  "references": [
-   "https://dandad.org/awards/professional/2015/radio-advertising/24050/give-me-strength",
-   "https://www.dandad.org/awards/professional/2015/writing-for-advertising/24525/give-me-strength/",
-   "https://shots.net/news/view/89547-south-africa-special-molefi-thulo"
-  ],
-  "image_url": "",
-  "image_shows": "沒有可用圖片（候選圖是 SVG 圖示，已跳過）",
-  "text_source_level": 3,
-  "uncertain": true,
-  "needs_audio": true,
-  "note": "【uncertain】只找到情境摘要（D&AD 兩頁、Shots），LTW 三支廣播卡片頁只有標題與獎項、沒有腳本；Clio／Bizcommunity／La Réclame 擋爬或無內容。缺：三支廣播的逐字稿或音檔，也沒有找到可用圖片（in 檔候選是 SVG 圖示）。D&AD 官方獎項列的是 Radio 全場大獎、Scriptwriting 金獅。已搜爭議：搜「Lucozade Give Me Strength radio controversy／withdrawn」，未發現爭議（搜到的是 2025 年其他作品的坎城爭議）。需要音檔補寫或補圖。"
- },
- {
-  "id": "ltwm-06661",
-  "year": 2014,
-  "tier": "GRAND PRIX / TITANIUM",
-  "categories": [],
-  "title": "MAGIC OF FLYING",
-  "brand": "BRITISH AIRWAYS",
-  "agency": "OGILVYONE LONDON",
-  "links": [
-   "https://www.dandad.org/awards/professional/2014/digital-marketing/23428/magic-of-flying/"
-  ],
-  "decision": "收",
-  "awards": [
-   {
-    "level": "Gold",
-    "category": "Cyber",
-    "subcategory": "Digital Billboard",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "Cyber",
-    "subcategory": "Innovative Use of Technology",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Media",
-    "subcategory": "Use of Screens",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Media",
-    "subcategory": "Use of Outdoor",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Outdoor",
-    "subcategory": "Digital Screens",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Promo & Activation",
-    "subcategory": "Use of Exhibitions and Digital Installations",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Promo & Activation",
-    "subcategory": "Use of Other Digital Platforms in a Promotional Campaign",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Promo & Activation",
-    "subcategory": "Entertainment & Leisure",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Grand Prix",
-    "category": "Direct",
-    "subcategory": "Ambient Media: large scale",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "awards_unverified": [],
-  "idea_one_liner": "英國航空在倫敦數位看板旁架天線，偵測到英航班機飛過，看板就插播小男孩指著天空，並標出該航班資訊",
-  "brand_display": "British Airways",
-  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜直效類全場大獎 Direct Grand Prix、Cyber類金獅 Cyber Gold Lion、媒體類金獅 Media Gold Lion×2、戶外類金獅 Outdoor Gold Lion、Promo & Activation類金獅 Promo & Activation Gold Lion、Cyber類銀獅 Cyber Silver Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion×2｜代理商：OGILVYONE LONDON\n\n【背景】D&AD 的案例說明提到，對大多數人來說，第一次感受到飛行的神奇是在小時候；成年後飛行變得稀鬆平常。英國航空想把這份驚奇找回來。\n\n【點子】讓看板「看見」天上的飛機：數位看板平常播放別的品牌廣告，一有英航班機飛過，就被打斷，換成一個小男孩伸手指向天空，旁邊寫出這班飛機的航班號與出發地，並附上標籤 #lookup。\n\n【執行】看板設在倫敦皮卡迪利圓環與前往希斯洛機場的 M4 公路沿線。官方案例板列出六個步驟：在附近建築屋頂架設 ADS-B 天線，收集每架飛機應答器發出的即時資料；辨識出英航班機並傳到雲端伺服器；當班機進入天上的虛擬觸發區，資料就送到看板，中斷原本內容、播出這支廣告。因為應答器資料沒有目的地，團隊另建資料庫把呼號對應到航班與航線；案例板上的範例文字是「看，那是從聖地牙哥來的 BA272 班機」。雲層太低看不到飛機時，雲高感測器會把看板關掉。活動從 2013 年 11 月起進行六週，Clear Channel 為此調整廣告播送系統加入「插播」機制，英航只在每次觸發時付費。\n\n資料來源：\nhttps://www.dandad.org/insights/awards/ba-magic-of-flying-case-study-insights\nhttps://www.dandad.org/awards/professional/2014/digital-marketing/23428/magic-of-flying/",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 直效類, Direct, 全場大獎, Grand Prix, Cyber 類, 媒體類, 戶外類, 促銷與活化類, 金獅, 銀獅, 銅獅, 數位看板, Digital Billboard, 戶外廣告, 英國航空, British Airways, BA, OgilvyOne London, Ogilvy, 航空, 旅遊, 航班, 飛機, 小男孩, 孩子, 驚奇, 魔法, Magic of Flying, ADS-B, 應答器, 即時資料, 觸發, 互動戶外, 皮卡迪利圓環, Piccadilly Circus, 倫敦, London, 英國, United Kingdom, #lookup, 製作物, 感應式數位看板",
-  "category": "行銷案例",
-  "references": [
-   "https://www.dandad.org/insights/awards/ba-magic-of-flying-case-study-insights",
-   "https://www.dandad.org/awards/professional/2014/digital-marketing/23428/magic-of-flying/"
-  ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/856c35747ce940f381aeb5d4ecaf9644",
-  "image_shows": "案例板：上排五格示意（屋頂天線、飛機應答器資料、BAW 航班呼號、天空觸發區、設備機櫃），下方是倫敦建築上的弧形看板，上面有小男孩指向天空的畫面與文字『Look, it's flight BA272 from San Diego #lookup』，天上有一架飛機",
-  "text_source_level": 2,
-  "uncertain": false,
-  "needs_audio": false,
-  "note": "官方 LTW 卡片頁沒有案例文字，內文依 D&AD 兩頁與官方案例板整理。D&AD 案例頁另有觸及與流量數字，未寫。官方獎項九項、作品名都是 MAGIC OF FLYING。案例頁說看板在英國，Clear Channel 的角色出自 D&AD 案例分析頁。已搜爭議：搜「British Airways Magic of Flying billboard controversy／criticism／fake」，未發現爭議（只有 D&AD 標題的玩笑語，非批評）。"
- },
- {
-  "id": "ltwm-06665",
-  "year": 2014,
-  "tier": "GRAND PRIX / TITANIUM",
-  "categories": [],
-  "title": "PROJECT DANIEL",
-  "brand": "NOT IMPOSSIBLE LABS",
-  "agency": "THE EBELING GROUP NEW YORK",
-  "links": [
-   "https://www.youtube.com/watch?v=SDYFMgrjeLg&ab_channel=NotImpossible"
-  ],
-  "decision": "收",
-  "awards": [
-   {
-    "level": "Titanium",
-    "category": "Titanium",
-    "subcategory": "Titanium and Integrated",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Gold",
-    "category": "Product Design",
-    "subcategory": "Well-Being and Environmental Impact",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Branded Content & Entertainment",
-    "subcategory": "Non-Fiction: Online",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "awards_unverified": [],
-  "idea_one_liner": "Not Impossible Labs 帶 3D 印表機到蘇丹，替被炸傷失去雙手的男孩列印義肢，並訓練當地醫護人員自己印",
-  "brand_display": "Not Impossible Labs",
-  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜鈦獅 Titanium Lion、產品設計類金獅 Product Design Gold Lion、Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：THE EBELING GROUP New York / NOT IMPOSSIBLE LABS Venice / THE EBELING GROUP New York / NOT IMPOSSIBLE LABS Venice / RICHARD VAN AS | ROBOHAND Johannesburg / THE EBELING GROUP New York / NOT IMPOSSIBLE LABS Venice / VENABLES BELL & PARTNERS San Francisco / INTEL Santa Clara\n\n【背景】2012 年，蘇丹男孩 Daniel Omar 14 歲，在放牛時遇上轟炸，躲在樹後保住性命，卻失去雙手。Not Impossible 的共同創辦人暨執行長 Mick Ebeling 被他的故事打動。\n\n【點子】既然傳統義肢又貴又難取得，就把 3D 列印機直接帶進戰區，現場為他做義肢；更重要的是讓當地人自己學會，使這件事不必靠外人持續下去。\n\n【執行】Ebeling 借用先前 EyeWriter 專案的經驗，組成跨領域團隊，成員包括 RoboHand 的創作者 Richard Van As 與一位 MIT 神經科學家，設計出比傳統義肢便宜許多的 3D 列印手。Daniel 戴上後，兩年來第一次能自己吃飯。團隊接著把印表機帶進該國，在當地醫院設立工作坊，訓練在地醫護人員自行列印、組裝義肢；官方頁面稱這是「全世界第一間在地化的 3D 列印義肢實驗室」。義肢設計採開源方式公開，供他人延伸使用，品牌口號是「Help One. Help Many.」。\n\n資料來源：\nhttps://newatlas.com/project-daniel-3d-prints-prosthetic-arms/30527/?amp=true\nhttps://www.notimpossible.com/projects/project-daniel",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 鈦獅, Titanium, Titanium Lion, 產品設計類, Product Design, 金獅, 品牌內容與娛樂類, Branded Content & Entertainment, 銅獅, Not Impossible Labs, Not Impossible, Mick Ebeling, The Ebeling Group, Intel, Richard Van As, Robohand, 義肢, Prosthetic, 3D 列印, 3D Printing, 開源, Open Source, 蘇丹, Sudan, 戰爭, 兒童, 失去雙手, 無障礙, 科技, 公益, 社會責任, 醫療, 在地訓練, 工作坊, 紀錄片, Non-Fiction, 美國, United States, 製作物, 3D 列印義肢, 義肢工作坊",
-  "category": "行銷案例",
-  "references": [
-   "https://newatlas.com/project-daniel-3d-prints-prosthetic-arms/30527/?amp=true",
-   "https://www.notimpossible.com/projects/project-daniel"
-  ],
-  "image_url": "https://newatlas-brightspot.s3.ap-southeast-2.amazonaws.com/archive/not_impossible_3d_arms.jpg",
-  "image_shows": "兩名男子在石牆前面對面大笑，各自戴著 3D 列印的白色義肢手臂並讓兩隻義肢手相碰，右下角有 NOTimpossible [LABS] 字樣",
-  "text_source_level": 2,
-  "uncertain": false,
-  "needs_audio": false,
-  "note": "官方 LTW 卡片頁沒有案例文字；YouTube 頁（in 檔連結）WebFetch 讀不到內容。內文依 New Atlas 報導與 Not Impossible 官方專案頁整理。來源對受傷部位寫法不同（New Atlas 寫雙手、官方頁寫雙臂），讀稿寫雙手；官方頁也未給男孩姓名與年齡，這部分取自 New Atlas。in 檔候選圖是影片分鏡（引言字卡，不用），改用 New Atlas 報導圖；圖中人物是否為 Daniel 來源未說，image_shows 只描述畫面。搜尋摘要提到的造價與列印時數因未開頁，未寫入。已搜爭議：搜「Project Daniel Not Impossible controversy／criticism／fake」，沒有找到相關報導（結果多為無關內容）。"
- },
- {
-  "id": "ltwm-06659",
-  "year": 2014,
-  "tier": "GRAND PRIX / TITANIUM",
-  "categories": [],
-  "title": "ANZ GAYTMS",
-  "brand": "ANZ BANK",
-  "agency": "WHYBIN TBWA MELBOURNE",
-  "links": [
-   "https://www.dandad.org/awards/professional/2015/white-pencil-creativity-for-good/24196/anz-gaytms/"
-  ],
-  "decision": "收",
-  "awards": [
-   {
-    "level": "Bronze",
-    "category": "Media",
-    "subcategory": "Financial Products & Services",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Grand Prix",
-    "category": "Outdoor",
-    "subcategory": "Special Build",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Promo & Activation",
-    "subcategory": "Financial Products & Services",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Direct",
-    "subcategory": "Ambient Media: large scale",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Bronze",
-    "category": "Direct",
-    "subcategory": "Financial Products & Services",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "PR",
-    "subcategory": "Financial Services",
-    "count": 1,
-    "source_count": 1
-   },
-   {
-    "level": "Silver",
-    "category": "PR",
-    "subcategory": "Corporate Responsibility",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "awards_unverified": [],
-  "idea_one_liner": "澳洲 ANZ 銀行贊助雪梨同志大遊行，把市區十台提款機用水鑽、亮片、皮革手工裝飾成「GAYTM」，螢幕還跟路人打招呼",
-  "brand_display": "ANZ",
-  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜戶外類全場大獎 Outdoor Grand Prix、公關類銀獅 PR Silver Lion×2、直效類銅獅 Direct Bronze Lion×2、媒體類銅獅 Media Bronze Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：WHYBIN\\TBWA GROUP MELBOURNE\n\n【背景】ANZ 自 2007 年起贊助雪梨同志大遊行（Mardi Gras），2014 年升為主要夥伴（Principal Partner），請廣告公司 Whybin\\TBWA 做一個能展現多元、包容與尊重的活動。\n\n【點子】ATM 也「出櫃、很驕傲」：把提款機變成會慶祝的機器，呼應品牌「活在你的世界」的承諾，也讓贊助變成街頭看得到的東西。\n\n【執行】藝術家把雪梨市區的十台 ANZ 提款機手工改造成「GAYTM」，用水鑽、亮片、鉚釘、皮革、牛仔布與毛皮裝飾，每台都以同志文化為靈感，題材從獨角獸、變裝皇后到彩虹與刺青；機器還得在貼滿水鑽的情況下維持正常使用。螢幕會顯示「Hello gorgeous」「Happy Mardi Gras!」等問候，吐出的收據是彩虹色，附有「Cash out and proud」（大方領錢、大方做自己）的卡片。活動期間，非 ANZ 持卡人在這些機器上被收取的跨行手續費，ANZ 全數捐給非營利組織 Twenty10。品牌另外開了 Instagram 帳號，改採每週七天的社群經營。\n\n資料來源：\nhttps://www.dandad.org/awards/professional/2015/white-pencil-creativity-for-good/24196/anz-gaytms/\nhttps://www.anz.com.au/bluenotes/2014/10/five-lessons-in-innovation-from-gaytms/\nhttps://shots.net/news/view/83271-whybintbwa-draws-cash-out-and-proud-with-gaytms",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 戶外類, Outdoor, 全場大獎, Grand Prix, 特製搭建, Special Build, 媒體類, 促銷與活化類, 直效類, 公關類, PR, 銀獅, 銅獅, ANZ, ANZ Bank, 澳新銀行, GAYTM, Whybin TBWA, Whybin\\TBWA Melbourne, 銀行, 金融, 提款機, ATM, 雪梨同志大遊行, Sydney Gay and Lesbian Mardi Gras, Mardi Gras, 同志, LGBT, LGBTI, 多元與包容, Diversity, 彩虹, 水鑽, 亮片, 手工, 手工裝飾, 收據, 慈善, Twenty10, 社群, Instagram, 澳洲, Australia, 雪梨, 製作物, 改裝提款機, 彩虹收據",
-  "category": "行銷案例",
-  "references": [
-   "https://www.dandad.org/awards/professional/2015/white-pencil-creativity-for-good/24196/anz-gaytms/",
-   "https://www.anz.com.au/bluenotes/2014/10/five-lessons-in-innovation-from-gaytms/",
-   "https://shots.net/news/view/83271-whybintbwa-draws-cash-out-and-proud-with-gaytms"
-  ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/1008f301e12549db8cccc72a19d093b1",
-  "image_shows": "案例板：左側是一台用彩色珠子貼滿、佈滿紅唇圖案的 GAYTM 提款機，螢幕顯示 Hello gorgeous!；右側有標語『So we turned ATMs into GAYTMs.』、九台不同花樣的 GAYTM、收據與螢幕特寫",
-  "text_source_level": 2,
-  "uncertain": false,
-  "needs_audio": false,
-  "note": "官方 LTW 卡片頁沒有案例文字，內文依 D&AD 案例頁、ANZ 官方部落格與 Shots 整理；案例板印有媒體曝光數字，未寫。官方獎項七項、作品名都是 ANZ GAYTMS。已搜爭議：搜「ANZ GAYTMs controversy／backlash／criticism」；ANZ 部落格自承有部分負面反應但未具體說明，另有搜尋摘要顯示 2015 年紐西蘭版被破壞、被批「粉紅洗白（pinkwashing）」，屬後續年份與別地版本，且未開頁，皆屬一般評論，只寫 note、未寫入讀稿。"
- },
- {
-  "id": "ltwm-07229",
-  "year": 2014,
-  "tier": "BRONZE",
-  "categories": [],
-  "title": "UNGROUNDED: AN INNOVATION LAB IN THE SKY",
-  "brand": "BRITISH AIRWAYS FLIGHT",
-  "agency": "OGILVY NEW YORK",
-  "links": [
-   "https://clios.com/awards/winner/public-relations/ungrounded-an-innovation-lab-in-the-sky-3614"
-  ],
-  "decision": "收",
-  "awards": [
-   {
-    "level": "Bronze",
-    "category": "PR",
-    "subcategory": "Travel, Tourism & Leisure",
-    "count": 1,
-    "source_count": 1
-   }
-  ],
-  "awards_unverified": [],
-  "idea_one_liner": "英國航空包下舊金山飛倫敦的航班，邀請一百多位矽谷創業者、投資人，在 11 小時機上腦力激盪，思考工程人才短缺的解方",
-  "brand_display": "British Airways",
-  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜公關類銅獅 PR Bronze Lion｜代理商：OGILVY NEW YORK / TEXT 100 New York\n\n【背景】官方案例板寫的任務是：讓英國航空成為美國西岸創新社群首選的航空公司，並以前瞻又誠懇的方式讓他們愛上 BA。2013 年 3 月，BA 公布「UnGrounded」計畫，主題是全球科學、科技人才的缺口：人才出現的地方與機會所在不一致。\n\n【點子】把一趟航班變成「高空創新實驗室」：既然這群人平常很難聚在一起，就讓他們坐同一架飛機，十幾個小時內只能互相討論。\n\n【執行】2013 年 6 月 12 日，一百多位來自矽谷的創業者、創投、學者與科技圈人士（包括 Craigslist 創辦人 Craig Newmark 等人）先在舊金山 Clift 飯店集合，再搭上 BA 雙層客機飛往倫敦。設計公司 IDEO 協助設計討論流程；機上約 11 小時沒有 Wi-Fi，用填字遊戲與畫肖像破冰，分組在海報板上發想、提案，再用貼紙投票。議題聚焦在如何培養更多工程人才，包括 STEM 教育、性別落差與新興市場的科技人才。獲選的點子包括 Beacon In A Backpack、CertifyMe、Init 與 AdvisHer（連結女性 STEM 學生與科技業女性的導師計畫），團隊抵達倫敦後在 DNA 高峰會上發表。合作單位包括聯合國與 Decide Now Act，並有 Silicon Valley Bank、史丹佛大學等支持。\n\n資料來源：\nhttps://techcrunch.com/2013/06/13/the-mile-high-hackathon/\nhttps://thenextweb.com/news/british-airways-launches-ungrounded-an-innovation-lab-to-help-solve-the-global-talent-crunch",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 公關類, PR, 銅獅, 旅遊與休閒, Travel Tourism & Leisure, 英國航空, British Airways, BA, UnGrounded, Ogilvy New York, Ogilvy, Text100, 航空, 旅遊, 創新實驗室, Innovation Lab, 高空, 機上, 黑客松, Hackathon, 腦力激盪, 矽谷, Silicon Valley, 創業者, 創投, 科技人才, STEM, 工程師, 人才短缺, IDEO, Mashable, 聯合國, 舊金山, 倫敦, 美國, United States, 英國, 事件行銷, 體驗, 製作物, 機上創新工作坊",
-  "category": "行銷案例",
-  "references": [
-   "https://techcrunch.com/2013/06/13/the-mile-high-hackathon/",
-   "https://thenextweb.com/news/british-airways-launches-ungrounded-an-innovation-lab-to-help-solve-the-global-talent-crunch"
-  ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/7a5d61fa5ac34f888a1c3a4ec6ae9994",
-  "image_shows": "案例板：雲層背景上，中央圓形照片是機艙內幾位男女圍著討論、手拿筆記本；周圍有 G8 UK 創新大會合照、Mashable 文章截圖、推特貼文與貼滿黃色便利貼的筆記本；標題『Can a single flight help solve a global issue?』",
-  "text_source_level": 2,
-  "uncertain": false,
-  "needs_audio": false,
-  "note": "官方 LTW 卡片頁沒有案例文字，內文依 TechCrunch、The Next Web 與官方案例板整理；案例板印有觸及與業績數字，未寫。人數各來源不同（TNW 寫約 100、TechCrunch 約 150、案例板 130），讀稿寫「一百多位」。TNW 為計畫發布稿，發表場合（DNA 高峰會）依 TechCrunch，案例板寫「聯合國 G8 高峰會」，以 TechCrunch 為準。Clift 飯店、IDEO 等細節皆出自 TechCrunch。程式檢查對 The Next Web 回 404（擋程式），但已用 WebFetch 實際打開讀到內文。已搜爭議：搜「British Airways Ungrounded controversy／criticism／stunt」，沒有找到本件的批評或指控（出現的是 BA 其他事件）。"
- }
+  {
+    "id": "ltwm-06662",
+    "year": 2014,
+    "tier": "GRAND PRIX / TITANIUM",
+    "categories": [],
+    "title": "MEGAFACES",
+    "brand": "MEGAFON/ASIF KHAN",
+    "agency": "AXIS MOSCOW",
+    "links": [
+      "https://www.dandad.org/awards/professional/2015/digital-design/24335/megafaces/"
+    ],
+    "decision": "收",
+    "awards": [
+      {
+        "level": "Grand Prix",
+        "category": "Innovation",
+        "subcategory": "Innovation Lions",
+        "count": 1,
+        "source_count": 1
+      }
+    ],
+    "awards_unverified": [],
+    "idea_one_liner": "俄羅斯電信商 MegaFon 在索契冬奧展館外牆，裝上上萬根伸縮桿，把訪客的 3D 臉部掃描放大成立體巨臉",
+    "brand_display": "MegaFon",
+    "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜創新類全場大獎 Innovation Grand Prix｜代理商：MEGAFON Moscow / AXIS Moscow / ASIF KHAN LTD London\n\n【背景】MegaFon 是俄羅斯電信業者，這座展館是為 2014 年索契冬季奧運打造的。官方案例說明，目標是讓奧運對現場訪客更有個人感，靈感來自自拍。\n\n【點子】把自拍變成建築：每位訪客的臉都能被掃描，再以巨大尺寸「長」在展館外牆上，讓人在奧運園區入口看見自己的臉。\n\n【執行】展館是一座約 2,000 平方公尺的立方體，位在索契奧林匹克公園入口，外牆覆著有彈性的織物外皮，底下是約 11,000 根伸縮桿（各來源寫法略有出入，此處照 D&AD 與 Wallpaper）。每根桿子頂端有一顆 RGB LED，當作一個像素：可以變色顯示影像，也能伸出最長約兩公尺，堆出立體形狀。案例稱這是世界首面三維驅動的大型 LED 螢幕。\n訪客在展館周邊與俄羅斯各地 MegaFon 門市的拍照亭做 3D 掃描，演算法會依光線、大小、角度與顏色調整掃描檔，再傳到外牆。臉會放大到原尺寸的 3,500 倍、最高約 8 公尺，外牆同一時間顯示三張臉。\n\n資料來源：\nhttps://www.dandad.org/awards/professional/2015/digital-design/24335/megafaces/\nhttps://wallpaper.com/architecture/megafaces-architect-asif-khans-kinetic-faade-for-the-sochi-2014-winter-olympics",
+    "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 創新類, Innovation, Innovation Lions, 全場大獎, Grand Prix, MegaFon, 俄羅斯電信商, JSC MEGAFON, AXIS Moscow, Asif Khan, 電信, 奧運, 索契冬奧, Sochi 2014, 冬季奧運, 展館, Pavilion, 建築, 動態立面, Kinetic Facade, 伸縮桿, 致動器, Actuator, LED, 3D 掃描, 3D Scan, 自拍, Selfie, 臉, 巨臉, 拍照亭, 裝置, 互動裝置, 俄羅斯, Russia, 製作物, 展館外牆",
+    "category": "行銷案例",
+    "references": [
+      "https://www.dandad.org/awards/professional/2015/digital-design/24335/megafaces/",
+      "https://wallpaper.com/architecture/megafaces-architect-asif-khans-kinetic-faade-for-the-sochi-2014-winter-olympics"
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/AZQ8kw3NX28Ao7jKmSB9H8-770-80.jpg",
+    "image_shows": "傍晚的白色立方體展館，MEGAFON 字樣下方的大面外牆上浮現三張並排的巨大人臉，由無數小圓點組成",
+    "text_source_level": 2,
+    "uncertain": false,
+    "needs_audio": false,
+    "note": "官方 LTW 卡片頁只有標題與獎項、沒有案例文字（WebFetch 讀到的只有頁首），內容依 D&AD 案例頁與 Wallpaper 報導整理。in 檔的候選圖是影片分鏡（內容為古埃及娜芙蒂蒂胸像，與作品無關，未用），改用 Wallpaper 報導圖（770 px 寬，較小）。伸縮桿數量來源寫法不一（約 1 萬到 1.1 萬），讀稿寫約 11,000 並註明。已搜爭議：搜「Megafon MegaFaces controversy／fake／withdrawn」，結果只有 MegaFon 其他事件（2011 簡訊外洩、2021 AI 廣告等），與本件無關，未發現爭議。"
+  },
+  {
+    "id": "ltwm-06664",
+    "year": 2014,
+    "tier": "GRAND PRIX / TITANIUM",
+    "categories": [],
+    "title": "PROTECTION AD",
+    "brand": "NIVEA SUN KIDS",
+    "agency": "FCB SÃO PAULO",
+    "links": [
+      "https://www.dandad.org/awards/professional/2015/direct/24627/protection/"
+    ],
+    "decision": "收",
+    "awards": [
+      {
+        "level": "Gold",
+        "category": "Media",
+        "subcategory": "use of Print",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Silver",
+        "category": "Media",
+        "subcategory": "Use of Mobile Devices",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Silver",
+        "category": "Media",
+        "subcategory": "Fast Moving Consumer Goods",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Grand Prix",
+        "category": "Mobile",
+        "subcategory": "",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "Mobile",
+        "subcategory": "",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Bronze",
+        "category": "Mobile",
+        "subcategory": "",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Bronze",
+        "category": "Promo & Activation",
+        "subcategory": "Use of Print or Standard Outdoor in a Promotional Campaign",
+        "count": 1,
+        "source_count": 1
+      }
+    ],
+    "awards_unverified": [],
+    "idea_one_liner": "Nivea 防曬把雜誌廣告做成手環，撕下戴在孩子手上，孩子跑出家長設定的距離，手機 App 就響警報",
+    "brand_display": "Nivea Sun Kids",
+    "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜行動類全場大獎 Mobile Grand Prix、媒體類金獅 Media Gold Lion、行動類金獅 Mobile Gold Lion、媒體類銀獅 Media Silver Lion×2、行動類銅獅 Mobile Bronze Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：FCB BRASIL São Paulo\n\n【背景】Nivea Sun Kids 是 Nivea 的兒童防曬系列。官方案例板點出一個家長的另一個擔心：海灘人多時，孩子可能走失。\n\n【策略】目標對象是住在里約熱內盧主要海灘附近、有智慧型手機、訂閱巴西銷量最高雜誌 Veja 的媽媽。\n\n【點子】品牌一向強調「保護」，這次想讓廣告本身就展現保護力：把印刷廣告做成一條能保護孩子的手環，所以廣告標題寫「連我們的廣告也保護你的孩子」。\n\n【執行】雜誌頁面右側是可撕下的一條，內建定位裝置。使用方式是：撕下這條，像手環一樣調整後戴在孩子手臂上；下載「NIVEA PROTEGE」App 並與手環配對；選擇警示距離（案例板寫半徑約 32 碼）；孩子超出範圍時手機會響起警報，雷達畫面也會顯示家長與孩子的距離。廣告用耐用、防潮的材質，可重複使用。\n\n資料來源：\nhttps://www.dandad.org/awards/professional/2015/direct/24627/protection/\nhttps://www.fipp.com/news/focus-on-advertising-innovation-nivea-magazin/",
+    "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 行動類, Mobile, 全場大獎, Grand Prix, 媒體類, Media, 促銷與活化類, Promo & Activation, 金獅, 銀獅, 銅獅, Nivea, Nivea Sun Kids, 倍恩斯, Beiersdorf, FCB Brasil, FCB Brazil, DraftFCB, 防曬, 兒童防曬, 日用品, 雜誌廣告, 平面廣告, Print, 手環, Bracelet, 可撕下, 定位, 距離警報, App, 手機 App, 行動應用, 海灘, 親子, 孩子走失, 父母, 巴西, Brazil, 里約熱內盧, Veja, 製作物, 可撕式手環, 互動雜誌",
+    "category": "行銷案例",
+    "references": [
+      "https://www.dandad.org/awards/professional/2015/direct/24627/protection/",
+      "https://www.fipp.com/news/focus-on-advertising-innovation-nivea-magazin/"
+    ],
+    "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/de8502327500477092f294e5d1d80ef3",
+    "image_shows": "案例板：左側是 Nivea Sun Kids 雜誌跨頁，右側有一條可撕下的帶子，頁面旁放著手機 App 畫面與海灘上跑步的孩子；右側是『The Protection Ad』的點子、目標對象與五步驟使用說明，另有孩子手腕戴著 Nivea 手環的照片",
+    "text_source_level": 2,
+    "uncertain": false,
+    "needs_audio": false,
+    "note": "官方 LTW 卡片頁只有標題與獎項，內文依 D&AD 案例頁、FIPP 報導與官方案例板（已開圖）整理。案例板下方印有成效數字，讀稿未寫。官方獎項共 7 項、作品名含 Protection Ad／Protection App／Protection for Children，視為同一支。已搜爭議：搜「Nivea Protection Ad bracelet controversy／fake／criticism／withdrawn」，只出現 Nivea 其他廣告的爭議（2011、2017 年），與本件無關；有評論提到手環須有條款保護品牌，只是一般意見，未寫入。"
+  },
+  {
+    "id": "ltwm-06666",
+    "year": 2014,
+    "tier": "GRAND PRIX / TITANIUM",
+    "categories": [],
+    "title": "RAW FOR THE OCEANS",
+    "brand": "",
+    "agency": "G STAR RAW/BBDO AMSTERDAM",
+    "links": [
+      "https://www.dandad.org/awards/professional/2015/product-design/24342/g-star-raw-for-the-oceans/"
+    ],
+    "decision": "收",
+    "awards": [
+      {
+        "level": "Grand Prix",
+        "category": "Product Design",
+        "subcategory": "Ready to wear",
+        "count": 1,
+        "source_count": 1
+      }
+    ],
+    "awards_unverified": [],
+    "idea_one_liner": "牛仔品牌 G-Star RAW 與 Parley、Bionic 合作，把海中塑膠紡成紗線，織出全球首批海洋塑膠牛仔布",
+    "brand_display": "G-Star RAW",
+    "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜產品設計類全場大獎 Product Design Grand Prix｜代理商：G-STAR RAW Amsterdam / FHV BBDO Amsterdam / PART OF A BIGGER PLAN Amsterdam\n\n【背景】G-Star RAW 一向想挑戰牛仔布品類的界線。官方案例板寫，這一年品牌把自己的製造流程整個翻過來。\n\n【策略】與海洋保護組織 Parley for the Oceans、再生紗線公司 Bionic Yarn，以及 Bionic 的創意總監 Pharrell Williams 合作，做出「為未來而生的牛仔布」。\n\n【點子】把海裡的塑膠撈出來、回收，變成新一代牛仔布，讓穿的人用衣服表達對海洋污染的關心。\n\n【執行】Parley 負責從海中蒐集塑膠，Bionic 把它紡成紗線；為了用這種紗線做牛仔布，G-Star 得從布廠到設計師整個重整生產流程。Pharrell 協助確保布料的外觀與觸感跟一般牛仔布一樣。系列在紐約時裝週發表，2014 年秋冬款包含牛仔褲、T 恤、運動衫、帽子、外套與連身褲，色調以靛藍與黑為主；活動吉祥物是章魚 Otto，牠的形體被放進設計，變成千鳥格等經典圖樣。D&AD 案例說第一批系列的原料有 33% 是回收塑膠。\n\n資料來源：\nhttps://www.dandad.org/awards/professional/2015/product-design/24342/g-star-raw-for-the-oceans/\nhttps://www.designboom.com/design/pharrell-williams-g-star-ocean-plastic-denim-collection-07-01-2014/",
+    "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 產品設計類, Product Design, 全場大獎, Grand Prix, 成衣, Ready to wear, G-Star RAW, G-Star, FHV BBDO, Part of a Bigger Plan, 時尚, 服飾, 牛仔褲, 牛仔布, Denim, 海洋塑膠, Ocean Plastic, 回收塑膠, 再生紗線, Bionic Yarn, Parley for the Oceans, Pharrell Williams, 永續, Sustainability, 環保, 海洋保護, 聯名, 章魚, Otto, 吉祥物, 紐約時裝週, 荷蘭, Netherlands, 製作物, 牛仔布系列",
+    "category": "行銷案例",
+    "references": [
+      "https://www.dandad.org/awards/professional/2015/product-design/24342/g-star-raw-for-the-oceans/",
+      "https://www.designboom.com/design/pharrell-williams-g-star-ocean-plastic-denim-collection-07-01-2014/"
+    ],
+    "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/33e75847369c4345b960bf4e7c244d05",
+    "image_shows": "案例板：藍色底，上方一排影片截圖（海中塑膠、紗線、織布機、Pharrell），中央是兩隻黑色章魚抱著一條牛仔褲的插畫，左側大字 RAW FOR THE OCEANS，右側有策略與點子文字",
+    "text_source_level": 2,
+    "uncertain": false,
+    "needs_audio": false,
+    "note": "官方 LTW 卡片頁只有標題與獎項，內文依 D&AD 案例頁與 Designboom 報導、官方案例板整理。案例板印有公關價值數字，讀稿未寫。已搜爭議：搜「G-Star RAW for the Oceans greenwashing／criticism」，只有法文媒體對動機的疑問與 Greenpeace 2012 年針對 G-Star 廢水化學污染的指控（屬品牌別事，且僅看到搜尋摘要，未開頁），不算本件爭議，未寫入。"
+  },
+  {
+    "id": "ltwm-06663",
+    "year": 2014,
+    "tier": "GRAND PRIX / TITANIUM",
+    "categories": [],
+    "title": "PHARRELL WILLIAMS 24 HOURS OF HAPPY",
+    "brand": "HAPPY",
+    "agency": "ICONOCLAST PARIS",
+    "links": [
+      "https://www.dandad.org/awards/professional/2014/digital-design/22975/24-hours-of-happy-pharrell-williams/"
+    ],
+    "decision": "收",
+    "awards": [
+      {
+        "level": "Grand Prix",
+        "category": "Cyber",
+        "subcategory": "User Experience",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "Cyber",
+        "subcategory": "Interface & Navigation",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "Cyber",
+        "subcategory": "Use of Video",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "Cyber",
+        "subcategory": "Use of Music/Sound Design",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "Cyber",
+        "subcategory": "Microsite",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "Cyber",
+        "subcategory": "Interactive Video",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Silver",
+        "category": "Cyber",
+        "subcategory": "Overall Aesthetic Design/Best Practice",
+        "count": 1,
+        "source_count": 1
+      }
+    ],
+    "awards_unverified": [],
+    "idea_one_liner": "歌手 Pharrell Williams 把〈Happy〉做成 24 小時互動 MV，網頁用時鐘切換，每小時都有路人與名人跳舞",
+    "brand_display": "Pharrell Williams",
+    "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜Cyber類全場大獎 Cyber Grand Prix、Cyber類金獅 Cyber Gold Lion×5、Cyber類銀獅 Cyber Silver Lion｜代理商：ICONOCLAST Paris\n\n【背景】〈Happy〉是 Pharrell Williams 為電影《神偷奶爸 2》演唱的歌。這支 24 小時互動 MV 由法國導演團隊 We Are From L.A.（WAFLA）構想與執導，Iconoclast 製作。\n\n【點子】既然〈Happy〉是一首四分鐘的歌，就把它拍成一支接近一整天的 MV，讓一整天都有人在鏡頭前隨歌起舞，用「持續不斷的快樂」放大歌曲的主題。\n\n【執行】MV 在網站 24hoursofhappy.com 上播放，是一個會循環的長影片：Pharrell 每小時整點演唱一次，一天共 24 次，每次之間還穿插其他表演者。觀眾可以拖動畫面上的黃色時鐘，跳到任一個時間，也能切換不同的「頻道」，看不同的人或團體朝鏡頭邊走邊跳。約 400 人參與演出，有素人也有 Steve Carell、Jimmy Kimmel、Tyler, The Creator 等名人；選角看重個性與多元，而不是專業舞者。拍攝在洛杉磯分 11 天完成，從日出的市中心出發，經過 LAX、Silver Lake、Echo Park、好萊塢再回到市中心，用單一台 Steadicam 游擊式拍攝，每位表演者只拍一次。官方案例另提到網站內有世界舞蹈百科，觀眾也能拍自己的片段加入專案。\n\n【爭議】2014 年 4 月起，有人指出這支影片與 2011 年的獨立舞蹈長片《Girl Walk // All Day》相似：兩者都是在公共空間拍攝、看似即興的長舞蹈片，場景、舞步、服裝與對鏡頭的互動有雷同之處。該片主角 Anne Marsen 製作了對照影片；導演 Jacob Krupnick 說「無論是否知情，Pharrell 很可能受過那部片啟發」。Pharrell 的代表回應，Pharrell 與導演團隊都沒看過該片，影片是以《神偷奶爸 2》為基礎發想。此事沒有進入法律程序，雙方說法未經第三方驗證。\n\n資料來源：\nhttps://www.dandad.org/awards/professional/2014/digital-design/22975/24-hours-of-happy-pharrell-williams/\nhttps://www.slate.com/blogs/browbeat/2013/11/21/pharrell_happy_video_24_hours_of_happy_first_24_hour_music_video_stream.html\nhttps://theneptunes.org/?p=22789\nhttps://www.itsnicethat.com/articles/music-video-24-hours-of-happy\nhttps://www.spinmagazine.com/2014/04/pharrell-happy-looks-like-girl-walk-all-day-video-interview/",
+    "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber 類, Cyber, 全場大獎, Grand Prix, 使用者體驗, User Experience, 互動影片, Interactive Video, 微型網站, Microsite, 音樂, 音效設計, Pharrell Williams, Happy, 神偷奶爸 2, Despicable Me 2, Iconoclast, We Are From L.A., WAFLA, 音樂影片, Music Video, MV, 24 小時, 24 Hours, 互動網頁, 互動影片網站, 時鐘介面, 24hoursofhappy.com, 舞蹈, 跳舞, 路人, 名人客串, 一鏡到底, Steadicam, 洛杉磯, Los Angeles, 法國, France, 快樂, 正能量, 製作物, 互動網站",
+    "category": "行銷案例",
+    "references": [
+      "https://www.dandad.org/awards/professional/2014/digital-design/22975/24-hours-of-happy-pharrell-williams/",
+      "https://www.slate.com/blogs/browbeat/2013/11/21/pharrell_happy_video_24_hours_of_happy_first_24_hour_music_video_stream.html",
+      "https://theneptunes.org/?p=22789",
+      "https://www.itsnicethat.com/articles/music-video-24-hours-of-happy",
+      "https://www.spinmagazine.com/2014/04/pharrell-happy-looks-like-girl-walk-all-day-video-interview/"
+    ],
+    "image_url": "https://m.itsnicethat.com/original_images/528f2af45c3e3c3557003d80.jpg?class=w1440",
+    "image_shows": "戴白框太陽眼鏡、穿印有笑臉圖案條紋 T 恤的 Pharrell，站在洛杉磯河道中，雙手舉在胸前，背景有橋",
+    "text_source_level": 2,
+    "uncertain": false,
+    "needs_audio": false,
+    "note": "官方案例板只是黃底『HAPPY – The first 24 hours music video』標題字卡，沒有點子可看，改用 It's Nice That 文章配圖（影片畫面）。官方 LTW 卡片頁沒有案例文字，內文依 D&AD 案例頁、Slate、The Neptunes 訪談整理與 It's Nice That；It's Nice That 未寫導演資訊，導演與製作公司以 D&AD／Slate 為準。已搜爭議：搜「Pharrell 24 Hours of Happy controversy／fake／lawsuit」，找到《Girl Walk // All Day》相似之爭（已開 Spin 文章確認，寫入讀稿【爭議】）；其餘（川普造勢會場事件等）與本件無關，未寫入。 2026-11-12 Opus 驗：已開官方 case board 確認：黃底「HAPPY – The first 24 hours music video」標題字卡，看不出點子，維持使用報導圖（已開圖，是 MV 畫面）。【爭議】段依規則（得獎後被指抄襲他片）保留。"
+  },
+  {
+    "id": "ltwm-06660",
+    "year": 2014,
+    "tier": "GRAND PRIX / TITANIUM",
+    "categories": [],
+    "title": "GUILT TRIPS",
+    "brand": "V/LINE",
+    "agency": "MCCANN MELBOURNE",
+    "links": [
+      "https://www.patrickbaron.com/?p=6253"
+    ],
+    "decision": "收",
+    "awards": [
+      {
+        "level": "Grand Prix",
+        "category": "Creative Effectiveness",
+        "subcategory": "Creative Effectiveness",
+        "count": 1,
+        "source_count": 1
+      }
+    ],
+    "awards_unverified": [],
+    "idea_one_liner": "澳洲區域火車 V/Line 推出「愧疚之旅」車票，讓家鄉父母寫一封催人愧疚的訊息，連同車票寄給城裡的子女",
+    "brand_display": "V/Line",
+    "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜創意實效類全場大獎 Creative Effectiveness Grand Prix｜代理商：McCANN MELBOURNE\n\n【背景】官方案例板寫：年輕人一長大就離開鄉下小鎮，很少再回來。V/Line 是澳洲最大的區域火車業者（維多利亞州），想提高城市居民回鄉下探訪的次數。\n\n【洞察】Ads of the World 的案例整理指出，由品牌自己出面勸說效果有限，不如借用最了解這些人的親友，以及「父母的愧疚攻勢」本身的力量。\n\n【點子】創造一種新車票「Guilt Trip（愧疚之旅）」，附上媽媽們逼孩子回家需要的所有工具，把回鄉探親改寫成「被愧疚去旅行」。\n\n【執行】在專屬網站上，寄件人寫下一段個人化的愧疚訊息並購買車票，訊息與車票會以電子郵件寄給在城市的收件人；範例訊息寫成「Steven，是生你養你的媽媽……如果你找得出時間探望，這裡有張回家的車票」。另有《日常生活的愧疚之旅》手冊教父母怎麼把訊息寫得更有效；平面與戶外廣告用立體拼貼字寫出「喬安的兒子昨天來看她，他真貼心，不是嗎？」這類話，收尾都是「你們只差一趟愧疚之旅」；社群上有「愧疚之旅大師」的短片教學，車站另有票夾與海報延伸。\n\n資料來源：\nhttp://www.adsoftheworld.com/campaigns/guilt-trips-case-study\nhttps://mumbrella.com.au/vic-train-operator-sends-melburnians-on-a-guilt-trip-94550",
+    "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 創意實效類, Creative Effectiveness, 全場大獎, Grand Prix, V/Line, 維多利亞州, McCann Melbourne, McCann, MRM, 火車, 鐵路, 區域鐵路, 交通, 大眾運輸, 車票, 愧疚, Guilt Trip, 母親, 親情, 回家, 探親, 鄉下, 城市, 幽默, 洞察, 微型網站, 電子郵件, 手冊, 平面廣告, 戶外廣告, 整合行銷, 社群影片, 澳洲, Australia, 製作物, 愧疚之旅車票, 愧疚手冊",
+    "category": "行銷案例",
+    "references": [
+      "http://www.adsoftheworld.com/campaigns/guilt-trips-case-study",
+      "https://mumbrella.com.au/vic-train-operator-sends-melburnians-on-a-guilt-trip-94550"
+    ],
+    "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/3c34afe7fb06432ce08473242a1aee59",
+    "image_shows": "案例板：標題『Bringing country towns back to life one Guilt Trip at a time』，下方依序是兩張立體拼貼字海報、愧疚之旅微型網站畫面、手機收到的『Guilt Trip from Mum』訊息、紅色《Guilt Trips for Everyday Living》手冊、Facebook 教學影片頁與擁抱中的母子票券照",
+    "text_source_level": 2,
+    "uncertain": false,
+    "needs_audio": false,
+    "note": "官方 LTW 卡片頁沒有案例文字，內文依官方案例板（已開圖）、Ads of the World 案例整理與 Mumbrella 報導。案例板與各報導有銷售與探訪次數等成效數字，且各來源說法互相不一致，讀稿全未寫。Campaign Brief、Campaign Asia 因 404／付費牆未取得內文，Patrick Baron 連結（in 檔）網域連不上。已搜爭議：搜「V/Line Guilt Trips controversy／criticism／complaint」，沒有正式申訴或裁罰，只有網友說個人化訊息功能有點失望，屬一般評論，未寫入。"
+  },
+  {
+    "id": "ltwm-06658",
+    "year": 2014,
+    "tier": "GRAND PRIX / TITANIUM",
+    "categories": [],
+    "title": "GIVE ME STRENGTH",
+    "brand": "LUCOZADE",
+    "agency": "OGILVY JOHANNESBURG",
+    "links": [
+      "https://www.dandad.org/awards/professional/2015/writing-for-advertising/24525/give-me-strength/"
+    ],
+    "decision": "收",
+    "awards": [
+      {
+        "level": "Grand Prix",
+        "category": "Radio",
+        "subcategory": "Non-Alcoholic Drinks",
+        "count": 1,
+        "source_count": 3
+      },
+      {
+        "level": "Gold",
+        "category": "Radio",
+        "subcategory": "Scriptwriting",
+        "count": 1,
+        "source_count": 3
+      }
+    ],
+    "awards_unverified": [],
+    "idea_one_liner": "南非 Lucozade 能量飲料的三支廣播，用熱血勵志演講配史詩音樂，替開會、兒童派對、歌手演唱會這些日常折磨加油",
+    "brand_display": "Lucozade",
+    "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜Radio類全場大獎 Radio Grand Prix、Radio類金獅 Radio Gold Lion｜代理商：OGILVY & MATHER JOHANNESBURG\n\n【背景】這是 Lucozade 能量飲料的廣播系列，由 Ogilvy & Mather Johannesburg 製作，主題是「給我力量（Give Me Strength）」。\n\n【點子】能量飲料的廣告通常談運動表現，這組廣播改談日常讓人精疲力竭的場面：三支廣播都寫成勵志演講，配上史詩般的激勵音樂，把 Lucozade 的提神效果放進這些平凡又累人的時刻。廣告用第二人稱說話，讓聽眾自己就是那個面對難關的人，每次都靠 Lucozade 撐過去。\n\n【執行】三支廣播分別是「Teleconference」（一場特別折磨人的電話會議）、「Kids Party」（讓人體力耗盡的兒童生日派對）、「Enrique Concert」（算錯日期、被迫聽完 Enrique 安可的約會）。有報導把情境寫成兒童派對、簡報與 Enrique Iglesias 演唱會。\n\n說明：目前打開過的頁面只有情境摘要，已找到三支廣播的音檔，但還沒轉成逐字稿，各支廣播裡實際的台詞與笑點尚未寫入。\n\n資料來源：\nhttps://dandad.org/awards/professional/2015/radio-advertising/24050/give-me-strength\nhttps://www.dandad.org/awards/professional/2015/writing-for-advertising/24525/give-me-strength/\nhttps://shots.net/news/view/89547-south-africa-special-molefi-thulo\nhttps://prnewswire.com/news-releases/ogilvy--mather-johannesburg-wins-ogilvy-south-africas-first-grand-prix-263703141.html\nhttps://www.thebrandingjournal.com/2014/06/cannes-lions-2014-big-winners-international-festival-creativity/",
+    "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Radio 類, Radio, 全場大獎, Grand Prix, 金獅, Gold Lion, 文案, Scriptwriting, 非酒精飲料, Non-Alcoholic Drinks, Lucozade, 能量飲料, 飲料, 三得利, Suntory, Ogilvy & Mather Johannesburg, Ogilvy, 廣播, 廣播廣告, Radio Ad, 勵志演講, 激勵音樂, 史詩音樂, 幽默, 反差, 日常, 電話會議, 兒童生日派對, 演唱會, Enrique Iglesias, 南非, South Africa, 音檔, 製作物",
+    "category": "行銷案例",
+    "references": [
+      "https://dandad.org/awards/professional/2015/radio-advertising/24050/give-me-strength",
+      "https://www.dandad.org/awards/professional/2015/writing-for-advertising/24525/give-me-strength/",
+      "https://shots.net/news/view/89547-south-africa-special-molefi-thulo",
+      "https://prnewswire.com/news-releases/ogilvy--mather-johannesburg-wins-ogilvy-south-africas-first-grand-prix-263703141.html",
+      "https://www.thebrandingjournal.com/2014/06/cannes-lions-2014-big-winners-international-festival-creativity/"
+    ],
+    "image_url": "",
+    "image_shows": "沒有可用圖片（候選圖是 SVG 圖示，已跳過）",
+    "text_source_level": 3,
+    "uncertain": true,
+    "needs_audio": true,
+    "note": "【uncertain】只找到情境摘要（D&AD 兩頁、Shots），LTW 三支廣播卡片頁只有標題與獎項、沒有腳本；Clio／Bizcommunity／La Réclame 擋爬或無內容。缺：三支廣播的逐字稿或音檔，也沒有找到可用圖片（in 檔候選是 SVG 圖示）。D&AD 官方獎項列的是 Radio 全場大獎、Scriptwriting 金獅。已搜爭議：搜「Lucozade Give Me Strength radio controversy／withdrawn」，未發現爭議（搜到的是 2025 年其他作品的坎城爭議）。需要音檔補寫或補圖。 2026-11-12 Opus 驗：補開 PR Newswire 新聞稿（第二人稱敘述的寫法已補入讀稿）。在 The Branding Journal 得獎整理頁找到三支廣播的 YouTube 音檔。音檔：https://www.youtube.com/watch?v=WffNMqgYqd4（Teleconference）、https://www.youtube.com/watch?v=2RmRqBmgXHw（Kids Party）、https://www.youtube.com/watch?v=ADh85ot9Rb8（Enrique）。三支的縮圖都只有 480×360、約 4KB，沒有可用的畫面，仍然沒有圖。維持 uncertain／needs_audio，等本機轉逐字稿後補寫台詞。"
+  },
+  {
+    "id": "ltwm-06661",
+    "year": 2014,
+    "tier": "GRAND PRIX / TITANIUM",
+    "categories": [],
+    "title": "MAGIC OF FLYING",
+    "brand": "BRITISH AIRWAYS",
+    "agency": "OGILVYONE LONDON",
+    "links": [
+      "https://www.dandad.org/awards/professional/2014/digital-marketing/23428/magic-of-flying/"
+    ],
+    "decision": "收",
+    "awards": [
+      {
+        "level": "Gold",
+        "category": "Cyber",
+        "subcategory": "Digital Billboard",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Silver",
+        "category": "Cyber",
+        "subcategory": "Innovative Use of Technology",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "Media",
+        "subcategory": "Use of Screens",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "Media",
+        "subcategory": "Use of Outdoor",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "Outdoor",
+        "subcategory": "Digital Screens",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "Promo & Activation",
+        "subcategory": "Use of Exhibitions and Digital Installations",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Bronze",
+        "category": "Promo & Activation",
+        "subcategory": "Use of Other Digital Platforms in a Promotional Campaign",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Bronze",
+        "category": "Promo & Activation",
+        "subcategory": "Entertainment & Leisure",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Grand Prix",
+        "category": "Direct",
+        "subcategory": "Ambient Media: large scale",
+        "count": 1,
+        "source_count": 1
+      }
+    ],
+    "awards_unverified": [],
+    "idea_one_liner": "英國航空在倫敦數位看板旁架天線，偵測到英航班機飛過，看板就插播小男孩指著天空，並標出該航班資訊",
+    "brand_display": "British Airways",
+    "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜直效類全場大獎 Direct Grand Prix、Cyber類金獅 Cyber Gold Lion、媒體類金獅 Media Gold Lion×2、戶外類金獅 Outdoor Gold Lion、Promo & Activation類金獅 Promo & Activation Gold Lion、Cyber類銀獅 Cyber Silver Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion×2｜代理商：OGILVYONE LONDON\n\n【背景】D&AD 的案例說明提到，對大多數人來說，第一次感受到飛行的神奇是在小時候；成年後飛行變得稀鬆平常。英國航空想把這份驚奇找回來。\n\n【點子】讓看板「看見」天上的飛機：數位看板平常播放別的品牌廣告，一有英航班機飛過，就被打斷，換成一個小男孩伸手指向天空，旁邊寫出這班飛機的航班號與出發地，並附上標籤 #lookup。\n\n【執行】看板設在倫敦皮卡迪利圓環與前往希斯洛機場的 M4 公路沿線。官方案例板列出六個步驟：在附近建築屋頂架設 ADS-B 天線，收集每架飛機應答器發出的即時資料；辨識出英航班機並傳到雲端伺服器；當班機進入天上的虛擬觸發區，資料就送到看板，中斷原本內容、播出這支廣告。因為應答器資料沒有目的地，團隊另建資料庫把呼號對應到航班與航線；案例板上的範例文字是「看，那是從聖地牙哥來的 BA272 班機」。雲層太低看不到飛機時，雲高感測器會把看板關掉。活動從 2013 年 11 月起進行六週，Clear Channel 為此調整廣告播送系統加入「插播」機制，英航只在每次觸發時付費。\n\n資料來源：\nhttps://www.dandad.org/insights/awards/ba-magic-of-flying-case-study-insights\nhttps://www.dandad.org/awards/professional/2014/digital-marketing/23428/magic-of-flying/",
+    "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 直效類, Direct, 全場大獎, Grand Prix, Cyber 類, 媒體類, 戶外類, 促銷與活化類, 金獅, 銀獅, 銅獅, 數位看板, Digital Billboard, 戶外廣告, 英國航空, British Airways, BA, OgilvyOne London, Ogilvy, 航空, 旅遊, 航班, 飛機, 小男孩, 孩子, 驚奇, 魔法, Magic of Flying, ADS-B, 應答器, 即時資料, 觸發, 互動戶外, 皮卡迪利圓環, Piccadilly Circus, 倫敦, London, 英國, United Kingdom, #lookup, 製作物, 感應式數位看板",
+    "category": "行銷案例",
+    "references": [
+      "https://www.dandad.org/insights/awards/ba-magic-of-flying-case-study-insights",
+      "https://www.dandad.org/awards/professional/2014/digital-marketing/23428/magic-of-flying/"
+    ],
+    "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/856c35747ce940f381aeb5d4ecaf9644",
+    "image_shows": "案例板：上排五格示意（屋頂天線、飛機應答器資料、BAW 航班呼號、天空觸發區、設備機櫃），下方是倫敦建築上的弧形看板，上面有小男孩指向天空的畫面與文字『Look, it's flight BA272 from San Diego #lookup』，天上有一架飛機",
+    "text_source_level": 2,
+    "uncertain": false,
+    "needs_audio": false,
+    "note": "官方 LTW 卡片頁沒有案例文字，內文依 D&AD 兩頁與官方案例板整理。D&AD 案例頁另有觸及與流量數字，未寫。官方獎項九項、作品名都是 MAGIC OF FLYING。案例頁說看板在英國，Clear Channel 的角色出自 D&AD 案例分析頁。已搜爭議：搜「British Airways Magic of Flying billboard controversy／criticism／fake」，未發現爭議（只有 D&AD 標題的玩笑語，非批評）。 2026-11-12 Opus 驗：事實抽查：D&AD 案例分析頁寫的地點（皮卡迪利圓環、往希斯洛的 M4）、雲高感測器、2013 年 11 月起六週、Clear Channel 插播機制、按觸發次數付費，都和讀稿一致。"
+  },
+  {
+    "id": "ltwm-06665",
+    "year": 2014,
+    "tier": "GRAND PRIX / TITANIUM",
+    "categories": [],
+    "title": "PROJECT DANIEL",
+    "brand": "NOT IMPOSSIBLE LABS",
+    "agency": "THE EBELING GROUP NEW YORK",
+    "links": [
+      "https://www.youtube.com/watch?v=SDYFMgrjeLg&ab_channel=NotImpossible"
+    ],
+    "decision": "收",
+    "awards": [
+      {
+        "level": "Titanium",
+        "category": "Titanium",
+        "subcategory": "Titanium and Integrated",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "Product Design",
+        "subcategory": "Well-Being and Environmental Impact",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Bronze",
+        "category": "Branded Content & Entertainment",
+        "subcategory": "Non-Fiction: Online",
+        "count": 1,
+        "source_count": 1
+      }
+    ],
+    "awards_unverified": [],
+    "idea_one_liner": "Not Impossible Labs 帶 3D 印表機到蘇丹，替被炸傷失去雙手的男孩列印義肢，並訓練當地醫護人員自己印",
+    "brand_display": "Not Impossible Labs",
+    "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜鈦獅 Titanium Lion、產品設計類金獅 Product Design Gold Lion、Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：THE EBELING GROUP New York / NOT IMPOSSIBLE LABS Venice / THE EBELING GROUP New York / NOT IMPOSSIBLE LABS Venice / RICHARD VAN AS | ROBOHAND Johannesburg / THE EBELING GROUP New York / NOT IMPOSSIBLE LABS Venice / VENABLES BELL & PARTNERS San Francisco / INTEL Santa Clara\n\n【背景】2012 年，蘇丹男孩 Daniel Omar 14 歲，在放牛時遇上轟炸，躲在樹後保住性命，卻失去雙手。Not Impossible 的共同創辦人暨執行長 Mick Ebeling 被他的故事打動。\n\n【點子】既然傳統義肢又貴又難取得，就把 3D 列印機直接帶進戰區，現場為他做義肢；更重要的是讓當地人自己學會，使這件事不必靠外人持續下去。\n\n【執行】Ebeling 借用先前 EyeWriter 專案的經驗，組成跨領域團隊，成員包括 RoboHand 的創作者 Richard Van As 與一位 MIT 神經科學家，設計出比傳統義肢便宜許多的 3D 列印手。Daniel 戴上後，兩年來第一次能自己吃飯。團隊接著把印表機帶進該國，在當地醫院設立工作坊，訓練在地醫護人員自行列印、組裝義肢；官方頁面稱這是「全世界第一間在地化的 3D 列印義肢實驗室」。義肢設計採開源方式公開，供他人延伸使用，品牌口號是「Help One. Help Many.」。\n\n資料來源：\nhttps://newatlas.com/project-daniel-3d-prints-prosthetic-arms/30527/?amp=true\nhttps://www.notimpossible.com/projects/project-daniel",
+    "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 鈦獅, Titanium, Titanium Lion, 產品設計類, Product Design, 金獅, 品牌內容與娛樂類, Branded Content & Entertainment, 銅獅, Not Impossible Labs, Not Impossible, Mick Ebeling, The Ebeling Group, Intel, Richard Van As, Robohand, 義肢, Prosthetic, 3D 列印, 3D Printing, 開源, Open Source, 蘇丹, Sudan, 戰爭, 兒童, 失去雙手, 無障礙, 科技, 公益, 社會責任, 醫療, 在地訓練, 工作坊, 紀錄片, Non-Fiction, 美國, United States, 製作物, 3D 列印義肢, 義肢工作坊",
+    "category": "行銷案例",
+    "references": [
+      "https://newatlas.com/project-daniel-3d-prints-prosthetic-arms/30527/?amp=true",
+      "https://www.notimpossible.com/projects/project-daniel"
+    ],
+    "image_url": "https://newatlas-brightspot.s3.ap-southeast-2.amazonaws.com/archive/not_impossible_3d_arms.jpg",
+    "image_shows": "兩名男子在石牆前面對面大笑，各自戴著 3D 列印的白色義肢手臂並讓兩隻義肢手相碰，右下角有 NOTimpossible [LABS] 字樣",
+    "text_source_level": 2,
+    "uncertain": false,
+    "needs_audio": false,
+    "note": "官方 LTW 卡片頁沒有案例文字；YouTube 頁（in 檔連結）WebFetch 讀不到內容。內文依 New Atlas 報導與 Not Impossible 官方專案頁整理。來源對受傷部位寫法不同（New Atlas 寫雙手、官方頁寫雙臂），讀稿寫雙手；官方頁也未給男孩姓名與年齡，這部分取自 New Atlas。in 檔候選圖是影片分鏡（引言字卡，不用），改用 New Atlas 報導圖；圖中人物是否為 Daniel 來源未說，image_shows 只描述畫面。搜尋摘要提到的造價與列印時數因未開頁，未寫入。已搜爭議：搜「Project Daniel Not Impossible controversy／criticism／fake」，沒有找到相關報導（結果多為無關內容）。"
+  },
+  {
+    "id": "ltwm-06659",
+    "year": 2014,
+    "tier": "GRAND PRIX / TITANIUM",
+    "categories": [],
+    "title": "ANZ GAYTMS",
+    "brand": "ANZ BANK",
+    "agency": "WHYBIN TBWA MELBOURNE",
+    "links": [
+      "https://www.dandad.org/awards/professional/2015/white-pencil-creativity-for-good/24196/anz-gaytms/"
+    ],
+    "decision": "收",
+    "awards": [
+      {
+        "level": "Bronze",
+        "category": "Media",
+        "subcategory": "Financial Products & Services",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Grand Prix",
+        "category": "Outdoor",
+        "subcategory": "Special Build",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Bronze",
+        "category": "Promo & Activation",
+        "subcategory": "Financial Products & Services",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Bronze",
+        "category": "Direct",
+        "subcategory": "Ambient Media: large scale",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Bronze",
+        "category": "Direct",
+        "subcategory": "Financial Products & Services",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Silver",
+        "category": "PR",
+        "subcategory": "Financial Services",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Silver",
+        "category": "PR",
+        "subcategory": "Corporate Responsibility",
+        "count": 1,
+        "source_count": 1
+      }
+    ],
+    "awards_unverified": [],
+    "idea_one_liner": "澳洲 ANZ 銀行贊助雪梨同志大遊行，把市區十台提款機用水鑽、亮片、皮革手工裝飾成「GAYTM」，螢幕還跟路人打招呼",
+    "brand_display": "ANZ",
+    "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜戶外類全場大獎 Outdoor Grand Prix、公關類銀獅 PR Silver Lion×2、直效類銅獅 Direct Bronze Lion×2、媒體類銅獅 Media Bronze Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：WHYBIN\\TBWA GROUP MELBOURNE\n\n【背景】ANZ 自 2007 年起贊助雪梨同志大遊行（Mardi Gras），2014 年升為主要夥伴（Principal Partner），請廣告公司 Whybin\\TBWA 做一個能展現多元、包容與尊重的活動。\n\n【點子】ATM 也「出櫃、很驕傲」：把提款機變成會慶祝的機器，呼應品牌「活在你的世界」的承諾，也讓贊助變成街頭看得到的東西。\n\n【執行】藝術家把雪梨市區的十台 ANZ 提款機手工改造成「GAYTM」，用水鑽、亮片、鉚釘、皮革、牛仔布與毛皮裝飾，每台都以同志文化為靈感，題材從獨角獸、變裝皇后到彩虹與刺青；機器還得在貼滿水鑽的情況下維持正常使用。螢幕會顯示「Hello gorgeous」「Happy Mardi Gras!」等問候，吐出的收據是彩虹色，附有「Cash out and proud」（大方領錢、大方做自己）的卡片。活動期間，非 ANZ 持卡人在這些機器上被收取的跨行手續費，ANZ 全數捐給非營利組織 Twenty10。品牌另外開了 Instagram 帳號，改採每週七天的社群經營。\n\n資料來源：\nhttps://www.dandad.org/awards/professional/2015/white-pencil-creativity-for-good/24196/anz-gaytms/\nhttps://www.anz.com.au/bluenotes/2014/10/five-lessons-in-innovation-from-gaytms/\nhttps://shots.net/news/view/83271-whybintbwa-draws-cash-out-and-proud-with-gaytms",
+    "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 戶外類, Outdoor, 全場大獎, Grand Prix, 特製搭建, Special Build, 媒體類, 促銷與活化類, 直效類, 公關類, PR, 銀獅, 銅獅, ANZ, ANZ Bank, 澳新銀行, GAYTM, Whybin TBWA, Whybin\\TBWA Melbourne, 銀行, 金融, 提款機, ATM, 雪梨同志大遊行, Sydney Gay and Lesbian Mardi Gras, Mardi Gras, 同志, LGBT, LGBTI, 多元與包容, Diversity, 彩虹, 水鑽, 亮片, 手工, 手工裝飾, 收據, 慈善, Twenty10, 社群, Instagram, 澳洲, Australia, 雪梨, 製作物, 改裝提款機, 彩虹收據",
+    "category": "行銷案例",
+    "references": [
+      "https://www.dandad.org/awards/professional/2015/white-pencil-creativity-for-good/24196/anz-gaytms/",
+      "https://www.anz.com.au/bluenotes/2014/10/five-lessons-in-innovation-from-gaytms/",
+      "https://shots.net/news/view/83271-whybintbwa-draws-cash-out-and-proud-with-gaytms"
+    ],
+    "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/1008f301e12549db8cccc72a19d093b1",
+    "image_shows": "案例板：左側是一台用彩色珠子貼滿、佈滿紅唇圖案的 GAYTM 提款機，螢幕顯示 Hello gorgeous!；右側有標語『So we turned ATMs into GAYTMs.』、九台不同花樣的 GAYTM、收據與螢幕特寫",
+    "text_source_level": 2,
+    "uncertain": false,
+    "needs_audio": false,
+    "note": "官方 LTW 卡片頁沒有案例文字，內文依 D&AD 案例頁、ANZ 官方部落格與 Shots 整理；案例板印有媒體曝光數字，未寫。官方獎項七項、作品名都是 ANZ GAYTMS。已搜爭議：搜「ANZ GAYTMs controversy／backlash／criticism」；ANZ 部落格自承有部分負面反應但未具體說明，另有搜尋摘要顯示 2015 年紐西蘭版被破壞、被批「粉紅洗白（pinkwashing）」，屬後續年份與別地版本，且未開頁，皆屬一般評論，只寫 note、未寫入讀稿。 2026-11-12 Opus 驗：粉紅洗白的批評是 2015 年紐西蘭版、不是本件，同意只寫 note、不加【爭議】。"
+  },
+  {
+    "id": "ltwm-07229",
+    "year": 2014,
+    "tier": "BRONZE",
+    "categories": [],
+    "title": "UNGROUNDED: AN INNOVATION LAB IN THE SKY",
+    "brand": "BRITISH AIRWAYS FLIGHT",
+    "agency": "OGILVY NEW YORK",
+    "links": [
+      "https://clios.com/awards/winner/public-relations/ungrounded-an-innovation-lab-in-the-sky-3614"
+    ],
+    "decision": "收",
+    "awards": [
+      {
+        "level": "Bronze",
+        "category": "PR",
+        "subcategory": "Travel, Tourism & Leisure",
+        "count": 1,
+        "source_count": 1
+      }
+    ],
+    "awards_unverified": [],
+    "idea_one_liner": "英國航空包下舊金山飛倫敦的航班，邀請一百多位矽谷創業者、投資人，在 11 小時機上腦力激盪，思考工程人才短缺的解方",
+    "brand_display": "British Airways",
+    "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜公關類銅獅 PR Bronze Lion｜代理商：OGILVY NEW YORK / TEXT 100 New York\n\n【背景】官方案例板寫的任務是：讓英國航空成為美國西岸創新社群首選的航空公司，並以前瞻又誠懇的方式讓他們愛上 BA。2013 年 3 月，BA 公布「UnGrounded」計畫，主題是全球科學、科技人才的缺口：人才出現的地方與機會所在不一致。\n\n【點子】把一趟航班變成「高空創新實驗室」：既然這群人平常很難聚在一起，就讓他們坐同一架飛機，十幾個小時內只能互相討論。\n\n【執行】2013 年 6 月 12 日，一百多位來自矽谷的創業者、創投、學者與科技圈人士（包括 Craigslist 創辦人 Craig Newmark 等人）先在舊金山 Clift 飯店集合，再搭上 BA 雙層客機飛往倫敦。設計公司 IDEO 協助設計討論流程；機上約 11 小時沒有 Wi-Fi，用填字遊戲與畫肖像破冰，分組在海報板上發想、提案，再用貼紙投票。議題聚焦在如何培養更多工程人才，包括 STEM 教育、性別落差與新興市場的科技人才。獲選的點子包括 Beacon In A Backpack、CertifyMe、Init 與 AdvisHer（連結女性 STEM 學生與科技業女性的導師計畫），團隊抵達倫敦後在 DNA 高峰會上發表。合作單位包括聯合國與 Decide Now Act，並有 Silicon Valley Bank、史丹佛大學等支持。\n\n資料來源：\nhttps://techcrunch.com/2013/06/13/the-mile-high-hackathon/\nhttps://thenextweb.com/news/british-airways-launches-ungrounded-an-innovation-lab-to-help-solve-the-global-talent-crunch",
+    "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 公關類, PR, 銅獅, 旅遊與休閒, Travel Tourism & Leisure, 英國航空, British Airways, BA, UnGrounded, Ogilvy New York, Ogilvy, Text100, 航空, 旅遊, 創新實驗室, Innovation Lab, 高空, 機上, 黑客松, Hackathon, 腦力激盪, 矽谷, Silicon Valley, 創業者, 創投, 科技人才, STEM, 工程師, 人才短缺, IDEO, Mashable, 聯合國, 舊金山, 倫敦, 美國, United States, 英國, 事件行銷, 體驗, 製作物, 機上創新工作坊",
+    "category": "行銷案例",
+    "references": [
+      "https://techcrunch.com/2013/06/13/the-mile-high-hackathon/",
+      "https://thenextweb.com/news/british-airways-launches-ungrounded-an-innovation-lab-to-help-solve-the-global-talent-crunch"
+    ],
+    "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/7a5d61fa5ac34f888a1c3a4ec6ae9994",
+    "image_shows": "案例板：雲層背景上，中央圓形照片是機艙內幾位男女圍著討論、手拿筆記本；周圍有 G8 UK 創新大會合照、Mashable 文章截圖、推特貼文與貼滿黃色便利貼的筆記本；標題『Can a single flight help solve a global issue?』",
+    "text_source_level": 2,
+    "uncertain": false,
+    "needs_audio": false,
+    "note": "官方 LTW 卡片頁沒有案例文字，內文依 TechCrunch、The Next Web 與官方案例板整理；案例板印有觸及與業績數字，未寫。人數各來源不同（TNW 寫約 100、TechCrunch 約 150、案例板 130），讀稿寫「一百多位」。TNW 為計畫發布稿，發表場合（DNA 高峰會）依 TechCrunch，案例板寫「聯合國 G8 高峰會」，以 TechCrunch 為準。Clift 飯店、IDEO 等細節皆出自 TechCrunch。程式檢查對 The Next Web 回 404（擋程式），但已用 WebFetch 實際打開讀到內文。已搜爭議：搜「British Airways Ungrounded controversy／criticism／stunt」，沒有找到本件的批評或指控（出現的是 BA 其他事件）。 2026-11-12 Opus 驗：用 WebFetch 重開 The Next Web，可以讀到全文（2013-03-21 發布稿：約 100 人、聯合國與 Decide Now Act 合作），和讀稿一致；程式檢查的 404 是網站擋程式，連結保留。"
+  }
 ]
