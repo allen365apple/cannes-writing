@@ -108,7 +108,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "圖來自官方 campaign 頁（in 檔原本沒有候選圖）。內容依官方案例板文字、AV Club、Marketing Dive、Webby 頁整理；案例板與報導的成效數字未寫入。AV Club 與 Marketing Dive 都沒寫到『第五季』明確字樣，讀稿用『新一季』。已搜爭議：搜尋摘要提到粉絲抱怨簡訊分批送達、每則只有幾秒新畫面，屬一般評論，且未打開來源，未寫入，也不算爭議；沒有造假、抄襲或撤獎。"
+  "note": "圖來自官方 campaign 頁（in 檔原本沒有候選圖）。內容依官方案例板文字、AV Club、Marketing Dive、Webby 頁整理；案例板與報導的成效數字未寫入。AV Club 與 Marketing Dive 都沒寫到『第五季』明確字樣，讀稿用『新一季』。已搜爭議：搜尋摘要提到粉絲抱怨簡訊分批送達、每則只有幾秒新畫面，屬一般評論，且未打開來源，未寫入，也不算爭議；沒有造假、抄襲或撤獎。 2026-11-12 Opus 驗：圖已打開，是本件官方案例圖（烏鴉與 The Raven Brings The Sight），讀稿與圖上文字相符；圖上的成效數字未寫入。"
  },
  {
   "id": "ltwm-99544",
@@ -176,7 +176,7 @@
   "text_source_level": 0,
   "uncertain": true,
   "needs_audio": false,
-  "note": "建議不收（找不到內容）。lovethework 作品頁（thats-pso-me-98653、campaign 頁 226087）只有標題與類別，沒有說明文字；campaign 頁的圖其實是 Allianz CARSWAP（別件作品），不能用；case board 候選圖只有 480×270 的黑色模糊畫面。Hill Holliday 官網沒有這件、其他搜尋只出現 Cosentyx『See Me』等別支作品，搜尋摘要提到的『Huy 的日常紀錄片』『That's Pso My Reality』未打開來源，不得寫入。官方類別為製藥類 Pharma 銅獅（B：面向非醫療專業人員）。本機若找得到 Hill Holliday 作品集、案例影片或 Novartis 官方資料，可改為收。已搜爭議：搜 That's Pso Me Novartis Hill Holliday，沒有爭議紀錄。"
+  "note": "建議不收（找不到內容）。lovethework 作品頁（thats-pso-me-98653、campaign 頁 226087）只有標題與類別，沒有說明文字；campaign 頁的圖其實是 Allianz CARSWAP（別件作品），不能用；case board 候選圖只有 480×270 的黑色模糊畫面。Hill Holliday 官網沒有這件、其他搜尋只出現 Cosentyx『See Me』等別支作品，搜尋摘要提到的『Huy 的日常紀錄片』『That's Pso My Reality』未打開來源，不得寫入。官方類別為製藥類 Pharma 銅獅（B：面向非醫療專業人員）。本機若找得到 Hill Holliday 作品集、案例影片或 Novartis 官方資料，可改為收。已搜爭議：搜 That's Pso Me Novartis Hill Holliday，沒有爭議紀錄。 2026-11-12 Opus 驗：再查一次：lovethework.com/work-awards/entries/98653 對外只有標題、類別、代理商；搜尋摘要顯示登入後有說明文字（未寫入），建議本機登入 lovethework 讀全文後再決定是否改收。"
  },
  {
   "id": "ltwm-99545",
@@ -199,20 +199,21 @@
   "awards_unverified": [],
   "idea_one_liner": "Oral-B 為藍牙電動牙刷做配套 App，把手機變成刷牙教練，依目標排出護理課程，牙醫也能遠端替病人加時間",
   "brand_display": "P&G Oral-B 智慧牙刷與 App",
-  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銅獅 Mobile Bronze Lion｜代理商：ICONMOBILE GROUP Berlin\n\n【點子】讓牙刷和手機連線，電動牙刷刷的時候，手機就像教練，即時回饋刷得夠不夠久、有沒有刷到。\n\n【執行】依 2015 年 3 月巴塞隆納世界行動通訊大會（Mobile World Congress）公布的更新，Oral-B SmartSeries 電動牙刷透過藍牙 4.0 連到 Oral-B App，刷牙時給即時回饋。App 的功能包括：依目標選擇「護理旅程」（Dental Care Journeys），如清新口氣、對抗牙菌斑、美白、牙齦健康、矯正護理；牙科專業人員可以替特定區域加上額外刷牙時間、設定刷牙與牙間清潔的指示並推薦產品，病人也可以把刷牙紀錄用電子郵件寄給牙醫或口腔衛生師；還有提醒使用者漱口、使用牙線、清潔舌頭的通知。另據 Marketing Dive，App 內有分區的兩分鐘計時器，讓口腔每個區域都分配到時間，也有每週與每月刷牙統計，並提醒更換刷頭。Oral-B 並計畫開放 API 與 SDK，讓第三方使用刷牙資料。\n\n資料來源：\nhttps://lovethework.com/work-awards/campaigns/oral-b-smart-series-brush-and-app-234256\nhttps://www.news-medical.net/news/20150302/Revolutionary-Oral-B-Bluetooth-enabled-toothbrush-App-launched-at-Mobile-World-Congress-2015.aspx\nhttps://www.marketingdive.com/ex/mobilemarketer/cms/news/content/19885.html",
+  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜行動類銅獅 Mobile Bronze Lion｜代理商：ICONMOBILE GROUP Berlin\n\n【點子】讓牙刷和手機連線，電動牙刷刷的時候，手機就像教練，即時回饋刷得夠不夠久、有沒有刷到。\n\n【執行】依 2015 年 3 月巴塞隆納世界行動通訊大會（Mobile World Congress）公布的更新，Oral-B SmartSeries 電動牙刷透過藍牙 4.0 連到 Oral-B App，刷牙時給即時回饋。App 的功能包括：依目標選擇「護理旅程」（Dental Care Journeys），如清新口氣、對抗牙菌斑、美白、牙齦健康、矯正護理；牙科專業人員可以替特定區域加上額外刷牙時間、設定刷牙與牙間清潔的指示並推薦產品，病人也可以把刷牙紀錄用電子郵件寄給牙醫或口腔衛生師；還有提醒使用者漱口、使用牙線、清潔舌頭的通知。另據 Marketing Dive，App 內有分區的兩分鐘計時器，讓口腔每個區域都分配到時間，也有每週與每月刷牙統計，並提醒更換刷頭。Oral-B 並計畫開放 API 與 SDK，讓第三方使用刷牙資料。\n\n資料來源：\nhttps://lovethework.com/work-awards/campaigns/oral-b-smart-series-brush-and-app-234256\nhttps://www.news-medical.net/news/20150302/Revolutionary-Oral-B-Bluetooth-enabled-toothbrush-App-launched-at-Mobile-World-Congress-2015.aspx\nhttps://www.marketingdive.com/ex/mobilemarketer/cms/news/content/19885.html\nhttps://www.macrumors.com/2015/02/06/oral-b-pro-smart-toothbrush-review",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 行動類, Mobile, 銅獅, Bronze Lion, P&G, 寶僑, Procter & Gamble, Oral-B, 歐樂B, iconmobile Group Berlin, iconmobile, 口腔護理, 牙刷, 電動牙刷, 智慧牙刷, 智慧家電, 藍牙, Bluetooth, App, 行動應用, 手機應用程式, 刷牙, 牙醫, 即時回饋, 計時器, 提醒, 德國, Germany",
   "category": "行銷案例",
   "references": [
    "https://lovethework.com/work-awards/campaigns/oral-b-smart-series-brush-and-app-234256",
    "https://www.news-medical.net/news/20150302/Revolutionary-Oral-B-Bluetooth-enabled-toothbrush-App-launched-at-Mobile-World-Congress-2015.aspx",
-   "https://www.marketingdive.com/ex/mobilemarketer/cms/news/content/19885.html"
+   "https://www.marketingdive.com/ex/mobilemarketer/cms/news/content/19885.html",
+   "https://www.macrumors.com/2015/02/06/oral-b-pro-smart-toothbrush-review"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://images.macrumors.com/article-new/2015/02/oralbappbrushing-800x709.jpg",
+  "image_shows": "Oral-B App 刷牙畫面（800×709）：左邊是分區計時器，上排牙齒其中一區亮藍色、中間顯示 0:23；右邊是計時 0:13 時下方滑出的新聞頁",
   "text_source_level": 3,
   "uncertain": false,
   "needs_audio": false,
-  "note": "找不到好圖：in 檔沒有候選圖，lovethework 的 Oral-B 作品頁（234256）沒有圖，其他 Oral-B 頁（221290、242337、244560）可能是不同年份或不同報名項目，未使用；Slideshare、AdsSpot 打不開或只有縮圖。需要本機補圖。官方說明全文需登入、也打不到官方案例板文字，讀稿依 2015 年巴塞隆納 MWC 的產品與 App 更新報導整理，沒有寫 iconmobile 的做法細節；未寫下載數、使用時間等成效。lovethework 連結是搜尋找到的 234256 campaign 頁（in 檔沒有 ltw_card_urls），頁面沒有說明文字，與官方報名項目是否同一件請驗收員確認。已搜爭議：搜 Oral-B Smart Brush app iconmobile Cannes controversy／criticism／withdrawn，沒有爭議紀錄。"
+  "note": "找不到好圖：in 檔沒有候選圖，lovethework 的 Oral-B 作品頁（234256）沒有圖，其他 Oral-B 頁（221290、242337、244560）可能是不同年份或不同報名項目，未使用；Slideshare、AdsSpot 打不開或只有縮圖。需要本機補圖。官方說明全文需登入、也打不到官方案例板文字，讀稿依 2015 年巴塞隆納 MWC 的產品與 App 更新報導整理，沒有寫 iconmobile 的做法細節；未寫下載數、使用時間等成效。lovethework 連結是搜尋找到的 234256 campaign 頁（in 檔沒有 ltw_card_urls），頁面沒有說明文字，與官方報名項目是否同一件請驗收員確認。已搜爭議：搜 Oral-B Smart Brush app iconmobile Cannes controversy／criticism／withdrawn，沒有爭議紀錄。 2026-11-12 Opus 驗：圖：補上 MacRumors 2015 年 2 月實測文章的 App 畫面截圖（已打開，看得出分區計時）。lovethework 234256 頁只有標題（iconmobile／P&G、2015），沒有文字或獎項細節，無法再確認；建議本機登入核對是否同一報名。"
  },
  {
   "id": "ltwm-99543",
@@ -281,9 +282,9 @@
   "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/2db1e4f84021400495c9f4c1b109460a",
   "image_shows": "案例圖：黃昏遊樂園裡的旋轉鞦韆，上面掛著吊燈、椅子、書櫃、雕像、盆栽等家具被甩起，右上角寫 Stugeron 與楊森",
   "text_source_level": 3,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "依作品畫面解讀，無文字說明：lovethework 作品頁只有標題與類別，網路搜尋（Stugeron 眩暈、Medulla、Janssen）找不到任何報導或案例說明，所以 references 第二項放案例圖本身。『給醫師看的平面廣告』依圖上標語與官方類別（面向醫療專業人員）判斷；是否另有影片或其他載體不明。缺：官方或報導的文字說明。已搜爭議：搜 Stugeron Spinning Living Room Medulla Janssen，沒有相關紀錄，無爭議。"
+  "note": "依作品畫面解讀，無文字說明：lovethework 作品頁只有標題與類別，網路搜尋（Stugeron 眩暈、Medulla、Janssen）找不到任何報導或案例說明，所以 references 第二項放案例圖本身。『給醫師看的平面廣告』依圖上標語與官方類別（面向醫療專業人員）判斷；是否另有影片或其他載體不明。缺：官方或報導的文字說明。已搜爭議：搜 Stugeron Spinning Living Room Medulla Janssen，沒有相關紀錄，無爭議。 2026-11-12 Opus 驗：已打開官方圖，讀稿描述相符；作品名 Spinning Living Room 加上標語「When your patients are suffering from vertigo」已足以看懂巧思，比照依畫面解讀的平面件拿掉 uncertain。再搜一次（Stugeron vertigo Medulla Janssen）只找到 2009 年別家代理商的 Stugeron 舊作，沒有本件說明。"
  },
  {
   "id": "ltwm-99549",
@@ -304,7 +305,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "Condomania 請攝影師把情侶裸身裝進真空袋，拍成海報，透明塑膠緊裹身體像戴上保險套，標語是保存愛",
+  "idea_one_liner": "東京保險套店 Condomania 請攝影師 Hal 把裸身情侶封進真空收納袋拍照，海報標語要人戴套「保存愛」",
   "brand_display": "Condomania 保險套",
   "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜健康與保健類銅獅 Health & Wellness Bronze Lion｜代理商：OGILVY & MATHER JAPAN Tokyo\n\n【點子】把保險套「緊緊包覆、保存」的特性，拍成一對對被塑膠膜緊緊包住、抱在一起的情侶。\n\n【執行】這是一組三張海報，案例圖有三種姿勢：情侶蜷成心形、緊緊相擁、一對身上有刺青的情侶抱在一起。每張都是白底、被透明塑膠緊貼著的裸身情侶，下方寫著「Preserve the love. Wear a condom.」（保存愛，戴上保險套），再來是 Condomania 的標誌、「All colours. All sizes. All styles.」與網址 condomania.jp。據 Designboom，這系列名為「flesh love」，由日本攝影師 Hal 拍攝，把情侶放進棉被用的真空收納袋裡，空氣有限、兩人共用，所以得很快拍完，每對情侶只在袋中待約 10 秒；廣告由 Ogilvy & Mather Tokyo 製作，用於 Condomania 的東京店。\n\n資料來源：\nhttps://www.designboom.com/?p=187532\nhttps://ascentialcdn.filespin.io/api/v1/conversion/cf59fff7c93a4f3b8df1fc1bcd43700c\nhttps://ascentialcdn.filespin.io/api/v1/conversion/64563d6a75dc41afa510706270d4af61\nhttps://ascentialcdn.filespin.io/api/v1/conversion/801554840bc140d4b98707be5328081e",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 健康與保健類, Health & Wellness, 非處方產品與器材, OTC Products/Devices, 銅獅, Bronze Lion, Condomania, 保險套, 避孕套, 安全套, Condom, Ogilvy & Mather Japan Tokyo, Ogilvy, 奧美, Hal, 攝影, 真空包裝, 真空袋, Vacuum Pack, 塑膠膜, 情侶, 擁抱, 愛心, 心形, 刺青, Tattoo, Embrace, Heart, 平面廣告, 海報, 系列海報, 裸體, 安全性行為, 性健康, flesh love, 日本, Japan, 東京, Tokyo",
@@ -320,6 +321,7 @@
   "text_source_level": 3,
   "uncertain": false,
   "needs_audio": false,
-  "note": "三張海報（心形、相擁、有刺青的一對）都看過，主圖用心形那張。海報畫面與標語依案例圖解讀；『flesh love』、攝影師 Hal、真空袋、10 秒、東京店等說明只有 Designboom 一個來源，lovethework 作品頁沒有文字，所以參考連結放案例圖。這組作品是否就是 Designboom 寫的同一系列，是依標語與畫面推斷（同樣是 Ogilvy Tokyo 與 Condomania）。同品牌另有影片作品 Packed Couple（D&AD、One Show），不是本件，沒有混寫。in 檔沒有 lovethework 卡片連結，references 不含官方作品頁。in 檔 note_from_selection 提到『Condomania（Ogilvy Jakarta）』，與官方代理商 Ogilvy & Mather Japan Tokyo 不同，以官方為準。已搜爭議：搜 Condomania Ogilvy Tokyo vacuum packed couples controversy／banned／plagiarism，只有『怪異』的網路評論，沒有禁播、抄襲、撤獎（搜尋摘要未寫入）。"
+  "note": "三張海報（心形、相擁、有刺青的一對）都看過，主圖用心形那張。海報畫面與標語依案例圖解讀；『flesh love』、攝影師 Hal、真空袋、10 秒、東京店等說明只有 Designboom 一個來源，lovethework 作品頁沒有文字，所以參考連結放案例圖。這組作品是否就是 Designboom 寫的同一系列，是依標語與畫面推斷（同樣是 Ogilvy Tokyo 與 Condomania）。同品牌另有影片作品 Packed Couple（D&AD、One Show），不是本件，沒有混寫。in 檔沒有 lovethework 卡片連結，references 不含官方作品頁。in 檔 note_from_selection 提到『Condomania（Ogilvy Jakarta）』，與官方代理商 Ogilvy & Mather Japan Tokyo 不同，以官方為準。已搜爭議：搜 Condomania Ogilvy Tokyo vacuum packed couples controversy／banned／plagiarism，只有『怪異』的網路評論，沒有禁播、抄襲、撤獎（搜尋摘要未寫入）。 2026-11-12 Opus 驗：事實抽查：打開 Designboom 核對 flesh love、攝影師 Hal、棉被真空袋、每對 10 秒、Ogilvy & Mather Tokyo、東京（原宿）Condomania 店，都相符；一句話補上 Condomania 的身分與攝影師。HEART 篇圖已打開確認。",
+  "idea_one_liner_r0": "Condomania 請攝影師把情侶裸身裝進真空袋，拍成海報，透明塑膠緊裹身體像戴上保險套，標語是保存愛"
  }
 ]

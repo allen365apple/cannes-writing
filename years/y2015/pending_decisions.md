@@ -149,3 +149,14 @@
 - 資料：b058 07822 官方品牌 SINGULARES，in 檔 PERNOD RICARD；b056 07795 官方 Cinemark、One Show 記 I Vote SA；b056 07798 in 檔官方 case board 是別件（Salentein），已改用官方 LUCHADOR 板。
 - 圖：b066 99502、99507、99531、99518、99530，b067 99512、99513，b058 三件廣播沒圖。
 - 【爭議】0；撤獎 0。
+
+## 2026-11-13 雲端第 1 輪 b068 b069 b070（Sonnet 寫、Opus 驗）
+- 重複候選（寫手標重複、驗收員同意；獎要併進保留那筆）：b068 ltwm-99525 8:36, 9:32 → same_as ltwm-07310（Press 銅獅併入）；b069 ltwm-99538 NETFLIX GIF → same_as ltwm-07424（Media 銅獅併入）；b070 ltwm-99542 Dove #SpeakBeautiful → same_as ltwm-07518（PR 銅獅併入）。建議：照併。
+- 重複有異議：b069 ltwm-99528 Bayer CHURCH-BALL 寫手標 same_as ltwm-07504；驗收員判斷手法不同（兩條連環畫相撞 vs. 密集線稿找紅色元凶），建議改回「收」。decision 未動，請決定。
+- 同計畫疑重複：b068 ltwm-99534 NIKE RISE 與 ltwm-07285 HOUSE OF MAMBA 同屬 Nike Rise，點子不同（社群紀錄劇＋投票 vs. LED 互動球場），寫手先收。請決定。
+- 同平台：b068 ltwm-99519 WINNER STAYS 是 ltwm-07337 RISK EVERYTHING 的第二支片，建議與之前回報的 07484 一起決定。
+- 不收待確認：b070 ltwm-99548 That's Pso Me（無說明、無圖）；lovethework 登入後可能有說明，建議本機登入讀過再決定。
+- 仍 uncertain：b068 99523 TIGER, FOX, BEAR（無文字來源，TIGER 那張找不到，依畫面解讀）；b069 99533 EMMA-ALEX/JULIE-ISABEL、99532 SOUP（廣播，缺音檔／逐字稿、無圖）。
+- in 檔錯：b068 99523 候選圖第 2 張與 ltw 卡 bear-134085 是 Greenpeace（Publicis Shanghai）熊海報，不是本件。
+- 圖：b069 99533、99532 無圖；b068 99521、99519 圖是 slatecdn 代理長網址，可能失效；b070 99545 Oral-B 改用 MacRumors App 截圖（lovethework 234256 是否同筆報名無法確認）。
+- 【爭議】0；撤獎 0。

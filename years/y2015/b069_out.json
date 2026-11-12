@@ -39,7 +39,7 @@
   "text_source_level": 3,
   "uncertain": false,
   "needs_audio": false,
-  "note": "疑似重複，請主對話／驗收員決定：CHURCH-BALL／CARPET-WINE／CAR-VASE 與 ltwm-07504《QUEUE, FIRETRUCK》（b033，健康類銀獅）是同一組 Bayer CafiAspirina 線稿海報（同樣的藥盒、綠／紅雙色線稿手法），依 in 檔指示標 decision: 重複＋same_as ltwm-07504，獎項（戶外類銅獅）應併進 ltwm-07504（跨批，本批不動別批檔）；若認定是不同作品要保留，把 decision 改回「收」即可（讀稿已寫完整）。官方沒有文字說明，三張依作品畫面解讀；教堂窗、酒與地毯、汽車與花瓶的交會畫面只描述看得到的部分。已搜爭議：搜 Bayer AlmapBBDO withdrawn Cannes：2016 年另一組 Bayer Aspirina／Cafiaspirina 戶外廣告因性別歧視與「為獎而做」（媒體費由代理商付）被撤回、退還銅獅，屬 2016 年別支作品，本件 2015 年作品查無撤獎或造假指控（讀稿未寫）。2014 年 Clio 與搜尋摘要提到的其他資訊未寫入。"
+  "note": "疑似重複，請主對話／驗收員決定：CHURCH-BALL／CARPET-WINE／CAR-VASE 與 ltwm-07504《QUEUE, FIRETRUCK》（b033，健康類銀獅）是同一組 Bayer CafiAspirina 線稿海報（同樣的藥盒、綠／紅雙色線稿手法），依 in 檔指示標 decision: 重複＋same_as ltwm-07504，獎項（戶外類銅獅）應併進 ltwm-07504（跨批，本批不動別批檔）；若認定是不同作品要保留，把 decision 改回「收」即可（讀稿已寫完整）。官方沒有文字說明，三張依作品畫面解讀；教堂窗、酒與地毯、汽車與花瓶的交會畫面只描述看得到的部分。已搜爭議：搜 Bayer AlmapBBDO withdrawn Cannes：2016 年另一組 Bayer Aspirina／Cafiaspirina 戶外廣告因性別歧視與「為獎而做」（媒體費由代理商付）被撤回、退還銅獅，屬 2016 年別支作品，本件 2015 年作品查無撤獎或造假指控（讀稿未寫）。2014 年 Clio 與搜尋摘要提到的其他資訊未寫入。 2026-11-12 Opus 驗：打開 CARPET-WINE 官方圖：是 L 形兩條連環畫，綠條是男子買 300 元的酒，紅條是女子買 7,000 元的地毯，交會格是酒灑在地毯上，讀稿相符。重複判斷：與 ltwm-07504（QUEUE, FIRETRUCK：單張密集線稿裡找出紅色元凶）同品牌、同代理商、同雙色藥盒，但畫面機制不同（兩條故事線相撞），驗收員傾向不算重複、可改回收，交主對話決定。"
  },
  {
   "id": "ltwm-99535",
@@ -154,7 +154,7 @@
   "text_source_level": 4,
   "uncertain": true,
   "needs_audio": true,
-  "note": "uncertain：缺廣播內容。官方 lovethework 兩頁只有標題與類別，沒有逐字稿、描述或可打開的音檔；找不到好圖（候選圖是預設 SVG 音檔圖示）。搜尋摘要提到 AdsSpot 有 Emma Alex 音檔頁（adsspot.me/media/radio/reborn-to-be-alive-emma-alex-7021374a26b6），但頁面回 403 打不開，摘要內容未寫入；請本機用該頁或音檔補寫。已搜爭議：搜 Reborn to be Alive Duval Guillaume radio controversy／fake／withdrawn，查無相關指控。"
+  "note": "uncertain：缺廣播內容。官方 lovethework 兩頁只有標題與類別，沒有逐字稿、描述或可打開的音檔；找不到好圖（候選圖是預設 SVG 音檔圖示）。搜尋摘要提到 AdsSpot 有 Emma Alex 音檔頁（adsspot.me/media/radio/reborn-to-be-alive-emma-alex-7021374a26b6），但頁面回 403 打不開，摘要內容未寫入；請本機用該頁或音檔補寫。已搜爭議：搜 Reborn to be Alive Duval Guillaume radio controversy／fake／withdrawn，查無相關指控。 2026-11-12 Opus 驗：再找一次音檔：lovethework 頁原始碼只有音檔圖示、沒有音檔網址；La Réclame 頁 403；仍 uncertain，缺音檔或逐字稿。"
  },
  {
   "id": "ltwm-99529",
@@ -271,7 +271,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方頁面只有標題，內容依官方案例板、Digiday 與 Kraft 新聞稿整理；案例板底部的銷售、聲量、申請與下載數字均屬成效，未寫入。另有說法是得主約 4,700 人（來自未打開的搜尋摘要，未寫入），讀稿只採案例板的 5,000 個。已搜爭議：搜 Oscar Mayer Wake Up and Smell the Bacon controversy／fake／withdrawn／misleading，查無造假或撤獎；Bloomberg 標題是評論性質，不算爭議。Digiday 提到的 Titanium Lion 推測未寫。"
+  "note": "官方頁面只有標題，內容依官方案例板、Digiday 與 Kraft 新聞稿整理；案例板底部的銷售、聲量、申請與下載數字均屬成效，未寫入。另有說法是得主約 4,700 人（來自未打開的搜尋摘要，未寫入），讀稿只採案例板的 5,000 個。已搜爭議：搜 Oscar Mayer Wake Up and Smell the Bacon controversy／fake／withdrawn／misleading，查無造假或撤獎；Bloomberg 標題是評論性質，不算爭議。Digiday 提到的 Titanium Lion 推測未寫。 2026-11-12 Opus 驗：事實抽查通過：案例板原文確認九個月、5,000 個裝置；Digiday 確認 Scentee、360i、Olson 分工與每天可報名一次；Kraft 新聞稿確認 baconisms、沒抽中可下載只有聲音的 App。"
  },
  {
   "id": "ltwm-99527",
@@ -297,9 +297,9 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "智利居家連鎖 Sodimac 旗下 Ozom 的海報：貓乖乖坐著、減肥的人不碰蛋糕，因為鏡頭正看著",
+  "idea_one_liner": "智利居家通路 Sodimac 的 Ozom 監視器海報：鏡頭錄影時，貓守著魚缸不動、胖男只吃沙拉不碰蛋糕，情侶在床上讀書",
   "brand_display": "Sodimac",
-  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：PROLAM Y&R Santiago\n\n【背景】Sodimac 是智利的居家修繕連鎖通路（Homecenter 的母公司），Ozom 是它的居家自動化產品線（資料來源是哥倫比亞 Sodimac 的報導）。官方報名的三件作品是 COUPLE、FAT、FISH，產品欄寫 Sodimac／Ozom；官方頁面沒有文字說明。\n\n【點子】依作品畫面解讀：三張海報都是一個房間場景，右上角貼著一塊像監視器畫面的小方框，上面有一台網路攝影機的圖案、錄影中的「REC」，和標語「Nothing happens, when you're watching」（有人看著，就什麼事都不會發生），下方是 Ozom 標誌。\n\n【執行】三張都是暗調的復古居家布景，只描述看得到的畫面：FISH 是客廳，兩張扶手椅，一隻黑白貓端坐在其中一張上，圓形魚缸裡有一條金魚，一隻鬥牛犬趴在地板，一切平靜；FAT 是廚房，一名圓滾滾的男子站在深夜的廚房裡，一手端著沙拉、叉子上插著一顆小番茄，餐桌上放著一個巧克力蛋糕，他低頭看著沙拉；COUPLE 是閣樓臥室，穿棒球外套的男生和穿洋裝的女生並排坐在粉紅色床上，各自低頭翻著舊書，床頭櫃上放著爆米花與指甲油。「有鏡頭在看，大家都乖」這層意思是依畫面與標語解讀。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/fish-114971\nhttps://ascentialcdn.filespin.io/api/v1/conversion/b4d1672bb3904f15be8303d0bfa6e8d9\nhttps://ascentialcdn.filespin.io/api/v1/conversion/133b94d9a9c542f1c3bf1f745f73a8ce\nhttps://ascentialcdn.filespin.io/api/v1/conversion/7a023cf0bbee4986ba7b64f55a8256ab\nhttps://avilatinoamerica.com/en/news/latest-news/9831-homecenter-bets-on-home-automation-with-ozom.html",
+  "full_text": "【得獎】2015 坎城獅子獎（Cannes Lions 2015）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：PROLAM Y&R Santiago\n\n【背景】Sodimac 是智利的居家修繕連鎖通路，Ozom 是它的居家自動化產品線（資料來源是哥倫比亞 Sodimac 的報導）。官方報名的三件作品是 COUPLE、FAT、FISH，產品欄寫 Sodimac／Ozom；官方頁面沒有文字說明。\n\n【點子】依作品畫面解讀：三張海報都是一個房間場景，右上角貼著一塊像監視器畫面的小方框，上面有一台網路攝影機的圖案、錄影中的「REC」，和標語「Nothing happens, when you're watching」（有人看著，就什麼事都不會發生），下方是 Ozom 標誌。\n\n【執行】三張都是暗調的復古居家布景，只描述看得到的畫面：FISH 是客廳，兩張扶手椅，一隻黑白貓端坐在其中一張上，圓形魚缸裡有一條金魚，一隻鬥牛犬趴在地板，一切平靜；FAT 是廚房，一名圓滾滾的男子站在深夜的廚房裡，一手端著沙拉、叉子上插著一顆小番茄，餐桌上放著一個巧克力蛋糕，他低頭看著沙拉；COUPLE 是閣樓臥室，穿棒球外套的男生和穿洋裝的女生並排坐在粉紅色床上，各自低頭翻著舊書，床頭櫃上放著爆米花與指甲油。「有鏡頭在看，大家都乖」這層意思是依畫面與標語解讀。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/fish-114971\nhttps://ascentialcdn.filespin.io/api/v1/conversion/b4d1672bb3904f15be8303d0bfa6e8d9\nhttps://ascentialcdn.filespin.io/api/v1/conversion/133b94d9a9c542f1c3bf1f745f73a8ce\nhttps://ascentialcdn.filespin.io/api/v1/conversion/7a023cf0bbee4986ba7b64f55a8256ab\nhttps://avilatinoamerica.com/en/news/latest-news/9831-homecenter-bets-on-home-automation-with-ozom.html",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2015, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 戶外類, Outdoor, 室內海報, Indoor Posters, 家電、家具、電子與視聽, Home Appliances Furnishings Electronics & Audio-Visual, 銅獅, Bronze Lion, Sodimac, Ozom, PROLAM Y&R, Prolam Y&R Santiago, Y&R, 智利, Chile, 居家修繕, 居家自動化, 智慧家庭, 監視器, 網路攝影機, 居家安全, ⭐海報, 平面廣告, 攝影, 場景布置, 復古, 貓, 狗, 金魚, 沙拉, 蛋糕, 減肥, 情侶, 爆米花, 幽默",
   "category": "行銷案例",
   "references": [
@@ -311,7 +311,8 @@
   "text_source_level": 3,
   "uncertain": false,
   "needs_audio": false,
-  "note": "依作品畫面解讀，無文字說明：官方頁面只有標題，找不到報導或作品介紹；Ozom 屬 Sodimac 的說法來自哥倫比亞 Homecenter 報導，該報導沒有提到攝影機產品，所以讀稿沒有寫 Ozom 賣攝影機。三件的『有人看就乖乖』只是依標語與畫面推測，若要更確定請本機補查官方說明。已搜爭議：搜 Sodimac Ozom Prolam Y&R controversy／plagiarism／withdrawn，查無相關指控；搜尋摘要提到的 Sodimac 智利網站頁面未寫入。"
+  "note": "依作品畫面解讀，無文字說明：官方頁面只有標題，找不到報導或作品介紹；Ozom 屬 Sodimac 的說法來自哥倫比亞 Homecenter 報導，該報導沒有提到攝影機產品，所以讀稿沒有寫 Ozom 賣攝影機。三件的『有人看就乖乖』只是依標語與畫面推測，若要更確定請本機補查官方說明。已搜爭議：搜 Sodimac Ozom Prolam Y&R controversy／plagiarism／withdrawn，查無相關指控；搜尋摘要提到的 Sodimac 智利網站頁面未寫入。 2026-11-12 Opus 驗：打開三張官方海報確認畫面（貓與魚缸、胖男與蛋糕、閣樓情侶讀書，右上角都是一台網路攝影機圖示加 REC 錄影框）；一句話改成講出三張的對照巧思，並補上 Ozom 是畫面上那台監視攝影機的品牌（依畫面解讀）；讀稿刪掉沒有來源的「Homecenter 的母公司」。",
+  "idea_one_liner_r0": "智利居家連鎖 Sodimac 旗下 Ozom 的海報：貓乖乖坐著、減肥的人不碰蛋糕，因為鏡頭正看著"
  },
  {
   "id": "ltwm-99532",
@@ -349,7 +350,7 @@
   "text_source_level": 4,
   "uncertain": true,
   "needs_audio": true,
-  "note": "uncertain：缺廣播內容。官方頁面只有標題；巴西媒體只列出得獎、沒有描述；找不到音檔或逐字稿，也找不到好圖（候選圖是預設 SVG 音檔圖示）。請本機找音檔補寫。已搜爭議：搜 AM PM Soup Talent radio controversy，查無相關指控（也查不到作品資料）。"
+  "note": "uncertain：缺廣播內容。官方頁面只有標題；巴西媒體只列出得獎、沒有描述；找不到音檔或逐字稿，也找不到好圖（候選圖是預設 SVG 音檔圖示）。請本機找音檔補寫。已搜爭議：搜 AM PM Soup Talent radio controversy，查無相關指控（也查不到作品資料）。 2026-11-12 Opus 驗：再找一次音檔：lovethework 頁原始碼沒有音檔網址；仍 uncertain，缺音檔或逐字稿。"
  },
  {
   "id": "ltwm-99537",
@@ -389,6 +390,6 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方頁面只有標題，內容依官方案例板、Mumbrella 與 B&T 整理；案例板上的投票地點數、使用率與互動率均屬成效，未寫入。Mumbrella 報導說 2015 年 GAYTM 在紐西蘭 Ponsonby 分行遭同志團體潑漆，指控 ANZ「粉紅漂白（pinkwashing）」，屬一般評論／抗議，只寫 note、不加【爭議】；該報導被付費牆擋住，ANZ 回應內容未讀到。已搜爭議：搜 ANZ GAYTM controversy／criticism／withdrawn，查無造假、抄襲或撤獎。"
+  "note": "官方頁面只有標題，內容依官方案例板、Mumbrella 與 B&T 整理；案例板上的投票地點數、使用率與互動率均屬成效，未寫入。Mumbrella 報導說 2015 年 GAYTM 在紐西蘭 Ponsonby 分行遭同志團體潑漆，指控 ANZ「粉紅漂白（pinkwashing）」，屬一般評論／抗議，只寫 note、不加【爭議】；該報導被付費牆擋住，ANZ 回應內容未讀到。已搜爭議：搜 ANZ GAYTM controversy／criticism／withdrawn，查無造假、抄襲或撤獎。 2026-11-12 Opus 驗：事實抽查通過：案例板確認網站或 Facebook 投票、手續費捐 LGBTI 團體、Daylesford 人口約 3.5K；Mumbrella 確認 ChillOut 說法。"
  }
 ]
