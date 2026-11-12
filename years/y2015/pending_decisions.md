@@ -139,3 +139,13 @@
 - 資料：b055 07782 官方作品名 PIMP，in 檔標題 HATED BY SOME（稿照官方）；b057 07817 官方 ATM，in 檔 THE ATM SWITCH；b054 07771 BEXSERO 贊助方 Novartis／GSK 說法不一，讀稿未寫。
 - 圖：b054 07772、07774，b055 07781、07780、07790 沒圖。
 - 【爭議】0；撤獎 0；OK Go 07791 驗收員確認不是跨批重複。
+
+## 2026-11-12 雲端第 2 輪 b056 b058 b066 b067（Sonnet 寫、Opus 驗）
+- 重複候選：b066 99502 A MOTHER'S BODY（Dove，廣播金獅）寫手已設「重複」same_as 07373（b014，影片銅獅）；驗收員認同是同一首 Hollie McNish 詩，但建議反過來以 99502 為主、07373 設重複（本件獎項較高）。「影片版改編同一首詩」只見於搜尋摘要，請決定。
+- 重複候選：b067 99510 MARCIA GETS HUNGRY（Snickers 戶外壁畫）是 07602（b035）超級盃廣告的暖場，同一活動；壁畫逐日改畫算獨立點子，目前照收，請決定要不要併（併則兩座銅獅掛到 07602）。
+- 重複候選：b067 99512 Lucozade 廣播與 07376（b019）同一組，驗收員建議併到 07376、補掛兩座銅獅；目前照收。
+- 確認：b056 07799 CONDOMANIA 驗收員核實得銅獅（不是只入圍），獎項已移入 awards；in 檔作品名 FLESH LOVE 與官方不同。
+- 仍 uncertain：b056 07797 THE NOTEBOOK（缺結局，可看 https://www.youtube.com/watch?v=Itkrh9_K_Yo）、07803 REWRITE HISTORY（廣播，缺音檔與圖）；b058 07830 CASH-OUT、07904 PHILIPS CITISCAPE、07824 EMERGENCY CALLS（廣播缺稿）；b066 99507 Pedigree、99530 LIFE & DEATH IN BROAD DAYLIGHT（廣播缺稿）、99518 GREGORY（缺劇情）；b067 99512（缺音檔）、99513 Old Spice HOT TUB, SOCCER, NIGHT CLUB（疑 Mandroid 系列，無來源）。
+- 資料：b058 07822 官方品牌 SINGULARES，in 檔 PERNOD RICARD；b056 07795 官方 Cinemark、One Show 記 I Vote SA；b056 07798 in 檔官方 case board 是別件（Salentein），已改用官方 LUCHADOR 板。
+- 圖：b066 99502、99507、99531、99518、99530，b067 99512、99513，b058 三件廣播沒圖。
+- 【爭議】0；撤獎 0。
