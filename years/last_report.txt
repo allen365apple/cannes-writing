@@ -1,12 +1,11 @@
-*坎城雲端寫稿｜2015 收尾＋2014 第 1 輪（11/13 02:10）*
-• 這輪寫完並驗收：2015 b068～b070（3 批 29 件）＋ 2014 b001～b004（4 批 40 件），共 7 批 69 件
-• 這輪寫到的作品（舉 3～5 件）：Volvo〈The Epic Split〉、Chipotle〈The Scarecrow〉、Pharrell〈24 Hours of Happy〉、Terre des Hommes〈Sweetie〉、Kraft〈Wake Up & Smell the Bacon〉
-• 2015 進度：已完成 70／70 批，全部寫完，等你本機收尾
-• 2014 進度：已完成 4／56 批，剩 52 批
-• 待決新增：14 件（2015：重複候選 4、同計畫疑重複 2、不收待確認 1、uncertain 3；2014：重複候選 1、爭議新增 1、uncertain 1、來源偏薄 1）
+*坎城雲端寫稿｜2014 第 2 輪（11/13 14:10）*
+• 這輪寫完並驗收：2014 b005～b011，共 7 批 70 件（收 68、標重複 2）
+• 這輪寫到的作品（舉 3～5 件）：Samsung〈Oscars Selfie〉、WATERisLIFE〈Drinkable Book〉、Sony Legacy〈Bob Dylan Like a Rolling Stone〉、World Down Syndrome Day〈Dear Future Mom〉、Bud Light〈#UpForWhatever〉
+• 2014 進度：已完成 11／56 批，剩 45 批
+• 待決新增：15 件（重複候選 4 組＋已標重複 1 組待定得獎行；爭議新增 2；uncertain 8，其中廣播缺音檔 4）
 • 問題：
-  • 重複要你決定：2015 Bayer 海報寫手標重複、驗收員建議改回收；Nike Rise 與 House of Mamba 同計畫但點子不同；2014 Chipotle〈Farmed and Dangerous〉兩次報名
-  • 2014 紐西蘭交通局〈BLAZED〉被研究者批評醜化毛利人，已加爭議段，請確認
-  • 2015 b068 寫手有一次多行指令被系統誤判成刪檔擋下（自報沒用 rm），已改簡單指令重跑
-  • 不少報導網站擋讀取（LBB、Campaign、La Réclame、AdsSpot 等），廣播類 3 件缺音檔，需本機補
-• 預計：照一天 14 批，2014 剩下約 4 天寫完（11/16 左右），之後隊伍沒有更早年份，等本機做前置
+  • b006 寫手把 Colgate Plax 廣播因找不到內容改成「不收」，違反只有撤獎才不收的規則；驗收員已改回收並標待補，三支音檔網址寫在 note
+  • 重複要你決定：Bud Light 三筆、Marmite 兩筆、Nike D Rose Jump Store 得獎行要不要補戶外銀銅
+  • 新加爭議 2 件請確認：Samsung〈Oscars Selfie〉（事前談好置入的報導）、McDonald's〈Big Mac Legends〉（只刊地方小報、被批為得獎而做）
+  • 不少報導網站擋讀取（LBB、Behance、Ads of the World、AdsSpot 等），廣播 4 件缺音檔需本機補
+• 預計：照一天 14 批，2014 剩下約 3～4 天寫完（11/16 左右），之後隊伍沒有更早年份，等本機做前置
