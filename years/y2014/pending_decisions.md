@@ -20,3 +20,13 @@
 - 疑點：b005 BUCKET LIST 是否即 2013 年「A 4 Year Old's Bucket List」查不到；b005 SONG SWIMMER 實質來源只有官方案例板；b008 Fiat 500 Cult《Yacht》片子沒看到，結尾已改成含糊寫法。
 - 工具誤判：b008 murilomelo 連結 HEAD 回 404、實際 200。
 - 撤獎 0。
+
+## 2026-11-13 雲端第 2 輪 b009 b010 b011（Sonnet 寫、Opus 驗）
+- 重複（寫手已標）：b009 ltwm-06868、ltwm-07172 標「重複」same_as ltwm-06708 D Rose Jump Store（同一場活動的店內海報），獎項已併入 06708 awards。驗收員認為合理；06708【得獎】行建議補上戶外銀、銅（2016 有先例），未改。請決定。
+- 重複候選（decision 未動）：b011 Bud Light #UpForWhatever 三筆 ltwm-06721／06963／07242，建議留 06721（金獅）、另兩筆標重複併獎；Marmite End Marmite Neglect ltwm-06726 CUPBOARD（海報）／06751 RESCUE（影片），建議留 06751、06726 併入。
+- 【爭議】新增：b009 ltwm-06810 Big Mac Legends（只在地方小報 Rouse Hill Times 報名截止日刊出，被批為得獎而做；Adweek、Mumbrella 對得上）。建議：保留。
+- 不加【爭議】（只寫 note）：b011 Marmite RESCUE（英國觀眾投訴，ASA 不調查）。
+- 仍 uncertain：b009 ltwm-06715 EITB Better with Music（已補分鏡圖，缺配樂與剪法說明）；b010 ltwm-06718 FOCUS AND EXPLODE（Dick's，驗收員確認不是 Every Pitch，已改成只寫畫面，缺官方說明）；b011 ltwm-06728 LEBEAU, PEDRO, TIMMY、ltwm-06729 LIFE & DEATH IN PARIS（廣播，缺逐字稿，音檔頁網址在 note）。建議：本機聽音檔補寫。
+- 圖：b011 RESCUE 官方縮圖全黑，改用影片格（白色廂型車）看不太出點子；b010 ELO、HANDS、IF ONLY FOR A SECOND 用替代圖。
+- 疑點：b010 OMO、Harley-Davidson 官方多件只描述了一張；Harley 官方 brand 寫 PHD BIKES；b011 KNIVES、CUPBOARD 系列只看到一張畫面。
+- 撤獎 0。
