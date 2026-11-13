@@ -8,3 +8,6 @@
 - 問題：b006 寫手把 ltwm-07185 Colgate Plax 廣播因找不到內容改成「不收」，不符規則（只有撤獎才不收），驗收員已改回收＋uncertain。程式檢查整批沒掃到違規；寫手、驗收員自報沒用 rm、沒自加標頭、沒用 git。
 - 2026-11-13 14:40 回報已寫進 years/last_report.txt。
 - 2026-11-14 02:10 開工：b012 b013 b014 b015 b016 b017 b018（雲端 2026-11-14 第 1 輪）
+- 2026-11-14 雲端第 1 輪收尾：寫完並驗完 b012–b018（7 批 70 件：收 70、重複 0、不收 0）。2014 累計驗完 18／56 批，剩 b019–b056。待決新增 13 件（重複候選 2 組、【爭議】新增 3（SAT-JF14、Neymar #WEAREALLMONKEYS、DHL Trojan Mailing）、仍 uncertain 4、in 檔配錯圖 1、Transavia THE TAKEOFF 漏寫候選 1、沒有圖 2）；撤獎 0。連不上：Behance、lareclame、The Drum、LBB、Campaign、Campaign Brief、adsspot、AdForum、MediaPost、Creative Review、Trend Hunter、clios、Vimeo（驗證頁）等 403／404；lovethework 卡片頁沒有內文。沒撞額度。
+- 問題：程式檢查整批沒掃到違規；寫手、驗收員自報沒用 rm、沒自加標頭、沒用 git。b013 ltwm-06747 in 檔候選 case board 配成 Abbott〈Talking AS〉，稿已換圖，in 檔待本機修。
+- 2026-11-14 02:35 回報已寫進 years/last_report.txt。
