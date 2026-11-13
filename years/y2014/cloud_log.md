@@ -7,3 +7,4 @@
 - 2026-11-13 雲端第 2 輪收尾：寫完並驗完 b005–b011（7 批 70 件：收 68、重複 2、不收 0）。2014 累計驗完 11／56 批，剩 b012–b056。待決新增 15 件（重複候選 4 組、寫手已標重複 1 組待定【得獎】行、【爭議】新增 2（OSCARS SELFIE、Big Mac Legends）、仍 uncertain 8（其中廣播缺音檔 4））；撤獎 0。連不上：LBB、The Drum、Behance、Ads of the World、adsspot、adforum、Ad Age、lareclame、commarts、trendhunter、Vimeo、YouTube（429）等 403／404；lovethework 卡片頁沒有內文。沒撞額度。
 - 問題：b006 寫手把 ltwm-07185 Colgate Plax 廣播因找不到內容改成「不收」，不符規則（只有撤獎才不收），驗收員已改回收＋uncertain。程式檢查整批沒掃到違規；寫手、驗收員自報沒用 rm、沒自加標頭、沒用 git。
 - 2026-11-13 14:40 回報已寫進 years/last_report.txt。
+- 2026-11-14 02:10 開工：b012 b013 b014 b015 b016 b017 b018（雲端 2026-11-14 第 1 輪）
