@@ -11,3 +11,4 @@
 - 2026-11-14 雲端第 1 輪收尾：寫完並驗完 b012–b018（7 批 70 件：收 70、重複 0、不收 0）。2014 累計驗完 18／56 批，剩 b019–b056。待決新增 13 件（重複候選 2 組、【爭議】新增 3（SAT-JF14、Neymar #WEAREALLMONKEYS、DHL Trojan Mailing）、仍 uncertain 4、in 檔配錯圖 1、Transavia THE TAKEOFF 漏寫候選 1、沒有圖 2）；撤獎 0。連不上：Behance、lareclame、The Drum、LBB、Campaign、Campaign Brief、adsspot、AdForum、MediaPost、Creative Review、Trend Hunter、clios、Vimeo（驗證頁）等 403／404；lovethework 卡片頁沒有內文。沒撞額度。
 - 問題：程式檢查整批沒掃到違規；寫手、驗收員自報沒用 rm、沒自加標頭、沒用 git。b013 ltwm-06747 in 檔候選 case board 配成 Abbott〈Talking AS〉，稿已換圖，in 檔待本機修。
 - 2026-11-14 02:35 回報已寫進 years/last_report.txt。
+- 2026-11-14 02:45 開工：b019 b020 b021 b022 b023 b024 b025（雲端 2026-11-14 第 2 輪）
