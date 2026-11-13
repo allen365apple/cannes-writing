@@ -9,3 +9,14 @@
 - 圖：b003 UNLOAD YOUR 401K 圖只有 700×355；b004 06683 AMIA 用官方影片畫面；b002 Harvey Nichols、b001 Pharrell 官方 case board 是標題字卡或與現圖同格。
 - 未讀到：b003 MINI KIOSK 只看了 MAN 一張，COUPLE、WOMAN 的 LTW 頁要登入。
 - 撤獎 0。
+
+## 2026-11-13 雲端第 2 輪 b005 b006 b007 b008（Sonnet 寫、Opus 驗）
+- 重複候選：b006 THE EMPTY PROJECT（Cyber 銅）與 2013 年得獎的「A Loja Vazia」空店。驗收員判斷 Empty Project 是 2014 年的延伸，建議兩筆都留。
+- 【爭議】新增：b007 ltwm-06740 OSCARS SELFIE（賣點是「自發的一刻」，但報導指三星事前談好置入；三星否認）。建議：保留。
+- 寫手違規處理：b006 ltwm-07185 Colgate Plax 廣播（SURPRISE PARTY, TEACHER GREETING, WEDDING）寫手因找不到內容改成不收，不符規則（只有撤獎才不收）；驗收員已改回收＋uncertain，三支 mp3 網址寫在 note。建議：本機聽音檔補寫。
+- 仍 uncertain：b006 ltwm-07035 DO NOT FRIGHTEN PRESIDENT PUTIN（缺官方案例文字）；b007 ltwm-07156 Duracell 祕魯 ROBOT, HELICOPTER, CAR（含義只能看圖判斷）；b008 ltwm-06824 Come to the Streets（Radio 銀，缺音檔，〈Vem pra rua〉是否為報名那條待確認）。建議：本機補查／聽音檔。
+- 不加【爭議】（只寫 note）：b005 Kano（行銷用語批評、2023 智財糾紛）、b008 Italian Masterpiece（梵蒂岡禁止函，屬版權類）。
+- 圖：b005 BUCKET LIST case board 只有 480×360；b008 Come to the Streets 案例影片畫面看不出點子。
+- 疑點：b005 BUCKET LIST 是否即 2013 年「A 4 Year Old's Bucket List」查不到；b005 SONG SWIMMER 實質來源只有官方案例板；b008 Fiat 500 Cult《Yacht》片子沒看到，結尾已改成含糊寫法。
+- 工具誤判：b008 murilomelo 連結 HEAD 回 404、實際 200。
+- 撤獎 0。
