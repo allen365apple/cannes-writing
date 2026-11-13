@@ -30,3 +30,13 @@
 - 圖：b011 RESCUE 官方縮圖全黑，改用影片格（白色廂型車）看不太出點子；b010 ELO、HANDS、IF ONLY FOR A SECOND 用替代圖。
 - 疑點：b010 OMO、Harley-Davidson 官方多件只描述了一張；Harley 官方 brand 寫 PHD BIKES；b011 KNIVES、CUPBOARD 系列只看到一張畫面。
 - 撤獎 0。
+
+## 2026-11-14 雲端第 1 輪 b012 b013 b014 b015（Sonnet 寫、Opus 驗）
+- 重複候選：b012 Old Spice 髮品上市 ltwm-06886 BOARDWALK（兩支電視片）與 ltwm-07135 INTEGRATED HAIR CAMPAIGN（整合案，含這兩支片）。驗收員建議留 06886，07135 標重複併獎。decision 未動。
+- 重複候選：b013 Penguin Companhia das Letras ltwm-06879（戶外銀）與 ltwm-07122（Press 銅），同一組純文字海報、同一張案例板。建議留 06879，07122 標重複併獎。decision 未動。
+- 【爭議】新增：b014 ltwm-06755 SAT-JF14（SatNews 證實火箭只升到約 3,000 公尺未入軌；「衛星位置是模擬」只有維基一來源，讀稿已分開寫）；b014 ltwm-06759 Neymar（Time、TNT Sports 報導是 Loducca 事先規劃的行銷）。建議：保留。
+- 上游資料錯：b013 ltwm-06747 PROJECT DRIVE IN 的 in 檔候選 case board 其實是 Abbott〈Talking AS〉；稿已改用另一官方條目的 Indiegogo 截圖。建議：本機修 in 檔來源對應。
+- 仍 uncertain：b012 ltwm-07135 整合案（數位部分缺可開的文字來源）；b014 ltwm-06761 Woz（各圖示意思缺文字說明，另兩張圖沒看到）。建議：本機補查。
+- 缺細節（已拿掉 uncertain）：b015 ltwm-06772 TOO DEPRESSING 結尾字卡原文仍缺。
+- 圖／只看到一張：b012 06735 MOMSONG、06886、07135 用影片分鏡格；b014 06762 Luca、06757 Karate 用分鏡格（驗收員確認可用）；b015 06772、06770 只有分鏡格；b015 06828 LEGO 四張只看到達文西一張；b013 06749 三張只看到一張。
+- 撤獎 0。
