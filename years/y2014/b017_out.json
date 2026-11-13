@@ -36,7 +36,7 @@
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": true,
-  "note": "uncertain：缺音檔內容。官方卡片只有標題、類別、代理商，沒有說明文字；只找到 Merca2.0 報導描述情境（兩個網址是同一篇），沒有台詞。adsspot 的音檔頁連線被擋（403），沒有取得；YouTube 沒找到對應音檔。需本機補音檔：請找 TBWA\\FREDERICK Santiago 的 HAPPY 廣播（adsspot 頁面 https://adsspot.me/media/radio/todo-mejora-foundation-happy-91eb2df5e97b ）轉逐字稿後補寫。官方作品名 HAPPY 與報導的情境（兒子出櫃）無法直接對上，Ads of the World 另有同基金會的平面 Happy, Dinner（非這件），請驗收員確認。圖：官方候選只有音檔預留圖示，沒有可用圖，image_url 留空。已搜爭議：Todo Mejora TBWA Frederick Cannes radio controversy／fake／fraud／withdrawn，未發現。"
+  "note": "uncertain：缺音檔內容。官方卡片只有標題、類別、代理商，沒有說明文字；只找到 Merca2.0 報導描述情境（兩個網址是同一篇），沒有台詞。adsspot 的音檔頁連線被擋（403），沒有取得；YouTube 沒找到對應音檔。需本機補音檔：請找 TBWA\\FREDERICK Santiago 的 HAPPY 廣播（adsspot 頁面 https://adsspot.me/media/radio/todo-mejora-foundation-happy-91eb2df5e97b ）轉逐字稿後補寫。官方作品名 HAPPY 與報導的情境（兒子出櫃）無法直接對上，Ads of the World 另有同基金會的平面 Happy, Dinner（非這件），請驗收員確認。圖：官方候選只有音檔預留圖示，沒有可用圖，image_url 留空。已搜爭議：Todo Mejora TBWA Frederick Cannes radio controversy／fake／fraud／withdrawn，未發現。 2026-11-14 Opus 驗：確認：Merca2.0 文中「Escucha la frase aquí」連到坎城官方得獎頁 winners.canneslions.com 2014 radio entryid=6360，且官方名單上 Todo Mejora 只有 HAPPY 一件 Radio 金獅，所以報導描述的出櫃情境就是這件，對應沒問題（作品名為何叫 HAPPY 仍無來源說明）。另搜 YouTube／SoundCloud／Vimeo 仍找不到音檔，官方舊得獎頁未被存檔。維持 uncertain＋needs_audio，缺台詞與音檔。"
  },
  {
   "id": "ltwm-06778",
@@ -121,7 +121,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依案例板畫面、葡語報導（Grandes Nomes da Propaganda）與 Ads of the World／One Show 頁面整理。報導只說遺書「用同一批字重新排列、得出不同結論」，剪成紙條是看案例板畫面的描述；Daddy、E.S. 兩則沒有看到畫面。One Show 頁寫英文作品名 Real Suicide Notes。題材敏感，未引用遺書內容。已搜爭議：CVV real suicide notes Leo Burnett controversy／criticism／fake／ethics，未發現。"
+  "note": "官方全文需登入，內容依案例板畫面、葡語報導（Grandes Nomes da Propaganda）與 Ads of the World／One Show 頁面整理。報導只說遺書「用同一批字重新排列、得出不同結論」，剪成紙條是看案例板畫面的描述；Daddy、E.S. 兩則沒有看到畫面。One Show 頁寫英文作品名 Real Suicide Notes。題材敏感，未引用遺書內容。已搜爭議：CVV real suicide notes Leo Burnett controversy／criticism／fake／ethics，未發現。 2026-11-14 Opus 驗：打開案例板核對 William 那則：左頁手寫遺書、右頁剪字重排、標語與 141 專線皆與讀稿相符。"
  },
  {
   "id": "ltwm-06782",
@@ -277,7 +277,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方沒有說明文字，內容依官方案例板畫面與 Horse Nation 報導整理（報導只有概念說明，沒描述畫面，畫面為看圖描述，依作品畫面解讀）。官方報名的 911 REAR HORSEPOWER 系列：銀獅是名為 911 REAR HORSEPOWER 的作品，銅獅含 1～4 共四張，本件為第 3 張；其餘張未看到畫面。Campaign Brief Asia、Ads of the World 的作品頁連不上（404）。已搜爭議：Porsche 911 Rear horsepower ad controversy／criticism／fake／withdrawn，只有網友留言認為讓人聯想到後置引擎的操控問題，屬一般評論，未發現造假或撤下。"
+  "note": "官方沒有說明文字，內容依官方案例板畫面與 Horse Nation 報導整理（報導只有概念說明，沒描述畫面，畫面為看圖描述，依作品畫面解讀）。官方報名的 911 REAR HORSEPOWER 系列：銀獅是名為 911 REAR HORSEPOWER 的作品，銅獅含 1～4 共四張，本件為第 3 張；其餘張未看到畫面。Campaign Brief Asia、Ads of the World 的作品頁連不上（404）。已搜爭議：Porsche 911 Rear horsepower ad controversy／criticism／fake／withdrawn，只有網友留言認為讓人聯想到後置引擎的操控問題，屬一般評論，未發現造假或撤下。 2026-11-14 Opus 驗：案例板圖已打開，與描述相符。"
  },
  {
   "id": "ltwm-06784",
@@ -412,7 +412,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方沒有網頁說明，內容依官方案例板的文字與畫面整理；兩個 Ads of the World 頁面只有名單，沒有描述（本稿讀稿的點子與執行來自案例板，依作品畫面解讀；案例板文字沒寫是哪種肉）。官方獎項兩座都是戶外類銀獅（Home Appliances 類）。已搜爭議：Zhang Xiao Quan A Cut Above Y&R Shanghai controversy／plagiarism／fake，未發現。"
+  "note": "官方沒有網頁說明，內容依官方案例板的文字與畫面整理；兩個 Ads of the World 頁面只有名單，沒有描述（本稿讀稿的點子與執行來自案例板，依作品畫面解讀；案例板文字沒寫是哪種肉）。官方獎項兩座都是戶外類銀獅（Home Appliances 類）。已搜爭議：Zhang Xiao Quan A Cut Above Y&R Shanghai controversy／plagiarism／fake，未發現。 2026-11-14 Opus 驗：案例板圖已打開，文字與畫面與讀稿相符。"
  },
  {
   "id": "ltwm-07251",
@@ -450,6 +450,6 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依官方案例板、AFL 官網與 Hawthorn 球會報導整理。案例板的成效數字（罰單、道路死亡數、民調）不採用。TAC 官網新聞稿與 Campaign Brief 的連結連線失敗（403／404），未使用。Hawthorn 報導寫在 Etihad 球場、各球場當週同步，與 AFL 官網寫的「第 22 輪」一致。「Wipe off 5」是 TAC 多年的既有口號，本件是 2013 年與 AFL 合作的活動。官方卡片類別為 Sponsorship or Partnership 類銅獅。已搜爭議：TAC AFL Wipe off 5 Grey Melbourne controversy／criticism／fake／withdrawn，未發現。"
+  "note": "官方全文需登入，內容依官方案例板、AFL 官網與 Hawthorn 球會報導整理。案例板的成效數字（罰單、道路死亡數、民調）不採用。TAC 官網新聞稿與 Campaign Brief 的連結連線失敗（403／404），未使用。Hawthorn 報導寫在 Etihad 球場、各球場當週同步，與 AFL 官網寫的「第 22 輪」一致。「Wipe off 5」是 TAC 多年的既有口號，本件是 2013 年與 AFL 合作的活動。官方卡片類別為 Sponsorship or Partnership 類銅獅。已搜爭議：TAC AFL Wipe off 5 Grey Melbourne controversy／criticism／fake／withdrawn，未發現。 2026-11-14 Opus 驗：打開 AFL 官網核對：第 22 輪、1986 年以來首次更動、週二在 MCG 抹掉、週五柯靈伍德對西岸鷹賽前由救援人員抹掉、Judd 與 Maxwell 都穿 5 號、2000 份免費刊物與燈光投影，皆相符。"
  }
 ]

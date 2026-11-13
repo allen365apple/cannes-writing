@@ -40,3 +40,12 @@
 - 缺細節（已拿掉 uncertain）：b015 ltwm-06772 TOO DEPRESSING 結尾字卡原文仍缺。
 - 圖／只看到一張：b012 06735 MOMSONG、06886、07135 用影片分鏡格；b014 06762 Luca、06757 Karate 用分鏡格（驗收員確認可用）；b015 06772、06770 只有分鏡格；b015 06828 LEGO 四張只看到達文西一張；b013 06749 三張只看到一張。
 - 撤獎 0。
+
+## 2026-11-14 雲端第 1 輪 b016 b017 b018（Sonnet 寫、Opus 驗）
+- 【爭議】新增：b016 ltwm-06774 DHL TROJAN MAILING（Horizont：DHL 說非客戶委託、是 Jung von Matt 自做，疑為得獎而做；DHL 後來同意放上代理商頻道）。建議：保留。
+- 漏寫候選：b016 ltwm-06773 Transavia 官方另有兩座 Promo 銀獅頒給 THE TAKEOFF（大型戶外裝置），搜不到說明，無法確認是否同一活動。【得獎】行照官方含這兩座，讀稿沒寫。請決定：另立一筆、併入讀稿，或維持。
+- 不算重複（驗收員判斷）：b018 ltwm-07075 HAVE A SEAT（JWT Amsterdam）與 ltwm-06793 ANDROID KIT KAT（JWT London），不同代理商、不同做法，各有官方獎項，分開寫。
+- 仍 uncertain：b016 ltwm-07162 Guinness RUSHING, ROILING, RUMBLING（缺能把三張與 Surge 連起來的文字來源，只依畫面）；b017 ltwm-06783 Todo Mejora HAPPY（廣播金獅，情境已對上，缺台詞與音檔，needs_audio，無圖）。建議：本機補查／聽音檔。
+- 沒有圖：b017 ltwm-06783 HAPPY、b018 ltwm-06788 Orpi ADULTEROUS, RETIREMENT（廣播，台詞已對 La DN 引文核實，不標 uncertain）。建議：本機補圖。
+- 只看到一張：b016 06776 Guinness Draught in Bottle（五張）；b017 911 REAR HORSEPOWER、WILLIAM, DADDY, E.S。
+- 撤獎 0。
