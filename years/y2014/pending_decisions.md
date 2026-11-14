@@ -67,3 +67,13 @@
 - 仍 uncertain：b022 ltwm-06818 SCREENSAVER（廣播缺腳本，needs_audio）、ltwm-07003 FISHERMAN（缺劇情與旁白）；b023 ltwm-06836 TAM（EIFFEL、CHRIST 兩張沒看到）；b024 ltwm-07205 THE LAST OF US（製作手法來源打不開）。建議：本機補查／聽音檔。
 - 圖不理想：b022 06825 CORNETTO、07003 用 YouTube 縮圖；b025 06858 HAIRTAG 用 YouTube 縮圖看不出機制、06865 IBM 為片頭字卡。b022 06818 沒有圖。
 - 【爭議】新增 0。撤獎 0。
+
+## 2026-11-15 雲端第 1 輪 b026 b027 b028 b029（Sonnet 寫、Opus 驗）
+- 【爭議】新增：b026 ltwm-06855 GOOGLE REUNION（Taha Kirmani 公開影片指廣告抄他 2012 短片《Respect》）；b029 ltwm-06912 Wren FIRST KISS（Complex、Time 指片中「陌生人」其實是演員與模特兒，影片被指造假）。建議：保留。
+- 一般評論未列爭議：b026 ltwm-06964 WHY BRING A CHILD（Adweek AgencySpy 評「漂綠」），驗收員同意只寫 note。
+- 不算重複（驗收員判斷）：b028 ltwm-06900 與 Ads of the World 上的「no social media」只是別站標題，全年只有這一筆。
+- 仍 uncertain：b027 ltwm-06873 NIGHT FLIGHT（缺這支單支的畫面說明，要看影片）。建議：本機看片補寫。
+- 待本機確認：b029 ltwm-06907 REQUIEM 劇情是逐格讀官方分鏡字幕寫的，沒有文字報導，建議看影片確認；b026 ltwm-06866 IFC SPOILS OF BABYLON 銀獅、銅獅作品名不同，合成一筆；b027 ltwm-06869 in 檔重複列四個 Cyber 銀獅（上游資料），【得獎】行照官方 award_line。
+- 規則待定：text_source_level 欄位規則卡沒有定義，寫手各自填值。建議：維護者訂出定義。
+- 圖不理想：b026 06964（官方分鏡孕婦，看不出片中片做法）；b027 06876 LEON 1914（Facebook 專頁字卡，不是書）、06873 NIGHT FLIGHT（老影像字幕）。建議：本機補圖。
+- 撤獎 0。重複候選 0。

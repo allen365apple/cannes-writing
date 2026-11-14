@@ -42,7 +42,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方頁只有基本資料，內容依 ABC News、Time、Complex 整理；官方分鏡圖全黑，改用 YouTube 縮圖（影片 ID IpbDHxCV29A，來自搜尋結果，未能打開 YouTube 頁面確認頻道）。已搜爭議：搜 Wren First Kiss controversy／fake，Complex、Time 報導指影片是廣告、參與者是演員與模特兒、部分觀眾覺得被騙，照收並加【爭議】（歸類上可能偏邊緣，請驗收員判斷）；銷售成長數字（Wikipedia 鏡像引述）與觀看數屬成效，未寫入。"
+  "note": "官方頁只有基本資料，內容依 ABC News、Time、Complex 整理；官方分鏡圖全黑，改用 YouTube 縮圖（影片 ID IpbDHxCV29A，來自搜尋結果，未能打開 YouTube 頁面確認頻道）。已搜爭議：搜 Wren First Kiss controversy／fake，Complex、Time 報導指影片是廣告、參與者是演員與模特兒、部分觀眾覺得被騙，照收並加【爭議】（歸類上可能偏邊緣，請驗收員判斷）；銷售成長數字（Wikipedia 鏡像引述）與觀看數屬成效，未寫入。 2026-11-14 Opus 驗：YouTube oEmbed 確認 IpbDHxCV29A 標題 FIRST KISS、上傳者為導演 Tatia Pilieva，縮圖已打開，是兩人接吻的畫面。【爭議】成立：Complex 直指影片是假的、參與者是演員模特兒，屬「被指控造假／誤導」，照收保留。"
  },
  {
   "id": "ltwm-06908",
@@ -65,9 +65,9 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "smart fortwo 平面廣告把對白裡的 home 倒著印成 emoh，用文字「掉頭」比喻小車迴轉靈活",
+  "idea_one_liner": "smart 海報把對白最後一字翻轉，例如 home 印成反字，像車子掉頭，標語 Quicker turnarounds（掉頭更快）",
   "brand_display": "smart fortwo",
-  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜戶外類銀獅 Outdoor Silver Lion｜代理商：BBDO BERLIN\n\n【點子】官方報名的作品名為 Restaurant、Entry、Purse，是 BBDO Berlin 為 Daimler 旗下 smart fortwo 做的一組平面廣告，三則共用標語「Quicker turnarounds. The smart fortwo.」。\n\n【執行】我打開並看過的是案例圖板上的 Purse 這一則：白底中央印著一句對白「Baby, I forgot my purse at home.」，但最後一個字 home 被印成左右顛倒的鏡像字；右下角是一台紅色 smart fortwo 的車尾，旁邊寫著「Quicker turnarounds. The smart fortwo.」。依畫面解讀，對白講的是「忘了東西、要回頭」，字也跟著掉頭，呼應 turnaround 同時是「掉頭」與「週轉」的雙關，暗示這款小車掉頭很快。Restaurant 與 Entry 兩則的畫面沒有取得，不在此描述。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/purse-167227\nhttps://www.adruby.com/smart/smart-quicker-turnarounds-smart-fortwo",
+  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜戶外類銀獅 Outdoor Silver Lion｜代理商：BBDO BERLIN\n\n【點子】官方報名的作品名為 Restaurant、Entry、Purse，是 BBDO Berlin 為 Daimler 旗下 smart fortwo 做的一組平面廣告，三則共用標語「Quicker turnarounds. The smart fortwo.」。\n\n【執行】三則都是白底海報，中央一句車上常聽到的對白，最後一個字被印成反過來的字：Purse 是「Baby, I forgot my purse at home.」（寶貝，我把錢包忘在家裡了），Restaurant 是「Honey, the restaurant was back there.」（親愛的，餐廳在後面），Entry 是「Dude, we just missed the entry.」（老兄，我們剛錯過入口）。右下角都是一台紅色 smart fortwo 的車尾，地上畫著一道迴轉的弧線，旁邊寫著「Quicker turnarounds. The smart fortwo.」。依畫面解讀，對白講的是「忘了東西、要回頭」，字也跟著掉頭，呼應 turnaround 同時是「掉頭」與「週轉」的雙關，暗示這款小車掉頭很快。三句對白講的都是「要回頭」的情境，翻轉的那個字就是要回去的地方。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/purse-167227\nhttps://www.adruby.com/smart/smart-quicker-turnarounds-smart-fortwo\n",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 戶外類, Outdoor, 銀獅, Silver Lion, 汽車與汽車服務, Cars & Automotive Services, smart, smart fortwo, Daimler, 賓士, 汽車, 小型車, 迷你車, BBDO BERLIN, BBDO, 平面廣告, Print, 海報, 戶外廣告, 文字遊戲, 雙關, Pun, 鏡像字, 倒轉文字, 掉頭, Turnaround, 迴轉, 德國, Germany, 柏林, Berlin, 幽默, 極簡",
   "category": "行銷案例",
   "references": [
@@ -77,9 +77,10 @@
   "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/24fbf21976eb4386a57b68f57d741ef5",
   "image_shows": "案例圖：白底海報，中央一句對白「Baby, I forgot my purse at home.」最後的 home 被印成鏡像字，右下角是紅色 smart 車尾與標語",
   "text_source_level": 3,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "只看到 Purse 一則的畫面，Restaurant、Entry 兩則找不到可打開的圖或說明；也沒有任何文字說明創意，雙關解讀依畫面與標語推測（依作品畫面解讀，無文字說明）。已搜爭議：搜 smart fortwo Quicker turnarounds controversy／withdrawn／fake，未見相關報導。官方卡片內文只有基本資料。"
+  "note": "只看到 Purse 一則的畫面，Restaurant、Entry 兩則找不到可打開的圖或說明；也沒有任何文字說明創意，雙關解讀依畫面與標語推測（依作品畫面解讀，無文字說明）。已搜爭議：搜 smart fortwo Quicker turnarounds controversy／withdrawn／fake，未見相關報導。官方卡片內文只有基本資料。 2026-11-14 Opus 驗：在 adruby 作品頁找到三則作品圖（Smart-print-ads-01781／02909／03046.jpg），依畫面補寫 Restaurant、Entry，刪第一人稱句，拿掉 uncertain；三則都看得出巧思，依作品畫面解讀，無文字說明。",
+  "idea_one_liner_r0": "smart fortwo 平面廣告把對白裡的 home 倒著印成 emoh，用文字「掉頭」比喻小車迴轉靈活"
  },
  {
   "id": "ltwm-06906",
@@ -108,9 +109,9 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "澳洲小額貸款公司 Nimble 拍了三支以 Pregnancy、Vet、Breakdown 為題的短片，把日常意外加上荒謬轉折",
+  "idea_one_liner": "澳洲小額貸款 Nimble 拍三支短片，男人懷孕、狗是假的、德國人在拋錨的引擎裡洗三溫暖，告訴你意外總會發生",
   "brand_display": "Nimble",
-  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜影片類銀獅 Film Silver Lion、影片工藝類銅獅 Film Craft Bronze Lion｜代理商：PROXIMITY BRISBANE / COLENSO BBDO Auckland / THE SWEET SHOP London / PROXIMITY BRISBANE / COLENSO BBDO Auckland\n\n【背景】Nimble 是澳洲的線上短期小額貸款公司，主打「smart little loans」。品牌策略負責人 Stirling Howard 表示，他們要求的是一支令人印象深刻、有鮮明角色與幽默感、又能把產品簡單講清楚的廣告。\n\n【點子】廣告以「Unexpected Happens（意外會發生）」為品牌主軸：影片呈現大家熟悉的情境，再加上出人意料的轉折，借此說明遇到突發狀況時可以用 Nimble 的小額貸款應付。\n\n【執行】Clemenger BBDO Brisbane 製作三支影片，官方報名的作品名為 Pregnancy（懷孕）、Vet（獸醫）、Breakdown（故障、拋錨）。報導形容整體風格超現實。我看到的 Breakdown 分鏡畫面是在一座空曠的機庫裡，一輛掀開引擎蓋、冒著白煙的舊轎車，兩名穿連身工作服的人彎腰檢查，旁邊站著一位打領帶的男子。三支片各自的劇情、轉折與台詞，我沒有找到可打開的文字說明，因此不描述。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/pregnancy-172597\nhttps://mumbrella.com.au/nimble-loans-solution-unexpected-new-campaign-clemenger-bbdo-brisbane-183103\nhttps://www.campaignasia.com/article/nimble-shows-a-new-way-of-borrowing-money-for-unexpected-events/4h9mzf7yluu7tj7tsta0hmmhdc",
+  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜影片類銀獅 Film Silver Lion、影片工藝類銅獅 Film Craft Bronze Lion｜代理商：PROXIMITY BRISBANE / COLENSO BBDO Auckland / THE SWEET SHOP London / PROXIMITY BRISBANE / COLENSO BBDO Auckland\n\n【背景】Nimble 是澳洲的線上短期小額貸款公司，主打「smart little loans」。品牌策略負責人 Stirling Howard 表示，他們要求的是一支令人印象深刻、有鮮明角色與幽默感、又能把產品簡單講清楚的廣告。\n\n【點子】廣告以「Unexpected Happens（意外會發生）」為品牌主軸：影片呈現大家熟悉的情境，再加上出人意料的轉折，借此說明遇到突發狀況時可以用 Nimble 的小額貸款應付。\n\n【執行】Clemenger BBDO Brisbane 製作三支影片，官方報名的作品名為 Pregnancy（懷孕）、Vet（獸醫）、Breakdown（故障、拋錨）。Mumbrella 形容整組影片風格超現實，片中出現「懷孕的男人、假狗，以及愛洗三溫暖的德國人」，報導標題也點出 Nimble 是「引擎裡跑出德國人」這種狀況的解方。官方分鏡畫面是在一座空曠的機庫裡，一輛掀開引擎蓋、冒著白煙的舊轎車，兩名穿連身工作服的人彎腰檢查，旁邊站著一位打領帶的男子。各支片的完整台詞找不到文字說明，不描述。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/pregnancy-172597\nhttps://mumbrella.com.au/nimble-loans-solution-unexpected-new-campaign-clemenger-bbdo-brisbane-183103\nhttps://www.campaignasia.com/article/nimble-shows-a-new-way-of-borrowing-money-for-unexpected-events/4h9mzf7yluu7tj7tsta0hmmhdc",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片類, Film, 銀獅, Silver Lion, 銀行、投資與保險, Banking, Investment & Insurance, 影片工藝類, Film Craft, 選角, Casting, 銅獅, Bronze Lion, Nimble, 小額貸款, 短期貸款, Smart Little Loans, 金融, 貸款, PROXIMITY BRISBANE, Clemenger BBDO, COLENSO BBDO, THE SWEET SHOP, 電視廣告, 品牌影片, 幽默, 荒謬, 超現實, 意外, Unexpected Happens, 懷孕, 獸醫, 汽車故障, 澳洲, Australia",
   "category": "行銷案例",
   "references": [
@@ -121,9 +122,10 @@
   "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/fdfe3581af45488a8fd363d5a702e03c/storyboard_000002.jpg",
   "image_shows": "分鏡畫面：空曠機庫裡一輛掀著引擎蓋、冒白煙的轎車，兩名穿連身工作服的人彎腰檢查，右側站著打領帶的男子",
   "text_source_level": 3,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "三支影片的劇情找不到可打開的文字說明（shots.net 頁面回 503、官方頁只有基本資料、Campaign Asia 全文需登入），所以一句話與讀稿只寫到品牌主軸與確定的事實；搜尋摘要提到的劇情未寫入。官方代理商欄寫 Proximity Brisbane／Colenso BBDO，報導稱製作是 Clemenger BBDO Brisbane，名稱對不上，讀稿照報導寫並保留官方得獎行。已搜爭議：搜 Nimble Unexpected Happens controversy，只見 2015 年起針對 Nimble 後續別支電視廣告的申訴（同品牌別支廣告，不算），本作品未見爭議。"
+  "note": "三支影片的劇情找不到可打開的文字說明（shots.net 頁面回 503、官方頁只有基本資料、Campaign Asia 全文需登入），所以一句話與讀稿只寫到品牌主軸與確定的事實；搜尋摘要提到的劇情未寫入。官方代理商欄寫 Proximity Brisbane／Colenso BBDO，報導稱製作是 Clemenger BBDO Brisbane，名稱對不上，讀稿照報導寫並保留官方得獎行。已搜爭議：搜 Nimble Unexpected Happens controversy，只見 2015 年起針對 Nimble 後續別支電視廣告的申訴（同品牌別支廣告，不算），本作品未見爭議。 2026-11-14 Opus 驗：Mumbrella 開頭段（付費牆前可讀）有三支片的轉折：懷孕的男人、假狗、在引擎裡洗三溫暖的德國人，依此補寫一句話與執行、拿掉 uncertain；各支細節仍不完整。刪讀稿第一人稱句。",
+  "idea_one_liner_r0": "澳洲小額貸款公司 Nimble 拍了三支以 Pregnancy、Vet、Breakdown 為題的短片，把日常意外加上荒謬轉折"
  },
  {
   "id": "ltwm-06911",
@@ -148,7 +150,7 @@
   "awards_unverified": [],
   "idea_one_liner": "洛杉磯阿根廷新電影節的影片，演一個因爸爸迷上電影而被取名 Robocop 的男孩，從小被取笑",
   "brand_display": "阿根廷新電影節",
-  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜影片類銀獅 Film Silver Lion｜代理商：CONILL SAATCHI & SAATCHI Torrance / CONILL ADVERTISING El Segundo\n\n【點子】阿根廷駐洛杉磯總領事館每年舉辦阿根廷新電影節（Argentina New Cinema Film Festival）。Conill 為它拍了一支 90 秒短片，故事源自拉丁美洲有些父母會用電影角色或自己聽過的字替孩子取名的現象。\n\n【執行】片中的爸爸迷上電影《Robocop》，把兒子取名 Robocop。男孩的人生因為這個名字變得辛苦，從小被取笑、折騰多年。影片最後的標語是「If a movie is going to change your life, make it the right one.」，把一部電影可以改變人生，導向邀請觀眾來看電影節的片子。我看到的分鏡畫面是一格有顆粒的舊式家庭錄影質感畫面：一位長髮女子、一位戴帽子的男子，與一個躺著的嬰兒。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/robocop-172057\nhttps://hispanicad.com/?p=833224",
+  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜影片類銀獅 Film Silver Lion｜代理商：CONILL SAATCHI & SAATCHI Torrance / CONILL ADVERTISING El Segundo\n\n【點子】阿根廷駐洛杉磯總領事館每年舉辦阿根廷新電影節（Argentina New Cinema Film Festival）。Conill 為它拍了一支 90 秒短片，故事源自拉丁美洲有些父母會用電影角色或自己聽過的字替孩子取名的現象。\n\n【執行】片中的爸爸迷上電影《Robocop》，把兒子取名 Robocop。男孩的人生因為這個名字變得辛苦，從小被取笑、折騰多年。影片最後的標語是「If a movie is going to change your life, make it the right one.」，把一部電影可以改變人生，導向邀請觀眾來看電影節的片子。官方分鏡畫面是一格有顆粒的舊式家庭錄影質感畫面：一位長髮女子、一位戴帽子的男子，與一個躺著的嬰兒。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/robocop-172057\nhttps://hispanicad.com/?p=833224",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片類, Film, 銀獅, Silver Lion, 娛樂與休閒, Entertainment & Leisure, 阿根廷新電影節, Argentina New Cinema Film Festival, 阿根廷駐洛杉磯總領事館, Consulate General of Argentina, CONILL SAATCHI & SAATCHI, CONILL, 電影節, 活動宣傳, 電影, 電視廣告, 品牌影片, Robocop, 機器戰警, 取名, 名字, 父子, 嘲笑, 幽默, 反差, 家庭錄影, 美國, United States, 洛杉磯, 阿根廷, Argentina, 西語裔",
   "category": "行銷案例",
   "references": [
@@ -160,7 +162,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "劇情主要依 Hispanic Ad 的得獎報導（單一來源）；官方頁只有基本資料。selfstorming 案例頁的年份與說法與其他來源對不上（寫 2004 年），未採用。分鏡圖只有一格，看不出完整點子。已搜爭議：搜 Argentina New Cinema Robocop Conill controversy／fake／withdrawn，未見相關報導。"
+  "note": "劇情主要依 Hispanic Ad 的得獎報導（單一來源）；官方頁只有基本資料。selfstorming 案例頁的年份與說法與其他來源對不上（寫 2004 年），未採用。分鏡圖只有一格，看不出完整點子。已搜爭議：搜 Argentina New Cinema Robocop Conill controversy／fake／withdrawn，未見相關報導。 2026-11-14 Opus 驗：刪讀稿第一人稱句。"
  },
  {
   "id": "ltwm-06909",
@@ -195,9 +197,9 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "WWF 海報用人體金字塔，串起偷獵者到買家，底層宰虎、頂端穿虎皮，標語「Stop one. Stop them all.」",
+  "idea_one_liner": "WWF 海報把盜獵到消費的各環，疊成人體金字塔，底層宰殺老虎、犀牛或鯊魚，頂端是買家，標語「阻止一個就阻止全部」",
   "brand_display": "WWF",
-  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜Press類銀獅 Press Silver Lion、戶外類銅獅 Outdoor Bronze Lion×2｜代理商：LEO BURNETT SYDNEY\n\n【背景】WWF 針對野生動物犯罪發起國際行動，把非法野生動物交易視為像毒品、軍火走私一樣由組織犯罪經營的行業：低風險、高利潤，需求主要來自對象牙、犀牛角與虎製品的消費。文章引用的說法是它是全球第五賺錢的非法交易，一年最高可達 100 億美元。\n\n【點子】Leo Burnett Sydney 用一座「人體金字塔」呈現這條產業鏈：每一層的人都踩在下一層的肩上，少了其中一環，上面的人就站不住。標語寫成「Stop one. Stop them all.（阻止一個，就阻止全部）」，網址導向 wwf.org.au/stopthetrade。\n\n【執行】官方報名的作品名為 Rhino、Shark、Tiger 三張平面海報。我看過的是 Tiger 這張案例圖：荒地上，底層四名男子持槍、持刀站在被宰殺的老虎旁；往上一層有人搗藥、有人端著裝肉的鍋、有人剝老虎皮；再上一層一人披著虎皮、一位女士拿著頭骨與酒瓶；最頂端是一位頭戴虎皮帽、手舉酒杯的軍裝男子。畫面下方是標語與 WWF 標誌。Rhino 與 Shark 兩張我沒有取得畫面，因此不描述。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/rhino-148492\nhttps://designyoutrust.com/2014/06/stop-illegal-wildlife-trade",
+  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜Press類銀獅 Press Silver Lion、戶外類銅獅 Outdoor Bronze Lion×2｜代理商：LEO BURNETT SYDNEY\n\n【背景】WWF 針對野生動物犯罪發起國際行動，把非法野生動物交易視為像毒品、軍火走私一樣由組織犯罪經營的行業：低風險、高利潤，需求主要來自對象牙、犀牛角與虎製品的消費。文章引用的說法是它是全球第五賺錢的非法交易，一年最高可達 100 億美元。\n\n【點子】Leo Burnett Sydney 用一座「人體金字塔」呈現這條產業鏈：每一層的人都踩在下一層的肩上，少了其中一環，上面的人就站不住。標語寫成「Stop one. Stop them all.（阻止一個，就阻止全部）」，網址導向 wwf.org.au/stopthetrade。\n\n【執行】官方報名的作品名為 Rhino、Shark、Tiger 三張平面海報。三張都是同樣的構圖。Tiger 這張：荒地上，底層四名男子持槍、持刀站在被宰殺的老虎旁；往上一層有人搗藥、有人端著裝肉的鍋、有人剝老虎皮；再上一層一人披著虎皮、一位女士拿著頭骨與酒瓶；最頂端是一位頭戴虎皮帽、手舉酒杯的軍裝男子。畫面下方是標語與 WWF 標誌。Rhino 那張在非洲草原上，底層持槍、持電鋸的盜獵者站在倒地的犀牛旁，往上是手拿犀牛角的人、提著手提箱的商人，頂端是一位舉著犀牛角雕像的套裝女士。Shark 那張在港口碼頭，底層赤膊男子持刀站在倒地的鯊魚旁，往上是捧著一束束乾貨的人、廚師與穿白袍的人，頂端是一位端著碗的男子。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/rhino-148492\nhttps://designyoutrust.com/2014/06/stop-illegal-wildlife-trade",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Press類, Press, 銀獅, Silver Lion, 募款、捐款與呼籲, Fundraising, Donations & Appeals, 戶外類, Outdoor, 銅獅, Bronze Lion, WWF, 世界自然基金會, 非營利組織, 公益, 野生動物保育, 非法野生動物交易, 偷獵, 老虎, 犀牛, 鯊魚, 虎皮, LEO BURNETT SYDNEY, LEO BURNETT, 平面廣告, 海報, 戶外廣告, 人體金字塔, 金字塔, 修圖合成, 插畫, 震撼, 澳洲, Australia, 雪梨, Sydney",
   "category": "行銷案例",
   "references": [
@@ -209,7 +211,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方頁只有基本資料；文字背景取自 Design You Trust，金字塔「少一環就垮」的解讀依畫面與標語整理（依作品畫面解讀，無官方文字說明）。只看到 Tiger 一張，Rhino、Shark 未取得。已搜爭議：搜 WWF Stop One Stop Them All controversy／withdrawn／fake／plagiarism，只見部落格說畫面震撼、血腥，無撤獎或造假指控。"
+  "note": "官方頁只有基本資料；文字背景取自 Design You Trust，金字塔「少一環就垮」的解讀依畫面與標語整理（依作品畫面解讀，無官方文字說明）。只看到 Tiger 一張，Rhino、Shark 未取得。已搜爭議：搜 WWF Stop One Stop Them All controversy／withdrawn／fake／plagiarism，只見部落格說畫面震撼、血腥，無撤獎或造假指控。 2026-11-14 Opus 驗：在 Design You Trust 同一頁看到三張完整海報（1249／2155／3128.jpg），依畫面補寫 Rhino、Shark，刪第一人稱句；一句話改成三張共通的做法。",
+  "idea_one_liner_r0": "WWF 海報用人體金字塔，串起偷獵者到買家，底層宰虎、頂端穿虎皮，標語「Stop one. Stop them all.」"
  },
  {
   "id": "ltwm-06904",
@@ -240,7 +243,7 @@
   "awards_unverified": [],
   "idea_one_liner": "菲律賓 SM 用捐來的塑膠袋，拼出三幅淹水街景，人物泡在塑膠袋洪水中，提醒塑膠袋會堵排水溝",
   "brand_display": "SM Eco Bag",
-  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜戶外類銀獅 Outdoor Silver Lion、Press類銅獅 Press Bronze Lion｜代理商：LOWE PHILIPPINES Makati City\n\n【背景】SM 是菲律賓的購物中心集團，推出可重複使用的 SM Eco Bag 取代一次性塑膠購物袋。負責 SM 企業社會責任溝通的 Lowe Philippines 從這個環保袋出發，想講亂丟塑膠袋的後果。\n\n【點子】用塑膠袋本身創作：把塑膠袋、包裝袋與其他用過的垃圾剪貼成壁畫，畫的正是塑膠袋造成的問題，垃圾堵住排水溝與下水道，雨季時馬尼拉都會區就會淹水。\n\n【執行】三幅作品名為 Plastic Kids、Plastic Grandma、Plastic Dudes，用募來的塑膠袋拼成，設計團隊花了數個月斷斷續續製作。我看過的一幅畫面是：幾個人在齊腰深的積水裡，有人撐著用塑膠袋做成的雨傘、有人把一袋東西舉過頭；水面由一條條扭轉的白色塑膠袋組成，背景有拼出來的房屋與樹。右下角寫著手寫字「Plastic bags clog drains and make floods worse.」，旁邊是印有 SM 標誌與「choose to reuse」的粉紅色環保袋。作品在 Bonifacio Global City 的 SM Aura 中庭展出到 2014 年 9 月 14 日，現場放有捐贈箱，讓顧客捐用過的塑膠袋，預計做第四幅壁畫。\n\n資料來源：\nhttps://lovethework.com/work-awards/campaigns/sm-eco-bag-campaign-43130\nhttps://www.gmanetwork.com/news/lifestyle/content/378220/award-winning-eco-campaign-uses-plastic-bags-to-create-art/story/\nhttps://www.adsoftheworld.com/campaigns/dudes",
+  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜戶外類銀獅 Outdoor Silver Lion、Press類銅獅 Press Bronze Lion｜代理商：LOWE PHILIPPINES Makati City\n\n【背景】SM 是菲律賓的購物中心集團，推出可重複使用的 SM Eco Bag 取代一次性塑膠購物袋。負責 SM 企業社會責任溝通的 Lowe Philippines 從這個環保袋出發，想講亂丟塑膠袋的後果。\n\n【點子】用塑膠袋本身創作：把塑膠袋、包裝袋與其他用過的垃圾剪貼成壁畫，畫的正是塑膠袋造成的問題，垃圾堵住排水溝與下水道，雨季時馬尼拉都會區就會淹水。\n\n【執行】三幅作品名為 Plastic Kids、Plastic Grandma、Plastic Dudes，用募來的塑膠袋拼成，設計團隊花了數個月斷斷續續製作。案例圖上的一幅畫面是：幾個人在齊腰深的積水裡，有人撐著用塑膠袋做成的雨傘、有人把一袋東西舉過頭；水面由一條條扭轉的白色塑膠袋組成，背景有拼出來的房屋與樹。右下角寫著手寫字「Plastic bags clog drains and make floods worse.」，旁邊是印有 SM 標誌與「choose to reuse」的粉紅色環保袋。作品在 Bonifacio Global City 的 SM Aura 中庭展出到 2014 年 9 月 14 日，現場放有捐贈箱，讓顧客捐用過的塑膠袋，預計做第四幅壁畫。\n\n資料來源：\nhttps://lovethework.com/work-awards/campaigns/sm-eco-bag-campaign-43130\nhttps://www.gmanetwork.com/news/lifestyle/content/378220/award-winning-eco-campaign-uses-plastic-bags-to-create-art/story/\nhttps://www.adsoftheworld.com/campaigns/dudes",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 戶外類, Outdoor, 銀獅, Silver Lion, Press類, Press, 銅獅, Bronze Lion, SM Eco Bag, SM, SM Prime, 環保袋, 購物袋, 塑膠袋, 環保, 永續, 減塑, 重複使用, LOWE MAKATI CITY, LOWE PHILIPPINES, LOWE, 拼貼, 壁畫, 裝置藝術, 回收材料, 手作, 平面廣告, 戶外廣告, 水災, 淹水, 排水溝, 菲律賓, Philippines, 馬尼拉, 零售, 購物中心",
   "category": "行銷案例",
   "references": [
@@ -253,7 +256,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "內容依 GMA News 報導與 Ads of the World 整理；LBB 頁面回 403 未用。三幅只看到一幅的畫面。展出到 9/14 的年份依 GMA 報導，與 Ads of the World 刊登 2014 年 6 月一致。已搜爭議：搜 SM Eco Bag Lowe plastic bag murals controversy／fake／spec／plagiarism，未見相關報導。"
+  "note": "內容依 GMA News 報導與 Ads of the World 整理；LBB 頁面回 403 未用。三幅只看到一幅的畫面。展出到 9/14 的年份依 GMA 報導，與 Ads of the World 刊登 2014 年 6 月一致。已搜爭議：搜 SM Eco Bag Lowe plastic bag murals controversy／fake／spec／plagiarism，未見相關報導。 2026-11-14 Opus 驗：刪讀稿第一人稱句。"
  },
  {
   "id": "ltwm-06903",
@@ -414,20 +417,21 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "阿根廷體育頻道 TyC Sports 的影片《Requiem》，畫面是一群黑衣人在墓園送葬，其餘內容查無文字說明",
+  "idea_one_liner": "阿根廷體育台 TyC Sports 拍一場葬禮，致悼詞的男子，講起和死者支持的球隊 Ferro 在八〇年代被淘汰的往事",
   "brand_display": "TyC Sports",
-  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜影片類銀獅 Film Silver Lion｜代理商：Y&R BUENOS AIRES\n\n【執行】官方報名的作品名為 Requiem（安魂曲），是 Y&R Buenos Aires 為阿根廷體育頻道 TyC Sports 拍的影片。我取得的分鏡畫面是在一座綠樹環繞的墓園，一群穿深色衣服的人站在一束白花後面，有人拿著花、有人拭淚，其中一位穿灰襯衫的捲髮男子站在正中央。影片的對白、轉折與如何連結到體育頻道，我沒有找到可打開的文字說明，因此這裡不推測劇情。\n\n資料來源：\nhttps://lovethework.com/work-awards/campaigns/tyc-sports-219409\nhttps://www.merca20.com/14-spots-que-acaban-de-ganar-oro-en-film-en-cannes-lions/",
+  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜影片類銀獅 Film Silver Lion｜代理商：Y&R BUENOS AIRES\n\n【點子】官方報名的作品名為 Requiem（安魂曲），是 Y&R Buenos Aires 為阿根廷體育頻道 TyC Sports 拍的影片：把場景設在一場葬禮，致悼詞的人講的是自己和死者一起支持的球隊。\n\n【執行】以下依官方影片分鏡格上看得到的畫面與英文字幕整理：一座綠樹環繞的墓園裡，一群穿深色衣服的親友站在白花後面，有人拿著花、有人拭淚。穿灰襯衫的捲髮男子站在中間致詞，說「我們一起愛著我們的球隊 Ferro」、「那時候很不一樣，對吧？八〇年代初」，接著比手畫腳講起當年全國聯賽是 32 隊、分 8 組、每組 4 隊，「但我們因為淨勝球被淘汰了」，還抬頭說「Tony，我在這裡很快樂」。最後鏡頭拉遠到整片墓園，打出字卡「The only thing that never dies is the love for the team.」（唯一不會死的，是對球隊的愛）與 TyC Sports 標誌。\n\n資料來源：\nhttps://lovethework.com/work-awards/campaigns/tyc-sports-219409\nhttps://www.merca20.com/14-spots-que-acaban-de-ganar-oro-en-film-en-cannes-lions/",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片類, Film, 銀獅, Silver Lion, TyC Sports, 體育頻道, 電視頻道, 運動, 足球, Y&R BUENOS AIRES, Y&R, 電視廣告, 影片, 葬禮, 墓園, 送葬, 安魂曲, Requiem, 阿根廷, Argentina, 布宜諾斯艾利斯, Buenos Aires",
   "category": "行銷案例",
   "references": [
    "https://lovethework.com/work-awards/campaigns/tyc-sports-219409",
    "https://www.merca20.com/14-spots-que-acaban-de-ganar-oro-en-film-en-cannes-lions/"
   ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/b5983c708d8c4f6d81988e703d8c67f2/storyboard_000002.jpg",
-  "image_shows": "分鏡畫面：綠樹墓園，一群穿深色衣服的人站在白花後，有人拭淚，中間是穿灰襯衫的捲髮男子",
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/b5983c708d8c4f6d81988e703d8c67f2/storyboard_000025.jpg",
+  "image_shows": "官方影片分鏡格：樹下墓園遠景，一群穿深色衣服的人圍著棺木與花圈，畫面上是字卡「The only thing that never dies is the love for the team.」與 TyC Sports 標誌",
   "text_source_level": 4,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "缺劇情說明：官方頁無文字、Luerzer's 與 WeLoveAd 頁面回 403／503；Merca2.0 只確認銀獅（影片類，Publications & Media 類別）。搜尋摘要有描述劇情與創意團隊，但未打開原頁，依規則未寫入。建議本機補查影片本身或西語報導。已搜爭議：搜 TyC Sports Requiem Y&R controversy／fake／withdrawn／plagiarism，只見該頻道 2018 年別支廣告的爭議（不算），本作品未見爭議。"
+  "note": "缺劇情說明：官方頁無文字、Luerzer's 與 WeLoveAd 頁面回 403／503；Merca2.0 只確認銀獅（影片類，Publications & Media 類別）。搜尋摘要有描述劇情與創意團隊，但未打開原頁，依規則未寫入。建議本機補查影片本身或西語報導。已搜爭議：搜 TyC Sports Requiem Y&R controversy／fake／withdrawn／plagiarism，只見該頻道 2018 年別支廣告的爭議（不算），本作品未見爭議。 2026-11-14 Opus 驗：逐格打開官方分鏡（第 2～25 格）讀到英文字幕與片尾字卡，依此補寫點子與執行、拿掉 uncertain；仍沒有文字報導，內容只限畫面與字幕看得到的部分（依作品畫面解讀）。圖改用第 25 格片尾字卡。刪第一人稱句。",
+  "idea_one_liner_r0": "阿根廷體育頻道 TyC Sports 的影片《Requiem》，畫面是一群黑衣人在墓園送葬，其餘內容查無文字說明"
  }
 ]

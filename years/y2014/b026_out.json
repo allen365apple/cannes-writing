@@ -44,7 +44,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片頁只有基本資料；讀稿依官方案例板文字與 The Next Web、Laughing Squid、Engadget 整理，案例板上的成效數字不採用。已搜爭議：搜「Google Night Walk Marseille controversy criticism fake plagiarism」，沒有造假、抄襲或撤獎紀錄；只有 Laughing Squid 說明作品改編自 Perruchi 既有的有聲散步，屬已公開的來源，不是指控。導覽員姓名拼法各來源略有不同（Julie de Muer／Julie de Moor）。"
+  "note": "官方卡片頁只有基本資料；讀稿依官方案例板文字與 The Next Web、Laughing Squid、Engadget 整理，案例板上的成效數字不採用。已搜爭議：搜「Google Night Walk Marseille controversy criticism fake plagiarism」，沒有造假、抄襲或撤獎紀錄；只有 Laughing Squid 說明作品改編自 Perruchi 既有的有聲散步，屬已公開的來源，不是指控。導覽員姓名拼法各來源略有不同（Julie de Muer／Julie de Moor）。 2026-11-14 Opus 驗：程式標 thenextweb 404 為誤判，curl GET 實測 200 且內容是這篇報導（已核對 Night Walk 導覽員、Sparks 300 英尺與五台投影機），保留。"
  },
  {
   "id": "ltwm-06964",
@@ -273,7 +273,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片頁沒有內文；讀稿依官方案例板文字、The Next Web 與 Sky Sports 整理，案例板上的成效數字不採用。The Drum、LBB、Shots 等頁面連不上（403／503）。已搜爭議：搜「Google Front Row Manchester United Hangout hoardings criticism controversy fake withdrawn」，沒有爭議、造假或撤獎紀錄。選上的人數各來源未說明，讀稿未寫。"
+  "note": "官方卡片頁沒有內文；讀稿依官方案例板文字、The Next Web 與 Sky Sports 整理，案例板上的成效數字不採用。The Drum、LBB、Shots 等頁面連不上（403／503）。已搜爭議：搜「Google Front Row Manchester United Hangout hoardings criticism controversy fake withdrawn」，沒有爭議、造假或撤獎紀錄。選上的人數各來源未說明，讀稿未寫。 2026-11-14 Opus 驗：程式標 thenextweb 404 為誤判，curl GET 實測 200 且內容是這篇報導（已核對 Night Walk 導覽員、Sparks 300 英尺與五台投影機），保留。"
  },
  {
   "id": "ltwm-07022",
@@ -349,7 +349,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片頁只有基本資料；讀稿依 The Next Web、Aaron Koblin 個人網站與案例照整理。官方作品名 UNNUMBERED SPARKS，Echelman 自己稱為 Skies Painted with Unnumbered Sparks。網的尺寸與固定在哪棟樓，各來源說法不一，讀稿只寫 The Next Web 的「附近一棟高樓屋頂」與約 300 英尺。官方獎項代理商欄寫 Google Creative Lab Data Arts Team；in 檔 agency 欄另有 Studio Echelman。已搜爭議：搜「Unnumbered Sparks Echelman Google controversy lawsuit credit dispute」，搜尋結果都是無關的 Google 新聞，沒有這件的爭議。"
+  "note": "官方卡片頁只有基本資料；讀稿依 The Next Web、Aaron Koblin 個人網站與案例照整理。官方作品名 UNNUMBERED SPARKS，Echelman 自己稱為 Skies Painted with Unnumbered Sparks。網的尺寸與固定在哪棟樓，各來源說法不一，讀稿只寫 The Next Web 的「附近一棟高樓屋頂」與約 300 英尺。官方獎項代理商欄寫 Google Creative Lab Data Arts Team；in 檔 agency 欄另有 Studio Echelman。已搜爭議：搜「Unnumbered Sparks Echelman Google controversy lawsuit credit dispute」，搜尋結果都是無關的 Google 新聞，沒有這件的爭議。 2026-11-14 Opus 驗：程式標 thenextweb 404 為誤判，curl GET 實測 200 且內容是這篇報導（已核對 Night Walk 導覽員、Sparks 300 英尺與五台投影機），保留。"
  },
  {
   "id": "ltwm-06999",
