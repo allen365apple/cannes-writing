@@ -77,3 +77,12 @@
 - 規則待定：text_source_level 欄位規則卡沒有定義，寫手各自填值。建議：維護者訂出定義。
 - 圖不理想：b026 06964（官方分鏡孕婦，看不出片中片做法）；b027 06876 LEON 1914（Facebook 專頁字卡，不是書）、06873 NIGHT FLIGHT（老影像字幕）。建議：本機補圖。
 - 撤獎 0。重複候選 0。
+
+## 2026-11-15 雲端第 1 輪 b030 b031 b032（Sonnet 寫、Opus 驗）
+- 【爭議】新增：b030 ltwm-06917 Share My Dabba（Gulf News 報導送餐員協會表示與活動無關，與案例板寫的合作說法相反）。建議：保留，請確認。
+- 概念相近待決：b032 ltwm-06943 LIFE SAVING CABLE 與 2013 年巴西 Leo Burnett 為 Club SangueBom 做的 Donor Cable 概念相同、早一年，找不到公開指控，未加【爭議】。建議：維持，本機若查到指控再補。
+- 不算爭議（驗收員判斷）：b032 ltwm-06937 GRAND THEFT 假竊案是宣傳本身、事後已公開。
+- 不算重複（驗收員判斷）：b031 ltwm-07238 WE HAVE TO TALK（影片）與 ltwm-07109 Pedigree Adoption Drive（戶外），一支影片、一組戶外，分開寫。
+- 仍 uncertain：b031 ltwm-06933 CAPI TOILETS（缺廣播稿或音檔，needs_audio，無圖）、ltwm-07238 WE HAVE TO TALK（缺劇情）、ltwm-06926 Ray-Ban SUBWAY, COP（缺 Subway 那張圖）；b032 ltwm-06992 Dos Equis BEST DRESSED（缺台詞，needs_audio，無圖）、ltwm-07245 WHY NOT MAN（缺劇情）、ltwm-06935 FIREMAN'S SMILE（缺清楚的圖）。建議：本機看片、聽音檔補寫。
+- 圖不理想：b030 06918 Simon the Ogre（分鏡太暗）；b032 06935（250x106）、06939 GUARDIAN ANGEL（364x230）、07245。沒有圖：b031 06933、b032 06992。建議：本機補圖。
+- 撤獎 0。重複候選 0。

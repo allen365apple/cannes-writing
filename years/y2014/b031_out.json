@@ -32,12 +32,12 @@
    "http://shoffyj.co.uk/plunge-into-the-unknown-with-lacostes-the-big-leap/",
    "https://directorslibrary.com/2014/latest/campaigns/the-big-leap-lacoste/"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://i.ytimg.com/vi/OGo2S_MeImM/maxresdefault.jpg",
+  "image_shows": "影片畫面：咖啡館窗邊小圓桌，男子起身傾向對面的女子，兩人嘴唇只差一點就要親上",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：Lacoste The Big Leap controversy／fake／withdrawn，未發現造假、抄襲或撤獎指控（搜尋結果只有不相關的品牌新聞，未寫入）。官方卡片頁沒有內文，內容依 BETC 官方作品頁、Bello Mag、ShoffyJ、Directors Library 整理；BETC 頁面本身的日期標示與其他來源不一致，故讀稿未寫年份與成效。圖：官方 storyboard 候選為全黑、YouTube 縮圖 maxres／hq 皆 404，沒有可用圖，image_url 留空。Opus 驗收員請幫忙找圖。"
+  "note": "已搜爭議：Lacoste The Big Leap controversy／fake／withdrawn，未發現造假、抄襲或撤獎指控（搜尋結果只有不相關的品牌新聞，未寫入）。官方卡片頁沒有內文，內容依 BETC 官方作品頁、Bello Mag、ShoffyJ、Directors Library 整理；BETC 頁面本身的日期標示與其他來源不一致，故讀稿未寫年份與成效。圖：官方 storyboard 候選為全黑、YouTube 縮圖 maxres／hq 皆 404，沒有可用圖，image_url 留空。Opus 驗收員請幫忙找圖。 2026-11-14 Opus 驗：補圖：Directors Library 頁嵌的 YouTube 影片（Wanda Productions 上傳，標題 LACOSTE - Seb Edwards）maxres 縮圖，已下載打開確認是本片「親吻前一刻」的畫面。"
  },
  {
   "id": "ltwm-06928",
@@ -76,7 +76,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：Pedigree K9FM Talkies controversy／fake／withdrawn，未發現造假、抄襲或撤獎指控。Spikes 腳本頁標題寫 2023 但網址為 2014 winners，內容與 Talkies 對得上，視為同一支。D&AD 與 Direct New Ideas 頁面的 K9FM 部分是品牌整體背景。圖是影片的字卡，點子本身看不出，找不到更好的圖（官方 case board 即此圖）。"
+  "note": "已搜爭議：Pedigree K9FM Talkies controversy／fake／withdrawn，未發現造假、抄襲或撤獎指控。Spikes 腳本頁標題寫 2023 但網址為 2014 winners，內容與 Talkies 對得上，視為同一支。D&AD 與 Direct New Ideas 頁面的 K9FM 部分是品牌整體背景。圖是影片的字卡，點子本身看不出，找不到更好的圖（官方 case board 即此圖）。 2026-11-14 Opus 驗：重開 Spikes 腳本頁核對來賓姓名、職稱、木頭與樹的論點、下週預告，皆無誤。"
  },
  {
   "id": "ltwm-06927",
@@ -245,8 +245,8 @@
   "image_shows": "",
   "text_source_level": 0,
   "uncertain": true,
-  "needs_audio": false,
-  "note": "已搜爭議：Capi sparkling radio Saatchi Sydney Toilets Cannes silver controversy／fake／scam，沒有針對本件的指控（搜到的 scam 報導是別的作品，非本件）。uncertain：找不到三支廣播（Alpine Marmot、Marathon Cyclists、Toilets）的文字稿或音檔，官方卡片只有 metadata；搜尋結果中有廣播內容的摘要，但未打開原頁，未寫入。缺：音檔或逐字稿。沒有找到可用圖（體檢候選為預留 SVG 圖示）。需要本機補寫，雲端沒有轉寫工具。"
+  "needs_audio": true,
+  "note": "已搜爭議：Capi sparkling radio Saatchi Sydney Toilets Cannes silver controversy／fake／scam，沒有針對本件的指控（搜到的 scam 報導是別的作品，非本件）。uncertain：找不到三支廣播（Alpine Marmot、Marathon Cyclists、Toilets）的文字稿或音檔，官方卡片只有 metadata；搜尋結果中有廣播內容的摘要，但未打開原頁，未寫入。缺：音檔或逐字稿。沒有找到可用圖（體檢候選為預留 SVG 圖示）。需要本機補寫，雲端沒有轉寫工具。 2026-11-14 Opus 驗：再搜三支廣播稿與音檔：lovethework 頁原始碼無腳本、adsspot 403，仍缺；needs_audio 改 true，交本機找音檔轉寫。搜尋摘要稱 lovethework 有腳本，實際頁面沒有，未寫入。"
  },
  {
   "id": "ltwm-07180",
@@ -270,9 +270,9 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "Pedigree 巴西戶外廣告：同一場景並排兩次，站在大樓窄沿的男人，第二張身旁多了隻小狗，標語說狗改變你看人的眼光",
+  "idea_one_liner": "Pedigree 巴西海報並排同一畫面：站在大樓窄沿像要輕生、拿著木棍像要攻擊人的男人，身旁多了狗，就變成救狗、陪狗玩",
   "brand_display": "Pedigree",
-  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：ALMAPBBDO São Paulo\n\n【背景】Pedigree 是 Mars 旗下的狗食品牌，這組戶外廣告由巴西 AlmapBBDO 製作，2014 年 6 月在巴西刊出。\n\n【點子】官方報名作品名稱是 BOTTLE（瓶子）、STICK（樹枝）與 SUICIDAL，共三件戶外廣告。文字說明沒有找到。依案例板畫面解讀：同一個場景並排放兩次，左邊是只有人的畫面，右邊多了一隻小狗，再加上一行標語「A dog changes the way you think about someone.」（狗會改變你看一個人的方式）。\n\n【執行】案例板上的這張，畫面是一位穿白襯衫、打領帶的男人，站在大樓外牆的窄沿上，向旁邊看去；右邊那張在他身旁的窄沿多了一隻小小的米格魯幼犬，右上角是 Pedigree 的黃底標誌。Bottle 與 Stick 兩件的畫面沒有取得，無法描述。\n\n資料來源：\nhttps://www.adsoftheworld.com/campaigns/bottle-c7d0dbfa-a32c-43d8-a0f3-92febb727fd0\nhttps://www.adsoftheworld.com/media/outdoor/pedigree_stick\nhttps://www.adsoftheworld.com/media/outdoor/pedigree_ledge\nhttps://ascentialcdn.filespin.io/api/v1/conversion/11807090081f4f7ca2baaf3c39efa214",
+  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：ALMAPBBDO São Paulo\n\n【背景】Pedigree 是 Mars 旗下的狗食品牌，這組戶外廣告由巴西 AlmapBBDO 製作，2014 年 6 月在巴西刊出。\n\n【點子】官方報名作品名稱是 BOTTLE（瓶子）、STICK（樹枝）與 SUICIDAL（想輕生），共三件戶外廣告。文字說明沒有找到，以下依作品畫面解讀。每件都把同一張照片並排放兩次：左邊只有一個人，動作看起來可疑；右邊同一個畫面多了一隻狗，同樣的動作就變成善意的舉動，再加上一行標語「A dog changes the way you think about someone.」（狗會改變你看一個人的方式）。\n\n【執行】Suicidal：穿白襯衫、打領帶的男人站在大樓外牆的窄沿上往旁邊看，左圖像是要往下跳；右圖窄沿另一頭多了一隻米格魯幼犬，他看起來就像是爬出去救狗。Stick：霧氣瀰漫的公園小路上，一個穿深色外套的男人手握粗木棍，走向前方慢跑的女子，左圖讓人緊張；右圖一隻黑白小狗撲上來咬住木棍，原來他是在跟狗玩丟樹枝。Bottle：夕陽海灘上，一個男人把塑膠瓶往海裡丟，左圖像亂丟垃圾；右圖旁邊多了一隻拉布拉多正要衝出去，變成在跟狗玩撿東西。右上角都是 Pedigree 的黃底標誌。\n\n資料來源：\nhttps://www.adsoftheworld.com/campaigns/bottle-c7d0dbfa-a32c-43d8-a0f3-92febb727fd0\nhttps://www.adsoftheworld.com/media/outdoor/pedigree_stick\nhttps://www.adsoftheworld.com/media/outdoor/pedigree_ledge\nhttps://ascentialcdn.filespin.io/api/v1/conversion/11807090081f4f7ca2baaf3c39efa214",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 戶外類, Outdoor, 銅獅, Bronze Lion, Pedigree, 寶路, 狗糧, 寵物食品, 寵物, 狗, 小狗, 米格魯, 巴西, Brazil, ALMAPBBDO, AlmapBBDO, AlmapBBDO São Paulo, Mars, 戶外廣告, 海報, 前後對照, 對照, 同一場景, 大樓, 窄沿, 上班族, 白襯衫, 領帶, 領養, A dog changes the way you think about someone",
   "category": "行銷案例",
   "references": [
@@ -281,11 +281,12 @@
    "https://www.adsoftheworld.com/media/outdoor/pedigree_ledge"
   ],
   "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/11807090081f4f7ca2baaf3c39efa214",
-  "image_shows": "左右並排兩張同一場景：男人站在大樓窄沿上，右圖多了一隻小狗，並寫著「A dog changes the way you think about someone.」，右上角是 Pedigree 標誌",
+  "image_shows": "左右並排兩張同一場景：男人站在大樓窄沿上，右圖窄沿另一頭多了一隻米格魯幼犬，並寫著「A dog changes the way you think about someone.」，右上角是 Pedigree 標誌",
   "text_source_level": 1,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：Pedigree AlmapBBDO Stick Suicidal Bottle outdoor Cannes bronze controversy／scam／fake，沒有針對本件的指控（搜到的是 AlmapBBDO 2016 年 Bayer 作品被撤獎，是別支廣告，不算）。uncertain：找不到這組廣告的文字說明（Ads of the World 頁只有 metadata，標題為 Bottle, Ledge, Stick；lovethework 卡片頁無內文），讀稿依案例板畫面解讀，無文字說明；只看到「Suicidal」（Ads of the World 標題為 Ledge）這一件的畫面，Bottle、Stick 沒有畫面。畫面的含義（為何站在窄沿）沒有文字佐證，讀稿未多做推測。缺：官方說明或另兩件畫面。"
+  "note": "已搜爭議：Pedigree AlmapBBDO Stick Suicidal Bottle outdoor Cannes bronze controversy／scam／fake，沒有針對本件的指控（搜到的是 AlmapBBDO 2016 年 Bayer 作品被撤獎，是別支廣告，不算）。uncertain：找不到這組廣告的文字說明（Ads of the World 頁只有 metadata，標題為 Bottle, Ledge, Stick；lovethework 卡片頁無內文），讀稿依案例板畫面解讀，無文字說明；只看到「Suicidal」（Ads of the World 標題為 Ledge）這一件的畫面，Bottle、Stick 沒有畫面。畫面的含義（為何站在窄沿）沒有文字佐證，讀稿未多做推測。缺：官方說明或另兩件畫面。 2026-11-14 Opus 驗：從 Ads of the World 活動頁取得三張圖（Bottle、Ledge＝Suicidal、Stick）並逐張打開，三張都是「左可疑、右多一隻狗變善意」的對照，巧思清楚，依作品畫面改寫一句話與讀稿，拿掉 uncertain；讀稿屬依作品畫面解讀，無文字說明。",
+  "idea_one_liner_r0": "Pedigree 巴西戶外廣告：同一場景並排兩次，站在大樓窄沿的男人，第二張身旁多了隻小狗，標語說狗改變你看人的眼光"
  },
  {
   "id": "ltwm-07132",
@@ -346,9 +347,9 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "Pedigree 領養海報：海邊的男人與狗，旁邊是一段第一人稱自白，說遇見「他」後學會分享，結尾 Who saves who",
+  "idea_one_liner": "Pedigree 墨西哥領養海報，男人帶狗站在海邊，一段「我很自私」的自白分不清是人還是狗在說，結尾問 Who saves who",
   "brand_display": "Pedigree",
-  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：BBDO MEXICO\n\n【背景】Pedigree 在墨西哥有「Pedigree ADÓPTAME」領養計畫，由 Mars Petcare 於 2008 年推出，協助收容所裡的流浪狗被領養。這次的領養活動以品牌的「Quién salva a quién」（Who saves who，誰救了誰）為主軸，由 BBDO México 製作。\n\n【點子】領養的故事通常只講人為狗做了什麼，這組廣告反過來問：狗為人的生活做了什麼？D&AD 的說明是，作品從主人與狗兩邊講領養的故事，文案深刻動人，畫面沉靜。\n\n【執行】官方報名作品名為 MATILDA、TOMMY 與 FAMILY（墨西哥報導列的作品名則是 Matilda、Solitario、Viejitos）。案例板上的 Tommy 這一張：灰藍色調的海邊，一個穿著防水外套與雨靴的男人站在礁石上望向遠方，腳邊岩石上有一隻深棕色的獵犬回頭看著他；左側是一段第一人稱文字，說自己很自私，從小到大眼裡只有「我、我的東西、我的地方」，家裡有六個兄弟搶媽媽的注意，也沒見過爸爸，直到遇見「他」，才學到對自己最好的事就是學會分享。文末是「WHO SAVES WHO.」，下方有領養網址與 ADOPT 字樣和 Pedigree 袋裝產品。Matilda 與 Family 兩件的畫面沒有取得。\n\n資料來源：\nhttps://www.merca20.com/?p=99120\nhttps://www.dandad.org/work/d-ad-awards-archive/pedigree-who-saves-who-matilda-couple\nhttps://ascentialcdn.filespin.io/api/v1/conversion/57acf09e4260447e852b5fb653148aa4",
+  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：BBDO MEXICO\n\n【背景】Pedigree 在墨西哥有「Pedigree ADÓPTAME」領養計畫，由 Mars Petcare 於 2008 年推出，協助收容所裡的流浪狗被領養。這次的領養活動以品牌的「Quién salva a quién」（Who saves who，誰救了誰）為主軸，由 BBDO México 製作。\n\n【點子】領養的故事通常只講人為狗做了什麼，這組廣告反過來問：狗為人的生活做了什麼？獎項資料庫的說明是，作品從主人與狗兩邊講領養的故事，文案深刻動人，畫面沉靜。\n\n【執行】官方報名作品名為 MATILDA、TOMMY 與 FAMILY（墨西哥報導列的作品名則是 Matilda、Solitario、Viejitos）。案例板上的 Tommy 這一張：灰藍色調的海邊，一個穿著防水外套與雨靴的男人站在礁石上望向遠方，腳邊岩石上有一隻深棕色的獵犬回頭看著他；左側是一段第一人稱文字，說自己很自私，從小到大眼裡只有「我、我的東西、我的地方」，家裡有六個兄弟搶媽媽的注意，也沒見過爸爸，直到遇見「他」，才學到對自己最好的事就是學會分享。文字裡的「六個兄弟」「沒見過爸爸」「餓了就吃」既像男人的身世，也像一窩小狗的身世，海報沒有說是誰在說話，讀的人自己會想：到底是誰救了誰。文末是「WHO SAVES WHO.」，下方有領養網址與 ADOPT 字樣和 Pedigree 袋裝產品。Matilda 與 Family 兩件的畫面沒有取得。\n\n資料來源：\nhttps://www.merca20.com/?p=99120\nhttps://www.dandad.org/work/d-ad-awards-archive/pedigree-who-saves-who-matilda-couple\nhttps://ascentialcdn.filespin.io/api/v1/conversion/57acf09e4260447e852b5fb653148aa4",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 戶外類, Outdoor, 銅獅, Bronze Lion, Pedigree, 寶路, 狗糧, 寵物食品, 寵物, 狗, 領養, 收容所, 墨西哥, Mexico, BBDO, BBDO Mexico, BBDO Mexico City, Mars, Mars Petcare, 戶外廣告, 海報, 長文案, 第一人稱, 自白, 海邊, 岩石, 獵犬, 分享, Who saves who, Quién salva a quién, Adoption Drive, Pedigree ADÓPTAME",
   "category": "行銷案例",
   "references": [
@@ -358,9 +359,10 @@
   "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/57acf09e4260447e852b5fb653148aa4",
   "image_shows": "海邊礁石上，穿防水外套的男人望向遠方，腳邊有一隻深棕色獵犬；左側是第一人稱長文，結尾「WHO SAVES WHO.」，右下角有 Pedigree 產品袋",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：Pedigree BBDO Mexico Adoption Drive Matilda Tommy Family controversy／scam／fake，未發現造假、抄襲或撤獎指控。uncertain：官方卡片頁沒有內文；只看到 Tommy 一張的畫面，Matilda、Family 沒取得；官方報名名稱（Matilda／Tommy／Family）與墨西哥報導（Matilda／Solitario／Viejitos）對不上，且 Tommy 的文字是誰在說（人或狗）海報上沒有明講，讀稿只照文字轉述，未下結論。D&AD 的說明來自 Who saves who – Matilda & Couple 條目（2016 年），是同一個「Who saves who」平台的別件作品，只借其概念描述，請驗收員確認是否適用。缺：Matilda 與 Family 的畫面與官方說明。"
+  "note": "已搜爭議：Pedigree BBDO Mexico Adoption Drive Matilda Tommy Family controversy／scam／fake，未發現造假、抄襲或撤獎指控。uncertain：官方卡片頁沒有內文；只看到 Tommy 一張的畫面，Matilda、Family 沒取得；官方報名名稱（Matilda／Tommy／Family）與墨西哥報導（Matilda／Solitario／Viejitos）對不上，且 Tommy 的文字是誰在說（人或狗）海報上沒有明講，讀稿只照文字轉述，未下結論。D&AD 的說明來自 Who saves who – Matilda & Couple 條目（2016 年），是同一個「Who saves who」平台的別件作品，只借其概念描述，請驗收員確認是否適用。缺：Matilda 與 Family 的畫面與官方說明。 2026-11-14 Opus 驗：merca20 核對：Adoption Drive 為 Cannes 2014 戶外銅獅、三件作品，與本件相符；D&AD 2016「Who saves who – Matilda & Couple」同為墨西哥、同平台、同有 Matilda 一名，描述（從主人與狗兩邊講）與 Tommy 海報文字吻合，判斷可借用為平台說明，讀稿改稱「獎項資料庫」。打開案例板逐字核對 Tommy 文字，依畫面補「自白分不清人或狗」一句（依作品畫面解讀），拿掉 uncertain；Matilda、Family 兩張仍沒看到。",
+  "idea_one_liner_r0": "Pedigree 領養海報：海邊的男人與狗，旁邊是一段第一人稱自白，說遇見「他」後學會分享，結尾 Who saves who"
  },
  {
   "id": "ltwm-07238",
@@ -385,19 +387,18 @@
   "awards_unverified": [],
   "idea_one_liner": "墨西哥 Pedigree 領養影片《We Have to Talk》，目前只找到一幕無人的客廳畫面，內容待確認",
   "brand_display": "Pedigree",
-  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜影片類銅獅 Film Bronze Lion｜代理商：BBDO MEXICO\n\n【背景】Pedigree 在墨西哥的領養活動以品牌平台「Quién salva a quién」（Who saves who）為主軸，由 BBDO México 製作；Mars Petcare 在墨西哥自 2008 年推出 Pedigree ADÓPTAME 領養計畫。\n\n【點子】官方資料只確認《We Have to Talk》是 BBDO México 為 Mars 製作的 2014 年影片。影片劇情、旁白與字幕都沒有找到可靠的文字來源（YouTube 擋爬蟲、官方卡片頁沒有內文），因此無法寫出點子與執行。\n\n【執行】取得的唯一畫面是影片的分鏡格：一間燈光昏黃、牆面貼著花紋壁紙的客廳，有扶手椅、沙發、檯燈與牆上的掛畫，畫面中間是一扇關著的門，沒有人物。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/we-have-to-talk-172370\nhttps://www.merca20.com/?p=99120\nhttps://www.adsoftheworld.com/campaigns/the-first-meeting\nhttps://ascentialcdn.filespin.io/api/v1/storyboard/ea2bf12f199a4e52ac4d486e93c50bec/storyboard_000002.jpg",
+  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜影片類銅獅 Film Bronze Lion｜代理商：BBDO MEXICO\n\n【背景】Pedigree 在墨西哥的領養活動以品牌平台「Quién salva a quién」（Who saves who）為主軸，由 BBDO México 製作；Mars Petcare 在墨西哥自 2008 年推出 Pedigree ADÓPTAME 領養計畫。\n\n【點子】官方資料只確認《We Have to Talk》是 BBDO México 為 Mars 製作的 2014 年影片。影片劇情、旁白與字幕都沒有找到可靠的文字來源（YouTube 擋爬蟲、官方卡片頁沒有內文），因此無法寫出點子與執行。\n\n【執行】取得的唯一畫面是影片的分鏡格：一間燈光昏黃、牆面貼著花紋壁紙的客廳，有扶手椅、沙發、檯燈與牆上的掛畫，畫面中間是一扇關著的門，沒有人物。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/we-have-to-talk-172370\nhttps://www.merca20.com/?p=99120\nhttps://ascentialcdn.filespin.io/api/v1/storyboard/ea2bf12f199a4e52ac4d486e93c50bec/storyboard_000002.jpg",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片類, Film, 銅獅, Bronze Lion, Pedigree, 寶路, 狗糧, 寵物食品, 寵物, 狗, 領養, 墨西哥, Mexico, BBDO, BBDO Mexico, BBDO Mexico City, Mars, Mars Petcare, 品牌影片, 客廳, 沙發, 室內場景, We Have to Talk, Who saves who, Quién salva a quién, Pedigree ADÓPTAME",
   "category": "行銷案例",
   "references": [
    "https://www.lovethework.com/en/work/entries/we-have-to-talk-172370",
-   "https://www.merca20.com/?p=99120",
-   "https://www.adsoftheworld.com/campaigns/the-first-meeting"
+   "https://www.merca20.com/?p=99120"
   ],
   "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/ea2bf12f199a4e52ac4d486e93c50bec/storyboard_000002.jpg",
   "image_shows": "影片分鏡格：燈光昏黃的客廳，有扶手椅、沙發與掛畫，中間一扇關著的門，沒有人物",
   "text_source_level": 0,
   "uncertain": true,
   "needs_audio": false,
-  "note": "已搜爭議：Pedigree BBDO Mexico We Have to Talk controversy／scam／fake，未發現相關指控（搜尋只找到不相關的別支 Pedigree 作品，未寫入）。uncertain：找不到這支影片的任何文字說明（YouTube 回驗證頁、lovethework 卡片只有 metadata、搜尋找不到該片介紹），劇情完全無法描述；圖為官方 storyboard 的一格客廳畫面，看不出點子。缺：影片內容（需要本機看片或 whisper 轉寫字幕）。該片是否屬於 Adoption Drive（07109 同為 BBDO Mexico 的 Pedigree 領養）亦未能確認，請驗收員判斷是否同一個活動。"
+  "note": "已搜爭議：Pedigree BBDO Mexico We Have to Talk controversy／scam／fake，未發現相關指控（搜尋只找到不相關的別支 Pedigree 作品，未寫入）。uncertain：找不到這支影片的任何文字說明（YouTube 回驗證頁、lovethework 卡片只有 metadata、搜尋找不到該片介紹），劇情完全無法描述；圖為官方 storyboard 的一格客廳畫面，看不出點子。缺：影片內容（需要本機看片或 whisper 轉寫字幕）。該片是否屬於 Adoption Drive（07109 同為 BBDO Mexico 的 Pedigree 領養）亦未能確認，請驗收員判斷是否同一個活動。 2026-11-14 Opus 驗：移除 Ads of the World「The first meeting」來源：開頁確認是 2016 年 Proximity BBDO 的別支影片，與本件無關。YouTube oEmbed 確認 bbdoworldwide 頻道有「Pedigree - We Have to Talk (BBDO Mexico)」，但無法看片，仍缺劇情。重複判斷：merca20 只把 Adoption Drive 列為戶外三件（Matilda、Solitario、Viejitos），沒提影片；本件是影片類、07109 是戶外類，沒有證據是同一點子，暫判不重複，待本機看片確認。"
  }
 ]
