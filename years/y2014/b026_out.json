@@ -1,0 +1,427 @@
+[
+ {
+  "id": "ltwm-06856",
+  "year": 2014,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "GOOGLE NIGHT WALK",
+  "brand": "GOOGLE",
+  "agency": "72ANDSUNNY LOS ANGELES",
+  "links": [
+   "https://adsspot.me/media/case-study/google-google-night-walk-3cf662fb6ae8"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Cyber",
+    "subcategory": "Storytelling",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Interface & Navigation",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "Google 把法國馬賽的夜間街景，做成有聲導覽網站，使用者逐點走過街區，聽在地人解說，熱點跳出影片與照片",
+  "brand_display": "Google",
+  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜Cyber類銀獅 Cyber Silver Lion、Cyber類銅獅 Cyber Bronze Lion｜代理商：72ANDSUNNY Los Angeles, CA / 72ANDSUNNY Amsterdam / GOOGLE CREATIVE LAB London\n\n【背景】Google 想把「Google Stories」這類說故事專案再往前推一步，這次的主題是馬賽夜晚的街區。案例板說，這是 Google 第一個夜間街景體驗，做法是把影片和有聲導覽的街頭漫遊結合起來。\n\n【點子】Google 與 72andSunny 把在地人 Julie de Muer 的有聲散步（audio walk）搬進街景：片子拍完，線上體驗才開始，世界各地的人可以在夜裡逛馬賽的街。\n\n【執行】作品的中心是馬賽 Cours Julien 街區。團隊先拍了一支 90 秒的短片，介紹 Julie de Muer 的有聲散步，再把她最受歡迎的一條路線做成網站。網站用數百張高解析度環景照片組成，使用者可以跟著在地導覽員走，也可以照自己的順序逛街巷。導覽員 Julie 與 Christophe Perruchi 在路上講解景點的來歷；有些熱點會跳出嵌入的 YouTube 影片，介紹街頭藝術家與居民，也有維基百科摘錄與照片集。左下角有小地圖，可以展開後直接點路線跳到後面的位置。背景資料來自 Google Knowledge Graph，網站跑在 Google App Engine 上；手機版用到 Places API 載入在地資訊，並用手機的陀螺儀（gyroscope）轉動畫面。這條路線改編自 Christophe Perruchi 原本的有聲散步《Promenade Sonore #16》（篇名 Le Souffleur）。\n\n資料來源：\nhttps://thenextweb.com/news/google-night-walk-immersive-tour-marseille-street-view-photos-audio-guide\nhttps://laughingsquid.com/google-night-walk-an-immersive-and-interactive-trip-through-a-beautiful-neighborhood-in-marseille-france/\nhttps://www.engadget.com/2014/04/04/marseille-google-night-walk/\nhttps://www.lovethework.com/en/work/entries/google-night-walk-88549",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 銀獅, Silver Lion, 銅獅, Bronze Lion, 說故事類, Storytelling, 介面與導覽類, Interface & Navigation, Google, 72andSunny, 72ANDSUNNY Amsterdam, Google Creative Lab, 科技, 地圖, 街景, Street View, 夜間街景, ⭐互動網頁, 網站, 有聲導覽, Audio Guide, Audio Walk, 紀錄短片, 環景照片, Photosphere, 手機陀螺儀, Gyroscope, 說故事, Storytelling, 馬賽, Marseille, Cours Julien, 法國, France, 街頭藝術, 在地人導覽",
+  "category": "行銷案例",
+  "references": [
+   "https://thenextweb.com/news/google-night-walk-immersive-tour-marseille-street-view-photos-audio-guide",
+   "https://laughingsquid.com/google-night-walk-an-immersive-and-interactive-trip-through-a-beautiful-neighborhood-in-marseille-france/",
+   "https://www.engadget.com/2014/04/04/marseille-google-night-walk/",
+   "https://www.lovethework.com/en/work/entries/google-night-walk-88549"
+  ],
+  "image_url": "ltwm-06856_img",
+  "image_shows": "官方案例板：左側文字說明夜間街景體驗，中間是背著背包的導覽員站在海邊欄杆旁、馬賽夜景的網站畫面與手機版畫面，標題為 Night Walk in Marseille",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方卡片頁只有基本資料；讀稿依官方案例板文字與 The Next Web、Laughing Squid、Engadget 整理，案例板上的成效數字不採用。已搜爭議：搜「Google Night Walk Marseille controversy criticism fake plagiarism」，沒有造假、抄襲或撤獎紀錄；只有 Laughing Squid 說明作品改編自 Perruchi 既有的有聲散步，屬已公開的來源，不是指控。導覽員姓名拼法各來源略有不同（Julie de Muer／Julie de Moor）。"
+ },
+ {
+  "id": "ltwm-06964",
+  "year": 2014,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "WHY BRING A CHILD INTO THIS WORLD?",
+  "brand": "UNILEVER",
+  "agency": "DAVID BUENOS AIRES",
+  "links": [
+   "https://www.youtube.com/watch?v=qzKkQDYANC4&ab_channel=DavidTheAgency"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Media",
+    "subcategory": "Corporate Image & Information",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "PR",
+    "subcategory": "Corporate Reputation & Communication",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Branded Content & Entertainment",
+    "subcategory": "Non-Fiction: Film",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "聯合利華邀名導演 Errol Morris，訪問準爸媽擔不擔心孩子的未來，再讓他們看一部兼有絕望與希望的片，拍下反應",
+  "brand_display": "聯合利華 Unilever",
+  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜媒體類銀獅 Media Silver Lion、Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion、公關類銅獅 PR Bronze Lion｜代理商：DAVID Buenos Aires\n\n【背景】聯合利華（Unilever）推出全球永續生活計畫 Project Sunlight，需要一支能讓人停下來思考的影片。\n\n【點子】影片直接丟出一個沉重的問題：「為什麼要把孩子帶到這個世界上？」（Why bring a child into this world?）。不是旁白自問自答，而是去問真正要當父母的人。\n\n【執行】這支約四分鐘的影片是「片中片」：導演 Errol Morris 找來各地的準爸媽，請他們談對孩子將繼承什麼樣的世界有什麼期待與恐懼。接著這些準爸媽坐下來看一部電影，片中把暴力、絕望的畫面和對未來的正面訊息放在一起，鏡頭記錄他們看片時的反應。背景音樂是用鋼琴翻奏的 Pixies 歌曲《Where Is My Mind?》。影片由 DAVID Buenos Aires 與 Ogilvy 南美團隊製作，這個團隊也做過 Dove 的「Real Beauty Sketches」。\n\n資料來源：\nhttps://www.adweek.com/creativity/emotionally-charged-ad-asks-why-bring-child-world-154011/\nhttps://mashbiz.blogspot.com/2013/12/emotionally-charged-ad-asks-why-bring.html",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 媒體類, Media, 銀獅, Silver Lion, 銅獅, Bronze Lion, 公關類, PR, Branded Content & Entertainment, 品牌內容與娛樂類, 企業形象與資訊類, Corporate Image & Information, 企業聲譽類, Corporate Reputation & Communication, 非虛構影片類, Non-Fiction: Film, 聯合利華, Unilever, DAVID Buenos Aires, DAVID, Ogilvy, 日用消費品, 永續, Sustainability, Project Sunlight, 永續生活, 影片, 品牌影片, 紀錄片風格, 片中片, Film within a Film, 準爸媽, 父母, 孩子, 未來, 希望, 情緒, 感動, Errol Morris, 訪談, 阿根廷, Argentina",
+  "category": "行銷案例",
+  "references": [
+   "https://www.adweek.com/creativity/emotionally-charged-ad-asks-why-bring-child-world-154011/",
+   "https://mashbiz.blogspot.com/2013/12/emotionally-charged-ad-asks-why-bring.html"
+  ],
+  "image_url": "https://i.ytimg.com/vi/qzKkQDYANC4/maxresdefault.jpg",
+  "image_shows": "影片截圖：一男一女並肩坐在明亮的室內受訪，男士正在說話，女士用手按著臉頰",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方卡片頁沒有內文，YouTube 與 Cannes 其他頁面連不上；讀稿依 Adweek 與 MashBiz 的報導整理。官方案例板沒有可用的圖，圖用官方 YouTube 影片截圖，只看得出受訪情境，看不出點子，建議之後換圖。已搜爭議：搜「Unilever Why bring a child into this world controversy」，Adweek AgencySpy 有評論質疑 Project Sunlight 是否為「漂綠」（greenwashing），並引用印尼棕櫚油種植園的人權報告，屬對品牌動機的一般評論、不是針對作品造假或撤獎，依規則只寫 note、讀稿未寫【爭議】，由驗收員確認。Adweek 稱 Ogilvy 南美團隊，其他來源稱 Ogilvy London，團隊說法不一，讀稿只寫 DAVID Buenos Aires（官方代理商）與 Adweek 的說法。AgencySpy 頁面為評論文章，已開啟但讀稿未引用。"
+ },
+ {
+  "id": "ltwm-06867",
+  "year": 2014,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "GOODBYE SERIOUS",
+  "brand": "UNILEVER WALLS",
+  "agency": "DDB LATINA PUERTO RICO",
+  "links": [
+   "https://www.behance.net/gallery/21095977/Goodbye-Serious-Unilever-Walls"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Press",
+    "subcategory": "Sweet Foods & Snacks",
+    "count": 1,
+    "source_count": 3
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "波多黎各冰品 Wall's 把冰棒包裝紙畫成超速罰單，用煩人的公文對比吃冰的輕鬆，棒子刻著「Goodbye Serious」",
+  "brand_display": "Wall's（聯合利華波多黎各）",
+  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜Press類銀獅 Press Silver Lion｜代理商：DDB LATINA PUERTO RICO San Juan\n\n【背景】Wall's 要在波多黎各推出冰品。品牌在這個市場的主張是「Goodbye Serious」（跟嚴肅說再見），也就是把人從緊繃的時刻拉出來。\n\n【點子】官方報名的三則作品是 TICKET、LOAN、JURY。One Show 的說明寫到，這組平面廣告把冰品放進最讓人緊張的情境，例如收到罰單、申請房貸、被通知去當陪審員，目標是「把嚴肅從那個當下拿掉」（Take the serious out of the moment）。廣告投放在新聞報紙小空間、戶外與現場媒體，每一則放在最貼近那種情境的地方。\n\n【執行】案例板上的 TICKET 這一則：米色背景中央放一支剝開一半的巧克力冰棒，包裝紙被畫成「TRAFFIC-TICKET」，抬頭是波多黎各公路巡警（Puerto Rico Highway Patrol），手寫欄位填著「168 mph on a 55 mph zone」（時速 55 英里的路段開到 168 英里）、罰款 511 美元，連駕駛姓名、車牌和違規條文都寫得像真的罰單。木棒上刻著「Goodbye Serious」，右下角是 Wall's 標誌。LOAN 與 JURY 兩則的畫面我沒有看到，只知道它們對應房貸申請與陪審義務。\n\n資料來源：\nhttps://www.oneclub.org/awards/theoneshow/-award/22683/ticket\nhttps://www.adsoftheworld.com/campaigns/goodbye-serious",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Press類, Press, 銀獅, Silver Lion, 甜食與點心類, Sweet Foods & Snacks, Wall's, 聯合利華, Unilever, Unilever de Puerto Rico, DDB Latina Puerto Rico, DDB, 食品, 冰淇淋, 冰棒, Ice Cream, 甜點, ⭐平面廣告, 報紙廣告, 小空間廣告, ⭐包裝造型, 包裝紙, 罰單, Traffic Ticket, 房貸, Loan, 陪審團, Jury, 公文, 幽默, 對比, 情緒, 放鬆, Goodbye Serious, 波多黎各, Puerto Rico",
+  "category": "行銷案例",
+  "references": [
+   "https://www.oneclub.org/awards/theoneshow/-award/22683/ticket",
+   "https://www.adsoftheworld.com/campaigns/goodbye-serious"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/1957df6089214aa88a9d4d3d15a081ff",
+  "image_shows": "作品畫面：一支剝開一半的巧克力冰棒，粉紅色包裝紙印成波多黎各公路巡警的「TRAFFIC-TICKET」罰單，木棒上刻著 Goodbye Serious",
+  "text_source_level": 2,
+  "uncertain": true,
+  "needs_audio": false,
+  "note": "官方作品名為 JURY、LOAN、TICKET 三則，合成一筆。官方案例板只有 TICKET 一則的畫面；LOAN 與 JURY 找不到畫面或逐則說明，讀稿只引 One Show 對整組的說明，所以標 uncertain。Behance、TrendHunter、Ads of the World 其他頁面連不上或沒有說明。Ads of the World 與 afaqs 的刊登日期不一致（2014 年 4 月／6 月 2 日），讀稿未寫日期。另有同名「Goodbye Serious」的英國版（Adam & Eve DDB，2013），不是這件。已搜爭議：搜「Wall's Goodbye Serious Puerto Rico controversy plagiarism fake spec」，沒有找到爭議、抄襲或撤獎紀錄。"
+ },
+ {
+  "id": "ltwm-06866",
+  "year": 2014,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "IFC PRESENTS THE SPOILS OF BABYLON",
+  "brand": "IFC NETWORK",
+  "agency": "FALLON MINNEAPOLIS",
+  "links": [
+   "https://adsspot.me/media/case-study/ifc-network-ifc-presents-the-spoils-of-babylon-237d90c7f379"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Media",
+    "subcategory": "Publications & Media",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Media",
+    "subcategory": "Use of Integrated Media",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "美國電視台 IFC 替喜劇影集宣傳，虛構一位作家與他的暢銷小說，書店架上永遠賣光，作家還上網寫書評、替每集發推文",
+  "brand_display": "IFC",
+  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜媒體類銀獅 Media Silver Lion、媒體類銅獅 Media Bronze Lion｜代理商：FALLON Minneapolis / IFC New York City, NY\n\n【背景】IFC 要推出迷你影集《The Spoils of Babylon》。影集假裝改編自傳奇小說作家 Eric Jonrosh 的作品，這位作家其實是虛構人物，由 Will Ferrell 飾演。案例板寫明挑戰：宣傳時不能提到 Will Ferrell 參與。\n\n【點子】用「方法演技式行銷」（Method Marketing）：讓這部影集和 Eric Jonrosh 這個人都看起來「是真的」。\n\n【執行】Fallon 在現實世界做了一整套假象。小說放上書架「發售」，卻永遠賣光；Adweek 報導指出，它在 Hudson News 書店看起來全美缺貨，其實從來沒有印過。Jonrosh 以作家身分寫了別的「書改電影」作品的書評，貼在網路上，也放進印有影集名稱的「小小免費圖書館」（Little Free Libraries，社區街角的小書屋）。報紙小空間廣告宣傳這本書，一支舊的「幕後花絮」紀錄片被重新翻出來，播出時 Jonrosh 本人還逐集即時發推文。\n\n資料來源：\nhttps://www.adweek.com/creativity/strange-ads-promote-author-who-isnt-real-and-book-doesnt-exist-153841/\nhttps://www.unblock.coffee/campaign/ifc-presents-the-spoils-of-babylon/",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 媒體類, Media, 銀獅, Silver Lion, 銅獅, Bronze Lion, 出版與媒體類, Publications & Media, 整合媒體類, Use of Integrated Media, IFC, IFC Network, Fallon, FALLON Minneapolis, 電視, 影集, 迷你影集, 喜劇, Will Ferrell, Funny or Die, 虛構作家, Eric Jonrosh, 假小說, Fake Book, 方法行銷, Method Marketing, ⭐小小免費圖書館, Little Free Library, 書店, Hudson News, 書評, 平面廣告, 社群, Twitter, 推特, 惡搞, 戲仿, 美國, United States",
+  "category": "行銷案例",
+  "references": [
+   "https://www.adweek.com/creativity/strange-ads-promote-author-who-isnt-real-and-book-doesnt-exist-153841/",
+   "https://www.unblock.coffee/campaign/ifc-presents-the-spoils-of-babylon/"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/b9cd8c883d5c4e4f83c2fdea16ee3b5a",
+  "image_shows": "官方案例板：上方是《The Spoils of Babylon》復古電影海報，中間三段文字說明挑戰、點子與做法，周圍是書架、小書屋、網路書店等拍立得照片",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方案例板整理；Adweek 頁面為付費牆摘錄，只確認虛構作家、書沒有印過、Hudson News 看似缺貨。unblock.coffee 頁面只有基本資料（Fallon、自我宣傳類）。案例板上的收視成效不採用。官方獎項兩個作品名不同（銀獅為 IFC PRESENTS THE SPOILS OF BABYLON，銅獅為 THE SPOILS OF BABYLON PREMIERE），視為同一場行動合成一筆。已搜爭議：搜「IFC Spoils of Babylon campaign Fallon controversy fake withdrawn」，沒有造假、抄襲或撤獎紀錄（虛構作家是公開的宣傳手法）。"
+ },
+ {
+  "id": "ltwm-06855",
+  "year": 2014,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "GOOGLE ‘REUNION’",
+  "brand": "GOOGLE",
+  "agency": "OGILVY MUMBAI",
+  "links": [
+   "https://www2.spikes.asia/winners/2014/film/entry.cfm?entryid=4933&award=4"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "PR",
+    "subcategory": "Brand voice (incl. strategic storytelling)",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "PR",
+    "subcategory": "Technology & Manufacturing",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "Google 印度拍了一支短片，孫女用 Google 搜尋，幫 1947 年印巴分治後失散的爺爺，找到巴基斯坦的兒時好友",
+  "brand_display": "Google 印度",
+  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜公關類銀獅 PR Silver Lion、公關類銅獅 PR Bronze Lion｜代理商：OGILVY & MATHER INDIA Mumbai\n\n【背景】案例板寫到，1947 年印巴分治讓許多朋友與家庭分離，超過 1450 萬人一夜之間流離失所，六十年後那份痛仍然新鮮。\n\n【洞察】案例板的簡報寫著：印度人用 Google 查知識，卻很少把它用在日常的小事上。\n\n【點子】Google 把產品的功能織進一個溫暖的故事：被印巴分治拆散的兩位老朋友，如何重逢。\n\n【執行】Ogilvy & Mather India 與 Chrome Pictures 製作了這支影片，導演是 Amit Sharma。故事裡，住在德里的老先生 Baldev 給孫女 Suman 看一張舊照片，照片裡是他和兒時好友 Yusuf，Yusuf 是來自拉合爾（Lahore）的穆斯林男孩，分治時 Baldev 一家連夜離開。Suman 用 Google 搜尋，找到 Yusuf 在拉合爾開的甜點店，聯絡上他的孫子 Ali，兩人安排在 Baldev 生日那天給爺爺一個驚喜。影片主要在德里拍攝，拉合爾的場景很短。\n\n【爭議】Wikipedia 指出，這支廣告的點子與故事「可能受到」Taha Kirmani 2012 年短片《Respect》的啟發，Kirmani 後來在 2013 年做了一支影片比較兩者。文章沒有提到任何正式的抄襲認定。\n\n資料來源：\nhttps://en.wikipedia.org/wiki/Reunion_(advertisement)\nhttps://www2.spikes.asia/winners/2014/film/entry.cfm?entryid=4933&award=4",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 公關類, PR, 銀獅, Silver Lion, 銅獅, Bronze Lion, 品牌聲音類, Brand Voice, 策略性說故事, Strategic Storytelling, 科技與製造類, Technology & Manufacturing, Google, Google India, Google Search, 搜尋, 搜尋引擎, OGILVY & MATHER INDIA, Ogilvy & Mather, Ogilvy Mumbai, 科技, 網路, ⭐影片, 品牌影片, 微電影, 說故事, Storytelling, 印巴分治, Partition, 重逢, Reunion, 友情, 祖孫, 老人, 孫女, 甜點店, 拉合爾, Lahore, 德里, Delhi, 情緒, 感動, 印度, India, 巴基斯坦, Pakistan",
+  "category": "行銷案例",
+  "references": [
+   "https://en.wikipedia.org/wiki/Reunion_(advertisement)",
+   "https://www2.spikes.asia/winners/2014/film/entry.cfm?entryid=4933&award=4"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/09ed04baf8614f438edabc4c16bc8457",
+  "image_shows": "官方案例板：兩位老先生面對面側臉的劇照，上方大字寫著影片的訊息，下方是簡報文字與社群媒體畫面",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方案例卡頁沒有內文；讀稿依官方案例板的 Brief／Background／Idea 文字、Wikipedia 與 Spikes Asia 整理。案例板上的成效、簽證與請願等數字不採用。已搜爭議：搜「Google Reunion Ogilvy India film controversy」，找到 Wikipedia 記載的 Taha Kirmani《Respect》靈感爭議，依規則加【爭議】段；文中沒有正式抄襲認定。Wikipedia 另載有《華盛頓郵報》評論「有點甜膩」，屬一般評論未寫入。Spikes Asia 頁面只確認影片大意。"
+ },
+ {
+  "id": "ltwm-07051",
+  "year": 2014,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "FRONT ROW",
+  "brand": "GOOGLE",
+  "agency": "ADAM&EVE + DDB LONDON",
+  "links": [
+   "https://www.youtube.com/watch?v=FqHe3HZLSFw&ab_channel=DDBWorldwide"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Bronze",
+    "category": "Outdoor",
+    "subcategory": "Digital Screens",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Promo & Activation",
+    "subcategory": "Use of Social Platform(s) in a Promotional Campaign",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "曼聯與 Google+ 把球場邊的電子看板，變成全球球迷的虛擬第一排，球迷透過視訊聊天，在比賽當下被投到看板上加油",
+  "brand_display": "Google+（曼聯）",
+  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜戶外類銅獅 Outdoor Bronze Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：ADAM&EVEDDB London\n\n【背景】案例板寫到，曼聯在全球有 6.5 億球迷，是世界上支持者最多的球隊，但住在英國的不到 1%。Google+ 的任務是幫海外球迷用更有參與感的方式，跟自己的球隊連結。\n\n【點子】讓老特拉福球場（Old Trafford）場邊的電子看板舉辦全球第一場大規模的 Google+ 視訊聊天（Hangout），球迷在比賽進行當下，從世界各地坐進「虛擬第一排」替曼聯加油。\n\n【執行】活動針對 2014 年 3 月 16 日曼聯對利物浦的比賽。報名方式是在 Google+ 貼一張照片並加上 #MUFrontRow，主辦單位從中挑出幾位球迷。案例板列出流程：先放預告影片，再放徵人影片，接著是球迷的投稿，最後是比賽日的現場聊天。比賽當天，被選上的球迷以視訊聊天的畫面，即時顯示在場邊的看板上，進場的觀眾和電視前看 Sky Sports 的觀眾都看得到。案例板上的畫面是場邊看板被一格一格的球迷臉孔填滿。\n\n資料來源：\nhttps://thenextweb.com/news/manchester-united-fans-are-getting-a-shot-to-be-at-a-match-via-a-live-google-hangout\nhttps://www.skysports.com/football/news/9201220/united-go-global",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 戶外類, Outdoor, 銅獅, Bronze Lion, 數位螢幕類, Digital Screens, Promo & Activation類, Promo & Activation, 社群平台應用類, Use of Social Platform(s) in a Promotional Campaign, Google+, Google, 曼聯, Manchester United, 曼徹斯特聯, ADAM&EVEDDB, adam&eveDDB, 運動, 足球, 英超, 球迷, ⭐電子看板, Digital Hoardings, 場邊看板, 數位戶外, 視訊聊天, Google+ Hangout, Hangout, 社群, 即時直播, 虛擬第一排, Front Row, 老特拉福, Old Trafford, 英國, United Kingdom, 全球球迷",
+  "category": "行銷案例",
+  "references": [
+   "https://thenextweb.com/news/manchester-united-fans-are-getting-a-shot-to-be-at-a-match-via-a-live-google-hangout",
+   "https://www.skysports.com/football/news/9201220/united-go-global"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/43768a2cd49c4a548cf8486d62fbf579",
+  "image_shows": "官方案例板：曼聯與 Google+ 標誌，中間是場邊電子看板被球迷臉孔填滿的特寫，右側是比賽畫面，下方是預告、徵人、球迷投稿與現場聊天四步驟",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方卡片頁沒有內文；讀稿依官方案例板文字、The Next Web 與 Sky Sports 整理，案例板上的成效數字不採用。The Drum、LBB、Shots 等頁面連不上（403／503）。已搜爭議：搜「Google Front Row Manchester United Hangout hoardings criticism controversy fake withdrawn」，沒有爭議、造假或撤獎紀錄。選上的人數各來源未說明，讀稿未寫。"
+ },
+ {
+  "id": "ltwm-07022",
+  "year": 2014,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "CODER",
+  "brand": "GOOGLE",
+  "agency": "GOOGLE CREATIVE LAB NEW YORK",
+  "links": [
+   "https://adsspot.me/media/case-study/google-coder-1e29003b5de0"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Innovative Use of Technology",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "Google 創意實驗室把樹莓派（Raspberry Pi）小電腦變成迷你網站伺服器，裝上 Coder 軟體，孩子在瀏覽器裡就能學寫網頁",
+  "brand_display": "Google",
+  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：GOOGLE CREATIVE LAB New York\n\n【背景】Coder 的創作者是 Google 創意實驗室的團隊，其中一位是正在教自己孩子的家長，他想要一個讓初學者學網頁程式的簡單方法。\n\n【點子】做一個開源（open source）工具，把一片便宜的樹莓派小電腦，變成小型的個人網站伺服器，同時是網頁版的開發環境，用來寫 HTML、CSS 與 JavaScript。\n\n【執行】Coder 以 SD 卡映像檔（image）的形式提供，使用者把映像檔寫進 SD 卡、插進樹莓派開機，再從桌上電腦的瀏覽器打開 Coder 的介面，就能在上面試寫網頁。官方定位是給家長和老師用的教學工具，也可以當實驗與做展示的沙盒；程式碼放在 GitHub，歡迎開源與創客社群一起改進。案例板上的照片是一台裝在透明外殼裡的樹莓派，上面貼著「CODER」字樣，旁邊是標著 CODER 的 SD 卡，桌上放著粉筆與白板筆。\n\n資料來源：\nhttps://developers.googleblog.com/en/coder-a-simple-way-to-make-web-stuff-on-raspberry-pi/\nhttps://makezine.com/article/technology/raspberry-pi/googles-coder-teaches-web-basics-with-raspberry-pi",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 銅獅, Bronze Lion, 科技創新應用類, Innovative Use of Technology, Google, Google Creative Lab, 教育, 程式教育, 寫程式, Coding, 網頁開發, Web Development, HTML, CSS, JavaScript, 開源, Open Source, 樹莓派, Raspberry Pi, ⭐SD卡映像檔, SD Card Image, 小電腦, 迷你伺服器, 家長, 老師, 孩子, 學習, 創客, Maker, 粉筆, 美國, United States",
+  "category": "行銷案例",
+  "references": [
+   "https://developers.googleblog.com/en/coder-a-simple-way-to-make-web-stuff-on-raspberry-pi/",
+   "https://makezine.com/article/technology/raspberry-pi/googles-coder-teaches-web-basics-with-raspberry-pi"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/114d56159e3749838503dc04da8681ea",
+  "image_shows": "官方案例照：木桌上一台裝在透明外殼的樹莓派，板上貼著白色「CODER」字，旁邊有標著 CODER 的藍色 SD 卡、粉筆與一支白板筆",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方卡片頁只有基本資料；讀稿依 Google Developers Blog 與 Make: 的介紹整理，另依案例照描述外觀。案例板沒有文字，只有一張照片，看得出作品形式但看不出教學情境。Google 部落格對安裝步驟寫得很少，讀稿只寫兩篇都有的內容。已搜爭議：搜「Google Coder Raspberry Pi controversy criticism plagiarism withdrawn Cannes Lions」，只找到無關的 2025 年坎城爭議，沒有這件的爭議。"
+ },
+ {
+  "id": "ltwm-07231",
+  "year": 2014,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "UNNUMBERED SPARKS",
+  "brand": "GOOGLE",
+  "agency": "GOOGLE DATA ARTS TEAM & STUDIO ECHELMAN",
+  "links": [
+   "https://www.dandad.org/awards/professional/2015/digital-design/24317/unnumbered-sparks/"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Installation/Exhibit (including use of interactive screens)",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "Google 與藝術家 Janet Echelman，在溫哥華海邊上空掛起纖維大網，觀眾用手機選顏色畫線，筆跡就投影在網上",
+  "brand_display": "Google",
+  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：GOOGLE CREATIVE LAB, DATA ARTS TEAM San Francisco\n\n【背景】2014 年 3 月，TED 大會在溫哥華慶祝成立 30 週年，主辦城市的海邊需要一件讓與會者與市民一起參與的作品。\n\n【點子】Google 創意總監 Aaron Koblin 與藝術家 Janet Echelman 合作，把一件巨大的空中雕塑變成「人人都能控制的畫布」。\n\n【執行】作品飄在溫哥華海邊會議中心附近，由輕質纖維織成，繫在附近一棟高樓的屋頂上，長約 300 英尺（約 90 公尺）。五台高解析度投影機把一個橫跨整張網的 Chrome 瀏覽器視窗投到網上。任何帶著智慧型手機的人，都可以打開手機瀏覽器，選一個顏色，在螢幕上畫出一條路徑；那些筆跡會在雕塑上變成流動的色彩與漣漪。案例板的照片裡，網在夜空中呈現紫與紅的光，下方有人舉起手機對著它拍。\n\n資料來源：\nhttps://thenextweb.com/news/interactive-sculpture-lights-vancouver-sky\nhttps://www.aaronkoblin.com/project/unnumbered-sparks/",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 銅獅, Bronze Lion, 裝置與展覽類, Installation/Exhibit, Google, Google Creative Lab, Google Data Arts Team, Studio Echelman, Janet Echelman, Aaron Koblin, 藝術, 公共藝術, ⭐互動裝置, 裝置藝術, Interactive Installation, ⭐空中雕塑, 纖維網, 懸掛雕塑, 投影, Projection Mapping, 手機互動, Chrome, 瀏覽器, TED, TED2014, 溫哥華, Vancouver, 加拿大, Canada, 夜晚, 燈光, 色彩",
+  "category": "行銷案例",
+  "references": [
+   "https://thenextweb.com/news/interactive-sculpture-lights-vancouver-sky",
+   "https://www.aaronkoblin.com/project/unnumbered-sparks/"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/5a9d93ea8a3c4b4b80308ca19d602a9f",
+  "image_shows": "官方案例照：夜晚的溫哥華海邊，紫紅色光的纖維大網懸在空中，下方有一排人舉起手機",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方卡片頁只有基本資料；讀稿依 The Next Web、Aaron Koblin 個人網站與案例照整理。官方作品名 UNNUMBERED SPARKS，Echelman 自己稱為 Skies Painted with Unnumbered Sparks。網的尺寸與固定在哪棟樓，各來源說法不一，讀稿只寫 The Next Web 的「附近一棟高樓屋頂」與約 300 英尺。官方獎項代理商欄寫 Google Creative Lab Data Arts Team；in 檔 agency 欄另有 Studio Echelman。已搜爭議：搜「Unnumbered Sparks Echelman Google controversy lawsuit credit dispute」，搜尋結果都是無關的 Google 新聞，沒有這件的爭議。"
+ },
+ {
+  "id": "ltwm-06999",
+  "year": 2014,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "BUILD WITH CHROME",
+  "brand": "GOOGLE CHROME & LEGO",
+  "agency": "NORTH KINGDOM SKELLEFTEA",
+  "links": [
+   "https://www2.eurobest.com/winners/2014/interactive/entry.cfm?entryid=1160&award=3"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Web Service/App",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "Google 與樂高做了網頁版虛擬積木工具，使用者選地圖上任一地點，用積木蓋東西，還有教學學院教人當積木大師",
+  "brand_display": "Google Chrome 與樂高 LEGO",
+  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：NORTH KINGDOM Skelleftea\n\n【背景】Build with Chrome 搭配《樂高玩電影》（The LEGO Movie）上映的時機，是 Google Chrome 與樂高合作的瀏覽器應用。它一開始是 Chrome 的實驗專案，後來開放給所有人。\n\n【點子】案例板這樣定義它：一個瀏覽器上的工具與社群平台，讓你在世界上任何地方，用虛擬樂高積木蓋東西，桌機、手機、平板都能用。\n\n【執行】使用者放大地圖上選定的地點，就會看到一塊虛擬底板，在上面用鍵盤和滑鼠取積木、堆疊作品。作品會放在 Google 地圖上，可以逛別人在附近蓋的東西，也可以透過 Google+ 分享、按 +1，作品旁會顯示建造者與位置。團隊另外做了「積木學院」（Build Academy），由《樂高玩電影》的角色擔任教練，用一系列短教學與挑戰，帶使用者學會操作與積木技巧，成為「積木大師」；完成挑戰會解鎖更多種類的積木。需要支援 WebGL 的瀏覽器才能使用。\n\n資料來源：\nhttps://9to5google.com/2014/01/28/googles-build-with-chrome-is-a-minecraft-like-virtual-lego-builder-in-the-browser/\nhttps://newatlas.com/build-with-chrome-lego-google/30652/",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 銅獅, Bronze Lion, 網路服務與應用程式類, Web Service/App, Google, Google Chrome, Chrome, 樂高, LEGO, NORTH KINGDOM, 玩具, 科技, ⭐互動網頁, 網站, 瀏覽器應用, WebGL, 3D, 積木, Bricks, 虛擬積木, 遊戲, 創作, 社群, Google+, 地圖, Google Maps, 樂高玩電影, The LEGO Movie, Build Academy, 教學, 瑞典, Sweden",
+  "category": "行銷案例",
+  "references": [
+   "https://9to5google.com/2014/01/28/googles-build-with-chrome-is-a-minecraft-like-virtual-lego-builder-in-the-browser/",
+   "https://newatlas.com/build-with-chrome-lego-google/30652/"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/14b6d73d018c4a4e97988a047191f216",
+  "image_shows": "官方案例板：背景是用樂高積木拼成的世界地圖，上方標題 chrome × LEGO build，下方是三台平板與一支手機的操作畫面與說明",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方卡片頁只有基本資料；讀稿依官方案例板與 9to5Google、New Atlas 整理，案例板上的建造數量等成效不採用。官方代理商為 NORTH KINGDOM，in 檔另有 Chrome 於 2012 年在澳洲先推出的說法，各來源對最初開發團隊說法不一，讀稿只寫「一開始是 Chrome 實驗專案」。已搜爭議：搜「Build with Chrome LEGO controversy fake criticism plagiarism withdrawn Cannes」，沒有爭議、造假或撤獎紀錄。"
+ },
+ {
+  "id": "ltwm-07064",
+  "year": 2014,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "GOOGLE OUTSIDE",
+  "brand": "GOOGLE",
+  "agency": "R/GA LONDON",
+  "links": [
+   "https://www.rga.com/work/case-studies/google-outside"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Bronze",
+    "category": "Cyber",
+    "subcategory": "Digital Billboard",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "Google 讓倫敦 160 面戶外螢幕「知道自己在哪」，依地點、時段、天氣自動顯示搜尋結果，例如附近咖啡店與電影院",
+  "brand_display": "Google 英國",
+  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：R/GA London / GOOGLE UK London\n\n【背景】案例板寫到，搜尋已經是生活中太自然的一部分，人們反而忘了它的神奇。Google Outside 想用完全出乎意料的方式，提醒人們這件事。\n\n【點子】讓街上的戶外螢幕自己會「搜尋」：每一面螢幕都獨一無二、聰明，並且知道自己所處的情境。\n\n【執行】這是在倫敦進行、為期一個月的試行，約 160 面數位螢幕設在公車站與地鐵站（Engage 與 Campaign 的報導寫 100 個公車站、60 個地鐵站），播放約 3,000 則依情境變化的訊息。每面螢幕依自己的位置、時間、天氣調整內容：案例板舉例，星期三早上 8:30 會顯示附近哪裡買咖啡，星期五晚上 6:15 會顯示最近電影院的場次，星期六下午一點顯示附近的購物選擇，晴天午休時指向附近公園、步行五分鐘可到，星期六晚上在 Camden Town 則標出附近的現場演出。螢幕也會回答像「倫敦眼多高？」這種問題，畫面寫著 135 公尺。下雨時螢幕會改推室內活動，地鐵誤點時用內建的路線規劃建議別的走法。Google 對試行的說法是，希望螢幕能預期人們的需求、讓生活更輕鬆。\n\n資料來源：\nhttps://www.thedrum.com/news/2013/11/06/google-takes-streets-london-google-outside-pilot\nhttps://www.engageweb.co.uk/blog/google-trials-outdoor-search-facility\nhttps://www.campaignindia.in/article/google-brings-search-outdoors-in-london-pilot/419805",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 銅獅, Bronze Lion, 數位看板類, Digital Billboard, Google, Google UK, Google Search, 搜尋, R/GA, R/GA London, 科技, ⭐數位戶外看板, Digital Out of Home, DOOH, 公車站, 地鐵站, Clear Channel, 情境式廣告, Contextual, 即時資訊, 天氣, 在地資訊, 地點, 路線規劃, 倫敦, London, 倫敦眼, 英國, United Kingdom",
+  "category": "行銷案例",
+  "references": [
+   "https://www.thedrum.com/news/2013/11/06/google-takes-streets-london-google-outside-pilot",
+   "https://www.engageweb.co.uk/blog/google-trials-outdoor-search-facility",
+   "https://www.campaignindia.in/article/google-brings-search-outdoors-in-london-pilot/419805"
+  ],
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/f015ed224aff4a30882012932a60ddac",
+  "image_shows": "官方案例板：公車站電子看板顯示 Google 搜尋畫面，問「倫敦眼多高？」答案 135m，背景是夜晚的倫敦眼，下方是不同時段與地點的五面螢幕",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方卡片頁只有基本資料；讀稿依官方案例板、The Drum、Engage、Campaign 的報導整理，案例板上的調查與成效數字不採用。The Drum 稱螢幕不能直接互動、內容隨天氣變化，各報導對技術細節說得不多，讀稿未寫。官方作品名 GOOGLE OUTSIDE，與 Cannes 其他卡片中 OMD 的版本同為倫敦試行。已搜爭議：搜「Google Outside London digital screens controversy criticism fake withdrawn Cannes Lions」，沒有這件的爭議、造假或撤獎紀錄。"
+ }
+]
