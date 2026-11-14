@@ -75,7 +75,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方案例卡頁只有基本資料，讀稿依 Claims Journal 新聞稿與 AV Club 整理；lbbonline、Smithsonian 連線被擋（403）未使用。官方報名作品名 FROM ONE SECOND TO THE NEXT 對上。已搜爭議：搜「AT&T From One Second to the Next Herzog controversy fake misleading withdrawn」，沒有爭議紀錄（搜尋摘要提到的觀看數是機構自述，未寫入）。"
+  "note": "官方案例卡頁只有基本資料，讀稿依 Claims Journal 新聞稿與 AV Club 整理；lbbonline、Smithsonian 連線被擋（403）未使用。官方報名作品名 FROM ONE SECOND TO THE NEXT 對上。已搜爭議：搜「AT&T From One Second to the Next Herzog controversy fake misleading withdrawn」，沒有爭議紀錄（搜尋摘要提到的觀看數是機構自述，未寫入）。 2026-11-14 Opus 驗：Claims Journal 連結程式檢查時連線被重設，驗收時重試回 200，保留。"
  },
  {
   "id": "ltwm-06858",
@@ -153,7 +153,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片頁沒有文字；讀稿依 Adweek（付費牆，只讀到開頭）、Campaigns of the World 與 Liam Thinks 的簡短描述整理，片中後段的情節沒有來源，因此只寫看得到、讀得到的部分。Adweek 提到的場景是開頭霸凌，歌詞細節沒讀到，未寫入。Time、Yahoo 與 WP 連線被擋或限流，未使用。已搜爭議：搜「VH1 I Will Survive anti-bullying ad Del Campo Saatchi controversy criticism plagiarism withdrawn」，只有一般評論（HuffPost UK、西語媒體說訊息有點怪、反應兩極，即報復是否妥當），沒有抄襲、撤獎，依規則只寫 note、不寫入讀稿。in 檔 official 的 brand 與卡片頁相同。"
+  "note": "官方卡片頁沒有文字；讀稿依 Adweek（付費牆，只讀到開頭）、Campaigns of the World 與 Liam Thinks 的簡短描述整理，片中後段的情節沒有來源，因此只寫看得到、讀得到的部分。Adweek 提到的場景是開頭霸凌，歌詞細節沒讀到，未寫入。Time、Yahoo 與 WP 連線被擋或限流，未使用。已搜爭議：搜「VH1 I Will Survive anti-bullying ad Del Campo Saatchi controversy criticism plagiarism withdrawn」，只有一般評論（HuffPost UK、西語媒體說訊息有點怪、反應兩極，即報復是否妥當），沒有抄襲、撤獎，依規則只寫 note、不寫入讀稿。in 檔 official 的 brand 與卡片頁相同。 2026-11-14 Opus 驗：事實抽查：重開 Adweek（開頭）、Campaigns of the World、Liam Thinks，開場馬桶與脫褲霸凌、Glee 式歌舞、導演 Agustin Alberdi、書呆子長大當上司後報復，皆相符，通過。"
  },
  {
   "id": "ltwm-06860",
@@ -334,7 +334,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "英國青少年遊民庇護所 Pilion Trust 找人掛「去他的窮人」牌子街頭發傳單，路人罵他；翻面改寫「幫助窮人」募款卻沒人理",
+  "idea_one_liner": "英國青少年遊民庇護所 Pilion Trust 找人掛「去他的窮人」牌子上街發傳單，路人紛紛理論；翻面改寫「幫助窮人」募款卻沒人理",
   "brand_display": "Pilion Trust",
   "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜直效類銀獅 Direct Silver Lion、媒體類銀獅 Media Silver Lion、Promo & Activation類銀獅 Promo & Activation Silver Lion×2、直效類銅獅 Direct Bronze Lion｜代理商：PUBLICIS LONDON\n\n【背景】Pilion Trust 是倫敦一間小型的第一線慈善機構，經營收容無家可歸孩子的庇護所。捐款下滑，他們需要 5 萬英鎊，才能讓庇護所不用關門，但沒有錢做大預算的廣告。機構執行長 Savvas Panas 說，全英國慈善捐款減少了 20%，政府補助被砍了 60%。\n\n【洞察】Publicis 的創意總監 Andy Bird 的說法是：看到不公與偏見時，很多人會站出來反對；但直接請他們做點什麼、也就是捐款時，卻變得冷漠。他們想把這個落差拍出來。\n\n【點子】做一場「社會實驗」：讓一個人掛著寫有「FUCK THE POOR」（去他的窮人）的牌子上街，看路人的反應，再把牌子翻面改成「HELP THE POOR」（幫助窮人）、拿出捐款箱，對照人們的態度與行動。案例板寫，他們只用 500 英鎊，做出一支容易分享、有話題性的募款影片。\n\n【執行】在倫敦街頭偷拍。男子穿螢光黃外套，胸前掛黑底白字的「FUCK THE POOR」牌子，手上拿著印有同樣字樣的傳單。許多路人上前與他爭論；案例板的小圖可以看到有人和他交談、一位戴頭巾的男子露出驚訝的表情，還有一位警察與他說話。接著他把牌子翻面，變成「HELP THE POOR」，並拿出捐款箱邀請路人捐款，據機構說，「這一次人們完全無視他」。案例板另有一張捐款頁面的截圖，寫著「WE KNEW YOU CARED（我們就知道你在乎）」，提供每月捐、單次捐 10 英鎊、自訂金額三個選項。\n\n資料來源：\nhttps://fundraising.co.uk/2014/04/08/poverty-charity-tests-offensive-approach-promote-giving/\nhttps://www.lovethework.com/en/work/entries/fuck-the-poor-157641",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 直效類, Direct, 銀獅, Silver Lion, 銅獅, Bronze Lion, 媒體類, Media, Promo & Activation類, Promo & Activation, 特殊活動與現場廣告, Use of Special Events and Stunt/Live Advertising, 促銷噱頭與現場廣告, 慈善, Charities, 低預算, Best Low Budget Campaign, The Pilion Trust, Pilion Trust, PUBLICIS LONDON, Publicis, 英國, United Kingdom, 倫敦, London, 公益, 募款, 遊民, Homeless, 青少年遊民, 庇護所, 社會實驗, Social Experiment, 街頭實驗, 偷拍, 隱藏攝影機, ⭐舉牌, ⭐看板人, Sandwich Board, 傳單, 捐款箱, 反差, 爭議用語, 震撼, 情緒, 路人反應",
@@ -348,7 +348,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "讀稿依 UK Fundraising 報導與官方案例板整理；Shots、Ads of the World、Business Insider 連線被擋（403／連線中斷）未使用；官方三張卡片頁只打開一張，只有標題。案例板上的成效（觀看、捐款、ROI、媒體聲量）沒有寫入。已搜爭議：搜「Pilion Trust Fuck the Poor fake staged fraud withdrawn controversy」，沒有造假、撤獎紀錄；爭議只在用語冒犯與是否適合作為募款手法，屬一般評論，只寫 note。「偷拍」是來源說法，反應是否經安排來源沒有提到。"
+  "note": "讀稿依 UK Fundraising 報導與官方案例板整理；Shots、Ads of the World、Business Insider 連線被擋（403／連線中斷）未使用；官方三張卡片頁只打開一張，只有標題。案例板上的成效（觀看、捐款、ROI、媒體聲量）沒有寫入。已搜爭議：搜「Pilion Trust Fuck the Poor fake staged fraud withdrawn controversy」，沒有造假、撤獎紀錄；爭議只在用語冒犯與是否適合作為募款手法，屬一般評論，只寫 note。「偷拍」是來源說法，反應是否經安排來源沒有提到。 2026-11-14 Opus 驗：案例板已打開，與讀稿相符；一句話「路人罵他」改成來源說的上前爭論。 UK Fundraising 驗收時回 502（暫時性），5 萬英鎊需求與 500 英鎊預算等已由案例板對上，保留連結。",
+  "idea_one_liner_r0": "英國青少年遊民庇護所 Pilion Trust 找人掛「去他的窮人」牌子街頭發傳單，路人罵他；翻面改寫「幫助窮人」募款卻沒人理"
  },
  {
   "id": "ltwm-06861",
@@ -374,20 +375,21 @@
   "awards_unverified": [],
   "idea_one_liner": "墨西哥 Banamex 銀行與社區發展組織 CDC，用空拍照拍出貧富只隔一排樹，並註明「圖片未經修改」",
   "brand_display": "Banamex／CDC",
-  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜戶外類銀獅 Outdoor Silver Lion｜代理商：PUBLICIS MEXICO Mexico City\n\n【背景】墨西哥社會階層之間的差距很大，卻常常被視而不見。Banamex（墨西哥的銀行）與社區發展組織 CDC（Community Development a.c.）想用一種超現實的方式，把這個不公平呈現出來，引起大家談論，進而「抹去差異」（Erase the Difference）。\n\n【點子】不用文字訴說貧富差距，而是讓兩種生活「並排」出現在同一張真實的空拍照裡。\n\n【執行】海報是同一個街區的空拍照。左邊是密密麻麻的灰色低矮房屋，屋頂堆著水塔與晾曬的衣物；右邊是紅瓦屋頂的大宅，有庭院與草坪；中間隔著一排樹，樹旁是一條窄窄的路，路上有車。照片下方的小字寫著：「THIS IMAGE HAS NOT BEEN MODIFIED. IT'S TIME TO CHANGE THAT.」（這張照片沒有經過修改。是時候改變了。）以及「Erase the difference at www.robertohernandez.com」，旁邊是 CDC 的標誌。\n\n畫面看起來像用 Photoshop 合成的，但義大利媒體 Blitz Quotidiano 報導，創作者保證照片沒有修改，這條把兩種房子分開的「細線」是真實存在的。官方報名的作品名是 HOUSES、LAKE、GARDENS 三件；Blitz 的報導寫有四張照片，本稿只打開案例板上的一張，其餘沒看到。\n\n資料來源：\nhttps://archivio.blitzquotidiano.it/foto-notizie/messico-sinistra-poverta-destra-richezza-pubblicita-contro-diseguanze-1867436\nhttps://www.dandad.org/work/d-ad-awards-archive/erase-the-difference\nhttps://www.lovethework.com/en/work/entries/gardens-163757",
+  "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜戶外類銀獅 Outdoor Silver Lion｜代理商：PUBLICIS MEXICO Mexico City\n\n【背景】墨西哥社會階層之間的差距很大，卻常常被視而不見。Banamex（墨西哥的銀行）與社區發展組織 CDC（Community Development a.c.）想用一種超現實的方式，把這個不公平呈現出來，引起大家談論，進而「抹去差異」（Erase the Difference）。\n\n【點子】不用文字訴說貧富差距，而是讓兩種生活「並排」出現在同一張真實的空拍照裡。\n\n【執行】以 GARDENS 這張為例，海報是同一個街區的空拍照。左邊是密密麻麻的灰色低矮房屋，屋頂堆著水塔與晾曬的衣物；右邊是紅瓦屋頂的大宅，有庭院與草坪；中間隔著一排樹，樹旁是一條窄窄的路，路上有車。照片下方的小字寫著：「THIS IMAGE HAS NOT BEEN MODIFIED. IT'S TIME TO CHANGE THAT.」（這張照片沒有經過修改。是時候改變了。）以及「Erase the difference at www.robertohernandez.com」，旁邊是 CDC 的標誌。\n\n畫面看起來像用 Photoshop 合成的，但義大利媒體 Blitz Quotidiano 報導，創作者保證照片沒有修改，這條把兩種房子分開的「細線」是真實存在的。官方報名的作品是 HOUSES、LAKE、GARDENS 三件。LAKE 的官方圖是一張說明資料（Supporting Material）：墨西哥這類人口眾多的城市都有社會不平等，但因為已經融入日常，乍看不嚴重；Banamex 支持的 CDC 決定用空拍照這種特別的角度把它呈現出來。資料裡列出 Houses、Gardens、Development、Lake 四個地點的 Google Earth 截圖與經緯度座標，讓人自己去查證這些街區真實存在。\n\n資料來源：\nhttps://archivio.blitzquotidiano.it/foto-notizie/messico-sinistra-poverta-destra-richezza-pubblicita-contro-diseguanze-1867436\nhttps://www.dandad.org/work/d-ad-awards-archive/erase-the-difference\nhttps://www.lovethework.com/en/work/entries/gardens-163757\nhttps://www.lovethework.com/en/work/entries/lake-163761",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 戶外類, Outdoor, 銀獅, Silver Lion, 募款與公益訊息, Fundraising Donations & Appeals, Charities, Non-Profit Organisations, Public Awareness Messages, Banamex, BANAMEX, Citibanamex, CDC, Community Development, PUBLICIS MEXICO, Publicis, 墨西哥, Mexico, 銀行, 公益, 社會不平等, 貧富差距, Inequality, 空拍, Aerial Photography, 空拍照, 攝影, ⭐戶外看板, ⭐平面海報, 海報, 看板, 貧民區, 豪宅, 對比, 並排, 未經修改, Not Modified, 紅瓦屋頂, 樹, 超現實, 情緒, 震撼",
   "category": "行銷案例",
   "references": [
    "https://archivio.blitzquotidiano.it/foto-notizie/messico-sinistra-poverta-destra-richezza-pubblicita-contro-diseguanze-1867436",
    "https://www.dandad.org/work/d-ad-awards-archive/erase-the-difference",
-   "https://www.lovethework.com/en/work/entries/gardens-163757"
+   "https://www.lovethework.com/en/work/entries/gardens-163757",
+   "https://www.lovethework.com/en/work/entries/lake-163761"
   ],
   "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/1def480e98474054847b7bf121753ff5",
-  "image_shows": "官方案例圖：同一街區的空拍照，左側灰色密集矮房，右側紅瓦屋頂大宅與草坪，中間一排樹與窄路；下方小字「This image has not been modified」與 CDC 標誌",
+  "image_shows": "GARDENS 官方圖：同一街區的空拍照，左側灰色密集矮房，右側紅瓦屋頂大宅與草坪，中間一排樹與窄路；下方小字「This image has not been modified」與 CDC 標誌",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "in 檔 brand 寫 BANAMEX，官方名單是 BANAMEX/CDC。讀稿依 Blitz Quotidiano（義大利文）、D&AD 作品庫簡介與官方案例板整理；Behance 連線被擋（403）。官方作品名為 HOUSES、LAKE、GARDENS 三件，只看到一張案例板圖（疑為 HOUSES 或系列代表圖，無法確認），LAKE 與 GARDENS 內容沒有來源，未寫入。已搜爭議：搜「Banamex CDC Erase the Difference photos fake photoshop controversy criticism」，沒有造假或撤獎紀錄，只有「看起來像修圖」的觀感，作品本身註明未修改；搜尋摘要的成效未寫入。"
+  "note": "in 檔 brand 寫 BANAMEX，官方名單是 BANAMEX/CDC。讀稿依 Blitz Quotidiano（義大利文）、D&AD 作品庫簡介與官方案例板整理；Behance 連線被擋（403）。官方作品名為 HOUSES、LAKE、GARDENS 三件，只看到一張案例板圖（疑為 HOUSES 或系列代表圖，無法確認），LAKE 與 GARDENS 內容沒有來源，未寫入。已搜爭議：搜「Banamex CDC Erase the Difference photos fake photoshop controversy criticism」，沒有造假或撤獎紀錄，只有「看起來像修圖」的觀感，作品本身註明未修改；搜尋摘要的成效未寫入。 2026-11-14 Opus 驗：案例圖已打開，是 GARDENS 這件（LTW entries/gardens-163757 的 og:image）。另在 LTW 找到 LAKE（entries/lake-163761，頁面品牌 BANAMEX/CDC、代理商 PUBLICIS MEXICO），打開是說明資料與四個地點的 Google Earth 座標，已補進讀稿。事實抽查通過。"
  },
  {
   "id": "ltwm-06852",
@@ -411,7 +413,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "墨西哥 Olay 在水果貼貼紙，寫「你分得出水果好壞，也來自我檢查乳房」，說乳房自我檢查像挑水果一樣簡單",
+  "idea_one_liner": "Olay 墨西哥在乳癌防治月，替水果貼上貼紙：「你懂得分辨東西好不好，自我檢查乳房吧」，說自檢跟挑水果一樣簡單",
   "brand_display": "Olay（寶僑）",
   "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜戶外類銀獅 Outdoor Silver Lion｜代理商：SAATCHI & SAATCHI MEXICO\n\n【背景】案例板寫，在墨西哥，女性覺得乳房自我檢查太複雜，所以沒有定期去做。Olay 是寶僑（Procter & Gamble）的保養品牌。\n\n【點子】乳癌防治月期間，Olay 反過來告訴她們：自我檢查，其實就跟挑水果一樣簡單。案例板的標語是「The sticker that shows that performing breast self-exams is as easy as picking out fruits」（這張貼紙告訴你，做乳房自我檢查跟挑水果一樣簡單）。\n\n【執行】在水果上貼貼紙。案例板的照片裡，可以看到番茄與一顆淺黃綠色的大水果被貼上圓形貼紙。貼紙上有 Olay 標誌與粉紅絲帶，西班牙文寫著「Tú sabes reconocer cuando algo está bien. Autoexplórate y prevén el cáncer de mama.」（你懂得分辨東西好不好。自己檢查乳房，預防乳癌。），還有 Facebook 的 OlayMexico 帳號。案例板另有一張照片：一隻手在一堆貼了貼紙的番茄間挑選，以及一位女性低頭看著手中的番茄。結尾的文字是：「Exactly, saving their lives is as simple as picking out fruit.」（沒錯，救自己的命，就跟挑水果一樣簡單。）\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/fruits-166408\nhttps://www.lovethework.com/work-awards/campaigns/fruits-226436",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 戶外類, Outdoor, 銀獅, Silver Lion, 小規模特殊解決方案, Small Scale Special Solutions, Olay, 玉蘭油, 寶僑, Procter & Gamble, P&G, SAATCHI & SAATCHI MEXICO, Saatchi & Saatchi, 墨西哥, Mexico, 乳癌, Breast Cancer, 乳房自我檢查, Breast Self-Exam, 乳癌防治月, Breast Cancer Awareness Month, 粉紅絲帶, Pink Ribbon, 公益, 公共意識, 保養品, 女性, 水果, Fruits, 番茄, 柚子, ⭐貼紙, ⭐水果貼紙, Sticker, ⭐製作物, 超市, 賣場, 類比, 比喻, 簡單, Facebook, 粉紅色, 水彩",
@@ -423,8 +425,9 @@
   "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/4045065a020a49068bed6be5d1def71c",
   "image_shows": "官方案例板：粉紅水彩風，標題 Olay Frutas，中間三個圓形照片：一隻手選貼了貼紙的番茄、一顆貼著 Olay 貼紙的水果特寫、一位女性低頭看手上的番茄",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "依官方案例板整理，沒有文字來源：官方卡片頁（作品與整個活動）只有標題，adsspot 連線被擋（403）。因此讀稿只寫案例板上看得到、讀得到的部分，貼紙貼在哪些店、規模、執行方式都沒有來源，未寫。搜尋摘要提到「摸水果判斷好壞是墨西哥習慣」，未打開來源，未寫入。已搜爭議：搜「Olay Fruits Saatchi Mexico breast self-exam fruit stickers plagiarism copied controversy」，沒有爭議紀錄；搜尋摘要提到其他地區也有類似的水果貼紙點子（疑為同類創意，不是指控），未打開、未寫入。"
+  "note": "依官方案例板整理，沒有文字來源：官方卡片頁（作品與整個活動）只有標題，adsspot 連線被擋（403）。因此讀稿只寫案例板上看得到、讀得到的部分，貼紙貼在哪些店、規模、執行方式都沒有來源，未寫。搜尋摘要提到「摸水果判斷好壞是墨西哥習慣」，未打開來源，未寫入。已搜爭議：搜「Olay Fruits Saatchi Mexico breast self-exam fruit stickers plagiarism copied controversy」，沒有爭議紀錄；搜尋摘要提到其他地區也有類似的水果貼紙點子（疑為同類創意，不是指控），未打開、未寫入。 2026-11-14 Opus 驗：案例板已下載打開，上面有完整的問題（墨西哥女性覺得自檢太複雜）、做法（乳癌防治月在水果貼貼紙）與貼紙文字，屬官方文字來源、不是推測，拿掉 uncertain。一句話原把貼紙文字改寫成引號，已改回貼紙原意。LTW 活動頁 HTML 沒有內文。",
+  "idea_one_liner_r0": "墨西哥 Olay 在水果貼貼紙，寫「你分得出水果好壞，也來自我檢查乳房」，說乳房自我檢查像挑水果一樣簡單"
  }
 ]

@@ -59,3 +59,11 @@
 - 仍 uncertain：b019 ltwm-06800 REFILL（廣播缺音檔，needs_audio，無圖）、ltwm-07026 COVERT（缺逐場景情節）、ltwm-06794 POSSIBILITIES（缺影片情節）；b021 ltwm-07214 The Singing Children of the R33（廣播缺音檔，needs_audio，YouTube AHjL9VhIClU）、ltwm-07113（Cape Town、Durban 兩張沒看到）。建議：本機補查／聽音檔。
 - 圖不理想：b019 06794、07026 用分鏡格看不出點子；b020 06976 ALL IS RIGHT、06806 BABOLAT PLAY 用分鏡格；b021 07214 只有 YouTube 縮圖（夜路）。沒有圖：b019 06800。
 - 重複候選：無。撤獎 0。
+
+## 2026-11-14 雲端第 2 輪 b022 b023 b024 b025（Sonnet 寫、Opus 驗）
+- 重複候選：b022 ltwm-06818 SCREENSAVER（DirecTV 廣播）與 ltwm-07003 FISHERMAN（DirecTV 影片），同為 Grey NY、同年；驗收員找不到來源證明是同一系列。建議：維持分開，本機若查到同系列再併。decision 未動。
+- 改寫範圍：b024 ltwm-07068 GREATNESS AWAITS 的【得獎】行含同品牌 PERFECT DAY 的金、銀獅與工藝銅獅，全年沒有另一筆 PERFECT DAY，驗收員改成兩支都寫、以 Perfect Day 為主。建議：本機確認是否要另立 PERFECT DAY 一筆。
+- 上游資料錯：b023 ltwm-06831 DATAGRAMS in 檔品牌 US OPEN（官方 IBM）；b025 ltwm-06865 in 檔品牌 TUMBLR（官方 IBM）；b025 ltwm-06864 in 檔代理商 Havas Media London（官方 AIS London）；b022 ltwm-06829 DACIA 官方類別 Strategy、in 檔 Retention。稿都照官方。建議：本機修 in 檔。
+- 仍 uncertain：b022 ltwm-06818 SCREENSAVER（廣播缺腳本，needs_audio）、ltwm-07003 FISHERMAN（缺劇情與旁白）；b023 ltwm-06836 TAM（EIFFEL、CHRIST 兩張沒看到）；b024 ltwm-07205 THE LAST OF US（製作手法來源打不開）。建議：本機補查／聽音檔。
+- 圖不理想：b022 06825 CORNETTO、07003 用 YouTube 縮圖；b025 06858 HAIRTAG 用 YouTube 縮圖看不出機制、06865 IBM 為片頭字卡。b022 06818 沒有圖。
+- 【爭議】新增 0。撤獎 0。
