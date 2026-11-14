@@ -49,3 +49,13 @@
 - 沒有圖：b017 ltwm-06783 HAPPY、b018 ltwm-06788 Orpi ADULTEROUS, RETIREMENT（廣播，台詞已對 La DN 引文核實，不標 uncertain）。建議：本機補圖。
 - 只看到一張：b016 06776 Guinness Draught in Bottle（五張）；b017 911 REAR HORSEPOWER、WILLIAM, DADDY, E.S。
 - 撤獎 0。
+
+## 2026-11-14 雲端第 2 輪 b019 b020 b021（Sonnet 寫、Opus 驗）
+- 【爭議】新增：b020 ltwm-06805 John Lewis BEAR & HARE（被指抄襲兒童繪本《Bear Stays Up For Christmas》，John Lewis 否認）；b020 ltwm-06812 Panasonic DOG（Mumbrella 質疑廣告是否真的刊登過，媒體代理與監測公司查不到刊登紀錄；坎城未撤獎，主席稱合法）。建議：保留。
+- 上游資料錯：b021 ltwm-07094 與 ltwm-07113 的 in 檔 title 疑似對調（07094 實為開車別傳訊息的預測輸入海報、07113 實為 Touareg 地圖海報），稿照官方 entry_titles 寫，驗收員確認正確。建議：本機修 in 檔 title。
+- 上游資料錯：b019 ltwm-07123 MOOSE, CHILD 的 in 檔第二連結（D&AD）其實是 NIVEA 作品。建議：本機修 in 檔連結。
+- 待核對：b020 ltwm-06805 官方 Integrated 銅獅在 in 檔寫成 Integrated Shortlist，【得獎】行照 in 檔。建議：本機核對官方獎項。
+- 待核對：b021 ltwm-06815 Boy／Girl／Dog 他站寫 DDB Barcelona、四張（含 Baby），官方是 DDB Spain、三件；【得獎】行照官方。b021 ltwm-06841 Feeling Carefree 各來源標 2013 年 9 月發布，iSpot 另列 Johannes Leonardo 為代理商。建議：維持。
+- 仍 uncertain：b019 ltwm-06800 REFILL（廣播缺音檔，needs_audio，無圖）、ltwm-07026 COVERT（缺逐場景情節）、ltwm-06794 POSSIBILITIES（缺影片情節）；b021 ltwm-07214 The Singing Children of the R33（廣播缺音檔，needs_audio，YouTube AHjL9VhIClU）、ltwm-07113（Cape Town、Durban 兩張沒看到）。建議：本機補查／聽音檔。
+- 圖不理想：b019 06794、07026 用分鏡格看不出點子；b020 06976 ALL IS RIGHT、06806 BABOLAT PLAY 用分鏡格；b021 07214 只有 YouTube 縮圖（夜路）。沒有圖：b019 06800。
+- 重複候選：無。撤獎 0。

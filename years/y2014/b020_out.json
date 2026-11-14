@@ -168,7 +168,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "Ecofill 墨水匣平面廣告，青、洋紅、黃三色匣各塞滿同色的巴士、人像與地標，黑色匣卻是空的，只剩一台相機",
+  "idea_one_liner": "Ecofill 墨水匣海報：青、洋紅、黃三匣塞滿同色的觀光巴士、遊客與地標，黑色匣卻空到只剩一台相機",
   "brand_display": "Ecofill",
   "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜Press類銀獅 Press Silver Lion｜代理商：OGILVY & MATHER COLOMBIA Bogotá\n\n【點子】依作品畫面解讀：墨水匣廣告把四個印表機墨水顏色（青 C、洋紅 M、黃 Y、黑 K）當成四個透明容器，三個彩色匣擠滿東西，黑色匣卻幾乎空了。標語寫「What are CMY for, if you don't have K」（沒有 K，要 CMY 做什麼），強調黑色墨水不能缺。\n\n【執行】案例板上並排四個墨水匣：青色那個塞滿青色的觀光巴士模型，洋紅色那個塞滿洋紅色的人像，黃色那個塞滿黃色的艾菲爾鐵塔、比薩斜塔、自由女神等地標模型，黑色那個是空的，只有底部一台小相機。右下角是 Ecofill 黑色墨水匣與上述標語，左上角有 Ecofill 標誌。官方報名的四則作品名為 CYAN、MAGENTA、YELLOW、BLACK。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/black-169776\nhttps://www.adsoftheworld.com/campaigns/magenta\nhttps://www.adsoftheworld.com/campaigns/cupid-0cb1e527-a1f7-4836-83d1-3a087a17edf8",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Press類, Press, 銀獅, Silver Lion, Ecofill, 墨水匣, 墨水, 印表機, 耗材, Ink Cartridge, Printer, OGILVY & MATHER COLOMBIA, Ogilvy, 奧美, 平面廣告, 海報, Print, CMYK, 青, 洋紅, 黃, 黑, Cyan, Magenta, Yellow, Black, 觀光, 觀光巴士, 地標, 艾菲爾鐵塔, 比薩斜塔, 自由女神, 相機, 哥倫比亞, Colombia, 波哥大, Bogotá, 透明, 留白",
@@ -181,9 +181,10 @@
   "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/112edcf3f16743cd8eed4f803c9e34ad",
   "image_shows": "案例圖板：四個透明墨水匣並排，青色裝滿巴士、洋紅裝滿人像、黃色裝滿地標模型，黑色是空的只剩一台相機；右下標語「What are CMY for, if you don't have K」",
   "text_source_level": 3,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "依作品畫面解讀，無文字說明。官方 LTW 卡片頁、Ads of the World 只有標題與創意名單，沒有案例文字（Behance、Digital Synopsis、CreativePro 等打不開 403），所以點子只能依案例板的畫面與標語解讀：黑色匣為什麼只剩一台相機（暗示沒有黑色就印不出照片，還是別的意思）無來源證實，讀稿未寫成定論。另有報導描述 Ecofill 的另一組「人物衣服隨墨水顏色消失」廣告，與本件案例板畫面不同，無法確認哪一組是官方報名的 CYAN／MAGENTA／YELLOW／BLACK，請驗收員核對。缺：能說明點子與案例板的官方或報導文字。已搜爭議：搜「Ecofill Ogilvy Colombia CMYK ads scam／fake／controversy／withdrawn」，沒有爭議紀錄。"
+  "note": "依作品畫面解讀，無文字說明。官方 LTW 卡片頁、Ads of the World 只有標題與創意名單，沒有案例文字（Behance、Digital Synopsis、CreativePro 等打不開 403），所以點子只能依案例板的畫面與標語解讀：黑色匣為什麼只剩一台相機（暗示沒有黑色就印不出照片，還是別的意思）無來源證實，讀稿未寫成定論。另有報導描述 Ecofill 的另一組「人物衣服隨墨水顏色消失」廣告，與本件案例板畫面不同，無法確認哪一組是官方報名的 CYAN／MAGENTA／YELLOW／BLACK，請驗收員核對。缺：能說明點子與案例板的官方或報導文字。已搜爭議：搜「Ecofill Ogilvy Colombia CMYK ads scam／fake／controversy／withdrawn」，沒有爭議紀錄。 2026-11-14 Opus 驗：下載官方案例板確認畫面（本件 LTW entry 的 conversion 圖就是四個墨水匣這組，所以官方報名的是這組，不是「衣服消失」那組），巧思看得出來，拿掉 uncertain；一句話補上巴士、遊客、地標（舊句存 r0）。依作品畫面解讀，無文字說明。",
+  "idea_one_liner_r0": "Ecofill 墨水匣平面廣告，青、洋紅、黃三色匣各塞滿同色的巴士、人像與地標，黑色匣卻是空的，只剩一台相機"
  },
  {
   "id": "ltwm-06806",
@@ -274,9 +275,9 @@
   "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/904ab2bdbecb4c69bdd945689b087e9d",
   "image_shows": "案例圖板：灰色紙紋底的黑色剪影海報，男人坐椅上舉杯、女子仰頭端杯，剪影內寫兩句對話，下方標語與 Santa Cruz Wine Store 標誌",
   "text_source_level": 3,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "依作品畫面解讀，無文字說明。官方 LTW 卡片頁與 Ads of the World 只有標題、獎項與創意名單，沒有案例文字（D&AD 的連結內容是別的作品、marjorievardo.com 無內容）。只看到「Neck Down」這一張，其餘五則（Mask、Less talk、Dumb、Ex、Bank roll）沒看到畫面與台詞，「蠢話變浪漫」是依單張與標語做的解讀，驗收員請核對。缺：說明整組六則共同概念的文字來源。已搜爭議：搜「Santa Cruz Wine Store Publicis print Neck down scam／fake／plagiarism」，只有活動頁，沒有爭議紀錄。"
+  "note": "依作品畫面解讀，無文字說明。官方 LTW 卡片頁與 Ads of the World 只有標題、獎項與創意名單，沒有案例文字（D&AD 的連結內容是別的作品、marjorievardo.com 無內容）。只看到「Neck Down」這一張，其餘五則（Mask、Less talk、Dumb、Ex、Bank roll）沒看到畫面與台詞，「蠢話變浪漫」是依單張與標語做的解讀，驗收員請核對。缺：說明整組六則共同概念的文字來源。已搜爭議：搜「Santa Cruz Wine Store Publicis print Neck down scam／fake／plagiarism」，只有活動頁，沒有爭議紀錄。 2026-11-14 Opus 驗：下載案例板確認台詞與標語，巧思（失禮的搭訕被聽成詩）看得出來，拿掉 uncertain；其餘五則仍沒看到。"
  },
  {
   "id": "ltwm-06813",
@@ -431,7 +432,7 @@
   "text_source_level": 3,
   "uncertain": false,
   "needs_audio": false,
-  "note": "依作品畫面解讀，無文字說明。官方 LTW 卡片頁與 Ads of the World 只有標題、獎項與創意名單；看圖解讀的點子（以狗吹風的畫面象徵新鮮空氣）無來源證實，Blissful 與 Confused 兩張沒看到畫面，讀稿只描述案例板上的 Windblown Dog。Ads of the World、Mumbrella 都沒有說明創意概念。已搜爭議：搜「Panasonic nanoe dog ads Saatchi Cannes scam／controversy」，有 2014 年澳洲媒體 Mumbrella 質疑廣告是否真的刊登的報導（三篇已打開，其中 236246 後半被付費牆擋住，只用其標題與開頭「對兩支澳洲得獎廣告提出嚴重質疑」，沒有引用留言），已寫入【爭議】。Mumbrella 文章留言中的「抄襲 Volkswagen」說法只是匿名留言、未證實，未寫入。LTW 搜尋摘要未寫入。"
+  "note": "依作品畫面解讀，無文字說明。官方 LTW 卡片頁與 Ads of the World 只有標題、獎項與創意名單；看圖解讀的點子（以狗吹風的畫面象徵新鮮空氣）無來源證實，Blissful 與 Confused 兩張沒看到畫面，讀稿只描述案例板上的 Windblown Dog。Ads of the World、Mumbrella 都沒有說明創意概念。已搜爭議：搜「Panasonic nanoe dog ads Saatchi Cannes scam／controversy」，有 2014 年澳洲媒體 Mumbrella 質疑廣告是否真的刊登的報導（三篇已打開，其中 236246 後半被付費牆擋住，只用其標題與開頭「對兩支澳洲得獎廣告提出嚴重質疑」，沒有引用留言），已寫入【爭議】。Mumbrella 文章留言中的「抄襲 Volkswagen」說法只是匿名留言、未證實，未寫入。LTW 搜尋摘要未寫入。 2026-11-14 Opus 驗：補搜「Panasonic nanoe Saatchi Cannes withdrawn」：Mumbrella 的質疑與 Saatchi 回應（稱 2014 年 3、4 月刊登）都查得到，坎城主席 Terry Savage 稱作品合法，沒有找到坎城撤銷獎項的紀錄，維持收、保留【爭議】。"
  },
  {
   "id": "ltwm-06976",
