@@ -1,12 +1,11 @@
-*坎城雲端寫稿｜2014 第 5 輪（11/15 02:10）*
-• 這輪寫完並驗收：2014 b026～b032，共 7 批 70 件（全收）
-• 這輪寫到的作品（舉 3～5 件）：Google〈Reunion〉、Facebook〈No Social Network〉、Volkswagen〈VIN 903847〉、Hornbach〈The Hornbach Hammer〉、Giraffas〈The Goal Screen〉
-• 2014 進度：已完成 32／56 批，剩 24 批
-• 待決新增：14 條（爭議 3、uncertain 7、概念相近 1，其他為待看片確認與缺圖；重複候選 0）
+*坎城雲端寫稿｜2014 第 6 輪（11/15 14:10）*
+• 這輪寫完並驗收：2014 b033～b039，共 7 批 70 件（收 69、不收 1）
+• 這輪寫到的作品（舉 3～5 件）：Samsung〈Magna Carta（Jay Z）〉、Tap King〈The Search〉、Watch Dogs〈Amazing Street Hacks〉、truth〈Blacks, Gays, Women〉、Jell-O〈Comb Over〉
+• 2014 進度：已完成 39／56 批，剩 17 批
+• 待決新增：10 條（爭議候選 1、不收待決 1、仍 uncertain 4、輸入檔資料錯 3、其他為待看片與缺圖；重複候選 0）
 • 問題：
-  • 新加爭議 3 件請確認：Google〈Reunion〉（被指抄襲短片《Respect》）、Wren〈First Kiss〉（陌生人其實是演員）、Share My Dabba（送餐員協會說沒參與）
-  • 〈Life Saving Cable〉和巴西 2013 年的〈Donor Cable〉點子一樣、早一年，沒找到有人指控，先沒列爭議，請決定
-  • 有 7 件仍 uncertain（多是廣播缺音檔、影片找不到劇情），2 件沒圖，要本機看片／聽音檔補
-  • 寫手不知道「文字來源等級」欄位怎麼填，規則卡沒有定義，請補上
-  • 13 件讀稿誤用第一人稱「我」，驗收員已全部改掉；沒發現違規
-• 預計：照一天 14 批，2014 剩下約 2 天寫完（11/16 左右），之後隊伍沒有更早年份，等本機做前置
+  • 三星＋Jay Z（EPIC 因 App 隱私向 FTC 申訴）寫手列爭議、驗收員認為不算，已移到備註，請你決定要不要加回【爭議】
+  • 廣播〈Too Old for Ibiza〉找不到腳本和音檔，先不收；另有 3 件廣播缺音檔仍 uncertain，要本機找音檔補
+  • 3 件輸入檔配錯圖或配錯作品（GE、Badabulle、Bauducco），稿已改對，輸入檔請本機修
+  • 一位寫手和一位驗收員各跑過一次只讀的 git 指令，沒改到檔，但違反規則，已記進紀錄
+• 預計：照一天 14 批，2014 剩下約 1～2 天寫完（11/16 左右），之後隊伍沒有更早年份，等本機做前置
