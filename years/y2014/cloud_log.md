@@ -26,3 +26,4 @@
 - 2026-11-15 雲端第 2 輪收尾：寫完並驗完 b033–b039（7 批 70 件：收 69、不收 1（b033 06956 TOO OLD FOR IBIZA，廣播找不到腳本與音檔）、重複 0）。2014 累計驗完 39／56 批，剩 b040–b056。待決新增 10 條（【爭議】候選 1：Samsung＋Jay Z；不收待決 1；仍 uncertain 4（3 件廣播缺音檔）；上游 in 檔資料錯 3 件；待看片／補查與圖不理想若干）；撤獎 0、重複候選 0。連不上：Behance、LBB、The Drum、Shots（503）、adsspot、Campaign Brief、Trend Hunter、Adweek、Ad Age、Mediapost、Media in Canada、Famous Campaigns、businessinsider.in（網域不在允許清單）、YouTube（驗證頁）等；lovethework 卡片頁沒有內文。沒撞額度。
 - 問題：程式檢查兩組都沒掃到違規。b033 寫手跑過一次唯讀 git status、b033–b036 驗收員跑過一次唯讀 git diff --stat，都沒改檔，但違反「不用 git」。其餘寫手、驗收員自報沒用 rm、沒自加標頭。開工時本機 main 與 origin 歷史分岔（淺層 clone），已把本機 main 對齊 origin/main，沒 force push。
 - 2026-11-15 14:39 回報已寫進 years/last_report.txt。
+- 2026-11-16 02:09 開工：b040 b041 b042 b043 b044 b045 b046（雲端 2026-11-16 第 1 輪）
