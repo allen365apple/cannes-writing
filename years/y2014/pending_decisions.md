@@ -101,3 +101,13 @@
 - 待本機看片／補查：b037 ltwm-06993 truth 的 WOMEN、BLACKS 兩張海報畫面沒找到；b039 ltwm-07020 Skittles GROOMER 那支劇情沒有來源；b039 ltwm-07027 OFI-Arte「像卡拉瓦喬」是驗收員看畫面判斷。
 - 圖：b039 07025 Movistar CONNECTED WITH PERU 沒有可用的圖；b038 07012、07006、b037 06995 為廣播無圖。建議：本機補圖。
 - 撤獎 0。重複候選 0。【爭議】候選 0。
+
+## 2026-11-16 雲端第 1 輪 b040 b041 b042 b043（Sonnet 寫、Opus 驗）
+- 【爭議】新增：b041 ltwm-07049 FOOTBALL RELIGION（Slate 訪問的勞動法教授與 NBC Sports 指巴西沒有案例所說的宗教自由法）。建議：保留，請確認。
+- 不算爭議（驗收員判斷）：b041 ltwm-07055 Axe Generation Astronaut（性別批評、承諾的太空飛行未成行）已移出【爭議】段；b040 DUPE 讀者質疑隱藏攝影機是演的，屬一般評論。
+- 不收待決：b043 ltwm-07079 HER GOODBYE, HIS GOODBYE（Capel，廣播）、ltwm-07070 LIFE IS MUSIC（Studio Brussels，廣播；官方報名另有 EAT SLEEP RAVE REPEAT），寫手與驗收員都找不到文字或音檔，暫設不收（不是撤獎）。建議：本機若找到音檔轉寫後改收。
+- 另立待決：b041 ltwm-07053 GAME OF PHONES，in 檔 case board 與創意實效金獅其實屬於另一件 Fair Go Bro；稿只寫 Mobile 銅獅那支，award_line 照官方含金獅。建議：本機決定要不要拆開另立一筆、修 in 檔。
+- 仍 uncertain：b041 ltwm-07052 Electrolux MIXED STAINS（廣播缺逐字稿與音檔，needs_audio，無圖；DNA 另列 Pijama Capuccino，官方作品名待確認）。建議：本機找音檔轉寫。
+- 待本機確認：b040 BEDROOM 只有 Horizont 單一來源（官方報名 DENTIST、BEDROOM 只寫 BEDROOM）；b042 ltwm-07054 GARY,KELLY,MARK 只看到 Mark 那張；b043 ltwm-07080 Hit 3001 讀稿末句 2015 擴大成實境節目來源為 PR Newswire；規則卡未定義 text_source_level（寫手自訂 2／3）。
+- 圖不理想：b043 ltwm-07071 GT RIDE（362×257）；b042 ltwm-07062 GLASSES.COM（600 寬）；b041 ltwm-07053 Mumbrella 橫幅 640×242。建議：本機補圖。
+- 撤獎 0。重複候選 0。
