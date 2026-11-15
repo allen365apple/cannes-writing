@@ -1,11 +1,12 @@
-*坎城雲端寫稿｜2014 第 6 輪（11/15 14:10）*
-• 這輪寫完並驗收：2014 b033～b039，共 7 批 70 件（收 69、不收 1）
-• 這輪寫到的作品（舉 3～5 件）：Samsung〈The Next Big Thing Is Here with Samsung + Jay Z〉、Tap King〈The Search〉、Watch Dogs〈Amazing Street Hacks〉、truth〈Blacks, Gays, Women〉、Jell-O〈Comb Over〉
-• 2014 進度：已完成 39／56 批，剩 17 批
-• 待決新增：10 條（爭議候選 1、不收待決 1、仍 uncertain 4、輸入檔資料錯 3、其他為待看片與缺圖；重複候選 0）
+*坎城雲端寫稿｜2014 第 7 輪（11/16 02:09）*
+• 這輪寫完並驗收：2014 b040～b046，共 7 批 70 件（收 68、不收 2）
+• 這輪寫到的作品（舉 3～5 件）：Foca Beer〈Football Religion〉、Axe〈Generation Astronaut〉、TrueMove H〈Giving〉、HSBC〈HSBC Now〉、Intel〈Look Inside〉
+• 2014 進度：已完成 46／56 批，剩 10 批
+• 待決新增：15 條（爭議新增 1、爭議候選 1、不收待決 2、拆開另立 1、仍 uncertain 5、輸入檔配錯圖 3、其餘待本機確認與補圖；重複候選 0）
 • 問題：
-  • 三星＋Jay Z（EPIC 因 App 隱私向 FTC 申訴）寫手列爭議、驗收員認為不算，已移到備註，請你決定要不要加回【爭議】
-  • 廣播〈Too Old for Ibiza〉找不到腳本和音檔，先不收；另有 3 件廣播缺音檔仍 uncertain，要本機找音檔補
-  • 3 件輸入檔配錯圖或配錯作品（GE、Badabulle、Bauducco），稿已改對，輸入檔請本機修
-  • 一位寫手和一位驗收員各跑過一次只讀的 git 指令，沒改到檔，但違反規則，已記進紀錄
-• 預計：照一天 14 批，2014 剩下約 1～2 天寫完（11/16 左右），之後隊伍沒有更早年份，等本機做前置
+  • 阿根廷 Andes〈Hurricane Martha〉被投訴性別歧視、品牌登報道歉，目前只寫在備註，請你決定要不要加【爭議】
+  • 2 件廣播（Capel〈Her Goodbye, His Goodbye〉、Studio Brussels〈Life Is Music〉）找不到腳本和音檔，先不收；另有 2 件廣播缺音檔仍 uncertain，要本機找音檔補
+  • 〈Game of Phones〉輸入檔混進另一件作品 Fair Go Bro 的案例板和金獅，請決定要不要拆開另立
+  • 3 件輸入檔配錯圖（TOP 雜誌、Miyamoto 眼鏡行、Kombi），稿已改對，輸入檔請本機修
+  • 沒有發現違規；有一則搜尋結果夾帶要 AI 做別的事的文字，寫手已忽略
+• 預計：照一天 14 批，2014 剩下約 1 天寫完（11/16 左右），接著寫 2013
