@@ -86,3 +86,12 @@
 - 仍 uncertain：b031 ltwm-06933 CAPI TOILETS（缺廣播稿或音檔，needs_audio，無圖）、ltwm-07238 WE HAVE TO TALK（缺劇情）、ltwm-06926 Ray-Ban SUBWAY, COP（缺 Subway 那張圖）；b032 ltwm-06992 Dos Equis BEST DRESSED（缺台詞，needs_audio，無圖）、ltwm-07245 WHY NOT MAN（缺劇情）、ltwm-06935 FIREMAN'S SMILE（缺清楚的圖）。建議：本機看片、聽音檔補寫。
 - 圖不理想：b030 06918 Simon the Ogre（分鏡太暗）；b032 06935（250x106）、06939 GUARDIAN ANGEL（364x230）、07245。沒有圖：b031 06933、b032 06992。建議：本機補圖。
 - 撤獎 0。重複候選 0。
+
+## 2026-11-15 雲端第 2 輪 b033 b034 b035 b036（Sonnet 寫、Opus 驗）
+- 【爭議】候選：b033 ltwm-06948 Samsung＋Jay Z MAGNA CARTA（EPIC 因 App 隱私向 FTC 申訴，三星否認，FTC 結果不明）。寫手加了【爭議】段，驗收員認為隱私申訴不在規則卡「算爭議」清單，已移到 note。建議：請決定要不要加回【爭議】段。
+- 不收待決：b033 ltwm-06956 TOO OLD FOR IBIZA（廣播銀獅），兩次都找不到腳本或音檔，暫設不收。建議：本機若找到音檔可 whisper 轉寫後改收。
+- 仍 uncertain：b036 ltwm-06986 K-Y BANK（「DO TRESPASS」與產品的連結沒有官方說明，依畫面推讀）。建議：本機補查。
+- 上游資料錯：b035 ltwm-06970 GE 的 in 檔 case board 其實是 Sanofi Auvi-Q；b036 ltwm-06989 Badabulle 的 case board 與 bear-168068 其實是 DUKTO（稿改用 bear-169641）；b036 ltwm-06982 Bauducco 的 holmes-168518 是 Penguin HOLMES（稿改用 holmes-170209）。建議：本機修 in 檔。
+- 待本機確認：b034 ltwm-06961 IKEA FAMILY TREE 引紅點頁「十分之一歐洲人在 IKEA 床上受孕」未查證；b035 Airbnb Cyber、PR 兩件報名合成一筆；b036 Steinlager 影片劇情沒找到全文。
+- 圖不理想：b035 06970 GE（Tubefilter 650 寬配圖）；b036 BE THE ARTIST 只有分鏡；b034 06966 用 AKQA 主視覺。建議：本機補圖。
+- 撤獎 0。重複候選 0。

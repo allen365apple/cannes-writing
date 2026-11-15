@@ -74,7 +74,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依 Shorty Awards 與 GE 官網整理；兩處的成效、投稿件數、粉絲增加數、媒體報導一律未寫入。官方案例板（conversion 圖）實際是 Sanofi 的 Auvi-Q 案例板，不是這件作品，已棄用；改用 Tubefilter 報導配圖（牛奶實驗畫面，650 寬，偏小），建議本機補找更好的圖。官方報名名稱為 #6SECONDSCIENCE FAIR，品牌欄原本空白，依官方改 GE。已搜爭議：搜「GE 6SecondScience Fair Vine controversy OR fake OR withdrawn」，無造假、抄襲、撤獎報導。"
+  "note": "官方全文需登入，內容依 Shorty Awards 與 GE 官網整理；兩處的成效、投稿件數、粉絲增加數、媒體報導一律未寫入。官方案例板（conversion 圖）實際是 Sanofi 的 Auvi-Q 案例板，不是這件作品，已棄用；改用 Tubefilter 報導配圖（牛奶實驗畫面，650 寬，偏小），建議本機補找更好的圖。官方報名名稱為 #6SECONDSCIENCE FAIR，品牌欄原本空白，依官方改 GE。已搜爭議：搜「GE 6SecondScience Fair Vine controversy OR fake OR withdrawn」，無造假、抄襲、撤獎報導。 2026-11-15 Opus 驗：打開 in 檔 case board（d47360…）確認是 Sanofi Auvi-Q 的「Celebrate Someone」臉書案例板，不是本件，維持棄用。LTW 條目頁另有官方分鏡（7377087a…），下載第 1～20 格看：是 GE 標誌圓框裡的科學短片合輯（噴射引擎、MakerBot 3D 印表機、元素週期表、大象站在石墨烯上的動畫），看不出 Vine 或 #6SecondScience 投稿，無法確認是本件，未採用；GE Reports 與 Shorty Awards 頁面也沒有作品圖。維持 Tubefilter 圖（650 寬），仍建議本機補找。"
  },
  {
   "id": "ltwm-06974",
@@ -112,7 +112,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依官方案例板與 Absolut 公司新聞稿整理（新聞稿與案例板的 400 萬瓶、1100 度一致）。已搜爭議：搜「Absolut Originality controversy OR fake OR withdrawn OR misleading」，只出現與本作品無關的 2023 紙瓶漂綠爭議，不算。The Drum、Marketing Mag 等被擋（403），未用。"
+  "note": "官方全文需登入，內容依官方案例板與 Absolut 公司新聞稿整理（新聞稿與案例板的 400 萬瓶、1100 度一致）。已搜爭議：搜「Absolut Originality controversy OR fake OR withdrawn OR misleading」，只出現與本作品無關的 2023 紙瓶漂綠爭議，不算。The Drum、Marketing Mag 等被擋（403），未用。 2026-11-15 Opus 驗：事實抽查：Absolut 新聞稿再核對 400 萬瓶、1100°C、滴入約一毫秒、2013 年 10 月起上市，與讀稿相符。"
  },
  {
   "id": "ltwm-06979",
@@ -148,9 +148,9 @@
   "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/82a9bdb8cd7a46618813f8e7eed7529a",
   "image_shows": "海報：白底上一組金邊瓷杯與杯碟，杯身有一道裂痕，兩端標著街道地址，右下角是 Boxman 紙箱商標",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "缺：找不到任何講這組作品概念的文字（Ads of the World 只有基本資料與創作人員、其他報導站被擋），『裂痕像地址間運送路線』是依三張作品畫面的解讀，無文字說明；Boxman 的業務也沒有來源確認，讀稿只寫看得到的。Ads of the World 列的創作人員：ECD Gareth Lessing、美術 Steven Jones、文案 Jason Murison（未寫入讀稿）。已搜爭議：搜「Boxman M&C Saatchi Abel Angel Drum Teacup scam ad controversy withdrawn」，無相關報導。三張圖我都打開確認（Teacup、Drum、Angel）。"
+  "note": "缺：找不到任何講這組作品概念的文字（Ads of the World 只有基本資料與創作人員、其他報導站被擋），『裂痕像地址間運送路線』是依三張作品畫面的解讀，無文字說明；Boxman 的業務也沒有來源確認，讀稿只寫看得到的。Ads of the World 列的創作人員：ECD Gareth Lessing、美術 Steven Jones、文案 Jason Murison（未寫入讀稿）。已搜爭議：搜「Boxman M&C Saatchi Abel Angel Drum Teacup scam ad controversy withdrawn」，無相關報導。三張圖我都打開確認（Teacup、Drum、Angel）。 2026-11-15 Opus 驗：打開 Teacup 作品圖確認：裂痕上端標「102 Freeman Ave.」、下端標「16 Park Str.」，右下是 Boxman 紙箱，裂痕＝兩個地址間的搬運路線，巧思看得出來；依規則卡（依作品畫面解讀、無文字說明，看得出巧思就不必 uncertain）拿掉 uncertain。搜尋摘要稱 Boxman 是南非搬家與包裝公司（Trend Hunter 403 打不開），未寫入讀稿。"
  },
  {
   "id": "ltwm-06973",
@@ -387,6 +387,6 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入；Gizmodo 只有短文，Ads of the World 只列創作人員，Hypebeast、Trend Hunter、AdNews 被擋（403／空頁）。『哪張是哪個角色』只採 Gizmodo 提到的名字，未逐張對應；畫面是依三張作品圖描述（三張都打開確認）。官方報名名稱 7686C、361C、158C，in 檔 title 排序不同。已搜爭議：搜「Pantone There can only be one Y&R Shanghai controversy OR copyright OR scam ad」，只出現與本作品無關的 2025 年度色爭議，不算。"
+  "note": "官方全文需登入；Gizmodo 只有短文，Ads of the World 只列創作人員，Hypebeast、Trend Hunter、AdNews 被擋（403／空頁）。『哪張是哪個角色』只採 Gizmodo 提到的名字，未逐張對應；畫面是依三張作品圖描述（三張都打開確認）。官方報名名稱 7686C、361C、158C，in 檔 title 排序不同。已搜爭議：搜「Pantone There can only be one Y&R Shanghai controversy OR copyright OR scam ad」，只出現與本作品無關的 2025 年度色爭議，不算。 2026-11-15 Opus 驗：程式標「有 case board 沒用」：打開 in 檔候選 ac907dde… 是同系列 158 C 那張（橘底半睜眼），與現用 361 C 案例圖同屬官方圖，維持現圖。"
  }
 ]
