@@ -111,3 +111,11 @@
 - 待本機確認：b040 BEDROOM 只有 Horizont 單一來源（官方報名 DENTIST、BEDROOM 只寫 BEDROOM）；b042 ltwm-07054 GARY,KELLY,MARK 只看到 Mark 那張；b043 ltwm-07080 Hit 3001 讀稿末句 2015 擴大成實境節目來源為 PR Newswire；規則卡未定義 text_source_level（寫手自訂 2／3）。
 - 圖不理想：b043 ltwm-07071 GT RIDE（362×257）；b042 ltwm-07062 GLASSES.COM（600 寬）；b041 ltwm-07053 Mumbrella 橫幅 640×242。建議：本機補圖。
 - 撤獎 0。重複候選 0。
+
+## 2026-11-16 雲端第 1 輪 b044 b045 b046（Sonnet 寫、Opus 驗）
+- 【爭議】候選：b044 ltwm-07085 Andes HURRICANE MARTHA（被投訴性別歧視，阿根廷 Defensoría del Público 介入開會兩次，品牌登報道歉、停播）。寫手與驗收員認為不在規則卡【爭議】清單，只寫 note。建議：請決定要不要加【爭議】段。
+- 上游資料錯：b046 ltwm-07108 TOP 雜誌的 ltw_card_urls「MARK」（mark-168320）與候選圖其實是英國 BITC Ban the Box 的 Mark Hammond 平面（稿改用 TRUMP 卡 conversion/3975e1e1…）；b046 ltwm-07116 Miyamoto 眼鏡行候選圖其實是 truth「Lack Control」（稿改用 MEN 卡案例板 conversion/33f1c48e…）；b045 ltwm-07096 Kombi 候選圖是草叢天空（稿改用頁面原始碼找到的 case board）。建議：本機修 in 檔。
+- 仍 uncertain：b044 ltwm-07089 Persil（缺「盯著瓶子十秒會怎樣」的說明）；b046 ltwm-07106 Knorr Quick（缺創意說明，依畫面解讀）、ltwm-07112 Meditation（缺結局文字說明）、ltwm-07110 DStv MAY DAY FOLEY／HOEDOWN FOLEY（廣播缺音檔，needs_audio，無圖）。建議：本機看片、聽音檔補寫。
+- 待本機確認：b046 ltwm-07107 Intel 官方三支只寫 Mick Ebeling（另兩支沒找到內容）；b046 ltwm-07108 BILL 那張沒找到畫面；b045 ltwm-07169 AXE 五則只看到三則；b046 ltwm-07114 Garnier 官方產品欄與畫面略有出入；b044 ltwm-07083 HSBC NOW、b045 07136 Pantene、07103 Bburago 只有官方案例板一個來源。
+- 不算爭議（寫手判斷，驗收員未改）：b046 ltwm-07105 Mamming 學者批評、ltwm-07114 Garnier 另一支被指抄襲。
+- 撤獎 0。重複候選 0。
