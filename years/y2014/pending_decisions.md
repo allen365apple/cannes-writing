@@ -95,3 +95,9 @@
 - 待本機確認：b034 ltwm-06961 IKEA FAMILY TREE 引紅點頁「十分之一歐洲人在 IKEA 床上受孕」未查證；b035 Airbnb Cyber、PR 兩件報名合成一筆；b036 Steinlager 影片劇情沒找到全文。
 - 圖不理想：b035 06970 GE（Tubefilter 650 寬配圖）；b036 BE THE ARTIST 只有分鏡；b034 06966 用 AKQA 主視覺。建議：本機補圖。
 - 撤獎 0。重複候選 0。
+
+## 2026-11-15 雲端第 2 輪 b037 b038 b039（Sonnet 寫、Opus 驗）
+- 仍 uncertain：b037 ltwm-06995 Séries+ SHOVEL, GUN KIDNAPPING, BOAT（廣播缺音檔，needs_audio，無圖）；b038 ltwm-07012 Olympus CHEETAH, JUSTIN（廣播缺音檔，in 檔標題多了 FLOAT、官方只有兩支）、ltwm-07006 BSE CAMILA, RODRIGO（廣播缺音檔）。建議：本機找音檔轉寫補寫。
+- 待本機看片／補查：b037 ltwm-06993 truth 的 WOMEN、BLACKS 兩張海報畫面沒找到；b039 ltwm-07020 Skittles GROOMER 那支劇情沒有來源；b039 ltwm-07027 OFI-Arte「像卡拉瓦喬」是驗收員看畫面判斷。
+- 圖：b039 07025 Movistar CONNECTED WITH PERU 沒有可用的圖；b038 07012、07006、b037 06995 為廣播無圖。建議：本機補圖。
+- 撤獎 0。重複候選 0。【爭議】候選 0。
