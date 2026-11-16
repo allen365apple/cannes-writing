@@ -16,25 +16,29 @@
     "level": "Gold",
     "category": "Promo & Activation",
     "subcategory": "Best Use of Experiential Marketing in a Promotional Campaign",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Bronze",
     "category": "Direct",
     "subcategory": "Charities",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Silver",
     "category": "Branded Content & Entertainment",
     "subcategory": "Best use or integration of experiential events",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
-    "level": "Grand Prix",
+    "level": "Grand Prix for Good",
     "category": "Grand Prix for Good",
     "subcategory": "Grand Prix for Good",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    }
   ],
   "awards_unverified": [],
@@ -55,7 +59,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「WWF Ant Rally leafcutter ants controversy／fake／criticism／animal welfare」，未見造假、抄襲、撤獎或動物福利指控。螞蟻數量（數千到 50 萬）與天數（四天或五天）各來源不一，讀稿已註明、不挑一個。官方獎項頁無完整案例文字，內容依 Ads of the World、Laughing Squid、Selfstorming、Horizont、Gizmodo 整理；來源裡的觀看人次、媒體報導、紅點獎、2015 年續作都未寫入。圖為 Gizmodo 影片截圖（480×360，偏小），官方 case board 沒抓到可用版本（體檢候選圖 403）。"
+  "note": "已搜爭議：搜「WWF Ant Rally leafcutter ants controversy／fake／criticism／animal welfare」，未見造假、抄襲、撤獎或動物福利指控。螞蟻數量（數千到 50 萬）與天數（四天或五天）各來源不一，讀稿已註明、不挑一個。官方獎項頁無完整案例文字，內容依 Ads of the World、Laughing Squid、Selfstorming、Horizont、Gizmodo 整理；來源裡的觀看人次、媒體報導、紅點獎、2015 年續作都未寫入。圖為 Gizmodo 影片截圖（480×360，偏小），官方 case board 沒抓到可用版本（體檢候選圖 403）。 2026-11-16 Opus 驗：事實抽查 Gizmodo：科隆動物園、50 週年、雷射切出 Save trees!／Ban the saw! 相符。awards 改成與 in 檔 official_awards 同格式（含 source_count）。"
  },
  {
   "id": "ltwm-05917",
@@ -74,157 +78,183 @@
     "level": "Grand Prix",
     "category": "Integrated",
     "subcategory": "Titanium and Integrated",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Grand Prix",
     "category": "Film",
     "subcategory": "Public Health & Safety",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Film",
     "subcategory": "Viral Film",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Film Craft",
     "subcategory": "Best Use of Music",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Silver",
     "category": "Film Craft",
     "subcategory": "Script",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Bronze",
     "category": "Film Craft",
     "subcategory": "Animation",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Cyber",
     "subcategory": "Best Digitally Led Integrated Campaign",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Cyber",
     "subcategory": "Video",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Cyber",
     "subcategory": "Best Video",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Cyber",
     "subcategory": "Viral Marketing",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Cyber",
     "subcategory": "Video",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Silver",
     "category": "Cyber",
     "subcategory": "Animation",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Grand Prix",
     "category": "Radio",
     "subcategory": "Public Health & Safety",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Radio",
     "subcategory": "Best Use of Music and/or Sound Design",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Radio",
     "subcategory": "Best Scriptwriting",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Media",
     "subcategory": "Best Use of Branded Content & Sponsorship",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Silver",
     "category": "Media",
     "subcategory": "Best Use of Social Media",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Promo & Activation",
     "subcategory": "Best use of Social Media Marketing in a Promotional Campaign",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Promo & Activation",
     "subcategory": "Public Health & Safety, Pubic Awareness Messages",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Grand Prix",
     "category": "Direct",
     "subcategory": "Best Integrated Campaign Led by Direct Marketing",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Direct",
     "subcategory": "Social Media & Viral Marketing",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Direct",
     "subcategory": "Public Health & Safety, Public Awareness Messages",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Grand Prix",
     "category": "PR",
     "subcategory": "Corporate Responsibility",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "PR",
     "subcategory": "Best Use of Social Media",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Branded Content & Entertainment",
     "subcategory": "Best use or integration of music",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Branded Content & Entertainment",
     "subcategory": "Best integrated content campaign",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    }
   ],
   "awards_unverified": [],
@@ -243,7 +273,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Dumb Ways to Die controversy／criticism／fake」。未見造假、抄襲或撤獎指控；有的批評屬於一般評論或數字爭論，依規則只寫 note、不加【爭議】：Herald Sun 專欄批評影片輕忽傷亡、有人擔心被當成自殺方式的暗示、2013 年 2 月俄羅斯監管機關以疑似教唆自殺為由封鎖某網誌與限制 YouTube 影片、Mumbrella 讀者質疑成效數字只是相關而非因果、後來與人壽保險公司合作被批賣掉原則。這些都屬禁播／數字／評論類。官方報名共 20 多項，其中 Radio 全場大獎報的是 3 分鐘版，同一個點子，合併在本筆。官方案例全文需登入，內容依維基百科、Campaign India、Mumbrella 整理；播放量、分享數、簽名承諾人數、事故下降數字都未寫入。圖為官方影片分鏡格，看得出角色但沒有標題字。"
+  "note": "已搜爭議：搜「Dumb Ways to Die controversy／criticism／fake」。未見造假、抄襲或撤獎指控；有的批評屬於一般評論或數字爭論，依規則只寫 note、不加【爭議】：Herald Sun 專欄批評影片輕忽傷亡、有人擔心被當成自殺方式的暗示、2013 年 2 月俄羅斯監管機關以疑似教唆自殺為由封鎖某網誌與限制 YouTube 影片、Mumbrella 讀者質疑成效數字只是相關而非因果、後來與人壽保險公司合作被批賣掉原則。這些都屬禁播／數字／評論類。官方報名共 20 多項，其中 Radio 全場大獎報的是 3 分鐘版，同一個點子，合併在本筆。官方案例全文需登入，內容依維基百科、Campaign India、Mumbrella 整理；播放量、分享數、簽名承諾人數、事故下降數字都未寫入。圖為官方影片分鏡格，看得出角色但沒有標題字。 2026-11-16 Opus 驗：與 ltwm-05950（同活動的八張海報，戶外金獅＋Press 銅獅）是同一場行動的不同作品，依規則卡應只留本筆、05950 設重複並把獎項併入，已回報主對話決定，decision 未改。"
  },
  {
   "id": "ltwm-05916",
@@ -263,43 +293,50 @@
     "level": "Gold",
     "category": "Outdoor",
     "subcategory": "Small Scale Special Solutions",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Grand Prix",
     "category": "Promo & Activation",
     "subcategory": "Best Integrated Campaign Led by Promotion and Activation",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Promo & Activation",
     "subcategory": "Best Use of Guerilla Marketing in a Promotional Campaign",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Promo & Activation",
     "subcategory": "Corporate Image & Information",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Silver",
     "category": "Direct",
     "subcategory": "Corporate Image & Information",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Bronze",
     "category": "Direct",
     "subcategory": "Social Media & Viral Marketing",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "PR",
     "subcategory": "Corporate Communication",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    }
   ],
   "awards_unverified": [],
@@ -338,67 +375,78 @@
     "level": "Grand Prix",
     "category": "Film",
     "subcategory": "Internet Film Series",
-    "count": 1
+    "count": 1,
+    "source_count": 6
    },
    {
     "level": "Grand Prix",
     "category": "Cyber",
     "subcategory": "Best Digitally Led Integrated Campaign",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Cyber",
     "subcategory": "Best Copywriting",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Silver",
     "category": "Cyber",
     "subcategory": "Best Video",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Silver",
     "category": "Cyber",
     "subcategory": "Community Applications",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Silver",
     "category": "Promo & Activation",
     "subcategory": "Durable Goods",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Bronze",
     "category": "Direct",
     "subcategory": "Other Consumer Products (including Durable Goods)",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Grand Prix",
     "category": "Branded Content & Entertainment",
     "subcategory": "Best fictional program, series or film where a client has successfully created a drama, comedy or miniseries around a product or brand",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Branded Content & Entertainment",
     "subcategory": "Best integrated content campaign",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Silver",
     "category": "Branded Content & Entertainment",
     "subcategory": "Best use or integration of user-generated content",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Silver",
     "category": "Branded Content & Entertainment",
     "subcategory": "Best use or integration of digital or social media",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    }
   ],
   "awards_unverified": [],
@@ -416,7 +464,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Toshiba Intel Beauty Inside controversy／fake／criticism／withdrawn」，未見造假、抄襲、撤獎指控。官方報名的 Film Grand Prix 是 6 集個別標題（The Beauty Inside Episode 1–6），其餘獎項報的是 The Beauty Inside 整體，同一部作品；in 檔標題與連結寫成 The Inside Experience（2011 年同團隊前作），已改寫 The Beauty Inside 這支，請主對話留意 in 檔標題可能寫錯支。Digiday 沒提網路攝影機試鏡，故未寫。播放量、獎項細節未寫入。官方 case board 候選圖是檔案圖示，另兩張官方分鏡格看不出點子，改用代理商頁主圖（500×500，尺寸偏小）。"
+  "note": "已搜爭議：搜「Toshiba Intel Beauty Inside controversy／fake／criticism／withdrawn」，未見造假、抄襲、撤獎指控。官方報名的 Film Grand Prix 是 6 集個別標題（The Beauty Inside Episode 1–6），其餘獎項報的是 The Beauty Inside 整體，同一部作品；in 檔標題與連結寫成 The Inside Experience（2011 年同團隊前作），已改寫 The Beauty Inside 這支，請主對話留意 in 檔標題可能寫錯支。Digiday 沒提網路攝影機試鏡，故未寫。播放量、獎項細節未寫入。官方 case board 候選圖是檔案圖示，另兩張官方分鏡格看不出點子，改用代理商頁主圖（500×500，尺寸偏小）。 2026-11-16 Opus 驗：核對 in 檔 official.awards：entry_titles 為 THE BEAUTY INSIDE（Film 全場大獎報的是 6 集分集名），寫手寫這支正確；in 檔 title／連結是前作 The Inside Experience，title 欄未改，請主對話處理。"
  },
  {
   "id": "ltwm-05973",
@@ -435,19 +483,22 @@
     "level": "Silver",
     "category": "Direct",
     "subcategory": "Direct response broadcast: TV, radio & infomercials",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Silver",
     "category": "PR",
     "subcategory": "Best use of Broadcast",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Branded Content & Entertainment",
     "subcategory": "Best brand or product integration into a feature film,  existing TV show and/or series",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    }
   ],
   "awards_unverified": [],
@@ -485,13 +536,15 @@
     "level": "Bronze",
     "category": "Press",
     "subcategory": "Public Health & Safety",
-    "count": 1
+    "count": 1,
+    "source_count": 3
    },
    {
     "level": "Gold",
     "category": "Outdoor",
     "subcategory": "Fundraising, Charities, Appeals, Non-Profit Organisations, Public Health & Safety, Public Awareness Messages",
-    "count": 1
+    "count": 1,
+    "source_count": 8
    }
   ],
   "awards_unverified": [],
@@ -510,7 +563,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Metro Trains Dumb Ways to Die outdoor posters controversy／complaint／banned」。有一件向澳洲廣告標準局提出的申訴（編號 0245-13，結果沒讀到）與媒體報導「有媽媽要求禁止」，但針對的是整體活動而非這八張，且依規則屬申訴／一般評論，只寫 note。未見造假、抄襲、撤獎。整體活動（影片）在另一件 ltwm-05917，內容有重疊，是同一活動不同作品，官方獎項分開報，仍分開收，請主對話決定是否併。官方報名 Press 銅獅是 Helmet、Moose、Toast 三張，戶外金獅是八張。其他七張海報的畫面與文案沒找到可打開的來源，讀稿只寫看得到的那一張；in 檔連結 adeevee 打開是空頁。一句話靠案例板那張判斷，其他張未驗證，建議驗收員留意。"
+  "note": "已搜爭議：搜「Metro Trains Dumb Ways to Die outdoor posters controversy／complaint／banned」。有一件向澳洲廣告標準局提出的申訴（編號 0245-13，結果沒讀到）與媒體報導「有媽媽要求禁止」，但針對的是整體活動而非這八張，且依規則屬申訴／一般評論，只寫 note。未見造假、抄襲、撤獎。整體活動（影片）在另一件 ltwm-05917，內容有重疊，是同一活動不同作品，官方獎項分開報，仍分開收，請主對話決定是否併。官方報名 Press 銅獅是 Helmet、Moose、Toast 三張，戶外金獅是八張。其他七張海報的畫面與文案沒找到可打開的來源，讀稿只寫看得到的那一張；in 檔連結 adeevee 打開是空頁。一句話靠案例板那張判斷，其他張未驗證，建議驗收員留意。 2026-11-16 Opus 驗：疑似重複：與 ltwm-05917 Dumb Ways to Die 同一場行動，建議 decision 改「重複」、same_as ltwm-05917，獎項併入 05917；已回報主對話，decision 未改。"
  },
  {
   "id": "ltwm-06104",
@@ -529,19 +582,22 @@
     "level": "Silver",
     "category": "Mobile",
     "subcategory": "",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Bronze",
     "category": "Mobile",
     "subcategory": "",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Bronze",
     "category": "Mobile",
     "subcategory": "",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    }
   ],
   "awards_unverified": [],
@@ -560,7 +616,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「WWF Together iPad app AKQA controversy／criticism／fake」，未見造假、抄襲、撤獎指控；只有一則評論說摺紙教學功能在評論者的 iPad 上會當掉，屬一般評論。下載量（各來源 30 萬到 100 萬不等）、Apple Design Award 等未寫入。官方獎項為行動類銀獅與銅獅 2 座，官方頁沒有子類別。in 檔沒有候選圖，圖為 AKQA 作品頁的主圖（1200×630）。讀稿的「黑白攝影、摺紙動物」是看圖片所見。"
+  "note": "已搜爭議：搜「WWF Together iPad app AKQA controversy／criticism／fake」，未見造假、抄襲、撤獎指控；只有一則評論說摺紙教學功能在評論者的 iPad 上會當掉，屬一般評論。下載量（各來源 30 萬到 100 萬不等）、Apple Design Award 等未寫入。官方獎項為行動類銀獅與銅獅 2 座，官方頁沒有子類別。in 檔沒有候選圖，圖為 AKQA 作品頁的主圖（1200×630）。讀稿的「黑白攝影、摺紙動物」是看圖片所見。 2026-11-16 Opus 驗：事實抽查 AKQA 作品頁：滑開海冰看北極熊資料、砍竹子、相機模擬虎眼、3D 地球（60 種動物）相符。"
  },
  {
   "id": "ltwm-06188",
@@ -579,7 +635,8 @@
     "level": "Silver",
     "category": "Media",
     "subcategory": "Best Use of Digital Media",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    }
   ],
   "awards_unverified": [],
@@ -598,7 +655,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「WWF Digital Earth Hour China BBH 2013 controversy／criticism／fake」，未見針對這支作品的造假、抄襲、撤獎指控；搜到的是中國媒體當年對「地球一小時是否真能節電」的一般討論，與這支作品無關，不寫。同一團隊 2014 年的 Smog Hijack 是另一支，沒混入。官方卡片需登入，內容依 BBH 新聞稿與 Campaign Asia（付費牆，只讀到前段）整理；新聞稿沒寫使用者可做什麼、也沒寫成效，都未寫入。找不到好圖：官方 case board 候選圖是過期連結 403，新聞稿主圖只是 BBH 黑羊 logo，不能用，image_url 留空，請主對話或本機補。"
+  "note": "已搜爭議：搜「WWF Digital Earth Hour China BBH 2013 controversy／criticism／fake」，未見針對這支作品的造假、抄襲、撤獎指控；搜到的是中國媒體當年對「地球一小時是否真能節電」的一般討論，與這支作品無關，不寫。同一團隊 2014 年的 Smog Hijack 是另一支，沒混入。官方卡片需登入，內容依 BBH 新聞稿與 Campaign Asia（付費牆，只讀到前段）整理；新聞稿沒寫使用者可做什麼、也沒寫成效，都未寫入。找不到好圖：官方 case board 候選圖是過期連結 403，新聞稿主圖只是 BBH 黑羊 logo，不能用，image_url 留空，請主對話或本機補。 2026-11-16 Opus 驗：Lovethework 條目頁也沒有官方圖，image_url 仍空，請本機補圖。"
  },
  {
   "id": "ltwm-06197",
@@ -617,7 +674,8 @@
     "level": "Silver",
     "category": "Radio",
     "subcategory": "Best Acting Performance",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    }
   ],
   "awards_unverified": [],
@@ -637,7 +695,7 @@
   "text_source_level": 0,
   "uncertain": true,
   "needs_audio": true,
-  "note": "已搜爭議：搜「WWF Post Mortem radio Ogilvy London」，沒有爭議紀錄。官方報名的是廣播作品 POST MORTEM（Radio 類銀獅，Best Acting Performance；Ogilvy & Mather London，製作 Angell Sound，文案 Will Marsden、Jordan Down），in 檔標題與連結（Stop Criminals Making a Killing，平面稿）是同一個 WWF 非洲野生動物犯罪活動的另一支，不是得獎那支。開了 Lovethework 條目、Sostav 得獎名單與 Ads of the World，都只有標題與名單，沒有劇本、說明或可打開的音檔（搜尋摘要提到有法醫對著錄音機驗屍，但沒打開過原頁，未寫入）。所有來源找不到內容，且沒有音檔網址，依規則暫標 decision：不收、uncertain；若本機找得到音檔可轉逐字稿補寫，改回收。缺：劇本或音檔、案例說明。"
+  "note": "已搜爭議：搜「WWF Post Mortem radio Ogilvy London」，沒有爭議紀錄。官方報名的是廣播作品 POST MORTEM（Radio 類銀獅，Best Acting Performance；Ogilvy & Mather London，製作 Angell Sound，文案 Will Marsden、Jordan Down），in 檔標題與連結（Stop Criminals Making a Killing，平面稿）是同一個 WWF 非洲野生動物犯罪活動的另一支，不是得獎那支。開了 Lovethework 條目、Sostav 得獎名單與 Ads of the World，都只有標題與名單，沒有劇本、說明或可打開的音檔（搜尋摘要提到有法醫對著錄音機驗屍，但沒打開過原頁，未寫入）。所有來源找不到內容，且沒有音檔網址，依規則暫標 decision：不收、uncertain；若本機找得到音檔可轉逐字稿補寫，改回收。缺：劇本或音檔、案例說明。 2026-11-16 Opus 驗：再搜「WWF Post Mortem radio pathologist dictaphone」「Will Marsden Jordan Down WWF」與 Lovethework 條目／活動頁（內文需登入），仍找不到可打開的劇本、說明或音檔；只有搜尋摘要提到法醫對錄音機口述驗屍，未寫入。依規則卡「所有來源都找不到內容才不收」，維持不收＋uncertain＋needs_audio，建議本機登入 Lovethework 或找音檔後改回收。"
  },
  {
   "id": "ltwm-06379",
@@ -656,13 +714,15 @@
     "level": "Bronze",
     "category": "Film",
     "subcategory": "Fundraising & Appeals",
-    "count": 1
+    "count": 1,
+    "source_count": 2
    },
    {
     "level": "Bronze",
     "category": "Outdoor",
     "subcategory": "Photography",
-    "count": 1
+    "count": 1,
+    "source_count": 3
    }
   ],
   "awards_unverified": [],

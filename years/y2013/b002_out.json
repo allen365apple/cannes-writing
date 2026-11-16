@@ -16,31 +16,36 @@
     "level": "Gold",
     "category": "Film",
     "subcategory": "Publications & Media",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Grand Prix",
     "category": "Film Craft",
     "subcategory": "Direction",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Silver",
     "category": "Film Craft",
     "subcategory": "Editing",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Bronze",
     "category": "Film Craft",
     "subcategory": "Best Production Value",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Bronze",
     "category": "Film Craft",
     "subcategory": "Best Use of Music",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    }
   ],
   "awards_unverified": [],
@@ -55,12 +60,12 @@
    "https://www.adweek.com/brand-marketing/paralympics-ad-meet-superhumans-powers-film-craft-grand-prix-150593/",
    "https://www.itsnicethat.com/articles/channel-4-meet-the-superhumans"
   ],
-  "image_url": "https://m.itsnicethat.com/original_images/50066d875c3e3c1713003a69.jpg?class=w1440",
-  "image_shows": "七位穿英國隊服的帕運選手（有輪椅、義肢、短肢、單眼包紗的人）站在昏暗帶霧氣的隧道裡，擺出群像姿勢",
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/1bcbe0beeda54fd08ca22710b0af3001/storyboard_000004.jpg",
+  "image_shows": "影片畫面：一群坐輪椅、穿英國隊服的輪椅籃球選手在體育館裡圍成一圈打氣，教練站在中間",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 LTW 案例頁只有基本資料，內容依 D&AD 案例資料、Selfstorming、Adweek、It's Nice That 整理。Selfstorming 另提到有自製的 grime 配樂，與 D&AD、Adweek 只提 Public Enemy 不同，讀稿只寫兩邊都有的 Public Enemy。圖是 It's Nice That 文章頭圖（選手群像宣傳照，595×395 偏小），不是影片畫面；官方 case board 只有 80×80、無法使用。已搜爭議：搜「Meet the Superhumans Channel 4 controversy criticism fake withdrawn」，沒有針對此片的造假、撤獎或抄襲指控（搜到的是 2016 年續集的批評與別的節目，未寫入）。搜尋摘要未寫入。"
+  "note": "官方 LTW 案例頁只有基本資料，內容依 D&AD 案例資料、Selfstorming、Adweek、It's Nice That 整理。Selfstorming 另提到有自製的 grime 配樂，與 D&AD、Adweek 只提 Public Enemy 不同，讀稿只寫兩邊都有的 Public Enemy。圖是 It's Nice That 文章頭圖（選手群像宣傳照，595×395 偏小），不是影片畫面；官方 case board 只有 80×80、無法使用。已搜爭議：搜「Meet the Superhumans Channel 4 controversy criticism fake withdrawn」，沒有針對此片的造假、撤獎或抄襲指控（搜到的是 2016 年續集的批評與別的節目，未寫入）。搜尋摘要未寫入。 2026-11-16 Opus 驗：圖由 It's Nice That 宣傳照（595×395）換成官方影片分鏡第 4 格（1920×1080，Lovethework 條目 177799 的官方影片）。【背景】的 14% 是賽前數字，屬背景，保留。"
  },
  {
   "id": "ltwm-05928",
@@ -79,13 +84,15 @@
     "level": "Titanium",
     "category": "Titanium",
     "subcategory": "Titanium and Integrated",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Silver",
     "category": "Cyber",
     "subcategory": "Financial Services",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    }
   ],
   "awards_unverified": [],
@@ -99,12 +106,12 @@
    "https://paul-meates.squarespace.com/thechallengelab",
    "https://workandthings.squarespace.com/prudential"
   ],
-  "image_url": "https://static1.squarespace.com/static/5a9a1ac7620b8564e4ff9d90/t/6aab36660fab5b6cf729233c/1789605478673/imgg-p5u-f49jio3k.png?format=1500w",
+  "image_url": "https://images.squarespace-cdn.com/content/5a9a1ac7620b8564e4ff9d90/94b7e8e0-3b7c-4e55-9cc7-0a0b392633b2/imgg-p5u-f49jio3k.png?format=1500w",
   "image_shows": "灰色水泥地上用鳥飼料拼成的字「EVEN PIGEONS PROCRASTINATE.」，周圍有幾隻鴿子低頭啄食",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "LTW 官方卡片與 Behance 擋爬蟲或沒有內文（WARC 頁用 WebFetch 打得開，但程式檢查的 HEAD 會被重設連線，屬程式端誤報），內容依 WARC 案例摘要與兩個作品集頁面整理。官方沒有給圖，圖取自 Work & Things 作品集頁面（鴿子飼料字的戶外廣告），網址是站方 CDN 靜態檔。作品集頁寫的成效數字與其他獎項未寫入。已搜爭議：搜「Prudential Challenge Lab Droga5 controversy fake fraud withdrawn」，沒有任何爭議報導。搜尋摘要未寫入。"
+  "note": "LTW 官方卡片與 Behance 擋爬蟲或沒有內文（WARC 頁用 WebFetch 打得開，但程式檢查的 HEAD 會被重設連線，屬程式端誤報），內容依 WARC 案例摘要與兩個作品集頁面整理。官方沒有給圖，圖取自 Work & Things 作品集頁面（鴿子飼料字的戶外廣告），網址是站方 CDN 靜態檔。作品集頁寫的成效數字與其他獎項未寫入。已搜爭議：搜「Prudential Challenge Lab Droga5 controversy fake fraud withdrawn」，沒有任何爭議報導。搜尋摘要未寫入。 2026-11-16 Opus 驗：原圖網址會 301 轉址，改成轉址後的 squarespace-cdn 直連（同一張圖，image/webp 1200×693）。"
  },
  {
   "id": "ltwm-05919",
@@ -123,31 +130,36 @@
     "level": "Grand Prix",
     "category": "Cyber",
     "subcategory": "Viral Marketing",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Silver",
     "category": "Media",
     "subcategory": "Best Use of Social Media",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Bronze",
     "category": "Promo & Activation",
     "subcategory": "Best use of Social Media Marketing in a Promotional Campaign",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Silver",
     "category": "Direct",
     "subcategory": "Fast Moving Consumer Goods",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "PR",
     "subcategory": "Consumer Goods, including FMCG and Household Products",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    }
   ],
   "awards_unverified": [],
@@ -187,121 +199,140 @@
     "level": "Grand Prix",
     "category": "Titanium",
     "subcategory": "Titanium and Integrated",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Integrated",
     "subcategory": "Titanium and Integrated",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Film",
     "subcategory": "Corporate Image",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Cyber",
     "subcategory": "Video",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Bronze",
     "category": "Cyber",
     "subcategory": "Best Video",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Silver",
     "category": "Design",
     "subcategory": "Print and Poster Ads",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Media",
     "subcategory": "Best Use of Social Media",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Bronze",
     "category": "Media",
     "subcategory": "Best Use of Integrated Media",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Bronze",
     "category": "Media",
     "subcategory": "Corporate Image & Information",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Press",
     "subcategory": "Corporate Image",
-    "count": 1
+    "count": 1,
+    "source_count": 5
    },
    {
     "level": "Bronze",
     "category": "Outdoor",
     "subcategory": "Corporate Image",
-    "count": 1
+    "count": 1,
+    "source_count": 5
    },
    {
     "level": "Gold",
     "category": "Promo & Activation",
     "subcategory": "Best use of Social Media Marketing in a Promotional Campaign",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Promo & Activation",
     "subcategory": "Corporate Image & Information",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Silver",
     "category": "Direct",
     "subcategory": "Social Media & Viral Marketing",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Silver",
     "category": "Direct",
     "subcategory": "Corporate Image & Information",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Bronze",
     "category": "Direct",
     "subcategory": "Best Integrated Campaign Led by Direct Marketing",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "PR",
     "subcategory": "Best Use of Social Media",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "PR",
     "subcategory": "Best Integrated Campaign Led by PR",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Branded Content & Entertainment",
     "subcategory": "Best non-fiction program, series or film where a client has successfully created a reality, documentary or entertainment show around a product(s) or brand(s)",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    }
   ],
   "awards_unverified": [],
   "idea_one_liner": "聯合利華 Dove 請 FBI 受訓的素描師隔著簾子畫女性：先照她的自述畫一張，再照陌生人的描述畫一張，兩張並排給本人看",
   "brand_display": "Dove",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜鈦獅 Titanium Grand Prix、Branded Content & Entertainment類金獅 Branded Content & Entertainment Gold Lion、Cyber類金獅 Cyber Gold Lion、影片類金獅 Film Gold Lion、Integrated類金獅 Integrated Gold Lion、媒體類金獅 Media Gold Lion、公關類金獅 PR Gold Lion×2、Press類金獅 Press Gold Lion、Promo & Activation類金獅 Promo & Activation Gold Lion×2、設計類銀獅 Design Silver Lion、直效類銀獅 Direct Silver Lion×2、Cyber類銅獅 Cyber Bronze Lion、直效類銅獅 Direct Bronze Lion、媒體類銅獅 Media Bronze Lion×2、戶外類銅獅 Outdoor Bronze Lion｜代理商：OGILVY BRASIL São Paulo\n\n【背景】這支片是 Unilever 旗下 Dove「Campaign for Real Beauty」的一部分，由 Ogilvy 巴西團隊製作，創意總監是 Anselmo Ramos。\n\n【點子】女性怎麼形容自己，和陌生人怎麼形容她，會有多大差別？Dove 想讓女性看到：自己比自己以為的更美。\n\n【執行】製作團隊請來接受過 FBI 訓練的法醫素描師 Gil Zamora。一群女性在不知道用途的情況下被邀請到舊金山的一間閣樓，一個一個坐在簾子後面，用中性、只講事實的字眼向 Zamora 描述自己，Zamora 看不到她們，只照描述畫。隔天，一位前一天在閣樓與她碰過面的陌生人，再向 Zamora 描述她，Zamora 又畫一張。最後把兩張並排給本人看，拍下她們的反應，剪成約六分鐘的長版與三分鐘的短版。導演是 Paranoid US 的 John X. Carey。\n\n【爭議】片子播出後，有評論者批評這個「實驗」不夠嚴謹。Bloomberg 專欄作家 Virginia Postrel 指出受試者不是隨機選的、素描過程與一般做法不同，片中只用了大約 20 位參與女性裡的 7 位，法醫素描師 Stephen Mancusi 說這是「tainted image（被污染的畫面）」。也有人批評影片仍把重點放在外貌，且出場者多是年輕、瘦、白人女性。Forbes 的 Will Burns 則寫文替影片辯護。\n\n資料來源：\nhttps://en.wikipedia.org/wiki/Dove_Real_Beauty_Sketches\nhttps://www.adweek.com/adfreak/5-reasons-why-some-critics-are-hating-doves-real-beauty-sketches-video-148772",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜鈦獅 Titanium Grand Prix、Branded Content & Entertainment類金獅 Branded Content & Entertainment Gold Lion、Cyber類金獅 Cyber Gold Lion、影片類金獅 Film Gold Lion、Integrated類金獅 Integrated Gold Lion、媒體類金獅 Media Gold Lion、公關類金獅 PR Gold Lion×2、Press類金獅 Press Gold Lion、Promo & Activation類金獅 Promo & Activation Gold Lion×2、設計類銀獅 Design Silver Lion、直效類銀獅 Direct Silver Lion×2、Cyber類銅獅 Cyber Bronze Lion、直效類銅獅 Direct Bronze Lion、媒體類銅獅 Media Bronze Lion×2、戶外類銅獅 Outdoor Bronze Lion｜代理商：OGILVY BRASIL São Paulo\n\n【背景】這支片是 Unilever 旗下 Dove「Campaign for Real Beauty」的一部分，由 Ogilvy 巴西團隊製作，創意總監是 Anselmo Ramos。\n\n【點子】女性怎麼形容自己，和陌生人怎麼形容她，會有多大差別？Dove 想讓女性看到：自己比自己以為的更美。\n\n【執行】製作團隊請來接受過 FBI 訓練的法醫素描師 Gil Zamora。一群女性在不知道用途的情況下被邀請到舊金山的一間閣樓，一個一個坐在簾子後面，用中性、只講事實的字眼向 Zamora 描述自己，Zamora 看不到她們，只照描述畫。隔天，一位前一天在閣樓與她碰過面的陌生人，再向 Zamora 描述她，Zamora 又畫一張。最後把兩張並排給本人看，拍下她們的反應，剪成約六分鐘的長版與三分鐘的短版。導演是 Paranoid US 的 John X. Carey。\n\n資料來源：\nhttps://en.wikipedia.org/wiki/Dove_Real_Beauty_Sketches\nhttps://www.adweek.com/adfreak/5-reasons-why-some-critics-are-hating-doves-real-beauty-sketches-video-148772",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 鈦獅, Titanium Lion, 全場大獎, Grand Prix, 整合類, Integrated Lions, 金獅, Gold Lion, 影片類, Film Lions, 企業形象, Corporate Image, Cyber類, Cyber Lions, 設計類, Design Lions, 媒體類, Media Lions, 平面類, Press Lions, 戶外類, Outdoor Lions, Promo & Activation類, 直效類, Direct Lions, 銀獅, Silver Lion, 銅獅, Bronze Lion, Dove, 多芬, Unilever, 聯合利華, 美妝個清, 個人清潔, Ogilvy, Ogilvy Brasil, Ogilvy & Mather, 奧美, 真美, Real Beauty, Campaign for Real Beauty, 女性, 自我形象, 自信, 社會實驗, 素描, 肖像, 法醫素描師, FBI, 簾子, 品牌內容, 病毒影片, 美國, United States, 巴西, Brazil, 社群媒體",
   "category": "行銷案例",
   "references": [
@@ -313,7 +344,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方作品名 REAL BEAUTY SKETCHES，in 檔的獎項很多（約 19 筆），讀稿 award_line 照官方。官方 LTW 內文需登入，內容依維基百科整理，爭議段另引 Adweek 文章可見的部分（其餘被付費牆擋住）。批評屬片子編輯選取與實驗嚴謹度的質疑，不算造假，但依規則卡「被指成效／內容誤導」從寬加【爭議】，驗收員可決定是否保留。已搜爭議：搜「Real Beauty Sketches criticism」得上述批評。搜尋摘要與觀看數未寫入。"
+  "note": "官方作品名 REAL BEAUTY SKETCHES，in 檔的獎項很多（約 19 筆），讀稿 award_line 照官方。官方 LTW 內文需登入，內容依維基百科整理，爭議段另引 Adweek 文章可見的部分（其餘被付費牆擋住）。批評屬片子編輯選取與實驗嚴謹度的質疑，不算造假，但依規則卡「被指成效／內容誤導」從寬加【爭議】，驗收員可決定是否保留。已搜爭議：搜「Real Beauty Sketches criticism」得上述批評。搜尋摘要與觀看數未寫入。 2026-11-16 Opus 驗：拿掉【爭議】段：Postrel（專欄作家）、Mancusi（素描師）等人批評實驗不嚴謹、選角偏白瘦年輕，屬一般評論，不是造假、撤獎或學者／主管機關指內容誤導，依規則卡只寫 note。讀稿仍列 Adweek 那篇為來源。"
  },
  {
   "id": "ltwm-05922",
@@ -332,13 +363,15 @@
     "level": "Grand Prix",
     "category": "Design",
     "subcategory": "Large Business - international or global scale",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Silver",
     "category": "Design",
     "subcategory": "Mobile Animation",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    }
   ],
   "awards_unverified": [],
@@ -375,7 +408,8 @@
     "level": "Grand Prix",
     "category": "Press",
     "subcategory": "Home Electronics & Audio-Visual",
-    "count": 1
+    "count": 1,
+    "source_count": 5
    }
   ],
   "awards_unverified": [],
@@ -412,7 +446,8 @@
     "level": "Grand Prix",
     "category": "Innovation",
     "subcategory": "Innovation Lions",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    }
   ],
   "awards_unverified": [],
@@ -450,13 +485,14 @@
     "level": "Gold",
     "category": "Film",
     "subcategory": "Toiletries",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    }
   ],
   "awards_unverified": [],
   "idea_one_liner": "聯合利華 Dove 拍短片，成年女性被突然拍照時閃躲鏡頭，小女孩卻主動擺姿勢，對照出長大後失去的自信",
   "brand_display": "Dove",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜影片類金獅 Film Gold Lion｜代理商：OGILVY & MATHER LONDON\n\n【背景】2013 年 7 月，Dove 與 Ogilvy & Mather 倫敦推出這支片，是接在「Real Beauty Sketches」之後的作品。前一支談別人怎麼看女性，這一支轉向女性怎麼看自己。\n\n【洞察】影片從一項 Dove 的研究出發：許多女性覺得自己不符合美的標準，所以躲著鏡頭。很多人小時候愛面對鏡頭，長大卻變得怕被拍。\n\n【點子】把成年女性面對相機時的不自在，和小女孩毫不害羞的樣子放在一起對照，讓人看到「失去的是對自己自然樣貌的信心」，Dove 的角色是幫她們把信心找回來。\n\n【執行】導演是 Everynone（Will Hoffman 與 Julius Metoyer），剪接是 Sam Gunn。片長約 45 秒，約 30 位女性出現在海灘、辦公室等日常場景，畫面有類似紀錄、偷拍的質感，配樂是 Rose Murphy 1940 年代的爵士歌曲「Peek-A-Boo」，剪接緊貼歌曲節奏。作品畫面之一：一位綁馬尾的年輕女孩坐在床上低頭滑手機，牆上貼滿照片。\n\n資料來源：\nhttps://www.selfstorming.com/tools/libraries/campaigns/dove-camera-shy\nhttps://www.dandad.org/awards/professional/2014/tv-cinema-advertising/23904/camera-shy/",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜影片類金獅 Film Gold Lion｜代理商：OGILVY & MATHER LONDON\n\n【背景】Dove 與 Ogilvy & Mather 倫敦推出這支片，是接在「Real Beauty Sketches」之後的作品。前一支談別人怎麼看女性，這一支轉向女性怎麼看自己。\n\n【洞察】影片從一項 Dove 的研究出發：許多女性覺得自己不符合美的標準，所以躲著鏡頭。很多人小時候愛面對鏡頭，長大卻變得怕被拍。\n\n【點子】把成年女性面對相機時的不自在，和小女孩毫不害羞的樣子放在一起對照，讓人看到「失去的是對自己自然樣貌的信心」，Dove 的角色是幫她們把信心找回來。\n\n【執行】導演是 Everynone（Will Hoffman 與 Julius Metoyer），剪接是 Sam Gunn。片長約 45 秒，約 30 位女性出現在海灘、辦公室等日常場景，畫面有類似紀錄、偷拍的質感，配樂是 Rose Murphy 1940 年代的爵士歌曲「Peek-A-Boo」，剪接緊貼歌曲節奏。作品畫面之一：一位綁馬尾的年輕女孩坐在床上低頭滑手機，牆上貼滿照片。\n\n資料來源：\nhttps://www.selfstorming.com/tools/libraries/campaigns/dove-camera-shy\nhttps://www.dandad.org/awards/professional/2014/tv-cinema-advertising/23904/camera-shy/",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片類, Film Lions, 金獅, Gold Lion, 盥洗用品, Toiletries, Dove, 多芬, Unilever, 聯合利華, Ogilvy, Ogilvy & Mather London, Ogilvy London, 奧美, 美妝個清, 個人清潔, 女性, 自信, 自我形象, 美的標準, 真美, Real Beauty, 對比, 小女孩, 鏡頭, 拍照, 偷拍風格, 紀錄片風格, 蒙太奇, Montage, Peek-A-Boo, Rose Murphy, 爵士樂, 品牌影片, 病毒影片, 英國, United Kingdom, 倫敦, 情緒, 溫暖",
   "category": "行銷案例",
   "references": [
@@ -468,7 +504,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 LTW 卡片沒有內文，內容依 Selfstorming 與 D&AD 資料頁整理；D&AD 提到「九成女性覺得自己不美」、Selfstorming 寫「77% 女性因覺得不符合美的標準而避拍」，數字不一致，讀稿不寫數字。畫面只看到一個鏡頭，無法由圖確認劇情，劇情寫的是來源描述。已搜爭議：搜「Dove Camera Shy Ogilvy controversy criticism fake」，沒有針對這支片的爭議（搜到的是同品牌別支廣告的批評，未寫入）。搜尋摘要與觀看數未寫入。"
+  "note": "官方 LTW 卡片沒有內文，內容依 Selfstorming 與 D&AD 資料頁整理；D&AD 提到「九成女性覺得自己不美」、Selfstorming 寫「77% 女性因覺得不符合美的標準而避拍」，數字不一致，讀稿不寫數字。畫面只看到一個鏡頭，無法由圖確認劇情，劇情寫的是來源描述。已搜爭議：搜「Dove Camera Shy Ogilvy controversy criticism fake」，沒有針對這支片的爭議（搜到的是同品牌別支廣告的批評，未寫入）。搜尋摘要與觀看數未寫入。 2026-11-16 Opus 驗：事實抽查 Selfstorming：導演 Everynone、剪接 Sam Gunn、約 45 秒、約 30 位女性、Rose Murphy〈Peek-A-Boo〉相符；但 Selfstorming 寫「2013 年 7 月推出」，晚於 2013 年 6 月坎城，時間矛盾（可能先在別處播出），讀稿拿掉推出月份。"
  },
  {
   "id": "ltwm-06163",
@@ -487,13 +523,15 @@
     "level": "Silver",
     "category": "Film",
     "subcategory": "Sweet Foods & Snacks",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Silver",
     "category": "Film",
     "subcategory": "Sweet Foods & Snacks",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    }
   ],
   "awards_unverified": [],
@@ -512,7 +550,7 @@
   "text_source_level": 2,
   "uncertain": true,
   "needs_audio": false,
-  "note": "標題對不上：in 檔 title 是 OREO SEPARATOR（links 是 vimeo 86574341），但官方 awards 兩筆的 entry_titles 是 LIFE RAFT 與 WHISPER FIGHT（各一座影片類銀獅），讀稿照官方寫這兩支，沒有寫 Oreo Separator；請驗收員判斷是否要拆成兩件或改 title。uncertain：Life Raft 只找到 adRuby 的一句話說明與畫面，沒有劇情文字來源，D&AD 的 Oreo Life Raft 頁是 2014 年、內容是另一個說法，未採用；缺 Life Raft 的完整描述。圖是 Life Raft 的分鏡格（官方體檢 ○，第 2 格幾乎只有天空，改用第 4 格）。已搜爭議：搜「Oreo Whisper Fight Life Raft Wieden+Kennedy」，沒有爭議。搜尋摘要（含 AdNews 對 Life Raft 的描述）未寫入。"
+  "note": "標題對不上：in 檔 title 是 OREO SEPARATOR（links 是 vimeo 86574341），但官方 awards 兩筆的 entry_titles 是 LIFE RAFT 與 WHISPER FIGHT（各一座影片類銀獅），讀稿照官方寫這兩支，沒有寫 Oreo Separator；請驗收員判斷是否要拆成兩件或改 title。uncertain：Life Raft 只找到 adRuby 的一句話說明與畫面，沒有劇情文字來源，D&AD 的 Oreo Life Raft 頁是 2014 年、內容是另一個說法，未採用；缺 Life Raft 的完整描述。圖是 Life Raft 的分鏡格（官方體檢 ○，第 2 格幾乎只有天空，改用第 4 格）。已搜爭議：搜「Oreo Whisper Fight Life Raft Wieden+Kennedy」，沒有爭議。搜尋摘要（含 AdNews 對 Life Raft 的描述）未寫入。 2026-11-16 Opus 驗：官方兩件 LIFE RAFT、WHISPER FIGHT 是同一個「Cookie or Creme?」系列、各得一座影片銀獅，依規則卡「同一場行動的不同作品只收一筆」，建議不拆、維持一筆；in 檔 title 與 vimeo 連結的 Oreo Separator 疑似是之後的另一支，title 欄未改，請主對話決定是否改 title。再搜 Life Raft 劇情仍只有搜尋摘要（未寫入），維持 uncertain。"
  },
  {
   "id": "ltwm-06557",
@@ -531,24 +569,26 @@
     "level": "Bronze",
     "category": "Film",
     "subcategory": "Publications & Media",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    }
   ],
   "awards_unverified": [],
   "idea_one_liner": "英國 Channel 4 為首播障礙賽馬 Grand National 拍預告片，十匹馬在利物浦街頭，跳過汽車與花園圍籬",
   "brand_display": "Channel 4",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜影片類銅獅 Film Bronze Lion｜代理商：CHANNEL 4 London\n\n【背景】2013 年 Channel 4 第一次轉播英國最知名的障礙賽馬大賽 Grand National（地點在艾恩特里賽馬場，4 月舉行），需要一支預告片把觀眾帶進來。\n\n【點子】把賽場搬到街上：用利物浦的城市取代艾恩特里賽馬場，傳統的障礙欄換成街上會遇到的東西。\n\n【執行】4creative 製作，創意總監是 Chris Bovill 與 John Allison，導演是 Keith McCarthy。預告片裡十匹馬和騎師衝過利物浦 Everton Park 一帶的住宅區，跳過花園圍籬、菜園、停著的汽車、野餐桌，片中還有《戰馬》（War Horse）裡 Joey 的原馬（Sultan）出現，在鴨池與球場上奔跑。拍攝用了 300 人的工作團隊與 300 位臨時演員，花兩天完成，馬匹由專拍電影特技馬的 The Devil's Horsemen 提供，騎師有特技騎士與業餘障礙賽騎師，總共拍了約 50 小時、用 25 台攝影機（含 GoPro 與 Alexa）。現場搭了臨時場景：延伸出去的後院、水池、足球場、滑板場、市集攤位，還種了 900 朵人造水仙。作品圖拍到一匹馬載著穿橘黃綠騎士服的騎師，躍過路邊停著的汽車，後方圍著看熱鬧的人群。預告片 3 月 19 日晚上 9 點在 Channel 4 各頻道首播，另有全國海報。\n\n資料來源：\nhttps://www.channel4.com/press/news/channel-4-stages-horse-race-through-streets-liverpool\nhttps://www.liverpoolfilmoffice.tv/?p=1427",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜影片類銅獅 Film Bronze Lion｜代理商：CHANNEL 4 London\n\n【背景】2013 年 Channel 4 第一次轉播英國最知名的障礙賽馬大賽 Grand National（地點在艾恩特里賽馬場，4 月舉行），需要一支預告片把觀眾帶進來。\n\n【點子】把賽場搬到街上：用利物浦的城市取代艾恩特里賽馬場，傳統的障礙欄換成街上會遇到的東西。\n\n【執行】4creative 製作，創意總監是 Chris Bovill 與 John Allison，導演是 Keith McCarthy。預告片裡十匹馬和騎師衝過利物浦 Everton Park 一帶的住宅區，跳過花園圍籬、菜園、停著的汽車、野餐桌，片中還有《戰馬》（War Horse）裡 Joey 的原馬（Sultan）出現，在鴨池與球場上奔跑。拍攝用了 300 人的工作團隊與 300 位臨時演員，花兩天完成，馬匹由專拍電影特技馬的 The Devil's Horsemen 提供，騎師有特技騎士與業餘障礙賽騎師，總共拍了約 50 小時、用 25 台攝影機（含 GoPro 與 Alexa）。現場搭了臨時場景：延伸出去的後院、水池、足球場、滑板場、市集攤位，還種了 900 朵人造水仙。作品圖拍到一匹馬載著穿橘黃綠騎士服的騎師，躍過路邊停著的汽車，後方圍著看熱鬧的人群。預告片 3 月 19 日晚上 9 點在 Channel 4 各頻道首播，另有全國海報。\n\n資料來源：\nhttps://www.channel4.com/press/news/channel-4-stages-horse-race-through-streets-liverpool\nhttps://www.liverpoolfilmoffice.tv/?p=1427\nhttps://www.channel4.com/press/news/4creative-win-uks-only-grand-prix-2013-cannes-lions",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片類, Film Lions, 銅獅, Bronze Lion, 出版與媒體, Publications & Media, Channel 4, 4creative, 4creative London, 電視台, 電視推廣, On Air TV Promotion, 預告片, Trailer, 賽馬, 障礙賽馬, Grand National, 利物浦, Liverpool, 街頭, 馬, 騎師, 汽車, 野餐桌, 花園, 戰馬, War Horse, 特技, 運動轉播, 體育, 英國, United Kingdom, 90秒, 幽默, 場景移植, 反差, 海報, 影片, TVC",
   "category": "行銷案例",
   "references": [
    "https://www.channel4.com/press/news/channel-4-stages-horse-race-through-streets-liverpool",
-   "https://www.liverpoolfilmoffice.tv/?p=1427"
+   "https://www.liverpoolfilmoffice.tv/?p=1427",
+   "https://www.channel4.com/press/news/4creative-win-uks-only-grand-prix-2013-cannes-lions"
   ],
   "image_url": "https://liverpoolfilmoffice.tv/wp-content/uploads/2013/03/national-advert-620-827958382.jpg",
   "image_shows": "一匹馬載著穿橘黃綠騎士服的騎師躍過路邊停著的汽車，後方是圍觀的人群與廂型車",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 LTW 卡片只有基本資料，沒有任何一頁把標題「STREET RACE」直接連到這支片；依 Channel 4（4creative）、2013、影片銅獅與內容（街上賽馬）推定就是 Grand National 利物浦預告片，Channel 4 新聞稿與 Liverpool Film Office 文章都沒有出現「Street Race」字樣，請驗收員確認。官方 case board 太小（80×80），圖改用 Liverpool Film Office 的拍攝現場照（不是影片截圖）。爭議：動物保護團體 Animal Aid 在 2013 年 4 月抗議此片「把賽事危險放大」（來源只有 The Drum 與搜尋摘要，The Drum 頁面 403，未能打開，未寫入），屬對題材的一般批評，不算造假，讀稿未寫。已搜爭議：搜「Channel 4 Grand National street race advert controversy」。搜尋摘要未寫入。"
+  "note": "官方 LTW 卡片只有基本資料，沒有任何一頁把標題「STREET RACE」直接連到這支片；依 Channel 4（4creative）、2013、影片銅獅與內容（街上賽馬）推定就是 Grand National 利物浦預告片，Channel 4 新聞稿與 Liverpool Film Office 文章都沒有出現「Street Race」字樣，請驗收員確認。官方 case board 太小（80×80），圖改用 Liverpool Film Office 的拍攝現場照（不是影片截圖）。爭議：動物保護團體 Animal Aid 在 2013 年 4 月抗議此片「把賽事危險放大」（來源只有 The Drum 與搜尋摘要，The Drum 頁面 403，未能打開，未寫入），屬對題材的一般批評，不算造假，讀稿未寫。已搜爭議：搜「Channel 4 Grand National street race advert controversy」。搜尋摘要未寫入。 2026-11-16 Opus 驗：事實確認：Channel 4 新聞稿〈4Creative win UK's only Grand Prix at 2013 Cannes Lions〉寫 Grand National 賽馬廣告活動在 2013 坎城得銅獅，與官方影片銅獅（代理商 Channel 4）對得上，推定成立；Channel 4 2013-03-19 新聞稿內文未出現 Street Race 字樣。官方 case board 80×80 不能用，維持現場照。"
  }
 ]

@@ -15,62 +15,71 @@
     "level": "Titanium",
     "category": "Titanium",
     "subcategory": "Titanium and Integrated",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Bronze",
     "category": "Design",
     "subcategory": "Public Spaces",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Bronze",
     "category": "Media",
     "subcategory": "Charities, Public Health & Safety, Public Awareness Messages",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Silver",
     "category": "Outdoor",
     "subcategory": "Special Build",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Promo & Activation",
     "subcategory": "Best Use of Ambient in a Promotional Campaign",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Promo & Activation",
     "subcategory": "Public Health & Safety, Pubic Awareness Messages",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Bronze",
     "category": "Direct",
     "subcategory": "Ambient Media: large scale",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Silver",
     "category": "PR",
     "subcategory": "Financial Services, incl. Investor Relations and Corporate Finance",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Bronze",
     "category": "PR",
     "subcategory": "Corporate Responsibility",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    }
   ],
   "awards_unverified": [],
   "decision": "收",
   "idea_one_liner": "首爾自殺熱點馬波大橋，韓國三星人壽在欄杆裝感應燈，行人走過就亮出「吃飯了嗎」等暖心短句，取代警告標語",
   "brand_display": "三星人壽 Samsung Life Insurance",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜鈦獅 Titanium Lion、Promo & Activation類金獅 Promo & Activation Gold Lion×2、戶外類銀獅 Outdoor Silver Lion、公關類銀獅 PR Silver Lion、設計類銅獅 Design Bronze Lion、直效類銅獅 Direct Bronze Lion、媒體類銅獅 Media Bronze Lion、公關類銅獅 PR Bronze Lion｜代理商：CHEIL WORLDWIDE Seoul\n\n【背景】韓國的自殺率在經濟合作暨發展組織（OECD）國家中偏高。首爾漢江上有二十多座橋，其中馬波大橋因為有人行道可以步行上橋，成了常有人輕生的地點；報導寫到五年內有 108 人從橋上跳下、48 人死亡。首爾市政府找來三星人壽與廣告公司 Cheil Worldwide，想推廣「尊重生命」，並把這座橋重新定位成撫慰人心的地方。\n\n【點子】不蓋實體圍欄，也不掛警告標語，而是讓橋本身開口跟路過的人說話：用溫暖的話代替勸阻。\n\n【執行】橋的欄杆上裝了感應器，有人走過，欄杆上就依序亮起短句，像橋在對行人說話。內容是關心的話、安慰人的歌詞和笑話，例如「我愛你」「你吃飯了嗎？」，而不是「請勿跳橋」這類警告，文字是跟心理學家與自殺防治工作者一起討論出來的。橋中段設有「影像區」，展示嬰兒、笑著的祖父母和年輕情侶的照片；另有一座銅像，兩位朋友其中一人在安慰另一人，銅像背面寫著「老兄，再想一次吧」（Hey dude, just think about it once again）。\n\n【爭議】坎城得獎之後，有創意人公開批評這個案子可能適得其反：Dentsu 香港的集團創意總監 Sammy Lau 在文章中引用數字，指 2013 年這座橋有 93 人輕生，是前一年 15 人的六倍，認為橋的知名度反而讓它變成熱點。Cheil 則反駁說這 93 人裡有 85 人被勸下來，實際跳橋的只有 8 人。兩邊的數字文章都沒有獨立查證。\n\n資料來源：\nhttps://archive.adgully.com/cheil-worldwide-creates-bridge-of-life-for-samsung-life-insurance-in-seoul-53289.html\nhttps://www.marketing-interactive.com/when-a-campaign-for-%E2%80%9Cthe-bridge-of-death%E2%80%9D-backfires\nhttps://www.lovethework.com/en/work/entries/bridge-of-life-198407",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜鈦獅 Titanium Lion、Promo & Activation類金獅 Promo & Activation Gold Lion×2、戶外類銀獅 Outdoor Silver Lion、公關類銀獅 PR Silver Lion、設計類銅獅 Design Bronze Lion、直效類銅獅 Direct Bronze Lion、媒體類銅獅 Media Bronze Lion、公關類銅獅 PR Bronze Lion｜代理商：CHEIL WORLDWIDE Seoul\n\n【背景】韓國的自殺率在經濟合作暨發展組織（OECD）國家中偏高。首爾漢江上有二十多座橋，其中馬波大橋因為有人行道可以步行上橋，成了常有人輕生的地點；報導寫到五年內有 108 人從橋上跳下、48 人死亡。首爾市政府找來三星人壽與廣告公司 Cheil Worldwide，想推廣「尊重生命」，並把這座橋重新定位成撫慰人心的地方。\n\n【點子】不蓋實體圍欄，也不掛警告標語，而是讓橋本身開口跟路過的人說話：用溫暖的話代替勸阻。\n\n【執行】橋的欄杆上裝了感應器，有人走過，欄杆上就依序亮起短句，像橋在對行人說話。內容是關心的話、安慰人的歌詞和笑話，例如「我愛你」「你吃飯了嗎？」，而不是「請勿跳橋」這類警告，文字是跟心理學家與自殺防治工作者一起討論出來的。橋中段設有「影像區」，展示嬰兒、笑著的祖父母和年輕情侶的照片；另有一座銅像，兩位朋友其中一人在安慰另一人，銅像背面寫著「老兄，再想一次吧」（Hey dude, just think about it once again）。\n\n【爭議】活動推出後，有創意人公開批評這個案子可能適得其反：Dentsu 香港的集團創意總監 Sammy Lau 在文章中引用數字，指 2013 年這座橋有 93 人輕生，是前一年 15 人的六倍，認為橋的知名度反而讓它變成熱點。Cheil 則反駁說這 93 人裡有 85 人被勸下來，實際跳橋的只有 8 人。兩邊的數字文章都沒有獨立查證。\n\n資料來源：\nhttps://archive.adgully.com/cheil-worldwide-creates-bridge-of-life-for-samsung-life-insurance-in-seoul-53289.html\nhttps://www.marketing-interactive.com/when-a-campaign-for-%E2%80%9Cthe-bridge-of-death%E2%80%9D-backfires\nhttps://www.lovethework.com/en/work/entries/bridge-of-life-198407",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 鈦獅, Titanium Lion, 鈦獅類, Titanium, 戶外類銀獅, Outdoor Silver Lion, 促銷與活化類金獅, Promo & Activation Gold Lion, 設計類銅獅, 公關類銀獅, 三星人壽, Samsung Life Insurance, Samsung, Cheil Worldwide, Cheil, 金融保險, 保險, 公益, 自殺防治, 生命教育, 公共空間, 橋, 馬波大橋, Mapo Bridge, 首爾, 漢江, 互動裝置, 感應燈, 欄杆, 銅像, 照片, 暖心, 情緒, 韓國, South Korea, 戶外廣告, 環境媒體, Ambient",
   "category": "行銷案例",
   "references": [
@@ -78,12 +87,12 @@
    "https://www.marketing-interactive.com/when-a-campaign-for-%E2%80%9Cthe-bridge-of-death%E2%80%9D-backfires",
    "https://www.lovethework.com/en/work/entries/bridge-of-life-198407"
   ],
-  "image_url": "https://adgully.com/img/800/53289_bridge-of-life-samsung-life-insurance-1.jpg",
+  "image_url": "https://www.adgully.com/img/800/53289_bridge-of-life-samsung-life-insurance-1.jpg",
   "image_shows": "橋上欄杆貼著一排食物照片與韓文短句的面板，一對男女站在欄杆邊指著看，背景是漢江與對岸大樓",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片頁只有標題與獎項，內容依 Adgully 報導與官方案例說明整理；Campaign Asia 全文需登入、The Drum 回 403，皆未讀到。官方獎項含鈦獅、促銷與活化金獅等多座（以 in 檔 official 為準）。已搜爭議：搜「Bridge of Life Samsung controversy」，找到 Marketing Interactive 轉述 Dentsu 香港創意總監批評及 Cheil 回應，已寫入【爭議】；數字兩方未獨立查證。搜尋摘要提到的 77% 降幅是 Cheil 自家說法，未寫入。"
+  "note": "官方卡片頁只有標題與獎項，內容依 Adgully 報導與官方案例說明整理；Campaign Asia 全文需登入、The Drum 回 403，皆未讀到。官方獎項含鈦獅、促銷與活化金獅等多座（以 in 檔 official 為準）。已搜爭議：搜「Bridge of Life Samsung controversy」，找到 Marketing Interactive 轉述 Dentsu 香港創意總監批評及 Cheil 回應，已寫入【爭議】；數字兩方未獨立查證。搜尋摘要提到的 77% 降幅是 Cheil 自家說法，未寫入。 2026-11-16 Opus 驗：事實抽查 Marketing Interactive：Dentsu 香港 Sammy Lau 批評、2012 年 15 人對 2013 年 93 人、Cheil 回應 85 人被勸下僅 8 人跳下，相符。這是「被指成效相反」，【爭議】段保留，只把「坎城得獎之後」改成「活動推出後」（不在內文講得獎）。原圖網址會 301 轉到 www.adgully.com，改直連。"
  },
  {
   "id": "ltwm-05924",
@@ -101,7 +110,8 @@
     "level": "Grand Prix",
     "category": "Mobile",
     "subcategory": "",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    }
   ],
   "awards_unverified": [],
@@ -139,12 +149,13 @@
     "level": "Titanium",
     "category": "Titanium",
     "subcategory": "Titanium and Integrated",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    }
   ],
   "awards_unverified": [],
   "decision": "收",
-  "idea_one_liner": "馬其頓政府拍片推動宗教寬容，內容是伊斯蘭與東正教代表，首次在村裡同一座廟一起禱告，片名意為「相隔十公尺」",
+  "idea_one_liner": "馬其頓政府拍片推動宗教寬容：在伊斯蘭教與東正教共用的村廟裡，兩教代表首次一起禱告",
   "brand_display": "馬其頓共和國政府 Government of Republic of Macedonia",
   "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜鈦獅 Titanium Lion｜代理商：Y&R NEW MOMENT NEW IDEAS COMPANY Skopje\n\n【背景】這支約兩分鐘的影片是馬其頓政府鼓勵族群共存的一系列行動之一。影片一開始放 2001 年阿爾巴尼亞裔武裝分子與安全部隊衝突的舊影像，字幕寫著：曾經是文化十字路口的國家，如今分裂成兩個族群。\n\n【點子】影片選在一座同時給基督徒與穆斯林使用的村裡廟宇，讓兩個宗教的正式代表在這裡一起禱告。片名是《10 Meters Apart》（相隔十公尺）；來源沒有說明這個距離的由來。\n\n【執行】影片拍攝這座村廟裡的第一次聯合禱告，約在 1 分 20 秒左右出現。由伊斯蘭社群代表 Miftar Islami 與馬其頓東正教會代表 Mihail 神父帶領。影片結尾字幕是「和平是一個永不結束的過程」（Peace is a never ending process）。創意總監是 Dusan Drakalski。\n\n資料來源：\nhttps://www.rferl.org/a/macedonia-religion-cannes-lion-tolerance-commercial/25026449.html\nhttps://www.lovethework.com/en/work/entries/10-meters-apart-181421",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 鈦獅, Titanium Lion, 鈦獅類, Titanium and Integrated, 馬其頓共和國政府, Government of Republic of Macedonia, 馬其頓, Macedonia, Y&R, New Moment New Ideas, 政府, 公共事務, 宗教, 宗教寬容, 族群融合, 和平, 基督教, 伊斯蘭教, 東正教, 禱告, 共同禱告, 廟宇, 村落, 影片, 電視廣告, 公益, 情緒, 巴爾幹, Balkans, 10 Meters Apart, 十公尺",
@@ -158,7 +169,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方案例頁只有標題與獎項，內容依自由歐洲電台（RFE/RL）報導整理；原定的 in 檔連結是 YouTube，未讀到影片逐字內容。圖片為官方影片 storyboard 第 12 格的片頭字卡（其他分鏡格多為全黑或水墨動畫，找不到更能看出點子的畫面）。官方獎項只有鈦獅一座。已搜爭議：搜「10 Meters Apart Macedonia controversy／staged／fake」，沒有造假或撤獎紀錄；RFE/RL 文章只提到當地媒體稱讚。"
+  "note": "官方案例頁只有標題與獎項，內容依自由歐洲電台（RFE/RL）報導整理；原定的 in 檔連結是 YouTube，未讀到影片逐字內容。圖片為官方影片 storyboard 第 12 格的片頭字卡（其他分鏡格多為全黑或水墨動畫，找不到更能看出點子的畫面）。官方獎項只有鈦獅一座。已搜爭議：搜「10 Meters Apart Macedonia controversy／staged／fake」，沒有造假或撤獎紀錄；RFE/RL 文章只提到當地媒體稱讚。 2026-11-16 Opus 驗：一句話原句的逗號拆開主詞與動作，改寫。事實抽查 RFE/RL：兩教共用一座廟、Miftar Islami 與 Mihail 神父、1 分 20 秒、結尾字幕、Dusan Drakalski 相符。",
+  "idea_one_liner_r0": "馬其頓政府拍片推動宗教寬容，內容是伊斯蘭與東正教代表，首次在村裡同一座廟一起禱告，片名意為「相隔十公尺」"
  },
  {
   "id": "ltwm-05925",
@@ -176,31 +188,36 @@
     "level": "Silver",
     "category": "Design",
     "subcategory": "Posters",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Silver",
     "category": "Design",
     "subcategory": "Public Spaces",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Media",
     "subcategory": "Best Use of Ambient Media: Large Scale",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Media",
     "subcategory": "Corporate Image & Information",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Grand Prix",
     "category": "Outdoor",
     "subcategory": "Corporate Image",
-    "count": 1
+    "count": 1,
+    "source_count": 3
    }
   ],
   "awards_unverified": [],
@@ -237,19 +254,22 @@
     "level": "Gold",
     "category": "PR",
     "subcategory": "Best Launch or Re-launch",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Bronze",
     "category": "PR",
     "subcategory": "Technology and Manufacturing",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Bronze",
     "category": "PR",
     "subcategory": "Celebrity Endorsement",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    }
   ],
   "awards_unverified": [],
@@ -287,25 +307,29 @@
     "level": "Silver",
     "category": "Mobile",
     "subcategory": "",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Bronze",
     "category": "Promo & Activation",
     "subcategory": "Public Health & Safety, Pubic Awareness Messages",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Direct",
     "subcategory": "Mobile Marketing",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Gold",
     "category": "Direct",
     "subcategory": "Public Health & Safety, Public Awareness Messages",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    }
   ],
   "awards_unverified": [],
@@ -352,7 +376,7 @@
   "text_source_level": 0,
   "uncertain": false,
   "needs_audio": false,
-  "note": "in 檔 official 沒有任何獎項資料（official_awards 為空），官方卡片頁（made-with-ibm-219389）只有標題。搜尋結果顯示 lovethework 上的「Made with IBM」是 Ogilvy New York 為 IBM 做的 2014 年作品（在 Masters 高爾夫賽事贊助期間推出），查不到 2013 年坎城得獎紀錄；in 檔連結 youfoundlauren.com 在雲端被擋（網域不在允許清單，需開放後才能打開）。沒有內容也無法確認得獎，暫設為不收；若主對話能確認 2013 年有得獅子獎（可能是別支 IBM 作品被誤植），請改派。已搜爭議：搜「Made with IBM Ogilvy 2013 Cannes Lions」只得到獎項與案例頁，無爭議紀錄。"
+  "note": "in 檔 official 沒有任何獎項資料（official_awards 為空），官方卡片頁（made-with-ibm-219389）只有標題。搜尋結果顯示 lovethework 上的「Made with IBM」是 Ogilvy New York 為 IBM 做的 2014 年作品（在 Masters 高爾夫賽事贊助期間推出），查不到 2013 年坎城得獎紀錄；in 檔連結 youfoundlauren.com 在雲端被擋（網域不在允許清單，需開放後才能打開）。沒有內容也無法確認得獎，暫設為不收；若主對話能確認 2013 年有得獅子獎（可能是別支 IBM 作品被誤植），請改派。已搜爭議：搜「Made with IBM Ogilvy 2013 Cannes Lions」只得到獎項與案例頁，無爭議紀錄。 2026-11-16 Opus 驗：再搜「Made with IBM Cannes Lions」：Lovethework 列為 OGILVY NEW YORK／IBM／2014，在 Masters 高爾夫賽期間推出，查不到 2013 年得獎；in 檔沒有 official 獎項，疑似 2014 作品誤植進 2013 名單。decision 維持不收，請主對話到 2014 名單比對。"
  },
  {
   "id": "ltwm-06240",
@@ -370,13 +394,15 @@
     "level": "Silver",
     "category": "Media",
     "subcategory": "Best Use of Special Events and Stunt/Live Advertising",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    },
    {
     "level": "Silver",
     "category": "Media",
     "subcategory": "Best Use of Mobile Devices",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    }
   ],
   "awards_unverified": [],
@@ -414,7 +440,8 @@
     "level": "Silver",
     "category": "Outdoor",
     "subcategory": "Cars & Automotive Services",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    }
   ],
   "awards_unverified": [],
@@ -433,7 +460,7 @@
   "text_source_level": 1,
   "uncertain": true,
   "needs_audio": false,
-  "note": "uncertain：官方卡片頁與 Ads of the World 只有名單與標題，沒有任何文字說明；點子只能依案例板三張照片與作品名「2 IN 1」推測，無法確認看板的實際機關（為何車子會換位、兩則廣告如何共用一個框）。缺：agency／媒體報導或影片說明。依作品畫面解讀，無文字說明。官方品牌為 MERCEDES-BENZ（產品 SMART），in 檔品牌欄寫 SMART、標題寫 FITS ANYWHERE，與官方作品名 2 IN 1 不同，以官方為準。搜到 Adweek 一篇 Contrapunto BBDO 的 Smart『Siempre hay un hueco』（車嵌在看板縫隙）報導，不確定是同件，未寫入。已搜爭議：搜「Smart 2 in 1 Contrapunto BBDO controversy／plagiarism」，無相關紀錄（Adweek 那篇提到類似點子在別處出現，但那篇不確定是本件，未採用）。"
+  "note": "uncertain：官方卡片頁與 Ads of the World 只有名單與標題，沒有任何文字說明；點子只能依案例板三張照片與作品名「2 IN 1」推測，無法確認看板的實際機關（為何車子會換位、兩則廣告如何共用一個框）。缺：agency／媒體報導或影片說明。依作品畫面解讀，無文字說明。官方品牌為 MERCEDES-BENZ（產品 SMART），in 檔品牌欄寫 SMART、標題寫 FITS ANYWHERE，與官方作品名 2 IN 1 不同，以官方為準。搜到 Adweek 一篇 Contrapunto BBDO 的 Smart『Siempre hay un hueco』（車嵌在看板縫隙）報導，不確定是同件，未寫入。已搜爭議：搜「Smart 2 in 1 Contrapunto BBDO controversy／plagiarism」，無相關紀錄（Adweek 那篇提到類似點子在別處出現，但那篇不確定是本件，未採用）。 2026-11-16 Opus 驗：再搜「smart fortwo 2 in 1 billboard Contrapunto BBDO」，Ads of the World 仍只有名單（2013 年 6 月西班牙），沒有做法說明，維持 uncertain。"
  },
  {
   "id": "ltwm-06604",
@@ -451,12 +478,13 @@
     "level": "Bronze",
     "category": "Design",
     "subcategory": "Print and Poster Ads",
-    "count": 1
+    "count": 1,
+    "source_count": 1
    }
   ],
   "awards_unverified": [],
   "decision": "收",
-  "idea_one_liner": "IBM 專利數連續二十年居美國企業之冠，挑出二十項專利，請五大洲二十組團隊，把艱澀的專利文件，重畫成抽象海報",
+  "idea_one_liner": "IBM 專利數連續 20 年居美國企業之冠，挑出 20 項專利，請五大洲 20 組創意團隊重畫成抽象海報",
   "brand_display": "IBM",
   "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜設計類銅獅 Design Bronze Lion｜代理商：OGILVY NEW YORK\n\n【背景】IBM 在前一年拿到 6,478 項美國專利，是美國企業中最多的，也是連續第 20 年第一。創新很出色，但專利文件本身讀起來非常乏味，要怎麼用一種配得上這項紀錄的方式，來展示並紀念它？\n\n【點子】把專利文件重新發明：讓一般人也看得懂、喜歡的樣子，專利圖變成藝術作品。\n\n【執行】IBM 先從 65,000 項可能的創新裡縮小成 20 項名單，再請來自五大洲的 20 組創意團隊重新詮釋這些專利文件：像流程圖的抽象圖解變成抽象畫作，艱澀的法律文字被改寫，再用視覺方式翻譯出來。案例板上展示了其中六張：即時詐欺防制、電子病歷彙整、交通預測分析、大規模影片串流監控、情緒分析、自冷式資料中心。每張海報上方標著專利號碼與「Marking 20 Years of Patent Leadership」（紀念 20 年專利領先）和第幾張、共 20 張，下方有一小段用白話說明這項專利做什麼，例如即時詐欺防制那張寫的是：這套專利系統能在刷卡詐騙發生前就阻止，因為消費地點必須符合你填的旅行行程，不符合就會被擋下。IBM 說這 20 張成品是提醒 IBM 發明家與全世界、人們花時間思考（THINK）會發生什麼事的永久紀念。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/think-patent-x-20-posters-179812\nhttps://ascentialcdn.filespin.io/api/v1/conversion/effecb0fb5db45698e56f28183f0f131",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 設計類銅獅, Design Bronze Lion, 設計類, Design, 平面與海報, Print and Poster Ads, IBM, Ogilvy, Ogilvy New York, 科技, 專利, Patent, THINK, THINK20, 海報, 系列海報, 平面廣告, 插畫, 抽象, 幾何, 資訊視覺化, 圖解, 流程圖, 20 週年, 創意團隊, 美國, United States, 詐欺防制, 資料中心, 情緒分析",
@@ -470,6 +498,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片頁（ltw 179812）沒有說明文字，內容依官方案例板上的文字（Challenge／Solution）與海報畫面整理；Behance 與 Fast Company 回 403，未讀到。案例板上的小字很小，海報說明文字只讀出第一張（即時詐欺防制）。已搜爭議：搜「IBM Think Patent 20 posters controversy／plagiarism」，只有 One Show 獎項頁，無爭議紀錄。"
+  "note": "官方卡片頁（ltw 179812）沒有說明文字，內容依官方案例板上的文字（Challenge／Solution）與海報畫面整理；Behance 與 Fast Company 回 403，未讀到。案例板上的小字很小，海報說明文字只讀出第一張（即時詐欺防制）。已搜爭議：搜「IBM Think Patent 20 posters controversy／plagiarism」，只有 One Show 獎項頁，無爭議紀錄。 2026-11-16 Opus 驗：一句話原句的逗號拆開受詞與動詞，改寫。",
+  "idea_one_liner_r0": "IBM 專利數連續二十年居美國企業之冠，挑出二十項專利，請五大洲二十組團隊，把艱澀的專利文件，重畫成抽象海報"
  }
 ]
