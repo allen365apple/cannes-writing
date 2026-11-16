@@ -30,12 +30,12 @@
    "https://www.lovethework.com/en/work/entries/swarm-153708",
    "https://media.lexus.ca/en/releases/2013/swarm-the-second-project-in-the-lexus-amazing-in-motion-global-brand-series.html"
   ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/19dcf839b9484a06975414153c2f1014/storyboard_000002.jpg",
-  "image_shows": "影片分鏡格：夜裡的溫哥華天際線，疊著「AMAZING IN MOTION，CREATED BY LEXUS & KMEL ROBOTICS」字樣（看不到無人機）",
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/19dcf839b9484a06975414153c2f1014/storyboard_000014.jpg",
+  "image_shows": "影片分鏡格：夜裡打烊的店內，一架亮著藍色燈、白色機身的四旋翼無人機懸停在半空",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方頁面只有標題與獎項，內容依 Lexus 加拿大官方新聞稿整理。已搜爭議：搜 Lexus Swarm CGI／fake，只有後來 Subaru 無人機廣告被指大量使用電腦動畫，Lexus 這支沒有造假指控（搜尋摘要未寫入）。分鏡圖只是片頭字卡，看不到無人機，圖不理想；找不到更好的官方圖（YouTube 影片網址未取得）。"
+  "note": "官方頁面只有標題與獎項，內容依 Lexus 加拿大官方新聞稿整理。已搜爭議：搜 Lexus Swarm CGI／fake，只有後來 Subaru 無人機廣告被指大量使用電腦動畫，Lexus 這支沒有造假指控（搜尋摘要未寫入）。分鏡圖只是片頭字卡，看不到無人機，圖不理想；找不到更好的官方圖（YouTube 影片網址未取得）。 2026-11-16 Opus 驗：原圖 storyboard_000002 是片頭字卡、看不到無人機，換成 000014（已打開看）。"
  },
  {
   "id": "ltwm-07147",
@@ -111,7 +111,7 @@
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": true,
-  "note": "音檔：https://adsspot.me/media/radio/lexus-precognition-audio-d25fdbaf96d2（網頁抓取被擋 403，沒打開過，只在搜尋結果看到網址，另有 https://adsspot.me/media/radio/lexus-precognition-d54dd7fa4355）。缺：廣播文字內容與做法。官方 ltw 頁無內文；候選圖是片頭「JUDGES NOTE」字卡、看不出點子，沒用，image_url 留空，找不到好圖。已搜爭議：搜 Lexus Precognition 廣播 controversy，沒有相關報導（搜尋摘要未寫入）。Clio 頁面顯示此作在 Clio 只列入 shortlist（與本件坎城銅獅無關）。"
+  "note": "音檔：https://adsspot.me/media/radio/lexus-precognition-audio-d25fdbaf96d2（網頁抓取被擋 403，沒打開過，只在搜尋結果看到網址，另有 https://adsspot.me/media/radio/lexus-precognition-d54dd7fa4355）。缺：廣播文字內容與做法。官方 ltw 頁無內文；候選圖是片頭「JUDGES NOTE」字卡、看不出點子，沒用，image_url 留空，找不到好圖。已搜爭議：搜 Lexus Precognition 廣播 controversy，沒有相關報導（搜尋摘要未寫入）。Clio 頁面顯示此作在 Clio 只列入 shortlist（與本件坎城銅獅無關）。 2026-11-16 Opus 驗：再查：adsspot 兩個網址 curl 都是 Cloudflare 驗證頁；LTW 作品頁內容要 JS 載入、抓不到；搜尋只找到 Lexus 南非「看板讀心」與 FCB 開普敦自動調整車頭燈看板等別的作品，搜尋摘要另稱 LTW 這筆 Radio 條目的說明文字是 Old Mutual 的內容（疑似錯置，未寫入）。維持 uncertain，缺：音檔逐字稿。"
  },
  {
   "id": "ltwm-07149",
@@ -149,7 +149,7 @@
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": true,
-  "note": "音檔：Radiopub 第 1 支 https://radiopub.fr/wp-content/uploads/radiopub_spot_sfim2_2169.mp3（頁面上的相對路徑補成完整網址，沒下載；第 1 支不是官方報名的 2、3、5，官方報名的三支音檔沒找到）。缺：三支得獎廣播的文字內容與做法。候選圖只有預留的 SVG 圖示，找不到可用的圖，image_url 留空。官方 ltw 頁抓不到內文。已搜爭議：搜 Project English Day Joe Public controversy，沒有相關報導（搜尋摘要未寫入）。"
+  "note": "音檔：Radiopub 第 1 支 https://radiopub.fr/wp-content/uploads/radiopub_spot_sfim2_2169.mp3（頁面上的相對路徑補成完整網址，沒下載；第 1 支不是官方報名的 2、3、5，官方報名的三支音檔沒找到）。缺：三支得獎廣播的文字內容與做法。候選圖只有預留的 SVG 圖示，找不到可用的圖，image_url 留空。官方 ltw 頁抓不到內文。已搜爭議：搜 Project English Day Joe Public controversy，沒有相關報導（搜尋摘要未寫入）。 2026-11-16 Opus 驗：再查：joepublicunited.co.za/work/project-english 只是作品列表頁、沒有這件；LTW 的 Project English（Titanium 條目 140273 與 campaign non-profit-organisation-227856）內容要 JS 載入、curl 與 WebFetch 都抓不到。搜尋摘要稱 LTW 文字寫：一名學生每天早上在 SAfm 唸廣播稿、下午接受英語家教，一週後再播，募款聘全職英語老師（未打開原文、未寫入）。維持 uncertain，缺：能打開的文字來源或音檔逐字稿，本機可用瀏覽器開 LTW 該 campaign 頁補寫。"
  },
  {
   "id": "ltwm-07150",
@@ -227,7 +227,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方頁面只有標題，內容依官方案例板與 Direct New Ideas 整理（救援人數、來電增加比例等成效未寫入）。案例板稱廣播「在幫傭才聽得懂的語言」，Direct New Ideas 沒列出是哪幾種語言，讀稿因此未列。已搜爭議：搜 Rescue Radio Sawa Mninjah controversy／withdrawn，沒有相關報導。"
+  "note": "官方頁面只有標題，內容依官方案例板與 Direct New Ideas 整理（救援人數、來電增加比例等成效未寫入）。案例板稱廣播「在幫傭才聽得懂的語言」，Direct New Ideas 沒列出是哪幾種語言，讀稿因此未列。已搜爭議：搜 Rescue Radio Sawa Mninjah controversy／withdrawn，沒有相關報導。 2026-11-16 Opus 驗：事實抽查：重開 Direct New Ideas 與官方案例板，20 萬名幫傭、四家全國電台、偽裝成吵鬧輕快的消費品廣告、律師擬救援計畫，相符（國家名案例板寫菲律賓、斯里蘭卡、肯亞、尼泊爾，與讀稿一致）。"
  },
  {
   "id": "ltwm-07155",
@@ -358,7 +358,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "墨爾本觀光局讓網友，在網站與社群上指揮四位真人遊客，頭戴直播攝影機，替自己在墨爾本到處逛、吃、玩",
+  "idea_one_liner": "墨爾本觀光局找來四位遊客，頭戴直播攝影機，讓網友在網站與社群上指揮他們，替自己逛、吃、玩遍墨爾本",
   "brand_display": "Melbourne",
   "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜Cyber類銅獅 Cyber Bronze Lion×5｜代理商：TOOL Los Angeles, CA / CLEMENGER BBDO MELBOURNE / CLEMENGER BBDO MELBOURNE\n\n【背景】墨爾本不像澳洲其他城市有知名的大地標，而是有上百個需要花時間探索的小體驗。要讓人在出發前就感受到，得讓他們「親身去逛」。\n\n【點子】案例板的說法：做一個互動網頁，讓潛在遊客透過四位真實遊客的眼睛與耳朵自己去探索，也就是真正做到「go before you go」（出發之前先去）。\n\n【執行】Clemenger BBDO 墨爾本與 Tool of North America 合作，由維多利亞州觀光局推出。四位「城市探險家」戴著裝有直播攝影機、麥克風與 GPS 的頭盔，他們經歷什麼，網友就看到什麼；同一時間只有兩位在線上直播，網站有兩條直播頻道。網友透過 Twitter 與 Facebook 發出請求，例如要遊客去嘗某種食物、到某條街看塗鴉，也可以在網站的動態與聊天室和遊客對話。網站上的 Google 地圖收錄超過 500 個墨爾本的好去處，會即時顯示遊客的位置與附近地點，Foursquare 打卡、Instagram 照片記錄行程，每天的精華則立刻剪成 YouTube 影片，累積成一份眾包的墨爾本城市指南。活動為期五天，從 2013 年 10 月 9 日到 13 日。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/remote-control-tourist-161072\nhttps://www.bandt.com.au/Remote-control-a-Melbourne-tourist/\nhttps://ascentialcdn.filespin.io/api/v1/conversion/975290de1b204d9eb6e116f24783b8df",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 銅獅, Bronze Lion, 墨爾本, Melbourne, 維多利亞州觀光局, Tourism Victoria, 觀光, 旅遊, 城市行銷, Tool of North America, TOOL Los Angeles, Clemenger BBDO Melbourne, CLEMENGER BBDO MELBOURNE, Clemenger BBDO, 互動網頁, 網站, 直播, Live Stream, 直播頭盔, 頭盔攝影機, 穿戴式裝置, Wearable, 遠端遙控, Remote Control, 眾包, Crowdsourcing, 社群互動, Twitter, Facebook, Instagram, Foursquare, Google Maps, 地圖, 澳洲, Australia, 美國, United States",
@@ -373,7 +373,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方頁面只有標題，內容依官方案例板與 B&T 報導整理（社群曝光、各國互動數等成效未寫入）。官方有 5 個 Cyber 銅獅（同作品不同報名）合併成一筆，award_line 照 official。已搜爭議：搜 Remote Control Tourist controversy／fake／staged，沒有造假或抄襲指控；搜尋摘要提到遊客是演員，但打開過的頁面沒有此說法，該摘要未寫入讀稿。"
+  "note": "官方頁面只有標題，內容依官方案例板與 B&T 報導整理（社群曝光、各國互動數等成效未寫入）。官方有 5 個 Cyber 銅獅（同作品不同報名）合併成一筆，award_line 照 official。已搜爭議：搜 Remote Control Tourist controversy／fake／staged，沒有造假或抄襲指控；搜尋摘要提到遊客是演員，但打開過的頁面沒有此說法，該摘要未寫入讀稿。 2026-11-16 Opus 驗：一句話原本「讓網友，在網站」逗號拆開動詞與受詞，改寫。事實抽查：重開 B&T，日期 2013/10/9～13、四位遊客同時兩位上線、Clemenger BBDO 與 Tool of North America，相符。",
+  "idea_one_liner_r0": "墨爾本觀光局讓網友，在網站與社群上指揮四位真人遊客，頭戴直播攝影機，替自己在墨爾本到處逛、吃、玩"
  },
  {
   "id": "ltwm-07152",

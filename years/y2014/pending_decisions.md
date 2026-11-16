@@ -119,3 +119,10 @@
 - 待本機確認：b046 ltwm-07107 Intel 官方三支只寫 Mick Ebeling（另兩支沒找到內容）；b046 ltwm-07108 BILL 那張沒找到畫面；b045 ltwm-07169 AXE 五則只看到三則；b046 ltwm-07114 Garnier 官方產品欄與畫面略有出入；b044 ltwm-07083 HSBC NOW、b045 07136 Pantene、07103 Bburago 只有官方案例板一個來源。
 - 不算爭議（寫手判斷，驗收員未改）：b046 ltwm-07105 Mamming 學者批評、ltwm-07114 Garnier 另一支被指抄襲。
 - 撤獎 0。重複候選 0。
+
+## 2026-11-16 雲端第 2 輪 b047 b048 b049 b050（Sonnet 寫、Opus 驗）
+- 不收待決：b048 ltwm-07134 CHAMPION FACES（ESPN Play，DON Buenos Aires）in 檔 official 空、Behance 403、Adlatina 2014 名單沒有這件，寫手與驗收員都查不到得獎紀錄，暫設不收（不是撤獎）。建議：本機確認是否真有得獎，有就改收。
+- 仍 uncertain：b047 ltwm-07128 NATIVE（Time Out Mexico，片中情節查不到文字，讀稿只寫分鏡畫面）；b049 ltwm-07148 PRECOGNITION（Lexus 廣播，缺音檔逐字稿，needs_audio，無圖）、ltwm-07149 PROJECT ENGLISH DAY（廣播，官方第 2、3、5 支音檔沒找到；lovethework 頁要用瀏覽器開，needs_audio，無圖）。建議：本機看片、聽音檔補寫。
+- 待本機確認：b048 ltwm-07143 Car One 官方 PLASTIC CONTAINER 與 FAN 驗收員判為同一座銅獅兩支片、合寫一筆（不是重複）；b050 ltwm-07166 Fibertel 三支只寫 PIANO；b050 ltwm-07159 Santa Casa 官方作品名（食物）與報導（病名）不同，驗收員看圖確認是同一組；b047 ltwm-07129 News Bottle 年份各來源不一，讀稿沒寫年份。
+- 圖不理想：b048 ltwm-07133 NOT A STUPID COVER 無圖（沒有候選圖、Vimeo 被擋）。
+- 撤獎 0。重複候選 0。【爭議】0。
