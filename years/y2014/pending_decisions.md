@@ -133,3 +133,11 @@
 - 待本機確認：b053 ltwm-07206 Longest Handshake 金氏紀錄是否認定查不到（讀稿只寫主辦方表示要送交）；b053 ltwm-07202 美國銀行捐款上限案例板 100 萬、Adweek 200 萬，讀稿不寫上限；b052 ltwm-07196 只靠官方案例板一個來源；b051 ltwm-07177 SNUFFY 官方單位 Discovery Channel Silver Spring 與 in 檔代理商 Publicis London 不同，稿照官方。
 - 不算爭議（寫手判斷，驗收員未改）：b052 ltwm-07195 Beauty Patch 一般評論；b051 SQUIRREL 愛爾蘭酒精團體申訴未被採納。
 - 撤獎 0。重複候選 0。
+
+## 2026-11-17 雲端第 1 輪 b054 b055 b056（Sonnet 寫、Opus 驗）
+- 不收待決：b055 ltwm-07234 VIDEO GAME VETERANS（IVAW，伊拉克反戰退伍軍人組織的「只有一條命」射擊遊戲）寫手查不到內容先設不收；驗收員已找到來源（Unblock Coffee 報名文字與案例板）並補寫全稿、標籤、圖，decision 未改（不是撤獎）。建議：改「收」。
+- 仍 uncertain：b056 ltwm-07246 TSUNAMI（智利紅十字會廣播）、ltwm-07248 R.E.S.P.C.T（Billboard 巴西廣播）缺音檔逐字稿，needs_audio，無圖。建議：本機聽音檔補寫。
+- 待本機確認：b054 ltwm-07226 DECODICONS 是活動名、官方得獎件是其中海報（UMBRELLA/FLOWER/CAR、UMBRELLA/FLOWER/CUP），驗收員判同一組、不是重複；b056 ltwm-07248 R.E.S.P.C.T 官方 YMCA、BLACK OR WHITE 同一張報名，2014 其他批沒有這兩筆，不是重複。
+- 不算爭議（驗收員判斷）：b054 ltwm-07228 Barbie 物化女性、身材標準屬一般評論，不加【爭議】。
+- 圖不理想：b054 ltwm-07222 Expedia 只有分鏡人群大笑畫面，看不出 Twitter 點子。
+- 撤獎 0。重複候選 0。【爭議】0。
