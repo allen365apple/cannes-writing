@@ -104,7 +104,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "LTW 官方卡片與 Behance 擋爬蟲或沒有內文，內容依 WARC 案例摘要與兩個作品集頁面整理。官方沒有給圖，圖取自 Work & Things 作品集頁面（鴿子飼料字的戶外廣告），網址是站方 CDN 靜態檔。作品集頁寫的成效數字與其他獎項未寫入。已搜爭議：搜「Prudential Challenge Lab Droga5 controversy fake fraud withdrawn」，沒有任何爭議報導。搜尋摘要未寫入。"
+  "note": "LTW 官方卡片與 Behance 擋爬蟲或沒有內文（WARC 頁用 WebFetch 打得開，但程式檢查的 HEAD 會被重設連線，屬程式端誤報），內容依 WARC 案例摘要與兩個作品集頁面整理。官方沒有給圖，圖取自 Work & Things 作品集頁面（鴿子飼料字的戶外廣告），網址是站方 CDN 靜態檔。作品集頁寫的成效數字與其他獎項未寫入。已搜爭議：搜「Prudential Challenge Lab Droga5 controversy fake fraud withdrawn」，沒有任何爭議報導。搜尋摘要未寫入。"
  },
  {
   "id": "ltwm-05919",
