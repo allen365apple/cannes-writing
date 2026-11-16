@@ -3,7 +3,6 @@
 共 10 件，被標 6 件。「疑似成效」是關鍵字比對，背景數字也會被標，要人判斷。
 
 ## b004 ltwm-05926 JUSTIFYING A PREMIUM THE WORLD OVER
-- 一句話 67 字
 - uncertain： Prix controversy criticism」，只看到評審團內部有討論的報導（搜尋摘要，未寫入），無造假或撤獎指控。成效數字（回本倍數等）依規則未寫。
 - 沒有圖
 
