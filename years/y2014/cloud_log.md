@@ -30,3 +30,4 @@
 - 2026-11-16 雲端第 1 輪收尾：寫完並驗完 b040–b046（7 批 70 件：收 68、不收 2（b043 ltwm-07079 HER GOODBYE, HIS GOODBYE、ltwm-07070 LIFE IS MUSIC，兩件廣播找不到文字與音檔，不是撤獎）、重複 0）。驗收員補到來源拿掉 uncertain 9 件，仍 uncertain 5 件。2014 累計驗完 46／56 批，剩 b047–b056。待決新增 2 組共 15 條（【爭議】新增 1：FOOTBALL RELIGION；【爭議】候選 1：Andes HURRICANE MARTHA；不收待決 2；另立待決 1：GAME OF PHONES／Fair Go Bro；仍 uncertain 5；上游 in 檔配錯圖 3；其餘待本機確認與圖不理想）；撤獎 0、重複候選 0。連不上：LBB、AdForum、Luerzer's、Best Ads on TV、adsspot、Behance、Trend Hunter、The Drum、Campaign Brief、Adweek、Ad Age、Fast Company、MediaPost、digitaling、Phonearena、Shots（503）、Communication Arts（一度 503）、clios.com（404／需登入）、YouTube 與 Vimeo（驗證頁）、businessinsider.in（網域不在允許清單）；lovethework 卡片頁沒有內文。沒撞額度。
 - 問題：程式檢查兩組都沒掃到違規（無 rm、無自加標頭）；寫手、驗收員自報沒用 rm、沒用 git、沒加標頭、沒改 in 檔。b046 寫手自承讀稿沒逐件完整重讀，驗收員已 10 件全看並修 2 件。b043 寫手回報一則搜尋結果（wikiwand）夾帶寫給 AI 的指示，已忽略未寫入稿。
 - 2026-11-16 02:42 回報已寫進 years/last_report.txt。
+- 2026-11-16 14:10 開工：b047 b048 b049 b050 b051 b052 b053（雲端 2026-11-16 第 2 輪）
