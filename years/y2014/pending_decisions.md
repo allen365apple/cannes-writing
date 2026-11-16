@@ -126,3 +126,10 @@
 - 待本機確認：b048 ltwm-07143 Car One 官方 PLASTIC CONTAINER 與 FAN 驗收員判為同一座銅獅兩支片、合寫一筆（不是重複）；b050 ltwm-07166 Fibertel 三支只寫 PIANO；b050 ltwm-07159 Santa Casa 官方作品名（食物）與報導（病名）不同，驗收員看圖確認是同一組；b047 ltwm-07129 News Bottle 年份各來源不一，讀稿沒寫年份。
 - 圖不理想：b048 ltwm-07133 NOT A STUPID COVER 無圖（沒有候選圖、Vimeo 被擋）。
 - 撤獎 0。重複候選 0。【爭議】0。
+
+## 2026-11-16 雲端第 2 輪 b051 b052 b053（Sonnet 寫、Opus 驗）
+- 【爭議】新增：b052 ltwm-07189 TAXI STOLTENBERG（挪威工黨）5 位乘客是選角找來、各拿 500 克朗，被進步黨批評欺騙；照收、已加【爭議】段，驗收員核對無誤。未見撤獎。
+- 仍 uncertain：b051 ltwm-07171 SHARE BENCH（Nomad，只有海報，缺官方說明或報導：有沒有實體長椅、怎麼放）。建議：本機補來源。
+- 待本機確認：b053 ltwm-07206 Longest Handshake 金氏紀錄是否認定查不到（讀稿只寫主辦方表示要送交）；b053 ltwm-07202 美國銀行捐款上限案例板 100 萬、Adweek 200 萬，讀稿不寫上限；b052 ltwm-07196 只靠官方案例板一個來源；b051 ltwm-07177 SNUFFY 官方單位 Discovery Channel Silver Spring 與 in 檔代理商 Publicis London 不同，稿照官方。
+- 不算爭議（寫手判斷，驗收員未改）：b052 ltwm-07195 Beauty Patch 一般評論；b051 SQUIRREL 愛爾蘭酒精團體申訴未被採納。
+- 撤獎 0。重複候選 0。
