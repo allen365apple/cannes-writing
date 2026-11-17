@@ -21,3 +21,13 @@
 - 【爭議】：新增 0。b006 AXE APOLLO 寫手加的【爭議】段（商標、性別歧視、飛行沒成行）驗收員判斷不算爭議，已拿掉。
 - 圖不理想：沒圖 b007 ltwm-06609；圖偏小 06132、06275、05938、05943、05944、06264。
 - 撤獎 0。
+
+## 2026-11-17 雲端第 2 輪 b009 b010 b011（Sonnet 寫、Opus 驗）
+- 不收待決：b009 ltwm-05940 THE ADVENTURE CARD（Y&R，Land Rover）。in 檔沒有官方資料、搜不到同名作品。驗收員推測是同月刊出的 Press 金獅 Eating Out 標錯名字，但沒能確認。建議：本機查官方名單；若確認，把本件改寫成 Eating Out，正好解決下一條的拆件問題。
+- 拆件待決：b009 ltwm-06084 求生手冊（Personal Extinction Prevention Book，設計銀獅）。Press 金銀獅頒的是另一組平面系列 Eating Out，讀稿已補一段。點子不同，驗收員建議拆件。
+- 不收待決：b010 ltwm-06028 THE REMIX BOTTLE（Ogilvy Singapore）。in 檔沒有官方獎項。寫手推論是 2014 作品誤植，驗收員認為推論站不住（活動 2013 年 4 月上線）。lovethework 標 2013 年 1 金，但看不出類別。建議：本機到官方資料庫確認。
+- 仍 uncertain：b009 ltwm-06328 AMAZONS／BJORN GUNDERSSON／MONKEY（缺三則平面的圖和文案）、ltwm-06469 MAPPING THE WORLD IN 12 MONTHS（缺年曆畫面和說明）。
+- 標題待決：b011 ltwm-05984 in 檔標題 HOT WHEELS FOR REAL BRAND PLATFORM，官方報名作品是 DOUBLE LOOP DARE（稿照官方寫），title 沒改，請決定。
+- 待本機確認：b010 ltwm-05959 Sharing Can 的代理商，官方寫 Ogilvy France、報導寫新加坡 Ogilvy & Mather，兩邊都保留；b010 ltwm-05955 徠卡 Press 三則平面（Landmine、Glasses、Cigar）查不到內容，讀稿只寫影片；b010 ltwm-06047 Share a Coke 另有銀獅 Share a Coke and a Song，沒寫到。
+- 圖不理想：沒圖 b009 ltwm-06625、06328、06469，b010 ltwm-06067；圖偏弱 b010 05956、05955、05959。
+- 重複候選 0；【爭議】新增 0；撤獎 0。
