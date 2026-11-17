@@ -11,3 +11,13 @@
 - 待本機確認：b001 ltwm-05914 in 檔標題寫成前作 The Inside Experience，官方得獎件是 The Beauty Inside（稿照官方）；b001 ltwm-06379 代理商官方 MARCEL Paris、in 檔 Publicis Buenos Aires；b004 Daily Abuse 出刊日與篇數各來源不一；b004 The Express 代理商 in 檔 MJZ London、報名單位 W+K Amsterdam。
 - 圖不理想：沒圖 b001 ltwm-06188 Digital Earth Hour、b004 ltwm-05926、ltwm-06599 Wall of Opportunities、ltwm-06654 Your Future Bottle（候選圖都是過期 s3 網址）；圖偏小或偏弱 b001 05914、05915、06379，b002 05927 CINDER，b003 IBM 戶外、Third Eye、Par-King，b004 05942。
 - 撤獎 0。
+
+## 2026-11-17 雲端第 2 輪 b005 b006 b007 b008（Sonnet 寫、Opus 驗）
+- 不收待決：b006 ltwm-06349 CLICK FARM（Axe／BBH，官方 Promo & Activation 銅獅）。寫手找不到內容，先設不收；驗收員找到 YouTube 案例影片和創意人作品頁，全稿已補好、uncertain 已拿掉。建議改收。
+- 不收待決：b008 ltwm-05947 ANOTHER MIRACLE ON 34TH STREET（Macy's）。in 檔沒有官方獎項，2013 名單上 Macy's／JWT 只有 ltwm-06463 Yes Virginia 金獅，疑似清單誤列，不是撤獎。建議：本機確認後移除。
+- 重複候選：b006 ltwm-06349 CLICK FARM、ltwm-06407 LIFEGUARD 與 ltwm-05938 AXE APOLLO 是同一場 Space Academy 活動，獎項分開報。驗收員認為算「同一場行動的不同作品」，decision 沒改，請決定。b006 06354 BOTOX 和 05934 NEVER HIDE 屬同系列但點子不同，驗收員傾向不算重複。
+- 仍 uncertain：b007 ltwm-06308 COINOFFERS（缺案例全文）；b008 ltwm-06185 SOLDIER（廣播，缺音檔，needs_audio；官方同一座銀獅還有第二支 COP，轉寫時兩支都要寫，一句話目前是占位句）。
+- 待本機確認：b005 Selfridges 的類別，in 檔寫 POS、lovethework 寫 Environmental，照官方 award_line；b005 Find Your Greatness 的 JOGGER 是另報的銀獅，稿當代表片寫；b007 ltwm-05937 McDonald's Our Food 與 BEHIND THE SCENES 同一活動，驗收員判斷不用拆件。
+- 【爭議】：新增 0。b006 AXE APOLLO 寫手加的【爭議】段（商標、性別歧視、飛行沒成行）驗收員判斷不算爭議，已拿掉。
+- 圖不理想：沒圖 b007 ltwm-06609；圖偏小 06132、06275、05938、05943、05944、06264。
+- 撤獎 0。

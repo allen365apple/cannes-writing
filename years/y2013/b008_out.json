@@ -56,7 +56,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依官方案例板（英文圖板文字）與 AWARD 獎項頁的製作名單整理；案例板沒寫電台名稱，讀稿未寫。獎項是廣播金獅×2、戶外銅獅、促銷與活化銀獅（以 in 檔 official 為準），案例板未提及，讀稿未寫成效。已搜爭議：「Prime TV Call Girl 電台惡作劇 假／投訴／撤獎」，無相關結果，未發現造假、抄襲或撤獎指控。"
+  "note": "官方全文需登入，內容依官方案例板（英文圖板文字）與 AWARD 獎項頁的製作名單整理；案例板沒寫電台名稱，讀稿未寫。獎項是廣播金獅×2、戶外銅獅、促銷與活化銀獅（以 in 檔 official 為準），案例板未提及，讀稿未寫成效。已搜爭議：「Prime TV Call Girl 電台惡作劇 假／投訴／撤獎」，無相關結果，未發現造假、抄襲或撤獎指控。 2026-11-17 Opus 驗：事實抽查：放大官方案例板文字核對——DJ 愛說話、錄音室窗戶正對面臥室的 S&M 高級應召女郎、其他電台跟進、首播夜拉下百葉窗露出「Secret Diary of a Call Girl – 9:35 Tonight on Prime」，都對得上。"
  },
  {
   "id": "ltwm-05947",
@@ -83,7 +83,7 @@
   "text_source_level": 0,
   "uncertain": true,
   "needs_audio": false,
-  "note": "官方資料沒有這件：in 檔 official_awards 是空的、沒有 official 與 ltw_card_urls，lovethework 查不到這個名稱的得獎項目，所以讀不到得獎行與官方報名作品名。內容本身有來源（Exame 2012-11-09：Macy's 與 JWT、Framestore、福斯合作，讓 1947 年電影《34街的奇蹟》的 Kris Kringle 重回店裡，與 Martha Stewart、Donald Trump、Carlos Santana、Justin Bieber 同框），但查不到任何坎城獅子獎；同品牌同代理商的 2013 得獎作品是「Yes, Virginia the Musical」（見 b008 的 ltwm-06463），疑似清單把品牌的聖誕廣告誤列為金獅。查了：lovethework 作品頁（只有 Department Store 標題）、Exame、LBB 與 Business Wire（403）、搜尋摘要（未寫入）。先標不收，請主對話或維護者確認有沒有獎項；若確認有獎，需補官方得獎行與報名作品名再寫。已搜爭議：未發現。"
+  "note": "官方資料沒有這件：in 檔 official_awards 是空的、沒有 official 與 ltw_card_urls，lovethework 查不到這個名稱的得獎項目，所以讀不到得獎行與官方報名作品名。內容本身有來源（Exame 2012-11-09：Macy's 與 JWT、Framestore、福斯合作，讓 1947 年電影《34街的奇蹟》的 Kris Kringle 重回店裡，與 Martha Stewart、Donald Trump、Carlos Santana、Justin Bieber 同框），但查不到任何坎城獅子獎；同品牌同代理商的 2013 得獎作品是「Yes, Virginia the Musical」（見 b008 的 ltwm-06463），疑似清單把品牌的聖誕廣告誤列為金獅。查了：lovethework 作品頁（只有 Department Store 標題）、Exame、LBB 與 Business Wire（403）、搜尋摘要（未寫入）。先標不收，請主對話或維護者確認有沒有獎項；若確認有獎，需補官方得獎行與報名作品名再寫。已搜爭議：未發現。 2026-11-17 Opus 驗：核對：in 檔 tier 是 GOLD，但 official_awards 空、沒有 official 與 ltw_card_urls；查 2013 品牌內容類得獎名單（theinspiration.com 全文）只有 Macy's「Yes, Virginia the Musical」（JWT New York）金獅，沒有 Another Miracle on 34th Street，lovethework 的 Macy's／Department Store 卡片也沒有內容可證。判斷是清單把同品牌、同代理商的 Yes Virginia 金獅（ltwm-06463）誤列成這支 2012 聖誕廣告，屬清單誤列／與 06463 重複，不是撤獎。維持不收，請主對話確認。"
  },
  {
   "id": "ltwm-05939",
@@ -354,7 +354,7 @@
   "text_source_level": 1,
   "uncertain": true,
   "needs_audio": true,
-  "note": "音檔：https://adsspot.me/media/radio/digital-video-monitor-soldier-dc15c2c8fe4f（雲端讀取 403，未能取得）。官方報名的作品名為 SOLDIER 與 COP 兩支廣播（同一組銀獅），本件寫 Soldier，Cop 請主對話決定是否併入。lovethework 的 Soldier、Cop 頁只有標題、代理商、獎項，沒有內容；lovethework 與 adsspot 之外嘗試的 Campaign、Strategy、bestadsontv 都回 403，搜尋摘要未寫入。沒有任何圖：官方候選圖是預留圖示，lovethework 頁面 og:image 也是音檔圖示 SVG。已搜爭議：未針對本件找到內容，僅查 Philips 廣播廣告，無相關爭議結果。缺：音檔逐字稿。"
+  "note": "音檔：https://adsspot.me/media/radio/digital-video-monitor-soldier-dc15c2c8fe4f（雲端讀取 403，未能取得）。官方報名的作品名為 SOLDIER 與 COP 兩支廣播（同一組銀獅），本件寫 Soldier，Cop 請主對話決定是否併入。lovethework 的 Soldier、Cop 頁只有標題、代理商、獎項，沒有內容；lovethework 與 adsspot 之外嘗試的 Campaign、Strategy、bestadsontv 都回 403，搜尋摘要未寫入。沒有任何圖：官方候選圖是預留圖示，lovethework 頁面 og:image 也是音檔圖示 SVG。已搜爭議：未針對本件找到內容，僅查 Philips 廣播廣告，無相關爭議結果。缺：音檔逐字稿。 2026-11-17 Opus 驗：再找來源：bestadsontv 有 Soldier 頁（Philips Digital Baby Monitor，Ogilvy UK，ECD Gerry Human、Trevallyn Hall，同系列另有 Cop，以模仿電影類型為梗——以上僅搜尋摘要，頁面 403，未寫入）；adsspot 仍是 Cloudflare 驗證頁。仍缺音檔與逐字稿。COP 不是另一個 ltwm 編號，而是同一座銀獅的第二支報名作，不必併件；本機轉寫時讀稿應兩支都寫。一句話目前是占位句，補寫時一併改。"
  },
  {
   "id": "ltwm-06463",
@@ -452,7 +452,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依官方案例板（英文簡介文字）、D&AD 作品頁與 It's Nice That 報導整理；案例板上的銷售、參與人數等數字不採用。護照章標語取 It's Nice That 的列舉與案例板上看得到的字樣對照。官方報名作品名：設計銅獅為「LUGGAGE LABELS」，戶外金獅為八張海報各自的代碼組合名，in 檔以 LUGGAGE LABELS 為標題。「MUM DAD IOU」旁的章看得出是「GAP YEAR」。已搜爭議：「Expedia luggage tags airport codes posters controversy／complaint／ASA／plagiarism／withdrawn」，無相關結果，未發現造假、抄襲或撤獎指控。"
+  "note": "官方全文需登入，內容依官方案例板（英文簡介文字）、D&AD 作品頁與 It's Nice That 報導整理；案例板上的銷售、參與人數等數字不採用。護照章標語取 It's Nice That 的列舉與案例板上看得到的字樣對照。官方報名作品名：設計銅獅為「LUGGAGE LABELS」，戶外金獅為八張海報各自的代碼組合名，in 檔以 LUGGAGE LABELS 為標題。「MUM DAD IOU」旁的章看得出是「GAP YEAR」。已搜爭議：「Expedia luggage tags airport codes posters controversy／complaint／ASA／plagiarism／withdrawn」，無相關結果，未發現造假、抄襲或撤獎指控。 2026-11-17 Opus 驗：事實抽查：D&AD 作品頁寫「全世界 9,000 個機場、每個都有三字母代碼」，與讀稿一致（It's Nice That 寫 900 多個，以 D&AD 為準）；案例板的背紙、真橡皮章、護照章細節對得上。"
  },
  {
   "id": "ltwm-06515",
