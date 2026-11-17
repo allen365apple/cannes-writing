@@ -1,9 +1,11 @@
 # 2013 程式檢查 b007（2026-11-17 06:17）
 
-共 10 件，被標 4 件。「疑似成效」是關鍵字比對，背景數字也會被標，要人判斷。
+共 10 件，被標 5 件。「疑似成效」是關鍵字比對，背景數字也會被標，要人判斷。
+
+## b007 ltwm-05937 OUR FOOD. YOUR QUESTION.
+- 資料來源壞掉（打不開（<urlopen error [Errno 104] Connection reset by peer>））：https://www.warc.com/content/article/cannes/mcdonalds-canada-our-food-your-quest
 
 ## b007 ltwm-06264 I’M AMAZING
-- 一句話連續中文 20 字
 - 圖片太小（480×360）
 
 ## b007 ltwm-06308 COINOFFERS
@@ -13,7 +15,6 @@
 - uncertain：已搜爭議：搜「McDonald's Finland milkshake skipping rope hopscotch controversy」，沒有爭議報導。
 
 ## b007 ltwm-06609 TOGETHER FOR RECONSTRUCTION
-- 一句話連續中文 19 字
 - uncertain： Italy Together for Reconstruction Parmigiano Reggiano controversy fake」，沒有爭議報導。
 - 沒有圖
 

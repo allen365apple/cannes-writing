@@ -148,7 +148,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依 WARC 摘要、QSR Web（2012-09-25）與 Digiday 整理。官方報名作品有 OUR FOOD. YOUR QUESTIONS 與 OUR FOOD. YOUR QUESTIONS - BEHIND THE SCENES（銅獅影片類）兩支，讀稿以前者為主，幕後花絮只輕提；是否需拆成兩件請驗收員決定。Digiday 的 Big Mac 拍攝影片寫在美國版文章裡，與加拿大版是否為同一支，來源沒有明說，讀稿寫成「其中一題的回答」是依 QSR Web「為什麼廣告與實物不同」那題整理，請驗收員留意。圖是案例影片分鏡，只看得出品牌面對的負面形象，偏弱（候選圖 403，找不到案例板）。已搜爭議：搜「McDonald's Our Food Your Questions controversy fake withdrawn criticism」，只有一般評論（Digiday 問是否太遲、Motley Fool 看法），無造假、撤獎或抄襲指控，不算爭議。成效與信任度數字依規則未寫。"
+  "note": "官方全文需登入，內容依 WARC 摘要、QSR Web（2012-09-25）與 Digiday 整理。官方報名作品有 OUR FOOD. YOUR QUESTIONS 與 OUR FOOD. YOUR QUESTIONS - BEHIND THE SCENES（銅獅影片類）兩支，讀稿以前者為主，幕後花絮只輕提；是否需拆成兩件請驗收員決定。Digiday 的 Big Mac 拍攝影片寫在美國版文章裡，與加拿大版是否為同一支，來源沒有明說，讀稿寫成「其中一題的回答」是依 QSR Web「為什麼廣告與實物不同」那題整理，請驗收員留意。圖是案例影片分鏡，只看得出品牌面對的負面形象，偏弱（候選圖 403，找不到案例板）。WARC 頁面用 WebFetch 讀到摘要，程式用 curl 會連線被重設，不是網址壞掉。已搜爭議：搜「McDonald's Our Food Your Questions controversy fake withdrawn criticism」，只有一般評論（Digiday 問是否太遲、Motley Fool 看法），無造假、撤獎或抄襲指控，不算爭議。成效與信任度數字依規則未寫。"
  },
  {
   "id": "ltwm-05946",
