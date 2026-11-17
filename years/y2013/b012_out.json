@@ -45,12 +45,12 @@
    "https://bbf.enssib.fr/resume/en/bbf-2013-05-0044-011",
    "https://www.lovethework.com/en/work/entries/facebook-1914-187945"
   ],
-  "image_url": "https://i.ytimg.com/vi/qz4E9iBZJf0/maxresdefault.jpg",
-  "image_shows": "官方影片截圖：一戰廢墟與一座螺旋樓梯的黑白老照片，上面疊著第一人稱的字幕（部分被照片遮住）",
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/7b2a872cb8be46f482715a820d57332e",
+  "image_shows": "官方案例板：標題 FACEBOOK 1914 BY THE MUSEUM OF THE GREAT WAR，左邊是 Léon Vivien 的 Facebook 專頁截圖（一戰老照片貼文），中間寫 10 MONTHS OF POSTS UPLOADED AT THE LAUNCH + 2 MONTHS OF LIVE POSTS, EVERYDAY，右側是 Léon 一年經歷的時間軸，下方印成效數字",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方頁面需登入，內容依 digitalsynopsis（案例介紹）與 BBF 學術文章整理；兩者都沒有貼文逐篇內容，故只寫到有來源的部分。官方圖庫的預設圖 403，改用官方 YouTube 縮圖。已搜爭議：搜「Facebook 1914 Léon Vivien controversy criticism fake」，只見虛構角色公開標示的討論與一則讀者留言，無造假、撤獎或抄襲指控。搜尋結果與 digitalsynopsis 提到的成效數字（粉絲、媒體價值、來客成長）未寫入。"
+  "note": "官方頁面需登入，內容依 digitalsynopsis（案例介紹）與 BBF 學術文章整理；兩者都沒有貼文逐篇內容，故只寫到有來源的部分。官方圖庫的預設圖 403，改用官方 YouTube 縮圖。已搜爭議：搜「Facebook 1914 Léon Vivien controversy criticism fake」，只見虛構角色公開標示的討論與一則讀者留言，無造假、撤獎或抄襲指控。搜尋結果與 digitalsynopsis 提到的成效數字（粉絲、媒體價值、來客成長）未寫入。 2026-11-17 Opus 驗：官方 lovethework 頁（185143）有案例板 conversion/7b2a872c…，下載看過，改用它當圖；板上「上線時先放 10 個月、之後 2 個月每天即時貼文」與讀稿一致（事實抽查通過）。板上成效數字未寫入。"
  },
  {
   "id": "ltwm-05969",
@@ -185,22 +185,24 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "中國志工網站「寶貝回家」推出手機 App，路人看到疑似走失兒童就拍下臉，App 拿照片去比對失蹤兒童資料庫",
+  "idea_one_liner": "中國尋親網站「寶貝回家」推出手機 App，路人看到疑似被拐的孩子就拍下臉，App 用人臉辨識比對失蹤兒童資料庫",
   "brand_display": "寶貝回家",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜行動類金獅 Mobile Gold Lion、行動類銀獅 Mobile Silver Lion×2｜代理商：JWT BEIJING\n\n【背景】寶貝回家（Baby Back Home，Baobeihuijia）是中國由志工營運的非營利尋人組織，在網站上登錄走失或被拐的兒童，讓家長與志工交流尋找線索。\n\n【點子】JWT Beijing 為它做了一支手機 App：任何帶著智慧型手機的人，只要看到可能是走失或被拐的孩子，都可以變成「尋人志工」。\n\n【執行】使用者遇到疑似失蹤的孩子，用 App 拍下他的臉，App 會把照片與寶貝回家的失蹤兒童資料庫比對，有配對結果就通知孩子的家人。官方影片裡有一位路人邊走邊舉起手機拍照，畫面上的字幕寫著「找你找了好久」。\n\n資料來源：\nhttps://cybernews1.blogspot.com/2013/05/facial-recognition-app-can-help.html\nhttps://www.ibtimes.co.uk/baby-come-home-top-chinese-brands-using-404-error-pages-highlight-missing-children-1605046\nhttps://www.youtube.com/watch?v=D7ZpRMuAP70",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 行動類, Mobile, 金獅, Gold Lion, 銀獅, Silver Lion, 寶貝回家, Baby Back Home, Baobeihuijia, BAOBEIHUIJIA.COM, JWT BEIJING, JWT, 智威湯遜, 公益, 非營利, 失蹤兒童, 走失兒童, 尋人, 志工, 手機 App, App, 行動應用程式, 人臉辨識, 臉部辨識, 拍照, 資料庫, 眾人協力, 中國, China, 手機, 兒童, 社會議題",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜行動類金獅 Mobile Gold Lion、行動類銀獅 Mobile Silver Lion×2｜代理商：JWT BEIJING\n\n【背景】寶貝回家（Baby Back Home，Baobeihuijia）是中國由志工營運的非營利尋人組織，在網站上登錄走失或被拐的兒童，讓家長與志工交流尋找線索。官方案例影片一開頭是幾位失去孩子的父母受訪（「我的孩子丟了四年了」「如果他們能把孩子還給我，我願意把所有錢都給他們」），接著字卡寫：在中國，每年有超過兩萬名兒童被拐。\n\n【點子】字卡接著問：中國有超過 14 億人，我們能做什麼？JWT Beijing 的答案是「Take a photo to save a child（拍一張照片，救一個孩子）」：做一支手機 App，讓任何帶著智慧型手機的人，看到可能是走失或被拐的孩子時，都能變成尋人志工。\n\n【執行】使用者遇到疑似失蹤的孩子，用 App 的「人臉識別」功能拍下他的臉，App 把照片與寶貝回家的失蹤兒童資料庫比對，有配對結果就通知孩子的家人。為了讓更多人下載，團隊也在北京街頭擺了白色的一家人雕塑，父母中間空著一個孩子形狀的位置；路人用 App 的「拍攝雕塑」功能對著雕塑拍照，手機畫面上那個空位就會出現一個孩子。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/missing-children-175236\nhttps://lovethework.com/work-awards/entries/missing-children-175303\nhttps://cybernews1.blogspot.com/2013/05/facial-recognition-app-can-help.html\nhttps://www.youtube.com/watch?v=D7ZpRMuAP70",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 行動類, Mobile, 金獅, Gold Lion, 銀獅, Silver Lion, 寶貝回家, Baby Back Home, Baobeihuijia, BAOBEIHUIJIA.COM, JWT BEIJING, JWT, 智威湯遜, 公益, 非營利, 失蹤兒童, 走失兒童, 尋人, 志工, 手機 App, App, 行動應用程式, 人臉辨識, 臉部辨識, 拍照, 資料庫, 眾人協力, 雕塑, 街頭雕塑, 擴增實境, AR, 被拐兒童, 北京, Beijing, 中國, China, 手機, 兒童, 社會議題",
   "category": "行銷案例",
   "references": [
+   "https://www.lovethework.com/en/work/entries/missing-children-175236",
+   "https://lovethework.com/work-awards/entries/missing-children-175303",
    "https://cybernews1.blogspot.com/2013/05/facial-recognition-app-can-help.html",
-   "https://www.ibtimes.co.uk/baby-come-home-top-chinese-brands-using-404-error-pages-highlight-missing-children-1605046",
    "https://www.youtube.com/watch?v=D7ZpRMuAP70"
   ],
-  "image_url": "https://i.ytimg.com/vi/D7ZpRMuAP70/maxresdefault.jpg",
-  "image_shows": "官方影片截圖：一名男子舉著手機拍照，下方字幕是「…been looking for you so long」",
-  "text_source_level": 3,
-  "uncertain": true,
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/28e3989bd2a1455abd4126048f7fbe2d/storyboard_000123.jpg",
+  "image_shows": "官方案例影片分鏡：Samsung 手機螢幕上是一個小男孩的臉，臉部被六角形的辨識框框住，下方按鈕「完成」「返回」，底部選單「拍摄雕塑」「人脸识别」",
+  "text_source_level": 2,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "【重要】in 檔 ltw_card_urls 的官方卡片 missing-children-185331 是巴西 Mães da Sé／AFRICA 的「Google for Missing Children」（Chrome 外掛，另一件作品），in 檔 image_candidates 的 case board（conversion/af0f9921…）也是那一件，已確認不是 JWT Beijing 這件，因此兩者都沒有用。本件官方報名作品是 JWT BEIJING 為 BAOBEIHUIJIA.COM 做的 MISSING CHILDREN 手機應用。來源只有一篇轉載報導與 IBTimes 的組織背景，加上官方 YouTube 影片縮圖，缺 lovethework 或代理商的完整案例文字（digitaling、Campaign Brief Asia 打不開）；搜尋結果提到還有線下互動雕塑的做法，但未打開頁面確認，未寫入；成效數字（下載量、團聚）未寫入。官方有三座獎（金一銀二），對應不同報名（App、創意科技），in 檔未標子類別。已搜爭議：搜「Baby Back Home missing children app JWT Beijing scam spec fake case study controversy」，未見造假或撤獎報導，但成效數字僅來自代理商自述。"
+  "note": "【重要】in 檔 ltw_card_urls 的官方卡片 missing-children-185331 是巴西 Mães da Sé／AFRICA 的「Google for Missing Children」（Chrome 外掛，另一件作品），in 檔 image_candidates 的 case board（conversion/af0f9921…）也是那一件，已確認不是 JWT Beijing 這件，因此兩者都沒有用。本件官方報名作品是 JWT BEIJING 為 BAOBEIHUIJIA.COM 做的 MISSING CHILDREN 手機應用。來源只有一篇轉載報導與 IBTimes 的組織背景，加上官方 YouTube 影片縮圖，缺 lovethework 或代理商的完整案例文字（digitaling、Campaign Brief Asia 打不開）；搜尋結果提到還有線下互動雕塑的做法，但未打開頁面確認，未寫入；成效數字（下載量、團聚）未寫入。官方有三座獎（金一銀二），對應不同報名（App、創意科技），in 檔未標子類別。已搜爭議：搜「Baby Back Home missing children app JWT Beijing scam spec fake case study controversy」，未見造假或撤獎報導，但成效數字僅來自代理商自述。 2026-11-17 Opus 驗：找到正確的官方 lovethework 頁（missing-children-175236 Mobile Applications、175303 Creative Use of Technology，名單都是 JWT BEIJING／BAOBEIHUIJIA.COM），175236 頁內有官方案例影片，逐格下載分鏡（約 180 格）看字卡與畫面，補上背景字卡、IDEA 字卡與街頭雕塑＋App 拍雕塑的做法，拿掉 uncertain；圖改用分鏡中 App 辨識孩子臉的畫面。in 檔 ltw_card_urls 只列了巴西那件（185331），請主對話知悉。片尾字卡的下載數、志工數屬成效，未寫入。IBTimes（2014 年的 404 頁面活動，屬另一件事）從 references 移除。",
+  "idea_one_liner_r0": "中國志工網站「寶貝回家」推出手機 App，路人看到疑似走失兒童就拍下臉，App 拿照片去比對失蹤兒童資料庫"
  },
  {
   "id": "ltwm-05968",
@@ -231,7 +233,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "瑞士人壽的海報把兩句話接成一句，後半句翻轉前半句，用文字轉折比喻人生轉折",
+  "idea_one_liner": "瑞士人壽海報把兩句話接成一句，如「We've got everything we need a loan」，語意突然翻轉",
   "brand_display": "Swiss Life 瑞士人壽",
   "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜戶外類金獅 Outdoor Gold Lion、戶外類銀獅 Outdoor Silver Lion｜代理商：LEO BURNETT SCHWEIZ Zürich\n\n【背景】Swiss Life 的退休金與人壽保險主打彈性，能跟著人生的轉折調整。要傳達的訊息是：人生常常出現意想不到的轉彎，而它的財務規畫可以應付。海報的標語是「For all life's twists and turns: Flexible financial plans.」（為了人生所有的轉折：彈性的財務規畫）。\n\n【點子】用「一句話裡的轉折」來示範人生的轉折：每張海報只有一句大字標題，前半句講一件人生大事，讀到後半句語意突然翻轉。\n\n【執行】海報是白底黑字的斜體大標題，下面是小字標語與 Swiss Life 標誌，沒有圖像。官方報名的六則標題名稱是 Everything We Need、Most Important Thing、Single、The Baby、Once、The End。第三方整理的標題包括：「We've got everything we need a loan.」（我們什麼都有了，需要貸款）、「My career is the most important thing are my children.」（事業是最重要的事，孩子才是）、「I love to be single is looking for partner.」、「I look forward to the baby is not mine.」（我期待孩子的出生，不是我的）、「I'll get married once is never enough.」、「I'll love you till the end came unexpectedly.」（我會愛你到終點意外降臨）。前半句本來是承諾或期待，後半句的接法讓整句轉向，語意逆轉的瞬間就是「人生的轉折」。\n\n資料來源：\nhttps://www.adruby.com/swiss-life/swiss-life-all-lifes-twists-and-turns?page=1\nhttps://mymodernmet.com/swiss-life-clever-creative-advertising\nhttps://www.adsoftheworld.com/campaigns/life-s-turns-in-a-sentence\nhttps://www.dandad.org/awards/professional/2012/writing-for-advertising/19517/lifes-turns-in-a-sentence/",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 戶外類, Outdoor, 金獅, Gold Lion, 銀獅, Silver Lion, 文案, Copywriting, 銀行、投資與保險, Banking Investment & Insurance, Swiss Life, 瑞士人壽, 保險, 人壽保險, 退休金, 金融, LEO BURNETT SCHWEIZ, Leo Burnett, Spillmann/Felser/Leo Burnett, 平面廣告, 戶外廣告, 海報, 純文字, 文字遊戲, 句子轉折, 反轉, Reversed Sentence, 人生轉折, 結婚, 孩子, 單身, 瑞士, Switzerland",
@@ -247,7 +249,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方報名六則標題（EVERYTHING WE NEED 等）都屬同一系列，只寫一件。標題文字來自 adRuby 的列表，其中少數沒有逐一對照海報原圖（只看過 The End 這張）；標題與官方報名名稱的對應是推測，故讀稿只寫『第三方整理』。各來源對發表日期說法不同（2011 年底／2012／2013），故未寫日期。已搜爭議：搜「Swiss Life Life's Turns in a Sentence plagiarism OR scam OR controversy」，無相關指控（出現的 Swiss Life 高層異動新聞與廣告無關）。"
+  "note": "官方報名六則標題（EVERYTHING WE NEED 等）都屬同一系列，只寫一件。標題文字來自 adRuby 的列表，其中少數沒有逐一對照海報原圖（只看過 The End 這張）；標題與官方報名名稱的對應是推測，故讀稿只寫『第三方整理』。各來源對發表日期說法不同（2011 年底／2012／2013），故未寫日期。已搜爭議：搜「Swiss Life Life's Turns in a Sentence plagiarism OR scam OR controversy」，無相關指控（出現的 Swiss Life 高層異動新聞與廣告無關）。 2026-11-17 Opus 驗：一句話補上一則實際標題，讓讀者看得懂「兩句接成一句」怎麼翻轉。",
+  "idea_one_liner_r0": "瑞士人壽的海報把兩句話接成一句，後半句翻轉前半句，用文字轉折比喻人生轉折"
  },
  {
   "id": "ltwm-05976",
@@ -287,12 +290,12 @@
    "https://mumbrella.com.au/schweppes-launches-tumble-epic-to-celebrate-schweppervescene-140069",
    "https://www.adsoftheworld.com/campaigns/tumble"
   ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/425cbac8527547de9c857b9a3667f23a/storyboard_000002.jpg",
-  "image_shows": "影片分鏡：一座積雪山峰與雲霧，上下是黑邊",
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/425cbac8527547de9c857b9a3667f23a/storyboard_000015.jpg",
+  "image_shows": "官方影片分鏡：穿深色西裝的男子在雪山斜坡上翻滾滑落，背景是岩石山峰與雲霧",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方報名代理商寫 REVOLVER/WILL O'ROURKE Sydney，但 Mumbrella 與 Ads of the World 都說創作代理商是 GPY&R 墨爾本、製作公司 Revolver Film；讀稿照來源寫，award_line 照官方不改。Mumbrella 與 Ads of the World 都沒描述劇情細節，故【執行】只寫來源有的『兩人翻滾而下』；分鏡圖只有風景，看不出翻滾的人，但這是候選圖中唯一可用的，建議驗收員看是否另找圖。已搜爭議：搜「Schweppes Tumble ad Cooper's Hill controversy OR copied OR plagiarism」，只有讀者留言猜拍攝地，無抄襲或撤獎指控。Mumbrella 的留言未寫入。"
+  "note": "官方報名代理商寫 REVOLVER/WILL O'ROURKE Sydney，但 Mumbrella 與 Ads of the World 都說創作代理商是 GPY&R 墨爾本、製作公司 Revolver Film；讀稿照來源寫，award_line 照官方不改。Mumbrella 與 Ads of the World 都沒描述劇情細節，故【執行】只寫來源有的『兩人翻滾而下』；分鏡圖只有風景，看不出翻滾的人，但這是候選圖中唯一可用的，建議驗收員看是否另找圖。已搜爭議：搜「Schweppes Tumble ad Cooper's Hill controversy OR copied OR plagiarism」，只有讀者留言猜拍攝地，無抄襲或撤獎指控。Mumbrella 的留言未寫入。 2026-11-17 Opus 驗：逐格看官方影片分鏡（30 格），片中是一名穿西裝的男子從雪山上一路翻滾而下，改用看得到人翻滾的 000015 格。"
  },
  {
   "id": "ltwm-05963",
@@ -346,12 +349,12 @@
    "https://www.dandad.org/awards/professional/2013/crafts-for-advertising/20096/pelicans/",
    "https://www.adsoftheworld.com/campaigns/pelicans"
   ],
-  "image_url": "https://image.adsoftheworld.com/hrebyb5i3npp45sern68jlb069n6",
-  "image_shows": "海報：大群鵜鶘擠成一圈，圍著中央地上一小塊粉紅色東西，左下角白字寫 SALE HARVEY NICHOLS STARTS 1ST JUNE",
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/b05a143a706142e498d8c933166e8191",
+  "image_shows": "官方案例板：上百隻鵜鶘擠成一大圈，圍著中央地上一小塊粉紅色東西，左下角白字 SALE HARVEY NICHOLS STARTS 1ST JUNE",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方頁面需登入；概念引自 D&AD 作品頁，畫面描述依海報圖。官方有四座獎（金三銀一），對應不同類別，同一支作品。已搜爭議：搜「Y&R Dubai Harvey Nichols Pelicans OR Maximum Impact Cannes scam ad OR withdrawn OR plagiarism」，無造假、撤獎報導；有搜尋結果顯示 Y&R 得獎兩週後丟掉 Harvey Nichols 客戶（來自讀者留言，與爭議無關）；另有 Copyranter 文章稱其調性模仿英國 DDB 的 Harvey Nichols 廣告（見 Summer Sale 同批），屬風格評論、不算抄襲指控，故未加【爭議】。Ads of the World 把發表日期寫成 2013 年 6 月、搜尋結果另有 2012，故未寫日期。in 檔 image_candidates 為 403，改用 Ads of the World 的圖。"
+  "note": "官方頁面需登入；概念引自 D&AD 作品頁，畫面描述依海報圖。官方有四座獎（金三銀一），對應不同類別，同一支作品。已搜爭議：搜「Y&R Dubai Harvey Nichols Pelicans OR Maximum Impact Cannes scam ad OR withdrawn OR plagiarism」，無造假、撤獎報導；有搜尋結果顯示 Y&R 得獎兩週後丟掉 Harvey Nichols 客戶（來自讀者留言，與爭議無關）；另有 Copyranter 文章稱其調性模仿英國 DDB 的 Harvey Nichols 廣告（見 Summer Sale 同批），屬風格評論、不算抄襲指控，故未加【爭議】。Ads of the World 把發表日期寫成 2013 年 6 月、搜尋結果另有 2012，故未寫日期。in 檔 image_candidates 為 403，改用 Ads of the World 的圖。 2026-11-17 Opus 驗：官方 lovethework 頁（198505）有案例板 conversion/b05a143a…，畫面與原圖相同，改用官方版。"
  },
  {
   "id": "ltwm-06138",
@@ -375,21 +378,23 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "倫敦 Harvey Nichols 夏季特賣海報，西裝男模的褲子濕了一片，標語是「試著控制你的興奮」",
+  "idea_one_liner": "倫敦百貨的特賣海報，模特兒褲襠濕了一片，標語「Try to contain your excitement」（克制興奮）",
   "brand_display": "Harvey Nichols 夏季特賣",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜戶外類銀獅 Outdoor Silver Lion｜代理商：ADAM&EVEDDB London\n\n【點子】用一個尷尬的畫面講特賣的興奮：模特兒的衣服上有一塊濕痕，像是興奮到失禁，標語是「Try to contain your excitement」（試著克制你的興奮）。FashionUnited 報導指這個畫面的靈感來自電影《麻雀變鳳凰》（Pretty Woman）的一句台詞。\n\n【執行】這是 2012 年夏季特賣的平面與戶外廣告，官方報名的兩件標題分別是「Blonde」與「Male」。案例板上的版本是一位穿淺藍三件式西裝的男模，站在粉橘漸層的背景前，褲子前方有一片深色濕痕，右側字樣為「THE HARVEY NICHOLS SALE」。店家把這組廣告寄給了數千位潛在顧客。\n\n資料來源：\nhttps://fashionunited.uk/v1/fashion/harvey-nichols-sparks-outrage-with-sale-ads/2012061111778\nhttps://www.lovethework.com/en/work/entries/male-197778",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜戶外類銀獅 Outdoor Silver Lion｜代理商：ADAM&EVEDDB London\n\n【點子】用一個尷尬的畫面講特賣的興奮：模特兒的衣服上有一塊濕痕，像是興奮到失禁，標語是「Try to contain your excitement」（試著克制你的興奮）。FashionUnited 報導指這個畫面的靈感來自電影《麻雀變鳳凰》（Pretty Woman）的一句台詞。\n\n【執行】這是 2012 年夏季特賣的平面與戶外廣告，官方報名的兩件標題分別是「Blonde」與「Male」。案例板上的版本是一位穿淺藍三件式西裝的男模，站在粉橘漸層的背景前，褲子前方有一片深色濕痕，右側字樣為「THE HARVEY NICHOLS SALE」。另一張 Blonde 的官方案例板，是一位穿黑色平口上衣、橘色長褲的金髮女模，雙手叉腰站在藍綠色背景前，褲子胯下同樣有一塊深色濕痕。店家把這組廣告寄給了數千位潛在顧客。\n\n資料來源：\nhttps://fashionunited.uk/v1/fashion/harvey-nichols-sparks-outrage-with-sale-ads/2012061111778\nhttps://www.lovethework.com/en/work/entries/male-197778\nhttps://www.lovethework.com/en/work/entries/blonde-197854",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 戶外類, Outdoor, 零售商店、餐廳與速食店, Retail Stores Restaurants & Fast Food Outlets, 銀獅, Silver Lion, Harvey Nichols, 精品百貨, 百貨公司, 零售, 夏季特賣, 特賣, 折扣, Summer Sale, ADAM&EVEDDB LONDON, Adam&Eve, DDB, 平面廣告, 戶外廣告, 海報, 尷尬, 幽默, 興奮, 濕痕, 男模, 西裝, 時尚, 英國, United Kingdom",
   "category": "行銷案例",
   "references": [
    "https://fashionunited.uk/v1/fashion/harvey-nichols-sparks-outrage-with-sale-ads/2012061111778",
-   "https://www.lovethework.com/en/work/entries/male-197778"
+   "https://www.lovethework.com/en/work/entries/male-197778",
+   "https://www.lovethework.com/en/work/entries/blonde-197854"
   ],
   "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/7d438ad40d514c3e9c1f4e15ab8c92b8",
   "image_shows": "官方案例板：穿淺藍三件式西裝的男模站在粉橘漸層背景前，褲子前方有一片深色濕痕，右側文字 THE HARVEY NICHOLS SALE、TRY TO CONTAIN YOUR EXCITEMENT",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "文字來源只有 FashionUnited 一篇（Scotsman、Nikki Lindman 作品頁、AdLand 皆打不開），lovethework 卡片打開後沒有內文，故 uncertain。FashionUnited 是 2012 年 6 月的報導，只能確定指的是當年夏季特賣廣告，無法一一對應官方的 Blonde／Male 兩件。搜尋結果稱創作代理商為 DDB UK，in 檔／官方為 ADAM&EVEDDB London，照官方。已搜爭議：搜「Harvey Nichols Summer Sale Try to contain your excitement wet」，只有民眾抱怨低俗的一般評論，無造假、抄襲或撤獎；民眾批評低俗屬一般評論，依規則卡不加【爭議】段，只記在這裡。"
+  "note": "文字來源只有 FashionUnited 一篇（Scotsman、Nikki Lindman 作品頁、AdLand 皆打不開），lovethework 卡片打開後沒有內文，故 uncertain。FashionUnited 是 2012 年 6 月的報導，只能確定指的是當年夏季特賣廣告，無法一一對應官方的 Blonde／Male 兩件。搜尋結果稱創作代理商為 DDB UK，in 檔／官方為 ADAM&EVEDDB London，照官方。已搜爭議：搜「Harvey Nichols Summer Sale Try to contain your excitement wet」，只有民眾抱怨低俗的一般評論，無造假、抄襲或撤獎；民眾批評低俗屬一般評論，依規則卡不加【爭議】段，只記在這裡。 2026-11-17 Opus 驗：下載官方 Blonde（conversion/ab3288bf…）與 Male 兩張案例板，兩件都是褲子濕一塊＋TRY TO CONTAIN YOUR EXCITEMENT，與 FashionUnited 描述一致，可以對應官方兩件報名，補寫 Blonde 畫面、拿掉 uncertain；一句話補上英文標語原文。",
+  "idea_one_liner_r0": "倫敦 Harvey Nichols 夏季特賣海報，西裝男模的褲子濕了一片，標語是「試著控制你的興奮」"
  },
  {
   "id": "ltwm-06179",
@@ -422,12 +427,12 @@
    "https://www.warc.com/content/article/cannes/budweiser_red_lights/101935",
    "https://vimeo.com/105938492"
   ],
-  "image_url": "https://i.vimeocdn.com/video/488877999-d8475fa8f332af22c25f52ae1062946a26450fce1ac5965376efa358c70f4d6b-d?f=jpg&region=us",
-  "image_shows": "官方案例影片封面：中央是一座紅色鐵網罩的警示燈，下方有 Budweiser 標籤，四周標註網站、社群、電視、平面等項目",
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/108b68f270e94d718b2c54e965cf2632/storyboard_000021.jpg",
+  "image_shows": "官方影片分鏡：一位穿工作襯衫的男子雙手捧著一座紅色燈罩、鐵網護罩的警示燈",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方頁面需登入；內容依 WARC 的 Cannes 案例摘要（背景、策略、點子、執行）整理，WARC 摘要含成效句（品牌偏好、媒體曝光）未寫入。影片頁只有標題，沒有逐字稿。圖是 vimeocdn 縮圖（在 Vimeo 頁面 og:image 取得，網址含 ?f=jpg&region=us 參數，驗收員請確認穩定）。in 檔的圖 403。另：搜尋結果提到球隊鳴笛與延遲選項是後續版本，故未寫入。已搜爭議：搜「Budweiser Red Lights Labatt controversy OR fake OR withdrawn OR lawsuit」，無此作品的爭議（出現的是同公司其他產品的訴訟與評論）。"
+  "note": "官方頁面需登入；內容依 WARC 的 Cannes 案例摘要（背景、策略、點子、執行）整理，WARC 摘要含成效句（品牌偏好、媒體曝光）未寫入。影片頁只有標題，沒有逐字稿。圖是 vimeocdn 縮圖（在 Vimeo 頁面 og:image 取得，網址含 ?f=jpg&region=us 參數，驗收員請確認穩定）。in 檔的圖 403。另：搜尋結果提到球隊鳴笛與延遲選項是後續版本，故未寫入。已搜爭議：搜「Budweiser Red Lights Labatt controversy OR fake OR withdrawn OR lawsuit」，無此作品的爭議（出現的是同公司其他產品的訴訟與評論）。 2026-11-17 Opus 驗：官方 lovethework 頁有影片分鏡 storyboard/108b68f2…，改用分鏡中捧著紅色進球燈的畫面，取代帶 ?f=jpg&region=us 參數的 vimeocdn 縮圖。"
  },
  {
   "id": "ltwm-06472",
@@ -458,7 +463,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "杜拜 Harvey Nichols 男裝的平面廣告，犀牛與大象迎頭相撞、塵土飛揚，比喻男裝的衝擊力",
+  "idea_one_liner": "杜拜 Harvey Nichols 男裝的平面廣告，畫面是犀牛和大象迎頭相撞，標題「Maximum Impact」（最大衝擊）",
   "brand_display": "Harvey Nichols 男裝",
   "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜Press類銅獅 Press Bronze Lion×2｜代理商：Y&R DUBAI\n\n【執行】這是一件以 CGI 合成的平面廣告，標題是「Maximum Impact / Menswear」（最大衝擊／男裝），署名 Harvey Nichols。畫面是灰色背景裡，一頭黑犀牛與一頭非洲象正面相撞，兩者額頭與象牙、犀牛角交錯，碰撞處揚起一團塵土。\n\n創意團隊為 Y&R Dubai，Shahir Zag 與 Kalpesh Patankar 為創意指導，插畫與製作由曼谷的 Illusion CGI Studio 執行；製作公司頁面還放了這件作品的版面稿、3D 模型與完成圖的過程圖。\n\n【點子】依畫面解讀：把男裝的「衝擊」說成兩頭龐然大物的正面碰撞，不需要出現任何服裝。\n\n資料來源：\nhttps://www.illusion.co.th/maximum-impact\nhttps://www.lovethework.com/en/work/entries/maximum-impact-202831",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Press類, Press, 銅獅, Bronze Lion, 藝術指導, Art Direction, 插畫, Illustration, Harvey Nichols, 精品百貨, 百貨公司, 零售, 男裝, Menswear, 時尚, Y&R DUBAI, Y&R, Illusion CGI Studio, 平面廣告, 報紙廣告, 海報, CGI, 3D 合成, 動物, 犀牛, 大象, 碰撞, 塵土, 衝擊, 視覺比喻, 誇張, 杜拜, 阿聯酋, UAE",
@@ -470,8 +475,9 @@
   "image_url": "https://images.squarespace-cdn.com/content/v1/5a607a3ad0e628eab959053a/1517213578318-A05W83UTYLIB5ZERXK53/Harvey+Nichols_Maximum+Impact.jpg",
   "image_shows": "海報：灰色背景中一頭犀牛與一頭大象正面相撞、塵土揚起，左上角白字 MAXIMUM IMPACT / MENSWEAR HARVEY NICHOLS",
   "text_source_level": 3,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "依作品畫面解讀，無文字說明；唯一可打開的來源是製作公司 Illusion 的作品頁，沒有案例說明，Behance、官方圖庫等皆打不開，故 uncertain，缺代理商說明的概念。圖來自 Illusion 作品頁（squarespace CDN，2500×1687）。已搜爭議：搜「Y&R Dubai Harvey Nichols Pelicans OR Maximum Impact Cannes scam ad OR withdrawn OR plagiarism」，無相關指控。製作公司頁面列出的其他獎項未寫入。"
+  "note": "依作品畫面解讀，無文字說明；唯一可打開的來源是製作公司 Illusion 的作品頁，沒有案例說明，Behance、官方圖庫等皆打不開，故 uncertain，缺代理商說明的概念。圖來自 Illusion 作品頁（squarespace CDN，2500×1687）。已搜爭議：搜「Y&R Dubai Harvey Nichols Pelicans OR Maximum Impact Cannes scam ad OR withdrawn OR plagiarism」，無相關指控。製作公司頁面列出的其他獎項未寫入。 2026-11-17 Opus 驗：畫面與標題已能看出巧思（用兩頭巨獸正面相撞說男裝的「衝擊力」，依作品畫面解讀，無文字說明），依規則卡不必 uncertain，拿掉；一句話補上標題原文。",
+  "idea_one_liner_r0": "杜拜 Harvey Nichols 男裝的平面廣告，犀牛與大象迎頭相撞、塵土飛揚，比喻男裝的衝擊力"
  }
 ]

@@ -42,3 +42,11 @@
 - 待本機確認：b018 ltwm-06007 POSITIVE & NEGATIVE 的 Press 金獅是哪兩張查不到；b017 ltwm-06006 LIFE CUTS（in 標題 85 SECONDS）與 ltwm-06004 SAVE 11（in 標題 #1 KILLER）標題不同；b016 ltwm-05997 title 是設計類那一項，另有 Press 金獅 2 項。
 - 圖不理想：沒圖 b017 ltwm-06274；圖偏小 b013 05977、06484，b018 06009、06010；看不出點子 b016 06199，b018 06650、06443。
 - 重複候選 0；撤獎 0。
+
+## 2026-11-18 雲端第 1 輪 b012 b014 b015（Sonnet 寫、Opus 驗）
+- 標題待決：b015 ltwm-05992 in 檔標題 COW 是誤植，官方只有 PIG、LAMB 兩件（稿照官方寫），title 沒改，請決定。
+- 待本機確認：b012 ltwm-05966 MISSING CHILDREN 的 in 檔 ltw_card_urls 和 case board 是巴西另一件作品（Google for Missing Children），稿已照官方 JWT Beijing 寶貝回家 App 寫，驗收員找到真正的官方頁（175236／175303），in 檔連結請本機修正。
+- 待本機確認：b012 ltwm-05969 KOKANEE 內容仍只靠維基百科一個來源；b012 TUMBLE 官方代理商寫 Revolver，報導寫 GPY&R 墨爾本，award_line 照官方。
+- 仍 uncertain：b014 ltwm-05985 GIVING BIRTH LIVE（Pampers，缺文字說明：播出頻道、是否為母親節）。
+- 圖不理想：沒圖 b014 ltwm-05983（床墊）。
+- 重複候選 0；【爭議】新增 0；撤獎 0。
