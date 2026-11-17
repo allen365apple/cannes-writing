@@ -31,3 +31,14 @@
 - 待本機確認：b010 ltwm-05959 Sharing Can 的代理商，官方寫 Ogilvy France、報導寫新加坡 Ogilvy & Mather，兩邊都保留；b010 ltwm-05955 徠卡 Press 三則平面（Landmine、Glasses、Cigar）查不到內容，讀稿只寫影片；b010 ltwm-06047 Share a Coke 另有銀獅 Share a Coke and a Song，沒寫到。
 - 圖不理想：沒圖 b009 ltwm-06625、06328、06469，b010 ltwm-06067；圖偏弱 b010 05956、05955、05959。
 - 重複候選 0；【爭議】新增 0；撤獎 0。
+
+## 2026-11-18 雲端第 1 輪 b013 b016 b017 b018（Sonnet 寫、Opus 驗）
+- 拆件待決：b013 ltwm-05978 KID PROOF。官方另有設計銀獅 The Electric Translator，點子不同，驗收員建議拆件。
+- 標題待決：b013 ltwm-05981 in 檔標題 LIVING TOGETHER，官方作品名 PLAYIN' WITH MY FRIENDS（稿照官方寫），建議改 title。
+- 標題待決：b018 ltwm-06088 in 檔標題 PUSH TO ADD DRAMA（TNT 紅色按鈕街頭特技），官方這座 Press 銀獅是 TNT 平面 BEAR／WEDDING／FUNERAL（稿照官方寫；in 檔案例板其實是阿根廷 Olé 的作品），建議改 title。b018 ltwm-06011 in 檔標題 WE KNOW DRAMA，官方作品是 DRAMA HITS THE NETHERLANDS，稿照官方寫。
+- 獎項拆分待本機確認：b013 in 檔把 VODAFONE KISS（Grey London）的兩座影片銅獅併進 ltwm-05975 FAKKA；寫手移到 ltwm-06622 THE KISS，驗收員對官方卡片確認拆得對。
+- 【爭議】新增 1：b017 ltwm-06001 SKY LIVESPOTS（DDB／VCCP 說早向 Sky 提過同點子），驗收員判斷算爭議，保留【爭議】段。
+- 仍 uncertain：b013 ltwm-06484 MOVING THE STORE、ltwm-06622 THE KISS（缺案例全文）；b016 ltwm-05995 RAGU（廣播 needs_audio，SoundCloud 音檔待本機 whisper 轉寫三支）、ltwm-06170 HELP A CHILD REACH 5（缺劇情、不確定報名片）；b017 ltwm-06274 ANNIE／FROM SHELTER TO STAGE（缺說明、沒圖，報名範圍不確定）。
+- 待本機確認：b018 ltwm-06007 POSITIVE & NEGATIVE 的 Press 金獅是哪兩張查不到；b017 ltwm-06006 LIFE CUTS（in 標題 85 SECONDS）與 ltwm-06004 SAVE 11（in 標題 #1 KILLER）標題不同；b016 ltwm-05997 title 是設計類那一項，另有 Press 金獅 2 項。
+- 圖不理想：沒圖 b017 ltwm-06274；圖偏小 b013 05977、06484，b018 06009、06010；看不出點子 b016 06199，b018 06650、06443。
+- 重複候選 0；撤獎 0。
