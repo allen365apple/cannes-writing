@@ -8,3 +8,4 @@
 - 2026-11-17 14:50 回報已寫進 years/last_report.txt。
 - 2026-11-18 02:10 開工：b012 b013 b014 b015 b016 b017 b018（雲端 2026-11-18 第 1 輪）
 - 2026-11-18 雲端第 1 輪：寫完並驗完 b012–b018（7 批 70 件全收，沒有不收、沒有撤獎）。驗收員拿掉 uncertain 12 件（05966、06138、06472、06212、06164、06222、05991、06206、05978、06265、05998、06344），仍 uncertain 6 件（05985、06484、06622、05995、06170、06274）；修正一句話與事實多處（05966 原用到巴西另一件作品的資料、06413 一句話不準、06416 確認是 400 多處不是 4,000）；換掉多張第三方圖改用官方案例板。【爭議】新增 1（06001 SKY LIVESPOTS 點子先提之爭）。2013 累計 18／72 批。待決新增 18 條（拆件 1、標題 4、【爭議】1、仍 uncertain 6、待本機確認 6，另有圖不理想清單）。連不上：Behance、LBB、The Drum、Fast Company、MediaPost、Campaign India、Clios、AdForum、adsspot、lareclame、Shots、Marketing Week、Vimeo／YouTube（機器人驗證）、官方 s3 圖（403）；work.firstborn.com、duvalguillaume.com、theautochannel 不在允許網域；lovethework 卡片多半沒內文。程式檢查沒掃到違規；寫手、驗收員自報沒用 rm、沒加標頭、沒改 in 檔。小問題：b017 寫手跑了一次唯讀的 git status（沒有改動）；b016 寫手自報重讀只抽看，驗收員已逐件讀完。沒撞額度。
+- 2026-11-18 02:55 回報已寫進 years/last_report.txt。
