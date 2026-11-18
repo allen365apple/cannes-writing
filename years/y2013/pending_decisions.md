@@ -50,3 +50,12 @@
 - 仍 uncertain：b014 ltwm-05985 GIVING BIRTH LIVE（Pampers，缺文字說明：播出頻道、是否為母親節）。
 - 圖不理想：沒圖 b014 ltwm-05983（床墊）。
 - 重複候選 0；【爭議】新增 0；撤獎 0。
+
+## 2026-11-18 雲端第 2 輪 b019 b020 b021 b022（Sonnet 寫、Opus 驗）
+- 獎項拆分待本機確認：b019 ltwm-06556 STREET QUEST（Ogilvy 開普敦）的官方預填併進了 DDB Sydney 福斯疲勞駕駛的廣播銀獅 ROAD、STREET（作品名撞名）。驗收員已把這座廣播銀獅移到 b020 ltwm-06190 Driver Fatigue，06556 只留 Branded Content 銅獅。程式會標 06556【得獎】行與官方預填不同。建議：本機確認後修正 in 檔預填。
+- 不收待決：b021 ltwm-06021 HAWKRIDGE（Old Spice）。in 檔沒有官方獎項，YouTube 只有影迷頻道上傳的版本，查不到坎城得獎紀錄（不是撤獎）。建議：本機查官方名單，查不到就維持不收。
+- 待本機確認：b020 ltwm-06148 GENUINE PARTS（福斯南非，Ogilvy 開普敦）。in 檔沒有官方資料，稿用 One Show 的拼圖系列寫，坎城這座銀獅的類別和作品名查不到，【得獎】行是寫手寫的。
+- 仍 uncertain：b020 ltwm-06190 Driver Fatigue、ltwm-06489 Mysteries of the Universe、b022 ltwm-06030 TMA（三支廣播缺音檔，需本機用 whisper 轉寫）；b021 ltwm-06022 METAMORPHOSIS（缺劇情與可用的圖）。
+- 依作品畫面解讀（沒有文字說明）：b019 06634 WATER PUMP、06530 ROCK/SLIDE/DEER；b022 06032 LOGO、06035、06532。
+- 圖不理想：沒圖 b020 06190、06489，b021 06027、06022、Singtel OLD PHONES，b022 06030；圖偏小 b021 06020 Mutombo（260px），b022 Amazing Mindreader、Power of Cute；看不出點子 b019 06556；06270 GT86 縮圖取自非官方頻道轉貼。
+- 重複候選 0；【爭議】新增 0；撤獎 0。

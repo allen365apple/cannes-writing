@@ -78,7 +78,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "案例板圖檔（GOODSTEIN 官網）主機回傳格式是 webp，副檔名寫 jpg，請驗收員確認能顯示。讀稿的流程、集數與配音／導演資訊來自案例板文字，板上的成效數字與引述評論都未寫入。官方 lovethework 頁面只有基本資料。兩個官方獎項（Branded Content & Entertainment 金獅、Direct 銅獅）作品名都是 BUILDING THE PEOPLE'S CAR。各來源對提交點子數與參與人數說法略有出入（二十六萬／三千萬人、一百零四個點子進入設計），讀稿只用案例板的數字當背景。已搜爭議：搜「Volkswagen People's Car Project Building the People's Car controversy／fake／fraud／withdrawn」，沒有找到相關指控。"
+  "note": "案例板圖檔（GOODSTEIN 官網）主機回傳格式是 webp，副檔名寫 jpg，請驗收員確認能顯示。讀稿的流程、集數與配音／導演資訊來自案例板文字，板上的成效數字與引述評論都未寫入。官方 lovethework 頁面只有基本資料。兩個官方獎項（Branded Content & Entertainment 金獅、Direct 銅獅）作品名都是 BUILDING THE PEOPLE'S CAR。各來源對提交點子數與參與人數說法略有出入（二十六萬／三千萬人、一百零四個點子進入設計），讀稿只用案例板的數字當背景。已搜爭議：搜「Volkswagen People's Car Project Building the People's Car controversy／fake／fraud／withdrawn」，沒有找到相關指控。 2026-11-18 Opus 驗：打開圖確認：主機回 Content-Type image/webp（副檔名 jpg），瀏覽器可正常顯示；案例板內容與讀稿（十集、周筆暢、賈樟柯、上海車展）相符。"
  },
  {
   "id": "ltwm-06085",
@@ -101,9 +101,9 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "福斯 Front Assist 平面廣告：同一個美髮店畫面連排多格，客人說想像模特兒，髮型師隔好幾格才回「哪一種」",
+  "idea_one_liner": "福斯 Front Assist 平面廣告：客人說想看起來像模特兒，髮型師脫口「那先減 40 磅」；多想幾格後，改口問「像哪一位？」",
   "brand_display": "Volkswagen（福斯汽車）",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜Press類銀獅 Press Silver Lion｜代理商：ALMAPBBDO São Paulo\n\n【點子】主打福斯 Front Assist（前方碰撞預警輔助系統）的標語是「You react better with more time to think. Front Assist. Keeps you 3 seconds away from an accident.」（多一點思考時間，反應會更好；Front Assist 讓你離事故 3 秒）。廣告獎資料庫（D&AD）的說明寫這組廣告有三個場景：美髮店、浪漫約會、跟陷入低潮的作家對話，都是多一點時間就能避免尷尬失言的情境。\n\n【執行】官方報名作品名是 SALLON 與 WORK 兩件。案例板上的是美髮店這一張：灰色背景上，插畫角色的客人坐在椅子上說「I want to look like a model!」（我想看起來像模特兒），髮型師站在旁邊。畫面把同一個場景連排成好幾格，上方一格髮型師直接回「Then lose 40 lbs.」（那就先減 40 磅），下方一排四格裡髮型師過了好幾格才問一句「Which one?」（哪一種？）。畫面下方是標語與 VW 標誌。插畫由 Pict Estudio 繪製。WORK 那一件沒有打開過畫面，讀稿不寫。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/sallon-96093\nhttps://ascentialcdn.filespin.io/api/v1/conversion/3050cb560f91434a8235eb0e254c783f\nhttps://www.dandad.org/work/d-ad-awards-archive/more-time-to-think\nhttps://www.adruby.com/volkswagen/volkswagen-keeps-you-3-seconds-away-accident",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜Press類銀獅 Press Silver Lion｜代理商：ALMAPBBDO São Paulo\n\n【點子】主打福斯 Front Assist（前方碰撞預警輔助系統）的標語是「You react better with more time to think. Front Assist. Keeps you 3 seconds away from an accident.」（多一點思考時間，反應會更好；Front Assist 讓你離事故 3 秒）。廣告獎資料庫（D&AD）的說明寫這組廣告有三個場景：美髮店、浪漫約會、跟陷入低潮的作家對話，都是多一點時間就能避免尷尬失言的情境。\n\n【執行】官方報名作品名是 SALLON 與 WORK 兩件。案例板上的是美髮店這一張：灰色背景上，插畫角色的客人坐在椅子上說「I want to look like a model!」（我想看起來像模特兒），髮型師站在旁邊。畫面把同一個場景連排成好幾格，上方一格髮型師直接回「Then lose 40 lbs.」（那就先減 40 磅），下方一排四格裡髮型師過了好幾格才問一句「Which one?」（像哪一位？）。上排是沒時間想的直接反應，下排多了幾格思考時間，回答就圓滑得多（依作品畫面解讀）。畫面下方是標語與 VW 標誌。插畫由 Pict Estudio 繪製。WORK 那一件沒有打開過畫面，讀稿不寫。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/sallon-96093\nhttps://ascentialcdn.filespin.io/api/v1/conversion/3050cb560f91434a8235eb0e254c783f\nhttps://www.dandad.org/work/d-ad-awards-archive/more-time-to-think\nhttps://www.adruby.com/volkswagen/volkswagen-keeps-you-3-seconds-away-accident",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Print, 平面廣告, 報紙雜誌廣告, Press, Press類, 銀獅, Silver Lion, Volkswagen, 福斯, 福斯汽車, VW, 汽車, 汽車安全, Front Assist, 前方碰撞預警, 駕駛輔助, ALMAPBBDO, ALMAPBBDO São Paulo, 巴西, Brazil, 插畫, Illustration, 美髮店, 髮型師, 幽默, 時間, 反應時間, 三秒",
   "category": "行銷案例",
   "references": [
@@ -117,7 +117,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方案例頁沒有創意說明，美髮店這張的做法依案例板畫面解讀；髮型師「隔幾格才回話」是看畫面的描述，沒有文字說明作者本意。D&AD 頁面標為 2014 年，與官方 2013 不同，讀稿未寫年份。已搜爭議：搜「Volkswagen Front Assist More Time to Think controversy／plagiarism／scam ad」，沒有找到相關指控（搜到的是別支 Front Assist 廣告與 2018 年 ASA 裁決，與本件無關，未寫入）。"
+  "note": "官方案例頁沒有創意說明，美髮店這張的做法依案例板畫面解讀；髮型師「隔幾格才回話」是看畫面的描述，沒有文字說明作者本意。D&AD 頁面標為 2014 年，與官方 2013 不同，讀稿未寫年份。已搜爭議：搜「Volkswagen Front Assist More Time to Think controversy／plagiarism／scam ad」，沒有找到相關指控（搜到的是別支 Front Assist 廣告與 2018 年 ASA 裁決，與本件無關，未寫入）。 2026-11-18 Opus 驗：打開案例板：上排髮型師直接回 Then lose 40 lbs.，下排隔三格才回 Which one?，原一句話沒寫出這個對比、且「哪一種」譯錯，已改寫。",
+  "idea_one_liner_r0": "福斯 Front Assist 平面廣告：同一個美髮店畫面連排多格，客人說想像模特兒，髮型師隔好幾格才回「哪一種」"
  },
  {
   "id": "ltwm-06190",
@@ -131,29 +132,39 @@
    "https://www.youtube.com/watch?v=jOBVU0LTiz4"
   ],
   "decision": "收",
-  "awards": [],
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Radio",
+    "subcategory": "Cars & Automotive Services",
+    "count": 1,
+    "source_count": 2
+   }
+  ],
   "awards_unverified": [
    {
     "level": "Silver",
     "note": "官方獎項資料缺，依 in 檔 tier"
    }
   ],
-  "idea_one_liner": "福斯疲勞偵測技術的廣播廣告《Road》：用聲音演出，長途開車讓人恍神的催眠感",
+  "idea_one_liner": "福斯疲勞偵測技術的廣播廣告：讓聽眾聽見駕駛的內心獨白，在長途路上越飄越遠，再被疲勞偵測拉回路面",
   "brand_display": "Volkswagen（福斯汽車）",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜Radio類銀獅 Radio Silver Lion（官方細項待驗收確認）｜代理商：DDB SYDNEY\n\n【點子】這是福斯駕駛疲勞偵測技術（Driver Fatigue Detection）的廣播廣告，片名 Road。廣告獎資料庫（D&AD）的作品說明寫，這個系列「dramatises the hypnotic effect long drives can have on the human mind」（把長途開車對人腦造成的催眠效果演出來）。\n\n【執行】官方得獎卡是銀獅獎盃的影片卡，沒有逐字稿；YouTube 上 DDB Worldwide 上傳的片名是「VW \"Road\"」。這裡沒有取得音檔內容，所以不寫情節與台詞。\n\n資料來源：\nhttps://www.youtube.com/watch?v=jOBVU0LTiz4\nhttps://www.dandad.org/awards/professional/2014/radio-advertising/23888/road-street-drive/\nhttps://www.lovethework.com/work-awards/campaigns/volkswagen-driver-fatigue-technology-237984",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜Radio類銀獅 Radio Silver Lion｜代理商：DDB Sydney\n\n【點子】這是福斯駕駛疲勞偵測技術（Driver Fatigue Detection）的廣播廣告，片名 Road。廣告獎資料庫（D&AD）的作品說明寫，這個系列把長途開車的催眠效果演出來：聽眾聽到每個角色的內心獨白漸漸飄離路面，再被福斯的疲勞偵測技術拉回來。\n\n【執行】官方得獎卡是銀獅獎盃的影片卡，沒有逐字稿；YouTube 上 DDB Worldwide 上傳的片名是「VW \"Road\"」。這裡沒有取得音檔內容，所以不寫情節與台詞。官方報名的作品名是 ROAD 與 STREET 兩支。\n\n資料來源：\nhttps://www.youtube.com/watch?v=jOBVU0LTiz4\nhttps://www.dandad.org/awards/professional/2014/radio-advertising/23888/road-street-drive/\nhttps://www.lovethework.com/work-awards/campaigns/volkswagen-driver-fatigue-technology-237984\nhttps://www.lovethework.com/en/work/entries/road-96244",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Radio, 廣播廣告, 廣播類, 銀獅, Silver Lion, Volkswagen, 福斯, 福斯汽車, VW, 汽車, 汽車安全, 疲勞駕駛, 駕駛疲勞偵測, Driver Fatigue Detection, DDB SYDNEY, DDB, 澳洲, Australia, 長途駕駛, 催眠, 恍神, 聲音",
   "category": "行銷案例",
   "references": [
    "https://www.youtube.com/watch?v=jOBVU0LTiz4",
    "https://www.dandad.org/awards/professional/2014/radio-advertising/23888/road-street-drive/",
-   "https://www.lovethework.com/work-awards/campaigns/volkswagen-driver-fatigue-technology-237984"
+   "https://www.lovethework.com/work-awards/campaigns/volkswagen-driver-fatigue-technology-237984",
+   "https://www.lovethework.com/en/work/entries/road-96244"
   ],
   "image_url": "",
   "image_shows": "",
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": false,
-  "note": "uncertain：缺廣播內容。in 檔沒有官方獎項資料（official_awards 空），官方卡片頁沒有說明；從 YouTube 影片卡（銀獅獎盃＋廣播聲波圖樣，片名 VW \"Road\"）判斷是廣播類銀獅，類別細項與官方作品名查不到，所以【得獎】行只寫到「Radio類銀獅」，請驗收員對官方名單。D&AD 說明是 2014 年的同系列作品（Road, Street & Drive），可能與 2013 坎城這支不完全同一件。音檔：https://www.youtube.com/watch?v=jOBVU0LTiz4（雲端沒有轉寫工具，需本機 whisper）。沒有可用的圖（候選圖為空，YouTube 縮圖只是獎盃卡）。已搜爭議：搜「DDB Sydney Volkswagen driver fatigue Cannes 2013」，沒有找到相關指控。"
+  "note": "uncertain：缺廣播內容。in 檔沒有官方獎項資料（official_awards 空），官方卡片頁沒有說明；從 YouTube 影片卡（銀獅獎盃＋廣播聲波圖樣，片名 VW \"Road\"）判斷是廣播類銀獅，類別細項與官方作品名查不到，所以【得獎】行只寫到「Radio類銀獅」，請驗收員對官方名單。D&AD 說明是 2014 年的同系列作品（Road, Street & Drive），可能與 2013 坎城這支不完全同一件。音檔：https://www.youtube.com/watch?v=jOBVU0LTiz4（雲端沒有轉寫工具，需本機 whisper）。沒有可用的圖（候選圖為空，YouTube 縮圖只是獎盃卡）。已搜爭議：搜「DDB Sydney Volkswagen driver fatigue Cannes 2013」，沒有找到相關指控。 2026-11-18 Opus 驗：官方獎項找到了：b019 ltwm-06556（Street Quest）的 in 檔 official 裡有 Radio 銀獅（Cars & Automotive Services，作品 ROAD、STREET，DDB Sydney，產品 VOLKSWAGEN DRIVER FATIGUE TECHNOLOGY），ltw road-96244 頁也確認 DDB Sydney／Volkswagen Group Australia／Silver；【得獎】行與 awards 改照官方，b019 那筆已移除這座獎。D&AD 頁標 2014、作品名 Road, Street & Drive，與官方 ROAD、STREET 同一系列，說明（內心獨白飄離路面、被疲勞偵測拉回）寫入點子與一句話。仍缺音檔內容，維持 uncertain。",
+  "idea_one_liner_r0": "福斯疲勞偵測技術的廣播廣告《Road》：用聲音演出，長途開車讓人恍神的催眠感"
  },
  {
   "id": "ltwm-06231",
@@ -220,7 +231,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "福斯請工程師把金龜車，做成能潛水的鯊魚籠，放進探索頻道鯊魚週並拍成節目",
+  "idea_one_liner": "福斯把金龜車改造成鯊魚籠（Beetle Shark Cage），讓人坐進去潛到海裡看鯊魚，放進探索頻道鯊魚週，拍成節目",
   "brand_display": "Volkswagen（福斯汽車）",
   "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜Branded Content & Entertainment類銀獅 Branded Content & Entertainment Silver Lion、媒體類銅獅 Media Bronze Lion｜代理商：MEDIACOM New York\n\n【背景】福斯想改變金龜車（Beetle）被當成「女生車款」的印象，希望讓這輛車對男性也顯得酷。2012 年是美國探索頻道（Discovery Channel）「鯊魚週」（Shark Week）25 週年，也是福斯第一次贊助這個節目活動。\n\n【點子】金龜車的輪廓跟鯊魚有點像，福斯乾脆把金龜車做成鯊魚週的主角：造一輛會在海底行駛的金龜車鯊魚觀察籠，讓潛水員坐在裡面，開在海底近距離看大白鯊。\n\n【執行】MediaCom 與福斯的創意代理商 Deutsch LA、探索頻道的品牌娛樂團隊、福斯工程師和鯊魚攝影師一起做。團隊造出一個保留金龜車輪廓的框架式車子，靠兩具螺旋槳推進，真的開進有鯊魚的海域。攝影機記錄從設計、製作到開進海裡的全過程，剪成原創內容在鯊魚週播出；報導寫法不一，有的說是三集紀錄片，有的說是節目空檔播出的短片，另外探索頻道事前陸續釋出預告短片。官方報名作品名是 THE BEETLE SHARK CAGE。\n\n資料來源：\nhttps://www.prnewswire.com/news-releases/mediacom-wins-silver-at-cannes-branded-content-and-entertainment-lions-awards-gala-212626901.html\nhttps://www.adweek.com/?p=574846\nhttps://www.nexttv.com/news/mbpt-spotlight-vw-renews-sponsorship-shark-week-agency-execs-recall-last-years-award-winning-integration-114673\nhttps://www.horizont.net/marketing/nachrichten/-Im-Stau-mit-Haien-Volkswagen-baut-Unterwasser-Auto-109410",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Branded Content & Entertainment, 品牌內容與娛樂類, 媒體類, Media, 銀獅, Silver Lion, 銅獅, Bronze Lion, Volkswagen, 福斯, 福斯汽車, VW, 金龜車, Beetle, 汽車, 鯊魚觀察籠, Shark Cage, 鯊魚週, Shark Week, 探索頻道, Discovery Channel, MediaCom, MEDIACOM NEW YORK, Deutsch LA, 美國, United States, 水下, 大白鯊, 節目置入, 品牌娛樂, 紀錄片, 螺旋槳",
@@ -236,7 +247,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 case board 候選圖（ascentialcdn 6080bab3…）打開是老金龜車停車場的黑白畫面，看不出點子，所以改用 Horizont 報導的水下照片（圖檔小，約 581 px 寬，畫面有 BADER.TV 浮水印）。官方 lovethework 頁與 adsspot 頁沒有說明文字。三集紀錄片（Horizont）與節目空檔短片（NextTV）兩種說法並存，讀稿並列。成效數字（銷量、其他獎項）未寫入。已搜爭議：搜「Volkswagen Beetle Shark Cage controversy／fake／withdrawn Cannes Lions」，沒有找到相關指控。"
+  "note": "官方 case board 候選圖（ascentialcdn 6080bab3…）打開是老金龜車停車場的黑白畫面，看不出點子，所以改用 Horizont 報導的水下照片（圖檔小，約 581 px 寬，畫面有 BADER.TV 浮水印）。官方 lovethework 頁與 adsspot 頁沒有說明文字。三集紀錄片（Horizont）與節目空檔短片（NextTV）兩種說法並存，讀稿並列。成效數字（銷量、其他獎項）未寫入。已搜爭議：搜「Volkswagen Beetle Shark Cage controversy／fake／withdrawn Cannes Lions」，沒有找到相關指控。 2026-11-18 Opus 驗：一句話改寫：原句逗號拆開「把金龜車，做成」。打開官方案例板確認是老金龜車黑白畫面、看不出點子，維持用 Horizont 圖。",
+  "idea_one_liner_r0": "福斯請工程師把金龜車，做成能潛水的鯊魚籠，放進探索頻道鯊魚週並拍成節目"
  },
  {
   "id": "ltwm-06148",
@@ -257,9 +269,9 @@
     "note": "官方獎項資料缺，依 in 檔 tier"
    }
   ],
-  "idea_one_liner": "福斯原廠零件平面廣告：把照片做成拼圖，球與隱形眼鏡的位置換成拼圖塊，標語說合得上不代表能用",
+  "idea_one_liner": "福斯原廠零件平面廣告：把照片做成拼圖，飛盤、隱形眼鏡等物換成一塊拼圖塊，標語說裝得上不代表能用",
   "brand_display": "Volkswagen（福斯汽車）",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜銀獅 Silver Lion（官方類別待驗收確認）｜代理商：OGILVY CAPE TOWN\n\n【點子】標語是「Just because it fits, doesn't mean it'll work. Choose Volkswagen Genuine Parts.」（合得上不代表能用，請選福斯原廠零件）。當時景氣不好，不少車主改買便宜的非原廠零件；而這些零件常常剛好裝得上去，看起來沒問題，卻無法正常運作，過一陣子就出狀況。\n\n【執行】找到的案例是 Ogilvy & Mather Cape Town 為福斯南非做的拼圖系列海報：整張照片被做成一幅拼圖，畫面裡本來該是某個東西的地方換成一塊拼圖塊。例如草地上兩人互丟的東西是一塊拼圖塊、女生放進眼睛的隱形眼鏡位置是一塊拼圖塊，足球場上守門員正要踢的東西也是一塊貼著人臉的拼圖塊。每張下方都是同一句標語與 VW 標誌。\n\n資料來源：\nhttps://www.oneclub.org/awards/theoneshow/-award/18946/puzzles\nhttps://d2z00kf51ll94q.cloudfront.net/archive/os/2013/large/13102A_1.jpg\nhttps://www.adruby.com/volkswagen/volkswagen-ask-volkswagen-genuine-parts",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜銀獅 Silver Lion（官方類別待驗收確認）｜代理商：OGILVY CAPE TOWN\n\n【點子】標語是「Just because it fits, doesn't mean it'll work. Choose Volkswagen Genuine Parts.」（合得上不代表能用，請選福斯原廠零件）。當時景氣不好，不少車主改買便宜的非原廠零件；而這些零件常常剛好裝得上去，看起來沒問題，卻無法正常運作，過一陣子就出狀況。\n\n【執行】找到的案例是 Ogilvy & Mather Cape Town 為福斯南非做的拼圖系列海報：整張照片被做成一幅拼圖，畫面裡本來該是某個東西的地方換成一塊拼圖塊。例如草地上兩人互丟的飛盤變成一塊拼圖塊、女生放進眼睛的隱形眼鏡位置也是一塊拼圖塊。每張下方都是同一句標語與 VW 標誌。\n\n資料來源：\nhttps://www.oneclub.org/awards/theoneshow/-award/18946/puzzles\nhttps://d2z00kf51ll94q.cloudfront.net/archive/os/2013/large/13102A_1.jpg\nhttps://www.adruby.com/volkswagen/volkswagen-ask-volkswagen-genuine-parts",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Print, 平面廣告, 海報, Poster, 銀獅, Silver Lion, Volkswagen, 福斯, 福斯汽車, VW, 汽車, 汽車零件, 原廠零件, Genuine Parts, OGILVY CAPE TOWN, Ogilvy & Mather, 南非, South Africa, 拼圖, Puzzle, 拼圖塊, 視覺雙關, 合得上, 隱形眼鏡, 足球, 守門員, 草地",
   "category": "行銷案例",
   "references": [
@@ -272,7 +284,8 @@
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": false,
-  "note": "uncertain：不確定對得上官方作品。in 檔沒有官方獎項資料與作品名（official_awards 空），官方 lovethework 頁只有標題「VOLKSWAGEN GENUINE PARTS」沒有內容；【得獎】行只能用 in 檔的銀獅與代理商寫，請驗收員對官方名單。讀稿與圖用的是 One Show 2013「Puzzles」（Ogilvy & Mather Cape Town，福斯南非，Merit）的拼圖系列，看起來是同代理商同品牌同年作品，但 in 檔給的 Behance 連結「Fixed Posters」打不開（403），沒辦法確認「Puzzles」就是坎城得獎那組。圖是 One Show 檔案站圖，640 px 寬。已搜爭議：搜「Volkswagen Genuine Parts Ogilvy Cape Town puzzle posters scam ad controversy」，沒有找到相關指控。"
+  "note": "uncertain：不確定對得上官方作品。in 檔沒有官方獎項資料與作品名（official_awards 空），官方 lovethework 頁只有標題「VOLKSWAGEN GENUINE PARTS」沒有內容；【得獎】行只能用 in 檔的銀獅與代理商寫，請驗收員對官方名單。讀稿與圖用的是 One Show 2013「Puzzles」（Ogilvy & Mather Cape Town，福斯南非，Merit）的拼圖系列，看起來是同代理商同品牌同年作品，但 in 檔給的 Behance 連結「Fixed Posters」打不開（403），沒辦法確認「Puzzles」就是坎城得獎那組。圖是 One Show 檔案站圖，640 px 寬。已搜爭議：搜「Volkswagen Genuine Parts Ogilvy Cape Town puzzle posters scam ad controversy」，沒有找到相關指控。 2026-11-18 Opus 驗：打開圖確認：草地兩人互丟的是拼圖塊形狀的飛盤，原句寫「球」不對，已改；「足球場守門員」那張沒有可開的圖或文字，刪掉。One Show 頁（13102A，Newspaper 類 Merit，Writer Sanjiv Mistry）只有概念說明。lovethework 有兩個 VOLKSWAGEN GENUINE PARTS campaign 頁（224791、223785），內文需訂閱，看不到年份與類別；搜尋只找到 2014 年廣播作品。仍無法確認坎城 2013 銀獅的類別與作品名，【得獎】行維持寫手版，維持 uncertain。",
+  "idea_one_liner_r0": "福斯原廠零件平面廣告：把照片做成拼圖，球與隱形眼鏡的位置換成拼圖塊，標語說合得上不代表能用"
  },
  {
   "id": "ltwm-06189",
@@ -311,7 +324,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 頁只有基本資料，創意說明用 D&AD 頁（說明為 2014 年入圍區）與案例板畫面。官方作品名三件，只看到 I'LL BE THERE IN A WHILE 畫面；SEE YOU NOW、I'M IN TRAFFIC 的內容沒有打開過所以未寫。「四倍」是 D&AD 說明引用的說法。已搜爭議：搜「Volkswagen Please don't text and drive Ogilvy Cape Town scam／controversy／plagiarism」，沒有找到相關指控。"
+  "note": "官方 lovethework 頁只有基本資料，創意說明用 D&AD 頁（說明為 2014 年入圍區）與案例板畫面。官方作品名三件，只看到 I'LL BE THERE IN A WHILE 畫面；SEE YOU NOW、I'M IN TRAFFIC 的內容沒有打開過所以未寫。「四倍」是 D&AD 說明引用的說法。已搜爭議：搜「Volkswagen Please don't text and drive Ogilvy Cape Town scam／controversy／plagiarism」，沒有找到相關指控。 2026-11-18 Opus 驗：事實抽查：作品名、案例板文字（I'll be there in a wh／while, wheelchair）與讀稿相符。"
  },
  {
   "id": "ltwm-06327",
