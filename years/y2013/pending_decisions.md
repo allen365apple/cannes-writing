@@ -68,3 +68,16 @@
 - 依作品畫面解讀：b023 06045 萊雅（驗收員已看 4 張海報確認）、06046 Schick、06637 Staedtler。
 - 圖不理想：沒圖 b023 06043，b024 06059、06057、06053、06058（原圖是成效字卡已撤），b025 06060、06061、06066；圖偏小 b023 06039 Thunderclap，b025 06064 Konami。
 - 【爭議】新增 0；撤獎 0。
+
+## 2026-11-19 雲端第 1 輪 b026 b027 b028 b029（Sonnet 寫、Opus 驗）
+- 不收待決：b027 ltwm-06080 AD:TECH TOKYO 2012（官方作品名 MAGNETIC WORLD，設計金獅）。找不到文字說明，寫手標不收；驗收員找到影片 youtube.com/watch?v=qAKF4ykS_3A（被磁力拉起的鐵砂）。建議：本機看片後改收。
+- 重複候選：b027 ltwm-06136 FLAGS OF REFUGEES（寫手標不收）。沒有官方獎項，與 ltwm-06082 是同一組 Accem 國旗海報。建議：改成重複，same_as 06082。
+- 重複候選：b028 ltwm-06098 IF YOU CAN'T HAVE IT, BUILD IT.（寫手已標重複 same_as 06482）。沒有官方預填，與 06482 是同一組 Meccano 海報的標語，驗收員同意。建議：維持重複。
+- 重複候選：b029 ltwm-06110 IT NEVER GOES AWAY（目前收）。沒有官方預填，與 ltwm-06320 A GIRL, A BOY 是同一組 CPCR 海報（Trend Hunter 確認）。建議：改成重複，same_as 06320。
+- 不收待決：b029 ltwm-06106 THE POSTER EXAM（目前收、uncertain）。沒有官方預填，lovethework 搜不到；One Show、D&AD 只有 2014 年紀錄。建議：不收，或回頭查清單來源。
+- 標題待決：b028 ltwm-06100 in 檔 title「THE CHASE」其實是 06509 PARDON ME 那支片，官方作品名是 THE SOCIETY OF GOOD TASTE，稿照官方寫，title 沒改。
+- 待本機確認：b026 ltwm-06073 NRMA 用 WARC 案例確認就是「用對手列為加購的零件組成一輛車」那件；b028 ltwm-06097 已補寫媒體類銅獅 Bedtime Stories。
+- 仍 uncertain：b027 ltwm-13760 Bancolombia（TWISTER、CRASH 兩張沒有說明）；b028 ltwm-06096 DOG WALKER、b029 ltwm-06113 SPINDLING SPIDER（廣播已找到音檔，需本機用 whisper 轉寫）；b029 ltwm-06106（見上）。b026 ltwm-06078 98% HUMAN 影片情節沒寫（不是 uncertain）。
+- 依作品畫面解讀：b028 ltwm-06482 Meccano；b026 ltwm-06075 SKETCH 三張各自的畫面沒有說明。
+- 圖不理想：沒圖 b027 06126、06093、06657（驗收員補了 2 件），b028 06096、06101，b029 06111、06106、06113；圖偏小 b029 06109；看不出點子 b028 06509。
+- 【爭議】新增 0（b027 06126 寫手加的【爭議】段屬一般評論，驗收員已拿掉）；撤獎 0。
