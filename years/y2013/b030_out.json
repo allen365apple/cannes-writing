@@ -38,12 +38,12 @@
    "https://www.adruby.com/raknroll-records/charity-records-label?page=48",
    "https://www.lovethework.com/en/work/entries/a-charity-record-label-174304"
   ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/32846e798a7745b2830b58bb004b065c/storyboard_000002.jpg",
-  "image_shows": "案例影片分鏡：白底黑字「Rak is the Polish word for cancer」，看不出整個點子，只是解釋名字的字卡",
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/32846e798a7745b2830b58bb004b065c/storyboard_000100.jpg",
+  "image_shows": "案例影片分鏡：Rak'n'Roll Records 網站畫面，左上是紅色耳機造型 logo，中間一格格藝人封面與曲名，右側是播放清單與購買金額",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：「Rak'n'Roll Records controversy fake fraud withdrawn Cannes」，沒有相關結果（只有無關的 2025 年坎城爭議），未見指控。官方報名作品名為 A CHARITY RECORD LABEL，in 檔 title 寫 RAK'N'ROLL RECORDS，同一支。lovethework 卡片只有基本資料；官方案例文字沒讀到，內容依 Antyweb（2012 年 11 月）與 adRuby。搜尋摘要提到的「三個月成為波蘭最大獨立唱片公司」「幫助失去乳房的女性」都是成效或未打開頁面的說法，未寫入。圖：官方分鏡只有字卡（YouTube 縮圖 404），不理想，僅作暫用，請驗收員決定是否換。"
+  "note": "已搜爭議：「Rak'n'Roll Records controversy fake fraud withdrawn Cannes」，沒有相關結果（只有無關的 2025 年坎城爭議），未見指控。官方報名作品名為 A CHARITY RECORD LABEL，in 檔 title 寫 RAK'N'ROLL RECORDS，同一支。lovethework 卡片只有基本資料；官方案例文字沒讀到，內容依 Antyweb（2012 年 11 月）與 adRuby。搜尋摘要提到的「三個月成為波蘭最大獨立唱片公司」「幫助失去乳房的女性」都是成效或未打開頁面的說法，未寫入。圖：官方分鏡只有字卡（YouTube 縮圖 404），不理想，僅作暫用，請驗收員決定是否換。 2026-11-19 Opus 驗：圖從字卡（storyboard_000002）換成同一支案例影片的網站畫面格（storyboard_000100），已下載打開確認。一句話與讀稿逐句讀過，無需修改。"
  },
  {
   "id": "ltwm-06119",
@@ -83,12 +83,12 @@
    "https://digiday.com/marketing/how-oreo-won-the-super-bowl-blackout/",
    "https://www.lovethework.com/en/work/entries/the-oreo-blackout-tweet-190397"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://digiday.com/wp-content/uploads/sites/3/2013/02/oreo285.jpg",
+  "image_shows": "原推文圖片：黑色漸層背景，左側一塊被光照亮的 Oreo 餅乾，下方白字 YOU CAN STILL DUNK IN THE DARK 與 Oreo 標誌（640×287，偏小）",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：「Oreo blackout tweet controversy fake planned staged」，沒有造假或抄襲指控；報導只討論這則推文是事前準備好指揮室、但內容當場產出，屬一般評論，不算爭議。官方卡片只有基本資料，內容依 Digiday 一篇。搜尋摘要的轉推數、觸及數、創意人名都沒寫入。找不到可用圖：官方卡片是預留圖，官方 s3 圖 403，YouTube 縮圖只有成效數字字卡（印轉推／按讚數），不採用。"
+  "note": "已搜爭議：「Oreo blackout tweet controversy fake planned staged」，沒有造假或抄襲指控；報導只討論這則推文是事前準備好指揮室、但內容當場產出，屬一般評論，不算爭議。官方卡片只有基本資料，內容依 Digiday 一篇。搜尋摘要的轉推數、觸及數、創意人名都沒寫入。找不到可用圖：官方卡片是預留圖，官方 s3 圖 403，YouTube 縮圖只有成效數字字卡（印轉推／按讚數），不採用。 2026-11-19 Opus 驗：補圖：Digiday 文章 og:image 就是原推文圖片，curl 確認 image/jpeg、已打開確認；YouTube maxres 縮圖是成效數字字卡，仍不採用。"
  },
  {
   "id": "ltwm-06120",
@@ -144,12 +144,12 @@
    "https://www.directnewideas.com/magazine/?id=16",
    "https://www.lovethework.com/en/work/entries/the-train-switch-191551"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://images.weserv.nl/?url=images.squarespace-cdn.com/content/6802544b1867681c9904f469/1744983159128-4ZSFW8B7CKQNJH6N6Q2W/train-switch.jpg&w=1600&output=jpg",
+  "image_shows": "Activation Ideas 介紹頁主圖：被大雪覆蓋、停在月台的瑞典國鐵 SJ 列車（呈現火車受天候延誤的處境，看不到折扣介面）",
   "text_source_level": 1,
   "uncertain": true,
   "needs_audio": false,
-  "note": "uncertain：只找到簡略說明，缺折扣到底怎麼領、怎麼計算、是不是以 app／網站呈現的細節。lovethework 卡片與 Full Campaign 頁都只有標題；Activation Ideas 只說折扣跟天候誤點連動；squarespace 頁只說是新的折扣系統。搜尋摘要提到「一分鐘誤點折 1%、取消就免費、監控十個車站」，因未在打開的頁面找到，未寫入；也沒寫成效數字。已搜爭議：「Swebus Train Switch controversy fake fraud withdrawn」，沒有這支作品的爭議（結果是無關的 Swebus 圖片修改與 Train Alliance 詐欺案）。找不到可用圖：官方 s3 圖 403、lovethework 沒圖。"
+  "note": "uncertain：只找到簡略說明，缺折扣到底怎麼領、怎麼計算、是不是以 app／網站呈現的細節。lovethework 卡片與 Full Campaign 頁都只有標題；Activation Ideas 只說折扣跟天候誤點連動；squarespace 頁只說是新的折扣系統。搜尋摘要提到「一分鐘誤點折 1%、取消就免費、監控十個車站」，因未在打開的頁面找到，未寫入；也沒寫成效數字。已搜爭議：「Swebus Train Switch controversy fake fraud withdrawn」，沒有這支作品的爭議（結果是無關的 Swebus 圖片修改與 Train Alliance 詐欺案）。找不到可用圖：官方 s3 圖 403、lovethework 沒圖。 2026-11-19 Opus 驗：補圖：Activation Ideas 頁 og:image（原檔是 webp，用 weserv 轉 JPEG），已打開確認；圖只交代背景、看不到折扣機制，偏弱。仍 uncertain：折扣怎麼計算、怎麼領，另搜仍只有搜尋摘要，未寫入。"
  },
  {
   "id": "ltwm-06115",
@@ -204,12 +204,12 @@
    "https://dandad.org/awards/professional/2013/mobile-marketing/19806/secret-fishing-spots",
    "https://www.bandt.com.au/DDB-creates-secret-fishing-spots-for-life-jacket-m/"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://i.ytimg.com/vi/_0kb8LB0o6A/sddefault.jpg",
+  "image_shows": "官方影片畫面：一支 iPhone 放在船上的儀表與面板旁（640×480）",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：「Hutchwilco Secret Fishing Spots controversy fake」，沒有這支作品的爭議（結果是無關的釣點文章與垃圾頁）。官方 lovethework 卡片與 Full Campaign 頁只有標題；內容依 Direct New Ideas、D&AD 與 B&T。搜尋摘要提到的溺水人數、18 個月開發、Rapp Tribal 參與等未在打開頁面確認，未寫入。找不到可用圖：官方 s3 圖 403、YouTube 縮圖 404，沒有打開過的畫面。"
+  "note": "已搜爭議：「Hutchwilco Secret Fishing Spots controversy fake」，沒有這支作品的爭議（結果是無關的釣點文章與垃圾頁）。官方 lovethework 卡片與 Full Campaign 頁只有標題；內容依 Direct New Ideas、D&AD 與 B&T。搜尋摘要提到的溺水人數、18 個月開發、Rapp Tribal 參與等未在打開頁面確認，未寫入。找不到可用圖：官方 s3 圖 403、YouTube 縮圖 404，沒有打開過的畫面。 2026-11-19 Opus 驗：補圖：YouTube maxres 404，但 sddefault 可用，已打開確認是船上的 iPhone 畫面。事實抽查：B&T 原文寫「log their favourite spots，沒回家時親人可登入把資料交給海岸巡防」，與讀稿一致。"
  },
  {
   "id": "ltwm-06114",
@@ -269,7 +269,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：「Kmart Ship My Pants controversy complaint」，沒有造假、抄襲或撤獎；有 One Million Moms 要求下架的抱怨（只看到搜尋摘要，Adweek 與 Marketing Dive 兩頁沒提），依規則屬一般評論、不算爭議，讀稿沒寫。另有網友惡搞影片被指種族歧視，與這支無關，未寫。成效數字（觀看次數、Store to Home 成長）與續集未寫。畫面為官方分鏡，是廣告裡的場景。"
+  "note": "已搜爭議：「Kmart Ship My Pants controversy complaint」，沒有造假、抄襲或撤獎；有 One Million Moms 要求下架的抱怨（只看到搜尋摘要，Adweek 與 Marketing Dive 兩頁沒提），依規則屬一般評論、不算爭議，讀稿沒寫。另有網友惡搞影片被指種族歧視，與這支無關，未寫。成效數字（觀看次數、Store to Home 成長）與續集未寫。畫面為官方分鏡，是廣告裡的場景。 2026-11-19 Opus 驗：事實抽查：Adweek 頁確認店員勸顧客 ship your pants、老先生寄床；搜尋摘要的 One Million Moms 抱怨只是一般評論，不寫【爭議】，同意。"
  },
  {
   "id": "ltwm-06116",
@@ -309,12 +309,12 @@
    "https://www.directnewideas.com/magazine/ogilvy_action_memac_ogilvy_rescue_radio/?id=1053",
    "https://www.dandad.org/work/d-ad-awards-archive/rescue-radio-the-rescue-continues"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://assets.directnewideas.com/5085h.jpg",
+  "image_shows": "Direct New Ideas 案例圖：噴漆風格的收音機造型標誌，白字 RESCUE RADIO，旁邊是跑向逃生門的小人",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：「Rescue Radio Sawa Mninjah controversy fake withdrawn criticism」，結果全是無關的非洲電台新聞，未見爭議。官方作品是四支廣播（FILIPINO POP SINGER、KENYAN ROMANTIC DRAMA、NEPALESE STREET FESTIVAL、SRI LANKAN HEALTH SPA），in 檔的 title 是系列名 RESCUE RADIO；lovethework 卡片只有基本資料、沒有音檔文字，所以讀稿沒寫各支廣播的台詞，也沒找到秘密訊息的原文，都沒推測。Direct New Ideas 寫「四家全國電台、2012 年」，D&AD 頁寫「Rescue Radio: The Rescue Continues」後續作品、列為 2014，兩者年份不一，讀稿沒寫年份；D&AD 頁寫 UAE，Direct New Ideas 寫黎巴嫩，讀稿採黎巴嫩（案例都寫對象是黎巴嫩幫傭）。成效（救出人數、來電增加）未寫。找不到可用圖：候選圖是預留音訊圖示。"
+  "note": "已搜爭議：「Rescue Radio Sawa Mninjah controversy fake withdrawn criticism」，結果全是無關的非洲電台新聞，未見爭議。官方作品是四支廣播（FILIPINO POP SINGER、KENYAN ROMANTIC DRAMA、NEPALESE STREET FESTIVAL、SRI LANKAN HEALTH SPA），in 檔的 title 是系列名 RESCUE RADIO；lovethework 卡片只有基本資料、沒有音檔文字，所以讀稿沒寫各支廣播的台詞，也沒找到秘密訊息的原文，都沒推測。Direct New Ideas 寫「四家全國電台、2012 年」，D&AD 頁寫「Rescue Radio: The Rescue Continues」後續作品、列為 2014，兩者年份不一，讀稿沒寫年份；D&AD 頁寫 UAE，Direct New Ideas 寫黎巴嫩，讀稿採黎巴嫩（案例都寫對象是黎巴嫩幫傭）。成效（救出人數、來電增加）未寫。找不到可用圖：候選圖是預留音訊圖示。 2026-11-19 Opus 驗：補圖：Direct New Ideas 案例頁的圖，curl 確認 image/jpeg、已打開確認；是活動標誌（收音機＋逃生門），偏弱但看得出「用廣播幫人逃出」。國家：Sawa Mninjah 是黎巴嫩團體、對象是黎巴嫩的幫傭，代理商 Memac Ogilvy 在杜拜，D&AD 寫 UAE 應是代理商所在地，讀稿採黎巴嫩無誤。"
  },
  {
   "id": "ltwm-06134",
@@ -361,12 +361,12 @@
    "https://ogilvy.gr/node/443",
    "https://www.adsoftheworld.com/campaigns/love-in-the-end"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/1564ca2e636f4ff1997d8b6968dd7f20/storyboard_000020.jpg",
+  "image_shows": "案例影片分鏡：YouTube 頁面播放 LactaFilms 頻道的《Love in the end. Στη Θεσσαλονίκη》，畫面是車站月台上對望的男女主角",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：「Lacta Love in the End controversy」，找到的是 Lacta 後來的同志情侶廣告引發的爭論，與這支 2013 長片無關，未見這支的爭議。官方作品名 LOVE IN THE END，in 檔 title 加了品牌前綴，同一支。lovethework 卡片只有基本資料，內容依 ogilvy.gr 案例頁；票房等成效未寫。圖：官方分鏡是三張電影海報（Silver Linings Playbook、Lincoln、Argo），看不出是 Lacta 的作品，不採用；其他圖找不到。"
+  "note": "已搜爭議：「Lacta Love in the End controversy」，找到的是 Lacta 後來的同志情侶廣告引發的爭論，與這支 2013 長片無關，未見這支的爭議。官方作品名 LOVE IN THE END，in 檔 title 加了品牌前綴，同一支。lovethework 卡片只有基本資料，內容依 ogilvy.gr 案例頁；票房等成效未寫。圖：官方分鏡是三張電影海報（Silver Linings Playbook、Lincoln、Argo），看不出是 Lacta 的作品，不採用；其他圖找不到。 2026-11-19 Opus 驗：補圖：官方案例影片其他分鏡格（storyboard_000020），已打開確認是 Lacta 的短片畫面（畫面角落有觀看數，屬案例影片原貌，讀稿沒寫）。"
  },
  {
   "id": "ltwm-06118",
@@ -418,7 +418,7 @@
   "text_source_level": 1,
   "uncertain": true,
   "needs_audio": false,
-  "note": "uncertain：只打開到 Robohub 一篇轉載的簡短介紹（Finch 與 Havas Sydney 做的第一隻替人簽連署書的仿生手臂，為 Save Our Sons 與 Duchenne Foundation；Robohub 另寫網站由 Reactive 製作）。連署流程、手臂簽的是誰的字、展出地點、連署目標都沒有在打開過的頁面找到；campaignbrief 與 trendhunter 打不開（404／403），搜尋摘要提到「用病友的筆跡、放在雪梨 Customs House、網站上可看手臂即時簽名」，未寫入。官方 in 檔代理商為 REACTIVE Melbourne／RED AGENCY Sydney，與 Robohub 寫的 Finch／Havas 不同，【得獎】行照官方，讀稿執行段照來源寫，請驗收員確認。已搜爭議：「Lacta Love in the End controversy; Chez…; most powerful arm Save Our Sons controversy」合併搜尋，沒有這支作品相關的結果，未見指控。lovethework 卡片只有基本資料（Reactive Melbourne、Craft 類）。找不到可用圖：官方 s3 圖 403、YouTube 縮圖 404。"
+  "note": "uncertain：只打開到 Robohub 一篇轉載的簡短介紹（Finch 與 Havas Sydney 做的第一隻替人簽連署書的仿生手臂，為 Save Our Sons 與 Duchenne Foundation；Robohub 另寫網站由 Reactive 製作）。連署流程、手臂簽的是誰的字、展出地點、連署目標都沒有在打開過的頁面找到；campaignbrief 與 trendhunter 打不開（404／403），搜尋摘要提到「用病友的筆跡、放在雪梨 Customs House、網站上可看手臂即時簽名」，未寫入。官方 in 檔代理商為 REACTIVE Melbourne／RED AGENCY Sydney，與 Robohub 寫的 Finch／Havas 不同，【得獎】行照官方，讀稿執行段照來源寫，請驗收員確認。已搜爭議：「Lacta Love in the End controversy; Chez…; most powerful arm Save Our Sons controversy」合併搜尋，沒有這支作品相關的結果，未見指控。lovethework 卡片只有基本資料（Reactive Melbourne、Craft 類）。找不到可用圖：官方 s3 圖 403、YouTube 縮圖 404。 2026-11-19 Opus 驗：代理商：官方名單是 Reactive Melbourne／Red Agency Sydney，【得獎】行照官方；Robohub 寫 Finch 與 Havas Sydney 做手臂、Reactive 做網站，讀稿照來源分工寫，兩者不衝突（多家合作），保留。仍 uncertain：缺連署流程與手臂簽名方式；YouTube 縮圖四種尺寸都 404，仍沒圖。"
  },
  {
   "id": "ltwm-06117",
@@ -448,7 +448,7 @@
   "text_source_level": 0,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：與 ltwm-06396 同組作品，見該件（未見指控）。這件 in 檔沒有 official 官方資料、沒有獎項；標題「IN CASE YOU GET STUCK AT HOME.」就是 ltwm-06396（EX VS BRIDE／YAKUZA VS MAN／GRANNY VS SADO，Press 銀獅＋銅獅）廣告上的標語，我打開官方案例圖看到同一句標語與 CHEZ logo，連結 adsoftheworld 也是同一組作品頁，判斷是同一組平面作品，標為重複，獎項已在 06396。請驗收員確認。"
+  "note": "已搜爭議：與 ltwm-06396 同組作品，見該件（未見指控）。這件 in 檔沒有 official 官方資料、沒有獎項；標題「IN CASE YOU GET STUCK AT HOME.」就是 ltwm-06396（EX VS BRIDE／YAKUZA VS MAN／GRANNY VS SADO，Press 銀獅＋銅獅）廣告上的標語，我打開官方案例圖看到同一句標語與 CHEZ logo，連結 adsoftheworld 也是同一組作品頁，判斷是同一組平面作品，標為重複，獎項已在 06396。請驗收員確認。 2026-11-19 Opus 驗：同意判斷：標題就是 06396 案例圖上的標語，同品牌、同代理商、同一組平面作品；decision 未改，回報主對話。"
  },
  {
   "id": "ltwm-06396",
@@ -479,9 +479,9 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "巴西冷凍調理餐 CHEZ 的廣告，用 3D 大頭插畫，把老奶奶、皮衣女子和被牽著的男人，放進同一畫面，標語寫「萬一你被困在家裡」",
+  "idea_one_liner": "巴西冷凍調理餐 CHEZ 的平面廣告，用一道門隔開不該碰面的兩方，如門外送禮的奶奶，對上門內被牽著的男人，標語「萬一你被困在家」",
   "brand_display": "CHEZ Restaurant 冷凍調理餐",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜Press類銀獅 Press Silver Lion、Press類銅獅 Press Bronze Lion｜代理商：Y&R SÃO PAULO\n\n【背景】CHEZ Restaurant 賣的是即食冷凍調理餐，這組廣告在 2013 年 7 月於巴西刊登，是平面廣告。\n\n【點子】廣告標語是「In case you get stuck at home.（萬一你被困在家裡）」，右下角寫著「Ready-to-eat frozen meals by CHEZ Restaurant」。官方報名的三張分別是 EX VS BRIDE、YAKUZA VS MAN、GRANNY VS SADO，標題都是兩種不搭的角色互相對上。依作品畫面解讀：每張都是大頭小身的 3D 寫實插畫人物，用誇張的角色組合製造荒謬感。\n\n【執行】Y&R São Paulo 創作，插畫由 Zombie Studio 製作。我只看得到 GRANNY VS SADO 這一張的畫面：中間一根細立柱把畫面分成兩邊，左邊是捧著黃色禮物盒、笑容親切的老奶奶，右邊是嘴裡塞著紅色口球、被皮鞭與繩子牽著的男人，和戴眼罩、穿黑色皮衣的女子。另外兩張（EX VS BRIDE、YAKUZA VS MAN）只有標題，沒找到畫面說明，所以不寫內容。\n\n資料來源：\nhttps://www.adsoftheworld.com/campaigns/yakuza-vs-man\nhttps://ascentialcdn.filespin.io/api/v1/conversion/e2b5bba553b343e98e41facb41bab851",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜Press類銀獅 Press Silver Lion、Press類銅獅 Press Bronze Lion｜代理商：Y&R SÃO PAULO\n\n【背景】CHEZ Restaurant 賣的是即食冷凍調理餐，這組廣告在 2013 年 7 月於巴西刊登，是平面廣告。\n\n【點子】廣告標語是「In case you get stuck at home.（萬一你被困在家裡）」，右下角寫著「Ready-to-eat frozen meals by CHEZ Restaurant」。官方報名的三張分別是 EX VS BRIDE、YAKUZA VS MAN、GRANNY VS SADO，標題都是兩種不搭的角色互相對上。依作品畫面解讀：每張都是大頭小身的 3D 寫實插畫人物，用一道門把畫面分成門外與門內，讓兩組最不該碰面的人隔著門對上，製造尷尬的荒謬感；遇到這種場面只能躲在家裡，冷凍餐就派上用場。\n\n【執行】Y&R São Paulo 創作，插畫由 Zombie Studio 製作。官方案例圖是 GRANNY VS SADO 這一張：中間一道門框把畫面分成兩邊，左邊門外有踏墊與盆栽，是捧著黃色禮物盒、笑容親切的老奶奶；右邊門內是嘴裡塞著紅色口球、被皮鞭與繩子牽著的男人，和戴眼罩、穿黑色皮衣的女子。另外兩張（EX VS BRIDE、YAKUZA VS MAN）只有標題，沒找到畫面說明，所以不寫內容。\n\n資料來源：\nhttps://www.adsoftheworld.com/campaigns/yakuza-vs-man\nhttps://ascentialcdn.filespin.io/api/v1/conversion/e2b5bba553b343e98e41facb41bab851",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Press類, Press, 銀獅, Silver Lion, 銅獅, Bronze Lion, 插畫類, Illustration, 鹹味食品類, Savoury Foods, CHEZ Restaurant, CHEZ, 冷凍調理餐, 即食冷凍餐, Ready-to-eat Frozen Meals, 冷凍食品, 食品, 平面廣告, 報紙雜誌廣告, Print, 海報, 3D 插畫, 插畫, Illustration, 誇張, 反差, 幽默, 老奶奶, 皮衣女王, 口球, 皮鞭, 立柱, 禮物盒, 大頭, Y&R, Y&R São Paulo, Y&R Sao Paulo, 巴西, Brazil, 聖保羅, São Paulo, Sao Paulo",
   "category": "行銷案例",
   "references": [
@@ -491,8 +491,9 @@
   "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/e2b5bba553b343e98e41facb41bab851",
   "image_shows": "官方案例圖：GRANNY VS SADO 一張，立柱兩側是捧禮物盒的老奶奶與被口球皮繩牽著的男人、戴眼罩的皮衣女子，右下角有 CHEZ 標語與 logo",
   "text_source_level": 1,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "uncertain：看得到畫面的只有一張（GRANNY VS SADO），另兩張沒找到畫面說明，且查不到官方文字說明，一句話與讀稿依作品畫面解讀、沒推測劇情。官方只有圖板與標語；adsoftheworld 只有標題與創作名單。已搜爭議：「Chez Restaurant Y&R São Paulo Granny vs Sado Yakuza vs Man」，只找到 adsoftheworld 的作品頁，沒有爭議紀錄。與 ltwm-06117 為同一組作品（同品牌、同代理商），06117 標重複併入這件。"
+  "note": "uncertain：看得到畫面的只有一張（GRANNY VS SADO），另兩張沒找到畫面說明，且查不到官方文字說明，一句話與讀稿依作品畫面解讀、沒推測劇情。官方只有圖板與標語；adsoftheworld 只有標題與創作名單。已搜爭議：「Chez Restaurant Y&R São Paulo Granny vs Sado Yakuza vs Man」，只找到 adsoftheworld 的作品頁，沒有爭議紀錄。與 ltwm-06117 為同一組作品（同品牌、同代理商），06117 標重複併入這件。 2026-11-19 Opus 驗：重看官方案例圖：中間是門框（門外有踏墊、門內有掛勾），點子是門外門內兩組不該碰面的人對上；一句話改寫（舊句存 r0），讀稿改掉第一人稱並補上門的描述，拿掉 uncertain。EX VS BRIDE、YAKUZA VS MAN 兩張仍沒看到畫面，讀稿沒寫內容。重複判斷：06117 IN CASE YOU GET STUCK AT HOME. 是這組廣告的標語、連結是同一 Ads of the World 作品頁，同意是同一件，請主對話決定。",
+  "idea_one_liner_r0": "巴西冷凍調理餐 CHEZ 的廣告，用 3D 大頭插畫，把老奶奶、皮衣女子和被牽著的男人，放進同一畫面，標語寫「萬一你被困在家裡」"
  }
 ]

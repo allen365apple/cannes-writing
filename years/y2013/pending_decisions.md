@@ -81,3 +81,14 @@
 - 依作品畫面解讀：b028 ltwm-06482 Meccano；b026 ltwm-06075 SKETCH 三張各自的畫面沒有說明。
 - 圖不理想：沒圖 b027 06126、06093、06657（驗收員補了 2 件），b028 06096、06101，b029 06111、06106、06113；圖偏小 b029 06109；看不出點子 b028 06509。
 - 【爭議】新增 0（b027 06126 寫手加的【爭議】段屬一般評論，驗收員已拿掉）；撤獎 0。
+
+## 2026-11-19 雲端第 1 輪 b030 b031 b032（Sonnet 寫、Opus 驗）
+- 重複候選：b030 ltwm-06117 IN CASE YOU GET STUCK AT HOME.（寫手已標重複 same_as 06396）。沒有官方預填，標題是 06396 廣告上的標語，同一組作品，驗收員同意。建議：維持重複。
+- 重複候選：b031 ltwm-06122 ICONIC REFRESHMENT（寫手已標重複 same_as 06514）。同一組 BBDO Düsseldorf 的 Pepsi 血管海報，官方報名是 PEPSI ICON 1/2/3，驗收員同意。建議：維持重複。
+- 重複候選（跨批）：b031 ltwm-06123 OLE, SPORTS NEWSPAPER（目前收）。沒有官方預填；驗收員確認就是 b049 ltwm-06348（有官方 Press 銀獅、Outdoor 銅獅）。建議：改成重複，same_as 06348。
+- 不收／待本機確認：b032 ltwm-06135 THE HIDDEN FLOOR（目前收、uncertain）。沒有官方預填，【得獎】行是寫手自己組的；預填裡 MASP 2013 只有 b071 ltwm-06652 COMICS 得獎，可能是清單誤列。建議：本機查官方名單。
+- 待本機確認：b031 ltwm-06147 UNCLE DREW 獎項照官方預填（銀＋銅），「LTW 只列銅」只出自搜尋摘要。
+- 仍 uncertain：b030 ltwm-06120 Train Switch（缺折扣規則）、ltwm-06118 最強手臂（缺連署流程；官方代理商 Reactive／Red，報導寫 Finch／Havas）；b031 ltwm-06253 MARIACHI CHRISTMAS（缺音訊投放來源）；b032 ltwm-06137 SUMMER HATER（劇情只有二手來源）、ltwm-06135（見上）。
+- 參考：b030 ltwm-06116 Rescue Radio 寫黎巴嫩是對的（D&AD 寫 UAE 是代理商所在地）；b032 ING Direct THE MONSTER 2012-12 推出，在參賽期內。
+- 圖不理想：沒圖 b030 06118，b031 06253，b032 06135、06131 FlavorPrint；圖偏弱 b032 Smoking Kid、Tokyo Shimbun、Summer Hater。
+- 【爭議】新增 0；撤獎 0。

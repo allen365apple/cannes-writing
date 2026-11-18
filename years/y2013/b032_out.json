@@ -20,7 +20,7 @@
   ],
   "idea_one_liner": "巴西聖保羅美術館 MASP 的「Hidden Floor」，目前能打開的來源都沒有寫出做法，點子待本機補查",
   "brand_display": "Museum of Art of São Paulo (MASP)",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜銀獅 Silver Lion｜代理商：DDB São Paulo\n\n【點子】作品名為「Hidden Floor」（隱藏樓層），客戶是巴西聖保羅美術館 MASP，代理商為 DDB São Paulo。我實際打開的 Cannes Lions 官方活動頁與 Unblock Coffee 收錄頁只有品牌、代理商、年份與「獲一座坎城獎」的基本資料，沒有任何案例說明，Vimeo 連結也被驗證頁擋下，所以做法與執行目前無法寫出。\n\n資料來源：\nhttps://www.lovethework.com/work-awards/campaigns/museum-221834\nhttps://www.unblock.coffee/campaign/hidden-floor/",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜銀獅 Silver Lion｜代理商：DDB São Paulo\n\n【點子】作品名為「Hidden Floor」（隱藏樓層），客戶是巴西聖保羅美術館 MASP，代理商為 DDB São Paulo。目前打開的 Cannes Lions 官方活動頁與 Unblock Coffee 收錄頁只有品牌、代理商、年份與「獲一座坎城獎」的基本資料，沒有任何案例說明，Vimeo 連結也被驗證頁擋下，所以做法與執行目前無法寫出。\n\n資料來源：\nhttps://www.lovethework.com/work-awards/campaigns/museum-221834\nhttps://www.unblock.coffee/campaign/hidden-floor/",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 銀獅, Silver Lion, MASP, 聖保羅美術館, Museum of Art of São Paulo, 美術館, 藝術文化, DDB, DDB São Paulo, 巴西, Brazil",
   "category": "行銷案例",
   "references": [
@@ -32,7 +32,7 @@
   "text_source_level": 2,
   "uncertain": true,
   "needs_audio": false,
-  "note": "官方 in 檔沒有 official 區塊，獎項與得獎行依 in 檔 tier（SILVER）與代理商自行組成，官方獎項類別未能核對（需驗收員補）。開過的頁面（lovethework 活動頁、Unblock Coffee、Vimeo 驗證頁）都沒有案例說明，點子與執行寫不出來，故 uncertain：缺作品說明（可能是 App 形式的展覽，但搜尋摘要未寫入，來源未打開）。找不到圖。已搜爭議：搜「MASP Hidden Floor DDB controversy／fake／withdrawn」，沒有針對此作品的爭議（搜到的是 DM9 DDB 的 Consul 撤獎案，與此作品無關，未寫入）。"
+  "note": "官方 in 檔沒有 official 區塊，獎項與得獎行依 in 檔 tier（SILVER）與代理商自行組成，官方獎項類別未能核對（需驗收員補）。開過的頁面（lovethework 活動頁、Unblock Coffee、Vimeo 驗證頁）都沒有案例說明，點子與執行寫不出來，故 uncertain：缺作品說明（可能是 App 形式的展覽，但搜尋摘要未寫入，來源未打開）。找不到圖。已搜爭議：搜「MASP Hidden Floor DDB controversy／fake／withdrawn」，沒有針對此作品的爭議（搜到的是 DM9 DDB 的 Consul 撤獎案，與此作品無關，未寫入）。 2026-11-19 Opus 驗：讀稿改掉第一人稱。另搜：LTW 活動頁（museum-221834）用 curl 與 WebFetch 都只有網站外框，搜尋摘要提到「App、2007 年聖保羅禁止戶外廣告的城市清潔法、美術館底層變成隱藏樓層」，未打開原文，未寫入。官方預填裡 MASP 2013 的得獎只有 b071 ltwm-06652 COMICS（Press 銀獅、Outdoor 銅獅，DDB Brasil），本件 Hidden Floor 的獎項類別查不到，【得獎】行是寫手依 tier 自組。仍 uncertain，沒圖；建議本機查官方名單，確認 Hidden Floor 是否另有獅子獎，否則可能是清單誤列。"
  },
  {
   "id": "ltwm-06143",
@@ -118,7 +118,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 頁面為占位圖。內容依 The Local、D&AD 檔案頁、Trend Hunter 整理；開幕時間與價格取 The Local（2012 年 11 月、100 克朗），其他報導寫 10 歐元或 15 美元，讀稿只寫 100 克朗。官方給兩個獎項（Cyber 攝影銀獅、Cyber 公益類銅獅）。圖為官方 YouTube 縮圖。已搜爭議：搜「Faktum Hotels Forsman Bodenfors controversy／criticism／fake／withdrawn」，無相關爭議。"
+  "note": "官方 lovethework 頁面為占位圖。內容依 The Local、D&AD 檔案頁、Trend Hunter 整理；開幕時間與價格取 The Local（2012 年 11 月、100 克朗），其他報導寫 10 歐元或 15 美元，讀稿只寫 100 克朗。官方給兩個獎項（Cyber 攝影銀獅、Cyber 公益類銅獅）。圖為官方 YouTube 縮圖。已搜爭議：搜「Faktum Hotels Forsman Bodenfors controversy／criticism／fake／withdrawn」，無相關爭議。 2026-11-19 Opus 驗：事實抽查：The Local 確認哥特堡、十間房、每晚 100 克朗、橋下床墊／公園睡袋／廢棄造紙廠地板、2012 年 11 月開張，與讀稿一致；房型描述是活動內容，不是成效。"
  },
  {
   "id": "ltwm-06129",
@@ -252,12 +252,12 @@
    "https://exhibitcitynews.com/reed-exhibitions-video-enacts-baumgartners-skydive-from-space-3778/",
    "https://www.lovethework.com/en/work/entries/the-stratos-jump-1350-174172"
   ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/11e0a891cfac46fa8399688cd81ca80b/storyboard_000002.jpg",
-  "image_shows": "影片分鏡格：紅白條紋的大氣球從畫面上方垂下，底端掛著銀色小艙，背景是雲層與地表",
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/11e0a891cfac46fa8399688cd81ca80b/storyboard_000010.jpg",
+  "image_shows": "案例影片分鏡：空地上一顆透明氦氣球與灰色小太空艙，旁邊排著一群樂高小人、玩具直升機與工程車",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 頁只有基本資料。內容依 Ogilvy Austria 個案頁與 Exhibition City News。縮尺有出入：Ogilvy 頁與作品名寫 1:350，Exhibition City News 寫 1:35（樂高小人比例）；讀稿避開寫縮尺數字。影片觀看數與媒體報導未寫入。圖為 case 影片分鏡格（storyboard），非 case board。已搜爭議：搜「Stratos Jump 1:350 Ogilvy Vienna controversy／fake／withdrawn」，無爭議（整個作品本身是明示的惡搞假消息，屬創意手法，不算爭議）。"
+  "note": "官方 lovethework 頁只有基本資料。內容依 Ogilvy Austria 個案頁與 Exhibition City News。縮尺有出入：Ogilvy 頁與作品名寫 1:350，Exhibition City News 寫 1:35（樂高小人比例）；讀稿避開寫縮尺數字。影片觀看數與媒體報導未寫入。圖為 case 影片分鏡格（storyboard），非 case board。已搜爭議：搜「Stratos Jump 1:350 Ogilvy Vienna controversy／fake／withdrawn」，無爭議（整個作品本身是明示的惡搞假消息，屬創意手法，不算爭議）。 2026-11-19 Opus 驗：圖從氣球特寫（storyboard_000002，看不出樂高）換成看得到樂高小人與太空艙的分鏡格（storyboard_000010），已打開確認。"
  },
  {
   "id": "ltwm-06133",
@@ -303,7 +303,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方給的作品名是 THE MONSTER（in 檔 title 為 ING DIRECT），官方 lovethework 頁只有基本資料；內容依 Reason Why（2012-12-21 報導）。故事情節、動畫製作細節沒有來源，未寫。官方獎項 Cyber 動畫銀獅、互動影片銅獅，讀稿未寫 SMS 以外的 Cyber 類互動細節。WARC 顯示專案時間為 2011/12 至 2012/1，與 Reason Why 2012-12 對不上，可能是不同一年版本，驗收員可核對。成效（造訪、募款額）未寫入。圖為 Reason Why 文章主圖（634 px 寬）。已搜爭議：搜「ING Direct El Monstruo Unicef OgilvyOne controversy／fake／withdrawn」，無相關爭議。"
+  "note": "官方給的作品名是 THE MONSTER（in 檔 title 為 ING DIRECT），官方 lovethework 頁只有基本資料；內容依 Reason Why（2012-12-21 報導）。故事情節、動畫製作細節沒有來源，未寫。官方獎項 Cyber 動畫銀獅、互動影片銅獅，讀稿未寫 SMS 以外的 Cyber 類互動細節。WARC 顯示專案時間為 2011/12 至 2012/1，與 Reason Why 2012-12 對不上，可能是不同一年版本，驗收員可核對。成效（造訪、募款額）未寫入。圖為 Reason Why 文章主圖（634 px 寬）。已搜爭議：搜「ING Direct El Monstruo Unicef OgilvyOne controversy／fake／withdrawn」，無相關爭議。 2026-11-19 Opus 驗：事實抽查：Reason Why（2012-12-21）確認 ING Direct 與 Unicef 每年合作、互動短片、1.20 歐元簡訊、四種結局可選、YouTube 預告，與讀稿一致；圖已打開確認是片名畫面。年份：2012 年 12 月推出，落在 2013 坎城的參賽期間，官方作品名 THE MONSTER 也對得上；WARC 的 2011/12 應是同系列前一年的活動，判斷這件就是 2013 得獎作品。"
  },
  {
   "id": "ltwm-06131",
@@ -349,7 +349,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 頁為空白占位。內容依 Enterra Solutions 轉述的 R/GA 新聞稿（2013-06-24）、McCormick 2014-06 的 FlavorPrint 新聞稿（33 根刺的說法，是 2014 年消費者版的說明，讀稿已標明年份）、FoodNavigator 2012 報導。2013 年得獎時的實際畫面與介面沒有看到。R/GA 案例頁打不開（502）。找不到可用圖。Enterra 稱銀獅是 Other Digital Solutions，與官方 in 檔「Branded utility/tool」不同，以 in 檔為準。已搜爭議：搜「McCormick FlavorPrint R/GA controversy／fake／withdrawn Cannes」，無相關爭議。"
+  "note": "官方 lovethework 頁為空白占位。內容依 Enterra Solutions 轉述的 R/GA 新聞稿（2013-06-24）、McCormick 2014-06 的 FlavorPrint 新聞稿（33 根刺的說法，是 2014 年消費者版的說明，讀稿已標明年份）、FoodNavigator 2012 報導。2013 年得獎時的實際畫面與介面沒有看到。R/GA 案例頁打不開（502）。找不到可用圖。Enterra 稱銀獅是 Other Digital Solutions，與官方 in 檔「Branded utility/tool」不同，以 in 檔為準。已搜爭議：搜「McCormick FlavorPrint R/GA controversy／fake／withdrawn Cannes」，無相關爭議。 2026-11-19 Opus 驗：另找圖：Enterra、PR Newswire、FoodNavigator 頁上都沒有 FlavorPrint 本身的畫面，仍沒圖。"
  },
  {
   "id": "ltwm-06137",
@@ -388,7 +388,7 @@
   "text_source_level": 2,
   "uncertain": true,
   "needs_audio": false,
-  "note": "官方 lovethework 頁只有基本資料，Ads of the World 只有製作名單，沒有取得影片本身的文字或逐格描述，主要情節依 Selfstorming（AI 整理的二手來源）：故 uncertain，缺官方或媒體對影片內容的直接描述（LBB、Creative Review 打不開，只看到搜尋摘要，未寫入）。Selfstorming 說「起火」一幕導致金獅降成銀獅，屬傳聞、無來源，不算爭議、未寫入讀稿。成效說法（成為阿根廷第一品牌）未寫入。圖為官方 YouTube 縮圖。已搜爭議：搜「BGH Summer Hater Saatchi controversy／fake／banned／withdrawn」，無造假或撤獎。"
+  "note": "官方 lovethework 頁只有基本資料，Ads of the World 只有製作名單，沒有取得影片本身的文字或逐格描述，主要情節依 Selfstorming（AI 整理的二手來源）：故 uncertain，缺官方或媒體對影片內容的直接描述（LBB、Creative Review 打不開，只看到搜尋摘要，未寫入）。Selfstorming 說「起火」一幕導致金獅降成銀獅，屬傳聞、無來源，不算爭議、未寫入讀稿。成效說法（成為阿根廷第一品牌）未寫入。圖為官方 YouTube 縮圖。已搜爭議：搜「BGH Summer Hater Saatchi controversy／fake／banned／withdrawn」，無造假或撤獎。 2026-11-19 Opus 驗：另搜劇情仍沒有可打開的文字來源（Ads of the World 只有製作名單），仍 uncertain。"
  },
  {
   "id": "ltwm-06141",
@@ -427,6 +427,6 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 case board 已打開對照，內容以案例板的 Problem／Solution 與 Ads of the World、Direct New Ideas 整理。案例板上印有成效（信件抵達、網站流量增加 300%）未寫入。Direct New Ideas 的質疑（寄出的信可能不夠多）是一般評論，不算爭議。已搜爭議：搜「Rhino Stamp Project TBWA Hunt Lascaris controversy／fake／criticism／withdrawn」，無造假或撤獎。"
+  "note": "官方 case board 已打開對照，內容以案例板的 Problem／Solution 與 Ads of the World、Direct New Ideas 整理。案例板上印有成效（信件抵達、網站流量增加 300%）未寫入。Direct New Ideas 的質疑（寄出的信可能不夠多）是一般評論，不算爭議。已搜爭議：搜「Rhino Stamp Project TBWA Hunt Lascaris controversy／fake／criticism／withdrawn」，無造假或撤獎。 2026-11-19 Opus 驗：事實抽查：官方案例板已打開，確認中文／越南文／泰文「say no to rhino horn」、郵局與野生動物營地的郵票海報，與一句話、讀稿一致。"
  }
 ]
