@@ -24,7 +24,7 @@
   "text_source_level": 0,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方資料（official）沒有這件：in 檔 official_awards 為空，官方 Direct 名單（sostav.ru 2013 Direct Lions）裡 Ribeiro／ALMACEN Olivos 只有「TAXI」一件（已寫在 ltwm-06322）；Mercado、Merca2.0 也只列 Taxi 的金獅與銅獅。找不到名為 CHALLENGE RIBEIRO 的得獎作品，也沒有任何可讀的內容（adsspot 來源擋爬蟲 403）。疑似清單把 Taxi 或 Scadner（lovethework 有 Almacén 的 Direct 入口 SCADNER，無獎項層級資料）誤標成 Challenge Ribeiro，請主對話／驗收員決定。已搜爭議：搜「Ribeiro Challenge／Desafío Ribeiro」無任何結果，無從判斷。"
+  "note": "官方資料（official）沒有這件：in 檔 official_awards 為空，官方 Direct 名單（sostav.ru 2013 Direct Lions）裡 Ribeiro／ALMACEN Olivos 只有「TAXI」一件（已寫在 ltwm-06322）；Mercado、Merca2.0 也只列 Taxi 的金獅與銅獅。找不到名為 CHALLENGE RIBEIRO 的得獎作品，也沒有任何可讀的內容（adsspot 來源擋爬蟲 403）。疑似清單把 Taxi 或 Scadner（lovethework 有 Almacén 的 Direct 入口 SCADNER，無獎項層級資料）誤標成 Challenge Ribeiro，請主對話／驗收員決定。已搜爭議：搜「Ribeiro Challenge／Desafío Ribeiro」無任何結果，無從判斷。 2026-11-18 Opus 驗：再搜「Challenge Ribeiro／Desafío Ribeiro」仍無結果；lovethework 有 MINICUOTAS RIBEIRO 活動頁但內容空白。研判是清單把 TAXI（06322，同品牌、同代理商的 2013 直效金獅）誤標，屬重複候選，decision 未改，交主對話決定。"
  },
  {
   "id": "ltwm-06055",
@@ -64,7 +64,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方案例全文需登入，內容依波蘭銀行業媒體 bank.pl 與科技媒體 Spider's Web（2012、2013 兩篇）整理；lovethework 頁只有標題與獎項。「波蘭第一張」是 bank.pl 的說法，未擴寫成全球第一（外部報導指 MasterCard 先前在別國有類似顯示卡，未寫入）。圖為 Spider's Web 2013 年評測文的實物照（webp 格式）。已搜爭議：搜「Getin Bank MasterCard Display controversy／fake／fraud」無相關爭議（結果只有得獎與評測）。發卡數、首批售罄等成效未寫入。"
+  "note": "官方案例全文需登入，內容依波蘭銀行業媒體 bank.pl 與科技媒體 Spider's Web（2012、2013 兩篇）整理；lovethework 頁只有標題與獎項。「波蘭第一張」是 bank.pl 的說法，未擴寫成全球第一（外部報導指 MasterCard 先前在別國有類似顯示卡，未寫入）。圖為 Spider's Web 2013 年評測文的實物照（webp 格式）。已搜爭議：搜「Getin Bank MasterCard Display controversy／fake／fraud」無相關爭議（結果只有得獎與評測）。發卡數、首批售罄等成效未寫入。 2026-11-18 Opus 驗：程式檢查標 bank.pl 打不開，是擋程式抓取；用瀏覽型工具打開可讀，內容（2012 年 11 月與 MasterCard 推出、波蘭首張內建顯示器金融卡、50 茲羅提以下感應付款免授權）對得上，網址保留。"
  },
  {
   "id": "ltwm-06059",
@@ -135,7 +135,7 @@
   "decision": "收",
   "idea_one_liner": "電影《普羅米修斯》虛構威蘭公司，先放創辦人 2023 年 TED 演講影片，再推安卓人 David 8 的產品廣告",
   "brand_display": "Prometheus（20th Century Fox）",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜Branded Content & Entertainment類金獅 Branded Content & Entertainment Gold Lion、Cyber類銅獅 Cyber Bronze Lion｜代理商：RSA FILMS London / IGNITION INTERACTIVE Santa Monica\n\n【點子】電影《普羅米修斯》（Prometheus）不先講劇情，而是讓片中的虛構企業「威蘭公司（Weyland）」先在現實世界登場，用「公司的宣傳素材」一件件放出來，讓觀眾在上映前就先認識這個世界。導演雷利史考特與編劇 Damon Lindelof 想在預告之外多做內容，並主張最好的病毒影片要由片中的真演員出演。\n\n【執行】2012 年 2 月 28 日，第一支影片上線：蓋瑞斯皮爾斯（Guy Pearce）扮演創辦人彼得威蘭，在設定為 2023 年的 TED 大會上發表談未來的演說，由 Luke Scott 執導；TED 社群負責人協助取得授權，這是 TED 品牌第一次用在宣傳上。影片放在威蘭公司網站，網站並說會公布投資消息，另有虛構的 TED 部落格。\n\n第二件是安卓人 David 8 的「產品廣告」，由麥可法斯賓達（Michael Fassbender）旁白，RSA London 的 Johnny Hardstaff 執導；Lindelof 說這個點子是看到一波 iPad 廣告後想到的。WonderCon 現場發放印有電話的威蘭公司名片，打過去會收到簡訊連到這支廣告；4 月 17 日再放出列出安卓人功能的加長版。團隊另有《華爾街日報》整版 David 8 廣告、讓網友向角色發問的推特帳號、與 Verizon FiOS 合作的飛船虛擬導覽，以及諾米拉佩絲（Noomi Rapace）飾演的 Shaw 博士影片。\n\n資料來源：\nhttps://thereelbits.com/2012/02/29/peter-weyland-launches-viral-campaign-for-prometheus\nhttps://www.thekurzweillibrary.com/viral-trailers-for-prometheus-feature-david-the-android\nhttps://movieviral.com/2012/08/04/writer-damon-lindelof-talks-about-prometheus-viral-campaign/\nhttps://www.lovethework.com/en/work/entries/prometheus-marketing-campaign-190396",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜Branded Content & Entertainment類金獅 Branded Content & Entertainment Gold Lion、Cyber類銅獅 Cyber Bronze Lion｜代理商：RSA FILMS London / IGNITION INTERACTIVE Santa Monica\n\n【點子】電影《普羅米修斯》（Prometheus）不先講劇情，而是讓片中的虛構企業「威蘭公司（Weyland）」先在現實世界登場，用「公司的宣傳素材」一件件放出來，讓觀眾在上映前就先認識這個世界。導演雷利史考特與編劇 Damon Lindelof 想在預告之外多做內容，並主張最好的病毒影片要由片中的真演員出演。\n\n【執行】2012 年 2 月 28 日，第一支影片上線：蓋瑞斯皮爾斯（Guy Pearce）扮演創辦人彼得威蘭，在設定為 2023 年的 TED 大會上發表談未來的演說，由 Luke Scott 執導；TED 社群負責人協助取得授權，這是 TED 品牌第一次用在宣傳上。影片放在威蘭公司網站，網站並說會公布投資消息，另有虛構的 TED 部落格。\n\n第二件是安卓人 David 8 的「產品廣告」，由麥可法斯賓達（Michael Fassbender）旁白，導演 Johnny Hardstaff 執導；Lindelof 說這個點子是看到一波 iPad 廣告後想到的。WonderCon 現場發放印有電話的威蘭公司名片，打過去會收到簡訊連到這支廣告；4 月 17 日再放出列出安卓人功能的加長版。團隊另有《華爾街日報》整版 David 8 廣告、讓網友向角色發問的推特帳號、與 Verizon FiOS 合作的飛船虛擬導覽，以及諾米拉佩絲（Noomi Rapace）飾演的 Shaw 博士影片。\n\n資料來源：\nhttps://thereelbits.com/2012/02/29/peter-weyland-launches-viral-campaign-for-prometheus\nhttps://www.thekurzweillibrary.com/viral-trailers-for-prometheus-feature-david-the-android\nhttps://movieviral.com/2012/08/04/writer-damon-lindelof-talks-about-prometheus-viral-campaign/\nhttps://www.lovethework.com/en/work/entries/prometheus-marketing-campaign-190396",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Branded Content & Entertainment類, Branded Content & Entertainment, 品牌內容與娛樂類, 金獅, Gold Lion, Cyber類, Cyber, 網路類, 銅獅, Bronze Lion, 整合行銷, Integrated Campaign, 數位整合活動, 電影行銷, 電影宣傳, Movie Marketing, 病毒影片, Viral Video, 虛構企業, 虛構品牌, 假廣告, 20th Century Fox, 福斯, 二十世紀福斯, Twentieth Century Fox, 普羅米修斯, Prometheus, 雷利史考特, Ridley Scott, 威蘭公司, Weyland, TED, TED 演講, David 8, 安卓人, 機器人, 科幻, 蓋瑞斯皮爾斯, Guy Pearce, 麥可法斯賓達, Michael Fassbender, RSA Films, Ignition Interactive, 影片, 社群媒體, 推特, Twitter, 平面廣告, 美國, 英國",
   "category": "行銷案例",
   "references": [
@@ -149,7 +149,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方有兩個報名名稱：Cyber 銅獅為「PROMETHEUS MARKETING CAMPAIGN」、Branded Content 金獅為「PROMETHEUS INTEGRATED CAMPAIGN」，讀稿以同一個整合宣傳活動整理。官方全文需登入，內容依 The Reel Bits、Kurzweil Library、movieviral（Lindelof 訪談）整理；Ignition Interactive 的具體分工無來源，未寫。圖是 TED 影片截圖，非官方 case board（官方圖 403）。已搜爭議：搜「Prometheus marketing campaign Cannes Lions 2013 controversy／fake／withdrawn／plagiarism」無撤獎或造假；只有 Ad Age 對預告片的評論，屬一般評論，未寫入。"
+  "note": "官方有兩個報名名稱：Cyber 銅獅為「PROMETHEUS MARKETING CAMPAIGN」、Branded Content 金獅為「PROMETHEUS INTEGRATED CAMPAIGN」，讀稿以同一個整合宣傳活動整理。官方全文需登入，內容依 The Reel Bits、Kurzweil Library、movieviral（Lindelof 訪談）整理；Ignition Interactive 的具體分工無來源，未寫。圖是 TED 影片截圖，非官方 case board（官方圖 403）。已搜爭議：搜「Prometheus marketing campaign Cannes Lions 2013 controversy／fake／withdrawn／plagiarism」無撤獎或造假；只有 Ad Age 對預告片的評論，屬一般評論，未寫入。 2026-11-18 Opus 驗：抽查 Kurzweil Library：2012/2/28 首支影片、Luke Scott 執導、TED 社群總監協助授權且 TED 品牌首次用於宣傳、WonderCon 名片打電話收簡訊、4/17 加長版、華爾街日報整版、推特帳號、Verizon FiOS 導覽都對得上；movieviral 證實 iPad 廣告靈感與 Shaw 影片。Hardstaff 隸屬 RSA 沒有打開的來源，改成只寫導演。"
  },
  {
   "id": "ltwm-06056",
@@ -262,12 +262,12 @@
    "https://www.marketingoops.com/?p=33952",
    "https://www.lovethework.com/en/work/entries/kleenex-catches-colds-185623"
   ],
-  "image_url": "https://www.marketingoops.com/wp-content/uploads/2013/06/mindshare-kleenex.jpg",
-  "image_shows": "案例影片截圖：一雙手拿著攤開的 Kleenex 面紙，面紙上手寫「SALES UP 40%」，後方是藍綠色背景與 Kleenex 紙盒，畫面下方有 YouTube 播放列",
+  "image_url": "",
+  "image_shows": "",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依 Adgully、Marketing Oops（泰國）整理；兩篇對「問題、洞察」都沒有明說，故省略【背景】【洞察】。銷售成長、96% 準確度等成效（來源與官方自述）未寫入。圖是案例影片截圖（含 YouTube 播放列、畫面印成效數字），看不出點子，官方圖 403 且找不到更好的；建議本機補官方 case board。已搜爭議：搜「Kleenex Catches Colds Mindshare controversy／fake／fraud／withdrawn」無爭議，只有業者自述成效。"
+  "note": "官方全文需登入，內容依 Adgully、Marketing Oops（泰國）整理；兩篇對「問題、洞察」都沒有明說，故省略【背景】【洞察】。銷售成長、96% 準確度等成效（來源與官方自述）未寫入。圖是案例影片截圖（含 YouTube 播放列、畫面印成效數字），看不出點子，官方圖 403 且找不到更好的；建議本機補官方 case board。已搜爭議：搜「Kleenex Catches Colds Mindshare controversy／fake／fraud／withdrawn」無爭議，只有業者自述成效。 2026-11-18 Opus 驗：原圖打開看是面紙上手寫「SALES UP 40%」的成效字卡（含 YouTube 播放列），看不出點子，撤掉；lovethework 兩個入口的 og 圖都是過期 S3、Marketing Oops 文內只有這張，image_url 留空，需本機補官方 case board 或介面畫面。"
  },
  {
   "id": "ltwm-06057",
@@ -291,10 +291,10 @@
   ],
   "awards_unverified": [],
   "decision": "收",
-  "idea_one_liner": "危地馬拉玩具店 La Juguetería 替樂高做廣播廣告，把孩子玩玩具時的擬聲音效，轉成樂高積木，鼓勵家長和孩子動手拼",
+  "idea_one_liner": "瓜地馬拉玩具店 La Juguetería 替樂高做廣播廣告，把孩子玩玩具時的擬聲音效，轉成樂高積木，鼓勵家長和孩子動手拼",
   "brand_display": "La Juguetería（LEGO）",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜Radio類金獅 Radio Gold Lion｜代理商：OGILVY GUATEMALA\n\n【背景】這支「Build it」廣播廣告的對象是危地馬拉的家長和小孩。目標是促進樂高的銷量、提高品牌的第一提及度，用的是當地最受歡迎、成本效益又高的媒體：廣播；同時強化樂高的核心好處：建造、創造、想像（Build, create and imagine）。\n\n【點子】把孩子玩玩具時常發出的擬聲音效（onomatopoeic sounds）轉成樂高積木，鼓勵大家動手建造與玩。\n\n【執行】官方報名的作品為兩支廣播廣告「CHUCHU」與「UUUUU」。說明文字沒有寫出音檔的腳本，因此具體的聲音與畫面描述尚待音檔補寫。\n\n資料來源：\nhttps://www.dandad.org/work/d-ad-awards-archive/build-it\nhttps://www.dandad.org/awards/professional/2014/radio-advertising/23886/build-it/\nhttps://www.lovethework.com/en/work/entries/chuchu-192603",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Radio類, Radio, 廣播類, 廣播獅, Radio Lions, 金獅, Gold Lion, Entertainment & Leisure, 娛樂與休閒, 廣播廣告, Radio Ad, 音效, Sound, 擬聲詞, Onomatopoeia, 聲音創意, 樂高, LEGO, La Juguetería, 玩具店, 玩具, Toy, 積木, 親子, 兒童, 遊戲, 建造, Build, Ogilvy Guatemala, Ogilvy, 奧美, 危地馬拉, Guatemala, CHUCHU, UUUUU, ⭐形式／載體：廣播",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜Radio類金獅 Radio Gold Lion｜代理商：OGILVY GUATEMALA\n\n【背景】這支「Build it」廣播廣告的對象是瓜地馬拉的家長和小孩。目標是促進樂高的銷量、提高品牌的第一提及度，用的是當地最受歡迎、成本效益又高的媒體：廣播；同時強化樂高的核心好處：建造、創造、想像（Build, create and imagine）。\n\n【點子】把孩子玩玩具時常發出的擬聲音效（onomatopoeic sounds）轉成樂高積木，鼓勵大家動手建造與玩。\n\n【執行】官方報名的作品為兩支廣播廣告「CHUCHU」與「UUUUU」。說明文字沒有寫出音檔的腳本，因此具體的聲音與畫面描述尚待音檔補寫。\n\n資料來源：\nhttps://www.dandad.org/work/d-ad-awards-archive/build-it\nhttps://www.dandad.org/awards/professional/2014/radio-advertising/23886/build-it/\nhttps://www.lovethework.com/en/work/entries/chuchu-192603",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Radio類, Radio, 廣播類, 廣播獅, Radio Lions, 金獅, Gold Lion, Entertainment & Leisure, 娛樂與休閒, 廣播廣告, Radio Ad, 音效, Sound, 擬聲詞, Onomatopoeia, 聲音創意, 樂高, LEGO, La Juguetería, 玩具店, 玩具, Toy, 積木, 親子, 兒童, 遊戲, 建造, Build, Ogilvy Guatemala, Ogilvy, 奧美, 瓜地馬拉, Guatemala, CHUCHU, UUUUU, ⭐形式／載體：廣播",
   "category": "行銷案例",
   "references": [
    "https://www.dandad.org/work/d-ad-awards-archive/build-it",
@@ -306,7 +306,7 @@
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": true,
-  "note": "音檔：官方報名兩支廣播 https://www.lovethework.com/en/work/entries/chuchu-192603 、https://www.lovethework.com/en/work/entries/uuuuu-192579（頁面只有標題與獎項，沒有拿到音檔；雲端無轉寫工具）。文字只有 D&AD 的參賽說明（同一作品 2014 年 D&AD 入圍，作品名 Build it），沒有腳本，「擬聲音效怎麼變成積木」的具體做法不明，一句話已依說明原意寫。缺：音檔逐字稿與實際聲音設計。這是廣播作品，無畫面，找不到可用圖，image_url 留空。已搜爭議：搜「Lego Guatemala Chuchu radio Ogilvy controversy／fake／withdrawn」無相關爭議。"
+  "note": "音檔：官方報名兩支廣播 https://www.lovethework.com/en/work/entries/chuchu-192603 、https://www.lovethework.com/en/work/entries/uuuuu-192579（頁面只有標題與獎項，沒有拿到音檔；雲端無轉寫工具）。文字只有 D&AD 的參賽說明（同一作品 2014 年 D&AD 入圍，作品名 Build it），沒有腳本，「擬聲音效怎麼變成積木」的具體做法不明，一句話已依說明原意寫。缺：音檔逐字稿與實際聲音設計。這是廣播作品，無畫面，找不到可用圖，image_url 留空。已搜爭議：搜「Lego Guatemala Chuchu radio Ogilvy controversy／fake／withdrawn」無相關爭議。 2026-11-18 Opus 驗：「危地馬拉」改台灣用語「瓜地馬拉」。背景段「促進銷量、第一提及度」是活動目標，不是成效，保留。"
  },
  {
   "id": "ltwm-06053",
@@ -346,7 +346,7 @@
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": false,
-  "note": "缺：作品說明與廣告畫面。lovethework 三頁只有標題與獎項、官方圖 403；in 檔給的 renatozandona.com 頁面內容是被植入的垃圾頁（與作品無關），未採用；adsspot、web.archive.org 擋爬或無法讀取；Clube de Criação 只有名單。一句話只能寫到「三則以國名為標題的系列」，不算講出巧思，請本機看圖補寫（需要的圖：官方三則 Press 圖）。已搜爭議：搜「Doctors Without Borders Ogilvy Brasil Pakistan Mianmar Israel controversy／scam ad／withdrawn」無相關爭議。"
+  "note": "缺：作品說明與廣告畫面。lovethework 三頁只有標題與獎項、官方圖 403；in 檔給的 renatozandona.com 頁面內容是被植入的垃圾頁（與作品無關），未採用；adsspot、web.archive.org 擋爬或無法讀取；Clube de Criação 只有名單。一句話只能寫到「三則以國名為標題的系列」，不算講出巧思，請本機看圖補寫（需要的圖：官方三則 Press 圖）。已搜爭議：搜「Doctors Without Borders Ogilvy Brasil Pakistan Mianmar Israel controversy／scam ad／withdrawn」無相關爭議。 2026-11-18 Opus 驗：再搜 Ads of the World、adRuby、葡文報導都找不到這組三則的畫面或說明（官方候選圖檔名含 gaza，與作品名不一致，也無法打開），仍 uncertain。in 檔來源頁未打開、未採用。"
  },
  {
   "id": "ltwm-06322",
@@ -393,6 +393,6 @@
   "text_source_level": 1,
   "uncertain": false,
   "needs_audio": false,
-  "note": "依官方案例板（圖上有完整英文說明）與 La Nación、Mercado 報導整理；案例板上印的成效數字（網站流量、取貨點增加、憑車資單到店人數）未寫入。lovethework 對 Outdoor 銅獅標示類別為 Ambient，in 檔／官方獎項為 Transit，以 in 檔為準。此件與 ltwm-06054（CHALLENGE RIBEIRO）可能是同一清單誤標，見該件 note。已搜爭議：搜「Ribeiro Minicuotas taxi screens Almacén controversy／fake／fraud／withdrawn」無相關爭議。"
+  "note": "依官方案例板（圖上有完整英文說明）與 La Nación、Mercado 報導整理；案例板上印的成效數字（網站流量、取貨點增加、憑車資單到店人數）未寫入。lovethework 對 Outdoor 銅獅標示類別為 Ambient，in 檔／官方獎項為 Transit，以 in 檔為準。此件與 ltwm-06054（CHALLENGE RIBEIRO）可能是同一清單誤標，見該件 note。已搜爭議：搜「Ribeiro Minicuotas taxi screens Almacén controversy／fake／fraud／withdrawn」無相關爭議。 2026-11-18 Opus 驗：抽查官方案例板：計費表 33.05／43.30／83.30 對應 Nespresso、手機、LED 電視月付、保留單據第一期免費都對得上。"
  }
 ]

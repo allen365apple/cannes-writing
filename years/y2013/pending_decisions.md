@@ -59,3 +59,12 @@
 - 依作品畫面解讀（沒有文字說明）：b019 06634 WATER PUMP、06530 ROCK/SLIDE/DEER；b022 06032 LOGO、06035、06532。
 - 圖不理想：沒圖 b020 06190、06489，b021 06027、06022、Singtel OLD PHONES，b022 06030；圖偏小 b021 06020 Mutombo（260px），b022 Amazing Mindreader、Power of Cute；看不出點子 b019 06556；06270 GT86 縮圖取自非官方頻道轉貼。
 - 重複候選 0；【爭議】新增 0；撤獎 0。
+
+## 2026-11-18 雲端第 2 輪 b023 b024 b025（Sonnet 寫、Opus 驗）
+- 重複候選／不收待決：b024 ltwm-06054 CHALLENGE RIBEIRO（寫手標不收）。in 檔沒有官方獎項，查不到這件作品；寫手與驗收員都研判是清單把同品牌、同代理商的 ltwm-06322 TAXI（2013 直效金獅）誤標成另一筆。建議：本機查官方名單，確認後當重複處理。
+- 仍 uncertain：b024 ltwm-06053 ONG（查不到畫面與說明；in 檔來源 renatozandona.com 是被植入垃圾內容的頁面，不採用）、ltwm-06057 BUILD IT（廣播缺音檔，需本機用 whisper 轉寫）；b025 ltwm-06323 MINI VINNIE（拿行動類銅獅，但查不到行動內容）。
+- 待本機確認：b023 ltwm-06043 美國運通另有媒體類銅獅 WELCOME TO SMALL BUSINESS SATURDAY，讀稿只寫創意實效那支；b025 ltwm-06066 官方作品名是 WE BELIEVE IN D&T - AVERTING A CRISIS，title 沒改。
+- 參考：b025 ltwm-06062 與 ltwm-06323 都是英國心臟基金會 Vinnie 系列，官方是兩件不同報名，不算重複。
+- 依作品畫面解讀：b023 06045 萊雅（驗收員已看 4 張海報確認）、06046 Schick、06637 Staedtler。
+- 圖不理想：沒圖 b023 06043，b024 06059、06057、06053、06058（原圖是成效字卡已撤），b025 06060、06061、06066；圖偏小 b023 06039 Thunderclap，b025 06064 Konami。
+- 【爭議】新增 0；撤獎 0。
