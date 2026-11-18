@@ -1,12 +1,11 @@
-*坎城雲端寫稿｜2013 第 3 輪（11/18 02:55）*
-• 這輪寫完並驗收：2013 b012～b018，共 7 批 70 件（全收）
-• 這輪寫到的作品（舉 3～5 件）：莫城一戰博物館〈Facebook 1914〉、Metropole Orkest〈Tweetphony〉、Amnesty International〈The Last Meal〉、Greenpeace〈Toxic Tours〉、Uniqlo〈Wake Up〉
-• 2013 進度：已完成 18／72 批，剩 54 批
-• 待決新增：18 件（拆件 1、標題 4、爭議 1、uncertain 6、待本機確認 6；另有缺圖／圖偏小清單）
+*坎城雲端寫稿｜2013 第 4 輪（11/18 14:40）*
+• 這輪寫完並驗收：2013 b019～b025，共 7 批 70 件（收 68、不收 2，都不是撤獎）
+• 這輪寫到的作品（舉 3～5 件）：Toyota〈Toyota Tundra〉、Bodyform〈The Truth〉、Volkswagen〈The Beetle Shark Cage〉、L'Oréal〈Revitalift Laser X3〉、British Heart Foundation〈Hard, Fast & Effective〉
+• 2013 進度：已完成 25／72 批，剩 47 批
+• 待決新增：11 件（重複候選 1、不收待決 1、獎項拆分 1、待本機確認 3、uncertain 7；另有缺圖／圖偏小清單；爭議 0）
 • 問題：
-  • Missing Children 的輸入檔連結指到巴西另一件作品，驗收員已照官方北京 JWT 的 App 改寫，輸入檔連結請本機修正
-  • Kid Proof 另有設計銀獅 The Electric Translator，點子不同，建議拆件
-  • 有 4 件標題跟官方作品名不同（Cow、Living Together、Push to Add Drama、We Know Drama），稿照官方寫，標題待決定
-  • Ragu 三支廣播找不到稿本，需要本機聽音檔轉寫
+  • 福斯 Street Quest 的輸入檔把澳洲另一件「疲勞駕駛」廣播銀獅併了進來（作品名撞名），驗收員已把獎項移回疲勞駕駛那筆，輸入檔預填請本機修正
+  • Challenge Ribeiro 查不到作品，疑似清單把同品牌的 Taxi 重列一筆；Old Spice Hawkridge 查不到坎城得獎紀錄，兩件暫列不收待決定
+  • 4 支廣播（福斯兩支、賓士 TMA、Build It）找不到稿本，需要本機聽音檔轉寫
   • 程式檢查沒有發現違規；一位寫手跑了一次只讀的 git 指令，沒有改動
 • 預計：照一天 14 批，剩下約 4 天寫完（11/21 左右），接著寫：隊伍裡沒有更早的年份，等本機做前置

@@ -11,3 +11,4 @@
 - 2026-11-18 02:55 回報已寫進 years/last_report.txt。
 - 2026-11-18 14:10 開工：b019 b020 b021 b022 b023 b024 b025（雲端 2026-11-18 第 2 輪）
 - 2026-11-18 雲端第 2 輪：寫完並驗完 b019–b025（7 批 70 件：收 68、不收 2（b021 ltwm-06021 HAWKRIDGE 查不到坎城得獎紀錄；b024 ltwm-06054 CHALLENGE RIBEIRO 疑似清單把 06322 TAXI 重列），都不是撤獎）。驗收員拿掉 uncertain 6 件（06634、06027、06045、06043、06066 等），仍 uncertain 8 件（06190、06489、06148、06022、06030、06053、06057、06323）；修正事實與用語多處（06015 讚數照 Adweek、06148 飛盤不是球、06048 拿掉沒來源的說法、06058 撤掉成效字卡圖）。驗收員發現 06556 STREET QUEST 的官方預填併進了 DDB Sydney 疲勞駕駛廣播銀獅（撞名），已移到 06190。2013 累計 25／72 批。待決新增 11 條（重複候選 1、不收待決 1、獎項拆分 1、待本機確認 3、仍 uncertain 7 中 4 支廣播缺音檔，另有圖不理想清單）。【爭議】0、撤獎 0。連不上：Behance、adsspot、LBB、The Drum、Shots、Campaign Live、AdForum、Creative Review、Luerzer's Archive、Trend Hunter、WARC（程式連線）、YouTube／Vimeo 沒說明；archive.themill.com、prandall.com、Art UK 不在允許網域；lovethework 卡片多半沒內文、官方圖 403。程式檢查沒掃到違規；寫手、驗收員自報沒用 rm、沒加標頭、沒改 in 檔。小問題：b021 寫手看了一次 git status（唯讀，沒改動）。沒撞額度。
+- 2026-11-18 14:40 回報已寫進 years/last_report.txt。
