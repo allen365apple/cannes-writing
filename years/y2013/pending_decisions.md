@@ -119,3 +119,12 @@
 - 仍 uncertain：b040 ltwm-06224 GIRL（Strepsils 廣播，缺 Girl、Guy 音檔，needs_audio）、ltwm-06233 MORE WOMEN（缺畫面與標語）、ltwm-06651 UNDERWATER DIVER（沒有說明）；b041 ltwm-06241 PARENTAL CONTROL BAR／POOL（缺劇情）、ltwm-06243 PRESS, HOLD（廣播，needs_audio）、ltwm-06235 DUBAI'S GOT CULTURE（缺年曆內容與圖）；b042 ltwm-06249 Nimbletank（缺互動說明）、ltwm-06252 MasterCard Miyamo（缺官方描述）；b043 ltwm-06266 HuffPost UK Conversations Start Here、ltwm-06268 Habitat House（缺作品說明）。
 - 圖不理想：沒圖 b041 Pool、Press/Hold、Dubai's Got Culture、Radio Underground，b043 06266、06268、06269、06267、06272；圖偏小 b042 06249、06257；看不出點子 b042 06254 Red Stripe（影片單格）。
 - 重複 0；【爭議】新增 0；撤獎 0。
+
+## 2026-11-20 雲端第 1 輪 b044 b045 b046（Sonnet 寫、Opus 驗）
+- 改判知悉：b045 ltwm-06287 DISCLAIMER（American Garden）寫手標不收，驗收員在 Ads of the World（/campaigns/ninja）找到兩張海報與完整文案，改收並補寫全稿。
+- 不收待決：b045 ltwm-06297 ONE MOM AT HOME IS ENOUGH（Bauker／Sodimac），寫手與驗收員都找不到畫面或文案（Adlatina、Produ、lovethework、Behance、Ads of the World 都查過），不是撤獎。建議：本機有圖或官方全文可改收。
+- 品牌待決：b046 ltwm-06305 CATCH THE MOON, CATCH THE BLOSSOM 官方登記品牌是 SHO OFFICE，in 檔寫三菱，作品畫面兩個都看不到；brand_display 暫寫「Sho Office／三菱」。建議：本機決定品牌欄。
+- 參考：b044 ltwm-06279 Moleskine 確認與 adRuby 的 Picasso／Van Gogh／Hemingway 同一件（人員名單相同、案例板大標 EVERY ONE HAS A STORY）；b046 ltwm-06301 Bell 修正 Sochi 字母藏法的事實錯誤；b045 ltwm-06289 刪掉成效句。
+- 仍 uncertain：b044 ltwm-06276 Fibertel TRUE FRIENDS（官方作品名 PS3 AND BEER、NEPHEWS，缺劇情，要看片補寫）；b045 ltwm-06288 ANAGRAPHICS（缺圖與字母重組方式）；b046 ltwm-06307 Chupa Chups NOW WITH GUM（看不出明確巧思）。
+- 圖不理想：沒圖 b045 06288；第三方小圖 b045 06298（YouTube 縮圖 480×360）、b046 06299 JACKFLUSH（有浮水印）；圖偏小 b046 06302、06301。
+- 重複 0；【爭議】新增 0；撤獎 0。
