@@ -92,3 +92,13 @@
 - 參考：b030 ltwm-06116 Rescue Radio 寫黎巴嫩是對的（D&AD 寫 UAE 是代理商所在地）；b032 ING Direct THE MONSTER 2012-12 推出，在參賽期內。
 - 圖不理想：沒圖 b030 06118，b031 06253，b032 06135、06131 FlavorPrint；圖偏弱 b032 Smoking Kid、Tokyo Shimbun、Summer Hater。
 - 【爭議】新增 0；撤獎 0。
+
+## 2026-11-19 雲端第 2 輪 b033 b034 b036 b037（Sonnet 寫、Opus 驗）
+- 獎項拆分待確認：b033 ltwm-06540 SHADES 的官方預填把兩件併成一筆（Mercedes Attention Assist 平面銀獅＋SHADES 戶外銅獅）。驗收員依 lovethework 拆開：06540 只留戶外銅獅（CONTRAPUNTO Madrid），平面銀獅歸 ltwm-06292 ATTENTION ASSIST（它沒有官方預填，【得獎】行是借來的）。建議：本機對官方名單確認拆分。
+- 標題待決：b034 ltwm-06156 in 檔標題／連結是同代理商的賽場行動 The Invisible Flyer，但銀獅是 Bandera Blanca（白旗 App，官方作品名 WHITE FLAG）。稿照得獎作品寫，title 沒改；App 怎麼運作仍查不到（uncertain）。
+- 標題待決：b037 ltwm-06187 Canon in 檔標題 IMAGINAT10N LAB，官方作品名 INSPIRED，稿照官方寫（驗收員補 SHOOT 為第二來源）。
+- 不收待決：b037 ltwm-06244 THUMB WARS（寫手標不收）。沒有官方預填；NY Lottery 的影片銀獅報名是 WRITERS ROOM、INVASION，寫手和驗收員都查不到 THUMB WARS 得獎。建議：維持不收，或回頭查清單來源。
+- 參考：b037 ltwm-06198 WRITERS ROOM 與 INVASION 同屬一座獎，不算重複，稿只寫 WRITERS ROOM。b033 ltwm-06145 主角依 Campaign India 由 Garage 改為 School。b036 RETHINK POSSIBLE 寫成官方作品 DAYBREAK；7-ELECTION 兩個獎、兩個報名頁合併成一件。
+- 仍 uncertain：b034 ltwm-06156（見上）；b036 ltwm-06180、ltwm-06177（缺內文）、ltwm-06175（只有單一來源）；b037 ltwm-06192 Lurpak（只有概念）、06193 Wee Society、06194 Absolut（缺活動內容）、06195 Whiskas（三張海報沒有說明）、06198（影片要登入）。
+- 圖不理想：沒圖 b034 06154，b036 06180、06182、06184，b037 06193、06194；看不出點子 b036 ANADOR（馬）、b037 06198、06187、06192 只有影片分鏡。
+- 【爭議】新增 0；撤獎 0。

@@ -78,7 +78,7 @@
   "text_source_level": 2,
   "uncertain": true,
   "needs_audio": false,
-  "note": "官方頁面只有分類，沒有說明文字；影片需登入，內容只靠 D&AD 頁面的文字說明，沒有看到影片本體，所以只寫 WRITERS ROOM、沒寫 INVASION（官方報名兩支，同一系列，不確定是否算同一件，請主對話決定）。擷取畫面是影片中的一格，看不出點子，只能當圖。缺：影片內容的第二個文字來源。已搜爭議：搜 NY Lottery yeah that kinda rich writers room controversy／complaint／plagiarism，沒有找到相關爭議。"
+  "note": "官方頁面只有分類，沒有說明文字；影片需登入，內容只靠 D&AD 頁面的文字說明，沒有看到影片本體，所以只寫 WRITERS ROOM、沒寫 INVASION（官方報名兩支，同一系列，不確定是否算同一件，請主對話決定）。擷取畫面是影片中的一格，看不出點子，只能當圖。缺：影片內容的第二個文字來源。已搜爭議：搜 NY Lottery yeah that kinda rich writers room controversy／complaint／plagiarism，沒有找到相關爭議。 2026-11-19 Opus 驗：INVASION 與 WRITERS ROOM 是同一座影片類銀獅的兩支報名影片（官方 awards 同一筆 entry_titles），不是清單重複列兩筆，本件只寫 WRITERS ROOM 即可。"
  },
  {
   "id": "ltwm-06244",
@@ -168,21 +168,23 @@
     ]
    }
   ],
-  "idea_one_liner": "Canon 美國的影片，拍攝攝影師在各種場景抓住瞬間，把賣點從規格，改成每個人的拍攝視角",
+  "idea_one_liner": "Canon 美國廣告串起一段段小故事：為了拍到一張特別的照片，人們不惜出糗，配上慢版〈Beautiful Dreamer〉",
   "brand_display": "Canon",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜影片類銀獅 Film Silver Lion｜代理商：GREY NEW YORK\n\n【得獎說明】官方報名的作品名是 INSPIRED（in 檔標題寫 IMAGINAT10N LAB，是另一個 Canon 作品名，這篇依官方報名寫 INSPIRED）。\n\n【背景】Canon 美國請 Grey New York 做一支廣告，在相機市場競爭擁擠時，要讓攝影愛好者受到啟發。\n\n【點子】不談規格，改談每個人的創意：攝影的重點是個人的視角，不只是技術。\n\n【執行】廣告是一支影片，內容是攝影師在各種情境下捕捉獨特瞬間。導演是 Nicolai Fuglsig，攝影指導是 Linus Sandgren，配樂是 Rachel Fannan 翻唱的〈Beautiful Dreamer〉，用沉重的曲調對比畫面的快速動作。該頁面舉的場景包括雪地裡的洛杉磯、魚市場，以及一位媽媽為了拍女兒而打翻一碗食物。擷取畫面是一名穿外套的人走過積雪的屋頂，旁邊是紅磚煙囪。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/inspired-206292\nhttps://www.selfstorming.com/tools/libraries/campaigns/canon-inspired",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜影片類銀獅 Film Silver Lion｜代理商：GREY NEW YORK\n\n【得獎說明】官方報名的作品名是 INSPIRED（in 檔標題寫 IMAGINAT10N LAB，是另一個 Canon 作品名，這篇依官方報名寫 INSPIRED）。\n\n【背景】Canon 美國請 Grey New York 做一支廣告，在相機市場競爭擁擠時，要讓攝影愛好者受到啟發。\n\n【點子】不談規格，改談每個人的創意：攝影的重點是個人的視角，不只是技術。\n\n【執行】廣告是一支影片，SHOOT 雜誌（2012 年 12 月）形容它呈現人們為了拍到特別的照片願意做到什麼地步，幾段小故事帶點喜劇感。導演是 Nicolai Fuglsig，攝影指導是 Linus Sandgren，配樂是 Rachel Fannan 翻唱的〈Beautiful Dreamer〉，用沉重的曲調對比畫面的快速動作。該頁面舉的場景包括雪地裡的洛杉磯、魚市場，以及一位媽媽為了拍女兒而打翻一碗食物。擷取畫面是一名穿外套的人走過積雪的屋頂，旁邊是紅磚煙囪。\n\n資料來源：\nhttps://shootonline.com/shoot_video2/canon-usas-inspired\nhttps://www.lovethework.com/en/work/entries/inspired-206292\nhttps://www.selfstorming.com/tools/libraries/campaigns/canon-inspired",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片類, Film, 銀獅, Silver Lion, 家電與視聽設備, Home Electronics & Audio-Visual, Canon, 佳能, Canon USA, GREY NEW YORK, Grey, 相機, 數位單眼相機, Digital SLR, 攝影, 攝影師, 瞬間, 創意, 視角, 影片, 電視廣告, 雪, 魚市場, Inspired, 美國, United States, 紐約, New York",
   "category": "行銷案例",
   "references": [
+   "https://shootonline.com/shoot_video2/canon-usas-inspired",
    "https://www.lovethework.com/en/work/entries/inspired-206292",
    "https://www.selfstorming.com/tools/libraries/campaigns/canon-inspired"
   ],
   "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/0208af1cb7f540409cb2cc740fc77f39/storyboard_000002.jpg",
   "image_shows": "影片分鏡：一個人的背影走在積雪的屋頂上，左邊是紅磚煙囪，背景是掛雪的樹",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 頁面只有分類與作品名，沒有說明文字；只找到 selfstorming 一個二手整理頁描述影片，沒有第二個文字來源，也沒看到影片本體。selfstorming 頁面的成效數字與得獎說法未寫入。分鏡只是影片中的一格，看不出點子。in 檔標題 IMAGINAT10N LAB 與官方作品名 INSPIRED 對不上（搜尋顯示 Project Imaginat10n 是另一件 Canon 作品），請主對話確認是否選錯件。缺：官方或報導對影片內容的描述。已搜爭議：搜 Canon Inspired Grey New York，沒有找到爭議；該頁面不涉及造假或抄襲說法。"
+  "note": "官方 lovethework 頁面只有分類與作品名，沒有說明文字；只找到 selfstorming 一個二手整理頁描述影片，沒有第二個文字來源，也沒看到影片本體。selfstorming 頁面的成效數字與得獎說法未寫入。分鏡只是影片中的一格，看不出點子。in 檔標題 IMAGINAT10N LAB 與官方作品名 INSPIRED 對不上（搜尋顯示 Project Imaginat10n 是另一件 Canon 作品），請主對話確認是否選錯件。缺：官方或報導對影片內容的描述。已搜爭議：搜 Canon Inspired Grey New York，沒有找到爭議；該頁面不涉及造假或抄襲說法。 2026-11-19 Opus 驗：找到 SHOOT 作品頁（2012-12-06）：Grey New York、MJZ 導演 Nicolai Fuglsig、攝影指導 Linus Sandgren、Black Iris Music 編曲的〈Beautiful Dreamer〉、Rachel Fannan 主唱，與讀稿相符，補為來源並拿掉 uncertain；一句話原本把「規格→視角」壓成抽象說法，改寫成影片內容。in 檔標題 IMAGINAT10N LAB 與官方作品 INSPIRED 不符，讀稿照官方寫 INSPIRED，請主對話知悉。",
+  "idea_one_liner_r0": "Canon 美國的影片，拍攝攝影師在各種場景抓住瞬間，把賣點從規格，改成每個人的拍攝視角"
  },
  {
   "id": "ltwm-06280",
@@ -337,12 +339,12 @@
    "https://www.dandad.org/awards/professional/2014/branding/23346/windhoek-beer-tavern-make-over/",
    "https://www.lovethework.com/en/work/entries/point-of-purchase-grille-180609"
   ],
-  "image_url": "https://cms.dandad.org/images/gnosVqZK-EJrues0GPVvLYz61tk=/103638/format-webp%7Cwidth-1600/3000x2400-inside_fQNAuWh.jpeg",
+  "image_url": "https://images.weserv.nl/?url=media.dandad.org/images/3000x2400-inside_fQNAuWh.format-webp.width-1600_C7NeIpu2LCF5hV7v.webp&w=1600&output=jpg",
   "image_shows": "昏暗酒館內的黑色鐵格柵，中央鏤空出 Windhoek 標誌，格柵後透出燈光與貨品",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 頁面只有分類（Design > Environmental Design；in 檔子類為 Point of Sale）與作品名，內容依 D&AD 頁面整理，只有一個說明來源；D&AD 頁面的獎項資訊未寫入。圖片取自 D&AD 頁面（webp 格式、網址含 %7C），不是官方 case board，請檢查是否通過。已搜爭議：搜 Windhoek beer tavern grille Jupiter Drawing Room controversy／fake／criticism，沒有找到針對這件作品的爭議。"
+  "note": "官方 lovethework 頁面只有分類（Design > Environmental Design；in 檔子類為 Point of Sale）與作品名，內容依 D&AD 頁面整理，只有一個說明來源；D&AD 頁面的獎項資訊未寫入。圖片取自 D&AD 頁面（webp 格式、網址含 %7C），不是官方 case board，請檢查是否通過。已搜爭議：搜 Windhoek beer tavern grille Jupiter Drawing Room controversy／fake／criticism，沒有找到針對這件作品的爭議。 2026-11-19 Opus 驗：原圖網址（cms.dandad.org、webp、含 %7C）會 302 轉址，改成轉址後的最終網址經 weserv 轉 JPEG（image/jpeg、332KB），已下載確認是同一張格柵圖。"
  },
  {
   "id": "ltwm-06192",
