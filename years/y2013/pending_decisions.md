@@ -102,3 +102,11 @@
 - 仍 uncertain：b034 ltwm-06156（見上）；b036 ltwm-06180、ltwm-06177（缺內文）、ltwm-06175（只有單一來源）；b037 ltwm-06192 Lurpak（只有概念）、06193 Wee Society、06194 Absolut（缺活動內容）、06195 Whiskas（三張海報沒有說明）、06198（影片要登入）。
 - 圖不理想：沒圖 b034 06154，b036 06180、06182、06184，b037 06193、06194；看不出點子 b036 ANADOR（馬）、b037 06198、06187、06192 只有影片分鏡。
 - 【爭議】新增 0；撤獎 0。
+
+## 2026-11-19 雲端第 2 輪 b035 b038 b039（Sonnet 寫、Opus 驗）
+- 【爭議】：b035 ltwm-06169 HELPLESS（St John Ambulance）。英國廣告標準局 ASA 在 2013/12/18 經獨立審查推翻原判，認定「每年 14 萬人」的說法無法證實，廣告不得照原樣再播。驗收員核對屬實。照收，不是撤獎。
+- 參考：b035 ltwm-06168 THE CENTAUR 依官方寫 DDB Paris（La Réclame 掛 BBDO Paris，頁面打不開）。b038 10 件的 brand_display 驗收員已統一改成品牌名。
+- 仍 uncertain：b035 ltwm-06165 Snickers COACH（缺刊登順序，另兩支 Theismann Thigh Highs、Promatherapy Candles 沒有畫面）、ltwm-06355 Honda CAR, BUS, TRUCK（只能依畫面解讀）；b038 ltwm-06200 LIFE IS ELECTRIC（缺海報畫面）、ltwm-06203 USA TODAY（缺官方全文）、ltwm-06205 UNIQUE BREEDS（命名者說法不一）；b039 ltwm-06223 STUDENT BANKING／NEW SHOES（廣播，找不到音檔，needs_audio，需本機補）。
+- 系列只寫到其中一則：b038 DYE!（BOSS 沒畫面）、ltwm-06291 LG 吸塵器（只有 LIVING ROOM）、ltwm-06475 LG 車用音響（只有 MICHAEL）。
+- 圖不理想：沒圖 b038 06200、06202、06203；圖偏小 b035 06173、06355、06562；畫質差或看不出點子 b038 06205、06209 TOOLPOOL（剪報拼貼），b039 06217 BIGGEST AIR FILTER、06218 ART OF NOISE（Vimeo 縮圖可能失效）。
+- 重複 0；撤獎 0。
