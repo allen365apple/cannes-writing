@@ -10,7 +10,7 @@
     "links": [
       "https://www.adsoftheworld.com/campaign/marmite-ddb-06-2014"
     ],
-    "decision": "收",
+    "decision": "重複",
     "awards": [
       {
         "level": "Gold",
@@ -37,7 +37,8 @@
     "text_source_level": 2,
     "uncertain": false,
     "needs_audio": false,
-    "note": "官方全文需登入，內容依官方案例板畫面、Bizcommunity、V&A 館藏頁與 Ads of the World 的作品資料整理；Ads of the World 只列出創意人員名單，沒有概念說明。官方報名三件（KETCHUP、MAYO、PASTA），只看得到案例板上的一張畫面，已在讀稿註明。已搜爭議：搜「Marmite Cupboard Neglect campaign controversy withdrawn fake」，無造假、抄襲或撤獎；系列的電視廣告 Rescue 有英國廣告標準局（ASA）收到投訴後決定不調查，屬一般評論，只寫 note，未寫入。與 ltwm-06751 RESCUE 同屬 Marmite 的 End Marmite Neglect 活動、與同批 RESCUE 疑似同一個點子的不同載體，請主對話決定是否併筆。"
+    "note": "官方全文需登入，內容依官方案例板畫面、Bizcommunity、V&A 館藏頁與 Ads of the World 的作品資料整理；Ads of the World 只列出創意人員名單，沒有概念說明。官方報名三件（KETCHUP、MAYO、PASTA），只看得到案例板上的一張畫面，已在讀稿註明。已搜爭議：搜「Marmite Cupboard Neglect campaign controversy withdrawn fake」，無造假、抄襲或撤獎；系列的電視廣告 Rescue 有英國廣告標準局（ASA）收到投訴後決定不調查，屬一般評論，只寫 note，未寫入。與 ltwm-06751 RESCUE 同屬 Marmite 的 End Marmite Neglect 活動、與同批 RESCUE 疑似同一個點子的不同載體，請主對話決定是否併筆。 2026-11-19 柏文照待決清單建議：與 ltwm-06751 是同一件作品，標重複、獎項併入 ltwm-06751。",
+    "same_as": "ltwm-06751"
   },
   {
     "id": "ltwm-06751",
@@ -58,12 +59,19 @@
         "subcategory": "Savoury Foods",
         "count": 1,
         "source_count": 1
+      },
+      {
+        "level": "Gold",
+        "category": "Outdoor",
+        "subcategory": "Foods",
+        "count": 1,
+        "source_count": 3
       }
     ],
     "awards_unverified": [],
     "idea_one_liner": "英國酵母醬 Marmite 模仿動物救援節目，派「救援隊」上門把沒人開的罐子帶走，送給會愛它的家庭",
     "brand_display": "Marmite",
-    "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜影片類金獅 Film Gold Lion｜代理商：ADAM&EVEDDB London\n\n【背景】Marmite 是英國以酵母製成的抹醬，向來主打「愛它或恨它」。調查發現每十個英國人就有一個，過去三個月沒開過家裡的 Marmite，所以廣告要處理的是「買了卻被冷落」的罐子。\n\n【點子】把冷落 Marmite 演成像虐待動物一樣的疏忽，仿照動物救援紀錄片，成立「Marmite 救援隊」，上門把被忽視的罐子帶走，交給會好好愛它的家庭。\n\n【執行】影片開場先問觀眾是不是「Marmite neglector」（冷落 Marmite 的人），櫥櫃深處是不是有一罐沒人愛的罐子。接著用動物救援節目的口吻，拍救援隊員到各家收走被冷落的罐子。官方影片縮圖裡，英國住宅區街邊停著兩輛白色廂型車，車內坐著穿深色制服的人，是救援隊出動的畫面。影片由 adam&eveDDB 倫敦製作，導演是 James Rouse，製作公司是 Outsider。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/rescue-173270\nhttps://shots.net/news/view/81665-marmite-rescue\nhttps://www.bizcommunity.com/Article/196/12/118419.html\nhttps://www.adsoftheworld.com/campaigns/rescue-acceb7d0-9a92-4e9d-8978-e8512487170e",
+    "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜影片類金獅 Film Gold Lion、戶外類金獅 Outdoor Gold Lion｜代理商：ADAM&EVEDDB London\n\n【背景】Marmite 是英國以酵母製成的抹醬，向來主打「愛它或恨它」。調查發現每十個英國人就有一個，過去三個月沒開過家裡的 Marmite，所以廣告要處理的是「買了卻被冷落」的罐子。\n\n【點子】把冷落 Marmite 演成像虐待動物一樣的疏忽，仿照動物救援紀錄片，成立「Marmite 救援隊」，上門把被忽視的罐子帶走，交給會好好愛它的家庭。\n\n【執行】影片開場先問觀眾是不是「Marmite neglector」（冷落 Marmite 的人），櫥櫃深處是不是有一罐沒人愛的罐子。接著用動物救援節目的口吻，拍救援隊員到各家收走被冷落的罐子。官方影片縮圖裡，英國住宅區街邊停著兩輛白色廂型車，車內坐著穿深色制服的人，是救援隊出動的畫面。影片由 adam&eveDDB 倫敦製作，導演是 James Rouse，製作公司是 Outsider。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/rescue-173270\nhttps://shots.net/news/view/81665-marmite-rescue\nhttps://www.bizcommunity.com/Article/196/12/118419.html\nhttps://www.adsoftheworld.com/campaigns/rescue-acceb7d0-9a92-4e9d-8978-e8512487170e",
     "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片類, Film, 金獅, Gold Lion, 鹹味食品, Savoury Foods, Marmite, 馬麥醬, 酵母醬, 抹醬, 聯合利華, Unilever, ADAM&EVEDDB London, adam&eveDDB, DDB, 食品, 英國, United Kingdom, 電視廣告, 影片, 偽紀錄片, 動物救援, 戲仿, Parody, 救援隊, Marmite Rescue Team, 冷落, Neglect, 廂型車, 幽默, 黑色幽默, 愛它或恨它, Love it or hate it",
     "category": "行銷案例",
     "references": [
@@ -77,7 +85,7 @@
     "text_source_level": 2,
     "uncertain": false,
     "needs_audio": false,
-    "note": "官方全文需登入，內容依 Shots 的作品介紹與 Bizcommunity 整理；Ads of the World 只有創意人員名單。官方開場縮圖（storyboard_000002）幾乎全黑，改用同一支影片的第 15 格。Shots 標 2013 年 8 月，Ads of the World 標 2014 年 6 月，日期不一，讀稿未寫。已搜爭議：搜「Marmite Rescue ad controversy complaints ASA RSPCA」，2013 年有數百則觀眾向英國廣告標準局投訴（動物福利團體不滿），ASA 決定不調查，Unilever 並捐款給 RSPCA（金額各來源 1.8 萬或 2.8 萬英鎊不一）；屬一般評論與禁播以外的反彈，沒有造假、抄襲或撤獎，只寫 note，未寫入。與 ltwm-06726 CUPBOARD 為同一場 End Marmite Neglect 活動，請主對話決定是否併筆。"
+    "note": "官方全文需登入，內容依 Shots 的作品介紹與 Bizcommunity 整理；Ads of the World 只有創意人員名單。官方開場縮圖（storyboard_000002）幾乎全黑，改用同一支影片的第 15 格。Shots 標 2013 年 8 月，Ads of the World 標 2014 年 6 月，日期不一，讀稿未寫。已搜爭議：搜「Marmite Rescue ad controversy complaints ASA RSPCA」，2013 年有數百則觀眾向英國廣告標準局投訴（動物福利團體不滿），ASA 決定不調查，Unilever 並捐款給 RSPCA（金額各來源 1.8 萬或 2.8 萬英鎊不一）；屬一般評論與禁播以外的反彈，沒有造假、抄襲或撤獎，只寫 note，未寫入。與 ltwm-06726 CUPBOARD 為同一場 End Marmite Neglect 活動，請主對話決定是否併筆。 2026-11-19 柏文照待決清單建議：併入 ltwm-06726 的獎項（戶外類金獅 Outdoor Gold Lion）。"
   },
   {
     "id": "ltwm-06721",
@@ -98,12 +106,26 @@
         "subcategory": "Achivement in Production",
         "count": 1,
         "source_count": 1
+      },
+      {
+        "level": "Silver",
+        "category": "Promo & Activation",
+        "subcategory": "Use of Promotional Stunts and Live Advertising",
+        "count": 1,
+        "source_count": 1
+      },
+      {
+        "level": "Bronze",
+        "category": "Media",
+        "subcategory": "Use of Integrated Media",
+        "count": 1,
+        "source_count": 1
       }
     ],
     "awards_unverified": [],
     "idea_one_liner": "美國啤酒 Bud Light 找真人 Ian 赴一場酒吧邀約，用 58 台隱藏攝影機一鏡到底，拍他遇上名人、雙胞胎與羊駝",
     "brand_display": "Bud Light",
-    "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜影片工藝類金獅 Film Craft Gold Lion｜代理商：BBDO NEW YORK\n\n【背景】Bud Light 把自己定位成「適合任何狀況的啤酒」（The Perfect Beer for Whatever Happens），廣告邀請人們「Up For Whatever」（什麼都願意嘗試）。\n\n【點子】做一支真人整蠱電影：找一位什麼都不知道的真人，讓他答應「接下來不論發生什麼都奉陪」，再把他一整晚的遭遇全部拍下來。\n\n【執行】官方說明寫道，這是一場規模龐大的現場隱藏攝影機行動，動用數百位演員與 58 台隱藏攝影機，分布在 17 個地點，現場直播、一鏡拍完。主角 Ian 是真人，不知道自己被拍。旅程中有雙胞胎、假牆、阿諾．史瓦辛格與唐．奇鐸（Don Cheadle）等名人、新娘派對成員，還有一隻羊駝。報導描述，開場是女演員 Kelly 在酒吧問 Ian 是不是願意接下來什麼都奉陪，之後 Ian 坐上載著新娘派對的加長禮車，遇到打桌球決勝負的史瓦辛格，並登上樂團 OneRepublic 的舞台。影片放上 YouTube 的完整版約 3 分 45 秒。官方影片縮圖是昏暗的酒吧，一名男子坐在桌邊回頭看。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/ian-up-for-whatever-film-153222\nhttps://www.bustle.com/articles/14299-bud-lights-super-bowl-ad-features-arnold-don-cheadle-a-llama-and-other-really-weird-things\nhttps://www.adweek.com/news/advertising-branding/guy-has-wildest-night-his-life-bud-lights-super-bowl-campaign-155390\nhttps://directnewideas.com/magazine/energy_bbdo_bbdo_new_york_whatever_happens_integrated_campaign/?id=1500",
+    "full_text": "【得獎】2014 坎城獅子獎（Cannes Lions 2014）｜影片工藝類金獅 Film Craft Gold Lion、Promo & Activation類銀獅 Promo & Activation Silver Lion、媒體類銅獅 Media Bronze Lion｜代理商：BBDO NEW YORK\n\n【背景】Bud Light 把自己定位成「適合任何狀況的啤酒」（The Perfect Beer for Whatever Happens），廣告邀請人們「Up For Whatever」（什麼都願意嘗試）。\n\n【點子】做一支真人整蠱電影：找一位什麼都不知道的真人，讓他答應「接下來不論發生什麼都奉陪」，再把他一整晚的遭遇全部拍下來。\n\n【執行】官方說明寫道，這是一場規模龐大的現場隱藏攝影機行動，動用數百位演員與 58 台隱藏攝影機，分布在 17 個地點，現場直播、一鏡拍完。主角 Ian 是真人，不知道自己被拍。旅程中有雙胞胎、假牆、阿諾．史瓦辛格與唐．奇鐸（Don Cheadle）等名人、新娘派對成員，還有一隻羊駝。報導描述，開場是女演員 Kelly 在酒吧問 Ian 是不是願意接下來什麼都奉陪，之後 Ian 坐上載著新娘派對的加長禮車，遇到打桌球決勝負的史瓦辛格，並登上樂團 OneRepublic 的舞台。影片放上 YouTube 的完整版約 3 分 45 秒。官方影片縮圖是昏暗的酒吧，一名男子坐在桌邊回頭看。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/ian-up-for-whatever-film-153222\nhttps://www.bustle.com/articles/14299-bud-lights-super-bowl-ad-features-arnold-don-cheadle-a-llama-and-other-really-weird-things\nhttps://www.adweek.com/news/advertising-branding/guy-has-wildest-night-his-life-bud-lights-super-bowl-campaign-155390\nhttps://directnewideas.com/magazine/energy_bbdo_bbdo_new_york_whatever_happens_integrated_campaign/?id=1500",
     "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2014, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片工藝類, Film Craft, 金獅, Gold Lion, 製作成就, Achievement in Production, Bud Light, 百威淡啤, 安海斯-布希, Anheuser-Busch, BBDO NEW YORK, BBDO, Energy BBDO, 啤酒, 酒類, 美國, United States, 影片, 隱藏攝影機, Hidden Camera, 整人, Prank, 真人實境, 一鏡到底, One Take, UpForWhatever, 阿諾史瓦辛格, Arnold Schwarzenegger, 唐奇鐸, Don Cheadle, 羊駝, Llama, 加長禮車, 酒吧, 桌球, 超級盃, Super Bowl, 幽默",
     "category": "行銷案例",
     "references": [
@@ -117,7 +139,7 @@
     "text_source_level": 2,
     "uncertain": false,
     "needs_audio": false,
-    "note": "官方全文需登入，內容依官方案例板（同一支影片的 Stunt 參賽板）、Bustle、Adweek（只能讀到開頭）、Direct New Ideas 整理。案例板與報導都有觀看次數，且 17 百萬與 34 百萬兩種說法不一，成效未寫入。官方案例板在 Stunt 條目（ltwm-06963）上，所以本件圖用影片截圖。已搜爭議：搜「Bud Light Ian Up For Whatever film fake staged controversy」，沒有造假或撤獎指控（搜到的是 2015 年另一支廣告的標語爭議，同品牌別支，只寫 note，未寫入）。本件與 ltwm-06963 WHATEVER HAPPENS STUNT、ltwm-07242 WHATEVER HAPPENS INTEGRATED CAMPAIGN 為同一場 #UpForWhatever 活動的三個報名，請主對話決定是否併筆。"
+    "note": "官方全文需登入，內容依官方案例板（同一支影片的 Stunt 參賽板）、Bustle、Adweek（只能讀到開頭）、Direct New Ideas 整理。案例板與報導都有觀看次數，且 17 百萬與 34 百萬兩種說法不一，成效未寫入。官方案例板在 Stunt 條目（ltwm-06963）上，所以本件圖用影片截圖。已搜爭議：搜「Bud Light Ian Up For Whatever film fake staged controversy」，沒有造假或撤獎指控（搜到的是 2015 年另一支廣告的標語爭議，同品牌別支，只寫 note，未寫入）。本件與 ltwm-06963 WHATEVER HAPPENS STUNT、ltwm-07242 WHATEVER HAPPENS INTEGRATED CAMPAIGN 為同一場 #UpForWhatever 活動的三個報名，請主對話決定是否併筆。 2026-11-19 柏文照待決清單建議：併入 ltwm-06963 的獎項（Promo & Activation類銀獅 Promo & Activation Silver Lion）。 2026-11-19 柏文照待決清單建議：併入 ltwm-07242 的獎項（媒體類銅獅 Media Bronze Lion）。"
   },
   {
     "id": "ltwm-06727",
@@ -329,7 +351,7 @@
     "links": [
       "https://adsspot.me/media/case-study/bud-light-whatever-happens-stunt-34e5342d6f48"
     ],
-    "decision": "收",
+    "decision": "重複",
     "awards": [
       {
         "level": "Silver",
@@ -355,7 +377,8 @@
     "text_source_level": 2,
     "uncertain": false,
     "needs_audio": false,
-    "note": "官方全文需登入，內容依官方案例板、Bustle、Adweek（只能讀到開頭）整理。案例板上的觀看次數與媒體曝光（成效）未寫入。已搜爭議：搜「Bud Light Ian Up For Whatever film fake staged controversy」，沒有造假或撤獎指控（搜到的是 2015 年另一支廣告的標語爭議，同品牌別支，只寫 note，未寫入）。與 ltwm-06721、ltwm-07242 為同一場 #UpForWhatever 活動的三個報名，請主對話決定是否併筆。"
+    "note": "官方全文需登入，內容依官方案例板、Bustle、Adweek（只能讀到開頭）整理。案例板上的觀看次數與媒體曝光（成效）未寫入。已搜爭議：搜「Bud Light Ian Up For Whatever film fake staged controversy」，沒有造假或撤獎指控（搜到的是 2015 年另一支廣告的標語爭議，同品牌別支，只寫 note，未寫入）。與 ltwm-06721、ltwm-07242 為同一場 #UpForWhatever 活動的三個報名，請主對話決定是否併筆。 2026-11-19 柏文照待決清單建議：與 ltwm-06721 是同一件作品，標重複、獎項併入 ltwm-06721。",
+    "same_as": "ltwm-06721"
   },
   {
     "id": "ltwm-06889",
@@ -407,7 +430,7 @@
     "links": [
       "https://clios.com/awards/winner/content-contact/bud-light-whatever-happens-integrated-campaign-3491"
     ],
-    "decision": "收",
+    "decision": "重複",
     "awards": [
       {
         "level": "Bronze",
@@ -433,6 +456,7 @@
     "text_source_level": 2,
     "uncertain": false,
     "needs_audio": false,
-    "note": "官方全文需登入，內容依官方案例板與 Direct New Ideas 整理。兩處資料的 Uber 描述略有不同（案例板：驚喜的座駕；Direct New Ideas：搭到獨家派對），讀稿以案例板為準。案例板與 Direct New Ideas 上的觀看次數與媒體則數（成效）未寫入。已搜爭議：搜「Bud Light Ian Up For Whatever film fake staged controversy」，沒有造假或撤獎指控（2015 年另一支廣告的標語爭議，同品牌別支，只寫 note，未寫入）。與 ltwm-06721、ltwm-06963 為同一場活動的三個報名，請主對話決定是否併筆。"
+    "note": "官方全文需登入，內容依官方案例板與 Direct New Ideas 整理。兩處資料的 Uber 描述略有不同（案例板：驚喜的座駕；Direct New Ideas：搭到獨家派對），讀稿以案例板為準。案例板與 Direct New Ideas 上的觀看次數與媒體則數（成效）未寫入。已搜爭議：搜「Bud Light Ian Up For Whatever film fake staged controversy」，沒有造假或撤獎指控（2015 年另一支廣告的標語爭議，同品牌別支，只寫 note，未寫入）。與 ltwm-06721、ltwm-06963 為同一場活動的三個報名，請主對話決定是否併筆。 2026-11-19 柏文照待決清單建議：與 ltwm-06721 是同一件作品，標重複、獎項併入 ltwm-06721。",
+    "same_as": "ltwm-06721"
   }
 ]
