@@ -1,12 +1,11 @@
-*坎城雲端寫稿｜2013 第 6 輪（11/19 14:36）*
-• 這輪寫完並驗收：2013 b033～b039，共 7 批 70 件（收 69、不收 1，不是撤獎）
-• 這輪寫到的作品（舉 3～5 件）：Mercedes-Benz〈Attention Assist〉、St John Ambulance〈Helpless〉、7-Eleven〈7-Election〉、Glad〈The Glad Tent〉、Tide〈Whites Like Nothing Happened〉
-• 2013 進度：已完成 39／72 批，剩 33 批
-• 待決新增：19 件（獎項拆分 1、標題對不上 2、不收待決 1、爭議 1、uncertain 14；重複 0）
+*坎城雲端寫稿｜2013 第 7 輪（11/20 02:43）*
+• 這輪寫完並驗收：2013 b040～b046，共 7 批 70 件（收 69、不收 1，不是撤獎）
+• 這輪寫到的作品（舉 3～5 件）：Gillette〈For Sensitive Skin〉、Moleskine〈Every One Has a Story〉、Marmite〈Blogger Drop〉、ASOS〈#BestNightEver〉、Audi〈Audi to Wear〉
+• 2013 進度：已完成 46／72 批，剩 26 批
+• 待決新增：20 件（改判 2、不收待決 1、獎項自組 1、推論 1、品牌 2、uncertain 13；重複 0、爭議 0）
 • 問題：
-  • 賓士兩件作品的官方資料被併成一筆（Attention Assist 平面銀獅、Shades 戶外銅獅），已暫時拆開，請本機對官方名單確認
-  • 紐約樂透〈Thumb Wars〉查不到得獎紀錄，疑似清單誤列，暫標不收；另有 2 件清單標題和得獎作品對不上（阿根廷白旗、Canon），稿照得獎作品寫
-  • St John Ambulance〈Helpless〉被英國廣告標準局推翻原判，已加爭議段，照收
-  • 1 支廣播（Fifth Third Bank 學生帳戶）找不到音檔，需要本機補
-  • 程式檢查沒有發現違規
-• 預計：照一天 14 批，剩下約 3 天寫完（11/22 左右），接著寫：隊伍裡沒有更早的年份，等本機做前置
+  • Marmite〈Sandwich Spread〉寫手判不收，驗收員查到是官方設計銀獅〈Blogger Drop〉而改收；American Garden〈Disclaimer〉也找到海報改收，兩件請本機確認
+  • Bauker〈One Mom at Home Is Enough〉到處都找不到內容，暫標不收，本機有資料可改收
+  • 2 支廣播（Strepsils〈Girl〉、〈Press, Hold〉）找不到音檔，需要本機補
+  • 兩個寫手各看了一次 git 狀態（只看沒改），程式檢查沒有發現違規
+• 預計：照一天 14 批，剩下約 2 天寫完（11/22 左右），接著寫：隊伍裡沒有更早的年份，等本機做前置
