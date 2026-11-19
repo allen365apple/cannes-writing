@@ -110,3 +110,12 @@
 - 系列只寫到其中一則：b038 DYE!（BOSS 沒畫面）、ltwm-06291 LG 吸塵器（只有 LIVING ROOM）、ltwm-06475 LG 車用音響（只有 MICHAEL）。
 - 圖不理想：沒圖 b038 06200、06202、06203；圖偏小 b035 06173、06355、06562；畫質差或看不出點子 b038 06205、06209 TOOLPOOL（剪報拼貼），b039 06217 BIGGEST AIR FILTER、06218 ART OF NOISE（Vimeo 縮圖可能失效）。
 - 重複 0；撤獎 0。
+
+## 2026-11-20 雲端第 1 輪 b040 b041 b042 b043（Sonnet 寫、Opus 驗）
+- 改判待確認：b040 ltwm-06232 SANDWICH SPREAD（Marmite）寫手標不收，驗收員改收。依 Sostav 轉載的 2013 官方設計類名單與 Bizcommunity 報導，這是 MACHINE Cape Town 的 MARMITE BLOGGER DROP（產品欄 SANDWICH SPREAD）設計銀獅；in 檔代理商寫 PUBLICIS CAPE TOWN，疑為 MACHINE 併入後的現名。in 檔沒有官方【得獎】行，是驗收員照名單自組。建議：本機對官方名單確認。
+- 獎項自組待確認：b043 ltwm-06261 Knacki（HERTA，MOTORBIKE／DOLL HOUSE／DRUM KIT，戶外銀獅，OGILVY FRANCE Paris），in 檔沒有官方預填，【得獎】行是驗收員依官方名單自組。建議：本機確認。
+- 推論待確認：b043 ltwm-06258 Lexus Drive By 的巧思依系列名與音響規格推論成「音響大聲到吵醒沿路住戶」，讀稿已標依畫面解讀，已拿掉 uncertain。建議：本機覺得推論太多可標回 uncertain。
+- 品牌／代理商參考：b043 ltwm-06262 Kaizervirus in 檔寫 HES OSLO，官方是 ANORAK Oslo，稿照官方。
+- 仍 uncertain：b040 ltwm-06224 GIRL（Strepsils 廣播，缺 Girl、Guy 音檔，needs_audio）、ltwm-06233 MORE WOMEN（缺畫面與標語）、ltwm-06651 UNDERWATER DIVER（沒有說明）；b041 ltwm-06241 PARENTAL CONTROL BAR／POOL（缺劇情）、ltwm-06243 PRESS, HOLD（廣播，needs_audio）、ltwm-06235 DUBAI'S GOT CULTURE（缺年曆內容與圖）；b042 ltwm-06249 Nimbletank（缺互動說明）、ltwm-06252 MasterCard Miyamo（缺官方描述）；b043 ltwm-06266 HuffPost UK Conversations Start Here、ltwm-06268 Habitat House（缺作品說明）。
+- 圖不理想：沒圖 b041 Pool、Press/Hold、Dubai's Got Culture、Radio Underground，b043 06266、06268、06269、06267、06262 前多件；圖偏小 b042 06249、06257；看不出點子 b042 06254 Red Stripe（影片單格）。
+- 重複 0；【爭議】新增 0；撤獎 0。

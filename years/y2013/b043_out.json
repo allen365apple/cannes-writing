@@ -34,7 +34,7 @@
   "text_source_level": 2,
   "uncertain": true,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Conversations Start Here Huffington Post UK controversy/fake/withdrawn」，沒有相關結果。官方頁只有標題與獎項；Vimeo 要驗證、adsspot／The Drum／Marketing Week 對爬蟲回 403，打不開。搜尋摘要提到倫敦地鐵螢幕與 Alice Cooper 等部落客，但未打開原頁，未寫入。缺：案例說明、執行描述、圖（官方候選圖 403）。"
+  "note": "已搜爭議：搜「Conversations Start Here Huffington Post UK controversy/fake/withdrawn」，沒有相關結果。官方頁只有標題與獎項；Vimeo 要驗證、adsspot／The Drum／Marketing Week 對爬蟲回 403，打不開。搜尋摘要提到倫敦地鐵螢幕與 Alice Cooper 等部落客，但未打開原頁，未寫入。缺：案例說明、執行描述、圖（官方候選圖 403）。 2026-11-19 Opus 驗：補查：官方 campaign 頁（huffington-post-uk-228016）的 og:image 是一張臉上用筆寫滿字的影片畫面，沒有說明，看不出點子，未採用；The Drum、Netimperative、adsspot 對驗收端也打不開（403／503），仍缺內容，維持 uncertain。Sostav 官方名單確認類別為 Use of Media／Best Use of Screens。"
  },
  {
   "id": "ltwm-06271",
@@ -108,7 +108,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「States United to Prevent Gun Violence Ed ad Grey controversy/fake/withdrawn」，沒有針對這支片的爭議。影片內容依 SHOOT 文章（未直接看影片，Vimeo 要驗證）；片中老槍的描述出自該文章。搜尋摘要提到片尾可在影片上直接連署，未打開原頁，未寫入。找不到好圖：官方候選圖是通用文件圖示（無法用）。官方作品名為「ED」。"
+  "note": "已搜爭議：搜「States United to Prevent Gun Violence Ed ad Grey controversy/fake/withdrawn」，沒有針對這支片的爭議。影片內容依 SHOOT 文章（未直接看影片，Vimeo 要驗證）；片中老槍的描述出自該文章。搜尋摘要提到片尾可在影片上直接連署，未打開原頁，未寫入。找不到好圖：官方候選圖是通用文件圖示（無法用）。官方作品名為「ED」。 2026-11-19 Opus 驗：補查：官方分鏡圖仍是通用文件圖示，沒有可用圖。"
  },
  {
   "id": "ltwm-06262",
@@ -131,20 +131,22 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "挪威樂團 Kaizers Orchestra 推出手機 App，手機靠近就「傳染」新專輯歌曲，一首傳開才放下一首",
+  "idea_one_liner": "挪威樂團 Kaizers Orchestra 把新專輯做成手機「病毒」，靠近已中毒的手機才拿得到新歌，傳得越廣就放出越多首",
   "brand_display": "Kaizers Orchestra",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜行動類銀獅 Mobile Silver Lion｜代理商：ANORAK Oslo\n\n【背景】Kaizers Orchestra 是挪威樂團，2012 年秋天為 Violeta Violeta Vol. III 做宣傳。\n\n【點子】樂團把新專輯做成一場「病毒」：Kaizervirus，宣傳語是「我們來散播 Kaizervirus，你會被感染，而且無藥可醫」。\n\n【執行】2012 年 9 月 7 日 YouTube 先出現一支影片，隔天有了 Kaizervirus 網站。樂團請粉絲說明自己為什麼最適合散播病毒，約一週後選出一人，接著推出手機 App。App 讓彼此靠近的「受感染」使用者互相傳播「病毒」；一個病毒散播到一定程度，下一個才會釋出，粉絲替樂團做了大部分宣傳。整個序列有八個項目，從歌曲 Aldri Vodka, Violeta 開始，到 Perfekt i en drøm 結束。\n\n資料來源：\nhttps://en.wikipedia.org/wiki/Violeta_Violeta",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜行動類銀獅 Mobile Silver Lion｜代理商：ANORAK Oslo\n\n【背景】Kaizers Orchestra 是挪威樂團，2012 年秋天為 Violeta Violeta Vol. III 做宣傳。\n\n【點子】樂團把新專輯做成一場「病毒」：Kaizervirus，宣傳語是「我們來散播 Kaizervirus，你會被感染，而且無藥可醫」。\n\n【執行】2012 年 9 月 7 日 YouTube 先出現一支影片，隔天有了 Kaizervirus 網站。樂團請粉絲說明自己為什麼最適合散播病毒，約一週後選出一人，接著推出手機 App。據挪威科技媒體 TU 的介紹，使用者下載 Kaizervirus App（iOS 與 Android）後讓它在背景執行，然後走到人群裡去「被感染」：被感染就是拿到新專輯裡的一首歌，而唯一拿到的方法，是靠近已經有這首歌的手機。病毒越傳越廣，就有更多首歌變成「會傳染」，直到整張專輯的歌都流出去，活動才結束，正式專輯也同時上架到唱片行與串流平台。App 畫面上有「感染等級」儀表、自己傳染了幾個人的統計，以及像卡帶播放器的播歌畫面。整個序列有八個項目，從歌曲 Aldri Vodka, Violeta 開始，到 Perfekt i en drøm 結束。\n\n資料來源：\nhttps://www.tu.no/artikler/er-du-smittet/229662\nhttps://en.wikipedia.org/wiki/Violeta_Violeta",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 行動類, Mobile, 銀獅, Silver Lion, Kaizers Orchestra, 挪威樂團, ANORAK, HES, 音樂, 專輯宣傳, 手機 App, App, 手機應用, 病毒行銷, Viral, Kaizervirus, 病毒, 粉絲, 挪威, Norway, Violeta Violeta",
   "category": "行銷案例",
   "references": [
+   "https://www.tu.no/artikler/er-du-smittet/229662",
    "https://en.wikipedia.org/wiki/Violeta_Violeta"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://image.tu.no/528549.jpg?imageId=528549&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
+  "image_shows": "三張 Kaizervirus App 畫面截圖：Kaizervirus 標誌與感染等級儀表、「統計」頁顯示已染上的歌 Aldri Vodka, Violeta 與傳染次數、像卡帶播放器的播歌畫面",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Kaizervirus Kaizers Orchestra app controversy/fake/withdrawn」，沒有相關結果。只有英文維基一個來源打開過（Fast Company、Vimeo 打不開）；官方代理商為 ANORAK Oslo（in 檔寫 HES OSLO，以官方為準）。App 以 GPS 傳歌、送演唱會票等細節出自搜尋摘要，未打開原頁，未寫入。維基說八個項目是「歌」的序列，讀稿保留「項目」。缺圖：in 檔無候選圖，沒找到可下載的圖。"
+  "note": "已搜爭議：搜「Kaizervirus Kaizers Orchestra app controversy/fake/withdrawn」，沒有相關結果。只有英文維基一個來源打開過（Fast Company、Vimeo 打不開）；官方代理商為 ANORAK Oslo（in 檔寫 HES OSLO，以官方為準）。App 以 GPS 傳歌、送演唱會票等細節出自搜尋摘要，未打開原頁，未寫入。維基說八個項目是「歌」的序列，讀稿保留「項目」。缺圖：in 檔無候選圖，沒找到可下載的圖。 2026-11-19 Opus 驗：補第二個來源：挪威 TU（2012-09-21）介紹 App 的傳播方式（靠近已有歌曲的手機才會「被感染」、全專輯散出後才上架），已打開原文，讀稿與一句話依此改寫；補圖為 TU 文章的 App 截圖（已下載打開看）。Fast Company 仍打不開。",
+  "idea_one_liner_r0": "挪威樂團 Kaizers Orchestra 推出手機 App，手機靠近就「傳染」新專輯歌曲，一首傳開才放下一首"
  },
  {
   "id": "ltwm-06268",
@@ -180,7 +182,7 @@
   "text_source_level": 2,
   "uncertain": true,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Habitat for Humanity Habitat House Ireland Davenport controversy/fake/withdrawn」，沒有相關結果。官方頁只有標題與獎項；Behance 與 adsspot 回 403。搜尋摘要稱這是 Habitat for Humanity South Africa 的互動式年度報告（海報加可下載 App），未打開原頁，未寫入。缺：作品說明、圖（官方候選圖 403）。"
+  "note": "已搜爭議：搜「Habitat for Humanity Habitat House Ireland Davenport controversy/fake/withdrawn」，沒有相關結果。官方頁只有標題與獎項；Behance 與 adsspot 回 403。搜尋摘要稱這是 Habitat for Humanity South Africa 的互動式年度報告（海報加可下載 App），未打開原頁，未寫入。缺：作品說明、圖（官方候選圖 403）。 2026-11-19 Opus 驗：補查：再搜 Habitat House Ireland Davenport，找不到作品說明；官方卡片檔名為 poster_front（海報正面），圖已過期打不開，仍缺內容，維持 uncertain。"
  },
  {
   "id": "ltwm-06267",
@@ -217,7 +219,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Art Series Hotels Overstay Checkout controversy/fake/withdrawn」，沒有造假或撤獎；只有留言質疑「world first」說法，屬評論，未寫入。內容主要依 Mumbrella 一篇（官網 overstay 頁現在已換成別的優惠，沒有可用內容）。缺圖：官方候選圖 403；YouTube 縮圖只是微波爐畫面，不能用。"
+  "note": "已搜爭議：搜「Art Series Hotels Overstay Checkout controversy/fake/withdrawn」，沒有造假或撤獎；只有留言質疑「world first」說法，屬評論，未寫入。內容主要依 Mumbrella 一篇（官網 overstay 頁現在已換成別的優惠，沒有可用內容）。缺圖：官方候選圖 403；YouTube 縮圖只是微波爐畫面，不能用。 2026-11-19 Opus 驗：補查：官方卡片的影片分鏡圖是飯店外觀夜景（The Olsen 招牌），看不出點子，未採用；仍沒有可用圖。"
  },
  {
   "id": "ltwm-06261",
@@ -231,29 +233,32 @@
    "https://www.adsoftheworld.com/campaign/knacki-ogilvy-06-2013"
   ],
   "decision": "收",
-  "awards": [],
-  "awards_unverified": [
+  "awards": [
    {
     "level": "Silver",
     "category": "Outdoor",
-    "source": "La Réclame 搜尋結果，未驗證"
+    "subcategory": "Foods",
+    "count": 1,
+    "source_count": 3
    }
   ],
+  "awards_unverified": [],
   "idea_one_liner": "法國 Herta Knacki 香腸廣告：孩子收到鼓組等大禮跳起來，換成 1.59 歐元香腸，孩子照樣跳",
   "brand_display": "Herta Knacki",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜戶外類銀獅 Outdoor Silver Lion（官方得獎名單查不到，依 La Réclame 搜尋結果，待驗證）｜代理商：OGILVY PARIS\n\n【點子】依作品畫面解讀：每張廣告都是左右兩格。左格裡，大人手上拿著綁蝴蝶結的禮物（鼓棒與鼓組、娃娃與娃娃屋、鑰匙與小摩托車），孩子開心跳到半空。右格是同一個瞬間，大人手上換成一包 Herta Knacki 香腸，禮物都不見了，孩子的姿勢與表情完全沒變，右下角黃色價格標籤寫著「1,59€」，標語是「WHY PAY MORE?」（為什麼要多花錢？）。\n\n【執行】Ads of the World 把這組戶外作品列為「Drum kit, Doll house, Motorbike」，三張分別是客廳、臥室、廚房裡跳起來的孩子，法國 2013 年 6 月發布，Ogilvy 法國製作。\n\n資料來源：\nhttps://www.adsoftheworld.com/campaigns/drum-kit\nhttps://image.adsoftheworld.com/x4plp4pft4tn9q0ce05g3sn2uqxf",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 戶外類, Outdoor, 銀獅, Silver Lion, Knacki, Herta, 香腸, 食品, OGILVY PARIS, Ogilvy, 平面廣告, 戶外廣告, 海報, 對比, 價格, 低價, 禮物, 蝴蝶結, 孩子, 鼓組, 娃娃屋, 小摩托車, 法國, France, Why Pay More",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜戶外類銀獅 Outdoor Silver Lion｜代理商：OGILVY FRANCE Paris\n\n【點子】依作品畫面解讀：每張廣告都是左右兩格。左格裡，大人手上拿著綁蝴蝶結的禮物（鼓棒與鼓組、娃娃與娃娃屋、鑰匙與小摩托車），孩子開心跳到半空。右格是同一個瞬間，大人手上換成一包 Herta Knacki 香腸，禮物都不見了，孩子的姿勢與表情完全沒變，右下角黃色價格標籤寫著「1,59€」，標語是「WHY PAY MORE?」（為什麼要多花錢？）。\n\n【執行】官方報名的是 MOTORBIKE、DOLL HOUSE、DRUM KIT 三張看板與街道家具廣告（Ads of the World 也把這組列為「Drum kit, Doll house, Motorbike」），三張分別是客廳、臥室、廚房裡跳起來的孩子，2013 年 6 月在法國刊出，由 Ogilvy France（巴黎）為 Herta 的 Knacki 香腸製作。\n\n資料來源：\nhttps://www.sostav.ru/columns/canneslions2009/2013/winner_outdoor/\nhttps://www.adsoftheworld.com/campaigns/drum-kit\nhttps://image.adsoftheworld.com/x4plp4pft4tn9q0ce05g3sn2uqxf",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 戶外類, Outdoor, 看板與街道家具, Billboards & Street Furniture, 銀獅, Silver Lion, Knacki, Herta, 香腸, 食品, OGILVY FRANCE, OGILVY FRANCE Paris, Ogilvy Paris, Ogilvy, 平面廣告, 戶外廣告, 海報, 對比, 價格, 低價, 禮物, 蝴蝶結, 孩子, 鼓組, 娃娃屋, 小摩托車, 法國, France, Why Pay More",
   "category": "行銷案例",
   "references": [
+   "https://www.sostav.ru/columns/canneslions2009/2013/winner_outdoor/",
    "https://www.adsoftheworld.com/campaigns/drum-kit",
    "https://image.adsoftheworld.com/x4plp4pft4tn9q0ce05g3sn2uqxf"
   ],
   "image_url": "https://image.adsoftheworld.com/x4plp4pft4tn9q0ce05g3sn2uqxf",
   "image_shows": "左右對照廣告：左格孩子在客廳跳起來、大人拿綁蝴蝶結的鼓棒與鼓組；右格同樣畫面換成一包 Herta Knacki 香腸，右下角 1,59€ 價格標籤與「WHY PAY MORE?」",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "in 檔 official 沒有任何得獎資料：官方得獎名單沒找到這件。La Réclame 搜尋結果稱 Herta Knacki 得 2013 戶外類銀獅（頁面 403，未打開，只在此 note 提供線索）。作品名 WHY PAY MORE? 與 Ads of the World 的「Drum kit, Doll house, Motorbike」是否同一件，無法在官方確認，請驗收員核對獎項與作品。已搜爭議：搜「Herta Knacki Why pay more Ogilvy Paris controversy/fake/withdrawn」，沒有相關結果。依作品畫面解讀，無文字說明。"
+  "note": "in 檔 official 沒有任何得獎資料：官方得獎名單沒找到這件。La Réclame 搜尋結果稱 Herta Knacki 得 2013 戶外類銀獅（頁面 403，未打開，只在此 note 提供線索）。作品名 WHY PAY MORE? 與 Ads of the World 的「Drum kit, Doll house, Motorbike」是否同一件，無法在官方確認，請驗收員核對獎項與作品。已搜爭議：搜「Herta Knacki Why pay more Ogilvy Paris controversy/fake/withdrawn」，沒有相關結果。依作品畫面解讀，無文字說明。 2026-11-19 Opus 驗：獎項已驗證：Sostav 轉載的 2013 坎城戶外類得獎名單，銀獅段列 HERTA／KNACKI／OGILVY FRANCE Paris 的 MOTORBIKE、DOLL HOUSE、DRUM KIT 三件（Billboards & Street Furniture／Foods），與 Ads of the World 的 Drum kit, Doll house, Motorbike 是同一組。【得獎】行改成官方代理商 OGILVY FRANCE Paris、拿掉「待驗證」，awards 補上、awards_unverified 清空，拿掉 uncertain（畫面上 1,59€ 與 WHY PAY MORE? 已說清楚巧思）。in 檔沒有 official，【得獎】行依官方名單自組。"
  },
  {
   "id": "ltwm-06259",
@@ -276,21 +281,25 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "智利 Inova LED 手電筒的兩張平面廣告「Rat」「Window」，畫面內容待補",
+  "idea_one_liner": "智利 Inova LED 手電筒廣告：光照到的只是小老鼠、被風吹動的窗簾，光外的黑暗裡影子越長越像怪物，標語是別讓聲音玩弄你的想像",
   "brand_display": "Inova",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜Press類銀獅 Press Silver Lion｜代理商：OGILVY & MATHER CHILE Santiago\n\n【點子】Inova 是 LED 手電筒品牌。官方報名的作品名是「RAT」與「WINDOW」，在 Press 類得銀獅。Ads of the World 頁面列出創意人員（Ogilvy & Mather Chile）與兩張圖片，但沒有描述畫面與標語；目前打開過的頁面看不到圖，所以這裡不寫畫面內容。\n\n資料來源：\nhttps://www.adsoftheworld.com/campaigns/window-df95bfdc-cb72-4fca-89f2-738804f71f14\nhttps://www.lovethework.com/en/work/entries/window-200537",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 平面類, Press, 家電與家具, Home Appliances & Furnishings, 銀獅, Silver Lion, Inova, LED 手電筒, 手電筒, OGILVY & MATHER CHILE, Ogilvy, 平面廣告, 智利, Chile, 老鼠, 窗戶",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜Press類銀獅 Press Silver Lion｜代理商：OGILVY & MATHER CHILE Santiago\n\n【點子】依作品畫面解讀：半夜聽到怪聲，人會在黑暗裡自己想像出怪物；只要手電筒一照，就會發現其實沒什麼。兩張廣告把「想像出來的怪物」和「真相」畫在同一個畫面裡，右側標語寫「DON'T LET SOUNDS PLAY WITH YOUR IMAGINATION.」（別讓聲音玩弄你的想像），下面是 INOVA LED FLASHLIGHTS。\n\n【執行】兩張都是幾乎全黑的畫面，右下角地上躺著一支打開的手電筒，光束照亮一小塊地面。Rat 那張，光裡是一隻普通的小老鼠，牠身後往暗處排著一隻比一隻大的身影，越來越不像老鼠，最後變成長角、滿嘴尖牙的怪物；Window 那張，光裡是一扇開著、白色窗簾被風吹起的窗戶，後方的黑暗裡浮出一個比一個大、瞪著藍色眼睛的鬼影。官方報名的兩件作品就是 RAT 與 WINDOW。Ads of the World 列出這組由 Ogilvy & Mather（智利聖地牙哥）製作，2013 年 7 月在智利刊出，創意總監 Francisco Camacho，文案兼美術 Cristián Costa，插畫 Salamágica。\n\n資料來源：\nhttps://www.adsoftheworld.com/campaigns/window-df95bfdc-cb72-4fca-89f2-738804f71f14\nhttps://image.adsoftheworld.com/w3f3d1hjszc8cgq999sn58s6kt2i\nhttps://image.adsoftheworld.com/14msm5ka6nmkatiy4klc8gxjbhs2\nhttps://www.lovethework.com/en/work/entries/window-200537\nhttps://www.sostav.ru/columns/canneslions2009/2013/winner_press/",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 平面類, Press, 家電與家具, Home Appliances & Furnishings, 銀獅, Silver Lion, Inova, LED 手電筒, 手電筒, OGILVY & MATHER CHILE, Ogilvy, 平面廣告, 智利, Chile, 老鼠, 窗戶, 怪物, 影子, 想像, 恐懼, 黑暗, 光束, 窗簾, 插畫, 對比, 誇張, Rat, Window",
   "category": "行銷案例",
   "references": [
    "https://www.adsoftheworld.com/campaigns/window-df95bfdc-cb72-4fca-89f2-738804f71f14",
-   "https://www.lovethework.com/en/work/entries/window-200537"
+   "https://image.adsoftheworld.com/w3f3d1hjszc8cgq999sn58s6kt2i",
+   "https://image.adsoftheworld.com/14msm5ka6nmkatiy4klc8gxjbhs2",
+   "https://www.lovethework.com/en/work/entries/window-200537",
+   "https://www.sostav.ru/columns/canneslions2009/2013/winner_press/"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://image.adsoftheworld.com/w3f3d1hjszc8cgq999sn58s6kt2i",
+  "image_shows": "全黑畫面裡，地上的手電筒照著一隻小老鼠，牠身後的暗處排著越來越大、長角露牙的怪物身影；右側標語 DON'T LET SOUNDS PLAY WITH YOUR IMAGINATION. 與 INOVA LED FLASHLIGHTS",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Inova LED flashlights Ogilvy Chile rat window controversy/fake/withdrawn」，沒有相關結果。缺：兩張廣告的畫面（Ads of the World 頁面只有圖檔沒有說明，我沒能取得圖片網址），官方候選圖 403。作品名 rat／window 只從官方 entry_titles 與標題得知，畫面內容未寫。"
+  "note": "已搜爭議：搜「Inova LED flashlights Ogilvy Chile rat window controversy/fake/withdrawn」，沒有相關結果。缺：兩張廣告的畫面（Ads of the World 頁面只有圖檔沒有說明，我沒能取得圖片網址），官方候選圖 403。作品名 rat／window 只從官方 entry_titles 與標題得知，畫面內容未寫。 2026-11-19 Opus 驗：用 Ads of the World 頁上的兩張作品圖（已下載打開看）補寫畫面與標語，依作品畫面解讀，無文字說明；標語本身說明了巧思，拿掉 uncertain。Sostav 官方名單確認 RAT、WINDOW 同獲 Press 銀獅。 程式檢查標「疑似全黑」是作品本身大面積黑底，已人工確認老鼠、怪物與標語都看得到。",
+  "idea_one_liner_r0": "智利 Inova LED 手電筒的兩張平面廣告「Rat」「Window」，畫面內容待補"
  },
  {
   "id": "ltwm-06258",
@@ -313,21 +322,23 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "Lexus GS 平面廣告拍夜間空拍住宅區，只有沿街一排房子亮著燈，標示 835 瓦 17 喇叭音響",
+  "idea_one_liner": "Lexus GS 平面廣告拍夜晚空拍的住宅區，只有一條街沿路的房子燈全亮，像車開過去時音響太大聲，把整排住戶吵醒",
   "brand_display": "Lexus",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜Press類銀獅 Press Silver Lion｜代理商：SAATCHI & SAATCHI AUSTRALIA Sydney\n\n【點子】依作品畫面解讀：官方報名的三支作品是「SUBURBS」「DOWNTOWN」「ESTATE」，Ads of the World 把整組列為「Drive By」系列。三張都是夜晚的空拍照：整片住宅區幾乎全黑，只有沿著蜿蜒街道的一排房子，窗戶與門口亮著燈，像一條光線沿路穿過社區。畫面一角印著 Lexus 標誌與小字「835W. 17 SPEAKER MARK LEVINSON SOUND SYSTEM. NEW LEXUS GS.」（835 瓦、17 個喇叭的 Mark Levinson 音響系統，全新 Lexus GS）。\n\n【執行】三張分別是英式聯排住宅（Downtown 版）、有大片高樓的蘇格蘭式住宅區（Suburbs 版，依畫面判斷）與低矮平房的美式郊區（Estate 版）。Ads of the World 列出創意人員為 Saatchi & Saatchi Sydney 的 Damon Stapleton、Nils Eberhardt、Steve May，2012 年 6 月在澳洲發布。\n\n資料來源：\nhttps://www.adsoftheworld.com/campaigns/drive-by-downtown\nhttps://image.adsoftheworld.com/uu5v6835dhk3z2nkkdwfx20hn5p0",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜Press類銀獅 Press Silver Lion｜代理商：SAATCHI & SAATCHI AUSTRALIA Sydney\n\n【點子】依作品畫面解讀：官方報名的三件作品是「SUBURBS」「DOWNTOWN」「ESTATE」，Ads of the World 把整組列為「Drive By」系列。三張都是夜晚的空拍照：整片住宅區幾乎全黑，只有沿著一條蜿蜒街道的房子，窗戶與門口一路亮著燈，像一條光線穿過社區。畫面一角印著 Lexus 標誌與小字「835W. 17 SPEAKER MARK LEVINSON SOUND SYSTEM. NEW LEXUS GS.」（835 瓦、17 個喇叭的 Mark Levinson 音響系統，全新 Lexus GS）。系列名 Drive By（開車經過）加上音響規格，讓亮燈的那條路讀起來就是車子剛開過的路線：音響聲音大到沿路住戶都被吵醒開燈。\n\n【執行】三張用的是不同型態的住宅區空拍，有聯排房屋、有高樓與住宅混合的社區，也有低矮平房的郊區，同樣都只有一條路線亮燈。Ads of the World 列出創意人員為 Saatchi & Saatchi Sydney 的 Damon Stapleton、Nils Eberhardt、Steve May，2012 年 6 月在澳洲發布。\n\n資料來源：\nhttps://www.adsoftheworld.com/campaigns/drive-by-downtown\nhttps://image.adsoftheworld.com/uu5v6835dhk3z2nkkdwfx20hn5p0\nhttps://www.sostav.ru/columns/canneslions2009/2013/winner_press/",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 平面類, Press, 汽車, Cars, 銀獅, Silver Lion, Lexus, 凌志, 雷克薩斯, Lexus GS, SAATCHI & SAATCHI, Saatchi & Saatchi Sydney, 平面廣告, 空拍, 夜景, 住宅區, 窗戶燈光, 音響, Mark Levinson, 汽車音響, 澳洲, Australia, Drive By",
   "category": "行銷案例",
   "references": [
    "https://www.adsoftheworld.com/campaigns/drive-by-downtown",
-   "https://image.adsoftheworld.com/uu5v6835dhk3z2nkkdwfx20hn5p0"
+   "https://image.adsoftheworld.com/uu5v6835dhk3z2nkkdwfx20hn5p0",
+   "https://www.sostav.ru/columns/canneslions2009/2013/winner_press/"
   ],
   "image_url": "https://image.adsoftheworld.com/uu5v6835dhk3z2nkkdwfx20hn5p0",
   "image_shows": "夜間空拍住宅區，整片昏暗，只有沿蜿蜒街道的一排房子亮著燈，右上角 Lexus 標誌與「835W. 17 SPEAKER MARK LEVINSON SOUND SYSTEM. NEW LEXUS GS.」",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "依作品畫面解讀，無文字說明；亮燈街道與音響的關係（創意巧思）沒有找到官方或報導說明，讀稿只描述看得到的畫面，所以 uncertain。三張圖的地點對應（哪張是 Downtown／Suburbs／Estate）是我從畫面推測，已在讀稿標「依畫面判斷」，請驗收員留意；需要時可刪該句。官方作品名三支都對得上。已搜爭議：搜「Lexus GS Mark Levinson Drive By Saatchi Sydney controversy/fake/withdrawn」，沒有相關結果。"
+  "note": "依作品畫面解讀，無文字說明；亮燈街道與音響的關係（創意巧思）沒有找到官方或報導說明，讀稿只描述看得到的畫面，所以 uncertain。三張圖的地點對應（哪張是 Downtown／Suburbs／Estate）是我從畫面推測，已在讀稿標「依畫面判斷」，請驗收員留意；需要時可刪該句。官方作品名三支都對得上。已搜爭議：搜「Lexus GS Mark Levinson Drive By Saatchi Sydney controversy/fake/withdrawn」，沒有相關結果。 2026-11-19 Opus 驗：刪掉寫手自己推測的「哪張是 Downtown／Suburbs／Estate」對應句（官方檔名雖有 print_drive_by_downtown 等，但官方圖已過期打不開，無法逐張對應），改成不分張的描述。巧思依系列名 Drive By、音響規格與畫面判斷（依作品畫面解讀，無文字說明），讀稿已標明，拿掉 uncertain；如主對話覺得推論太多可再標回。Sostav 官方名單確認三件同獎。",
+  "idea_one_liner_r0": "Lexus GS 平面廣告拍夜間空拍住宅區，只有沿街一排房子亮著燈，標示 835 瓦 17 喇叭音響"
  },
  {
   "id": "ltwm-06272",
@@ -364,6 +375,6 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Royal Mail Gold Medal Winner stamps UM London Cannes media Lion controversy/fake/withdrawn」，沒有相關結果。24 小時內開賣出自 ChannelX 轉述 Royal Mail 說法；每枚郵票印法、媒體投放、銷量等沒有打開過的來源，未寫入。官方 lovethework 頁只有標題與獎項。缺圖：官方候選圖 403。"
+  "note": "已搜爭議：搜「Royal Mail Gold Medal Winner stamps UM London Cannes media Lion controversy/fake/withdrawn」，沒有相關結果。24 小時內開賣出自 ChannelX 轉述 Royal Mail 說法；每枚郵票印法、媒體投放、銷量等沒有打開過的來源，未寫入。官方 lovethework 頁只有標題與獎項。缺圖：官方候選圖 403。 2026-11-19 Opus 驗：補查：Sostav 官方名單確認此件為 Media 類 Product & Service／Commercial Public Services 銀獅（UM London）；沒有找到可用圖。讀稿只有 ChannelX 一個內容來源，事實單薄但無推測。"
  }
 ]
