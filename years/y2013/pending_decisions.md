@@ -117,5 +117,5 @@
 - 推論待確認：b043 ltwm-06258 Lexus Drive By 的巧思依系列名與音響規格推論成「音響大聲到吵醒沿路住戶」，讀稿已標依畫面解讀，已拿掉 uncertain。建議：本機覺得推論太多可標回 uncertain。
 - 品牌／代理商參考：b043 ltwm-06262 Kaizervirus in 檔寫 HES OSLO，官方是 ANORAK Oslo，稿照官方。
 - 仍 uncertain：b040 ltwm-06224 GIRL（Strepsils 廣播，缺 Girl、Guy 音檔，needs_audio）、ltwm-06233 MORE WOMEN（缺畫面與標語）、ltwm-06651 UNDERWATER DIVER（沒有說明）；b041 ltwm-06241 PARENTAL CONTROL BAR／POOL（缺劇情）、ltwm-06243 PRESS, HOLD（廣播，needs_audio）、ltwm-06235 DUBAI'S GOT CULTURE（缺年曆內容與圖）；b042 ltwm-06249 Nimbletank（缺互動說明）、ltwm-06252 MasterCard Miyamo（缺官方描述）；b043 ltwm-06266 HuffPost UK Conversations Start Here、ltwm-06268 Habitat House（缺作品說明）。
-- 圖不理想：沒圖 b041 Pool、Press/Hold、Dubai's Got Culture、Radio Underground，b043 06266、06268、06269、06267、06262 前多件；圖偏小 b042 06249、06257；看不出點子 b042 06254 Red Stripe（影片單格）。
+- 圖不理想：沒圖 b041 Pool、Press/Hold、Dubai's Got Culture、Radio Underground，b043 06266、06268、06269、06267、06272；圖偏小 b042 06249、06257；看不出點子 b042 06254 Red Stripe（影片單格）。
 - 重複 0；【爭議】新增 0；撤獎 0。
