@@ -128,7 +128,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 頁面抓不到內容（in 檔的卡片連結 192064 打開是別支作品，未列入）。內容依 The Next Web 與 Ads of the World 整理；Campaign Brief 連結 404。官方報名三個獎項（Cyber 兩項、Direct 一項）。圖是 BBDO 官方 YouTube 影片縮圖，是這件作品、看得到參與者與糖果。Next Web 提到的「廣告主稱成功、計畫推到全球」屬成效，未寫入。已搜爭議：搜「Skittles Telekinize the Rainbow controversy／fake／fraud／withdrawn」，只出現 Skittles 別支活動的爭議，本作沒有。"
+  "note": "官方 lovethework 頁面抓不到內容（in 檔的卡片連結 192064 打開是別支作品，未列入）。內容依 The Next Web 與 Ads of the World 整理；Campaign Brief 連結 404。官方報名三個獎項（Cyber 兩項、Direct 一項）。圖是 BBDO 官方 YouTube 影片縮圖，是這件作品、看得到參與者與糖果。Next Web 提到的「廣告主稱成功、計畫推到全球」屬成效，未寫入。已搜爭議：搜「Skittles Telekinize the Rainbow controversy／fake／fraud／withdrawn」，只出現 Skittles 別支活動的爭議，本作沒有。 2026-11-21 Opus 驗：The Next Web 網址用 GET 打開正常（程式 HEAD 誤判 404），保留。"
  },
  {
   "id": "ltwm-06408",
@@ -166,7 +166,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 頁面沒有內文，內容依 One Show 作品頁整理；LBB 連結 403 打不開。圖來自 One Show 作品頁（官方 case board 下載 403）。官方代理商 OMD Wellington，in 檔與 Cannes 頁寫 Clemenger BBDO Wellington，【得獎】行照官方，讀稿註明創意方。搜尋摘要提到玩家自己的相簿照片出現在撞車畫面，來源頁沒寫，未寫入；各種減速成效數字屬成效，未寫入。已搜爭議：搜「NZTA Flash driving game controversy／complaint／fake／withdrawn」，沒有爭議紀錄。"
+  "note": "官方 lovethework 頁面沒有內文，內容依 One Show 作品頁整理；LBB 連結 403 打不開。圖來自 One Show 作品頁（官方 case board 下載 403）。官方代理商 OMD Wellington，in 檔與 Cannes 頁寫 Clemenger BBDO Wellington，【得獎】行照官方，讀稿註明創意方。搜尋摘要提到玩家自己的相簿照片出現在撞車畫面，來源頁沒寫，未寫入；各種減速成效數字屬成效，未寫入。已搜爭議：搜「NZTA Flash driving game controversy／complaint／fake／withdrawn」，沒有爭議紀錄。 2026-11-21 Opus 驗：事實抽查 One Show 頁（臉書登入、撞車後人生閃過、You only get one life. Slow down.、不能重玩）相符；One Show 列 Clemenger BBDO Wellington，官方 award_line 是 OMD Wellington（媒體類多由媒體代理商報名），維持官方。"
  },
  {
   "id": "ltwm-06523",
@@ -243,7 +243,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 頁面只有標題；內容只有 Adweek 一篇報導，YouTube 影片頁被擋、Shoot、Trend Hunter 等頁連不上，所以只寫 Adweek 有講的部分，沒寫完整劇情與結尾，其餘資料來源較薄、請驗收員留意。官方作品名 FIGURINES 與 Adweek 報導的互動影片（獨角獸、青蛙、鳥、猴子）內容對得上，但報導沒有直接寫作品名，是依畫面與內容判斷。已搜爭議：搜「Skittles figurines smash the rainbow controversy／complaint／fake」，沒有爭議紀錄。"
+  "note": "官方 lovethework 頁面只有標題；內容只有 Adweek 一篇報導，YouTube 影片頁被擋、Shoot、Trend Hunter 等頁連不上，所以只寫 Adweek 有講的部分，沒寫完整劇情與結尾，其餘資料來源較薄、請驗收員留意。官方作品名 FIGURINES 與 Adweek 報導的互動影片（獨角獸、青蛙、鳥、猴子）內容對得上，但報導沒有直接寫作品名，是依畫面與內容判斷。已搜爭議：搜「Skittles figurines smash the rainbow controversy／complaint／fake」，沒有爭議紀錄。 2026-11-21 Opus 驗：Adweek 內文提到 porcelain unicorn、Grandma's knickknacks、兩隻青蛙兩隻鳥一隻猴子，文章配圖檔名含 figurines，作品名 FIGURINES 對得上。"
  },
  {
   "id": "ltwm-06410",
@@ -391,7 +391,7 @@
   "awards_unverified": [],
   "idea_one_liner": "義大利網路公司 Fastweb 一夜之間把米蘭 Moscova 地鐵站布置成東京澀谷站，用日本演員，證明光纖快得像瞬間到日本",
   "brand_display": "Fastweb",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜媒體類銅獅 Media Bronze Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：M&C SAATCHI Milan\n\n【背景】Fastweb 是義大利的網路與光纖業者，2000 年在米蘭推出第一批光纖連線。活動 Fastline 想證明它的光纖快到能把人瞬間帶到世界另一端。\n\n【點子】既然網路快得像「瞬間移動」，就讓通勤的米蘭人在日常地鐵站裡，一覺醒來「到了東京」。\n\n【執行】2013 年 1 月，Fastweb 與 M&C Saatchi Milan 把米蘭 Moscova 地鐵站一夜之間改造成東京澀谷站的樣子：家具、招牌與 Fastweb 廣告都是漫畫風並寫日文，螢幕播新聞，還加了一個小賣店，廣播用日文報列車進站。約一百多位日本風打扮的演員扮成上班族、哥德蘿莉、和服少女等角色，邀請路人體驗光纖的速度。站內海報上的 QR code 能讓手機把日文廣告翻成義大利文，也能在臉書或 Foursquare 打卡「到了澀谷」。活動用 #fastline 在社群上直播。案例圖是站台上一位穿白底紅花和服、化白妝的演員，被路人用手機拍照。\n\n資料來源：\nhttps://fastweb.it/corporate/media/comunicati-stampa/la-velocita-dellultrafibra-fastweb/?lng=EN\nhttps://www.brandingmag.com/?p=45001",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜媒體類銅獅 Media Bronze Lion、Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：M&C SAATCHI Milan\n\n【背景】Fastweb 是義大利的網路與光纖業者，2000 年在米蘭推出第一批光纖連線。活動 Fastline 想證明它的光纖快到能把人瞬間帶到世界另一端。\n\n【點子】既然網路快得像「瞬間移動」，就讓通勤的米蘭人在日常地鐵站裡，一覺醒來「到了東京」。\n\n【執行】2013 年 1 月，Fastweb 與 M&C Saatchi Milan 把米蘭 Moscova 地鐵站一夜之間改造成東京澀谷站的樣子：家具、招牌與 Fastweb 廣告都是漫畫風並寫日文，螢幕播新聞，還加了一個小賣店，廣播用日文報列車進站。上百位日本風打扮的臨時演員扮成上班族、哥德蘿莉、和服少女等角色，邀請路人體驗光纖的速度。站內海報上的 QR code 能讓手機把日文廣告翻成義大利文，也能在臉書或 Foursquare 打卡「到了澀谷」。活動用 #fastline 在社群上直播。案例圖是站台上一位穿白底紅花和服、化白妝的演員，被路人用手機拍照。\n\n資料來源：\nhttps://fastweb.it/corporate/media/comunicati-stampa/la-velocita-dellultrafibra-fastweb/?lng=EN\nhttps://www.brandingmag.com/?p=45001",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 媒體類, Media, Promo & Activation類, Promo & Activation, 銅獅, Bronze Lion, 現場活動與特技, Special Events and Stunt/Live Advertising, 體驗式行銷, Experiential Marketing, Fastweb, 光纖, 網路, 寬頻, 電信, Internet, Optical Fiber, M&C SAATCHI Milan, M&C Saatchi, 地鐵站, 地鐵, Moscova, 澀谷, Shibuya, 東京, Tokyo, 日本, 演員, 和服, 漫畫風, 日文, QR code, 打卡, Foursquare, 臉書, 快閃, 場景改造, 義大利, Italy, 米蘭, Milan, 製作物：澀谷風地鐵站布景, 戶外廣告, 看板",
   "category": "行銷案例",
   "references": [
@@ -403,6 +403,6 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 頁面沒有內文，內容依 Fastweb 新聞稿與 Brandingmag 整理。演員人數兩處說法不同（一百多位、120 位），讀稿寫「一百多位」。圖來自 Brandingmag（官方 case board 下載 403），是活動現場影片截圖。打卡數、到場人數、流量增加等數字屬成效，未寫入。已搜爭議：搜「Fastweb Fastline Shibuya Moscova metro stunt controversy／fake／withdrawn／complaint」，沒有爭議紀錄。"
+  "note": "官方 lovethework 頁面沒有內文，內容依 Fastweb 新聞稿與 Brandingmag 整理。演員人數兩處說法不同（一百多位、120 位），讀稿寫「一百多位」。圖來自 Brandingmag（官方 case board 下載 403），是活動現場影片截圖。打卡數、到場人數、流量增加等數字屬成效，未寫入。已搜爭議：搜「Fastweb Fastline Shibuya Moscova metro stunt controversy／fake／withdrawn／complaint」，沒有爭議紀錄。 2026-11-21 Opus 驗：事實抽查 Fastweb 新聞稿（2013/1/21、Moscova→澀谷、QR code、FB／Foursquare 打卡、#fastline、2000 年首批光纖）相符；新聞稿寫 centinaia di comparse（上百位臨演），改「上百位」。"
  }
 ]

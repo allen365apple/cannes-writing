@@ -111,7 +111,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方頁面只有標題與類別，內容依 Kyoorius 提名頁（agency 案例說明）與 afaqs 報導整理；Kyoorius 頁面的成效句與成本以外的說法未寫入。圖用 The Better India 報導的作品對照圖（左 Help Desk 作品照、右孩子趴地寫字；官方 case board 沒找到，Kyoorius 頁面的作品照只有 420px 太小）。報導頁本身只讀了標題，未列入資料來源。官方獎項是直效類 Best Low Budget Campaign。已搜爭議：搜「DDB Mudra Aarambh Help Desk cardboard desk controversy／fake／scam／withdrawn」，沒有找到相關指控。搜尋摘要提到的其他內容未寫入。"
+  "note": "官方頁面只有標題與類別，內容依 Kyoorius 提名頁（agency 案例說明）與 afaqs 報導整理；Kyoorius 頁面的成效句與成本以外的說法未寫入。圖用 The Better India 報導的作品對照圖（左 Help Desk 作品照、右孩子趴地寫字；官方 case board 沒找到，Kyoorius 頁面的作品照只有 420px 太小）。報導頁本身只讀了標題，未列入資料來源。官方獎項是直效類 Best Low Budget Campaign。已搜爭議：搜「DDB Mudra Aarambh Help Desk cardboard desk controversy／fake／scam／withdrawn」，沒有找到相關指控。搜尋摘要提到的其他內容未寫入。 2026-11-21 Opus 驗：事實抽查 Kyoorius（回收紙箱、每件不到二十美分、馬哈拉施特拉邦鄉下學校、可折成書包）與 afaqs（Navi Mumbai-based NGO、直效類銅獅）相符。"
  },
  {
   "id": "ltwm-06424",
@@ -226,7 +226,7 @@
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": false,
-  "note": "uncertain：沒有找到任何文字說明，依作品畫面解讀，無文字說明；只看到四張中的一張，另三張的內容與整組海報的意圖未確認。LTW 頁面只有標題與類別（Outdoor > Posters），acontecendoaqui 只列出作品名。官方獎項寫「Publications & Media」，in 檔記為戶外類銅獅。海報上是誰的檔案照沒有文字標註，未寫入姓名。已搜爭議：搜「Billboard Brasil Ogilvy outdoor Cannes 2013 mugshot Bryan Adams controversy／fake／withdrawn」，沒有找到相關指控。搜尋摘要提到的其他內容未寫入。"
+  "note": "uncertain：沒有找到任何文字說明，依作品畫面解讀，無文字說明；只看到四張中的一張，另三張的內容與整組海報的意圖未確認。LTW 頁面只有標題與類別（Outdoor > Posters），acontecendoaqui 只列出作品名。官方獎項寫「Publications & Media」，in 檔記為戶外類銅獅。海報上是誰的檔案照沒有文字標註，未寫入姓名。已搜爭議：搜「Billboard Brasil Ogilvy outdoor Cannes 2013 mugshot Bryan Adams controversy／fake／withdrawn」，沒有找到相關指控。搜尋摘要提到的其他內容未寫入。 2026-11-21 Opus 驗：打開案例板確認；照片號碼牌日期是 06-27-95，海報印 JULY 27, 1995，兩者不同，未寫入。人物身分無文字標註，維持不寫名、uncertain。"
  },
  {
   "id": "ltwm-06430",
@@ -264,7 +264,7 @@
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": false,
-  "note": "uncertain：官方頁面只有標題、客戶與類別（Design > Environmental Design），打開的頁面都沒有說明文字；adsspot、AdForum、YouTube 連結都回 403 或被擋，沒能打開。搜尋摘要有提到氣球造型的點滴袋，但那只是搜尋摘要，未寫入、未查證。官方獎項為設計類 Public Spaces。已搜爭議：搜「Sanofi Happy Shot Publicis Shanghai controversy／fake／withdrawn」，沒有找到相關指控。圖：候選圖 403，沒有找到可用的圖。"
+  "note": "uncertain：官方頁面只有標題、客戶與類別（Design > Environmental Design），打開的頁面都沒有說明文字；adsspot、AdForum、YouTube 連結都回 403 或被擋，沒能打開。搜尋摘要有提到氣球造型的點滴袋，但那只是搜尋摘要，未寫入、未查證。官方獎項為設計類 Public Spaces。已搜爭議：搜「Sanofi Happy Shot Publicis Shanghai controversy／fake／withdrawn」，沒有找到相關指控。圖：候選圖 403，沒有找到可用的圖。 2026-11-21 Opus 驗：再搜：lovethework 頁文字由 JS 載入抓不到，Lürzer's Archive 403；entry 頁的分鏡圖只有孩子打針哭的畫面，看不出點子，未採用。搜尋摘要提到氣球造型點滴袋，未打開原文，未寫入。維持 uncertain。"
  },
  {
   "id": "ltwm-06429",
@@ -290,19 +290,20 @@
   "awards_unverified": [],
   "idea_one_liner": "英國零食 Fridge Raiders 用俚語 Hank Marvin（餓扁了）當梗，讓學生扮成同名吉他手跳舞",
   "brand_display": "Mattessons Fridge Raiders",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜影片類銅獅 Film Bronze Lion｜代理商：SAATCHI & SAATCHI London\n\n【背景】Fridge Raiders 是英國 Mattessons 的肉類零食，這支廣告把它定位成餓了就拿來吃的點心。\n\n【點子】英國俚語裡「Hank Marvin」是「starving（餓扁了）」的諧音說法，而 Hank Marvin 本來是英國吉他手。廣告把這個雙關拍成畫面：餓的時候，你就是 Hank Marvin。\n\n【執行】影片裡一群學生打扮成 Hank Marvin：戴粗框眼鏡、拿紅色 Fender 電吉他，跳著整齊的舞步。配樂是〈Apache〉的翻唱版（原曲由 The Shadows 演奏，廣告版由 The Commercial Breakers 演出）。導演是 Andy McLeod，Rattling Stick 製作，編舞 Natricia Bernard。\n\n資料來源：\nhttps://www.sounds-familiar.info/2012/06/mattessons-you-must-be-hank-marvin/\nhttps://www.lovethework.com/en/work/entries/hank-207016",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜影片類銅獅 Film Bronze Lion｜代理商：SAATCHI & SAATCHI London\n\n【背景】Fridge Raiders 是英國 Mattessons 的肉類零食，這支廣告把它定位成餓了就拿來吃的點心。\n\n【點子】英國倫敦東區的押韻俚語（Cockney rhyming slang）裡，「Hank Marvin」是「starving（餓扁了）」的代稱，而 Hank Marvin 本來是英國吉他手。廣告把這個雙關拍成畫面：餓的時候，你就是 Hank Marvin。\n\n【執行】影片裡數十個學生打扮成 Hank Marvin：戴黑色假髮與粗框眼鏡、拿紅色 Fender 電吉他，跳著整齊的舞步。配樂是〈Apache〉的翻唱版（原曲由 The Shadows 演奏，廣告版由 The Commercial Breakers 演出）。導演是 Andy McLeod，Rattling Stick 製作，編舞 Natricia Bernard。\n\n資料來源：\nhttps://www.sounds-familiar.info/2012/06/mattessons-you-must-be-hank-marvin/\nhttps://www.lovethework.com/en/work/entries/hank-207016\nhttps://adbreakanthems.com/august-2012/",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片類, Film, 鹹食, Savoury Foods, 銅獅, Bronze Lion, Mattessons, Mattessons Fridge Raiders, Fridge Raiders, Kerry Foods, SAATCHI & SAATCHI LONDON, Saatchi & Saatchi, 零食, 肉類零食, 雞肉零食, 食品, 影片廣告, 電視廣告, 雙關, 俚語, Hank Marvin, Cockney Rhyming Slang, 押韻俚語, 吉他手, The Shadows, Apache, 學生, 群舞, 編舞, 紅色吉他, 粗框眼鏡, 幽默, 英國, United Kingdom, 倫敦, London",
   "category": "行銷案例",
   "references": [
    "https://www.sounds-familiar.info/2012/06/mattessons-you-must-be-hank-marvin/",
-   "https://www.lovethework.com/en/work/entries/hank-207016"
+   "https://www.lovethework.com/en/work/entries/hank-207016",
+   "https://adbreakanthems.com/august-2012/"
   ],
   "image_url": "",
   "image_shows": "",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方作品名為 HANK，與 in 檔一致。LTW 頁面沒有說明，內容只有一個可打開的來源（sounds-familiar.info，只有一則部落格描述），較單薄；「Hank Marvin 是俚語」的說法來自該頁。saatchi.com、The Drum、Creativepool、adsspot 都回 403 或轉址，沒能打開。分鏡圖候選是預留圖示（不能用），沒找到其他圖。已搜爭議：搜「Mattessons Fridge Raiders Hank ad Saatchi controversy／fake／banned／complaint」，沒有找到這支廣告的爭議（搜到的是泛泛的爭議廣告清單，不算）。搜尋摘要提到的成效與其他內容未寫入。圖：沒有可用的圖。"
+  "note": "官方作品名為 HANK，與 in 檔一致。LTW 頁面沒有說明，內容只有一個可打開的來源（sounds-familiar.info，只有一則部落格描述），較單薄；「Hank Marvin 是俚語」的說法來自該頁。saatchi.com、The Drum、Creativepool、adsspot 都回 403 或轉址，沒能打開。分鏡圖候選是預留圖示（不能用），沒找到其他圖。已搜爭議：搜「Mattessons Fridge Raiders Hank ad Saatchi controversy／fake／banned／complaint」，沒有找到這支廣告的爭議（搜到的是泛泛的爭議廣告清單，不算）。搜尋摘要提到的成效與其他內容未寫入。圖：沒有可用的圖。 2026-11-21 Opus 驗：補第二來源 Ad Break Anthems（數十個學生戴黑假髮、角框眼鏡、紅色 Stratocaster），sounds-familiar 內容抽查相符（押韻俚語、Apache 翻唱、導演 Andy McLeod）。仍無圖。"
  },
  {
   "id": "ltwm-06473",
