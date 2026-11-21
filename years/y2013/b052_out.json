@@ -35,7 +35,7 @@
   "text_source_level": 1,
   "uncertain": true,
   "needs_audio": false,
-  "note": "官方 lovethework 兩個頁面都只有名單與獎項，沒有劇情，故整件靠一格分鏡，uncertain，缺劇情與導演手法，需要看片補寫。搜尋摘要提到可能與英國跑者故事有關，未打開原頁，未寫入。已搜爭議：搜了「National Lottery Dreams AMV BBDO controversy／complaint／banned」，只找到同客戶其他廣告的 ASA 裁決，沒有這支的爭議。"
+  "note": "官方 lovethework 兩個頁面都只有名單與獎項，沒有劇情，故整件靠一格分鏡，uncertain，缺劇情與導演手法，需要看片補寫。搜尋摘要提到可能與英國跑者故事有關，未打開原頁，未寫入。已搜爭議：搜了「National Lottery Dreams AMV BBDO controversy／complaint／banned」，只找到同客戶其他廣告的 ASA 裁決，沒有這支的爭議。 2026-11-21 Opus 驗：補找來源：搜到的「Life Changing」母女跑者片是否就是 Dreams 無法從可開頁面確認，未寫入，仍 uncertain。"
  },
  {
   "id": "ltwm-06380",
@@ -75,7 +75,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片沒有說明文字，內容依 Adweek（可見部分）、Gawker、D&AD 頁面整理。圖是 Gawker 文章嵌入的 YouTube 影片縮圖，480×360 偏小，未確認是否為官方頻道上傳，建議驗收員看看是否換圖。Adweek 說 Luke 的教學累積逾 1.4 億次觀看、D&AD 寫 1.25 億次，數字不一致，讀稿未寫；The Drum、Shots 等頁面連不上。已搜爭議：搜了「Refuge Lauren Luke Don't Cover It Up controversy／fake／criticism／withdrawn」，影片傷口是化妝是作品本意，未見造假、抄襲或撤獎指控。"
+  "note": "官方卡片沒有說明文字，內容依 Adweek（可見部分）、Gawker、D&AD 頁面整理。圖是 Gawker 文章嵌入的 YouTube 影片縮圖，480×360 偏小，未確認是否為官方頻道上傳，建議驗收員看看是否換圖。Adweek 說 Luke 的教學累積逾 1.4 億次觀看、D&AD 寫 1.25 億次，數字不一致，讀稿未寫；The Drum、Shots 等頁面連不上。已搜爭議：搜了「Refuge Lauren Luke Don't Cover It Up controversy／fake／criticism／withdrawn」，影片傷口是化妝是作品本意，未見造假、抄襲或撤獎指控。 2026-11-21 Opus 驗：事實抽查：Gawker 的 44 萬訂閱、片名 How To Look Your Best The Morning After、65% 字卡都相符。圖：YouTube maxres／sd 都是 120×90 預設圖，hq 480×360 是最大可用，保留。"
  },
  {
   "id": "ltwm-06383",
@@ -99,23 +99,25 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "Boomerang 頻道推出 #DRAWaTWEET 網站，讓人把手繪圖案當推文發出去，救沒人互動的推特帳號",
+  "idea_one_liner": "卡通頻道 Boomerang 做了 #DRAWaTWEET 網站，讓人在格子畫布上畫圖，轉成方塊符號拼成的推文直接發出",
   "brand_display": "Boomerang（Turner）",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：CIRCUS DF Mexico City\n\n【背景】Boomerang 是 Turner 旗下、主打青少年的卡通頻道，據西班牙 Reason Why 報導在三十多個國家播出。頻道收視高，但在推特上表現不好：內容被認為無趣、沒人分享，也沒有跟粉絲互動。品牌想讓頻道更好玩，讓世界各地的粉絲願意分享它的內容。\n\n【點子】推特只能打字，那就做一個可以用畫的來發推文的工具。\n\n【執行】做成網站（drawatweet.com）加推特應用：使用者在畫面上直接畫出內容，例如寫自己的名字，或畫一朵花、一輛車，再把畫好的圖放進自己的推文，發到時間軸上。介面刻意做得簡單，人人都能畫。\n\n資料來源：\nhttps://www.reasonwhy.es/actualidad/social-media/drawatweet-la-primera-aplicacion-para-hacer-tuits-dibujados\nhttps://www.informabtl.com/circus-marketing-gana-otro-bronce-para-mexico/\nhttps://www.lovethework.com/en/work/entries/drawatweet-190640\nhttps://lovethework.com/work-awards/campaigns/drawatweet-234958",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：CIRCUS DF Mexico City\n\n【背景】Boomerang 是 Turner 旗下、主打青少年的卡通頻道，據西班牙 Reason Why 報導在三十多個國家播出。創作者的作品頁說，它是拉丁美洲青少年最重要的頻道之一，但在推特上沒有同樣的影響力；Reason Why 也寫到，它在推特上的內容被認為無趣、沒人分享，也沒有跟粉絲互動。品牌需要一個點子，在推特上抓住青少年的注意。\n\n【洞察】作品頁的說法是：青少年最需要的就是表達自己，而在推特上，有時候光靠文字不夠。\n\n【點子】做出號稱第一個「用畫的來發推文」的工具：把一張手繪圖轉成可以直接貼進推文的符號碼，讓青少年在時間軸上用圖說話。\n\n【執行】網站 drawatweet.com 是桃紅色底，左邊是 #DRAWaTWEET 標誌與西班牙文標語「Dale boom a tu timeline」（讓你的時間軸 boom 一下）。使用者在中間的格子畫布上一格一格點出圖案或字，作品頁示範畫的是「PUM!」，按下 TWEET，圖案就轉成由方塊符號拼成的文字，連同 drawatweet.com 與 #DrawATweet 標籤一起發到自己的推特時間軸。網站右側會列出其他人發出的畫圖推文，例如用方塊拼出的英文字和愛心。Reason Why 提到，介面刻意做得簡單，人人都能畫，例如寫自己的名字，或畫一朵花、一輛車。\n\n資料來源：\nhttps://cargocollective.com/PeineTheOro/DRAWaTWEET\nhttps://www.reasonwhy.es/actualidad/social-media/drawatweet-la-primera-aplicacion-para-hacer-tuits-dibujados\nhttps://www.informabtl.com/circus-marketing-gana-otro-bronce-para-mexico/\nhttps://www.lovethework.com/en/work/entries/drawatweet-190640\nhttps://lovethework.com/work-awards/campaigns/drawatweet-234958",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 社群應用, Community Applications, 銅獅, Bronze Lion, Boomerang, Turner, 卡通頻道, 電視頻道, CIRCUS DF, CIRCUS DF Mexico City, 墨西哥, Mexico, 推特, Twitter, 社群媒體, 網站, 應用程式, App, 手繪, 繪圖, 塗鴉, Draw, 青少年, 互動, 趣味",
   "category": "行銷案例",
   "references": [
+   "https://cargocollective.com/PeineTheOro/DRAWaTWEET",
    "https://www.reasonwhy.es/actualidad/social-media/drawatweet-la-primera-aplicacion-para-hacer-tuits-dibujados",
    "https://www.informabtl.com/circus-marketing-gana-otro-bronce-para-mexico/",
    "https://www.lovethework.com/en/work/entries/drawatweet-190640",
    "https://lovethework.com/work-awards/campaigns/drawatweet-234958"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://payload.cargocollective.com/1/7/247041/4936690/DrawwaTweetSite640.gif",
+  "image_shows": "作品網站畫面（動畫 GIF，640×400）：桃紅底的 drawatweet.com，左邊是 #DRAWaTWEET 標誌，中間格子畫布畫出 PUM!，下方與右側是用方塊符號拼成圖案的推文",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片沒有說明，依 Reason Why 與 Informa BTL 兩篇報導整理，兩篇都沒寫技術與推廣細節。代理商說法不一：官方名單是 CIRCUS DF Mexico City，Reason Why 寫 Circus Buenos Aires，Informa BTL 寫 Circus Marketing（Bruno Lambertini），讀稿照官方名單。候選圖（分鏡）幾乎全黑，找不到好圖，image_url 留空。已搜爭議：搜了「DRAWaTWEET Boomerang controversy／fake／plagiarism／withdrawn」，只出現不相關結果，沒有爭議。"
+  "note": "官方卡片沒有說明，依 Reason Why 與 Informa BTL 兩篇報導整理，兩篇都沒寫技術與推廣細節。代理商說法不一：官方名單是 CIRCUS DF Mexico City，Reason Why 寫 Circus Buenos Aires，Informa BTL 寫 Circus Marketing（Bruno Lambertini），讀稿照官方名單。候選圖（分鏡）幾乎全黑，找不到好圖，image_url 留空。已搜爭議：搜了「DRAWaTWEET Boomerang controversy／fake／plagiarism／withdrawn」，只出現不相關結果，沒有爭議。 2026-11-21 Opus 驗：補來源：in 檔連結的創作者作品頁（Cargo Collective，改用 https 可打開）有完整說明與網站、推文動圖，據此補寫洞察、點子與執行，圖用作品頁的網站畫面 GIF；作品頁寫的趨勢、曝光數屬成效，未寫入。",
+  "idea_one_liner_r0": "Boomerang 頻道推出 #DRAWaTWEET 網站，讓人把手繪圖案當推文發出去，救沒人互動的推特帳號"
  },
  {
   "id": "ltwm-06381",
@@ -139,9 +141,9 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "比利時喪親家長組織 OVK 請 Andres Serrano 拍低頭人像，臉打詭異的光，標語 Don't Text and Die",
+  "idea_one_liner": "比利時喪親家長組織請攝影師 Andres Serrano 拍人像，閉眼低頭的臉只被冷光照亮，像在看手機也像遺容",
   "brand_display": "OVK 比利時道路受害者家長組織",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜Press類銅獅 Press Bronze Lion｜代理商：HAPPINESS BRUSSELS\n\n【背景】客戶 OVK（Parents of Road Victims）是比利時的道路安全組織，由失去親人的家長組成。這組平面作品要提醒開車的人不要傳訊息。\n\n【點子】Complex 的報導說，這組作品是一系列低頭的人像，臉上打著詭異的光，用畫面把傳訊息與死亡連在一起，標語就是「Don't Text and Die」。\n\n【執行】Happiness Brussels 為 OVK 製作，人像由攝影師 Andres Serrano 拍攝。官方報名的作品名除了「Don't Text and Die」之外，還有 Father、Daughter 兩個版本；我開過的頁面都沒有這兩個版本的畫面或文案，所以這裡不描述。創意團隊名單依 adRuby：創意總監 Dominique van Doormaal、美術指導 Diederik Jeangout、文案 Karen Corrigen。\n\n資料來源：\nhttps://www.complex.com/style/2013/05/artist-andres-serrano-makes-us-fear-texting-and-driving\nhttps://www.adruby.com/parents-road-victims/parents-road-victims-road-safety-message\nhttps://www.lovethework.com/en/work/entries/dont-text-and-die-201730",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜Press類銅獅 Press Bronze Lion｜代理商：HAPPINESS BRUSSELS\n\n【背景】客戶 OVK（Parents of Road Victims）是比利時的道路安全組織，由失去親人的家長組成。這組平面作品要提醒開車的人不要傳訊息。\n\n【點子】依作品畫面解讀：Complex 的報導說，這組是一系列低頭的人像，臉上打著詭異的光。從畫面看，每個人都閉著眼、微微低頭，臉只被下方一道冷白光照亮，像正低頭看手機螢幕；但閉上的眼睛和全黑的背景，又讓這張臉看起來像遺容。標語「Don't Text and Die」（別邊開車邊傳訊，然後死掉）把這兩種讀法接在一起。\n\n【執行】Happiness Brussels 為 OVK 製作，人像由攝影師 Andres Serrano 拍攝。adRuby 上有三張直式海報，分別是一位長髮年輕女子、一位穿格子襯衫的年輕男子、一位穿西裝打領帶的年長男子，構圖都一樣：黑底胸像、閉眼，光從下巴下方往上打。每張下方只有兩行字：「DON'T TEXT AND DIE」與「A ROAD SAFETY MESSAGE FROM PARENTS OF ROAD VICTIMS」（來自道路事故罹難者家長的交通安全訊息），左右兩角是組織的 SAVE 標誌。官方報名的三件是 Don't Text and Die、Daughter、Father，來源沒有寫明各張對應哪一件。創意團隊名單依 adRuby：執行創意總監 Dominique van Doormaal、美術指導 Diederik Jeangout、文案 Karen Corrigen。\n\n資料來源：\nhttps://www.complex.com/style/2013/05/artist-andres-serrano-makes-us-fear-texting-and-driving\nhttps://www.adruby.com/parents-road-victims/parents-road-victims-road-safety-message\nhttps://www.lovethework.com/en/work/entries/dont-text-and-die-201730",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 平面類, Press, 公共衛生與安全, Public Health & Safety, 銅獅, Bronze Lion, OVK, Parents of Road Victims, 道路安全, 交通安全, 酒駕之外的分心駕駛, 開車傳訊息, Texting While Driving, Don't Text and Die, 公益廣告, 平面廣告, 海報, 戶外廣告, 人像, 攝影, Andres Serrano, Happiness Brussels, 比利時, Belgium, 死亡, 警示",
   "category": "行銷案例",
   "references": [
@@ -149,12 +151,13 @@
    "https://www.adruby.com/parents-road-victims/parents-road-victims-road-safety-message",
    "https://www.lovethework.com/en/work/entries/dont-text-and-die-201730"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://www.adruby.com/sites/default/files/image-ads/Parents-Of-Road-Victims-print-ads-t16001.jpg",
+  "image_shows": "作品海報之一：黑底前一位長髮年輕女子閉眼低頭，臉被下方冷光照亮，下方寫 DON'T TEXT AND DIE 與 A ROAD SAFETY MESSAGE FROM PARENTS OF ROAD VICTIMS",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "官方 case board 只是「BOARD WILL BE UPLOADED SOON」的占位圖，不能用，找不到其他可用圖，image_url 留空。畫面描述只有 Complex 一篇的簡短說法，沒看到作品圖，Father／Daughter 兩個版本內容未知，uncertain，缺作品圖與各版本文案。The Drum、MediaPost、Trend Hunter 等連不上。已搜爭議：搜了「Andres Serrano Don't Text and Die OVK controversy／fake／plagiarism／withdrawn」，只出現 Serrano 其他作品的爭議，這件沒有。"
+  "note": "官方 case board 只是「BOARD WILL BE UPLOADED SOON」的占位圖，不能用，找不到其他可用圖，image_url 留空。畫面描述只有 Complex 一篇的簡短說法，沒看到作品圖，Father／Daughter 兩個版本內容未知，uncertain，缺作品圖與各版本文案。The Drum、MediaPost、Trend Hunter 等連不上。已搜爭議：搜了「Andres Serrano Don't Text and Die OVK controversy／fake／plagiarism／withdrawn」，只出現 Serrano 其他作品的爭議，這件沒有。 2026-11-21 Opus 驗：補圖與畫面：adRuby 頁面有三張作品圖（1200×1596），已下載打開，據畫面補寫點子與執行（依作品畫面解讀），圖改用其中一張，拿掉 uncertain；創意名單核對 adRuby，van Doormaal 是執行創意總監，已改。 官方 case board 仍是「BOARD WILL BE UPLOADED SOON」占位圖，故不用。",
+  "idea_one_liner_r0": "比利時喪親家長組織 OVK 請 Andres Serrano 拍低頭人像，臉打詭異的光，標語 Don't Text and Die"
  },
  {
   "id": "ltwm-06388",
@@ -193,7 +196,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片無說明，依 Newswire 新聞稿與 Auto123 整理；兩篇都沒寫網站內具體內容。候選圖是預留圖示，Auto123 的圖是車展小圖（150×80）不是這件作品，找不到好圖，image_url 留空。Strategy、Media in Canada 等頁面連不上。搜尋摘要提到的 Tailpatch 等細節未打開原頁，未寫入。已搜爭議：搜了「Mitsubishi Electriphobia john st. controversy／fake／complaint／withdrawn」，沒有相關爭議。"
+  "note": "官方卡片無說明，依 Newswire 新聞稿與 Auto123 整理；兩篇都沒寫網站內具體內容。候選圖是預留圖示，Auto123 的圖是車展小圖（150×80）不是這件作品，找不到好圖，image_url 留空。Strategy、Media in Canada 等頁面連不上。搜尋摘要提到的 Tailpatch 等細節未打開原頁，未寫入。已搜爭議：搜了「Mitsubishi Electriphobia john st. controversy／fake／complaint／withdrawn」，沒有相關爭議。 2026-11-21 Opus 驗：事實抽查：Auto123 的 Green Living Show、2012 年 4 月、加拿大僅兩款純電車、Stephen Jurisic 相符。Newswire 對雲端回空頁。"
  },
  {
   "id": "ltwm-06386",
@@ -230,9 +233,9 @@
   "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/69da68d4844c4cdd85165ebd5b4ab8ca",
   "image_shows": "官方案例板（Early Retire）：黑白粗顆粒風景，前景是一排像稻田的黑色細柱與一名躺著的女子，中央貼粉紅紙條，右側有英文文案",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "依作品畫面解讀（含畫面右側英文文案），官方頁面無文字說明。只看到 Early Retire 的案例板，Cheap Flesh 的畫面與文案沒看到，uncertain，缺 Cheap Flesh 內容。畫面內容涉及性剝削，圖中人物為裸身，建議驗收員確認是否適合作為封面圖。Luerzers Archive 連不上（403）。已搜爭議：搜了「Taipei Women's Rescue Foundation Early Retire Publicis Shanghai controversy／complaint／scam」，沒有找到這件作品的爭議。"
+  "note": "依作品畫面解讀（含畫面右側英文文案），官方頁面無文字說明。只看到 Early Retire 的案例板，Cheap Flesh 的畫面與文案沒看到，uncertain，缺 Cheap Flesh 內容。畫面內容涉及性剝削，圖中人物為裸身，建議驗收員確認是否適合作為封面圖。Luerzers Archive 連不上（403）。已搜爭議：搜了「Taipei Women's Rescue Foundation Early Retire Publicis Shanghai controversy／complaint／scam」，沒有找到這件作品的爭議。 2026-11-21 Opus 驗：案例板已打開放大核對右側英文文案（含 Zhujiang、Exploit Yourself and Retire at Age 18）與讀稿相符；Early Retire 的巧思清楚，拿掉 uncertain，Cheap Flesh 仍未見畫面。封面圖人物裸身，照規則卡「不換圖」保留，交主對話知悉。"
  },
  {
   "id": "ltwm-06385",
@@ -270,7 +273,7 @@
   "text_source_level": 1,
   "uncertain": true,
   "needs_audio": true,
-  "note": "官方卡片與 SoundCloud 清單（https://soundcloud.com/avozdobrasil/sets/leap-cannes-2012，頁面出錯，標題為 LEÃO CANNES 2013）都沒有可用的文字或音檔，網路搜尋也沒找到這支的腳本。整件缺內容：若本機也找不到音檔，建議改 decision 不收，交給主對話決定。候選圖是預留圖示，無圖。已搜爭議：搜了「Talent Safe Kids Brazil Drunk Driver radio controversy／scam／fake」，沒有這支的爭議。"
+  "note": "官方卡片與 SoundCloud 清單（https://soundcloud.com/avozdobrasil/sets/leap-cannes-2012，頁面出錯，標題為 LEÃO CANNES 2013）都沒有可用的文字或音檔，網路搜尋也沒找到這支的腳本。整件缺內容：若本機也找不到音檔，建議改 decision 不收，交給主對話決定。候選圖是預留圖示，無圖。已搜爭議：搜了「Talent Safe Kids Brazil Drunk Driver radio controversy／scam／fake」，沒有這支的爭議。 2026-11-21 Opus 驗：補找：搜不到音檔或腳本（只查到入圍名單提到 Talent／A Voz do Brasil 製作），仍 uncertain、needs_audio，是否改不收交主對話。"
  },
  {
   "id": "ltwm-06389",
@@ -304,12 +307,12 @@
    "https://www.dexigner.com/news/25920",
    "https://packagingoftheworld.com/2012/11/bombay-sapphire-electro-global-travel.html"
   ],
-  "image_url": "https://www.dexigner.com/images/news/i/25920.jpg",
-  "image_shows": "縮圖：藍色 Bombay Sapphire 琴酒瓶放在印有藍色對稱花紋的盒子前（120×120）",
+  "image_url": "https://4.bp.blogspot.com/-VG4bT0F1H-0/ULRcyxlN-zI/AAAAAAAAjR0/9oexeMWSA9s/s1600/BOMBAY-SAPPHIRE_Electro_Medium.gif",
+  "image_shows": "禮盒動畫 GIF（366×750）：藍色 Bombay Sapphire 禮盒正面印著酒瓶，瓶口上方的白色花紋線條由下往上逐段亮起，像噴泉",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片連結與 Vimeo 頁面連不上或無內容，內容依 Popsop、Dexigner、Packaging of the World 三篇報導整理。圖只找到 Dexigner 的 120×120 縮圖，偏小，看不到發光效果，建議驗收員或本機換圖。原 in 檔候選圖是會過期的簽名網址，下載 403。已搜爭議：搜了「Bombay Sapphire Electro Webb deVlam pack controversy／fake／withdrawn」，報導都是正面，沒有爭議。"
+  "note": "官方卡片連結與 Vimeo 頁面連不上或無內容，內容依 Popsop、Dexigner、Packaging of the World 三篇報導整理。圖只找到 Dexigner 的 120×120 縮圖，偏小，看不到發光效果，建議驗收員或本機換圖。原 in 檔候選圖是會過期的簽名網址，下載 403。已搜爭議：搜了「Bombay Sapphire Electro Webb deVlam pack controversy／fake／withdrawn」，報導都是正面，沒有爭議。 2026-11-21 Opus 驗：換圖：原 Dexigner 120×120 縮圖改用 Packaging of the World 文中的禮盒動畫 GIF（blogspot 原檔，image/gif），已逐格打開，看得到線條由下往上亮起。"
  },
  {
   "id": "ltwm-06387",
@@ -374,7 +377,7 @@
   "awards_unverified": [],
   "idea_one_liner": "波蘭華沙凱悅酒店的《Doping TV》，查不到官方說明，只看到一格寫著 EURO 2012 的片頭字卡",
   "brand_display": "凱悅酒店華沙 Hyatt Regency Warsaw",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：Y&R WARSAW Warsaw\n\n【背景】官方登記的客戶是 Hyatt Regency Warsaw（酒店服務），代理商是 Y&R Warsaw，獎項類別是品牌內容與娛樂類的「善用或整合使用者創作內容」。官方 lovethework 頁面只列名單與獎項，沒有創意說明。\n\n【執行】目前能確認的只有分鏡中的一格畫面：灰色背景上有聚光燈的光束，中間印著黑字「EURO 2012」，推測與 2012 年歐洲盃足球賽有關。節目形式、參與的人與做法，我打開的頁面都沒有寫，所以這裡不寫。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/doping-tv-174638\nhttps://lovethework.com/work-awards/campaigns/doping-tv-222112",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：Y&R WARSAW Warsaw\n\n【背景】官方登記的客戶是 Hyatt Regency Warsaw（酒店服務），代理商是 Y&R Warsaw，獎項類別是品牌內容與娛樂類的「善用或整合使用者創作內容」。官方 lovethework 頁面只列名單與獎項，沒有創意說明。\n\n【執行】目前能確認的只有分鏡中的一格畫面：灰色背景上有聚光燈的光束，中間印著黑字「EURO 2012」。節目形式、參與的人與做法，我打開的頁面都沒有寫，所以這裡不寫。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/doping-tv-174638\nhttps://lovethework.com/work-awards/campaigns/doping-tv-222112",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 品牌內容與娛樂類, Branded Content & Entertainment, 善用使用者創作內容, User-Generated Content, UGC, 銅獅, Bronze Lion, Hyatt, Hyatt Regency Warsaw, 凱悅, 酒店, 旅宿, Y&R, Y&R Warsaw, 華沙, 波蘭, Poland, 歐洲盃, EURO 2012, 足球, 影片, 品牌內容",
   "category": "行銷案例",
   "references": [
@@ -386,6 +389,6 @@
   "text_source_level": 1,
   "uncertain": true,
   "needs_audio": false,
-  "note": "官方兩個頁面與 YouTube 頁面都沒有內容，adsoftheworld 404、adsspot 403，整件靠一格字卡，uncertain，缺創意說明與做法，需要看片補寫。搜尋摘要有出現這支的點子描述，但沒打開過原頁，未寫入。已搜爭議：搜了「Hyatt Regency Warsaw Doping TV controversy／fake／withdrawn／scam」，結果都是不相關的運動禁藥新聞，沒有爭議。"
+  "note": "官方兩個頁面與 YouTube 頁面都沒有內容，adsoftheworld 404、adsspot 403，整件靠一格字卡，uncertain，缺創意說明與做法，需要看片補寫。搜尋摘要有出現這支的點子描述，但沒打開過原頁，未寫入。已搜爭議：搜了「Hyatt Regency Warsaw Doping TV controversy／fake／withdrawn／scam」，結果都是不相關的運動禁藥新聞，沒有爭議。 2026-11-21 Opus 驗：刪掉讀稿中「推測與歐洲盃有關」的推測句；lovethework campaign 頁無可讀文字、adsspot 403，搜尋摘要的點子描述未寫入，仍 uncertain。"
  }
 ]

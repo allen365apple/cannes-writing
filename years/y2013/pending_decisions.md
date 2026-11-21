@@ -137,3 +137,13 @@
 - 仍 uncertain：廣播缺音檔或逐字稿 b048 06336 Easy Office、Avocado、b050 06362 Grand Canyon、Persil；缺做法說明 Bookends、Kyrie、Converse Highways、AW Collection；b050 Beer Turnstile 只缺圖。
 - 圖不理想：沒圖 b047 06311、06314、13761，b048 06333（候選是全黑分鏡）；b049 Highways 的 case board 是綠色空白。
 - 重複 0；【爭議】新增 0；撤獎 0。
+
+## 2026-11-21 雲端第 2 輪 b051 b052 b053（上一輪 Sonnet 寫完，這輪 Opus 驗）
+- 重複候選：b053 ltwm-06394 EVERY BEAT MATTERS（Save the Children）lovethework 另有廣播版條目（audio 193593），2013 其他批沒出現；b053 ltwm-06393 ENERGY OF THE NATION lovethework 另有條目 178429。建議：本機確認是不是同一件重複報名。
+- 不收待決：b052 ltwm-06385 DRUNK DRIVER（廣播），沒有音檔也沒有腳本。建議：本機也找不到就改不收。
+- 名稱推定：b053 ltwm-06392、ltwm-06399 報導用的片名或系列名跟官方作品名不同，靠客戶、代理商推定是同一件。建議：本機再確認。
+- 知悉：b052 ltwm-06386 EARLY RETIRE 封面圖人物裸身，照規則不換圖。
+- 參考：b051 06369 原稿「蛆」改成麵粉蟲；06376 刪掉來源沒有的說法；b052 06381、06383 補圖補來源拿掉 uncertain；b053 06395、06397、06399 依作品畫面補上巧思拿掉 uncertain（依畫面解讀）。
+- 仍 uncertain：b051 06372、06373、06377（缺劇情）；b052 06384、06382（缺劇情）、06385（廣播缺音檔）；b053 06390（缺創作者原意）、06401（缺劇情）。
+- 圖不理想：沒圖 b052 06385、06388；偏小 b051 06374（只有標誌）、b052 06380（480×360）。
+- 【爭議】新增 0；撤獎 0。
