@@ -35,7 +35,7 @@
   "text_source_level": 2,
   "uncertain": true,
   "needs_audio": false,
-  "note": "已搜爭議：搜了「Antarctica beer turnstile AlmapBBDO controversy／fake／withdrawn」，沒有造假、抄襲或撤獎報導（只看到作品被當成真實裝置介紹）。官方 case 頁（lovethework）無文字，內容依 Ads of the World 與 Adverblog；兩處都沒寫成效，讀稿未寫成效。官方作品名 CATRACA DA BOA，英文名 The Beer Turnstile。官方獎項類別為 Promo & Activation（in 檔寫 Best Use of Ambient），以 award_line 為準。圖：候選圖 lionsfestivals 403，官方 storyboard 只是里約山丘遠景、看不出點子，沒有採用，需另找圖（Vimeo 網頁被驗證擋下）。uncertain 僅因缺圖。"
+  "note": "已搜爭議：搜了「Antarctica beer turnstile AlmapBBDO controversy／fake／withdrawn」，沒有造假、抄襲或撤獎報導（只看到作品被當成真實裝置介紹）。官方 case 頁（lovethework）無文字，內容依 Ads of the World 與 Adverblog；兩處都沒寫成效，讀稿未寫成效。官方作品名 CATRACA DA BOA，英文名 The Beer Turnstile。官方獎項類別為 Promo & Activation（in 檔寫 Best Use of Ambient），以 award_line 為準。圖：候選圖 lionsfestivals 403，官方 storyboard 只是里約山丘遠景、看不出點子，沒有採用，需另找圖（Vimeo 網頁被驗證擋下）。uncertain 僅因缺圖。 2026-11-21 Opus 驗：事實抽查 Adverblog：里約嘉年華、Antarctica 為主贊助、地鐵站閘門光學讀取空罐、留最後一罐回家、別酒駕訊息、AlmapBBDO 皆相符，未改內容；仍缺圖。"
  },
  {
   "id": "ltwm-06363",
@@ -72,7 +72,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜了「CDC Tips From Former Smokers Christine's Flavor Tip radio controversy／withdrawn」，沒有造假或撤獎報導（只有 CDC 活動 2025 年停播與 Christine 過世的新聞，與作品本身無關，未寫入）。讀稿依 CDC 公開的 60 秒廣播逐字稿 PDF（檔案作者欄為 Arnold Worldwide）整理；官方 lovethework 頁無文字。逐字稿是 2012 年版本，得獎報名版是否為同一長度未能確認。沒有可用圖片（lovethework 候選圖是預留圖示，廣播沒有畫面），image_url 留空。"
+  "note": "已搜爭議：搜了「CDC Tips From Former Smokers Christine's Flavor Tip radio controversy／withdrawn」，沒有造假或撤獎報導（只有 CDC 活動 2025 年停播與 Christine 過世的新聞，與作品本身無關，未寫入）。讀稿依 CDC 公開的 60 秒廣播逐字稿 PDF（檔案作者欄為 Arnold Worldwide）整理；官方 lovethework 頁無文字。逐字稿是 2012 年版本，得獎報名版是否為同一長度未能確認。沒有可用圖片（lovethework 候選圖是預留圖示，廣播沒有畫面），image_url 留空。 2026-11-21 Opus 驗：事實抽查 CDC 60 秒逐字稿 PDF（以 pdftotext 讀出全文）：自我介紹、下顎切除、無牙、流質、音效順序、口味小提醒、旁白與戒菸專線皆相符，未改內容。"
  },
  {
   "id": "ltwm-06365",
@@ -208,21 +208,23 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "巴西感冒藥 Naldecon 用解剖圖畫出鼻腔被糖果塞滿，旁邊的藥丸裡躲著一群卡通小孩；一組兩張，另一張主角是鯊魚",
+  "idea_one_liner": "巴西感冒藥 Naldecon 的海報：鼻腔塞滿糖果，藥丸裡就裝一群小孩；鼻腔擠滿泳客，藥丸裡就裝鯊魚",
   "brand_display": "Naldecon",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜Press類銅獅 Press Bronze Lion｜代理商：FISCHER & FRIENDS São Paulo\n\n【點子】以人體頭部剖面圖為畫面，把「鼻塞」畫成鼻腔被東西塞得滿滿的樣子；畫面上方的標語是「End Nasal Congestion（終結鼻塞）」，Naldecon 藥盒標示「Against flu symptoms（對抗感冒症狀）」。\n\n【執行】Fischer & Friends São Paulo 製作。「Children」這張，粉紅色背景上有一個頭部側面剖面圖，鼻腔與口腔上方塞滿棒棒糖、甜甜圈、巧克力和彩色糖粒；左下角一隻解剖風格的手捏著一顆膠囊，膠囊裡擠著一群表情驚慌的卡通小孩。官方作品名是 CHILDREN 與 SHARKS，兩張版型相同；SHARKS 那張我們沒能打開畫面，不描述。畫面想說的巧思（例如小孩代表什麼）來源沒有文字說明，這裡不推測。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/children-200593\nhttps://www.adsoftheworld.com/campaigns/sharks-91abe047-84f6-47a2-8926-060689c0d8d7",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜Press類銅獅 Press Bronze Lion｜代理商：FISCHER & FRIENDS São Paulo\n\n【點子】把「鼻塞」畫成鼻腔被東西塞滿，再讓藥丸裡裝著專門「吃掉」那些東西的角色：塞的是糖果，藥丸裡就是一群小孩；塞的是泳客，藥丸裡就是一群鯊魚。吃下藥，鼻子裡的東西就會被清光。畫面左上角的標語是「End Nasal Congestion（終結鼻塞）」，Naldecon 藥盒標示「Against flu symptoms（對抗感冒症狀）」。（依作品畫面解讀，無文字說明。）\n\n【執行】Fischer & Friends São Paulo 製作，官方報名 CHILDREN 與 SHARKS 兩張，版型相同：右邊是人體頭部的側面剖面圖，左邊一隻解剖圖風格的手捏著一顆切開的膠囊，正要送進張開的嘴。Children 這張是粉紅色調，鼻腔裡塞滿棒棒糖、甜甜圈、拐杖糖和彩色糖粒，膠囊裡擠著一群盯著糖果、躍躍欲試的卡通小孩。Sharks 這張是淺藍色調，鼻腔裡是一片擠滿泳客和衝浪板的海面，膠囊裡擠著好幾隻張大嘴、露出利牙的鯊魚。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/children-200593\nhttps://www.adsoftheworld.com/campaigns/sharks-91abe047-84f6-47a2-8926-060689c0d8d7\nhttps://www.adruby.com/naldecon/naldecon-end-nasal-congestion-naldecon-against-flu-symptoms?page=1",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 平面與出版類, Print & Publishing, 銅獅, Bronze Lion, Naldecon, 感冒藥, 鼻塞, 藥品, 醫藥, 製藥, 解剖圖, 人體剖面, 鼻腔, 糖果, 膠囊, 藥丸, 卡通小孩, 兒童, 鯊魚, 插畫, 3D 插畫, 平面廣告, 海報, 巴西, Brazil, Fischer & Friends, Fischer & Friends São Paulo, Fischer America",
   "category": "行銷案例",
   "references": [
    "https://www.lovethework.com/en/work/entries/children-200593",
-   "https://www.adsoftheworld.com/campaigns/sharks-91abe047-84f6-47a2-8926-060689c0d8d7"
+   "https://www.adsoftheworld.com/campaigns/sharks-91abe047-84f6-47a2-8926-060689c0d8d7",
+   "https://www.adruby.com/naldecon/naldecon-end-nasal-congestion-naldecon-against-flu-symptoms?page=1"
   ],
   "image_url": "https://ascentialcdn.filespin.io/api/v1/conversion/da8678bab82f477db1e47a1b77adbc13",
-  "image_shows": "案例圖（Children 版）：粉紅色背景的人體頭部剖面圖，鼻腔塞滿糖果，左下一隻手捏著裝有卡通小孩的膠囊，左上是 Naldecon 藥盒與「End Nasal Congestion」",
+  "image_shows": "案例圖（Children 版）：粉紅色人體頭部剖面圖，鼻腔塞滿糖果，左下一隻手捏著擠滿卡通小孩的膠囊，左上是 Naldecon 藥盒與「End Nasal Congestion」",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜了「Naldecon Fischer & Friends sharks children Cannes 2013 controversy／fake／scam／withdrawn」，沒有爭議報導。依作品畫面解讀，無文字說明：Ads of the World 頁只有基本資料與創作名單；只打開 Children 這張，Sharks 那張沒有取到可看的圖（lovethework 頁無圖），故一句話對 Sharks 只寫「主角是鯊魚」。標為 uncertain：看不出巧思（小孩與鯊魚各代表什麼）。搜尋摘要（Trend Hunter）的描述未打開頁面，未寫入。"
+  "note": "已搜爭議：搜了「Naldecon Fischer & Friends sharks children Cannes 2013 controversy／fake／scam／withdrawn」，沒有爭議報導。依作品畫面解讀，無文字說明：Ads of the World 頁只有基本資料與創作名單；只打開 Children 這張，Sharks 那張沒有取到可看的圖（lovethework 頁無圖），故一句話對 Sharks 只寫「主角是鯊魚」。標為 uncertain：看不出巧思（小孩與鯊魚各代表什麼）。搜尋摘要（Trend Hunter）的描述未打開頁面，未寫入。 2026-11-21 Opus 驗：從 adruby 作品頁（Fischer、2013-06-25，創意名單）下載兩張完整海報用 Read 打開：Sharks 版是鼻腔擠滿泳客、膠囊裡裝鯊魚，與 Children 版（糖果／小孩）同一邏輯，巧思看得出來，改寫一句話與讀稿、拿掉 uncertain（仍屬依畫面解讀）。原寫「小孩表情驚慌」與畫面不符，已改。",
+  "idea_one_liner_r0": "巴西感冒藥 Naldecon 用解剖圖畫出鼻腔被糖果塞滿，旁邊的藥丸裡躲著一群卡通小孩；一組兩張，另一張主角是鯊魚"
  },
  {
   "id": "ltwm-06362",
@@ -265,7 +267,7 @@
   "text_source_level": 2,
   "uncertain": true,
   "needs_audio": true,
-  "note": "音檔：https://adsspot.me/media/radio/life-cover-grand-canyon-aa405244df04（403，未能打開，需本機轉寫）。已搜爭議：搜了「Frank.net FoxP2 Life Cover radio Cannes 2013 Grand Canyon controversy／fake／scam／withdrawn」，沒有爭議報導。搜尋摘要有活動概述，未打開頁面，未寫入。缺：三支廣播的逐字稿。無圖（廣播）。"
+  "note": "音檔：https://adsspot.me/media/radio/life-cover-grand-canyon-aa405244df04（403，未能打開，需本機轉寫）。已搜爭議：搜了「Frank.net FoxP2 Life Cover radio Cannes 2013 Grand Canyon controversy／fake／scam／withdrawn」，沒有爭議報導。搜尋摘要有活動概述，未打開頁面，未寫入。缺：三支廣播的逐字稿。無圖（廣播）。 2026-11-21 Opus 驗：待決：award_line 裡的戶外類銀獅（作品名 FRISBEE、CONTACT LENS、BALL，代理商 Ogilvy Cape Town）搜尋摘要顯示是 Volkswagen 的戶外作品，疑似官方名單把兩件不同作品併進同一筆；摘要來源（Ads of the World）被驗證頁擋下未能打開，未改【得獎】行，請主對話確認。"
  },
  {
   "id": "ltwm-06357",

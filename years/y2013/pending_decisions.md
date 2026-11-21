@@ -128,3 +128,12 @@
 - 仍 uncertain：b044 ltwm-06276 Fibertel TRUE FRIENDS（官方作品名 PS3 AND BEER、NEPHEWS，缺劇情，要看片補寫）；b045 ltwm-06288 ANAGRAPHICS（缺圖與字母重組方式）；b046 ltwm-06307 Chupa Chups NOW WITH GUM（看不出明確巧思）。
 - 圖不理想：沒圖 b045 06288；第三方小圖 b045 06298（YouTube 縮圖 480×360）、b046 06299 JACKFLUSH（有浮水印）；圖偏小 b046 06302、06301。
 - 重複 0；【爭議】新增 0；撤獎 0。
+
+## 2026-11-21 雲端第 2 輪 b047 b048 b049 b050（上一輪 Sonnet 寫完，這輪 Opus 驗）
+- 代表作品待決：b048 ltwm-06333 ANYTIME. ANYWHERE（Air Force）：寫手寫的是 Air Force FM（直效銀獅＋促銷銅獅，已對過 D&AD 頁）；Anytime. Anywhere 是另一件互動影片（近 150 個熱點），資料不夠寫成稿。建議：保留 Air Force FM 當代表，讀稿或 note 註明 Cyber 銅獅給的是那支互動影片。decision 沒動。
+- 獎項待決：b050 ltwm-06362 GRAND CANYON 的【得獎】行有戶外銀獅（FRISBEE／CONTACT LENS／BALL，Ogilvy Cape Town），搜尋摘要顯示那是 Volkswagen 的作品，疑似官方名單把兩件併成一筆；原始頁打不開，【得獎】行沒改。建議：本機確認後拆開。
+- 不收待決：b047 ltwm-06316 47 FLOORS（Mapfre，設計銅獅，所有來源都沒有內容）；b048 ltwm-06325 A RING TO BRING THEM CLOSER（McDonald's）、ltwm-06329 AMSTEL TROPHY CAN、ltwm-06326 ALL DAY LONG（Harry's），頁面都打不開或只有標題，都不是撤獎。建議：本機看 in 檔的影片／圖後改收。另 06325 在 lovethework 還有 PR 類條目，官方 award_line 只列媒體銅獅，可能漏列。
+- 參考：b047 06317 Leroy Merlin 看圖更正做法（把鈔票上的建築拆成建材賣）；b049 06343 Converse 更正（滅火器灌紅漆進浴缸）；b050 06359 Naldecon 找到 Sharks 版的圖，拿掉 uncertain。
+- 仍 uncertain：廣播缺音檔或逐字稿 b048 06336 Easy Office、Avocado、b050 06362 Grand Canyon、Persil；缺做法說明 Bookends、Kyrie、Converse Highways、AW Collection；b050 Beer Turnstile 只缺圖。
+- 圖不理想：沒圖 b047 06311、06314、13761，b048 06333（候選是全黑分鏡）；b049 Highways 的 case board 是綠色空白。
+- 重複 0；【爭議】新增 0；撤獎 0。
