@@ -157,3 +157,11 @@
 - 仍 uncertain：b054 06403 USFRA（缺作品本身內容）、06410 Westone（缺作品圖）、06411 Focus Group（缺影片說明）、06523 Radio Legends（廣播缺音檔）；b055 06501 ONE DAY CEASEFIRE（缺遊戲內怎麼運作）；b056 06434、06430 HAPPY SHOT、06432（缺說明／音檔，含 Weetabix HOW MANY? 廣播、Billboard 只看到 1／4 張）；b057 06439 DADDY'S GIRL（廣播缺稿）、06446 JENGA（缺案例文字）。
 - 圖不理想：沒圖 b054 06410、06403，b056 HOW MANY?、HAPPY SHOT、HANK、GT ACADEMY，b057 06439；偏小 b057 06435、06447（YouTube 480×360）；看不出點子 b054 06402、06523，b055 ONE DAY CEASEFIRE、LET'S GET INVOLVED、FOLLOW THE FROG。
 - 重複 0（b057 Twinsaver 三支廣播驗收員判定是同一筆報名，不算重複）；【爭議】新增 0；撤獎 0。
+
+## 2026-11-22 雲端第 1 輪 b058 b059 b060（Sonnet 寫、Opus 驗）
+- 重複候選：b059 ltwm-06468 MAP OF CORRUPTION 和 ltwm-06591 兩頁共用同一支案例影片，屬同一波 Fiorucci 活動。驗收員建議：收 06591，06468 標重複並把直效銅獅併過去。decision 沒動。
+- 標題待決：b060 ltwm-06486 Cialis 的 MOVIE NIGHT 不在官方作品名單（官方只有 MUSTANG、CURFEW，Vimeo 標題有 MOVIE NIGHT）。建議：標題拿掉 MOVIE NIGHT。
+- 參考：b058 LONG LIFE TO RUGBY、VOLVO 補到官方案例板與新聞稿，拿掉 uncertain；LEVEL .06 確認 0.06%（Fonts In Use 寫 0.6% 是單位錯）；b059 MAKE IT TO MUSE 官方獎項沒有 Titanium；THE PROFITEERS 內容推定經製作名單核對成立；b060 寫手讀稿沒逐件重讀，驗收員已逐件看過、改 6 件。
+- 仍 uncertain：b059 06464 MADURO（廣播缺音檔）、06466 GivingTuesday、06468 MAP OF CORRUPTION（來源太薄）；b060 06481 Selleys、06485 Murphy's（缺說明）、06486 Cialis（缺 Mustang 劇情）。
+- 圖不理想：沒圖 b058 06456 LEVEL .06，b059 MADURO、MAP OF CORRUPTION；偏小 b058 06454、b059 THE PROFITEERS（480×360）；看不出點子 b059 LOVEVILLE、b060 06485、06486。
+- 【爭議】新增 0；撤獎 0。

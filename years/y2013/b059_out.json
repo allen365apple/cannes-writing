@@ -114,12 +114,12 @@
    "https://www.lovethework.com/en/work/entries/making-a-new-holiday-tradition-givingtuesday-178941",
    "https://www.warc.com/content/article/cannes/92nd_street_y_and_the_un_foundation_making_a_new_holiday_tradition_givingtuesday/101943"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/0553d32a20374d84a4ef1c627f435f31/storyboard_000003.jpg",
+  "image_shows": "官方影片分鏡格：三位女性合照，中間的人舉著手寫牌「I Give To... Girl Up #GivingTuesday」，下方字幕「We wanted to make it a time to give.」",
   "text_source_level": 2,
   "uncertain": true,
   "needs_audio": false,
-  "note": "可打開的來源只有官方卡片（基本資料）與 WARC 案例摘要，內容單薄，點子之外的細節（影片、素材長相）缺；adsspot、provokemedia 等被擋。WARC 摘要裡的預算、曝光、捐款增加等成效數字未寫入。已搜爭議：搜「GivingTuesday Havas Cannes Lions controversy / who invented / credit dispute」，沒有造假或撤獎指控；只有搜尋摘要提到 Adweek 說聯合國與 92Y 主張點子出處、PR 業界負責執行，屬出處說明，未寫入。找不到好圖：in 檔連結的 YouTube 影片是較晚版本（片中寫「過去四年」），不是 2012 年的作品，所以不用；候選圖都連不上。"
+  "note": "可打開的來源只有官方卡片（基本資料）與 WARC 案例摘要，內容單薄，點子之外的細節（影片、素材長相）缺；adsspot、provokemedia 等被擋。WARC 摘要裡的預算、曝光、捐款增加等成效數字未寫入。已搜爭議：搜「GivingTuesday Havas Cannes Lions controversy / who invented / credit dispute」，沒有造假或撤獎指控；只有搜尋摘要提到 Adweek 說聯合國與 92Y 主張點子出處、PR 業界負責執行，屬出處說明，未寫入。找不到好圖：in 檔連結的 YouTube 影片是較晚版本（片中寫「過去四年」），不是 2012 年的作品，所以不用；候選圖都連不上。 2026-11-21 Opus 驗：官方 entry 頁原始碼裡有影片分鏡（storyboard），已下載打開，第 3 格是民眾舉 #GivingTuesday 手寫牌，看得出點子，補為 image_url。內容仍單薄，維持 uncertain。"
  },
  {
   "id": "ltwm-06467",
@@ -200,7 +200,7 @@
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": true,
-  "note": "缺廣播逐字稿與音檔：官方卡片（lovethework.com/work-awards/entries/192940）只有基本資料；Produ 與 Multicultclassics 只講到作品靠馬杜洛小鳥說法與同一句標語，沒寫廣播實際內容；adsspot 被擋。本機要用 whisper 補音檔，音檔可能在官方 entry 192940 的「Full Campaign」頁（/work/campaigns/cine-las-americas-international-film-festival-227583），雲端未能取得。搜尋摘要裡的腳本描述未寫入。已搜爭議：搜「Maduro Cine Las Americas radio controversy / fake / withdrawn」，沒有這支作品的相關指控（結果都是馬杜洛本人的新聞，不算）。找不到圖：廣播作品，候選圖只有預留圖示。"
+  "note": "缺廣播逐字稿與音檔：官方卡片（lovethework.com/work-awards/entries/192940）只有基本資料；Produ 與 Multicultclassics 只講到作品靠馬杜洛小鳥說法與同一句標語，沒寫廣播實際內容；adsspot 被擋。本機要用 whisper 補音檔，音檔可能在官方 entry 192940 的「Full Campaign」頁（/work/campaigns/cine-las-americas-international-film-festival-227583），雲端未能取得。搜尋摘要裡的腳本描述未寫入。已搜爭議：搜「Maduro Cine Las Americas radio controversy / fake / withdrawn」，沒有這支作品的相關指控（結果都是馬杜洛本人的新聞，不算）。找不到圖：廣播作品，候選圖只有預留圖示。 2026-11-21 Opus 驗：補搜 produ、lovethework：campaign 頁（cine-las-americas-international-film-festival-227583）的案例格是同系列別支的畫面，不是這支；仍找不到音檔與逐字稿，維持 uncertain。"
  },
  {
   "id": "ltwm-06468",
@@ -242,7 +242,7 @@
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": false,
-  "note": "可打開的來源只有一句話級的描述（Brand News、IdeeIdeas：地圖畫在一片火腿上、用熟食店紙袋寄出）加官方卡片基本資料，缺：地圖實際內容、寄給誰、誰設計。搜尋摘要提到「20 年、47 件事件、寄給記者」等，未打開來源，未寫入。已搜爭議：搜「Fiorucci Map of Corruption McCann controversy」，沒有造假或撤獎指控。找不到圖：候選圖都連不上，adsspot 被擋。與 ltwm-06591 THE PROFITEERS 同屬 Fiorucci／McCann 同一波宣傳，但是不同形式（直效 vs 影片），分開收。官方獎項為 Direct 銅獅（卡片：Best Use of Direct Marketing）。"
+  "note": "可打開的來源只有一句話級的描述（Brand News、IdeeIdeas：地圖畫在一片火腿上、用熟食店紙袋寄出）加官方卡片基本資料，缺：地圖實際內容、寄給誰、誰設計。搜尋摘要提到「20 年、47 件事件、寄給記者」等，未打開來源，未寫入。已搜爭議：搜「Fiorucci Map of Corruption McCann controversy」，沒有造假或撤獎指控。找不到圖：候選圖都連不上，adsspot 被擋。與 ltwm-06591 THE PROFITEERS 同屬 Fiorucci／McCann 同一波宣傳，但是不同形式（直效 vs 影片），分開收。官方獎項為 Direct 銅獅（卡片：Best Use of Direct Marketing）。 2026-11-21 Opus 驗：ideeideas 網址用 curl 重開回 200、可讀，程式報的 999 是誤報，保留。lovethework 的 Map of Corruption 與 The Profiteers 兩個 campaign 頁共用同一支案例影片（標題卡是義大利貪腐排名），屬同一波 Prosciuttopoli 活動，與 ltwm-06591 為重複候選，交主對話決定。仍無可用圖（案例影片格只有文字卡）。"
  },
  {
   "id": "ltwm-06591",
@@ -292,7 +292,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "內容依 affaritaliani 報導整理；報導寫的是這波「Prosciuttopoli」偽紀錄片（90 秒電視版、選舉隔天播出、故事名「Potere e Salumi」），我推定就是這支 THE PROFITEERS，但官方卡片沒寫影片內容，請驗收員留意。onepointfour 只有製作名單。已搜爭議：搜「Fiorucci McCann Profiteers controversy / polemica / fake / withdrawn」，沒有針對這支片的造假或撤獎指控。官方獎項為影片類銅獅與媒體類銅獅（award_line）；媒體類那筆的細節找不到，讀稿只寫影片。圖是 YouTube 的 case 影片縮圖（480×360，hqdefault，無 maxres）。"
+  "note": "內容依 affaritaliani 報導整理；報導寫的是這波「Prosciuttopoli」偽紀錄片（90 秒電視版、選舉隔天播出、故事名「Potere e Salumi」），我推定就是這支 THE PROFITEERS，但官方卡片沒寫影片內容，請驗收員留意。onepointfour 只有製作名單。已搜爭議：搜「Fiorucci McCann Profiteers controversy / polemica / fake / withdrawn」，沒有針對這支片的造假或撤獎指控。官方獎項為影片類銅獅與媒體類銅獅（award_line）；媒體類那筆的細節找不到，讀稿只寫影片。圖是 YouTube 的 case 影片縮圖（480×360，hqdefault，無 maxres）。 2026-11-21 Opus 驗：核對推定：onepointfour 的 The Profiteers 製作名單（導演 Nico Perez Veiga、Mercurio Cinematografica、McCann WorldGroup）與 affaritaliani 寫的 Prosciuttopoli 偽紀錄片相同；lovethework 上 The Profiteers 與 Map of Corruption 兩個 campaign 頁用的是同一支案例影片（畫面「Italy is now one of the most corrupt countries in Europe.」），可確認是同一波活動。與 ltwm-06468 為重複候選，交主對話決定。"
  },
  {
   "id": "ltwm-06465",
@@ -354,7 +354,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "內容依 selfstorming 與 directnewideas 整理；官方卡片未打開（Vimeo 頁只用到標題與縮圖）。作品由 Part 1～4 四件官方作品名組成，in 檔已合成一筆。官方獎項依 in 檔（媒體銀獅、公關銀獅、影片銅獅）。搜尋結果另有一個 Titanium 類 entry，未驗證，不寫。成效（收看人數、養老院採用等）與其他獎項未寫入。已搜爭議：搜「Music for Life Make it to Muse Betties dementia controversy / criticism / withdrawn」，沒有造假或撤獎指控。圖為 Vimeo 案例影片縮圖（oEmbed 取得）。"
+  "note": "內容依 selfstorming 與 directnewideas 整理；官方卡片未打開（Vimeo 頁只用到標題與縮圖）。作品由 Part 1～4 四件官方作品名組成，in 檔已合成一筆。官方獎項依 in 檔（媒體銀獅、公關銀獅、影片銅獅）。搜尋結果另有一個 Titanium 類 entry，未驗證，不寫。成效（收看人數、養老院採用等）與其他獎項未寫入。已搜爭議：搜「Music for Life Make it to Muse Betties dementia controversy / criticism / withdrawn」，沒有造假或撤獎指控。圖為 Vimeo 案例影片縮圖（oEmbed 取得）。 2026-11-21 Opus 驗：Titanium：官方 awards 沒有 Titanium 獎項，維持只寫 award_line 的三座獅子。"
  },
  {
   "id": "ltwm-06474",
@@ -391,7 +391,7 @@
   "awards_unverified": [],
   "idea_one_liner": "挪威乳品大廠 TINE 在奧斯陸美食廣場開 Melkerampa 店，用 M 字桌腳長桌與牛奶瓶吊燈，扭轉工業巨頭形象",
   "brand_display": "TINE Melkerampa",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜設計類銅獅 Design Bronze Lion×2｜代理商：SCANDINAVIAN DESIGN GROUP Oslo\n\n【背景】TINE 是挪威的乳品大廠，常被看成一家工業巨頭。它在奧斯陸的 Mathallen 美食廣場開了 Melkerampa，一間賣乳製品的店兼餐飲空間，想讓人看到 TINE 不只是工廠，也有用在地食材做出的溫暖食物。\n\n【點子】空間設計成一個讓人聚在一起吃東西的地方，並且處處把「牛奶」這個主題做出來，而不是做成一間單純賣產品的店。\n\n【執行】店裡最主要的是一張長長的共享長桌，桌腳特別設計成「M」字（代表 Melkerampa），鼓勵陌生人一起坐下用餐。長桌上方掛著用牛奶瓶做成的吊燈，讓牛奶主題一眼可見。室內由 Inne Design 的室內建築師 Vigdis A. Bergh 設計，與 TINE 和 Scandinavian Design Group 合作。官方報名類別是環境設計（Environmental Design），共兩件銅獅。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/melkerampa-181210\nhttps://www.klikk.no/bolig/inspirasjon/her-ser-du-norges-beste-interior-2346807",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜設計類銅獅 Design Bronze Lion×2｜代理商：SCANDINAVIAN DESIGN GROUP Oslo\n\n【背景】TINE 是挪威的乳品大廠，常被看成一家工業巨頭。它在奧斯陸的 Mathallen 美食廣場開了 Melkerampa，一間賣乳製品的店兼餐飲空間，想讓人看到 TINE 不只是工廠，也有用在地食材做出的溫暖食物。\n\n【點子】空間設計成一個讓人聚在一起吃東西的地方，並且處處把「牛奶」這個主題做出來，而不是做成一間單純賣產品的店。\n\n【執行】店裡最主要的是一張長長的共享長桌，klikk 的圖說寫桌腳設計成「M」字（代表 Melkerampa），照片上是白色金屬條像一筆畫般繞出圓環的造型，鼓勵陌生人一起坐下用餐。長桌上方掛著用牛奶瓶做成的吊燈，讓牛奶主題一眼可見。室內由 Inne Design 的室內建築師 Vigdis A. Bergh 設計，與 TINE 和 Scandinavian Design Group 合作。官方報名類別是環境設計（Environmental Design），共兩件銅獅。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/melkerampa-181210\nhttps://www.klikk.no/bolig/inspirasjon/her-ser-du-norges-beste-interior-2346807",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Design, 設計類, 環境設計, Environmental Design, 銅獅, Bronze Lion, TINE, Melkerampa, 乳製品, 牛奶, 乳品, 食品, 餐飲, 咖啡廳, 概念店, Concept Store, 空間設計, 室內設計, 室內建築, 品牌識別, 品牌空間, 共享長桌, 長桌, M 字桌腳, 牛奶瓶吊燈, 吊燈, 木桌, 紅磚牆, 挪威, Norway, 奧斯陸, Oslo, Mathallen, Scandinavian Design Group, Inne Design, 北歐設計",
   "category": "行銷案例",
   "references": [
@@ -401,9 +401,9 @@
   "image_url": "https://image.klikk.no/2346843.jpg?imageId=2346843&x=0&y=0&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
   "image_shows": "店內空間：淺色木板長桌，桌腳是白色盤繞的線條造型，兩旁排著白色方凳，桌上有牛奶杯、蠟燭與花，後方是玻璃冷藏櫃與紅磚牆",
   "text_source_level": 3,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "只找到室內設計的來源（klikk.no 與官方卡片基本資料）；缺：Scandinavian Design Group 在品牌、包裝、識別上的做法（Graphis 頁 404、adsspot 被擋），所以讀稿只寫空間。官方有兩件 entry（181210、181036），in 檔合併成一筆，181036 沒打開。klikk 的圖說「M 字桌腳」我看照片是盤繞線條造型的桌腳，讀稿照原文寫「特別設計成 M 字」，請驗收確認。已搜爭議：搜「Melkerampa Tine design controversy / plagiarism / copied」，沒有這支設計的相關指控（結果是 TINE 牛奶盒專利的另案，不算）。圖是 klikk 文章主圖。"
+  "note": "只找到室內設計的來源（klikk.no 與官方卡片基本資料）；缺：Scandinavian Design Group 在品牌、包裝、識別上的做法（Graphis 頁 404、adsspot 被擋），所以讀稿只寫空間。官方有兩件 entry（181210、181036），in 檔合併成一筆，181036 沒打開。klikk 的圖說「M 字桌腳」我看照片是盤繞線條造型的桌腳，讀稿照原文寫「特別設計成 M 字」，請驗收確認。已搜爭議：搜「Melkerampa Tine design controversy / plagiarism / copied」，沒有這支設計的相關指控（結果是 TINE 牛奶盒專利的另案，不算）。圖是 klikk 文章主圖。 2026-11-21 Opus 驗：已打開 klikk 主圖：桌腳是白色金屬條盤繞成環、像草寫字母的造型，讀稿改成「klikk 圖說寫 M 字」並描述照片。官方類別是環境設計，作品本身就是這個店面空間，室內設計來源已足夠，拿掉 uncertain；SDG 的識別、包裝做法仍缺。"
  },
  {
   "id": "ltwm-06471",
