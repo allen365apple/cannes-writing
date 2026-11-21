@@ -147,3 +147,13 @@
 - 仍 uncertain：b051 06372、06373、06377（缺劇情）；b052 06384、06382（缺劇情）、06385（廣播缺音檔）；b053 06390（缺創作者原意）、06401（缺劇情）。
 - 圖不理想：沒圖 b052 06385、06388；偏小 b051 06374（只有標誌）、b052 06380（480×360）。
 - 【爭議】新增 0；撤獎 0。
+
+## 2026-11-22 雲端第 1 輪 b054 b055 b056 b057（Sonnet 寫、Opus 驗）
+- 獎項待決：b057 ltwm-06446 JENGA 官方 award_line 寫 GRUPO REFORMA，Sostav 登錄的報名與代理商是 Grey Group México。建議：本機確認後再決定要不要改【得獎】行。
+- 標題待決：b055 ltwm-06414 in 檔作品名「CANNESC」疑似錯字，官方作品名是 FOREST、ALLEY、GORGE（Philips）。建議：本機改標題。
+- 依畫面解讀：b055 ltwm-06422 3M Nexcare GLOBEFISH／OCTOPUS／SPEARFISH 點子只靠看畫面，沒有文字來源；06421 GIRAFFE、06419（驗收員更正為官方只報 GAUNTLET、ARROWS，已改寫）也是看圖判斷。建議：維持收，本機有說明再補。
+- 代理商參考：b054 ltwm-06408 Flash 官方 OMD Wellington、One Show 寫 Clemenger BBDO，維持官方；ltwm-06409 Delta 官方 AKQA New York、in 檔寫 Washington；b057 ltwm-06436 IGLOO award_line Interbrand New York、官方頁寫雪梨，讀稿並列。
+- 名稱推定：b054 ltwm-06405 Figurines 依 Adweek 內容與配圖檔名推定，驗收員認為成立。
+- 仍 uncertain：b054 06403 USFRA（缺作品本身內容）、06410 Westone（缺作品圖）、06411 Focus Group（缺影片說明）、06523 Radio Legends（廣播缺音檔）；b055 06501 ONE DAY CEASEFIRE（缺遊戲內怎麼運作）；b056 06434、06430 HAPPY SHOT、06432（缺說明／音檔，含 Weetabix HOW MANY? 廣播、Billboard 只看到 1／4 張）；b057 06439 DADDY'S GIRL（廣播缺稿）、06446 JENGA（缺案例文字）。
+- 圖不理想：沒圖 b054 06410、06403，b056 HOW MANY?、HAPPY SHOT、HANK、GT ACADEMY，b057 06439；偏小 b057 06435、06447（YouTube 480×360）；看不出點子 b054 06402、06523，b055 ONE DAY CEASEFIRE、LET'S GET INVOLVED、FOLLOW THE FROG。
+- 重複 0（b057 Twinsaver 三支廣播驗收員判定是同一筆報名，不算重複）；【爭議】新增 0；撤獎 0。
