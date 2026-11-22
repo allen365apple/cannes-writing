@@ -184,3 +184,11 @@
 - 仍 uncertain：b065 06561 SURFER（缺這支內容）、06563 Scrabble（缺四張畫面與圖）；b066 06576 THE ENEMIES OF DESPAIR（缺影片與全案說明）；b067 06587 THE LIGHTEST AD EVER（缺做法文字）、06596 THE SOIL RESTAURANT（缺代理商與餐廳的關係）。
 - 圖不理想：沒圖 b065 06570 Airfood、06563；看不出點子 b065 06561（不確定是哪支）、b066 Carambar（揭曉標籤）、b067 06585（YouTube 縮圖）、06596（菜單照）；b067 06593 圖檔在 system.tiquo.app，網址是否長期有效待確認。
 - 重複 0；【爭議】新增 0；撤獎 0。
+
+## 2026-11-23 雲端第 1 輪 b068（Sonnet 寫、Opus 驗）
+- 改回收待決：b068 ltwm-06606 TISSUE（Allegra），寫手因無來源判不收；驗收員補到 Marketing Magazine、The Globe and Mail，已補寫並拿掉 uncertain。建議：decision 改回收（驗收員沒動）。主圖仍缺（只有 132×88 縮圖）。
+- 代理商／客戶參考：b068 06603 THEY KNOW IT 來源同時寫 Leo Burnett 與 McCann Madrid，照官方 McCann；06610 TOOTHBRUSH GAMES 客戶官方寫 LZG、ifun.de 寫萊茵蘭－普法爾茨州健康促進中心，讀稿並陳。
+- 依畫面解讀：b068 06612 MALTESERS 三張海報。建議：維持收。
+- 仍 uncertain：b068 06602 THE WORLD'S SMALLEST IDEA（缺顯微鏡陳列實際內容說明）。
+- 圖不理想：沒圖 b068 06610、06606；看不出點子 06605（只有紅底水滴分鏡）、06600、06601。
+- 重複 0；【爭議】新增 0；撤獎 0。
