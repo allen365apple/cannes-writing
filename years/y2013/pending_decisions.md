@@ -165,3 +165,14 @@
 - 仍 uncertain：b059 06464 MADURO（廣播缺音檔）、06466 GivingTuesday、06468 MAP OF CORRUPTION（來源太薄）；b060 06481 Selleys、06485 Murphy's（缺說明）、06486 Cialis（缺 Mustang 劇情）。
 - 圖不理想：沒圖 b058 06456 LEVEL .06，b059 MADURO、MAP OF CORRUPTION；偏小 b058 06454、b059 THE PROFITEERS（480×360）；看不出點子 b059 LOVEVILLE、b060 06485、06486。
 - 【爭議】新增 0；撤獎 0。
+
+## 2026-11-22 雲端第 2 輪 b061 b062 b063 b064（Sonnet 寫、Opus 驗）
+- 不收待決：b062 ltwm-06526 REMOTE、ltwm-06516 Fifth Third PHOTO BOOTH／SCHOOL PHOTO；b064 ltwm-06551 SPLINTER（Wall's 廣播）。都是找不到任何內容，不是撤獎。建議：本機能看影片／聽音檔就補寫改收，否則維持不收。
+- 獎項待決：b062 ltwm-06516 官方 award_line 把 Leo Burnett India 的 Press 銀獅 SCHOOL 也併進來，疑似上游資料混了別件。建議：本機拆開。
+- 代理商參考：b064 ltwm-06548 SOS BY SMS 官方 DDB Brasil、其他來源寫 DM9Rio；SOUND TYPEFACE 官方 DDB Brasil、Trendhunter 寫 DM9Sul；b063 ltwm-06537 SCRIBEBILLBOARD 各來源代理商不一致。【得獎】行都照官方。
+- 獎項類別參考：b063 06543、06537、06535、06534 官方卡片類別與 in 檔不同，【得獎】行照 in 檔。建議：本機核對。
+- 依畫面解讀：b061 06497 Cafiaspirina 三張海報；b063 06545 SOCCER／HORROR MOVIE／ZOMBIE／ROCKER；b064 06550 BIOLIT。建議：維持收，本機有說明再補。
+- 欄位定義：text_source_level 規則卡沒有定義，b062 寫手自訂（1＝只靠畫面或單一弱來源、2＝官方或兩個以上來源）。建議：維護者在規則卡補定義。
+- 仍 uncertain：b061 06493 Nawras（缺官方說明）、06504 Klara OPPOSITES（廣播缺音檔，needs_audio）、06510 PARENTAL MULTITASKING（不確定 Riskprofilen 就是這件）；b062 06513 Pedro、06520 Finans Leasing、06533 Sandstorm（缺劇情）；b063 06545（依畫面）；b064 06558 STRIPPED SCREW（缺 Vine 內容）、06559 STUPID LITTLE BITCH（廣播缺音檔，needs_audio）、06560 SUNSHINE BUBBLE（缺劇情）。
+- 圖不理想：沒圖 b061 06510，b062 06517 Piracy，b063 06541、06543、06537，b064 06558、06548；偏小 b061 06493（480×360）；看不出點子 b061 06504（用平面廣告）、06502（偏暗），b064 06546。
+- 重複 0；【爭議】新增 0；撤獎 0。
