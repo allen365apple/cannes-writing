@@ -176,3 +176,11 @@
 - 仍 uncertain：b061 06493 Nawras（缺官方說明）、06504 Klara OPPOSITES（廣播缺音檔，needs_audio）、06510 PARENTAL MULTITASKING（不確定 Riskprofilen 就是這件）；b062 06513 Pedro、06520 Finans Leasing、06533 Sandstorm（缺劇情）；b063 06545（依畫面）；b064 06558 STRIPPED SCREW（缺 Vine 內容）、06559 STUPID LITTLE BITCH（廣播缺音檔，needs_audio）、06560 SUNSHINE BUBBLE（缺劇情）。
 - 圖不理想：沒圖 b061 06510，b062 06517 Piracy，b063 06541、06543、06537，b064 06558、06548；偏小 b061 06493（480×360）；看不出點子 b061 06504（用平面廣告）、06502（偏暗），b064 06546。
 - 重複 0；【爭議】新增 0；撤獎 0。
+
+## 2026-11-22 雲端第 2 輪 b065 b066 b067（Sonnet 寫、Opus 驗）
+- 不收待決：b065 ltwm-06572 THE AUDIOGUIDE PROJECT（Tochka G），ltw 頁只有標題與獎項，找不到內容，不是撤獎。建議：本機用瀏覽器開 ltw 232279 補寫後改收。
+- 代理商參考：b065 ltwm-06573 Velofenders 官方 WRONG DIGITAL，Ads of the World／ltw 寫 Pika Riga，查不到兩者關係，【得獎】行照官方。
+- 參考：b065 06569 in 檔標題 BUILDING＝官方 TERRACE（讀稿本來就寫 Terrace），建議本機改標題；b066 06580 Topshop 經 Protein 報導確認是 2013/2/17 Google+ 那場秀；b066 Vilnius 書展官方只報 THE FOREHEAD，只詳寫那張；b067 06595 Slot Car Man 是同一座銅獅報名三支片（SLOT CAR MAN、NEIGHBOUR、CURVE），不是重複。驗收員依官方分鏡補寫 06565 TAKEAWAY、06595、06588，拿掉 uncertain。
+- 仍 uncertain：b065 06561 SURFER（缺這支內容）、06563 Scrabble（缺四張畫面與圖）；b066 06576 THE ENEMIES OF DESPAIR（缺影片與全案說明）；b067 06587 THE LIGHTEST AD EVER（缺做法文字）、06596 THE SOIL RESTAURANT（缺代理商與餐廳的關係）。
+- 圖不理想：沒圖 b065 06570 Airfood、06563；看不出點子 b065 06561（不確定是哪支）、b066 Carambar（揭曉標籤）、b067 06585（YouTube 縮圖）、06596（菜單照）；b067 06593 圖檔在 system.tiquo.app，網址是否長期有效待確認。
+- 重複 0；【爭議】新增 0；撤獎 0。

@@ -31,12 +31,12 @@
    "https://www.dandad.org/work/d-ad-awards-archive/the-useful-book",
    "https://www.lovethework.com/en/work/entries/the-useful-book-179893"
   ],
-  "image_url": "https://cms.dandad.org/images/f28_6IUXIWrMxUQByAwC1FRXPR0=/55849/width-1600/3000x2400_tWwr4ED.jpg",
-  "image_shows": "一本攤開的空白書放在中間，四周散落各種彩色單頁，有字體排印、圖案、插畫與海報式的版面",
+  "image_url": "https://media.dandad.org/images/3000x2400_tWwr4ED.width-1600_kceyi1moORM5w3Ev.jpg",
+  "image_shows": "一本攤開的空白書放在中間，四周散落各種彩色單頁，看得到「DEAR DOG, PLEASE POOP HERE」「DISTURB」「BEWARE SOPHISTICATED GUARD DOG」「INSTA-CH…」等可撕下來用的頁面",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 卡片頁只有基本資料、沒有內文；內容依 D&AD 作品頁與 D&AD 檔案頁整理（兩頁文字相同）。D&AD 頁面沒有圖說，圖是該頁唯一的作品圖，依畫面判斷為書與散落的書頁。搜尋摘要提到的銷售與通路說法來自未打開的頁面，未寫入。已搜爭議：搜「Acne The Useful Book controversy／fake／withdrawn」，只出現無關的痘痘書籍，未見爭議。"
+  "note": "官方 lovethework 卡片頁只有基本資料、沒有內文；內容依 D&AD 作品頁與 D&AD 檔案頁整理（兩頁文字相同）。D&AD 頁面沒有圖說，圖是該頁唯一的作品圖，依畫面判斷為書與散落的書頁。搜尋摘要提到的銷售與通路說法來自未打開的頁面，未寫入。已搜爭議：搜「Acne The Useful Book controversy／fake／withdrawn」，只出現無關的痘痘書籍，未見爭議。 2026-11-22 Opus 驗：原圖網址會 302 轉址，換成轉址後的 media.dandad.org 直連網址（同一張圖，已下載確認）。"
  },
  {
   "id": "ltwm-06590",
@@ -148,21 +148,23 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "瑞典 Svenska Spel 的 Lotto 彩券影片，主角中獎後，在上班的路上鋪滿軌道，像玩具軌道車一樣開車通勤",
+  "idea_one_liner": "瑞典彩券 Svenska Spel 的 Lotto 廣告：男子中獎後，把通勤道路鋪成軌道車跑道，卻又在同一個彎道衝出軌道",
   "brand_display": "Svenska Spel Lotto",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜影片類銅獅 Film Bronze Lion｜代理商：KING Stockholm\n\n【背景】彩券廣告多半只承諾籠統的財富。這支影片改走另一條路：不談籠統的財富，而是拍出一個非常具體、非常個人的夢想，讓 Lotto 顯得貼近生活。\n\n【點子】一名男子中了 Lotto，把大筆獎金用在一件怪事上：在真實世界裡，替自己的通勤路線鋪上特大號的玩具軌道車軌道。\n\n【執行】Selfstorming 的創意分析頁描述，這個軌道車與軌道是實體製作，再用視覺特效融進不同的實景裡，畫面明亮清楚；男子開車不順的挫折，被他用奇幻的方式化解。分鏡畫面上，是一條穿過綠色農田的彎道，路面嵌著兩道金屬軌道，路旁立著黃藍箭頭路標，遠處有一輛紅色小車。\n\n資料來源：\nhttps://www.selfstorming.com/tools/libraries/campaigns/lotto-slot-car-man\nhttps://www.lovethework.com/en/work/entries/the-slot-car-man-curve-205881",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片類, Film, 銅獅, Bronze Lion, 娛樂與休閒, Entertainment & Leisure, Svenska Spel, Lotto, 樂透, 彩券, 博弈, KING Stockholm, KING, 瑞典, Sweden, 斯德哥爾摩, Stockholm, 影片, 電視廣告, TVC, 玩具軌道車, Slot Car, 軌道車, 賽車玩具, 通勤, 中獎, 夢想, 奇幻, 視覺特效, VFX, 幽默, 怪人, ⭐製作物, 實體軌道",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜影片類銅獅 Film Bronze Lion｜代理商：KING Stockholm\n\n【背景】Svenska Spel 是瑞典的國營彩券公司，Lotto 是旗下的樂透彩。Selfstorming 的創意分析頁說，這個系列的出發點是：彩券廣告多半只承諾籠統的財富，這次改拍一個非常具體、非常個人的夢想，讓 Lotto 顯得貼近生活。\n\n【點子】一名男子中了 Lotto，把獎金花在一件怪事上：在真實世界裡，把自己的通勤路線鋪成特大號的玩具軌道車（slot car）跑道，開著軌道車上下班。\n\n【執行】官方這座影片類銅獅是一組三支片，報名名稱是 The Slot Car Man、The Slot Car Man (Neighbour) 與 The Slot Car Man (Curve)。以下依 Curve 這支在官方頁的分鏡格與字幕整理：鄉間農田中的彎道上嵌著兩道金屬軌道，路面畫著黃色箭頭，路旁立著藍黃相間的彎道警示牌；一輛紅色的軌道車高速衝進彎道，接著畫面只剩空蕩蕩的彎道。下一幕，男主角從警示牌後的草叢裡爬出來，講著手機：「嗨親愛的，妳好嗎？可以來接我嗎？……對，我又在那個彎道了。」鏡頭拉遠，路邊堆著一大疊翻覆撞爛的軌道車，畫面打出「Anyone can win.」（誰都可能中獎），最後是 LOTTO 標誌與頭獎金額。Selfstorming 也提到，軌道車與軌道是實體製作，再用視覺特效融進不同的實景。另外兩支的劇情沒有取得，不寫。\n\n資料來源：\nhttps://www.selfstorming.com/tools/libraries/campaigns/lotto-slot-car-man\nhttps://www.lovethework.com/en/work/entries/the-slot-car-man-curve-205881\nhttps://ascentialcdn.filespin.io/api/v1/storyboard/2ab533eec57f47739be494b257c08b4e/storyboard_000018.jpg",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片類, Film, 銅獅, Bronze Lion, 娛樂與休閒, Entertainment & Leisure, Svenska Spel, Lotto, 樂透, 彩券, 博弈, KING Stockholm, KING, 瑞典, Sweden, 斯德哥爾摩, Stockholm, 影片, 電視廣告, TVC, 玩具軌道車, Slot Car, 軌道車, 賽車玩具, 通勤, 中獎, 夢想, 奇幻, 視覺特效, VFX, 幽默, 怪人, ⭐製作物, 實體軌道, 彎道, 翻車, 車禍, 堆疊, 警示牌, 手機, Anyone can win",
   "category": "行銷案例",
   "references": [
    "https://www.selfstorming.com/tools/libraries/campaigns/lotto-slot-car-man",
-   "https://www.lovethework.com/en/work/entries/the-slot-car-man-curve-205881"
+   "https://www.lovethework.com/en/work/entries/the-slot-car-man-curve-205881",
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/2ab533eec57f47739be494b257c08b4e/storyboard_000018.jpg"
   ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/2ab533eec57f47739be494b257c08b4e/storyboard_000002.jpg",
-  "image_shows": "影片分鏡格：綠色農田間的彎曲鄉間道路，路面嵌著兩道金屬軌道，路旁有黃藍箭頭路標，遠處有一輛紅色小車",
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/2ab533eec57f47739be494b257c08b4e/storyboard_000018.jpg",
+  "image_shows": "鄉間彎道旁，男主角站在藍黃彎道警示牌下講手機，右側堆著一大疊翻覆的彩色軌道車，字幕「Can you pick me up?」",
   "text_source_level": 1,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "uncertain：只打開 Selfstorming 一個文字來源（創意分析頁，沒有逐幕劇情）；官方 lovethework 卡片頁沒有內文，adsspot 回 403，LBB 回 403。缺：劇情細節的第二個來源。官方報名的作品名有三個（THE SLOT CAR MAN、THE SLOT CAR MAN (NEIGHBOUR)、THE SLOT CAR MAN (CURVE)），in 檔只列 CURVE，疑似同一點子的不同版本、可能在別批重複，交主對話決定，未改 decision。Selfstorming 頁標年份 2014，與 2013 獎項不一致，讀稿未寫年份。已搜爭議：搜「Svenska Spel Slot Car Man controversy／fake／withdrawn／banned」，只出現 Svenska Spel 的賭博法規新聞，與本片無關，未見爭議。"
+  "note": "uncertain：只打開 Selfstorming 一個文字來源（創意分析頁，沒有逐幕劇情）；官方 lovethework 卡片頁沒有內文，adsspot 回 403，LBB 回 403。缺：劇情細節的第二個來源。官方報名的作品名有三個（THE SLOT CAR MAN、THE SLOT CAR MAN (NEIGHBOUR)、THE SLOT CAR MAN (CURVE)），in 檔只列 CURVE，疑似同一點子的不同版本、可能在別批重複，交主對話決定，未改 decision。Selfstorming 頁標年份 2014，與 2013 獎項不一致，讀稿未寫年份。已搜爭議：搜「Svenska Spel Slot Car Man controversy／fake／withdrawn／banned」，只出現 Svenska Spel 的賭博法規新聞，與本片無關，未見爭議。 2026-11-22 Opus 驗：依官方分鏡格 22 格（含字幕）補寫 Curve 的劇情，換圖為路邊堆滿翻覆軌道車那格，拿掉 uncertain。重複判斷：官方這一座銅獅本身就報名三支片（同一筆 award 的 entry_titles），不是清單重複列兩筆，也不是別批另有一筆，不算重複；讀稿已註明是三支一組、只寫 Curve。",
+  "idea_one_liner_r0": "瑞典 Svenska Spel 的 Lotto 彩券影片，主角中獎後，在上班的路上鋪滿軌道，像玩具軌道車一樣開車通勤"
  },
  {
   "id": "ltwm-06586",
@@ -343,23 +345,25 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "挪威電視業者 Canal Digital 的影片，主角自稱「世界上最會生孩子的女人」，一大群孩子站在她身邊",
+  "idea_one_liner": "挪威付費電視 Canal Digital 的廣告：一碰男人就懷孕的 Grete 生了 32 個爸爸不同的孩子，愛看的節目都不同",
   "brand_display": "Canal Digital",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜影片類銅獅 Film Bronze Lion｜代理商：TRY/APT ADVERTISING AGENCY Oslo\n\n【背景】Canal Digital 是總部在挪威的北歐付費電視與網路業者（Wikipedia）。這支片名為「The Most Fertile Woman in the World」，由 Oslo 的 Try/Apt 製作，Lionel Goldstein 導演，2012 年 10 月已有部落格轉載。\n\n【點子】片名直接點出主角是「世界上最會生孩子的女人」。我沒能打開任何說明影片訊息與產品賣點的來源，所以只寫看得到的畫面。\n\n【執行】兩張畫面：其一，一位女子站在白色木屋前，四周圍著一大群大小不一的孩子，字幕寫著「I am the most fertile woman in the world.」（我是世界上最會生孩子的女人）；其二，在一間木牆的會議廳裡，一位女子手抱吉他站在小舞台上，身後和兩旁是一大群各自抱著吉他的孩子，台下有幾位背對鏡頭的觀眾坐在紅色椅子上。\n\n資料來源：\nhttps://thepleasureofchaos.wordpress.com/2012/10/09/canal-digital-the-most-fertile-woman-in-the-world/\nhttps://www.unblock.coffee/campaign/the-most-fertile-woman-in-the-world/\nhttps://en.wikipedia.org/wiki/Canal_Digital\nhttps://www.lovethework.com/en/work/entries/the-most-fertile-woman-in-the-world-206202",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片類, Film, 銅獅, Bronze Lion, 公共服務, Commercial Public Services, Canal Digital, Canal Digital Norge, TRY/APT, TRY, Try/Apt Oslo, 電視, 付費電視, 電視頻道, 電視頻道包, Optional TV Package, 挪威, Norway, 奧斯陸, Oslo, 影片, 電視廣告, TVC, 幽默, 荒謬, 誇張, 媽媽, 孩子, 大家庭, 吉他, 紀錄片風格, The Most Fertile Woman in the World",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜影片類銅獅 Film Bronze Lion｜代理商：TRY/APT ADVERTISING AGENCY Oslo\n\n【背景】Canal Digital 是總部在挪威的北歐付費電視與網路業者（Wikipedia）。這支片名為「The Most Fertile Woman in the World」，由 Oslo 的 Try/Apt 製作，Lionel Goldstein 導演，2012 年 10 月已有部落格轉載。\n\n【點子】用一個荒謬的假紀錄片，替「150 個頻道任選」的電視套餐找理由：一個媽媽有 32 個爸爸各不相同的孩子，個性各不相同，想看的節目當然也不一樣。\n\n【執行】以下依官方頁的影片分鏡格與英文字幕整理。片子仿紀錄片口吻，女主角自我介紹：「我叫 Grete，我是世界上最會生孩子的女人。」醫生說，Grete 多年前來看診，他發現她的卵子「過度敏感」，只要被男人碰到就會懷孕：她在公車上被扶一把、在排隊時彎腰撞到人，都懷孕了。她說年輕時一直懷孕，之後也一直如此；她想讓孩子知道自己的爸爸是誰，於是在超市裡問一位男子叫什麼名字，對方回答 Bert，她說：「你剛剛讓我懷孕了。」接著她帶孩子去見各自的父親，說「這是你兒子」。她說為 32 個孩子驕傲，他們都是奇蹟；因為爸爸都不一樣，孩子們個性也不同，所以喜歡看不同的電視節目。畫面是孩子們擠在一間擺了好幾台電視的客廳裡，各看各的節目。片尾字卡：「Choose from 150 channels in our optional TV package」（從我們的選購電視套餐裡任選 150 個頻道），以及 Canal Digital 標誌與 canaldigital.no。\n\n資料來源：\nhttps://thepleasureofchaos.wordpress.com/2012/10/09/canal-digital-the-most-fertile-woman-in-the-world/\nhttps://www.unblock.coffee/campaign/the-most-fertile-woman-in-the-world/\nhttps://en.wikipedia.org/wiki/Canal_Digital\nhttps://www.lovethework.com/en/work/entries/the-most-fertile-woman-in-the-world-206202\nhttps://ascentialcdn.filespin.io/api/v1/storyboard/5dbc823208c74173857926f216e6320b/storyboard_000074.jpg",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片類, Film, 銅獅, Bronze Lion, 公共服務, Commercial Public Services, Canal Digital, Canal Digital Norge, TRY/APT, TRY, Try/Apt Oslo, 電視, 付費電視, 電視頻道, 電視頻道包, Optional TV Package, 挪威, Norway, 奧斯陸, Oslo, 影片, 電視廣告, TVC, 幽默, 荒謬, 誇張, 媽媽, 孩子, 大家庭, 吉他, 紀錄片風格, The Most Fertile Woman in the World, 假紀錄片, Mockumentary, 懷孕, 32 個孩子, 多台電視, 150 個頻道, 頻道選擇, 客廳",
   "category": "行銷案例",
   "references": [
    "https://thepleasureofchaos.wordpress.com/2012/10/09/canal-digital-the-most-fertile-woman-in-the-world/",
    "https://www.unblock.coffee/campaign/the-most-fertile-woman-in-the-world/",
    "https://en.wikipedia.org/wiki/Canal_Digital",
-   "https://www.lovethework.com/en/work/entries/the-most-fertile-woman-in-the-world-206202"
+   "https://www.lovethework.com/en/work/entries/the-most-fertile-woman-in-the-world-206202",
+   "https://ascentialcdn.filespin.io/api/v1/storyboard/5dbc823208c74173857926f216e6320b/storyboard_000074.jpg"
   ],
-  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/5dbc823208c74173857926f216e6320b/storyboard_000002.jpg",
-  "image_shows": "影片分鏡格：木牆會議廳的小舞台上，一位女子抱著吉他，身後與兩旁是一大群各抱吉他的孩子，台下有幾位背對鏡頭的觀眾",
+  "image_url": "https://ascentialcdn.filespin.io/api/v1/storyboard/5dbc823208c74173857926f216e6320b/storyboard_000074.jpg",
+  "image_shows": "客廳裡擺著六、七台電視，各播不同的卡通與節目，一大群孩子坐在沙發與地上各看各的，後方是女主角",
   "text_source_level": 1,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "uncertain：缺廣告的劇情與訴求說明。官方 lovethework 卡片頁沒有內文；adsspot、Ad Age、AdForum 回 403 或擋爬蟲；Pleasure of Chaos 與 Unblock Coffee 只有基本資料與圖。搜尋摘要提到「150 個頻道」的賣點只見摘要，未寫入。讀稿僅描述兩張看得到的畫面（Unblock Coffee 縮圖與官方分鏡格）。已搜爭議：搜「Canal Digital Most Fertile Woman in the World controversy／fake／complaint／withdrawn」，結果與本片無關，未見爭議。"
+  "note": "uncertain：缺廣告的劇情與訴求說明。官方 lovethework 卡片頁沒有內文；adsspot、Ad Age、AdForum 回 403 或擋爬蟲；Pleasure of Chaos 與 Unblock Coffee 只有基本資料與圖。搜尋摘要提到「150 個頻道」的賣點只見摘要，未寫入。讀稿僅描述兩張看得到的畫面（Unblock Coffee 縮圖與官方分鏡格）。已搜爭議：搜「Canal Digital Most Fertile Woman in the World controversy／fake／complaint／withdrawn」，結果與本片無關，未見爭議。 2026-11-22 Opus 驗：依官方分鏡格 84 格（含英文字幕與片尾字卡）補寫劇情、點子與「150 頻道」賣點，換圖為多台電視客廳那格，拿掉 uncertain。",
+  "idea_one_liner_r0": "挪威電視業者 Canal Digital 的影片，主角自稱「世界上最會生孩子的女人」，一大群孩子站在她身邊"
  },
  {
   "id": "ltwm-06593",
@@ -383,9 +387,9 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "Urban Ears 為 DJ 混音 App Slussen 做了可刮的海報，唱片圖案刻有紋路，用指甲刮就會發出聲音",
+  "idea_one_liner": "瑞典耳機品牌 Urban Ears 為 DJ 混音 App Slussen 做了可刮的海報，唱片圖案刻有紋路，用指甲刮就會發出聲音",
   "brand_display": "Urban Ears",
-  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜設計類銅獅 Design Bronze Lion｜代理商：UNCLE GREY Copenhagen\n\n【背景】Urban Ears 推出新產品 Slussen，是一款 iPhone 上的行動 DJ 混音 App，Uncle Grey 哥本哈根為它在丹麥做了這張海報。\n\n【點子】把 App 的「刮碟」（scratch）功能做成實體海報：想知道這個 App 能做什麼，直接在廣告上刮刮看。\n\n【執行】海報上的唱片插畫刻有紋路，用指甲刮過就會發出聲音，像在刮黑膠唱片。據 The Vinyl Factory 的報導，海報用的是 3 毫米厚的黑膠材質，刻痕的間距模仿基本的轉盤技法：一次與兩次 click flare、chirp flare，以及推桿（crossfader）基本功。Uncle Grey 的說法是把 App 的互動帶到傳統的類比媒體上。海報被放在選定的商店裡、張貼在城市街頭，還在一場大型活動中讓人跟著強烈的節拍刮海報。畫面上，海報中央是橘色的圓形唱片標籤，寫著「SCRATCH HERE」與「YOUR FINGER NAIL」，周圍是黑色的紋路。\n\n資料來源：\nhttps://www.adsoftheworld.com/campaigns/the-scratch-poster\nhttps://thevinylfactory.com/news/ad-agency-uncle-grey-create-turntablist-scratch-vinyl-posters\nhttps://www.lovethework.com/en/work/entries/the-scratch-poster-180598",
+  "full_text": "【得獎】2013 坎城獅子獎（Cannes Lions 2013）｜設計類銅獅 Design Bronze Lion｜代理商：UNCLE GREY Copenhagen\n\n【背景】瑞典耳機品牌 Urban Ears 推出新產品 Slussen，是一款 iPhone 上的行動 DJ 混音 App，Uncle Grey 哥本哈根為它在丹麥做了這張海報。\n\n【點子】把 App 的「刮碟」（scratch）功能做成實體海報：想知道這個 App 能做什麼，直接在廣告上刮刮看。\n\n【執行】海報上的唱片插畫刻有紋路，用指甲刮過就會發出聲音，像在刮黑膠唱片。據 The Vinyl Factory 的報導，海報用的是 3 毫米厚的黑膠材質，刻痕的間距模仿基本的轉盤技法：一次與兩次 click flare、chirp flare，以及推桿（crossfader）基本功。Uncle Grey 的說法是把 App 的互動帶到傳統的類比媒體上。海報被放在選定的商店裡、張貼在城市街頭，還在一場大型活動中讓人跟著強烈的節拍刮海報。畫面上，海報中央是橘色的圓形唱片標籤，寫著「SCRATCH HERE」與「YOUR FINGER NAIL」，周圍是黑色的紋路。\n\n資料來源：\nhttps://www.adsoftheworld.com/campaigns/the-scratch-poster\nhttps://thevinylfactory.com/news/ad-agency-uncle-grey-create-turntablist-scratch-vinyl-posters\nhttps://www.lovethework.com/en/work/entries/the-scratch-poster-180598",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2013, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 設計類, Design, 銅獅, Bronze Lion, 銷售點, Point of Sale, Urban Ears, Slussen, UNCLE GREY, Uncle Grey Copenhagen, Grey, 耳機, 音樂, DJ, 混音, 手機 App, App, iPhone, 丹麥, Denmark, 哥本哈根, Copenhagen, ⭐形式／載體, 海報, 戶外廣告, ⭐製作物, 黑膠, 黑膠唱片, Vinyl, 唱片, 刮碟, Scratch, 指甲, 刻紋, 互動, 互動海報, 可操作, 聲音, Scratch Poster",
   "category": "行銷案例",
   "references": [
@@ -398,6 +402,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 卡片頁沒有內文；內容依 Ads of the World 與 The Vinyl Factory 整理。圖來自 Ads of the World 頁面沒給圖、改由 The Vinyl Factory 文中引用的圖檔網址（system.tiquo.app），網址是否長期有效需本機確認。報導中「海報多半被民眾拿走」屬活動後結果，未寫。已搜爭議：搜「Urban Ears Scratch Poster Uncle Grey controversy／fake／plagiarism／withdrawn」，結果與本案無關，未見爭議。"
+  "note": "官方 lovethework 卡片頁沒有內文；內容依 Ads of the World 與 The Vinyl Factory 整理。圖來自 Ads of the World 頁面沒給圖、改由 The Vinyl Factory 文中引用的圖檔網址（system.tiquo.app），網址是否長期有效需本機確認。報導中「海報多半被民眾拿走」屬活動後結果，未寫。已搜爭議：搜「Urban Ears Scratch Poster Uncle Grey controversy／fake／plagiarism／withdrawn」，結果與本案無關，未見爭議。 2026-11-22 Opus 驗：一句話補上 Urban Ears 的身分。",
+  "idea_one_liner_r0": "Urban Ears 為 DJ 混音 App Slussen 做了可刮的海報，唱片圖案刻有紋路，用指甲刮就會發出聲音"
  }
 ]
