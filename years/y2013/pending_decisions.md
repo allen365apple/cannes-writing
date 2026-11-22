@@ -192,3 +192,11 @@
 - 仍 uncertain：b068 06602 THE WORLD'S SMALLEST IDEA（缺顯微鏡陳列實際內容說明）。
 - 圖不理想：沒圖 b068 06610、06606；看不出點子 06605（只有紅底水滴分鏡）、06600、06601。
 - 重複 0；【爭議】新增 0；撤獎 0。
+
+## 2026-11-23 雲端第 1 輪 b069 b070 b071 b072（Sonnet 寫、Opus 驗）
+- 品牌待確認：b071 ltwm-06647 WHEEL，官方品牌是 GOL 航空，但得獎名單寫成福斯 Gol 車款，且找不到作品說明。建議：本機核對官方卡片後決定品牌與是否補寫。
+- 獎項參考：b072 ltwm-06655 ZAPARO 經 lovethework 確認是 2013 銅獅；「2014 入圍」是另一件 Zaparo Collection，不是重複。驗收員已補寫並拿掉 uncertain。
+- 來源參考：b072 13763 YOUR BETTER STARTS HERE 內容只來自代理商自述頁（netlify 鏡像）；b069 06615 in 檔品牌空白，客戶是 Alive e.V.；06619 Unity Paper 官方客戶 WESTONE、報導寫 Wijeya Newspapers；b070 06626 Call me 報導數字自相矛盾，讀稿寫成「報導這樣說」；06637 Hindustan Times 官方代理商 Lowe London、另有 Lowe Lintas 說法，照官方。
+- 仍 uncertain：b069 06621 Noise International（只有 B&T 一篇）；b070 06633 Camp Wandawega（缺畫面與說明）；b071 06647 WHEEL（缺說明）、06642 NATHALIE（缺劇情）、06649 TUNA TUNES（缺玩法）；b072 13764 Q CHOCOLATE（缺包裝做法來源）。
+- 圖不理想：沒圖 b069 06618、06619、06621、06623、06615，b070 06626、06633，b071 06647、06643、06640、06646，b072 13764、06653；偏小 b070 06629（550×231），b069 06616（569×344）。
+- 重複 0；【爭議】新增 0；撤獎 0。
