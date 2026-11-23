@@ -80,7 +80,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方報名名稱只有「BREATHE HAPPY」（創意實效類），官方頁面無內文；內容依 D&AD 條目、Shoot 報導、POPSOP 與案例板整理。入 in 檔的官方候選圖只有 132 像素縮圖，改用 lovethework 同品牌（Febreze）2012 活動頁上的 Live Commercial 案例板，它是 Breathe Happy 系列的一支延伸，不是創意實效報名的專屬板，驗收請留意。已搜爭議：搜「Febreze Breathe Happy controversy／fake／fraud／withdrawn」，沒有造假、撤獎；只看到美國 NAD 對 Febreze「消除異味」宣稱的裁決搜尋結果（未打開頁面、未寫入，屬品牌宣稱爭議，不算本作品）。讀稿不寫成效與其他獎項。"
+  "note": "官方報名名稱只有「BREATHE HAPPY」（創意實效類），官方頁面無內文；內容依 D&AD 條目、Shoot 報導、POPSOP 與案例板整理。入 in 檔的官方候選圖只有 132 像素縮圖，改用 lovethework 同品牌（Febreze）2012 活動頁上的 Live Commercial 案例板，它是 Breathe Happy 系列的一支延伸，不是創意實效報名的專屬板，驗收請留意。已搜爭議：搜「Febreze Breathe Happy controversy／fake／fraud／withdrawn」，沒有造假、撤獎；只看到美國 NAD 對 Febreze「消除異味」宣稱的裁決搜尋結果（未打開頁面、未寫入，屬品牌宣稱爭議，不算本作品）。讀稿不寫成效與其他獎項。 2026-11-23 Opus 驗：打開案例板確認是 Febreze「Live Commercial」（貨櫃實驗），內容與讀稿【執行】相符；它屬 Breathe Happy 系列，作為創意實效（整體活動）報名的配圖可接受。【點子】那句被程式標疑似成效，判斷不是成效，保留。"
  },
  {
   "id": "ltwm-05348",
@@ -204,7 +204,7 @@
   "text_source_level": 3,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方頁面無內文；點子與合作品牌依 Artribune，製作人員依 Ads of the World。找不到各品牌廣告改了哪些鏡頭的描述，讀稿未寫細節。官方獎項多達 8 座（含 Direct、PR、Promo & Activation 等），in 檔為官方名單，award_line 照用。成效數字與其他獎項未寫入。已搜爭議：搜「Coordown Integration Day Saatchi controversy／fake／withdrawn／criticism」，沒有找到爭議。"
+  "note": "官方頁面無內文；點子與合作品牌依 Artribune，製作人員依 Ads of the World。找不到各品牌廣告改了哪些鏡頭的描述，讀稿未寫細節。官方獎項多達 8 座（含 Direct、PR、Promo & Activation 等），in 檔為官方名單，award_line 照用。成效數字與其他獎項未寫入。已搜爭議：搜「Coordown Integration Day Saatchi controversy／fake／withdrawn／criticism」，沒有找到爭議。 2026-11-23 Opus 驗：對過 Artribune 原文：七個品牌名單、把原演員換成唐氏症者、「廣告裡能換、現實能否融合」的提問都相符；另有 Ads of the World 與官方卡片，來源雖少但做法有原文佐證，不改。"
  },
  {
   "id": "ltwm-05345",
@@ -259,7 +259,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方頁面無內文，內容主要依 Ads of the World 一份來源，找不到第二份完整說明（AdForum、if Design 連不上）。官方 case board（filespin 22b3767…）下載後是星際大戰片頭字卡加 Apple 標誌，不是這件作品的點子，不用；改用官方 YouTube 縮圖。已搜爭議：搜「LEGO Builders of Sound Serviceplan controversy／fake／withdrawn」，沒有爭議。搜尋摘要中的銷售數字未寫入。"
+  "note": "官方頁面無內文，內容主要依 Ads of the World 一份來源，找不到第二份完整說明（AdForum、if Design 連不上）。官方 case board（filespin 22b3767…）下載後是星際大戰片頭字卡加 Apple 標誌，不是這件作品的點子，不用；改用官方 YouTube 縮圖。已搜爭議：搜「LEGO Builders of Sound Serviceplan controversy／fake／withdrawn」，沒有爭議。搜尋摘要中的銷售數字未寫入。 2026-11-23 Opus 驗：打開官方 case board 確認是星際大戰首部曲片頭字卡（右下 Apple 標誌），看不出點子，維持用 YouTube 縮圖。"
  },
  {
   "id": "ltwm-05476",
@@ -294,21 +294,22 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "樂高用幾疊單色積木，靠顏色與高矮比例，暗示辛普森等卡通角色，讓讀者自己認出是誰",
+  "idea_one_liner": "樂高平面廣告只用幾疊單色積木，靠顏色與高矮比例，讓讀者自己認出唐老鴨、藍色小精靈等卡通角色",
   "brand_display": "LEGO",
-  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜戶外類銀獅 Outdoor Silver Lion×2、Press類銀獅 Press Silver Lion｜代理商：JUNG von MATT Hamburg\n\n【點子】Jung von Matt Hamburg 為樂高做了一系列叫「Imagine」的極簡平面廣告：只用幾疊單色積木，靠顏色與高矮比例暗示一個大家熟悉的卡通角色，讓讀者自己動腦認出是誰，等於示範「想像力」就是樂高。\n\n【執行】報導中提到的角色有辛普森一家、Ernie 與 Bert、Smurfs（藍色小精靈）等；官方報名的五件作品是 Asterix 與 Obelix、Ernie 與 Bert、Smurfs、Lucky Luke 與 Daltons 兄弟、Tick Trick 與 Track。每個角色細節都被拿掉，例如荷馬是黃積木疊白積木再疊藍積木，只保留關鍵色塊。圖上是 Asterix 與 Obelix：一矮一高兩個積木人形，站在米色背景上，左上角是 LEGO 標誌，右上角寫著 IMAGINE。\n\n【爭議】有部落格與廣告網站 adland.tv 指出，網路上在這組廣告推出前，就有粉絲做過類似的樂高版《辛普森家庭》，質疑點子是抄襲；MyModernMet 報導說這個疑問沒有定論。\n\n資料來源：\nhttps://mymodernmet.com/jung-von-matt-imagine-lego-ad/\nhttps://www.gessato.com/imagine-lego-ads-by-jung-von-matt/",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜戶外類銀獅 Outdoor Silver Lion×2、Press類銀獅 Press Silver Lion｜代理商：JUNG von MATT Hamburg\n\n【點子】Jung von Matt Hamburg 為樂高做了一系列叫「Imagine」的極簡平面廣告：只用幾疊單色積木，靠顏色與高矮比例暗示一個大家熟悉的卡通角色，讓讀者自己動腦認出是誰，等於示範「想像力」就是樂高。\n\n【執行】報導中提到的角色有辛普森一家、Ernie 與 Bert、Smurfs（藍色小精靈）等；官方報名的五件作品是 Asterix 與 Obelix、Ernie 與 Bert、Smurfs、Lucky Luke 與 Daltons 兄弟、Tick Trick 與 Track。每個角色細節都被拿掉，例如荷馬是黃積木疊白積木再疊藍積木，只保留關鍵色塊。官方作品圖是 TICK TRICK AND TRACK（唐老鴨三個姪子的德文名）這一幅：米色背景上，一疊較高的藍、白、橘積木旁站著三疊較矮、頂端分別是綠、紅、藍的積木，就是唐老鴨和三個姪子；Asterix 與 Obelix 那一幅則是一矮一高兩個積木人形，右上角寫著 IMAGINE。\n\n【爭議】有部落格與廣告網站 adland.tv 指出，網路上在這組廣告推出前，就有粉絲做過類似的樂高版《辛普森家庭》，質疑點子是抄襲；MyModernMet 報導說這個疑問沒有定論。\n\n資料來源：\nhttps://mymodernmet.com/jung-von-matt-imagine-lego-ad/\nhttps://www.gessato.com/imagine-lego-ads-by-jung-von-matt/",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 戶外類銀獅 Outdoor Silver Lion×2, Press類銀獅 Press Silver Lion, 樂高, LEGO, 極簡, Minimalist, 卡通角色, 卡通, 辛普森, The Simpsons, 藍色小精靈, The Smurfs, Asterix, Obelix, Ernie, Bert, Lucky Luke, 積木, 色塊, 想像力, Imagine, 童年回憶, 平面廣告, 戶外廣告, 海報, Press, 玩具, 德國, Germany, 漢堡, Jung von Matt, Jung von Matt Hamburg, JvM, 系列廣告",
   "category": "行銷案例",
   "references": [
    "https://mymodernmet.com/jung-von-matt-imagine-lego-ad/",
    "https://www.gessato.com/imagine-lego-ads-by-jung-von-matt/"
   ],
-  "image_url": "https://www.gessato.com/wp-content/uploads/2012/03/Lego-Imagine-Jung-Von-Matt-gselect-gessato-gblog-011.jpg",
-  "image_shows": "系列中的 Asterix 與 Obelix 一幅：米色背景上，一矮一高兩個用積木疊出的人形，左上角 LEGO 標誌，右上角 IMAGINE",
+  "image_url": "https://portal-assets.imgix.net/archive/2012/stitched/cf452c63c0204ac94e99f532c7b0425d.jpg",
+  "image_shows": "官方作品圖（TICK TRICK AND TRACK）：米色背景上，左邊一疊較高的藍、白、橘積木，右邊三疊較矮、頂端分別是綠、紅、藍的積木，看得出是唐老鴨與三個姪子；左上角 LEGO 標誌，右上角 WWW.LEGO.DE",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 in 檔的候選圖體檢是全黑，改用 Gessato 文章裡的系列廣告圖（854×604，淺色極簡畫面所以檔案只有 8KB，程式會標「極小」，我打開看過內容正常）（只代表系列中的一幅）。官方 entry_titles 為五個角色名；其中 Asterix 與 Obelix 那幅是我打開看過的，其他幅未逐張打開。官方得獎 Outdoor 與 Press 都是這五件的組合。已搜爭議：搜「LEGO Imagine Jung von Matt plagiarism／copied／fan art」，有抄襲指控（粉絲版樂高辛普森在先，來源為 MyModernMet 引述 adland.tv），未見官方回應，依規則算爭議，已寫入【爭議】。"
+  "note": "官方 in 檔的候選圖體檢是全黑，改用 Gessato 文章裡的系列廣告圖（854×604，淺色極簡畫面所以檔案只有 8KB，程式會標「極小」，我打開看過內容正常）（只代表系列中的一幅）。官方 entry_titles 為五個角色名；其中 Asterix 與 Obelix 那幅是我打開看過的，其他幅未逐張打開。官方得獎 Outdoor 與 Press 都是這五件的組合。已搜爭議：搜「LEGO Imagine Jung von Matt plagiarism／copied／fan art」，有抄襲指控（粉絲版樂高辛普森在先，來源為 MyModernMet 引述 adland.tv），未見官方回應，依規則算爭議，已寫入【爭議】。 2026-11-23 Opus 驗：官方候選圖（stitched cf452c…）下載打開看過並非全黑，是淺米色底的 TICK TRICK AND TRACK 一幅（唐老鴨與三個姪子），屬官方報名作品，改用它；程式仍會因檔案小標「疑似單色」，可忽略。一句話原本以辛普森為例，但辛普森不在官方報名五幅裡，改舉報名作品的角色。已對 MyModernMet 原文：抄襲質疑（adland.tv 指粉絲版樂高辛普森在先、結論未定）屬實，【爭議】段保留。",
+  "idea_one_liner_r0": "樂高用幾疊單色積木，靠顏色與高矮比例，暗示辛普森等卡通角色，讓讀者自己認出是誰"
  },
  {
   "id": "ltwm-05459",
@@ -349,9 +350,9 @@
   "image_url": "https://portal-assets.imgix.net/archive/2012/stitched/49aeea5fae065e0cb6f5321af3f0460a.jpg",
   "image_shows": "橫幅海報：黑色宇宙背景中央一團爆炸的亮光，向外飛散各色大小樂高積木，左上角 LEGO 標誌與「THE BEGINNING」字樣",
   "text_source_level": 4,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "依作品畫面解讀，無文字說明：官方頁面與 Ads of the World 只有基本資料（哥斯大黎加、2012 年 4 月、Ogilvy 哥斯大黎加、插畫師 Gerardo Valerio），沒有案例文字。官方品牌欄寫 UNIVERSAL（樂高在當地的代理商），讀稿以樂高為主。搜尋摘要提到的「45 萬塊積木」「店內發海報」等說法未打開來源，未寫入。缺：案例背景與實際媒介（海報如何張貼）。已搜爭議：搜「LEGO Big Bang Ogilvy Costa Rica controversy／fake／withdrawn」，沒有爭議（只看到樂高告哥國公司的商標案，與作品無關）。"
+  "note": "依作品畫面解讀，無文字說明：官方頁面與 Ads of the World 只有基本資料（哥斯大黎加、2012 年 4 月、Ogilvy 哥斯大黎加、插畫師 Gerardo Valerio），沒有案例文字。官方品牌欄寫 UNIVERSAL（樂高在當地的代理商），讀稿以樂高為主。搜尋摘要提到的「45 萬塊積木」「店內發海報」等說法未打開來源，未寫入。缺：案例背景與實際媒介（海報如何張貼）。已搜爭議：搜「LEGO Big Bang Ogilvy Costa Rica controversy／fake／withdrawn」，沒有爭議（只看到樂高告哥國公司的商標案，與作品無關）。 2026-11-23 Opus 驗：打開官方作品圖確認：黑色宇宙中爆炸的光向外噴出各色樂高積木，左上 LEGO 與 THE BEGINNING，「宇宙的起點＝樂高積木」的巧思看得出來，依規則依畫面解讀即可，拿掉 uncertain。Clio 頁 404，沒有補到文字來源。"
  },
  {
   "id": "ltwm-05875",
@@ -374,21 +375,22 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "Febreze 邀阿塞拜疆國家摔角隊上陣，在倫敦奧運前，拿最汗臭的運動員做實驗，證明去味力",
+  "idea_one_liner": "Febreze 邀亞塞拜然國家摔角隊上陣，在倫敦奧運前，拿最汗臭的運動員做實驗，證明去味力",
   "brand_display": "Febreze",
-  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：GREY NEW YORK\n\n【背景】Febreze 與 Ambi Pur 同為 P&G 的品牌，隨 P&G 成為倫敦 2012 奧運全球合作夥伴，一起推出奧運廣告活動。\n\n【點子】選擇摔角當主角，因為摔角最容易讓人聯想到臭味；官方阿塞拜疆國家摔角隊簽下參與廣告，因為摔角常被視為該國的國民運動。品牌要證明自己的除臭力連最強烈的汗臭也能打敗。\n\n【執行】活動延續 Febreze「Breathe Happy」系列，用一般人的氣味實驗當廣告。先在網路釋出預告片，帶觀眾到倫敦，在運動員身上做汗臭的 Breathe Happy 實驗；Facebook 上也放了一系列影片，讓粉絲看到球隊備戰奧運、認識選手。\n\n資料來源：\nhttps://popsop.com/fabreze-and-azerbaijani-wrestling-team-conquer-bad-odors-in-the-brands-olympics-ad-campaign\nhttps://www.lovethework.com/en/work/entries/the-official-sponsorship-of-the-azerbaijani-olympic-wrestlers-215494",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Promo & Activation類銅獅 Promo & Activation Bronze Lion, 除臭, 空氣清新, 芳香劑, 日用品, 奧運, 倫敦奧運, London 2012, Olympics, 摔角, Wrestling, 阿塞拜疆, Azerbaijan, 運動員, 汗臭, 汗味, 贊助, 運動贊助, 蒙眼實驗, Breathe Happy, P&G, Procter & Gamble, Ambi Pur, Grey New York, Grey, 英國, 美國, 影片, 幽默, 社群, Facebook",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：GREY NEW YORK\n\n【背景】Febreze 與 Ambi Pur 同為 P&G 的品牌，隨 P&G 成為倫敦 2012 奧運全球合作夥伴，一起推出奧運廣告活動。\n\n【點子】選擇摔角當主角，因為摔角最容易讓人聯想到臭味；官方亞塞拜然國家摔角隊簽下參與廣告，因為摔角常被視為該國的國民運動。品牌要證明自己的除臭力連最強烈的汗臭也能打敗。\n\n【執行】活動延續 Febreze「Breathe Happy」系列，用一般人的氣味實驗當廣告。先在網路釋出預告片，帶觀眾到倫敦，在運動員身上做汗臭的 Breathe Happy 實驗；Facebook 上也放了一系列影片，讓粉絲看到球隊備戰奧運、認識選手。\n\n資料來源：\nhttps://popsop.com/fabreze-and-azerbaijani-wrestling-team-conquer-bad-odors-in-the-brands-olympics-ad-campaign\nhttps://www.lovethework.com/en/work/entries/the-official-sponsorship-of-the-azerbaijani-olympic-wrestlers-215494",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Promo & Activation類銅獅 Promo & Activation Bronze Lion, 除臭, 空氣清新, 芳香劑, 日用品, 奧運, 倫敦奧運, London 2012, Olympics, 摔角, Wrestling, 亞塞拜然, Azerbaijan, 運動員, 汗臭, 汗味, 贊助, 運動贊助, 蒙眼實驗, Breathe Happy, P&G, Procter & Gamble, Ambi Pur, Grey New York, Grey, 英國, 美國, 影片, 幽默, 社群, Facebook",
   "category": "行銷案例",
   "references": [
    "https://popsop.com/fabreze-and-azerbaijani-wrestling-team-conquer-bad-odors-in-the-brands-olympics-ad-campaign",
    "https://www.lovethework.com/en/work/entries/the-official-sponsorship-of-the-azerbaijani-olympic-wrestlers-215494"
   ],
   "image_url": "https://popsop.com/wp-content/uploads/fabreze_azerbaidjani_team_campaign_01.png",
-  "image_shows": "活動宣傳圖：五位穿紅色摔角服的阿塞拜疆選手並排微笑，標題「Febreze Takes Down Odors」，右下是 Febreze 產品",
+  "image_shows": "活動宣傳圖：五位穿紅色摔角服的亞塞拜然選手並排微笑，標題「Febreze Takes Down Odors」，右下是 Febreze 產品",
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": false,
-  "note": "文字來源只有 POPSOP 一篇新聞稿式報導，官方 lovethework 頁無內文；BusinessWire、Ispot、SBJ 連不上。缺：廣告影片本身實際拍了什麼。圖片是 450×169 的宣傳圖（偏小，官方 case board 只有 240×180），請驗收員決定是否換圖。官方報名名稱 THE OFFICIAL SPONSORSHIP OF THE AZERBAIJANI OLYMPIC WRESTLERS。已搜爭議：搜「Febreze Azerbaijani wrestlers Olympic ad controversy／fake／withdrawn」，沒有找到爭議。"
+  "note": "文字來源只有 POPSOP 一篇新聞稿式報導，官方 lovethework 頁無內文；BusinessWire、Ispot、SBJ 連不上。缺：廣告影片本身實際拍了什麼。圖片是 450×169 的宣傳圖（偏小，官方 case board 只有 240×180），請驗收員決定是否換圖。官方報名名稱 THE OFFICIAL SPONSORSHIP OF THE AZERBAIJANI OLYMPIC WRESTLERS。已搜爭議：搜「Febreze Azerbaijani wrestlers Olympic ad controversy／fake／withdrawn」，沒有找到爭議。 2026-11-23 Opus 驗：譯名改台灣通用的「亞塞拜然」。對過 POPSOP 原文：選摔角因為最「臭」、選亞塞拜然隊因為摔角被視為該國國民運動、網路預告帶觀眾到倫敦做 Breathe Happy 實驗、臉書影片，均相符（原文寫參與選手四位）。adsspot 403，仍缺廣告影片實際內容，保留 uncertain。本件是 Breathe Happy（ltwm-05344）的延伸，但報名類別與執行不同，建議兩筆都收。",
+  "idea_one_liner_r0": "Febreze 邀阿塞拜疆國家摔角隊上陣，在倫敦奧運前，拿最汗臭的運動員做實驗，證明去味力"
  },
  {
   "id": "ltwm-05753",
