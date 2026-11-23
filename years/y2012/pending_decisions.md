@@ -25,3 +25,16 @@
 - 圖不理想：沒圖 b009 05320 MOBILE MEDIC、05790 NISSAN RUMBLE；b007 05302 用 TNW 截圖（有網站標誌）；b008 05313 BIKERS 偏小。
 - 來源偏薄：b009 05790 NISSAN RUMBLE 只有 WARC；05317 橄欖球背景沒開到原文。
 - 重複 0；撤獎 0；這三批沒有 uncertain 件。
+
+## 2026-11-24 雲端第 1 輪 b010–b012（Sonnet 寫、Opus 驗）
+- 重複候選 1：b011 ltwm-05900 URBAN TOUR（Cyber 銅獅×2）和 ltwm-05334 是同一件（作品名、品牌、代理商、影片都相同）。寫手已標 05900「重複」、same_as 05334，驗收員認為成立；05334 的【得獎】行已併入 Cyber 銅獅×2（程式檢查會標「與官方預填不同」，是有意的）。請維護者確認。
+- 重複候選 2：b012 ltwm-05341 ADULT/ACTION/EPIC（金獅）和 ltwm-05772 MARADONA（銅獅）依 Ad Age 2012 報導是同一組廣播（LatinWorks）。驗收員建議留 05341、05772 標重複 same_as 05341。decision 未改。
+- 不收待決：b012 ltwm-05766 MADRID（IBM，PR 類銅獅）。寫手找不到來源標「不收」；驗收員找到設計師作品頁 dovzmood.net/ibm-madrid-1（互動紀錄片，觀眾選擇跟警察、消防或救護隊過一夜）和 IBM 馬德里 CISEM 案例 PDF，建議改收並標 uncertain（代理商、年份對應屬推定）。decision 未改，請維護者決定。
+- 不算重複（參考）：b010 05678 DEVASTATING EXPLOSIONS／05767 MANTA CLAUS，寫手疑似同一活動，驗收員判斷點子與報名產品不同，建議兩件都收。b010 05540 PIE CHART 官方獎項含 THE WHOLE PICTURE，可能和他批重疊，請留意。
+- 待音檔：b010 05327 LOOK、05329 WINDOWS DOWN, MOODS UP（Old Spice 廣播）；b012 05772 MARADONA 三支單支內容；05341 的 Epic 那支內容仍缺。
+- 仍 uncertain：b010 05326 NATIONAL SURPRISE PARTY（沒有做法說明）、05327、05329；b011 05550 3D LIVE THEATRE（沒說明也沒圖，補不到可考慮不收）、05475 THE CREATORS PROJECT（2012 報名範圍未確認）；b012 05340 EVERY 18 SECONDS（氦氣泡沫十字架只出自搜尋摘要）、05734 ICONS OF PROGRESS、05772。
+- 品牌／產品參考：b010 05537 官方產品欄寫 Swagger、海報上是 After Hours，讀稿照畫面寫。
+- 規則：text_source_level 規則卡沒定義，驗收員照 b010 用法（2＝兩個以上文字來源，3＝單一來源、只靠畫面或待音檔）逐件重填，請維護者補定義。
+- 圖不理想：b010 沒圖 05327、05329、05538、05767；b011 05550 沒圖、05334 偏小（480×360）；b012 多件官方 case board 全黑或太小，沒圖約 6 件，待本機補。
+- 【爭議】0；撤獎 0。
+- 驗收員發現：b012 05341、05772 原本引用的 Produ 報導是 2014 年那組廣播，已改用 Ad Age 2012 報導重寫。
