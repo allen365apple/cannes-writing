@@ -59,7 +59,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方案例頁（lovethework）只有基本資料，內容依作品參與者 Blair Neal 的專案頁（Fake Love 改裝販賣機的技術細節）、Chris Rubin 專案頁、Alexander Romans 作品頁、9to5google、Ads of the World 整理。官方 in 檔標題是「Hilltop Re-imagined for Coca-Cola」，得獎行裡有兩座行動類銅獅，其中一座報名作品是「Drive It Like You Hate It Re-imagined」（Volvo 那支），讀稿只寫 Hilltop。已搜爭議：搜「Project Re:Brief Hilltop Coca-Cola controversy／fake／fraud／scam」，只看到得獎報導，未發現指控。疑似重疊：同年 ltwm-05292「Project Re: Brief」是同一個專案（母專案＋紀錄片），建議主對話決定是否併筆。圖用 Blair Neal 個人作品頁上的紀錄片截圖，非官方 case board（官方候選圖只有 148×111 縮圖）。"
+  "note": "官方案例頁（lovethework）只有基本資料，內容依作品參與者 Blair Neal 的專案頁（Fake Love 改裝販賣機的技術細節）、Chris Rubin 專案頁、Alexander Romans 作品頁、9to5google、Ads of the World 整理。官方 in 檔標題是「Hilltop Re-imagined for Coca-Cola」，得獎行裡有兩座行動類銅獅，其中一座報名作品是「Drive It Like You Hate It Re-imagined」（Volvo 那支），讀稿只寫 Hilltop。已搜爭議：搜「Project Re:Brief Hilltop Coca-Cola controversy／fake／fraud／scam」，只看到得獎報導，未發現指控。疑似重疊：同年 ltwm-05292「Project Re: Brief」是同一個專案（母專案＋紀錄片），建議主對話決定是否併筆。圖用 Blair Neal 個人作品頁上的紀錄片截圖，非官方 case board（官方候選圖只有 148×111 縮圖）。 2026-11-23 Opus 驗：疑似重複判斷（交主對話決定，未改 decision）：05275 Hilltop 與 05292 Project Re:Brief 是同一個專案——Hilltop 是 Re:Brief 四支重製廣告之一，05292 讀稿【執行】也已寫到 Hilltop 的販賣機做法，05275 得獎行裡的一座行動類銅獅報名的是 Re:Brief 另一支 Volvo「Drive It Like You Hate It Re-imagined」；依規則卡「同一場行動的不同作品」屬內容重疊。建議保留 05292（傘狀專案，涵蓋 Hilltop、Volvo、紀錄片，獎項併入 Hilltop 的 Mobile 全場大獎），05275 標重複 same_as ltwm-05292；但兩筆代理商不同（Grow Interactive vs. Johannes Leonardo／Fi），且 05292 的設計類金獅是另一個點子（Google Display 標誌），若主對話認為 Hilltop 的全場大獎更有代表性，也可反過來保留 05275。 Hilltop 那座銅獅報名 Volvo 那支：得獎行照官方 award_line 保留「行動類銅獅×2」，讀稿不寫 Volvo 內容。"
  },
  {
   "id": "ltwm-05273",
@@ -83,7 +83,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "Google 在倫敦貼 150多張看板，把附近事物拼成發音字，如 latest scores 寫成 ley-tist skohrz",
+  "idea_one_liner": "Google 語音搜尋的倫敦看板，把附近能查的事寫成發音拼法，如 ley-tist skohrz，讓人照著唸出聲",
   "brand_display": "Google 語音搜尋",
   "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜媒體類全場大獎 Media Grand Prix｜代理商：MANNING GOTTLIEB OMD London\n\n【背景】Google 的手機語音搜尋讓人「用說的」查東西。案例板的問題陳述寫得很直接：用語音搜尋很聰明，用發音拼法做廣告也很聰明，但把它貼滿倫敦的海報然後靜待結果，並不聰明。\n\n【洞察】案例板標題用發音拼法寫成「Using the world's oldest medium like the newest」（用最古老的媒介，像最新的一樣）。洞察是：拿看板這種最老的媒介，做出新鮮的機智、溫度與貼近現場的關聯。\n\n【策略】團隊先建了一個「超在地」資料庫，收錄每個看板位置附近所有有趣的地點與事物，這份資料庫就成了給創意代理商的創意簡報，讓每塊看板都針對自己所在的位置寫。\n\n【點子】看板上不寫正確拼字，而是寫出一句話「唸起來的樣子」，讓讀的人忍不住照著唸出聲，也就等於示範了語音搜尋。\n\n【執行】案例板顯示共有 150 多個針對地點的版本、橫跨 10 種版位。例如在切爾西足球俱樂部外的看板寫「Ley-tist Skohrz」（latest scores，最新比分）；從案例板圖片看得到：地鐵車廂與車站裡寫著「shur-lok hoemz」（Sherlock Holmes）、「ti-kit reh-zer-vey-shunz」（ticket reservations，訂票）、「res-tront ree-vyooz」（restaurant reviews，餐廳評價）、「tak-see num-buhz」（taxi numbers，計程車電話），連一列火車車身上都印了一長串拼音字。每塊看板角落都有「say it to get it」與 Google 語音搜尋的麥克風圖示。\n\n資料來源：\nhttps://www.adweek.com/brand-marketing/manning-gottlieb-omd-earns-media-grand-prix-googles-phonetic-billboards-14/\nhttps://www.kamcityblog.com/2013/12/google-voice-search-lowtech-london.html\nhttps://www.lovethework.com/en/work/entries/google-voice-search-88113\nhttps://portal-assets.imgix.net/archive/2012/stitched/65b732c4176eb278228503bdc3b42f0a.jpg",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 媒體類全場大獎, Media Grand Prix, Google, 谷歌, Google Voice Search, 語音搜尋, 科技, 搜尋引擎, 手機, 戶外廣告, 看板, 海報, Billboard, OOH, 在地化, 情境式, Contextual, 發音拼字, 諧音, Phonetic, 文字遊戲, 倫敦, London, 英國, United Kingdom, Manning Gottlieb OMD, OMD, BBH London, 地鐵廣告, 公車站, 火車, 麥克風, Say it to get it",
@@ -99,7 +99,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方案例頁（lovethework）需要登入只有基本資料；內容依案例板圖片（問題／洞察／解法文字）、Adweek、KamBlog 整理。案例板印有成效數字，讀稿未寫。看板上的拼音字是我依發音還原成英文（latest scores 等），Chelsea 那塊的 Ley-tist Skohrz 有 KamBlog 文字佐證，其餘依畫面解讀。創意由 BBH London 發想（Adweek），媒體代理商 Manning Gottlieb OMD 是得獎方。已搜爭議：搜「Google Voice Search phonetic billboards London controversy／fake／withdrawn」，未發現指控或撤獎。"
+  "note": "官方案例頁（lovethework）需要登入只有基本資料；內容依案例板圖片（問題／洞察／解法文字）、Adweek、KamBlog 整理。案例板印有成效數字，讀稿未寫。看板上的拼音字是我依發音還原成英文（latest scores 等），Chelsea 那塊的 Ley-tist Skohrz 有 KamBlog 文字佐證，其餘依畫面解讀。創意由 BBH London 發想（Adweek），媒體代理商 Manning Gottlieb OMD 是得獎方。已搜爭議：搜「Google Voice Search phonetic billboards London controversy／fake／withdrawn」，未發現指控或撤獎。 2026-11-23 Opus 驗：一句話改寫：「拼成發音字」講不清楚，改成「寫成發音拼法…讓人唸出聲」，補上語音搜尋的身分。",
+  "idea_one_liner_r0": "Google 在倫敦貼 150多張看板，把附近事物拼成發音字，如 latest scores 寫成 ley-tist skohrz"
  },
  {
   "id": "ltwm-05293",
@@ -213,21 +214,22 @@
   "awards_unverified": [],
   "idea_one_liner": "Google 請四支 1960～70 年代名牌廣告的原創作者，用 Gmail、YouTube 等工具重寫成網路互動版，並拍成紀錄片",
   "brand_display": "Google（Project Re:Brief）",
-  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜設計類金獅 Design Gold Lion、Cyber類銀獅 Cyber Silver Lion×2、影片類銅獅 Film Bronze Lion｜代理商：JOHANNES LEONARDO New York / Fi New York\n\n【背景】2011 年 Google 與四個品牌合作做一個廣告實驗：早年塑造廣告業的那些點子，能不能啟發新一代創意人與行銷人？他們挑了四支 1960～70 年代的經典廣告，請當年的創作者一起參與，用現在的技術重新想像。\n\n【點子】Project Re:Brief 官網首頁的問題是：「我們該怎麼在廣告裡用科技，做出 50 年後的人還會喜歡、記得、分享的東西？」\n\n【執行】四支廣告是可口可樂 1971 年的「Hilltop」、Volvo 1963 年的「Drive it like you hate it」、Alka-Seltzer 1972 年的「I can't believe I ate the whole thing」、Avis 1962 年的「We try harder」。每一支都不只是重播原廣告，而是挖出原廣告的內容，加進 Gmail、YouTube、地圖、翻譯等 Google 服務，做成互動體驗。可口可樂那支是把「買一罐可樂給全世界」變成真的：網路橫幅收訊息，經審核、排隊後，送到世界另一頭特製的販賣機，掉出可樂，收到的人再回覆一段影片。\n\n網站由 Fantasy Interactive 規劃、設計與開發，整個計畫還附一部記錄過程的紀錄片，網站為它做了專屬的 YouTube 播放器，讓畫面環境不被破壞。\n\n資料來源：\nhttps://9to5google.com/2012/03/09/google-recreates-four-classic-ad-campaigns-including-coca-colas-1971-hilltop-commercial/\nhttps://chrisrubincreativ.com/work/google-project-rebrief/\nhttps://digiday.com/media/cannes-diary-google-rebrief-nabs-mobile-grand-prix/\nhttps://www.adsoftheworld.com/campaigns/hilltop-re-imagined",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜設計類金獅 Design Gold Lion、Cyber類銀獅 Cyber Silver Lion×2、影片類銅獅 Film Bronze Lion｜代理商：JOHANNES LEONARDO New York / Fi New York\n\n【背景】2011 年 Google 與四個品牌合作做一個廣告實驗：早年塑造廣告業的那些點子，能不能啟發新一代創意人與行銷人？他們挑了四支 1960～70 年代的經典廣告，請當年的創作者一起參與，用現在的技術重新想像。\n\n【點子】Project Re:Brief 官網首頁的問題是：「我們該怎麼在廣告裡用科技，做出 50 年後的人還會喜歡、記得、分享的東西？」\n\n【執行】四支廣告是可口可樂 1971 年的「Hilltop」、Volvo 1963 年的「Drive it like you hate it」、Alka-Seltzer 1972 年的「I can't believe I ate the whole thing」、Avis 1962 年的「We try harder」。每一支都不只是重播原廣告，而是挖出原廣告的內容，加進 Gmail、YouTube、地圖、翻譯等 Google 服務，做成互動體驗。可口可樂那支是把「買一罐可樂給全世界」變成真的：網路橫幅收訊息，經審核、排隊後，送到世界另一頭特製的販賣機，掉出可樂，收到的人再回覆一段影片。\n\n網站由 Fantasy Interactive 規劃、設計與開發，整個計畫還附一部記錄過程的紀錄片，網站為它做了專屬的 YouTube 播放器，讓畫面環境不被破壞。\n\n設計類金獅報名的是另一件「Google Display Logo」：Google Display 請團隊做一個能用在各種媒體上的識別。作品說明寫，團隊直接拿 Google 最有價值的資產「Google 標誌」，用廣告主可買的各種橫幅尺寸把它重新拼出來，每個橫幅格子裡填上 Google 配色版的「施工中」斜紋，暗示好東西即將登場。\n\n資料來源：\nhttps://9to5google.com/2012/03/09/google-recreates-four-classic-ad-campaigns-including-coca-colas-1971-hilltop-commercial/\nhttps://chrisrubincreativ.com/work/google-project-rebrief/\nhttps://digiday.com/media/cannes-diary-google-rebrief-nabs-mobile-grand-prix/\nhttps://www.adsoftheworld.com/campaigns/hilltop-re-imagined\nhttps://www.dandad.org/work/d-ad-awards-archive/google-display-logo",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 設計類金獅, Design Gold Lion, Cyber類銀獅, Cyber Silver Lion, 影片類銅獅, Film Bronze Lion, Google, 谷歌, Project Re:Brief, Johannes Leonardo, Fantasy Interactive, Fi, 科技, 經典廣告重製, 廣告重新想像, Re-imagined, 紀錄片, Documentary, 互動網站, 品牌內容, Branded Content, Coca-Cola, 可口可樂, Volvo, Alka-Seltzer, Avis, Gmail, YouTube, 互動體驗, 美國, United States, 紐約",
   "category": "行銷案例",
   "references": [
    "https://9to5google.com/2012/03/09/google-recreates-four-classic-ad-campaigns-including-coca-colas-1971-hilltop-commercial/",
    "https://chrisrubincreativ.com/work/google-project-rebrief/",
    "https://digiday.com/media/cannes-diary-google-rebrief-nabs-mobile-grand-prix/",
-   "https://www.adsoftheworld.com/campaigns/hilltop-re-imagined"
+   "https://www.adsoftheworld.com/campaigns/hilltop-re-imagined",
+   "https://www.dandad.org/work/d-ad-awards-archive/google-display-logo"
   ],
   "image_url": "https://chrisrubincreativ.com/assets/img/work/google-project-rebrief/desktop.jpg",
   "image_shows": "Project Re:Brief 官網首頁截圖：標題「Advertising Re-imagined」與問題「如何用科技做出 50 年後的人還會喜歡的廣告」，底部列出 Coca-Cola、Volvo、Alka-Seltzer、Avis 四支廣告",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方報名作品有三個：Film 銅獅是「Project Re: Brief, a film about re-imagining advertising」（紀錄片）、Design 金獅是「Google Display Logo」、Cyber 兩座銀獅是「Project Re: Brief」。本稿寫的是 Project Re:Brief 專案本身與紀錄片；Display Logo（金獅）找不到任何說明，讀稿未寫，缺這一塊。官方案例頁（lovethework）只有基本資料。疑似重疊：ltwm-05275「Hilltop Re-imagined for Coca-Cola」是這個專案裡的一支，建議主對話決定是否併筆。圖用 Chris Rubin 作品頁上的網站截圖（官方候選圖只有 148×111 縮圖）。已搜爭議：搜「Project Re:Brief Google controversy／fake／fraud／scam」，只有得獎報導，未發現指控。"
+  "note": "官方報名作品有三個：Film 銅獅是「Project Re: Brief, a film about re-imagining advertising」（紀錄片）、Design 金獅是「Google Display Logo」、Cyber 兩座銀獅是「Project Re: Brief」。本稿寫的是 Project Re:Brief 專案本身與紀錄片；官方案例頁（lovethework）只有基本資料。疑似重疊：ltwm-05275「Hilltop Re-imagined for Coca-Cola」是這個專案裡的一支，建議主對話決定是否併筆。圖用 Chris Rubin 作品頁上的網站截圖（官方候選圖只有 148×111 縮圖）。已搜爭議：搜「Project Re:Brief Google controversy／fake／fraud／scam」，只有得獎報導，未發現指控。 2026-11-23 Opus 驗：補上 Google Display Logo（設計類金獅）：D&AD 作品頁（D&AD 2013 Graphic Design 條目）有說明——用各種標準橫幅尺寸拼出 Google 標誌、格子填 Google 配色的施工斜紋，已寫進讀稿最後一段並加入資料來源；D&AD 頁沒列代理商，與官方報名的 Johannes Leonardo 對應是依客戶（Google Display）與作品名。疑似重複判斷（交主對話決定，未改 decision）：05275 Hilltop 與 05292 Project Re:Brief 是同一個專案——Hilltop 是 Re:Brief 四支重製廣告之一，05292 讀稿【執行】也已寫到 Hilltop 的販賣機做法，05275 得獎行裡的一座行動類銅獅報名的是 Re:Brief 另一支 Volvo「Drive It Like You Hate It Re-imagined」；依規則卡「同一場行動的不同作品」屬內容重疊。建議保留 05292（傘狀專案，涵蓋 Hilltop、Volvo、紀錄片，獎項併入 Hilltop 的 Mobile 全場大獎），05275 標重複 same_as ltwm-05292；但兩筆代理商不同（Grow Interactive vs. Johannes Leonardo／Fi），且 05292 的設計類金獅是另一個點子（Google Display 標誌），若主對話認為 Hilltop 的全場大獎更有代表性，也可反過來保留 05275。"
  },
  {
   "id": "ltwm-05305",
@@ -281,7 +283,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方案例頁需登入；內容依 Andrew Cochrane（Mirada 技術監督）專案頁、Metalocus、Guldägget、One Show 頁面整理。各來源都沒說三個夢的具體劇情，讀稿因此沒有寫劇情。影片的互動方式只有「抓滑鼠引導主角視角」「做遺物」有來源，其餘未寫。官方三座獎項（Cyber 動畫金獅、插畫與平面設計銀獅、最佳影片銅獅）都是同一件作品。圖用 Aaron Koblin 個人作品頁上的作品截圖（官方候選圖只有 148×111 縮圖，YouTube 預設圖只是片頭字卡）。已搜爭議：搜「Rome 3 Dreams of Black Chris Milk controversy／criticism／fake」，只有讚揚與少數使用者載入問題，無指控。"
+  "note": "官方案例頁需登入；內容依 Andrew Cochrane（Mirada 技術監督）專案頁、Metalocus、Guldägget、One Show 頁面整理。各來源都沒說三個夢的具體劇情，讀稿因此沒有寫劇情。影片的互動方式只有「抓滑鼠引導主角視角」「做遺物」有來源，其餘未寫。官方三座獎項（Cyber 動畫金獅、插畫與平面設計銀獅、最佳影片銅獅）都是同一件作品。圖用 Aaron Koblin 個人作品頁上的作品截圖（官方候選圖只有 148×111 縮圖，YouTube 預設圖只是片頭字卡）。已搜爭議：搜「Rome 3 Dreams of Black Chris Milk controversy／criticism／fake」，只有讚揚與少數使用者載入問題，無指控。 2026-11-23 Opus 驗：程式報告標 Metalocus 壞連結：curl 是憑證鏈驗證失敗，用 WebFetch 可正常開啟、內容確認是本作品（Three.js、Blender 外掛、公開原始碼），網址保留。"
  },
  {
   "id": "ltwm-05433",
@@ -305,7 +307,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "Google Chrome 拍了一支廣告：爸爸用 Gmail 寫信給剛出生的女兒，記下她成長的片刻，讓瀏覽器變成一本人生相簿",
+  "idea_one_liner": "Google Chrome 的廣告：爸爸用 Gmail 替剛出生的女兒開信箱，多年來寫信給她，附上照片與影片，記錄她的成長",
   "brand_display": "Google Chrome",
   "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜影片類銀獅 Film Silver Lion｜代理商：BBH NEW YORK\n\n【背景】這支廣告和另一支「It Gets Better」同屬 Chrome 的電視廣告系列，主題是「The web is what you make of it」（網路是你自己用出來的樣子），兩支各約 90 秒，在《One Tree Hill》與《Glee》播出期間投放，被媒體稱為 Google 當時最大的一波線下廣告。Google 的創意總監也坦白說，電視廣告想打的那群人「很多人不知道什麼是瀏覽器」。\n\n【點子】不談速度與功能，而是講一個爸爸的故事：他在 Gmail 替女兒開了信箱，把她成長中的片刻一封封寫給她。\n\n【執行】一支約 90 秒的短片，跟著爸爸好幾年的時間，畫面整個發生在瀏覽器與 Google 服務的介面裡：用 Gmail 寫信、用 YouTube 放影片、用 Picasa 放相片、用 Google 地圖標地點。圖板上可以看到一個 Gmail 註冊畫面，「Desired Login Name」欄位正在打字，輸入的名字是「dear.sop…」（Sophie）。Google 說這個故事是真人真事，只是改了名字、由演員演出。\n\n資料來源：\nhttps://www.pcworld.com/article/491095/google_chrome_tv_ads_tug_at_the_heartstrings.html\nhttps://www.huffpost.com/entry/google-chrome-ads-dear-sophie-it-gets-better_n_857494\nhttps://www.oneclub.org/awards/theoneshow/-award/17763/google-chrome-dear-sophie/\nhttps://www.selfstorming.com/tools/libraries/campaigns/google-chrome-dear-sophie",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片類銀獅, Film Silver Lion, Google, 谷歌, Google Chrome, Chrome, 瀏覽器, 科技, BBH, BBH New York, Google Creative Lab, 電視廣告, TV, 情感, 親情, 父女, 爸爸, 女兒, Gmail, YouTube, Picasa, Google Maps, 電子郵件, 信件, 成長, 回憶, 相簿, 說故事, Storytelling, The Web Is What You Make of It, 美國, United States, Dear Sophie",
@@ -321,7 +323,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方案例頁需登入，只有基本資料；內容依 PCWorld、HuffPost、One Show 頁面與 Selfstorming 整理，影片本身沒有逐幕描述來源，讀稿只寫來源說得出的畫面（Gmail、YouTube、Picasa、地圖）。官方 case board 其實是影片截圖，但就是這件作品，已打開確認。已搜爭議：搜「Dear Sophie ad controversy／fake／real story／criticism」，只有一般評論（廣告暗示小孩有 Gmail 帳號，與 Google 條款不符；PCWorld 評為在賣服務而非 Chrome 功能），不算爭議，未寫入讀稿。這些評論來自搜尋結果的摘要，未寫入。"
+  "note": "官方案例頁需登入，只有基本資料；內容依 PCWorld、HuffPost、One Show 頁面與 Selfstorming 整理，影片本身沒有逐幕描述來源，讀稿只寫來源說得出的畫面（Gmail、YouTube、Picasa、地圖）。官方 case board 其實是影片截圖，但就是這件作品，已打開確認。已搜爭議：搜「Dear Sophie ad controversy／fake／real story／criticism」，只有一般評論（廣告暗示小孩有 Gmail 帳號，與 Google 條款不符；PCWorld 評為在賣服務而非 Chrome 功能），不算爭議，未寫入讀稿。這些評論來自搜尋結果的摘要，未寫入。 2026-11-23 Opus 驗：一句話改寫：拿掉「讓瀏覽器變成一本人生相簿」這種抽象比喻。",
+  "idea_one_liner_r0": "Google Chrome 拍了一支廣告：爸爸用 Gmail 寫信給剛出生的女兒，記下她成長的片刻，讓瀏覽器變成一本人生相簿"
  },
  {
   "id": "ltwm-05460",
