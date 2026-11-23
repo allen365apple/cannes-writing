@@ -17,3 +17,11 @@
 - 圖不理想：沒圖 b005 05478。偏小 b004 05456（480×360）、05746、b006 05285、05860。看不出點子 b004 05277 FuelBand、05390 Corrida，b005 05283 年報，b006 05411。
 - 代理商參考：b005 05319 Red Dot 寫 BBDO Proximity Berlin、官方寫 BBDO Düsseldorf，照官方；05403 官方寫 Alert Assist、南非 SoundCloud 清單寫 Attention Assist，名稱待轉寫後確認。
 - 撤獎 0。
+
+## 2026-11-23 雲端第 2 輪 b007–b009（Sonnet 寫、Opus 驗）
+- 【爭議】新增 1：b007 ltwm-05295 TROY PUBLIC LIBRARY BOOK BURNING PARTY。依圖書館之友前會長 2014 年的文章：花費說法是自稱 3,500 美元、報導是 7 萬美元；342% 投票率沒有佐證；另有廣告公司搶功的說法。驗收員對過原文，【爭議】段保留，照收。
+- 爭議判斷參考（只記 note）：b008 05312 ALS 那篇報導用了 "controversial"，查證後是 Effie 評審的讚語，不算爭議；TNT 有人說現場安排不自然，只記 note；b009 05695 GM 批評片中對 Volt 的描繪，屬競爭對手評論，只記 note。
+- 作品對應參考：b007 05437 官方報名名稱 THE WINE IS OVER 是整合類報名，指整個活動，和 in 標題合寫；b009 05315「Only because we can」是網站名，和 THE LIBERATION 是同一支。
+- 圖不理想：沒圖 b009 05320 MOBILE MEDIC、05790 NISSAN RUMBLE；b007 05302 用 TNW 截圖（有網站標誌）；b008 05313 BIKERS 偏小。
+- 來源偏薄：b009 05790 NISSAN RUMBLE 只有 WARC；05317 橄欖球背景沒開到原文。
+- 重複 0；撤獎 0；這三批沒有 uncertain 件。
