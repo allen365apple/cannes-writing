@@ -1,9 +1,10 @@
-*坎城雲端寫稿｜2012 第 2 輪（11/23 14:39）*
-• 這輪寫完並驗收：2012 b003–b009，共 7 批 70 件（全收）
-• 這輪寫到的作品（舉 5 件）：Benetton〈Unhate〉、Google〈Dear Sophie〉、Nike〈FuelBand〉、哥倫比亞國防部〈Rivers of Light〉、Troy 公共圖書館〈Book Burning Party〉
-• 2012 進度：已完成 9／60 批，剩 51 批
-• 待決新增：12 件（重複候選 1：Hilltop 是 Re:Brief 裡的一支；爭議 1：Book Burning Party 花費與投票率說法；uncertain 10，其中 2 件廣播要本機聽音檔）
+*坎城雲端寫稿｜2012 第 3 輪（11/24 02:40）*
+• 這輪寫完並驗收：2012 b010–b016，共 7 批 70 件（2 件標重複、1 件暫不收待你決定）
+• 這輪寫到的作品（舉 5 件）：Old Spice〈Manta Claus〉、Intel〈The Museum of Me〉、LEGO〈Imagine〉、多倫多兒童醫院〈Pain Squad〉、Samsung〈Space Balloon Project〉
+• 2012 進度：已完成 16／60 批，剩 44 批
+• 待決新增：17 件（重複候選 3：Urban Tour 兩筆、拉美廣播兩筆、Stones Telling Stories 兩筆；IBM〈Madrid〉要不要收 1；爭議 2：LEGO Imagine 抄襲質疑、Stones 案例影片被指誤導；uncertain 11，其中 3 件廣播要本機聽音檔）
 • 問題：
-  • 多個參考網站擋爬蟲或連不上（YouTube、Ad Age、Adweek、The Drum、Behance 等），還有 3 件沒圖，待本機補
-  • b006 寫手把「我打開的…」這類過程寫進稿裡，驗收員已全部刪掉
-• 預計：照一天 14 批，2012 剩下約 4 天寫完（11/27 左右），接著：等本機做前置
+  • 多個參考網站擋爬蟲或連不上（YouTube、Vimeo、Ads of the World、Behance、AdForum 等），還有幾件沒圖或圖太小，待本機補
+  • 開工時雲端這邊的舊版本跟 GitHub 對不上，已改以 GitHub 最新版為準，沒有蓋掉任何東西
+  • 有兩件原本引用到 2014 年的報導，驗收員已改用 2012 年的來源重寫
+• 預計：照一天 14 批，2012 剩下約 3 天寫完（11/27 左右），接著：等本機做前置
