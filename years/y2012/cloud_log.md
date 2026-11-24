@@ -11,3 +11,4 @@
 - 2026-11-24 雲端第 1 輪收尾（02:40）：寫完並驗完 b010–b016（7 批 70 件）。decision 照寫手：b011 05900、b015 05849 標重複，b012 05766 MADRID 標不收（驗收員找到來源建議改收＋uncertain，待維護者決定）。待決新增：重複候選 3（05900／05334、05341／05772、05849／05349）、不收待決 1（05766）、【爭議】2（05476 LEGO IMAGINE、05349 STONES）、仍 uncertain 11（其中待音檔 05327、05329、05772）。撤獎 0。2012 累計 16／60 批。連不上：YouTube、Vimeo（人機驗證）、adsspot、Ads of the World 本站、Trend Hunter、Behance、AdForum、Shots、MediaPost、The Drum、iF Design、openPR 等；lovethework 頁沒內文。沒撞額度。
 - 問題：程式檢查沒掃到違規；寫手、驗收員都沒回報違規。開工時本地 main 跟 GitHub 分岔（本地是 11-17 的舊歷史），已改以 GitHub 的 main 為準，沒推舊歷史、沒 force push。b010、b012 寫手把寫稿過程句、2014 年的報導寫進稿，驗收員已改正（05341、05772 改用 Ad Age 2012 報導重寫）。
 - 2026-11-24 回報已寫進 years/last_report.txt。
+- 2026-11-24 14:10 開工：b017 b018 b019 b020 b021 b022 b023（雲端 2026-11-24 第 2 輪）
