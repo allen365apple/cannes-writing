@@ -16,3 +16,6 @@
 - 問題：程式檢查兩組都沒掃到違規（無 rm、無自加標頭）；寫手、驗收員自報沒用 rm、沒改 in 檔。b017、b018 寫手在讀稿寫了「我打開的／我沒看到」這類寫稿過程句，驗收員已全刪；b019 寫手自承沒逐件重讀，驗收員已逐件看。b021 寫手多跑一次 check_images（重產 images_b021.md）；b023 寫手回報提到看過 git 狀態（唯讀，沒改東西）。寫作中途依停止檢查多次 commit「寫作中暫存（未驗）」。
 - 2026-11-24 14:33 回報已寫進 years/last_report.txt。
 - 2026-11-25 02:10 開工：b024 b025 b026 b027 b028 b029 b030（雲端 2026-11-25 第 1 輪）
+- 2026-11-25 雲端第 1 輪收尾（02:37）：寫完並驗完 b024–b030（7 批 70 件：收 65、不收 5（b025 05436 POWER COURIERS、b028 05780 MICHAEL、b030 05493 KiwiRail、05484 Pilsen、05483 Radio 1，都是找不到內容，不是撤獎））。驗收員把 b027 05788 MUPI 從不收改為收（依畫面補寫，待本機確認）；拿掉 uncertain 約 12 件（05525、05440、Office Depot、Contrex、Hot Wheels、Kids' Kitchen、Opel、05820、Stabilo、Ray of Hope 等），仍 uncertain 8 件。2012 累計 30／60 批。待決新增 17 件（不收待決 5、改收確認 1、獎項歸屬 1、來源單一 2、仍 uncertain 8）；【爭議】0、撤獎 0、重複 0。圖：沒圖約 8 件、偏弱十多件，待本機補。連不上：Behance、Vimeo（人機驗證）、YouTube 頁、adsspot、Trend Hunter、AdForum、The Drum、LBB、Campaign Brief、La Réclame、Clios、famouscampaigns、iF Design、Shots 等 403／404；kidrescueapp.com 網域不在允許清單；lovethework 頁沒內文。沒撞額度。
+- 問題：程式檢查兩組都沒掃到違規（無 rm、無自加標頭）。b025 寫手自報一條指令尾端誤寫 rm -f，被系統擋下沒執行、沒刪檔，之後改用 mv。b024、b026 寫手回報提到看過 git status（唯讀，沒改東西）。開工時本機是分離 HEAD，改在新分支對齊 origin/main 工作再推上 main（沒 force push）。寫作中途多次 commit「寫作中暫存（未驗）」。
+- 2026-11-25 02:38 回報已寫進 years/last_report.txt。
