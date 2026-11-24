@@ -76,3 +76,13 @@
 - 仍 uncertain 5：b024 05425 RELIEF PET HOUSE（缺紙箱怎麼改、怎麼分送）；b025 05434 X FACTOR DIGITAL ECOSYSTEM（缺生態系其他部分）、05874 THE OFFER（缺情節）；b026 05583 D + A + N IS DAN（UNICEF 廣播，缺音檔，vimeo.com/59521738）；b027 05829 SET FREE（OMO 影片，缺情節）。
 - 圖不理想：沒有圖 05890、05583；偏弱 05429、05426、05423、05430、05424、05525、05438、05801、05447、05444、05449、05453、05837。待本機補。
 - 【爭議】0；撤獎 0。
+
+## 2026-11-25 雲端第 1 輪 b028–b030（Sonnet 寫、Opus 驗）
+- 不收待決 4：b028 ltwm-05780 MICHAEL（Greenpeace 廣播，Ogilvy Johannesburg，找不到腳本或音檔，adsspot 403）；b030 ltwm-05493 SEE MORE OF NEW ZEALAND BY TRAIN（KiwiRail）、ltwm-05484 LIVE EXPLOSIONS（Pilsen，可看 YouTube BrAWljg9yZs）、ltwm-05483 MADE IN MISERY（Radio 1「Für Elise」，音檔候選是 in 檔的 adsspot 頁）。都是官方頁只有作品名與獎項、其他來源找不到內容；本機能看影片或取得音檔就可改收。
+- 來源單一請確認 2：b030 Stabilo（Maria Antonieta／Dulcinea）、RAY OF HOPE（Jack／Queen／King）來源只有 Ads of the World，驗收員看過作品圖後拿掉 uncertain。
+- 作品名參考：b028 05464 官方作品名是 EGG、TOAST，與 in 標題 YOU ARE HERE 不同；b030 Snickers 創意實效金獅是全球案例、Cyber 銀獅是 YNYWYH，讀稿寫 YNYWYH；b030 Bajaj 官方 SOCKS、FISH 只看過 FISH；b030 TANG SHAKER 依創意人名單對到 Shaker Roller Coaster。
+- 代理商參考：b028 05461 Dove 來源寫 Ogilvy Australia，官方是 Ogilvy London，讀稿只寫 Ogilvy。
+- 爭議參考（只記 note）：b028 Oil on Canvas 同品牌另一支廣告被紐西蘭 ASA 部分採納投訴；b028 Dove 有「刪除負面廣告」說法的評論；b029 05470 Manny 拳王代言酒類被批評；b030 Snickers ASA 裁定未違規；b030 Radio 1 主持人 2023 年另案判刑（與作品無關、未開頁確認）。都不算【爭議】。
+- 仍 uncertain 3：b028 05464 YOU ARE HERE（Carulla，缺文字說明與 EGG／TOAST 其他張畫面）；b029 05480 CURIOSISM（缺體驗式部分做法）、05482 MIS-MATSCH（缺網站玩法）。
+- 圖不理想：沒有圖 Swebus、Dove、5X Mutant Gum、Oil on Canvas（b028）、Snickers、Puma（b030）；偏弱 05470、05471、05480、05474、Tang（480×360）。待本機補。
+- 【爭議】0；撤獎 0；重複 0。
