@@ -57,3 +57,11 @@
 - 仍 uncertain 9：b017 05838 Smelling Like Coffee（缺香氣做法、版面）；b018 05371 BULLY（廣播缺音檔）、05370（缺 Maruri Grey 實際做法）、05373（缺細節）、05889 TOP TO BOTTOM OFF ROAD（缺社群操作）、05742 KENTUCKY（Toyota Camry 超級盃廣告，缺可打開的劇情說明）；b019 05385 I AM MUMBAI（缺劇情）、05655 COCOON（劇情只在搜尋摘要）；b020 05724 HAPPY TO BED（查不到 CAKE 做的是哪一塊，是否就是得獎報名待確認）。
 - 圖不理想：沒有圖 05369、05661、05838、05371、05375、05889、05384；偏弱 05771、05380、05382、05379、05392。待本機補。
 - 撤獎 0。驗收員清掉 b017、b018 讀稿裡的「我打開的／我沒看到」寫稿過程句；05376 原稿寫 Rutger Hauer「演唱」，已依 D&AD 改正。
+
+## 2026-11-24 雲端第 2 輪 b021–b023（Sonnet 寫、Opus 驗）
+- 重複候選 1：b023 ltwm-05419 ANAMORPHIC MIRROR 和 ltwm-05572 THE BRANDSPACE，都是 ART+COM 為德意志銀行法蘭克福總部做的變形透視商標裝置，作品與獎項各自獨立。驗收員偏向兩件都收；若要併，留金獅的 05419。decision 未改。
+- 作品名參考：b021 ltwm-05815 in 檔標題 BOLDLY DESIGNED WORLD 是 campaign 名，官方作品名是 PROGRESS ON POWELL STREET，讀稿寫的是官方作品那支。
+- 爭議參考（只記 note）：b022 05581 Halftime in America 有政治評論（Karl Rove 批評、工會標語被修掉）；05405 Born of Fire 另有 Eminem 版權方控告車商的另案。都不算【爭議】。
+- 仍 uncertain 5：b021 05531 EAGLE, MONKEY（缺 EAGLE 那張圖與文字說明）；b022 05409 GOOD SIDE（Dos Equis 廣播，缺音檔，音檔頁 adsspot 403）、05571 SWORD FIGHT（缺劇情）；b023 05413 MYSTERY AD（缺第二個來源）、05577 CNN IREPORT（缺操作流程）。
+- 圖不理想：沒有圖 05400、05409、05577；偏小 05401（585×265）、05398、05399、05413（480×360）；05420 只看得到任務字卡。待本機補。
+- 【爭議】0；撤獎 0。
