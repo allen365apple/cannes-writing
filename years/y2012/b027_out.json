@@ -42,7 +42,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "The Next Web 的連結用 WebFetch 打開過、內容正常，但程式檢查（curl）回 404，疑似擋非瀏覽器請求。官方全文需登入，內容依 The Next Web 報導與官方獎項頁整理，報導未點名代理商，代理商以官方名單為準。官方圖只有字卡，看不出動畫本身，已是候選圖中唯一可用的一張。找到的搜尋摘要提到的推文數量、粉絲數屬成效說法，未寫入。已搜爭議：搜了「SmartArg controversy／fake／withdrawn／plagiarism」，未見爭議（搜尋結果只有正面報導，僅作排除判斷，未寫入）。官方有同名另一筆 Direct 類報名，歸同一作品。"
+  "note": "The Next Web 的連結用 WebFetch 打開過、內容正常，但程式檢查（curl）回 404，疑似擋非瀏覽器請求。官方全文需登入，內容依 The Next Web 報導與官方獎項頁整理，報導未點名代理商，代理商以官方名單為準。官方圖只有字卡，看不出動畫本身，已是候選圖中唯一可用的一張。找到的搜尋摘要提到的推文數量、粉絲數屬成效說法，未寫入。已搜爭議：搜了「SmartArg controversy／fake／withdrawn／plagiarism」，未見爭議（搜尋結果只有正面報導，僅作排除判斷，未寫入）。官方有同名另一筆 Direct 類報名，歸同一作品。 2026-11-24 Opus 驗：事實抽查：The Next Web 驗收時用 WebFetch 打開正常（2012-04-11，ASCII 字元、按住 J 鍵往下捲、像手翻書、小鎮房子教堂樹與車流、品牌自稱第一支推特廣告片），與讀稿對得上，程式檢查的 404 應是擋非瀏覽器請求，保留。"
  },
  {
   "id": "ltwm-05454",
@@ -68,7 +68,7 @@
   "awards_unverified": [],
   "idea_one_liner": "英國 Omo 洗衣精的平面廣告，拍孩子玩到滿身泥，T 恤上印的標語剛好是「勇氣不是坐在電視前學來的」，用髒衣服當勇氣證明",
   "brand_display": "Omo",
-  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜Press類銀獅 Press Silver Lion｜代理商：DLKW LOWE London\n\n【背景】Omo 的品牌主張是「Dirt is good（髒是好事）」，意思是孩子在外面玩出來的髒汙，是成長必經的過程。\n\n【點子】讓髒掉的衣服自己講話：孩子摔倒、沾滿泥巴的 T 恤，正好成了印著標語的畫布，髒汙和標語疊在一起，一看就懂「勇氣要靠親身去玩才學得到」。\n\n【執行】這組平面廣告的三則標題是 Mud、Adventures、Bravery。我們只看到 Bravery 這一則的畫面：一個戴安全帽、穿護膝的小孩躺在泥地上，旁邊是倒下的單車輪子，綠色 T 恤沾滿泥巴，衣服上的字是「BRAVERY ISN'T LEARNT IN FRONT OF THE TELLY」（勇氣不是坐在電視前學來的，telly 是英式說法的電視），泥點蓋在字上，畫面下方是 OMO 標誌與「dirt is good」。另外兩則的畫面未取得，不描述。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/mud-236232\nhttps://www.adsoftheworld.com/campaigns/adventures\nhttp://www.adsoftheworld.com/media/print/omo_bravery",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜Press類銀獅 Press Silver Lion｜代理商：DLKW LOWE London\n\n【背景】Omo 的品牌主張是「Dirt is good（髒是好事）」，意思是孩子在外面玩出來的髒汙，是成長必經的過程。\n\n【點子】讓髒掉的衣服自己講話：孩子摔倒、沾滿泥巴的 T 恤，正好成了印著標語的畫布，髒汙和標語疊在一起，一看就懂「勇氣要靠親身去玩才學得到」。\n\n【執行】這組平面廣告的三則標題是 Mud、Adventures、Bravery。目前只取得 Bravery 這一則的畫面：一個戴安全帽、穿護膝的小孩躺在泥地上，旁邊是倒下的單車輪子，綠色 T 恤沾滿泥巴，衣服上的字是「BRAVERY ISN'T LEARNT IN FRONT OF THE TELLY」（勇氣不是坐在電視前學來的，telly 是英式說法的電視），泥點蓋在字上，畫面下方是 OMO 標誌與「dirt is good」。另外兩則的畫面未取得，不描述。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/mud-236232\nhttps://www.adsoftheworld.com/campaigns/adventures\nhttp://www.adsoftheworld.com/media/print/omo_bravery",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Press類, Press, 平面廣告, 居家用品：清潔產品, Household: Cleaning Products, 銀獅, Silver Lion, Omo, Unilever, 聯合利華, DLKW Lowe, Lowe London, 洗衣精, 清潔用品, 日用品, Dirt is good, 髒是好事, 孩子, 兒童, 泥巴, 髒汙, 玩耍, 冒險, 勇氣, T 恤, 標語, 單車, 英國, United Kingdom, 文字標語, 幽默",
   "category": "行銷案例",
   "references": [
@@ -81,7 +81,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，三則作品只看到 Bravery 的畫面（Mud、Adventures 標題對得上官方作品名，畫面未取得），故讀稿只描述 Bravery。創意內容依畫面與品牌一貫主張（畫面上有 dirt is good）解讀，「髒衣服當畫布」是依畫面所寫的解讀，非官方說法。Ads of the World 確認為英國、2012 年 7 月刊出。已搜爭議：搜了「OMO Dirt is Good Lowe 2012 controversy／fake／withdrawn」，未見爭議。"
+  "note": "官方全文需登入，三則作品只看到 Bravery 的畫面（Mud、Adventures 標題對得上官方作品名，畫面未取得），故讀稿只描述 Bravery。創意內容依畫面與品牌一貫主張（畫面上有 dirt is good）解讀，「髒衣服當畫布」是依畫面所寫的解讀，非官方說法。Ads of the World 確認為英國、2012 年 7 月刊出。已搜爭議：搜了「OMO Dirt is Good Lowe 2012 controversy／fake／withdrawn」，未見爭議。 2026-11-24 Opus 驗：讀稿去掉第一人稱「我們」。"
  },
  {
   "id": "ltwm-05453",
@@ -127,7 +127,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依 Agencias de Medios（阿根廷媒體產業網站）、Internationalist 與 Ciudad.com.ar 整理。官方案例圖板用的是字卡畫面，點子本身不在圖上。Ciudad.com.ar 稱該屆節目為 2011 年（Gran Hermano 2011，2 月 25 日入屋），官方獎項為 2012 年，讀稿未寫年份。「80%」取自案例影片畫面，未找到獨立來源佐證，讀稿已標明是影片畫面所寫。成效數字（申請數、市占等）未寫入。已搜爭議：搜了「Pedigree Kymba Gran Hermano controversy／fake／fraud」，沒有 Pedigree Kymba 的爭議（搜到的是其他年度、其他品牌的老大哥狗隻爭議，與此作無關）。"
+  "note": "官方全文需登入，內容依 Agencias de Medios（阿根廷媒體產業網站）、Internationalist 與 Ciudad.com.ar 整理。官方案例圖板用的是字卡畫面，點子本身不在圖上。Ciudad.com.ar 稱該屆節目為 2011 年（Gran Hermano 2011，2 月 25 日入屋），官方獎項為 2012 年，讀稿未寫年份。「80%」取自案例影片畫面，未找到獨立來源佐證，讀稿已標明是影片畫面所寫。成效數字（申請數、市占等）未寫入。已搜爭議：搜了「Pedigree Kymba Gran Hermano controversy／fake／fraud」，沒有 Pedigree Kymba 的爭議（搜到的是其他年度、其他品牌的老大哥狗隻爭議，與此作無關）。 2026-11-24 Opus 驗：事實抽查：Agencias de Medios（以參賽者身分入住、觀眾報名領養、由 Emiliano 領養、Adopción PEDIGREE 計畫）對得上；Kymba 是母犬。"
  },
  {
   "id": "ltwm-05450",
@@ -231,7 +231,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依官方案例板上的問題／解法文字、官方獎項頁與 One Show 作品頁整理（Behance 連結回 403）。海報畫面只描述看得到的部分；Hobbies 一張布料縫製的細節看不清，只寫風格。這件官方報名有多組作品名（含 ARCHITECTURE、FAIRY TALES、GARDENING、TRAVEL 等），圖板上的 Music、Languages、Hobbies 不在官方作品名單內，讀稿以圖板整體作法描述，請驗收員留意。作品是否同時掛在兩個類別（Outdoor 與 Design）皆已列入 awards。已搜爭議：搜了「Penguin Books Malaysia More Than Just The Classics Y&R controversy／scam／fake／withdrawn」，未見相關爭議（結果中的馬來西亞出版社召回小說事件與企鵝無關）。"
+  "note": "官方全文需登入，內容依官方案例板上的問題／解法文字、官方獎項頁與 One Show 作品頁整理（Behance 連結回 403）。海報畫面只描述看得到的部分；Hobbies 一張布料縫製的細節看不清，只寫風格。這件官方報名有多組作品名（含 ARCHITECTURE、FAIRY TALES、GARDENING、TRAVEL 等），圖板上的 Music、Languages、Hobbies 不在官方作品名單內，讀稿以圖板整體作法描述，請驗收員留意。作品是否同時掛在兩個類別（Outdoor 與 Design）皆已列入 awards。已搜爭議：搜了「Penguin Books Malaysia More Than Just The Classics Y&R controversy／scam／fake／withdrawn」，未見相關爭議（結果中的馬來西亞出版社召回小說事件與企鵝無關）。 2026-11-24 Opus 驗：判斷：官方第 4 筆（Design 類）的作品名就是 MORE THAN JUST THE CLASSICS（整組），案例板屬這筆，Music、Languages 等張不在 Outdoor 報名名單裡不算寫錯支；Travel、Fairy Tales、Hobbies 兩邊都有。維持。"
  },
  {
   "id": "ltwm-05837",
@@ -323,7 +323,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "找不到好圖：官方 case board 只有 240x180（體檢標 ✗），Clios 連結 404，其他來源擋爬蟲，需本機補圖，image_url 留空。官方全文需登入；Adweek 的報導篇名／文字未直接用「Touch the Untouchable」稱呼，但內容是同一批五支新影片（獨眼醫生、狼人寶寶、殭屍、公主、大腳怪），與 Ads of the World 的彩蛋頁相符。互動的技術與電話號碼等說法未找到可打開的來源，未寫入；觀看數屬成效，未寫入。已搜爭議：搜了「Skittles Touch the Untouchable controversy／fake／withdrawn」，未見爭議。"
+  "note": "找不到好圖：官方 case board 只有 240x180（體檢標 ✗），Clios 連結 404，其他來源擋爬蟲，需本機補圖，image_url 留空。官方全文需登入；Adweek 的報導篇名／文字未直接用「Touch the Untouchable」稱呼，但內容是同一批五支新影片（獨眼醫生、狼人寶寶、殭屍、公主、大腳怪），與 Ads of the World 的彩蛋頁相符。互動的技術與電話號碼等說法未找到可打開的來源，未寫入；觀看數屬成效，未寫入。已搜爭議：搜了「Skittles Touch the Untouchable controversy／fake／withdrawn」，未見爭議。 2026-11-24 Opus 驗：再找圖：Applied Arts 得獎頁沒有圖與影片，仍待本機補圖。"
  },
  {
   "id": "ltwm-05788",
@@ -336,7 +336,7 @@
   "links": [
    "https://adsuit.wordpress.com/2016/04/20/mupi-smart-mercedes-benz-2016/"
   ],
-  "decision": "不收",
+  "decision": "收",
   "awards": [
    {
     "level": "Bronze",
@@ -347,21 +347,21 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "",
+  "idea_one_liner": "賓士旗下小車 Smart 把整輛車擠進街頭直立燈箱，車頭車尾凸出框外，標語 Fits almost anywhere（哪都塞得下）",
   "brand_display": "Smart",
-  "full_text": "",
-  "tags": "",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：CONTRAPUNTO BBDO Madrid\n\n【背景】Smart 是戴姆勒（Daimler，賓士母公司）旗下的雙人座小車，車身短、好停車是它最大的賣點。\n\n【點子】直接拿街頭的直立式燈箱廣告（西班牙稱 mupi）當道具：把一整輛 Smart 塞進看板裡，用畫面證明它小到「幾乎哪裡都塞得下」。\n\n【執行】依作品畫面解讀，無文字說明：人行道上一座 JCDecaux 的直立燈箱，看板中央是一輛紅色 Smart 的側面，車頭和車尾都凸出看板的外框，像車子硬卡在框裡；車子下方寫著「Fits almost anywhere.」（幾乎哪裡都放得下），右上角是 smart 標誌與「open your mind.」。作品圖另外拍了三處不同街角的同款燈箱。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/mupi-smart-87163\nhttps://adsuit.wordpress.com/2016/04/20/mupi-smart-mercedes-benz-2016/",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 戶外類銅獅, Outdoor Bronze Lion, 戶外類, Outdoor, 銅獅, Bronze Lion, Billboards & Street Furniture, 看板與街道設施, Cars & Automotive Services, 汽車與汽車服務, Smart, Smart fortwo, 賓士, Mercedes-Benz, 戴姆勒, Daimler, Contrapunto BBDO, BBDO, 汽車, 小車, 城市車, 戶外廣告, 燈箱, 直立燈箱, mupi, 街道家具, JCDecaux, 突破框架, 出框, 視覺誇張, 好停車, 車身尺寸, 紅色汽車, 西班牙, Spain, 馬德里, Madrid",
   "category": "行銷案例",
   "references": [
-   "https://lovethework.com/work-awards/entries/mupi-smart-87163",
-   "https://lacriaturacreativa.com/2012/06/25/los-18-leones-conseguidos-por-espana-en-los-cannes-lions-2012/"
+   "https://www.lovethework.com/en/work/entries/mupi-smart-87163",
+   "https://adsuit.wordpress.com/2016/04/20/mupi-smart-mercedes-benz-2016/"
   ],
-  "image_url": "",
-  "image_shows": "",
-  "text_source_level": "",
+  "image_url": "https://adsuit.wordpress.com/wp-content/uploads/2016/04/00003261_34477063_1342003169-orig-2.jpg",
+  "image_shows": "作品圖：人行道上的 JCDecaux 直立燈箱，看板裡一輛紅色 Smart 側面，車頭車尾凸出框外，下方字「Fits almost anywhere.」，右上 smart 標誌；下排是另外三處街角的同款燈箱",
+  "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "找不到任何說明作品做法的來源：官方 Lovethework 條目只列獎項（戶外類銅獅，Billboards & Street Furniture）、代理商 Contrapunto BBDO Madrid；La Criatura Creativa 只列得獎名單；adsuit 頁面（標 2016）只有圖、沒有說明且年份對不上；Ads of the World、AdForum、LatinSpots 找不到或擋爬蟲；官方縮圖只有 148x105。沒有可描述的內容，依規則卡「所有來源都找不到內容」不收。若本機能打開 AdForum 或官方 Full Campaign 頁，可改收。已搜爭議：搜了 Mupi Smart 相關，未見爭議。"
+  "note": "找不到任何說明作品做法的來源：官方 Lovethework 條目只列獎項（戶外類銅獅，Billboards & Street Furniture）、代理商 Contrapunto BBDO Madrid；La Criatura Creativa 只列得獎名單；adsuit 頁面（標 2016）只有圖、沒有說明且年份對不上；Ads of the World、AdForum、LatinSpots 找不到或擋爬蟲；官方縮圖只有 148x105。沒有可描述的內容，依規則卡「所有來源都找不到內容」不收。若本機能打開 AdForum 或官方 Full Campaign 頁，可改收。已搜爭議：搜了 Mupi Smart 相關，未見爭議。 2026-11-24 Opus 驗：改收：adsuit 頁的作品圖（檔名時間戳為 2012 年 7 月，構圖與官方 148×105 縮圖相同）就是這件 MUPI SMART，戶外作品依規則卡可依作品畫面解讀，所以由不收改為收、補寫全部欄位；lovethework 條目確認品牌 Mercedes-Benz、Contrapunto BBDO 馬德里、Outdoor 銅獅，沒有案例文字。依作品畫面解讀，無文字說明。原 references 的 La Criatura Creativa 只有得獎名單，未列入。"
  },
  {
   "id": "ltwm-05829",
@@ -387,7 +387,7 @@
   "awards_unverified": [],
   "idea_one_liner": "英國 Omo 洗衣精的影片，畫面是穿雨靴的孩子，在泥濘草叢間行走，延續「髒是好事」的品牌主張",
   "brand_display": "Omo",
-  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜影片類銅獅 Film Bronze Lion｜代理商：DLKW LOWE London\n\n【背景】Omo 的品牌主張是「Dirt is good（髒是好事）」。\n\n【執行】官方案例圖是影片的一個畫面：一個穿牛仔褲和紅藍相間雨靴的小孩踩在泥地上，旁邊是被壓倒的植物叢。我們沒能打開影片或有說明文字的頁面，所以影片的情節不描述。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/set-free-239915\nhttps://www.adsoftheworld.com/campaigns/adventures",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜影片類銅獅 Film Bronze Lion｜代理商：DLKW LOWE London\n\n【背景】Omo 的品牌主張是「Dirt is good（髒是好事）」。\n\n【執行】官方案例圖是影片的一個畫面：一個穿牛仔褲和紅藍相間雨靴的小孩踩在泥地上，旁邊是被壓倒的植物叢。沒能打開影片或有說明文字的頁面，所以影片的情節不描述。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/set-free-239915\nhttps://www.adsoftheworld.com/campaigns/adventures",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片類, Film, 居家用品：清潔產品, Household: Cleaning Products, 銅獅, Bronze Lion, Omo, Unilever, 聯合利華, DLKW Lowe, Lowe London, 洗衣精, 清潔用品, 日用品, Dirt is good, 髒是好事, 孩子, 兒童, 雨靴, 泥巴, 泥地, 玩耍, 英國, United Kingdom, 影片",
   "category": "行銷案例",
   "references": [
@@ -399,7 +399,7 @@
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": false,
-  "note": "uncertain：缺影片情節。Lovethework 官方頁只有獎項，Vimeo 擋爬蟲（出現驗證頁），The Drum 回 403，沒有打開過任何講劇情的頁面。搜尋摘要提到影片與愛動物的小女孩有關，但摘要未寫入。一句話只描述畫面，並用品牌既有主張，需本機補劇情後重寫。官方作品名 SET FREE，與影片連結 Vimeo 58105575 一致（另有同名 Persil 版 Vimeo 64644811 未打開）。已搜爭議：搜了 Omo Set Free 相關，未見爭議。"
+  "note": "uncertain：缺影片情節。Lovethework 官方頁只有獎項，Vimeo 擋爬蟲（出現驗證頁），The Drum 回 403，沒有打開過任何講劇情的頁面。搜尋摘要提到影片與愛動物的小女孩有關，但摘要未寫入。一句話只描述畫面，並用品牌既有主張，需本機補劇情後重寫。官方作品名 SET FREE，與影片連結 Vimeo 58105575 一致（另有同名 Persil 版 Vimeo 64644811 未打開）。已搜爭議：搜了 Omo Set Free 相關，未見爭議。 2026-11-24 Opus 驗：讀稿去掉第一人稱。再搜 Omo Set Free 情節，只找到同品牌其他作品，仍缺情節，維持 uncertain。"
  },
  {
   "id": "ltwm-05615",
