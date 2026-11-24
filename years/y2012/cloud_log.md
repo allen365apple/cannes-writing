@@ -12,3 +12,6 @@
 - 問題：程式檢查沒掃到違規；寫手、驗收員都沒回報違規。開工時本地 main 跟 GitHub 分岔（本地是 11-17 的舊歷史），已改以 GitHub 的 main 為準，沒推舊歷史、沒 force push。b010、b012 寫手把寫稿過程句、2014 年的報導寫進稿，驗收員已改正（05341、05772 改用 Ad Age 2012 報導重寫）。
 - 2026-11-24 回報已寫進 years/last_report.txt。
 - 2026-11-24 14:10 開工：b017 b018 b019 b020 b021 b022 b023（雲端 2026-11-24 第 2 輪）
+- 2026-11-24 雲端第 2 輪收尾（14:33）：寫完並驗完 b017–b023（7 批 70 件，全收，沒有不收、沒有標重複）。驗收員拿掉 uncertain 數件（05661、05372、05382 等），05742 KENTUCKY 用 WEKU 報導重寫；05376 原稿寫 Rutger Hauer「演唱」已改正。2012 累計 23／60 批。待決新增 18 件：重複候選 3（05771／05661 COIN HUNTERS 那座銅獅歸屬、05375 WATERMARK 疑與 2011 跨年重複、05419／05572 德銀 ART+COM 兩件）、【爭議】候選 1（05393 BE PROUD 只有匿名「scam」留言，沒加）、仍 uncertain 14（其中待音檔 05371、05409）；撤獎 0。圖不理想約 20 張（沒圖 10 件）。連不上：Behance、Trend Hunter、La Réclame、adsspot、LBB、AdForum、Ad Age、Adweek 部分頁、Creative Review、Campaign、The Drum、MediaPost、WARC、Shots、adnews、campaignbrief 等 403／404；Vimeo 要人機驗證；lovethework 頁沒內文。沒撞額度。
+- 問題：程式檢查兩組都沒掃到違規（無 rm、無自加標頭）；寫手、驗收員自報沒用 rm、沒改 in 檔。b017、b018 寫手在讀稿寫了「我打開的／我沒看到」這類寫稿過程句，驗收員已全刪；b019 寫手自承沒逐件重讀，驗收員已逐件看。b021 寫手多跑一次 check_images（重產 images_b021.md）；b023 寫手回報提到看過 git 狀態（唯讀，沒改東西）。寫作中途依停止檢查多次 commit「寫作中暫存（未驗）」。
+- 2026-11-24 14:33 回報已寫進 years/last_report.txt。
