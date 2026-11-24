@@ -65,3 +65,14 @@
 - 仍 uncertain 5：b021 05531 EAGLE, MONKEY（缺 EAGLE 那張圖與文字說明）；b022 05409 GOOD SIDE（Dos Equis 廣播，缺音檔，音檔頁 adsspot 403）、05571 SWORD FIGHT（缺劇情）；b023 05413 MYSTERY AD（缺第二個來源）、05577 CNN IREPORT（缺操作流程）。
 - 圖不理想：沒有圖 05400、05409、05577；偏小 05401（585×265）、05398、05399、05413（480×360）；05420 只看得到任務字卡。待本機補。
 - 【爭議】0；撤獎 0。
+
+## 2026-11-25 雲端第 1 輪 b024–b027（Sonnet 寫、Opus 驗）
+- 獎項歸屬待決：b024 ltwm-05435 FROM LOVE TO BINGO 的 award_line 含一座戶外銅獅，官方報名的是另一件 ALI，是否從本件拿掉請維護者決定。
+- 不收待決 1：b025 ltwm-05436 POWER COURIERS（Behance 打不開、One Show 與搜尋都找不到這件，in 檔沒有官方獎項資料）。換來源找得到可改收。
+- 改收請確認 1：b027 ltwm-05788 MUPI（Smart／Contrapunto BBDO Madrid）寫手原判不收，驗收員找到作品圖、依畫面補寫後改為收；沒有文字說明，請本機確認。
+- 非重複參考：b025 05434（Sony Music）與 05801（OMD）同屬 Pepsi X Factor 贊助，代理商、獎項不同，驗收員判斷不算重複。
+- 品牌參考：b025 05881 官方品牌欄有 Carlsberg，來源只提到百事，讀稿沒寫 Carlsberg。
+- 爭議參考（只記 note）：b026 05444 WALK OF SHAME 英國 ASA 申訴 4 件全判不成立，驗收員已從讀稿拿掉【爭議】段。
+- 仍 uncertain 5：b024 05425 RELIEF PET HOUSE（缺紙箱怎麼改、怎麼分送）；b025 05434 X FACTOR DIGITAL ECOSYSTEM（缺生態系其他部分）、05874 THE OFFER（缺情節）；b026 05583 D + A + N IS DAN（UNICEF 廣播，缺音檔，vimeo.com/59521738）；b027 05829 SET FREE（OMO 影片，缺情節）。
+- 圖不理想：沒有圖 05890、05583；偏弱 05429、05426、05423、05430、05424、05525、05438、05801、05447、05444、05449、05453、05837。待本機補。
+- 【爭議】0；撤獎 0。
