@@ -48,3 +48,12 @@
 - 仍 uncertain 3：b013 05875（缺廣告影片本身內容）；b014 05715 CHEF（缺劇情，影片 https://vimeo.com/40880878 要本機看）；b015 05354 Kit Kat MEETING, MOBILE（缺 Smartphone 那幅的圖與文案）。
 - 圖不理想：偏小 b014 05343、05494（480×360），b015 05596（480×360），b013 05875（450×169）；看不出點子 b014 05465 BLUEMOTION LABEL、b015 05351、05355；b013 05344 用的是延伸活動的案例板。
 - 撤獎 0。
+
+## 2026-11-24 雲端第 2 輪 b017–b020（Sonnet 寫、Opus 驗）
+- 重複候選 1：b017 ltwm-05771 EXTENDED HOURS 的 award_line 裡那座行動類銅獅，官方作品名是 McDONALD'S COIN HUNTERS（DDB Copenhagen），內容是 ltwm-05661 Coin Hunting（丹麥虛擬硬幣），不是英國深夜營業。驗收員建議把這座獎移到 05661。decision 未改，請維護者決定。
+- 跨年重複候選：b018 ltwm-05375 WATERMARK（in 檔名 THE DISTILLATORIUM，驗收員確認寫的就是 WATERMARK）。Trend Hunter 說它 2011 年已拿 Integrated 銀獅，若 2011 年也收了是跨年重複，請留意。
+- 【爭議】候選（未加）：b020 ltwm-05393 BE PROUD（Surfrider／Y&R Paris）只在搜尋摘要看到匿名留言泛稱「scam」，Campaign Brief 原頁 404，沒有具體指控，沒加【爭議】段。
+- 爭議參考（只記 note）：b018 Carlton Mid 有廣告標準客訴（原文 adnews 打不開）；b018 YASUNI ITT 倡議本身 2013 年被政府終止，不是廣告造假。
+- 仍 uncertain 9：b017 05838 Smelling Like Coffee（缺香氣做法、版面）；b018 05371 BULLY（廣播缺音檔）、05370（缺 Maruri Grey 實際做法）、05373（缺細節）、05889 TOP TO BOTTOM OFF ROAD（缺社群操作）、05742 KENTUCKY（Toyota Camry 超級盃廣告，缺可打開的劇情說明）；b019 05385 I AM MUMBAI（缺劇情）、05655 COCOON（劇情只在搜尋摘要）；b020 05724 HAPPY TO BED（查不到 CAKE 做的是哪一塊，是否就是得獎報名待確認）。
+- 圖不理想：沒有圖 05369、05661、05838、05371、05375、05889、05384；偏弱 05771、05380、05382、05379、05392。待本機補。
+- 撤獎 0。驗收員清掉 b017、b018 讀稿裡的「我打開的／我沒看到」寫稿過程句；05376 原稿寫 Rutger Hauer「演唱」，已依 D&AD 改正。
