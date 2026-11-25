@@ -24,3 +24,6 @@
 - 問題：程式檢查兩組都沒掃到違規（無 rm、無自加標頭）。b037 寫手自承讀稿沒逐句重讀，驗收員已逐件完整讀過並改 9 件。b035–b037 驗收員自報跑過一次唯讀 git diff --stat（沒改東西）。開工時本機是分離 HEAD，改在新分支對齊 origin/main 工作再推上 main（沒 force push）。寫作中途多次 commit「寫作中暫存（未驗）」。
 - 2026-11-25 14:42 回報已寫進 years/last_report.txt。
 - 2026-11-26 02:10 開工：b038 b039 b040 b041 b042 b043 b044（雲端 2026-11-26 第 1 輪）
+- 2026-11-26 雲端第 1 輪收尾：寫完並驗完 b038–b044（7 批 70 件：收 61、不收 9（b039 05611、05607；b040 05622；b041 05628；b042 05652、05644、05645；b043 05658、05664，都是找不到內容，不是撤獎））。驗收員把 b042 05651 CAT-TOAST 從不收改為收（待本機確認），拿掉 uncertain 7 件，仍 uncertain 15 件。2012 累計 44／60 批。待決新增約 26 條（不收待決 9、改收確認 1、作品範圍待決 1（b039 05604 Gandhi 三支同報）、仍 uncertain 15）；【爭議】0、撤獎 0、重複 0。圖：沒圖約 10 件（不含不收件）、偏弱十多件，待本機補。連不上：LBB、Shots、Behance、AdForum、adsspot、Trend Hunter、The Drum、Campaign、Adweek（付費牆）、Fast Company、Marketing Week、Creative Review、Commarts（503）、WAN-IFRA（503）、web.archive.org（被擋）；Vimeo 人機驗證；YouTube 頁沒內文；lovethework 頁沒內文。沒撞額度。
+- 問題：程式檢查兩組都沒掃到違規（無 rm、無自加標頭），寫手與驗收員都自報沒刪檔、沒 git。開工時本機是分離 HEAD，已切回 main 對齊 origin（沒 force push）。寫作中途專案根目錄出現一個空檔 scratch_dummy（不明 subagent 建立），已搬到 tmp_misc/（沒刪、不上傳）。寫作中途多次 commit「寫作中暫存（未驗）」。
+- 2026-11-26 02:40 回報已寫進 years/last_report.txt。
