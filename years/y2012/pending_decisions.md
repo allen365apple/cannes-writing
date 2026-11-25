@@ -96,3 +96,11 @@
 - 仍 uncertain 10：b031 05500 BRAINY GIRL（缺兩支劇情）；b032 05562 FUELING BUZZ（缺 Gatorade 實際做法）、05512 Campbell's 廣播（缺音檔）；b033 05515 Strepsils、05518 Tele2、05519 Theater Rigiblick、05524 Pattex（缺文字說明）；b034 05530 ONLY A DOG（音檔 youtube mo5kJfWs6dI）、05528 INTERSECTING LIVES II（音檔 youtube C3fSWRZA-VE）、05911 YES NO（缺劇情）。
 - 圖不理想：沒有圖 05592、05533、05536、05530、05528、05512、05520；偏弱 05500、05911、05499、05519（480×360）、05527（480×360）。待本機補。
 - 【爭議】0；撤獎 0；重複 0。
+
+## 2026-11-25 雲端第 2 輪 b035–b037（Sonnet 寫、Opus 驗）
+- 收但無內容請決定 1：b037 ltwm-05579 STORK（Clearblue 廣播），完全找不到腳本或音檔，寫手與驗收員都維持「收＋uncertain」，建議本機找不到音檔就改不收。
+- 驗收員改收 2（請本機確認）：b036 ltwm-05554 ROBBERY（Freddo，找到原圖）、ltwm-05558 NATURE（Union Hearing Centre 廣播，找到 YouTube 音檔，待本機轉寫）。
+- 待確認參考：b035 05541 Nerf OFFICE WAR 置入德國劇集 Stromberg 的說法只在搜尋摘要，讀稿沒寫；b035 05552 博報堂具體分工無來源。
+- 仍 uncertain 8：b035 05541 Nerf（缺做法）；b036 05564 Fleurop BROKEN VASE（缺含意來源）、05565 Fiat 500 Cabrio 廣播（缺音檔）、05912 YOU SHAVE I SHAVE（單一短報導）、05558 NATURE（待轉寫）；b037 05574 Converse（缺畫面說明）、05569 Dulux（缺活動做法）、05579 STORK（無內容）。
+- 圖不理想：沒有圖 05541、05549、05563、05565、05912、05558、05568、05574、05579；偏小 05552（540×410）。待本機補。
+- 【爭議】0；撤獎 0；重複 0。
