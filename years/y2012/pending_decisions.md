@@ -104,3 +104,13 @@
 - 仍 uncertain 8：b035 05541 Nerf（缺做法）；b036 05564 Fleurop BROKEN VASE（缺含意來源）、05565 Fiat 500 Cabrio 廣播（缺音檔）、05912 YOU SHAVE I SHAVE（單一短報導）、05558 NATURE（待轉寫）；b037 05574 Converse（缺畫面說明）、05569 Dulux（缺活動做法）、05579 STORK（無內容）。
 - 圖不理想：沒有圖 05541、05549、05563、05565、05912、05558、05568、05574、05579；偏小 05552（540×410）。待本機補。
 - 【爭議】0；撤獎 0；重複 0。
+
+## 2026-11-26 雲端第 1 輪 b038–b041（Sonnet 寫、Opus 驗）
+- 不收待決 4：b039 ltwm-05611 ALZHEIMER EXPERIENCE、ltwm-05607 A SUMMER WITHOUT RAIN（Widerøe）；b040 ltwm-05622 BANK TELLER；b041 ltwm-05628 THE BIG BONES EXPERT。都是雲端找不到可讀內容，不是撤獎。驗收員建議 05607（LBB、Vimeo 有內容）、05622（官方 YouTube ee33-o_omy4）本機看過後改收；05611、05628 等本機補找。
+- 重複／作品範圍請決定 1：b039 ltwm-05604 EXECUTED（Gandhi）官方是 WOODS、BURIED、EXECUTED 三支同報一座銅獅，全年 in 檔沒有另兩支另立的件；建議決定是否把 05604 改寫成三支一組的稿。
+- 作品名參考：b038 05594 PLAYSTATION 3 其實是 Mapfre 三張海報一組（PlayStation／Smart car／Toy Story）；b038 05590 官方名單拼成「EFFICIENTDYNAMI CS」；b041 05640、05637、05633、05630 是多件一組，只看到一件畫面。
+- 待確認參考：b038 BMW 雕塑擺放地點採 One Show 的 BMW Welt（另說 BMW 博物館）；b040 05627 Vinnie 背景數字 dandad.org 與 IPA 不一致，讀稿並列；b040 05617 ARTE 類別卡片與 in 檔不同，以 in 檔為準。
+- 爭議參考（只記 note）：b039 o.b. 一位教授批評影片可能讓顧客覺得被嘲弄；b040 BHF Vinnie 曾被客訴、主管機關認定無誤；b040 Mentos 同品牌另一系列被批評；b041 Weetabix 同系列能量宣稱經 ASA 審查。都不算【爭議】。
+- 仍 uncertain 8：b038 13758 TOURISM IRELAND（廣播，缺台詞，音檔 youtube 82Xzq693-Eo）、05589 BMW VISION CONNECTEDDRIVE（缺 Mutabor 作品說明）；b039 05602 MINERS（缺影片內容）、05597 180 CHANNEL（缺識別設計說明與圖）、05604 EXECUTED（缺劇情）；b040 05614 THE NURDLES（缺內容與圖；IPA 是英國案例，得獎的是 PHD New York）；b041 05629 Weetabix BIG DAY（缺影片內容）、05634 BOBBIE BISHOP（缺影片內容）。
+- 圖不理想：沒有圖 05586、05605、05597、05614、05628；看不出點子 05617（官方圖對不上）、05609、05604、05629、05634、05616、05593；偏小 05590（480×360）；05624 用 i0.wp.com 圖，程式檢查回 404、實測可抓，建議本機換存。待本機補。
+- 【爭議】0；撤獎 0；重複 0（05604 見上）。
