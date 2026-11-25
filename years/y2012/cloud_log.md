@@ -23,3 +23,4 @@
 - 2026-11-25 雲端第 2 輪收尾：寫完並驗完 b031–b037（7 批 70 件：收 66、不收 4（b031 05501、05506；b033 05526、05522，都是找不到內容，不是撤獎））。驗收員把 b031 05498、05783，b036 05554、05558 從不收改為收（待本機確認）；拿掉 uncertain 十多件，仍 uncertain 18 件（含 b037 05579 STORK 無內容待決要不要改不收）。2012 累計 37／60 批。待決新增約 30 條（不收待決 4、改收確認 4、無內容待決 1、仍 uncertain 18、參考數則）；【爭議】0、撤獎 0、重複 0。圖：沒圖約 16 件、偏弱數件，待本機補。連不上：Behance、Trend Hunter、adsspot、AdForum、The Drum、LBB、Shots（部分）、Marketing Week、Campaign、welovead、La Réclame、Creative Review、Japan Times（402）、NPR（503）、commarts（時好時壞）；Vimeo 人機驗證；lovethework 頁沒內文；sostav.ua 不在允許網域。沒撞額度。
 - 問題：程式檢查兩組都沒掃到違規（無 rm、無自加標頭）。b037 寫手自承讀稿沒逐句重讀，驗收員已逐件完整讀過並改 9 件。b035–b037 驗收員自報跑過一次唯讀 git diff --stat（沒改東西）。開工時本機是分離 HEAD，改在新分支對齊 origin/main 工作再推上 main（沒 force push）。寫作中途多次 commit「寫作中暫存（未驗）」。
 - 2026-11-25 14:42 回報已寫進 years/last_report.txt。
+- 2026-11-26 02:10 開工：b038 b039 b040 b041 b042 b043 b044（雲端 2026-11-26 第 1 輪）
