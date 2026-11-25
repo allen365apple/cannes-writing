@@ -37,7 +37,7 @@
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": true,
-  "note": "uncertain：只打開到 D&AD 存檔頁的概述（與倫敦警察廳合作、家暴聲響、旁白說撥號才會停）；官方 lovethework 卡片頁沒有內容，adsspot 與 LBB 回 403、無法打開。缺三支廣播的音檔或逐字稿，也缺【背景】【策略】與官方報名的作品說明；沒有找到好圖（官方候選只有預留圖）。搜尋摘要提到的播出日期、LBC 電台、只在夜間播出等細節未寫入。已搜爭議：搜「品牌 作品名 controversy／fake／fraud／withdrawn」，沒有查到造假、抄襲、撤獎或其他爭議報導。"
+  "note": "uncertain：只打開到 D&AD 存檔頁的概述（與倫敦警察廳合作、家暴聲響、旁白說撥號才會停）；官方 lovethework 卡片頁沒有內容，adsspot 與 LBB 回 403、無法打開。缺三支廣播的音檔或逐字稿，也缺【背景】【策略】與官方報名的作品說明；沒有找到好圖（官方候選只有預留圖）。搜尋摘要提到的播出日期、LBC 電台、只在夜間播出等細節未寫入。已搜爭議：搜「品牌 作品名 controversy／fake／fraud／withdrawn」，沒有查到造假、抄襲、撤獎或其他爭議報導。 2026-11-25 Opus 驗：LBB 報導（amv-bbdo-create-hard-hitting-domestic-violence-radio-campaign-for-womens-aid）仍 403，維持 uncertain；需本機音檔。"
  },
  {
   "id": "ltwm-05652",
@@ -72,7 +72,7 @@
   "text_source_level": 0,
   "uncertain": false,
   "needs_audio": false,
-  "note": "所有打得開的來源都沒有這件作品的內容，只能確認它存在於官方得獎名單（媒體類銅獅，商業公共服務，ÅKESTAM HOLST 為瑞典郵政做的 Celebrity Ceasefire）。已打開：lovethework 卡片頁（沒有內文）；adsspot 回 403、Ads of the World 兩個猜測網址 404；搜尋結果沒有任何一頁描述這件作品的點子，AdForum 只列出標題。候選圖只有 148×105 縮圖。非確認無此作品，建議本機用其他來源補寫後改回收。已搜爭議：搜「品牌 作品名 controversy／fake／fraud／withdrawn」，沒有查到任何造假、抄襲、撤獎或其他爭議報導。"
+  "note": "所有打得開的來源都沒有這件作品的內容，只能確認它存在於官方得獎名單（媒體類銅獅，商業公共服務，ÅKESTAM HOLST 為瑞典郵政做的 Celebrity Ceasefire）。已打開：lovethework 卡片頁（沒有內文）；adsspot 回 403、Ads of the World 兩個猜測網址 404；搜尋結果沒有任何一頁描述這件作品的點子，AdForum 只列出標題。候選圖只有 148×105 縮圖。非確認無此作品，建議本機用其他來源補寫後改回收。已搜爭議：搜「品牌 作品名 controversy／fake／fraud／withdrawn」，沒有查到任何造假、抄襲、撤獎或其他爭議報導。 2026-11-25 Opus 驗：再搜「Swedish Post Celebrity Ceasefire Åkestam Holst」仍找不到任何描述，維持不收。"
  },
  {
   "id": "ltwm-05644",
@@ -107,7 +107,7 @@
   "text_source_level": 0,
   "uncertain": false,
   "needs_audio": false,
-  "note": "所有打得開的來源都沒有這件作品的內容，只能確認它存在於官方得獎名單（廣播類銅獅，Best Scriptwriting，倫敦警察廳 TUBE／BUS 兩支）。已打開：lovethework 兩張卡片頁（沒有內文）；adsspot 回 403；搜尋找不到廣播台詞。缺文字內容與音檔，沒有可用圖。建議本機取得音檔、逐字稿後補寫（needs_audio）。已搜爭議：搜「品牌 作品名 controversy／fake／fraud／withdrawn」，沒有查到造假、抄襲、撤獎或其他爭議報導。"
+  "note": "所有打得開的來源都沒有這件作品的內容，只能確認它存在於官方得獎名單（廣播類銅獅，Best Scriptwriting，倫敦警察廳 TUBE／BUS 兩支）。已打開：lovethework 兩張卡片頁（沒有內文）；adsspot 回 403；搜尋找不到廣播台詞。缺文字內容與音檔，沒有可用圖。建議本機取得音檔、逐字稿後補寫（needs_audio）。已搜爭議：搜「品牌 作品名 controversy／fake／fraud／withdrawn」，沒有查到造假、抄襲、撤獎或其他爭議報導。 2026-11-25 Opus 驗：再搜 Met Police AMV BBDO 2012 radio，只見 D&AD 有 Metropolitan Police Robbery Campaign（廣播）與「Don't Look」反搶劫廣播，無法確認就是 TUBE／BUS，未寫入，維持不收；建議本機找音檔後改收。"
  },
  {
   "id": "ltwm-05648",
@@ -133,7 +133,7 @@
   "awards_unverified": [],
   "idea_one_liner": "蘭姆酒品牌 Captain Morgan 做了一款手機海盜遊戲，玩家走到真實街區就觸發海戰，還能掃描酒瓶解鎖道具",
   "brand_display": "Captain Morgan",
-  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜行動類銅獅 Mobile Bronze Lion｜代理商：ANOMALY New York\n\n【點子】Captain Morgan 蘭姆酒不做廣告片，改做一款手機遊戲《Captain's Conquest》：把真實城市變成海洋，玩家扮成海盜船長，從最底層的偷渡客一路打拚到統率自己的船隊。\n\n【執行】遊戲由 Anomaly 構想，倫敦的互動工作室 UNIT9 負責開發，是 iPhone 與 Android 都能玩的免費應用程式，用 Unity 與 3D 製作，另有一個 Facebook 應用程式。玩家一開始的船有多大，取決於他在 Facebook、Foursquare、Twitter 上的社群影響力。手機的定位會在地圖上顯示附近其他玩家的船，走在現實街道上就會觸發與敵船的海戰，玩家靠戰鬥取得的點數與戰利品讓船變大、升級。玩家可以和朋友組成船隊，並在現實地點「靠岸」（與 Foursquare 串接）佔領地盤，所以整座城市的玩家可以彼此較量。遊戲裡有八十多種可收集的道具，藏在現實世界的虛擬戰利品可以買賣，價格會隨玩家位置變動。另有「望遠鏡」功能，讓玩家掃描真實的 Captain Morgan 酒瓶來解鎖遊戲內獎勵。開玩之前，也可以在 Captain Morgan 的 Facebook 頁面上看到戰鬥即時動態。這款遊戲只在美國上架。\n\n資料來源：\nhttps://archive.unit9.com/project/captains-conquest/\nhttps://prnewswire.com/news-releases/captain-morgan-sets-sail-to-conquer-mobile-social-gaming-world-with-release-of-captains-conquest-for-free-download-144642025.html",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜行動類銅獅 Mobile Bronze Lion｜代理商：ANOMALY New York\n\n【點子】Captain Morgan 蘭姆酒不做廣告片，改做一款手機遊戲《Captain's Conquest》：把真實城市變成海洋，玩家扮成海盜船長，從最底層的偷渡客一路打拚到統率自己的船隊。\n\n【執行】代理商是 Anomaly，倫敦的互動工作室 UNIT9 負責開發，是 iPhone 與 Android 都能玩的免費應用程式，用 Unity 與 3D 製作，另有一個 Facebook 應用程式。玩家一開始的船有多大，取決於他在 Facebook、Foursquare、Twitter 上的社群影響力。手機的定位會在地圖上顯示附近其他玩家的船，走在現實街道上就會觸發與敵船的海戰，玩家靠戰鬥取得的點數與戰利品讓船變大、升級。玩家可以和朋友組成船隊，並在現實地點「靠岸」（與 Foursquare 串接）佔領地盤，所以整座城市的玩家可以彼此較量。遊戲裡有八十多種可收集的道具，藏在現實世界的虛擬戰利品可以買賣，價格會隨玩家位置變動。另有「望遠鏡」功能，讓玩家掃描真實的 Captain Morgan 酒瓶來解鎖遊戲內獎勵。在 Captain Morgan 的 Facebook 頁面上，也能看到成千上萬玩家對戰的即時動態。這款遊戲只在美國上架。\n\n資料來源：\nhttps://archive.unit9.com/project/captains-conquest/\nhttps://prnewswire.com/news-releases/captain-morgan-sets-sail-to-conquer-mobile-social-gaming-world-with-release-of-captains-conquest-for-free-download-144642025.html",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 行動類, Mobile, 銅獅, Bronze Lion, Captain Morgan, 摩根船長, Captain Morgan Original Spiced Rum, 蘭姆酒, Rum, Diageo, 帝亞吉歐, 烈酒, 酒類, ANOMALY, UNIT9, 手遊, 手機遊戲, Mobile Game, App, 應用程式, 位置遊戲, 地理位置, Location-based, Foursquare, Facebook, Twitter, 社群串聯, 海盜, Pirate, 船, 海戰, 掃描酒瓶, Scope, 美國, United States, iPhone, Android",
   "category": "行銷案例",
   "references": [
@@ -145,7 +145,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片頁無內容，讀稿依 UNIT9 專案頁與 PR Newswire 新聞稿整理。上架日期兩個來源不一致（UNIT9 寫 3 月 1 日、新聞稿寫 3 月 28 日），故未寫日期。UNIT9 頁面上的遊戲時長調查、Diageo 內部獎項屬成效，未寫入。官方報名名稱為 CAPTAINS CONQUEST（無撇號），與本件一致。已搜爭議：搜「品牌 作品名 controversy／fake／fraud／withdrawn」，沒有查到造假、抄襲、撤獎或其他爭議報導。"
+  "note": "官方卡片頁無內容，讀稿依 UNIT9 專案頁與 PR Newswire 新聞稿整理。上架日期兩個來源不一致（UNIT9 寫 3 月 1 日、新聞稿寫 3 月 28 日），故未寫日期。UNIT9 頁面上的遊戲時長調查、Diageo 內部獎項屬成效，未寫入。官方報名名稱為 CAPTAINS CONQUEST（無撇號），與本件一致。已搜爭議：搜「品牌 作品名 controversy／fake／fraud／withdrawn」，沒有查到造假、抄襲、撤獎或其他爭議報導。 2026-11-25 Opus 驗：事實抽查 UNIT9 與新聞稿：UNIT9 只把 Anomaly 列為代理商、沒說由它構想，已改；Facebook 頁是看玩家對戰即時動態，已改；船隻大小取決於 Facebook、Foursquare、Twitter 影響力（新聞稿）相符。"
  },
  {
   "id": "ltwm-05650",
@@ -184,7 +184,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片頁無內容，讀稿依 Ads of the World 與 Design You Trust 整理。Ads of the World 寫 2012 年 10 月，與坎城 6 月得獎不符，故未寫日期；鋼琴重量各來源不一（350／359／395 公斤），採兩個打開過的頁面的 359 公斤。圖為 Design You Trust 轉載的案例板（750×500，偏小但看得出點子；板上另印有成效數字，讀稿未寫）；背景句取自案例板文字。已搜爭議：搜「品牌 作品名 controversy／fake／fraud／withdrawn」，沒有查到造假、抄襲、撤獎或其他爭議報導。"
+  "note": "官方卡片頁無內容，讀稿依 Ads of the World 與 Design You Trust 整理。Ads of the World 寫 2012 年 10 月，與坎城 6 月得獎不符，故未寫日期；鋼琴重量各來源不一（350／359／395 公斤），採兩個打開過的頁面的 359 公斤。圖為 Design You Trust 轉載的案例板（750×500，偏小但看得出點子；板上另印有成效數字，讀稿未寫）；背景句取自案例板文字。已搜爭議：搜「品牌 作品名 controversy／fake／fraud／withdrawn」，沒有查到造假、抄襲、撤獎或其他爭議報導。 2026-11-25 Opus 驗：事實抽查 Ads of the World：359 公斤、九條繩子、七天 24 小時直播、每天投票兩次、氣溫 21 度與巴塞隆納例子、第六天掉落，全部相符。"
  },
  {
   "id": "ltwm-05649",
@@ -261,7 +261,7 @@
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": false,
-  "note": "uncertain：只打開到 Ads of the World 的作品資訊與製作名單（沒有創意說明）；官方卡片頁無內容，adsspot 回 403、YouTube 頁面讀不到內文。缺合唱的歌詞、路人反應與專線如何出現在片中，所以「歌詞在霸凌路人」是依作品名稱 Children's choir starts bullying 推出，一句話與讀稿的做法細節不足。圖為 YouTube 影片縮圖，影片網址來自搜尋結果、未能打開頁面確認標題，請驗收員比對。官方 case board（filespin conversion）體檢為全黑單色（30KB），所以沒用。已搜爭議：搜「品牌 作品名 controversy／fake／fraud／withdrawn」，沒有查到造假、抄襲、撤獎或其他爭議報導。"
+  "note": "uncertain：只打開到 Ads of the World 的作品資訊與製作名單（沒有創意說明）；官方卡片頁無內容，adsspot 回 403、YouTube 頁面讀不到內文。缺合唱的歌詞、路人反應與專線如何出現在片中，所以「歌詞在霸凌路人」是依作品名稱 Children's choir starts bullying 推出，一句話與讀稿的做法細節不足。圖為 YouTube 影片縮圖，影片網址來自搜尋結果、未能打開頁面確認標題，請驗收員比對。官方 case board（filespin conversion）體檢為全黑單色（30KB），所以沒用。已搜爭議：搜「品牌 作品名 controversy／fake／fraud／withdrawn」，沒有查到造假、抄襲、撤獎或其他爭議報導。 2026-11-25 Opus 驗：用 YouTube oembed 確認 ALv4rnLIAyE 是 Duval Guillaume 官方頻道的「Children's choir starts bullying in a shopping mall」，圖確認是這件；官方 case board 打開是黑底字卡「A few days before Christmas」，看不出點子，維持用 YouTube 圖。再搜荷蘭文來源（Opvoedingslijn koor pesten）仍找不到歌詞與路人反應，維持 uncertain。"
  },
  {
   "id": "ltwm-05654",
@@ -285,21 +285,23 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "雪佛蘭 Sonic 新車上市，把車吊上百呎高塔，讓網友在網站上點擊把車推下去，由吊索接住完成高空彈跳",
+  "idea_one_liner": "雪佛蘭替新車 Sonic 安排一連串「人生第一次」特技，先讓網友點擊，把車推下高塔玩高空彈跳，再剪成超級盃廣告",
   "brand_display": "Chevrolet",
-  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：GOODBY SILVERSTEIN & PARTNERS San Francisco\n\n【點子】新車上市不拍廣告片，改成一場讓網友親手完成的特技：把全新的雪佛蘭 Sonic 運到高塔頂端，由網友在網站上點擊，一步一步把車推向邊緣。\n\n【執行】Goodby Silverstein & Partners 把一輛 Sonic 吊上洛杉磯一座約 100 英尺（約 30 公尺）高的塔頂，在網站 letsdothis.com 直播，觀眾可以點擊，把車子推得更靠近邊緣；最後一次點擊讓車子衝出塔外，由接在液壓起重機上的彈力吊索接住，成為一場靠社群力量完成的汽車高空彈跳。整個活動以「Let's do this」為名，2011 年 10 月在美國以數位作品的形式推出，Motion Theory 製作，Adam Sadowsky 執導。官方卡片的報名作品名為「CHEVY SONIC INTEGRATED」，是整合行銷報名；這裡只寫確認得到的上市直播特技這部分。\n\n資料來源：\nhttps://www.adsoftheworld.com/campaigns/let-s-do-this-06f2a28b-f7a9-4a8e-a1c2-bc871bbaf8c9\nhttps://www.lovethework.com/en/work/entries/chevy-sonic-integrated-223954",
-  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 銅獅, Bronze Lion, 數位主導整合行銷活動, Best Digitally Led Integrated Campaign, Chevrolet, 雪佛蘭, Chevy, Chevrolet Sonic, Sonic, 汽車, Car, 新車上市, Product Launch, GOODBY SILVERSTEIN & PARTNERS, GSP, 美國, United States, 特技, Stunt, 高空彈跳, Bungee Jump, 直播, Live Stream, 互動網頁, 網友參與, 點擊, 高塔, 洛杉磯, Let's Do This, 整合行銷, Integrated Campaign, Motion Theory",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：GOODBY SILVERSTEIN & PARTNERS San Francisco\n\n【點子】新車上市不只拍廣告片，而是替雪佛蘭 Sonic 規劃一連串「第一次」：第一次高空彈跳、第一次跳傘、第一次空中翻轉、第一次拍音樂錄影帶。最先登場的上市特技，交給網友親手完成。\n\n【執行】Goodby Silverstein & Partners 把一輛 Sonic 吊上洛杉磯一座約 100 英尺（約 30 公尺）高的塔頂，在網站 letsdothis.com 直播，觀眾可以點擊，把車子推得更靠近邊緣；每一次點擊都會驅動一隻數位與機械結合的手，把車子往前推；最後一次點擊讓車子衝出塔外，由接在液壓起重機上的彈力吊索接住，成為一場靠網友完成的汽車高空彈跳。整個活動以「Let's do this」為名，2011 年 10 月在美國以數位作品的形式推出，Motion Theory 製作，Adam Sadowsky 執導。之後的「第一次」依 Designboom 的報導：車子和跳傘冠軍一起從飛機上被推出去；滑板好手 Rob Dyrdek 開著 Sonic 衝上大斜坡，讓車在空中翻轉一圈；樂團 OK Go 沿路架設樂器，由 Sonic 開過去觸動演奏，拍成音樂錄影帶。這些片段最後剪成一支像家庭錄影帶的集錦，成為 2012 年第 46 屆超級盃的廣告。官方報名作品名為「CHEVY SONIC INTEGRATED」，是整合行銷報名。\n\n資料來源：\nhttps://www.adsoftheworld.com/campaigns/let-s-do-this-06f2a28b-f7a9-4a8e-a1c2-bc871bbaf8c9\nhttps://www.designboom.com/design/superbowl-commercial-for-chevy-sonic/\nhttps://www.lovethework.com/en/work/entries/chevy-sonic-integrated-223954",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 銅獅, Bronze Lion, 數位主導整合行銷活動, Best Digitally Led Integrated Campaign, Chevrolet, 雪佛蘭, Chevy, Chevrolet Sonic, Sonic, 汽車, Car, 新車上市, Product Launch, GOODBY SILVERSTEIN & PARTNERS, GSP, 美國, United States, 特技, Stunt, 高空彈跳, Bungee Jump, 直播, Live Stream, 互動網頁, 網友參與, 點擊, 高塔, 洛杉磯, Let's Do This, 整合行銷, Integrated Campaign, Motion Theory, 超級盃, Super Bowl, 跳傘, Skydiving, Rob Dyrdek, OK Go, 音樂錄影帶, Music Video",
   "category": "行銷案例",
   "references": [
    "https://www.adsoftheworld.com/campaigns/let-s-do-this-06f2a28b-f7a9-4a8e-a1c2-bc871bbaf8c9",
+   "https://www.designboom.com/design/superbowl-commercial-for-chevy-sonic/",
    "https://www.lovethework.com/en/work/entries/chevy-sonic-integrated-223954"
   ],
   "image_url": "https://image.adsoftheworld.com/uuto0oa8xq27nctsltpjf9o7pmgz",
   "image_shows": "letsdothis.com 網頁截圖：橘色「LET'S DO THIS」標誌、夜間高塔頂的齒輪機械與像素手指「CLICK HERE」、點擊計數器，下方標題「THE SONIC HAS LAUNCHED!」",
   "text_source_level": 3,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "uncertain：官方報名作品是整合行銷（CHEVY SONIC INTEGRATED，Best Digitally Led Integrated Campaign），但只打開到一個來源（Ads of the World 的 Let's do this，說明的是上市高空彈跳特技），官方卡片頁無內容、MediaPost 與 Think with Google 等其他來源打不開。整個整合活動還有哪些部分（後續跳傘、OK Go 影片等僅見搜尋摘要）未寫入，請驗收員確認這支特技是否就是官方報名的主體。圖上印有點擊數與「THE SONIC HAS LAUNCHED」，看不到車子本身。搜尋摘要中的點擊人次、地點差異（長灘／洛杉磯）未寫入。已搜爭議：搜「品牌 作品名 controversy／fake／fraud／withdrawn」，沒有查到造假、抄襲、撤獎或其他爭議報導。"
+  "note": "uncertain：官方報名作品是整合行銷（CHEVY SONIC INTEGRATED，Best Digitally Led Integrated Campaign），但只打開到一個來源（Ads of the World 的 Let's do this，說明的是上市高空彈跳特技），官方卡片頁無內容、MediaPost 與 Think with Google 等其他來源打不開。整個整合活動還有哪些部分（後續跳傘、OK Go 影片等僅見搜尋摘要）未寫入，請驗收員確認這支特技是否就是官方報名的主體。圖上印有點擊數與「THE SONIC HAS LAUNCHED」，看不到車子本身。搜尋摘要中的點擊人次、地點差異（長灘／洛杉磯）未寫入。已搜爭議：搜「品牌 作品名 controversy／fake／fraud／withdrawn」，沒有查到造假、抄襲、撤獎或其他爭議報導。 2026-11-25 Opus 驗：補 Designboom 報導（整合活動的跳傘、Rob Dyrdek 翻車、OK Go 音樂錄影帶、超級盃集錦、點擊驅動機械手），改寫一句話與讀稿，拿掉 uncertain；Designboom 未提的點擊人次、銷量未寫入。事實抽查 Ads of the World：100 英尺、洛杉磯、液壓起重機彈力吊索、2011 年 10 月相符。cargocollective 連結只剩 Coming soon。圖是網站截圖、看不到車，偏弱。",
+  "idea_one_liner_r0": "雪佛蘭 Sonic 新車上市，把車吊上百呎高塔，讓網友在網站上點擊把車推下去，由吊索接住完成高空彈跳"
  },
  {
   "id": "ltwm-05645",
@@ -334,7 +336,7 @@
   "text_source_level": 0,
   "uncertain": false,
   "needs_audio": false,
-  "note": "所有打得開的來源都沒有這件作品的內容，只能確認它存在於官方得獎名單（廣播類銅獅，Best Scriptwriting，Leo Burnett Sydney 為 Bundaberg 做的 BUTTERFLY／PIG 兩支）。已打開：lovethework 兩張卡片頁（沒有內文）、Ads of the World 的 Red Bundy Pig Award（那是同品牌的平面作品，不是這兩支廣播，未採用）；adsspot 回 403。缺廣播台詞與音檔，沒有可用圖。建議本機取得音檔、逐字稿後補寫（needs_audio）。已搜爭議：搜「品牌 作品名 controversy／fake／fraud／withdrawn」，沒有查到造假、抄襲、撤獎或其他爭議報導。"
+  "note": "所有打得開的來源都沒有這件作品的內容，只能確認它存在於官方得獎名單（廣播類銅獅，Best Scriptwriting，Leo Burnett Sydney 為 Bundaberg 做的 BUTTERFLY／PIG 兩支）。已打開：lovethework 兩張卡片頁（沒有內文）、Ads of the World 的 Red Bundy Pig Award（那是同品牌的平面作品，不是這兩支廣播，未採用）；adsspot 回 403。缺廣播台詞與音檔，沒有可用圖。建議本機取得音檔、逐字稿後補寫（needs_audio）。已搜爭議：搜「品牌 作品名 controversy／fake／fraud／withdrawn」，沒有查到造假、抄襲、撤獎或其他爭議報導。 2026-11-25 Opus 驗：再搜：D&AD 存檔有 Butterfly 頁（https://www.dandad.org/work/d-ad-awards-archive/butterfly，未打開），搜尋摘要稱系列講蝴蝶、豬等味覺敏銳的動物喝不出 Bundaberg Red 的好，標語 A rum as smooth as life is rough，未寫入；本機打開 D&AD 頁即可改收。"
  },
  {
   "id": "ltwm-05651",
@@ -348,7 +350,7 @@
    "https://adsspot.me/media/tv-commercials/flying-horse-gatorrada-cat-toast-bf78e8a9c514",
    "https://adsspot.me/media/direct-marketing/camp-nectar-real-fruit-boxes-d142aa3a2f71"
   ],
-  "decision": "不收",
+  "decision": "收",
   "awards": [
    {
     "level": "Bronze",
@@ -359,17 +361,22 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "",
-  "brand_display": "",
-  "full_text": "",
-  "tags": "",
+  "idea_one_liner": "巴西能量飲料 Flying Horse 的廣告片，兩個瘋狂科學家把「貓與奶油吐司」的玩笑悖論當真，拿來發電讓整個社區亮燈",
+  "brand_display": "Flying Horse",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜影片類銅獅 Film Bronze Lion｜代理商：OGILVY BRASIL São Paulo\n\n【背景】Flying Horse 是巴西的能量飲料品牌（官方報名的廣告主是 GlobalBev）。這支影片由 Ogilvy 巴西製作，Ads of the World 登記片名為「Gatorrada / Cat-Toast」，2012 年 5 月在巴西推出；官方報名作品名寫成 CATOAST。\n\n【點子】網路上流傳一個玩笑式的物理悖論：吐司掉下去總是奶油面朝下，貓掉下去總是四腳著地。Adweek 的說法是，把這兩股力量朝相反方向結合，就能創造無限的能量（維基百科稱為「奶油貓悖論」，作法是把奶油面朝上的吐司綁在貓背上再讓牠落下）。廣告把這個笑話當真，拿來替主打「能量」的飲料說故事。\n\n【執行】依 Adweek 的報導，片中利用這個悖論產生的電力，足以讓整個社區的燈都亮著，也讓兩個瘋狂科學家的派對開得起來。官方案例板的畫面是一間昏暗的實驗室：穿白袍的男人站在桌後，左邊有一台烤吐司機，右側桌上有一團白色、像是貓的東西。影片逐格的劇情沒有找到可以打開的文字來源，所以不寫。製作名單上，執行創意總監是 Claudio Lima 與 Fred Saldanha，導演是 Tomat。\n\n資料來源：\nhttps://www.adweek.com/creativity/energy-drink-makes-most-buttered-cat-paradox-140523/\nhttps://www.adsoftheworld.com/campaigns/gatorrada-cat-toast\nhttps://en.wikipedia.org/wiki/Buttered_cat_paradox\nhttps://www.lovethework.com/en/work/entries/catoast-237852",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片類, Film, 銅獅, Bronze Lion, 無酒精飲料類, Non-Alcoholic Drinks, Flying Horse, GlobalBev, 能量飲料, Energy Drink, 飲料, Beverage, Ogilvy Brasil, 奧美巴西, Ogilvy, 電視廣告, TV Commercial, 影片, 幽默, Humor, 無厘頭, 悖論, Paradox, 奶油貓悖論, Buttered Cat Paradox, 網路迷因, Meme, 科學家, Scientist, 實驗室, Laboratory, 貓, Cat, 吐司, Toast, 烤吐司機, Toaster, 永動機, 電力, 巴西, Brazil",
   "category": "行銷案例",
-  "references": [],
-  "image_url": "",
-  "image_shows": "",
-  "text_source_level": 0,
+  "references": [
+   "https://www.adweek.com/creativity/energy-drink-makes-most-buttered-cat-paradox-140523/",
+   "https://www.adsoftheworld.com/campaigns/gatorrada-cat-toast",
+   "https://en.wikipedia.org/wiki/Buttered_cat_paradox",
+   "https://www.lovethework.com/en/work/entries/catoast-237852"
+  ],
+  "image_url": "https://cdn.filespin.io/api/v1/conversion/516f22fb725c4f5bb64fdaaf437a04f5",
+  "image_shows": "官方案例板的影片畫面：昏暗實驗室裡穿白袍的男人站在桌後，左側有烤吐司機，右側桌上有一團白色物體，右上角坎城獅標誌；畫面暗，點子要配合文字才看得懂",
+  "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "所有打得開的來源都沒有這件作品的內容，只能確認它存在於官方得獎名單（影片類銅獅，Flying Horse，官方作品名 CATOAST）。已打開：lovethework 卡片頁（沒有內文）、Ads of the World 頁（只有作品資訊與製作名單，沒有劇情）；adsspot 與 impactonnet 回 403。官方 case board 是一張很暗的影片畫面：穿白袍的男人站在實驗室桌後，桌上有烤吐司機，右側有一隻白貓，看不出完整點子，不能推測劇情。劇情只出現在搜尋摘要（科學家把吐司與貓綁在一起），依規則未寫入。建議本機用其他來源補寫後改回收。已搜爭議：搜「品牌 作品名 controversy／fake／fraud／withdrawn」，沒有查到造假、抄襲、撤獎或其他爭議報導。"
+  "note": "所有打得開的來源都沒有這件作品的內容，只能確認它存在於官方得獎名單（影片類銅獅，Flying Horse，官方作品名 CATOAST）。已打開：lovethework 卡片頁（沒有內文）、Ads of the World 頁（只有作品資訊與製作名單，沒有劇情）；adsspot 與 impactonnet 回 403。官方 case board 是一張很暗的影片畫面：穿白袍的男人站在實驗室桌後，桌上有烤吐司機，右側有一隻白貓，看不出完整點子，不能推測劇情。劇情只出現在搜尋摘要（科學家把吐司與貓綁在一起），依規則未寫入。建議本機用其他來源補寫後改回收。已搜爭議：搜「品牌 作品名 controversy／fake／fraud／withdrawn」，沒有查到造假、抄襲、撤獎或其他爭議報導。 2026-11-25 Opus 驗：由不收改收：找到 Adweek（AdFreak）報導與維基百科「Buttered cat paradox」條目，點子（貓＋奶油吐司悖論產生無限能量、讓社區亮燈、兩個瘋狂科學家開派對）有可打開的來源；逐格劇情仍缺，未寫。impactonnet 仍 403。Ads of the World 的縮圖是別支作品（電影院觀眾臉），未用；圖用官方案例板，偏暗。已搜爭議：搜「Flying Horse Gatorrada Cat-Toast Ogilvy controversy／plagiarism」，只見 impactonnet 說網路老笑話可能是靈感來源，不算爭議。"
  }
 ]

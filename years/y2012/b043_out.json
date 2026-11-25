@@ -42,7 +42,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Jordan Brand AJ2012 Choose Your Flight Blast Radius controversy／fake／withdrawn」，沒有針對本作的爭議（只有別款 Jordan 鞋的風波，未寫入）。官方 lovethework 頁沒有說明文字，內容依 Awwwards 案例文章；Awwwards 沒出現「Choose Your Flight」這個名字，但是同一支 AJ2012 網站。Behance、Commarts 打不開。搜尋摘要提到可以自訂鞋款、購買、分享，未打開來源，未寫入。圖：官方候選只有 148x111，沒有可用圖，Awwwards 頁抓不到 og:image，待本機補。官方獎項為 Cyber 類銅獅與行動類銅獅各一，in 檔 awards 照官方。"
+  "note": "已搜爭議：搜「Jordan Brand AJ2012 Choose Your Flight Blast Radius controversy／fake／withdrawn」，沒有針對本作的爭議（只有別款 Jordan 鞋的風波，未寫入）。官方 lovethework 頁沒有說明文字，內容依 Awwwards 案例文章；Awwwards 沒出現「Choose Your Flight」這個名字，但是同一支 AJ2012 網站。Behance、Commarts 打不開。搜尋摘要提到可以自訂鞋款、購買、分享，未打開來源，未寫入。圖：官方候選只有 148x111，沒有可用圖，Awwwards 頁抓不到 og:image，待本機補。官方獎項為 Cyber 類銅獅與行動類銅獅各一，in 檔 awards 照官方。 2026-11-25 Opus 驗：程式回報 Awwwards 連線被重置，重新打開可讀（Flight System、跨手機平板），保留。仍沒有圖。"
  },
  {
   "id": "ltwm-05656",
@@ -66,7 +66,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "泰國通便藥 Laxen 的平面廣告，黑色畫面中央一道白色窄縫，豬四腳撐著兩側卡在縫中",
+  "idea_one_liner": "泰國通便藥 Laxen 的平面廣告，一隻豬四腳撐住白色窄道兩側，卡在中間掉不下去，比喻便祕卡住的感覺",
   "brand_display": "Laxen",
   "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜Press類銅獅 Press Bronze Lion｜代理商：CREATIVE JUICE\\BANGKOK (TBWA)\n\n【背景】Laxen 是泰國 Panapat Healthcare 的刺激型通便藥（藥盒上印有 Stimulant Laxative）。官方報名的是 Chicken、Beef、Pork 三件系列作品。\n\n【點子】海報上，畫面左右是大片黑色，中間留一道垂直的白色窄縫，一隻豬側著身子，前蹄和後蹄分別抵在縫的兩側，整隻卡在縫的中間。畫面沒有標語，右下角只放 Laxen 藥盒。這個「卡住出不去」的畫面，指向便祕的感覺；由於找不到文字說明，這是依畫面做的解讀。\n\n【執行】這組平面廣告用豬、牛、雞三種動物各做一張，每張的版面看來是同一個「卡在窄縫」的構圖。本稿描述的是豬的這一張，牛與雞的版本沒有看到。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/chicken-233202\nhttps://portal-assets.imgix.net/archive/2012/stitched/6265f684c8f2653ba1202d92376d1a5c.jpg",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Press類, Press, 平面類, 銅獅, Bronze Lion, Laxen, Panapat Healthcare, CREATIVE JUICE, CREATIVE JUICE BANGKOK, TBWA, 藥品, 成藥, OTC, 通便藥, 軟便劑, Laxative, 便祕, Constipation, 平面廣告, 海報, 報紙雜誌廣告, 豬, Pig, 動物, 卡住, 視覺雙關, 黑白對比, 泰國, Thailand, 曼谷, Bangkok",
@@ -75,12 +75,13 @@
    "https://www.lovethework.com/en/work/entries/chicken-233202",
    "https://portal-assets.imgix.net/archive/2012/stitched/6265f684c8f2653ba1202d92376d1a5c.jpg"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://portal-assets.imgix.net/archive/2012/stitched/6265f684c8f2653ba1202d92376d1a5c.jpg",
+  "image_shows": "豬版海報（直式）：左右大片黑色，中間一道白色直窄道，一隻豬前腳與後腳撐住兩側、卡在中段，右下角是 Laxen 藥盒",
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": false,
-  "note": "依作品畫面解讀，無文字說明。已搜爭議：搜「Laxen Creative Juice Bangkok Cannes 2012 scam／fake／controversy」，沒有針對本作的爭議。官方 lovethework 頁只有作品名與獎項；adsspot 403；搜尋找不到 Laxen 的報導。官方 stitched 圖（1426x3000）體檢標為檔案極小疑似單色，打開看是黑底白縫中一隻豬加右下藥盒，其實畫面正確但很空，依規則沒填 image_url，圖檔放在 tmp_b043/chicken.jpg，供驗收員決定要不要用。圖上是豬，作品名卻是 CHICKEN，系列另有 BEEF、PORK，沒看到牛與雞版本，缺：作品的文字說明、其他兩張畫面。uncertain。"
+  "note": "依作品畫面解讀，無文字說明。已搜爭議：搜「Laxen Creative Juice Bangkok Cannes 2012 scam／fake／controversy」，沒有針對本作的爭議。官方 lovethework 頁只有作品名與獎項；adsspot 403；搜尋找不到 Laxen 的報導。官方 stitched 圖（1426x3000）體檢標為檔案極小疑似單色，打開看是黑底白縫中一隻豬加右下藥盒，其實畫面正確但很空，依規則沒填 image_url，圖檔放在 tmp_b043/chicken.jpg，供驗收員決定要不要用。圖上是豬，作品名卻是 CHICKEN，系列另有 BEEF、PORK，沒看到牛與雞版本，缺：作品的文字說明、其他兩張畫面。uncertain。 2026-11-25 Opus 驗：打開官方 stitched 圖（1426×3000）確認畫面正確、看得出「卡住」的點子，程式標「極小」只是因為大片純色，改填為 image_url（與 tmp_b043/chicken.jpg 相同）。一句話補上比喻，舊句存 r0。仍缺文字說明與牛、雞兩張，維持 uncertain。",
+  "idea_one_liner_r0": "泰國通便藥 Laxen 的平面廣告，黑色畫面中央一道白色窄縫，豬四腳撐著兩側卡在縫中"
  },
  {
   "id": "ltwm-05662",
@@ -106,7 +107,7 @@
   "awards_unverified": [],
   "idea_one_liner": "阿根廷男性雜誌 Maxim 號召男人 9 月 6 日一天不看色情片，說這樣能減緩全球暖化，還開「冷線」電話幫人降溫",
   "brand_display": "Maxim 雜誌",
-  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜媒體類銅獅 Media Bronze Lion｜代理商：DDB ARGENTINA Buenos Aires\n\n【背景】Maxim 是阿根廷的男性雜誌，品牌形象主打「熱」。DDB Argentina 替它設計了一場全國男性參與的行動。\n\n【點子】用一個荒謬的環保理由號召男人：宣稱研究指出男人看到刺激內容時體溫會升高 1.5 度，所以全國男人一起一天不看色情，就是在對抗全球暖化。\n\n【執行】活動日是 2011 年 9 月 6 日。網站 6del9sinporno.com.ar 提供像說明書一樣的「忍耐指南」，還有「熱度計」，顯示男人看色情對地球造成多少傷害。另外開設一條「冷線」（cold-line），讓快要忍不住的人打電話降溫。完成挑戰的人可以看一段直播：房間裡有兩位模特兒，連線的人越多，她們的舉動越挑逗。\n\n資料來源：\nhttps://www.merca20.com/?p=61027\nhttps://www.lovethework.com/en/work/entries/cold-line-219348",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜媒體類銅獅 Media Bronze Lion｜代理商：DDB ARGENTINA Buenos Aires\n\n【背景】Maxim 是男性情色雜誌，DDB Argentina 替它在阿根廷設計了一場號召全國男人參與的行動。\n\n【點子】用一個荒謬的環保理由號召男人：宣稱研究指出男人看到刺激內容時體溫會升高 1.5 度，所以全國男人一起一天不看色情，就是在對抗全球暖化。\n\n【執行】活動日是 2011 年 9 月 6 日。網站 6del9sinporno.com.ar 提供像說明書一樣的「忍耐指南」，還有「熱度計」，顯示男人看色情對地球造成多少傷害。另外開設一條「冷線」（cold-line），讓快要忍不住的人打電話降溫。完成挑戰的人可以看一段直播：房間裡有兩位模特兒，連線的人越多，她們的舉動越挑逗。\n\n資料來源：\nhttps://www.merca20.com/?p=61027\nhttps://www.lovethework.com/en/work/entries/cold-line-219348",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 媒體類, Media, 出版與媒體類, Publications & Media, 銅獅, Bronze Lion, Revista Maxim, Maxim, Maxim 雜誌, DDB ARGENTINA, DDB, 男性雜誌, 雜誌, 出版, 媒體, 全球暖化, 氣候變遷, 環保, 色情, 一天不看, 冷線, Cold Line, 電話, 熱線, 網站, 說明書, 熱度計, 直播, 幽默, 反差, 阿根廷, Argentina, 布宜諾斯艾利斯, Buenos Aires",
   "category": "行銷案例",
   "references": [
@@ -118,7 +119,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Maxim Argentina DDB Cold Line Cannes Lions controversy／fake／fraud／withdrawn」，沒有針對本作的爭議（出現的是 2025 年別間 DDB 體系代理商的撤獎，與本作無關）。內容只有 Merca2.0 一篇（西班牙文）；官方 lovethework 頁沒有說明文字，adsspot 403，merca20 另一篇與 La Nación 沒提到本作。作品名叫 Cold Line，Merca2.0 把整場「一天不看色情」行動放在這個獎項下。搜尋摘要另提到街頭傳單、YouTube 影片，未打開來源，未寫入。圖：官方候選只有 240x180，沒有可用圖，待本機補。題材涉及色情，依規則照收。來源單一。"
+  "note": "已搜爭議：搜「Maxim Argentina DDB Cold Line Cannes Lions controversy／fake／fraud／withdrawn」，沒有針對本作的爭議（出現的是 2025 年別間 DDB 體系代理商的撤獎，與本作無關）。內容只有 Merca2.0 一篇（西班牙文）；官方 lovethework 頁沒有說明文字，adsspot 403，merca20 另一篇與 La Nación 沒提到本作。作品名叫 Cold Line，Merca2.0 把整場「一天不看色情」行動放在這個獎項下。搜尋摘要另提到街頭傳單、YouTube 影片，未打開來源，未寫入。圖：官方候選只有 240x180，沒有可用圖，待本機補。題材涉及色情，依規則照收。來源單一。 2026-11-25 Opus 驗：事實抽查 Merca2.0：2011 年 9 月 6 日、體溫升 1.5 度、6del9sinporno.com.ar、cold-line、兩位模特兒直播都相符；「品牌形象主打熱」來源沒有，已刪；文章稱 Maxim 為情色雜誌、對象是「所有阿根廷男人」。"
  },
  {
   "id": "ltwm-05657",
@@ -157,7 +158,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "依作品畫面解讀，無文字說明。已搜爭議：搜「TUI Grey Beijing Cologne Cathedral is not Germany Cannes controversy／fake／scam／withdrawn」，沒有針對本作的爭議。官方 lovethework 卡片、Ads of the World 兩頁都沒有文字說明，Trend Hunter 403。stitched 圖只有德國這一張，Egypt、Australia、China 三張未看到，故只寫德國版畫面。搜尋摘要提到 Trend Hunter 標題講「景點只是世界奇觀的一角」，未打開來源，未寫入。作品名 CHINA，官方報名 CHINA／AUSTRALIA／EGYPT／GERMANY 四件。"
+  "note": "依作品畫面解讀，無文字說明。已搜爭議：搜「TUI Grey Beijing Cologne Cathedral is not Germany Cannes controversy／fake／scam／withdrawn」，沒有針對本作的爭議。官方 lovethework 卡片、Ads of the World 兩頁都沒有文字說明，Trend Hunter 403。stitched 圖只有德國這一張，Egypt、Australia、China 三張未看到，故只寫德國版畫面。搜尋摘要提到 Trend Hunter 標題講「景點只是世界奇觀的一角」，未打開來源，未寫入。作品名 CHINA，官方報名 CHINA／AUSTRALIA／EGYPT／GERMANY 四件。 2026-11-25 Opus 驗：打開圖確認：德國地圖冰山、科隆大教堂、標語與 TUI 吊牌都與讀稿一致。"
  },
  {
   "id": "ltwm-05658",
@@ -191,7 +192,7 @@
   "text_source_level": "",
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 作品頁（entries/choir-225186）只有作品名、類別（廣播類工藝、音樂與音效設計）、代理商與銅獅，沒有說明；in 檔 SoundCloud 連結打開是錯誤頁；bizcommunity 只列名。所有打開過的來源都沒有內容，依規則不收。音檔：https://soundcloud.com/ogilvycapetown/stimorol-taste-twist-choir（雲端沒有轉寫工具，需本機聽寫）。搜尋摘要（未寫入）提到這是南非第一款會變味道的口香糖、廣播用兩組合唱團對唱，本機補來源後可改收。圖：官方候選為預留 SVG，無可用圖。已搜爭議：本件沒有內容可寫，只搜過 Choir 作品名與撤獎關鍵字，未見爭議。"
+  "note": "官方 lovethework 作品頁（entries/choir-225186）只有作品名、類別（廣播類工藝、音樂與音效設計）、代理商與銅獅，沒有說明；in 檔 SoundCloud 連結打開是錯誤頁；bizcommunity 只列名。所有打開過的來源都沒有內容，依規則不收。音檔：https://soundcloud.com/ogilvycapetown/stimorol-taste-twist-choir（雲端沒有轉寫工具，需本機聽寫）。搜尋摘要（未寫入）提到這是南非第一款會變味道的口香糖、廣播用兩組合唱團對唱，本機補來源後可改收。圖：官方候選為預留 SVG，無可用圖。已搜爭議：本件沒有內容可寫，只搜過 Choir 作品名與撤獎關鍵字，未見爭議。 2026-11-25 Opus 驗：再搜：搜尋摘要稱 lovethework 說明為南非第一款變味口香糖、兩組合唱團（女高音與男中音）對唱、Orange 被 Mint 擠走，但 lovethework 頁面實際打開沒有內文，未寫入；音檔存在，依規則卡（有音檔→uncertain）建議改收待本機聽寫。"
  },
  {
   "id": "ltwm-05665",
@@ -271,7 +272,7 @@
   "text_source_level": "",
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 lovethework 作品頁沒有說明，adsspot 連結 403，bizcommunity 只列「Colony & Secret」得獎名，ididthat 與 TBWA 頁沒有這兩支。所有打開過的來源都沒有內容，依規則不收。官方報名是 COLONY 與 SECRET 兩支廣播（廣播類家用品與最佳腳本各一座銅獅）。音檔來源：https://adsspot.me/media/radio/doom-super-multi-insecticide-secret-a2b8ecf478fb（403，雲端打不開；沒有轉寫工具）。搜尋摘要（未寫入）只確認 Doom 是 Tiger Brands 的產品、其他 Doom 廣播多以蟲子為主角，沒有 Secret 的內容，本機補音檔逐字稿後可改收。圖：官方候選為預留 SVG，無可用圖。已搜爭議：搜「Doom Secret Colony TBWA Hunt Lascaris radio」，未見爭議。"
+  "note": "官方 lovethework 作品頁沒有說明，adsspot 連結 403，bizcommunity 只列「Colony & Secret」得獎名，ididthat 與 TBWA 頁沒有這兩支。所有打開過的來源都沒有內容，依規則不收。官方報名是 COLONY 與 SECRET 兩支廣播（廣播類家用品與最佳腳本各一座銅獅）。音檔來源：https://adsspot.me/media/radio/doom-super-multi-insecticide-secret-a2b8ecf478fb（403，雲端打不開；沒有轉寫工具）。搜尋摘要（未寫入）只確認 Doom 是 Tiger Brands 的產品、其他 Doom 廣播多以蟲子為主角，沒有 Secret 的內容，本機補音檔逐字稿後可改收。圖：官方候選為預留 SVG，無可用圖。已搜爭議：搜「Doom Secret Colony TBWA Hunt Lascaris radio」，未見爭議。 2026-11-25 Opus 驗：再搜 Doom Secret／Colony 仍無內文；建議本機取得音檔後改收。"
  },
  {
   "id": "ltwm-05667",
@@ -356,7 +357,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Jordan Brand Love the Game Wieden Kennedy 2012 Cannes film controversy／fake／withdrawn」，沒有針對本作的爭議（Adweek 那篇是評論人批評球員與資方，不是指作品有問題，不算爭議）。官方 lovethework 頁沒有說明文字，adsspot 的 YouTube 連結與 Behance 未打開；內容主要依 Adweek 一篇。Adweek 沒有標發片日期，「停賽」是它連到的背景，讀稿寫成 Adweek 的說法。官方案例板畫面是樓頂球場，無法確認就是片中哪個場景，故讀稿只描述畫面。來源較少。"
+  "note": "已搜爭議：搜「Jordan Brand Love the Game Wieden Kennedy 2012 Cannes film controversy／fake／withdrawn」，沒有針對本作的爭議（Adweek 那篇是評論人批評球員與資方，不是指作品有問題，不算爭議）。官方 lovethework 頁沒有說明文字，adsspot 的 YouTube 連結與 Behance 未打開；內容主要依 Adweek 一篇。Adweek 沒有標發片日期，「停賽」是它連到的背景，讀稿寫成 Adweek 的說法。官方案例板畫面是樓頂球場，無法確認就是片中哪個場景，故讀稿只描述畫面。來源較少。 2026-11-25 Opus 驗：事實抽查 Adweek：Wade、Paul、Anthony，對手是長者與正統派猶太人、北京野球，兩分鐘，標語 Love the game. No matter what.，相符。YouTube oembed 確認 in 檔影片標題 JORDAN - Love the Game。案例板只是樓頂球場遠景，圖偏弱。"
  },
  {
   "id": "ltwm-05660",
@@ -403,6 +404,6 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "依作品畫面解讀，無文字說明。已搜爭議：搜「Goodyear Y&R São Paulo spherical car If it's not Goodyear good luck controversy／fake／scam／withdrawn」，沒有針對本作的爭議（搜到的是別間巴西代理商的別支作品風波，未寫入）。Ads of the World 兩頁只有標題與製作名單；官方 lovethework 三張卡片未打開；Trend Hunter 403。官方 awards：戶外類銅獅報的是 BEAR，Press 類銅獅報 COAST／COUNTRYSIDE／CITY；本件讀稿寫 Press 這組，BEAR 另一件沒寫，in 檔 awards 照官方。stitched 圖只有海岸一張。"
+  "note": "依作品畫面解讀，無文字說明。已搜爭議：搜「Goodyear Y&R São Paulo spherical car If it's not Goodyear good luck controversy／fake／scam／withdrawn」，沒有針對本作的爭議（搜到的是別間巴西代理商的別支作品風波，未寫入）。Ads of the World 兩頁只有標題與製作名單；官方 lovethework 三張卡片未打開；Trend Hunter 403。官方 awards：戶外類銅獅報的是 BEAR，Press 類銅獅報 COAST／COUNTRYSIDE／CITY；本件讀稿寫 Press 這組，BEAR 另一件沒寫，in 檔 awards 照官方。stitched 圖只有海岸一張。 2026-11-25 Opus 驗：打開圖確認：球形紅白廂型車、海岸公路、黃標籤標語與讀稿一致。"
  }
 ]

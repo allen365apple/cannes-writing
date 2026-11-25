@@ -114,3 +114,13 @@
 - 仍 uncertain 8：b038 13758 TOURISM IRELAND（廣播，缺台詞，音檔 youtube 82Xzq693-Eo）、05589 BMW VISION CONNECTEDDRIVE（缺 Mutabor 作品說明）；b039 05602 MINERS（缺影片內容）、05597 180 CHANNEL（缺識別設計說明與圖）、05604 EXECUTED（缺劇情）；b040 05614 THE NURDLES（缺內容與圖；IPA 是英國案例，得獎的是 PHD New York）；b041 05629 Weetabix BIG DAY（缺影片內容）、05634 BOBBIE BISHOP（缺影片內容）。
 - 圖不理想：沒有圖 05586、05605、05597、05614、05628；看不出點子 05617（官方圖對不上）、05609、05604、05629、05634、05616、05593；偏小 05590（480×360）；05624 用 i0.wp.com 圖，程式檢查回 404、實測可抓，建議本機換存。待本機補。
 - 【爭議】0；撤獎 0；重複 0（05604 見上）。
+
+## 2026-11-26 雲端第 1 輪 b042–b044（Sonnet 寫、Opus 驗）
+- 不收待決 5：b042 ltwm-05652 CELEBRITY CEASEFIRE（瑞典郵政）、ltwm-05644 TUBE／BUS（倫敦警察廣播）、ltwm-05645 BUTTERFLY／PIG（Bundaberg 廣播）；b043 ltwm-05658 CHOIR、ltwm-05664 SECRET（Doom 廣播）。都是雲端找不到內容，不是撤獎。驗收員建議：05645 本機打開 D&AD 頁補寫可改收；05658、05664 有音檔，照規則卡應是「收＋uncertain」，等本機聽寫；05644 要先找到音檔。
+- 驗收員改收 1（請本機確認）：b042 ltwm-05651 CAT-TOAST（Flying Horse，找到 Adweek 與維基百科）。
+- 作品名參考：b043 05660 COAST 戶外獎報的是另一件 BEAR，本稿只寫 Press；b043 05657 TUI 只看到德國版；b044 05671 in 標題有 KITCHEN，官方只有 CUCKOO CLOCK、TROPHY；b044 05669 官方四件、D&AD 寫六張，讀稿不寫張數；b042 CAPTAIN'S CONQUEST 官方寫 CAPTAINS CONQUEST。
+- 來源單一請確認：b043 05662 COLD LINE（只有 Merca2.0）、05764 LOVE THE GAME（主要是 Adweek）；b044 05675 DANGER DOG POOP（主要靠校友部落格）。
+- 程式誤標參考：b044 05677 DESIGN FEVER 的「D&AD」是展覽主題，不是得獎，讀稿保留。
+- 仍 uncertain 7：b042 05647 CALL TO STOP（廣播缺音檔）、05641 BULLY CHOIR（缺歌詞）；b043 05656 Laxen CHICKEN（缺說明與另兩張）、05667 Leica GRAND CANYON（缺音檔）；b044 05671 麥當勞 CUCKOO CLOCK（缺那張）、05672 東芝 COUPLE（看畫面解讀）、05673 福斯 CROSS COUNTRY（缺劇情文字）。
+- 圖不理想：沒有圖 05647、05659、05662、05667、05670（另不收件 05652、05644、05645、05658、05664 沒圖）；偏弱 05651（太暗）、05654（網站截圖看不到車）、05764（遠景）、05673、05679（影片截圖，600×338）、05650（750×500）；05675 Vimeo 縮圖帶 region 參數可能失效。待本機補。
+- 【爭議】0；撤獎 0；重複 0。
