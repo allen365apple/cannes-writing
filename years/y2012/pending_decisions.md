@@ -86,3 +86,13 @@
 - 仍 uncertain 3：b028 05464 YOU ARE HERE（Carulla，缺文字說明與 EGG／TOAST 其他張畫面）；b029 05480 CURIOSISM（缺體驗式部分做法）、05482 MIS-MATSCH（缺網站玩法）。
 - 圖不理想：沒有圖 Swebus、Dove、5X Mutant Gum、Oil on Canvas（b028）、Snickers、Puma（b030）；偏弱 05470、05471、05480、05474、Tang（480×360）。待本機補。
 - 【爭議】0；撤獎 0；重複 0。
+
+## 2026-11-25 雲端第 2 輪 b031–b034（Sonnet 寫、Opus 驗）
+- 不收待決 4：b031 ltwm-05501 HOTEL FOR INTERNATIONAL TRAINEES、ltwm-05506 KITCHEN（Wall's）；b033 ltwm-05526 PLUMBERS WITHOUT BORDERS（Comfort／PRIME Stockholm）、ltwm-05522 NANY THE COW（La Constancia 廣播，需音檔）。都是可讀內容只在 LovetheWork 活動頁（JS）或擋爬網站，不是撤獎；本機用瀏覽器補到內容可改收。
+- 驗收員改收 2（請本機確認）：b031 ltwm-05498 NIGHT EYES（roverparts、Trend Hunter，看過獅子那張圖）、ltwm-05783 RIVER, ORANG, MOUNTAIN（Ads of the World 三張作品圖＋Trend Hunter）。
+- 作品名參考：b031 05500 官方作品名 SPORTY GIRL、BRAINY GIRL 兩支，in 標題只有 BRAINY GIRL；b033 05518 Tele2 官方五件，讀稿寫 ANDERSSON FAMILY；b032 05511 Sooruz 只寫已確認的 5/4/3mm。
+- 代理商／品牌參考：b033 05515 Strepsils 照官方 EURO RSCG España（in 檔寫 HAVAS）；b034 05528 照官方 product 欄寫 Protex。
+- 爭議參考（只記 note）：b031 05500 Lynx 同系列互動廣告 ASA 投訴 17 件、裁定不成立。不算【爭議】。
+- 仍 uncertain 10：b031 05500 BRAINY GIRL（缺兩支劇情）；b032 05562 FUELING BUZZ（缺 Gatorade 實際做法）、05512 Campbell's 廣播（缺音檔）；b033 05515 Strepsils、05518 Tele2、05519 Theater Rigiblick、05524 Pattex（缺文字說明）；b034 05530 ONLY A DOG（音檔 youtube mo5kJfWs6dI）、05528 INTERSECTING LIVES II（音檔 youtube C3fSWRZA-VE）、05911 YES NO（缺劇情）。
+- 圖不理想：沒有圖 05592、05533、05536、05530、05528、05512、05520；偏弱 05500、05911、05499、05519（480×360）、05527（480×360）。待本機補。
+- 【爭議】0；撤獎 0；重複 0。
