@@ -1,9 +1,9 @@
-*坎城雲端寫稿｜2012 第 5 輪（11/25 02:37）*
-• 這輪寫完並驗收：2012 b024–b030，共 7 批 70 件（收 65、不收 5）
-• 這輪寫到的作品（舉 5 件）：Harvey Nichols〈Walk of Shame〉、Hot Wheels〈Hot Wheels for Real〉、Snickers〈You're Not You When You're Hungry〉、Contrex〈Contrexperience〉、Toys R Us〈Concert of Toys〉
-• 2012 進度：已完成 30／60 批，剩 30 批
-• 待決新增：17 件（不收待確認 5：都是找不到作品內容，不是撤獎；驗收員改收待確認 1：Smart〈MUPI〉；獎項掛哪筆 1；只有單一來源 2；uncertain 8，其中 1 件廣播要本機聽音檔；爭議 0、重複 0）
+*坎城雲端寫稿｜2012 第 6 輪（11/25 14:42）*
+• 這輪寫完並驗收：2012 b031–b037，共 7 批 70 件（收 66、不收 4）
+• 這輪寫到的作品（舉 5 件）：江崎固力果〈The Secret Idol〉、Heineken〈The Legendary Making of the Date〉、Clearblue〈Stork〉、漢堡清潔局〈Trashcam Hamburg〉、Land Rover〈Night Eyes〉
+• 2012 進度：已完成 37／60 批，剩 23 批
+• 待決新增：約 30 件（不收待確認 4：都是找不到作品內容，不是撤獎；驗收員改收待確認 4；Clearblue〈Stork〉沒有任何內容，要不要改不收 1；uncertain 18，其中 5 件廣播要本機聽音檔；爭議 0、重複 0、撤獎 0）
 • 問題：
-  • 多個參考網站擋爬蟲或連不上（Behance、Vimeo、YouTube、AdForum、The Drum、LBB 等），約 8 件沒圖、十多件圖偏弱，待本機補
-  • 一位寫手指令裡誤打刪檔指令，被系統擋下、沒執行、沒刪任何檔；兩位寫手看過 git 狀態（只看沒改）；程式檢查沒掃到違規
+  • 多個參考網站擋爬蟲或連不上（Behance、Trend Hunter、AdForum、The Drum、LBB、Vimeo 等），約 16 件沒圖、數件圖偏小，待本機補
+  • 一位寫手沒逐句重讀讀稿，驗收員已逐件讀過並修 9 件；一位驗收員看過一次 git 改動清單（只看沒改）；程式檢查沒掃到違規
 • 預計：照一天 14 批，2012 剩下約 2 天寫完（11/27 左右），接著：等本機做前置
