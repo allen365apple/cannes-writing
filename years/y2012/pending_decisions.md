@@ -135,3 +135,16 @@
 - 仍 uncertain 11：b045 05687 FARTS（廣播缺音檔，adsspot 有音檔待轉寫）、05684 EMPTY CARTS（缺執行細節與日期）；b046 05692（缺信件文案）、05698 GETTY（另兩張找不到）、05704 HOPE FROM GROUND ZERO（官方報名範圍不確定）；b047 05711 DIVERSITY（La Tercera 廣播缺音檔）；b048 05722 Hammer、05727 Hate（缺劇情文字）、05726 Illiad、05721 Bacteria（廣播缺音檔）、05732 I Will Work for Free（只有搜尋摘要）。
 - 圖不理想：沒有圖 05687、05688、05700、05696、05704、05692、05707、05711、05726、05721；偏弱 05684（只拍到輪子）、05689 FASTEST CHRISTMAS CARD（560×373）、05682 ECOSPHERE（看不到推文和樹）、05697 Wrangler、05693、05722、05730（480×360）、05731、05732（240×180 放大偏糊）。待本機補。
 - 【爭議】0；撤獎 0；重複 0。
+
+## 2026-11-26 雲端第 2 輪 b049–b051（Sonnet 寫、Opus 驗）
+- 驗收員把不收改為收 1（請本機確認）：b051 ltwm-05768 GAME SIGNATURES（AFL，George Patterson Y&R Melbourne）。寫手只查到 Promo & Activation 入圍，驗收員查到 Sostav 轉載的 2012 Outdoor 銅獅名單（MARC、SCOTT、JIMMY 三件）。in 檔沒有 official 欄位，awards 與【得獎】行是驗收員依 Sostav 自建、細項類別留空；品牌欄 out 檔已從 NFL 改 AFL。建議本機補官方預填並核對。
+- 不收待決 1：b050 ltwm-05759 ABS（Planet Fitness）。in 檔沒有官方獎項資料，驗收員查 2012 各類得獎與 Film 入圍名單都沒有這件（那年只有 Locker Room 得獎）。建議本機確認是否清單誤列。
+- 品牌欄改動（請確認）：b051 05763 LOVE PARKING 從 HOMEPLUS 改為官方客戶 GOOD NEIGHBORS（只改 out 檔）。
+- 驗收員從 uncertain 補成可收 2：b050 05755 LITERARY POP UPS（Isaac Salazar 摺書頁成立體字）、b051 05775 MEMORIES（導演 Mark Molloy 訪談）。
+- 作品範圍參考：b049 05743 Marvin 官方 JOHN LENNON＋QUEEN 同一座獎兩支，全年 in 檔沒有另一筆 QUEEN，不是重複；b049 05740 JACQUES（另有 DOROTHY、WANGARI）、05747 LG（另有 KILL、PRETTY）只看到一張；b050 05757 官方兩件只寫《國王的新衣》。
+- 待確認參考：b050 05751 孩子年齡案例板 5 歲、InformaBTL 6 歲，讀稿寫「五、六歲」；b051 05765 Lynx 創意歸屬 BBH／Mindshare 說法不一，讀稿只寫官方 Mindshare London；b051 05782 Motorola 以官方 Bronze 為準。
+- 來源單一請確認：b049 05739 NS 皇家候車室（iCulture＋得獎名單）；b050 05760 Look Block（L'ADN）、05756 Little Marina（Adweek）。
+- 程式誤標參考：b049 05735 karn.myportfolio.com 只拒絕 HEAD 請求，實際讀得到。
+- 仍 uncertain 7：b049 05743 JOHN LENNON、05741 JAZZ（廣播待轉寫）、05738 IS THE NEW（缺影片內容）；b050 05752 Pikachu Kabuto（缺配發細節）、05758 Locker Room（缺劇情）；b051 05776 Britt（缺網站運作方式）、05762 Lorem Ipsum（廣播，YouTube 7j2RwAr0iig 待轉寫）。
+- 圖不理想：沒有圖 05743、05741、05739、05750 Lay's Machine、05760、05752、05756、05776、05762（另不收件 05759）；偏弱 05738（影片一格）、05781 Fan Cave（看不出點子）。待本機補。
+- 【爭議】0；撤獎 0；重複 0。
