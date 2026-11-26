@@ -9,7 +9,6 @@
 - 沒有圖
 
 ## b050 ltwm-05752 LET’S MAKE PIKACHU KABUTO
-- 一句話連續中文 22 字
 - uncertain：；官方 case board 太小（480×360）不採用，沒有可用圖。官方作品名為 LET'S MAKE PIKACHU KABUTO，與 in 檔標題一致。
 - 沒有圖
 
