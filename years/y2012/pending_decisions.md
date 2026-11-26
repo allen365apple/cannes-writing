@@ -124,3 +124,14 @@
 - 仍 uncertain 7：b042 05647 CALL TO STOP（廣播缺音檔）、05641 BULLY CHOIR（缺歌詞）；b043 05656 Laxen CHICKEN（缺說明與另兩張）、05667 Leica GRAND CANYON（缺音檔）；b044 05671 麥當勞 CUCKOO CLOCK（缺那張）、05672 東芝 COUPLE（看畫面解讀）、05673 福斯 CROSS COUNTRY（缺劇情文字）。
 - 圖不理想：沒有圖 05647、05659、05662、05667、05670（另不收件 05652、05644、05645、05658、05664 沒圖）；偏弱 05651（太暗）、05654（網站截圖看不到車）、05764（遠景）、05673、05679（影片截圖，600×338）、05650（750×500）；05675 Vimeo 縮圖帶 region 參數可能失效。待本機補。
 - 【爭議】0；撤獎 0；重複 0。
+
+## 2026-11-26 雲端第 2 輪 b045–b048（Sonnet 寫、Opus 驗）
+- 不收待決 3：b046 ltwm-05702 WORDS BEAT CENSORSHIP（Radikal 四則戶外）；b047 ltwm-05710 DICE OUTDOOR CAMPAIGN、ltwm-05708 FUNKY DUDDIES CHAIRMAN。都是雲端找不到作品內容（官方只有標題與小縮圖），不是撤獎；驗收員補搜一次仍找不到。建議本機有資料再改收。
+- 驗收員從 uncertain 補成可收 1（請本機確認）：b048 ltwm-05719 Hair for Hope（補到 concinnity-concepts.com，換圖、重寫）。
+- 作品名／範圍參考：b047 05712 官方名 DO YOU FIT?，in 檔標題與連結（TRANSPORT, FRIGATE, SUBMARINE）是另一組海報，稿照官方名寫；b047 05713 DOG 官方四張（DOG／OUTSIDE／HELP／JOB）只看到 DOG；b046 05698 GETTY 只看到 SHARK（另有 RALLY、BEAR）；b048 05721 官方登 Halitosis＋Bacteria、05726 戶外＋廣播，驗收員認為都已併在同一筆，不必另補。
+- 待確認參考：b047 05709 LIVE YOUNG 得獎是 MPG New York 媒體類，部落格寫的是 BETC 整體活動，分工無來源；b046 05700 GIRO 得獎代理商 AM（媒體）、Horizont 說創意是 Jung von Matt/Spree，兩者並寫；b046 05703 GOOD DESIGN 年份 2012／2013 不一，讀稿不寫年份。
+- 爭議參考（只記 note）：b048 05731 ISPCC 被愛爾蘭廣告監管單位要求下架（禁播，不算【爭議】）。
+- 來源單一請確認：b045 05688 FASHION FOR LESS（只有 Cream）；b046 05692 FORGOT YOUR PASSWORD?（只有 OC Weekly）。
+- 仍 uncertain 11：b045 05687 FARTS（廣播缺音檔，adsspot 有音檔待轉寫）、05684 EMPTY CARTS（缺執行細節與日期）；b046 05692（缺信件文案）、05698 GETTY（另兩張找不到）、05704 HOPE FROM GROUND ZERO（官方報名範圍不確定）；b047 05711 DIVERSITY（La Tercera 廣播缺音檔）；b048 05722 Hammer、05727 Hate（缺劇情文字）、05726 Illiad、05721 Bacteria（廣播缺音檔）、05732 I Will Work for Free（只有搜尋摘要）。
+- 圖不理想：沒有圖 05687、05688、05700、05696、05704、05692、05707、05711、05726、05721；偏弱 05684（只拍到輪子）、05690 FASTEST CHRISTMAS CARD（560×373）、ECOSPHERE（看不到推文和樹）、05697 Wrangler、05693、05722、05730（480×360）、05731、05732（240×180 放大偏糊）。待本機補。
+- 【爭議】0；撤獎 0；重複 0。
