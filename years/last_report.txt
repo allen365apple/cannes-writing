@@ -1,9 +1,9 @@
-*坎城雲端寫稿｜2012 第 8 輪（11/26 14:42）*
-• 這輪寫完並驗收：2012 b045–b051，共 7 批 70 件（收 66、不收 4）
-• 這輪寫到的作品（舉 5 件）：Oral-B〈International Airport Mouth〉、VW Jetta〈Memories〉、AFL〈Game Signatures〉、Pokémon〈Let's Make Pikachu Kabuto〉、Lynx〈Lynx Angel Ambush〉
-• 2012 進度：已完成 51／60 批，剩 9 批
-• 待決新增：約 30 件（不收待確認 4：3 件找不到作品內容、1 件 ABS 查無得獎紀錄；驗收員改收待確認 1：Game Signatures 查到戶外類銅獅，要補官方資料；品牌欄改動待確認 1；uncertain 18，其中 7 件廣播要本機聽音檔；爭議 0、重複 0、撤獎 0）
+*坎城雲端寫稿｜2012 第 9 輪（11/27 02:36）*
+• 這輪寫完並驗收：2012 b052–b058，共 7 批 70 件（收 65、不收 5）
+• 這輪寫到的作品（舉 5 件）：MTV〈Under the Thumb〉、Sony Pictures〈The Smurf Village〉、Slavery Footprint〈Slavery Footprint〉、Telia〈No News Is Big News〉、TEDxSummit〈The Power of X〉
+• 2012 進度：已完成 58／60 批，剩 2 批
+• 待決新增：約 27 件（不收待確認 5，其中 3 件驗收員找到來源、建議改收：PNC Virtual Wallet、SHEIKH、Olay T 恤；爭議 1：Paper Flag；uncertain 13，其中 1 件廣播待聽音檔；重複 0、撤獎 0）
 • 問題：
-  • 多個參考網站擋爬蟲或連不上（adsspot、Behance、LBB、Shots、Vimeo 等），約 19 件沒圖、十多件圖偏弱，待本機補
-  • 一位驗收員自報中途跑了一次只讀不改的 git 查看指令（說明要它不要碰 git），沒改到任何東西；程式檢查沒掃到違規
-• 預計：照一天 14 批，2012 剩下約 1 天寫完（11/27 左右），接著寫 2011（輸入檔已備好）
+  • 多個參考網站擋爬蟲或連不上（adsspot、Behance、AdForum、WARC、YouTube、Vimeo 等），收的件有 4 件沒圖、十多件圖偏弱，待本機補
+  • 兩位寫手各誤打一次 git 查看指令，被系統擋下沒執行；程式檢查沒掃到違規
+• 預計：照一天 14 批，2012 下一輪就寫完（11/27 下午），接著寫 2011（52 批，約 4 天，12/01 左右）
