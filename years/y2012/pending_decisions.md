@@ -148,3 +148,14 @@
 - 仍 uncertain 7：b049 05743 JOHN LENNON、05741 JAZZ（廣播待轉寫）、05738 IS THE NEW（缺影片內容）；b050 05752 Pikachu Kabuto（缺配發細節）、05758 Locker Room（缺劇情）；b051 05776 Britt（缺網站運作方式）、05762 Lorem Ipsum（廣播，YouTube 7j2RwAr0iig 待轉寫）。
 - 圖不理想：沒有圖 05743、05741、05739、05750 Lay's Machine、05760、05752、05756、05776、05762（另不收件 05759）；偏弱 05738（影片一格）、05781 Fan Cave（看不出點子）。待本機補。
 - 【爭議】0；撤獎 0；重複 0。
+
+## 2026-11-27 雲端第 1 輪 b052–b055（Sonnet 寫、Opus 驗）
+- 不收待決 2（驗收員建議改收，decision 沒動，請本機決定）：b054 ltwm-05819 REAL LIFE WITH VIRTUAL WALLET（PNC，Sostav 有官方圖：iPad 上的桌遊式遊戲；建議改收並標 uncertain）；b055 ltwm-05831 SHEIKH（Asefa Estudiantes，Sostav 官方案例板完整：放假消息說酋長要買下球隊、再公開真相號召入會；改收的話建議再搜一次爭議）。兩件都不是撤獎。
+- 【爭議】1：b052 ltwm-05798 PAPER FLAG（Colombo Telegraph 專欄指控送審影片裡拿旗子的人是被安排的，沒有查證、沒撤獎，照收、讀稿有【爭議】段）。
+- 不算爭議（參考）：b055 05836 Slavery Footprint 有人批評計算方式高估，屬一般評論；b052 05796 Agassi 只有讀者留言批評。
+- 重複判斷：b053 05808 PLAY RAMIREZ 官方 Miguel／Ramirez／Fabricio 三支列在同一座獎下，不是重複。
+- 子類別不一致：b052 05791 NO NEWS IS BIG NEWS（Telia）in 檔 Corporate Communication、官方卡片 Sectors & Services；另有同名 PR Technique 條目（211742）入圍。【得獎】行不受影響，請本機確認。
+- 驗收員補強：從 Sostav.ru 2012 得獎頁找到官方案例板，9 件拿掉 uncertain；b052 Baking Paper 原稿「包麵包」改「包生麵團」；b053 Pin Ball 刪掉無來源的「獲贈這輛車」。
+- 仍 uncertain 9：b053 05809 POINT AND FLY、05810 POLE OF INACCESSIBILITY、05805 PLAN B BALLANTINE（三件只寫看得到的內容，缺做法說明）、05811 POTATO PEELERS（缺劇情）；b054 05817 PUNISHMENT（廣播，YouTube ApRaZS9x5sM 已確認是本件，待轉逐字稿）、05819（不收件）；b055 05827 SAVE AN ORCHESTRA（缺歌名藝人）、05834 SIR SNEAKY（無來源直接寫到此名）、05840 SMS IS KING（缺流程）。
+- 其他參考：b052 05795 Open Book Project 活動 2011 年 3–4 月；b052 05796 官方 Open Up with Andre Agassi，寫系列整體；b053 05811 代理商 The Sweet Shop（製作）vs Clemenger BBDO；b054 05824 品牌身分借自同品牌另一作品頁；in 檔 b055 05826 標題 IHAZA 應為 LHAZA。
+- 圖不理想：沒有圖 05817、05827（另不收件 05819、05831）；多件新圖只有 480×360，官方 240×180 案例板太小沒用。待本機補。

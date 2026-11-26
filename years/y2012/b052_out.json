@@ -23,20 +23,21 @@
   "awards_unverified": [],
   "idea_one_liner": "MTV 把最新節目做成手機 App「Under the Thumb」，青少年隨時能看，還能和朋友同步看同一集、即時聊天",
   "brand_display": "MTV（Viacom International Media Networks）",
-  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜行動類銅獅 Mobile Bronze Lion｜代理商：AKQA London\n\n【背景】MTV 想在年輕人花最多時間的手機上接觸他們。D&AD 頁面寫到，數位時代的青少年不再願意照廣播電視的時間表過日子，想自己掌控看什麼、什麼時候看。MTV 先前有好幾個各自獨立的行動 App，這次整併成一個平台。\n\n【點子】把電視重新做成「給手機世代」的樣子：節目不用等播出時間，青少年隨時打開就能看最新集數，看了可以分享，還能和朋友在各自的裝置上同時看同一集（MTV 稱為 co-viewing）。\n\n【執行】Viacom 與 AKQA 在 Viacom 位於柏林的歐洲總部開發，2012 年 2 月推出，有 Android 與 iOS 版。App 內建 MTV 官網的娛樂新聞，與 Facebook 串接，但自己有一套即時聊天功能，方便邊看邊聊。D&AD 的說明另提到，App 也能當遙控器，用來操作電腦螢幕上的觀看。收費分兩級：免費的 Tiny Thumb 有名人新聞、MTV 精華與少量集數；Super Thumb 每月 2.99 歐元，解鎖更多節目與整季內容。推出時先在歐洲上線，免費、靠廣告支撐。\n\n資料來源：\nhttps://www.dandad.org/awards/professional/2013/digital-design/19625/mtv-under-the-thumb/\nhttps://techcrunch.com/?p=509836\nhttps://mobiforge.com/news-comment/the-cannes-mobile-lions-winners-2012-award-winning-mobile-campaigns-with-case-studies-and-videos",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜行動類銅獅 Mobile Bronze Lion｜代理商：AKQA London\n\n【背景】MTV 想在年輕人花最多時間的手機上接觸他們。D&AD 頁面寫到，數位時代的青少年不再願意照廣播電視的時間表過日子，想自己掌控看什麼、什麼時候看。MTV 先前有好幾個各自獨立的行動 App，這次整併成一個平台。\n\n【點子】把電視重新做成「給手機世代」的樣子：節目不用等播出時間，青少年隨時打開就能看最新集數，看了可以分享，還能和朋友在各自的裝置上同時看同一集（MTV 稱為 co-viewing）。\n\n【執行】Viacom 與 AKQA 在 Viacom 位於柏林的歐洲總部開發，2012 年 2 月推出，有 Android 與 iOS 版。App 內建 MTV 官網的娛樂新聞，與 Facebook 串接，但自己有一套即時聊天功能，方便邊看邊聊。D&AD 的說明另提到，App 也能當遙控器，用來操作電腦螢幕上的觀看。收費分兩級：免費的 Tiny Thumb 有名人新聞、MTV 精華與少量集數；Super Thumb 每月 2.99 歐元，解鎖更多節目與整季內容。推出時先在歐洲上線，免費、靠廣告支撐。\n\n資料來源：\nhttps://www.dandad.org/awards/professional/2013/digital-design/19625/mtv-under-the-thumb/\nhttps://techcrunch.com/?p=509836\nhttps://mobiforge.com/news-comment/the-cannes-mobile-lions-winners-2012-award-winning-mobile-campaigns-with-case-studies-and-videos\nhttps://www.sostav.ru/columns/canneslions2009/2012/winners_mobile/",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 行動類, Mobile, 銅獅, Bronze Lion, MTV, Viacom, Viacom International Media Networks, AKQA, AKQA London, 電視, 媒體娛樂, 手機 App, 行動應用, Mobile App, 社交電視, Social TV, 同步觀看, Co-viewing, 聊天, 串流, 隨選視訊, 遙控器, 青少年, 英國, United Kingdom, iOS, Android, Facebook",
   "category": "行銷案例",
   "references": [
    "https://www.dandad.org/awards/professional/2013/digital-design/19625/mtv-under-the-thumb/",
    "https://techcrunch.com/?p=509836",
-   "https://mobiforge.com/news-comment/the-cannes-mobile-lions-winners-2012-award-winning-mobile-campaigns-with-case-studies-and-videos"
+   "https://mobiforge.com/news-comment/the-cannes-mobile-lions-winners-2012-award-winning-mobile-campaigns-with-case-studies-and-videos",
+   "https://www.sostav.ru/columns/canneslions2009/2012/winners_mobile/"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://www.sostav.ru/cannes2012/mobile/3/pics/13706.jpg",
+  "image_shows": "官方展示圖（Sostav.ru 得獎頁，480×360）：桃紅底上標題「Immersive Dual Screen Control」，一隻手拿著顯示 Under the Thumb 遙控介面的手機，旁邊電腦螢幕播著節目",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「MTV Under the Thumb app controversy OR fake OR withdrawn」，沒找到相關爭議。官方 lovethework 卡片（有開）只有標題、獎項，沒有全文；內容依 D&AD 作品頁、TechCrunch、mobiforge 得獎名單整理。官方給的 case board 只有 240×180，不可用，找不到其他好圖，image_url 留空。D&AD 頁面沒寫得獎等級，與坎城無關，只當描述來源。"
+  "note": "已搜爭議：搜「MTV Under the Thumb app controversy OR fake OR withdrawn」，沒找到相關爭議。官方 lovethework 卡片（有開）只有標題、獎項，沒有全文；內容依 D&AD 作品頁、TechCrunch、mobiforge 得獎名單整理。官方給的 case board 只有 240×180，不可用，找不到其他好圖，image_url 留空。D&AD 頁面沒寫得獎等級，與坎城無關，只當描述來源。 2026-11-26 Opus 驗：在 Sostav.ru 的 2012 坎城行動類得獎頁找到官方展示圖，補上圖（尺寸 480×360 偏小，本機可再找大圖）；內容已有 D&AD、TechCrunch 兩個來源，拿掉 uncertain。"
  },
  {
   "id": "ltwm-05796",
@@ -75,7 +76,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Jacob's Creek Open Up with Andre Agassi controversy OR fake OR withdrawn」，只有一則 Mumbrella 讀者留言批評用 Agassi 人生故事賣酒，不算爭議，未寫入讀稿。官方報名名稱為「OPEN UP WITH ANDRE AGASSI」，in 檔連結的 Vimeo 影片是系列第一支「Open Heart」，讀稿寫系列整體。官方 case board 只有 240×180 不可用，改用 Vimeo 預覽圖。Mumbrella 說明為 Open Film Series 系列，未提個別集數內容，故未描述影片內容。 官方頁沒有全文。"
+  "note": "已搜爭議：搜「Jacob's Creek Open Up with Andre Agassi controversy OR fake OR withdrawn」，只有一則 Mumbrella 讀者留言批評用 Agassi 人生故事賣酒，不算爭議，未寫入讀稿。官方報名名稱為「OPEN UP WITH ANDRE AGASSI」，in 檔連結的 Vimeo 影片是系列第一支「Open Heart」，讀稿寫系列整體。官方 case board 只有 240×180 不可用，改用 Vimeo 預覽圖。Mumbrella 說明為 Open Film Series 系列，未提個別集數內容，故未描述影片內容。 官方頁沒有全文。 2026-11-26 Opus 驗：看過圖：Agassi 半臉特寫，是這件系列的影片畫面，保留。"
  },
  {
   "id": "ltwm-05795",
@@ -101,19 +102,20 @@
   "awards_unverified": [],
   "idea_one_liner": "澳洲青少年公益組織 Reach 請名人公開自己的青少年日記，吸引大眾上網分享，讓青少年知道自己不孤單",
   "brand_display": "The Reach Foundation",
-  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜公關類銅獅 PR Bronze Lion｜代理商：DDB GROUP MELBOURNE\n\n【背景】Reach 是澳洲的公益組織，在超過 500 所學校辦工作坊，每年接觸 5 萬 7 千多名年輕人。但知名度不高，需要一個低成本的活動被看見，也要讓年輕人覺得可以信任 Reach、把煩惱和抱負說給他們聽。\n\n【點子】做一個線上園地，讓人寫下並分享自己成長過程的日記，目標是讓看的人明白自己並不孤單。\n\n【執行】2011 年 3 到 4 月，DDB Melbourne 向電視廣播名人、政治人物、演員、運動員、音樂人、喜劇演員等知名人士徵稿，請他們把自己青少年時期的私密日記寫進 openbookproject.com.au。名人的故事在媒體上流傳後，引來更多訪客，也鼓勵一般人透過網站和活動的 Facebook 專頁投稿自己的青少年日記。活動只進行一個月。\n\n資料來源：\nhttps://www.directnewideas.com/magazine/ddb_melbourne_open_book_project/?id=130\nhttps://www.lovethework.com/en/work/entries/open-book-project-211945",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜公關類銅獅 PR Bronze Lion｜代理商：DDB GROUP MELBOURNE\n\n【背景】Reach 是澳洲的公益組織，在超過 500 所學校辦工作坊，每年接觸 5 萬 7 千多名年輕人。但知名度不高，需要一個低成本的活動被看見，也要讓年輕人覺得可以信任 Reach、把煩惱和抱負說給他們聽。\n\n【點子】做一個線上園地，讓人寫下並分享自己成長過程的日記，目標是讓看的人明白自己並不孤單。\n\n【執行】2011 年 3 到 4 月，DDB Melbourne 向電視廣播名人、政治人物、演員、運動員、音樂人、喜劇演員等知名人士徵稿，請他們把自己青少年時期的私密日記寫進 openbookproject.com.au。名人的故事在媒體上流傳後，引來更多訪客，也鼓勵一般人透過網站和活動的 Facebook 專頁投稿自己的青少年日記。活動只進行一個月。\n\n資料來源：\nhttps://www.directnewideas.com/magazine/ddb_melbourne_open_book_project/?id=130\nhttps://www.lovethework.com/en/work/entries/open-book-project-211945\nhttps://www.sostav.ru/columns/canneslions2009/2012/winners_pr/",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 公關類, PR, 銅獅, Bronze Lion, 名人代言, Celebrity Endorsement, The Reach Foundation, Reach Foundation, 公益, 非營利, 青少年, 日記, Diary, 名人, 網站, 線上園地, 使用者投稿, Facebook, 澳洲, Australia, DDB Group Melbourne, DDB, 心理健康, 成長",
   "category": "行銷案例",
   "references": [
    "https://www.directnewideas.com/magazine/ddb_melbourne_open_book_project/?id=130",
-   "https://www.lovethework.com/en/work/entries/open-book-project-211945"
+   "https://www.lovethework.com/en/work/entries/open-book-project-211945",
+   "https://www.sostav.ru/columns/canneslions2009/2012/winners_pr/"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://www.sostav.ru/cannes2012/pr/3/pics/14640.jpg",
+  "image_shows": "官方案例板（Sostav.ru，480×360）：標題「How opening the diaries of famous Australians showed teenagers they're not alone」，中間是攤開的手寫日記頁，周圍是網站、社群、海報、廣播等執行畫面",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Reach Foundation Open Book Project controversy OR fake OR plagiarism」，沒找到與本作有關的爭議（結果都是無關的 Open Book 專案）。官方 lovethework 卡片只有標題與獎項。Direct News 說活動在 2011 年 3～4 月進行，是否與 2012 年坎城報名同一版本無法由來源確認。官方 case board 只有 240×180 不可用，找不到其他好圖，image_url 留空。成效數字未寫入。"
+  "note": "已搜爭議：搜「Reach Foundation Open Book Project controversy OR fake OR plagiarism」，沒找到與本作有關的爭議（結果都是無關的 Open Book 專案）。官方 lovethework 卡片只有標題與獎項。Direct News 說活動在 2011 年 3～4 月進行，是否與 2012 年坎城報名同一版本無法由來源確認。官方 case board 只有 240×180 不可用，找不到其他好圖，image_url 留空。成效數字未寫入。 2026-11-26 Opus 驗：在 Sostav.ru 的 2012 坎城公關類得獎頁找到官方案例板，補上圖（480×360 偏小）。"
  },
  {
   "id": "ltwm-05846",
@@ -137,21 +139,23 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "瑞典電信 Telia 做了網站與手機服務，讓人替瑞典地圖上的某個地點，配上一首自己挑的歌",
+  "idea_one_liner": "瑞典電信 Telia 做了網站和 App，讓人替真實地點配歌，例如替國會配〈A Little Less Conversation〉",
   "brand_display": "Telia",
-  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜媒體類銅獅 Media Bronze Lion｜代理商：DDB STOCKHOLM\n\n【點子】Telia 推出名為 musiksattsverige.se 的服務，電腦和手機都能用：使用者可以在瑞典的數位地圖上挑一個實際地點，替它配上一首歌，等於替地方做「配樂」。\n\n【執行】完整歌曲要有 Spotify Premium 訂閱才能聽。Telecompaper 在 2011 年 5 月 23 日報導了這項服務的推出。官方 lovethework 頁面顯示這是 DDB Stockholm 為 Telia 做的媒體類作品，但頁面沒有提供文字說明，所以本稿只寫能從報導確認的服務做法。\n\n資料來源：\nhttps://www.telecompaper.com/news/telia-launches-music-geotagging-service--805080\nhttps://www.lovethework.com/en/work/entries/soundtrack-sweden-219938",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜媒體類銅獅 Media Bronze Lion｜代理商：DDB STOCKHOLM\n\n【背景】依官方案例板，Telia 是瑞典最大的電信業者，想讓品牌和音樂更緊密連在一起，因此與串流音樂服務 Spotify 合作，讓用戶在手機上免費聽音樂。\n\n【洞察】音樂會喚起我們對地點、事件與情緒的記憶；加上現在隨時隨地都聽得到任何一首歌，於是有了這個念頭：如果每個地方都有自己的配樂呢？\n\n【點子】做一個網站和手機 App，讓人把數位歌曲連到真實的地點，用大家的選歌替整個瑞典「配樂」。\n\n【執行】DDB Stockholm 推出名為 Soundtrack Sweden 的服務（網址 musiksattsverige.se），電腦和手機都能用：使用者選一個附近的地點、選一首歌，就完成這個地點的配樂，配好的歌也會變成一次打卡（check-in）。大家的配樂可以在網站的地圖上聽，也能用手機依自己所在的位置收聽。案例板上舉的例子有：瑞典國會配〈A Little Less Conversation〉、State Library 配〈Enjoy the Silence〉、森林墓園（Forest Cemetery）配〈All My Friends Are Dead〉。活動另有街頭看板宣傳。完整歌曲要有 Spotify Premium 訂閱才能聽；Telecompaper 在 2011 年 5 月 23 日報導了服務推出。\n\n資料來源：\nhttps://www.telecompaper.com/news/telia-launches-music-geotagging-service--805080\nhttps://www.sostav.ru/columns/canneslions2009/2012/winners_media/\nhttps://www.lovethework.com/en/work/entries/soundtrack-sweden-219938",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 媒體類, Media, 銅獅, Bronze Lion, Telia, 電信, 通訊, DDB Stockholm, DDB, 音樂, Music, 地圖, 地理標記, Geotagging, 手機, 網站, 互動網頁, Spotify, 串流音樂, 地點, 配樂, Soundtrack, 瑞典, Sweden",
   "category": "行銷案例",
   "references": [
    "https://www.telecompaper.com/news/telia-launches-music-geotagging-service--805080",
+   "https://www.sostav.ru/columns/canneslions2009/2012/winners_media/",
    "https://www.lovethework.com/en/work/entries/soundtrack-sweden-219938"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://www.sostav.ru/cannes2012/media/3/pics/13389.jpg",
+  "image_shows": "官方案例板（Sostav.ru，480×360）：左邊兩支手機顯示 Soundtrack Sweden App 與選歌畫面，右邊是斯德哥爾摩地圖上標滿歌曲的網站，以及國會、圖書館、墓園配歌的範例",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Telia Soundtrack Sweden Cannes controversy OR fake OR withdrawn」，沒找到相關爭議。文字來源只有 Telecompaper 一則短報導；官方卡片無全文、welovead 案例頁回 503 打不開，搜尋摘要提到 Facebook check-in 與成效數字，因未打開頁面，未寫入。缺：官方報名全文（背景、策略、執行細節）。官方圖只有 148×105 不可用，找不到好圖，image_url 留空。"
+  "note": "已搜爭議：搜「Telia Soundtrack Sweden Cannes controversy OR fake OR withdrawn」，沒找到相關爭議。文字來源只有 Telecompaper 一則短報導；官方卡片無全文、welovead 案例頁回 503 打不開，搜尋摘要提到 Facebook check-in 與成效數字，因未打開頁面，未寫入。缺：官方報名全文（背景、策略、執行細節）。官方圖只有 148×105 不可用，找不到好圖，image_url 留空。 2026-11-26 Opus 驗：在 Sostav.ru 的 2012 坎城媒體類得獎頁找到官方案例板，依板上 Background／Insight／Idea 與圖說重寫一句話與讀稿（板上小字解析度低，只寫看得清楚的部分；Results 段成效未寫入），補圖，拿掉 uncertain。舊一句話存 r0。",
+  "idea_one_liner_r0": "瑞典電信 Telia 做了網站與手機服務，讓人替瑞典地圖上的某個地點，配上一首自己挑的歌"
  },
  {
   "id": "ltwm-05786",
@@ -175,21 +179,22 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "現代 Azera 的印刷廣告附一張條紋透明膜，左右滑動膜片，靜止的車身照就像轉了一圈",
+  "idea_one_liner": "現代汽車 Azera 的平面廣告附一片條紋透明膠片，讀者把它疊在廣告圖上左右滑動，紙上的車就轉起 360 度",
   "brand_display": "現代 Azera（Hyundai Azera）",
-  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜媒體類銅獅 Media Bronze Lion｜代理商：INNOCEAN WORLDWIDE Seoul\n\n【點子】本件資料不足，只能確認這是 INNOCEAN WORLDWIDE Seoul 為現代汽車 Azera 做的作品，作品名稱「Move Your Thinking」，報名在媒體類的 Use of Media（最佳媒體運用）。\n\n【執行】官方 lovethework 頁面只有標題、代理商、客戶與獎項，沒有文字說明。作品內容的細節（印刷廣告搭配條紋透明膜、滑動後產生旋轉錯覺）沒有任何打開過的來源可以確認，因此不寫進讀稿，待本機補查。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/move-your-thinking-217566\nhttps://www.lovethework.com/work-awards/campaigns/azera-297619",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜媒體類銅獅 Media Bronze Lion｜代理商：INNOCEAN WORLDWIDE Seoul\n\n【背景】依官方案例板，汽車品牌每年花大錢做平面廣告，但紙張只能呈現靜止的圖片，汽車平面廣告常被認為無聊、抓不住注意力。\n\n【策略】打破「平面廣告就是一張靜態圖」的印象，做一則讀者沒看過的「會動的」平面廣告，同時展示 Azera 流線的車身設計。\n\n【點子】借用動畫的殘影原理：用一片條紋透明膠片，讓印在紙上的 Azera 在讀者手中轉一整圈。\n\n【執行】INNOCEAN Worldwide 首爾為現代汽車拍下 Azera 各個角度的照片，把每張切成直條，再依特定順序交錯排列，印成一張看起來模糊的「重組圖」。廣告附一片條紋透明膠片，用法有三步：把膠片從廣告上取下、疊在重組圖上、慢慢左右滑動，就會看到 Azera 依序呈現正面、右前方、右側、左側、左前方再回到正面，像在原地旋轉。案例板寫這則廣告刊登在泛阿拉伯（中東）地區。\n\n資料來源：\nhttps://www.sostav.ru/columns/canneslions2009/2012/winners_media/\nhttps://www.lovethework.com/en/work/entries/move-your-thinking-217566",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 媒體類, Media, 銅獅, Bronze Lion, 現代汽車, Hyundai, Hyundai Motor Company, Azera, 汽車, Automobile, INNOCEAN WORLDWIDE, INNOCEAN, 南韓, South Korea, 印刷廣告, 平面廣告, Print, 透明膜, 視覺錯覺, 動態, 旋轉",
   "category": "行銷案例",
   "references": [
-   "https://www.lovethework.com/en/work/entries/move-your-thinking-217566",
-   "https://www.lovethework.com/work-awards/campaigns/azera-297619"
+   "https://www.sostav.ru/columns/canneslions2009/2012/winners_media/",
+   "https://www.lovethework.com/en/work/entries/move-your-thinking-217566"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://www.sostav.ru/cannes2012/media/3/pics/14038.jpg",
+  "image_shows": "官方案例板（Sostav.ru，480×360）：標題「Move Your Thinking – Azera」，右邊一隻手把黑色條紋膠片疊在模糊的紅色車圖上，下方是三步驟操作照片",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Hyundai Azera Move Your Thinking Innocean print controversy OR fake OR scam ad」，沒找到本作爭議（出現的是 2013 年 Innocean Europe 另一支現代自殺廣告爭議，同品牌別支廣告，不算、不寫入）。缺：官方全文與任何打開過的說明頁；官方卡片兩頁（entries/217566、campaigns/azera-297619）都沒有文字。一句話的做法依搜尋結果摘要（Cannes 報名文字：條紋透明膜與殘像效果使 Azera 看起來 360 度轉動），未寫入讀稿，需本機確認。官方圖只有 148×105 不可用，找不到好圖。官方作品名「Move Your Thinking」與搜尋摘要提到的內容是否同一支，也待確認。"
+  "note": "已搜爭議：搜「Hyundai Azera Move Your Thinking Innocean print controversy OR fake OR scam ad」，沒找到本作爭議（出現的是 2013 年 Innocean Europe 另一支現代自殺廣告爭議，同品牌別支廣告，不算、不寫入）。缺：官方全文與任何打開過的說明頁；官方卡片兩頁（entries/217566、campaigns/azera-297619）都沒有文字。一句話的做法依搜尋結果摘要（Cannes 報名文字：條紋透明膜與殘像效果使 Azera 看起來 360 度轉動），未寫入讀稿，需本機確認。官方圖只有 148×105 不可用，找不到好圖。官方作品名「Move Your Thinking」與搜尋摘要提到的內容是否同一支，當時待確認（搜尋摘要未寫入；後已由案例板確認是同一支）。 2026-11-26 Opus 驗：在 Sostav.ru 的 2012 坎城媒體類得獎頁找到官方案例板，依板上 Background／Mission／Idea／How it works 重寫一句話與讀稿，確認與原一句話描述的是同一支；板上 Result 段的成效數字未寫入。補圖，拿掉 uncertain。舊一句話存 r0。",
+  "idea_one_liner_r0": "現代 Azera 的印刷廣告附一張條紋透明膜，左右滑動膜片，靜止的車身照就像轉了一圈"
  },
  {
   "id": "ltwm-05792",
@@ -213,20 +218,22 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "德國烘焙坊 Treiber 不另外買包裝，改用烘焙紙把麵包直接包起來，包裝和烘焙材料合而為一",
+  "idea_one_liner": "德國烘焙坊 Treiber 把生麵團直接用烘焙紙包著賣，回家攤開紙放進烤箱就能烤，不留多餘包裝",
   "brand_display": "Treiber",
-  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜設計類銅獅 Design Bronze Lion｜代理商：JUNG von MATT Stuttgart\n\n【點子】本件資料不足。官方作品名為「No Wrapping, Just Baking Paper」，由 Jung von Matt Stuttgart 為烘焙坊 Treiber 做，報名在設計類的包裝設計（Sustainable Packaging）。依作品名，做法是不另外用包裝，只用烘焙紙。\n\n【執行】官方 lovethework 頁面沒有文字說明；in 檔附的 Behance 作品頁打不開。實際的紙張樣式、印了什麼、怎麼使用，目前沒有任何打開過的來源可寫。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/no-wrapping-just-baking-paper-214075",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜設計類銅獅 Design Bronze Lion｜代理商：JUNG von MATT Stuttgart\n\n【背景】依官方案例板，德國烘焙坊 Treiber 標榜天然、永續，並使用最好的原料。代理商受託替它的新鮮小餐包麵團（fresh bun dough）設計一款能反映這種理念的包裝。\n\n【點子】烤生麵團時本來就需要一張烘焙紙，那就乾脆用烘焙紙當包裝：麵團直接包在 FSC 認證的烘焙紙裡，打開、放進烤箱、烤好，不產生任何多餘的垃圾。\n\n【執行】Jung von Matt 斯圖加特把麵團包成長條，外層是印著斜條紋的烘焙紙，中間套一圈彩色紙標，寫著產品名「Vier im Backpapier」，意思是「四個在烘焙紙裡」。案例板上有黃、綠、橘三種顏色的紙標，下方三張照片是在工作台上把麵團排上烘焙紙、店內冷藏櫃陳列，以及把整張烘焙紙連同麵團送進烤箱。\n\n資料來源：\nhttps://www.sostav.ru/columns/canneslions2009/2012/winners_design/\nhttps://www.lovethework.com/en/work/entries/no-wrapping-just-baking-paper-214075",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 設計類, Design, 銅獅, Bronze Lion, 永續包裝, Sustainable Packaging, 包裝設計, Packaging Design, Treiber, 烘焙坊, 麵包店, Bakery, Jung von Matt, Jung von Matt Stuttgart, 烘焙紙, Baking Paper, 包裝, 環保, 減少包裝, 德國, Germany",
   "category": "行銷案例",
   "references": [
+   "https://www.sostav.ru/columns/canneslions2009/2012/winners_design/",
    "https://www.lovethework.com/en/work/entries/no-wrapping-just-baking-paper-214075"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://www.sostav.ru/cannes2012/design/3/pics/2976.jpg",
+  "image_shows": "官方案例板（Sostav.ru，480×360）：木桌上三條用斜條紋烘焙紙包著的麵團，套著黃、綠、橘紙標「Vier im Backpapier」，左上是標題與說明，下方三張使用照片",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Treiber Backpapier Jung von Matt Cannes controversy OR fake OR Plagiat」，沒找到本作爭議（結果是 Jung von Matt 其他作品如 Stolpersteine、Tramp a Benz 的爭議，不同作品，不寫入）。缺：所有說明文字。官方頁沒文字，in 檔的 Behance 連結回 403（工具不加偽裝標頭，未再嘗試），其他搜尋找不到任何報導。一句話只依作品名推測，做法細節未確認；需本機或維護者補來源。官方圖只有 148×105 不可用，找不到好圖。"
+  "note": "已搜爭議：搜「Treiber Backpapier Jung von Matt Cannes controversy OR fake OR Plagiat」，沒找到本作爭議（結果是 Jung von Matt 其他作品如 Stolpersteine、Tramp a Benz 的爭議，不同作品，不寫入）。缺：所有說明文字。官方頁沒文字，in 檔的 Behance 連結回 403（工具不加偽裝標頭，未再嘗試），其他搜尋找不到任何報導。一句話只依作品名推測，做法細節未確認；需本機或維護者補來源。官方圖只有 148×105 不可用，找不到好圖。 2026-11-26 Opus 驗：在 Sostav.ru 的 2012 坎城設計類得獎頁找到官方案例板，依板上說明重寫一句話與讀稿（原一句話寫「包麵包」不對，實際是包生麵團），補圖，拿掉 uncertain。舊一句話存 r0。",
+  "idea_one_liner_r0": "德國烘焙坊 Treiber 不另外買包裝，改用烘焙紙把麵包直接包起來，包裝和烘焙材料合而為一"
  },
  {
   "id": "ltwm-05797",
@@ -250,21 +257,23 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "荷蘭與比利時的詩歌日，把外出自動回覆信全寫成詩，讓人在日常郵件裡意外讀到詩",
+  "idea_one_liner": "荷蘭與比利時的詩歌日，請大家上官網挑一首詩，設成自己的外出自動回覆，讓寄信的人意外讀到詩",
   "brand_display": "Poetry Day（荷蘭、比利時詩歌日；委託方 Stichting Lezen）",
-  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：LEO BURNETT BRUSSELS\n\n【點子】詩歌日要讓人接觸詩，就把詩放進大家天天會碰到的地方：外出自動回覆（Out of Office）信。整份自動回覆內容只有詩，沒有一般客套話。\n\n【執行】Leo Burnett Brussels 為 2012 年荷蘭與比利時的詩歌日做這支數位活動，2011 年 12 月在比利時發表。作品的案例影片放在 YouTube。Ads of the World 頁面列出的創意團隊有創意總監 Tom Loockx、Jorrit Hermans，文案 Hugo Matthysen、Joke van Leeuwen、Stijn Vranken、Lies Van Gasse 與詩人 Ester Naomi Perquin。頁面沒有說明詩如何提供給使用者、有哪些詩，所以這部分不寫。官方報名類別是 Cyber 的電子郵件行銷（含電子賀卡）。\n\n資料來源：\nhttps://www.adsoftheworld.com/campaigns/poetry-day-out-of-office-reply-emails\nhttps://www.lovethework.com/en/work/entries/out-of-office-poetry-224698",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：LEO BURNETT BRUSSELS\n\n【點子】詩歌日要讓人接觸詩，就把詩放進大家天天會碰到的地方：外出自動回覆（Out of Office）信。讓人挑一首詩設成自己的自動回覆，寄信來的人就會讀到詩。\n\n【執行】Leo Burnett Brussels 為 2012 年荷蘭與比利時的詩歌日做這支數位活動，2011 年 12 月在比利時發表。作品的案例影片放在 YouTube。Ads of the World 頁面列出的創意團隊有創意總監 Tom Loockx、Jorrit Hermans，文案 Hugo Matthysen、Joke van Leeuwen、Stijn Vranken、Lies Van Gasse 與詩人 Ester Naomi Perquin。官方案例板展示的是一封外出自動回覆信：上半部是一首詩（署名 Leslie Parker），寫到在 12 月 26 日到 1 月 2 日之間還要工作有多殘忍；分隔線下寫著「1 月 26 日是 2012 年詩歌日（Poetry Day）」，邀請收信人一起支持，到 www.gedichtendag.com 挑一首外出回覆詩，詩作來自荷蘭與法蘭德斯詩人，列名的有 Joke van Leeuwen、Stijn Vranken、Lies Van Gasse、Ester Naomi Perquin 與 Joe Roxy。官方報名類別是 Cyber 的電子郵件行銷（含電子賀卡）。\n\n資料來源：\nhttps://www.adsoftheworld.com/campaigns/poetry-day-out-of-office-reply-emails\nhttps://www.lovethework.com/en/work/entries/out-of-office-poetry-224698\nhttps://www.sostav.ru/columns/canneslions2009/2012/winners_cyber/",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 銅獅, Bronze Lion, 電子郵件行銷, Email Marketing, 詩歌日, Poetry Day, Stichting Lezen, The Reading Foundation, 詩, Poetry, 外出自動回覆, Out of Office, 自動回覆, 電子郵件, Email, 閱讀, 文字, Leo Burnett Brussels, Leo Burnett, 比利時, Belgium, 荷蘭, Netherlands, 數位活動",
   "category": "行銷案例",
   "references": [
    "https://www.adsoftheworld.com/campaigns/poetry-day-out-of-office-reply-emails",
-   "https://www.lovethework.com/en/work/entries/out-of-office-poetry-224698"
+   "https://www.lovethework.com/en/work/entries/out-of-office-poetry-224698",
+   "https://www.sostav.ru/columns/canneslions2009/2012/winners_cyber/"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://www.sostav.ru/cannes2012/interactive/3/pics/7145.jpg",
+  "image_shows": "官方展示圖（Sostav.ru，480×360）：一封外出自動回覆信，上半是署名 Leslie Parker 的詩，下方寫著 26 January is POETRY DAY 2012 與 gedichtendag.com 挑詩的說明",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Out of Office Poetry Leo Burnett Brussels controversy OR fake OR plagiarism」，沒找到本作爭議。缺：詩如何交到使用者手上（網站挑選？範本？）、實際詩句，來源只有 Ads of the World 簡短頁與官方卡片。搜尋摘要提到 2014 年 Poetry International 的類似做法，因未打開頁面且年份不同，未寫入。官方圖只有 148×111 不可用，找不到好圖，image_url 留空。"
+  "note": "已搜爭議：搜「Out of Office Poetry Leo Burnett Brussels controversy OR fake OR plagiarism」，沒找到本作爭議。缺：詩如何交到使用者手上（網站挑選？範本？）、實際詩句，來源只有 Ads of the World 簡短頁與官方卡片。搜尋摘要提到 2014 年 Poetry International 的類似做法，因未打開頁面且年份不同，未寫入。官方圖只有 148×111 不可用，找不到好圖，image_url 留空。 2026-11-26 Opus 驗：在 Sostav.ru 的 2012 坎城 Cyber 類得獎頁找到官方展示圖，確認做法是到 gedichtendag.com 挑詩當自動回覆，補進讀稿與一句話，補圖，拿掉 uncertain。舊一句話存 r0。",
+  "idea_one_liner_r0": "荷蘭與比利時的詩歌日，把外出自動回覆信全寫成詩，讓人在日常郵件裡意外讀到詩"
  },
  {
   "id": "ltwm-05798",
@@ -302,7 +311,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Mawbima Paper Flag Leo Burnett Colombo newspaper」與 controversy，找到 Colombo Telegraph 專欄指控送審影片使用安排的人物，已寫入【爭議】段（單一專欄指控，無查證結果，未撤獎，照收）。官方 case board 只有 240×180 不可用，改用 in 檔 YouTube 影片預覽圖，該圖只看得到報紙，看不出旗子做法。說明來自 Colombo Telegraph 文章對點子的敘述，未打開 Campaign Brief Asia（404）與 AdsSpot（403）。搜尋摘要中的銷量說法未寫入。 官方頁沒有全文。"
+  "note": "已搜爭議：搜「Mawbima Paper Flag Leo Burnett Colombo newspaper」與 controversy，找到 Colombo Telegraph 專欄指控送審影片使用安排的人物，已寫入【爭議】段（單一專欄指控，無查證結果，未撤獎，照收）。官方 case board 只有 240×180 不可用，改用 in 檔 YouTube 影片預覽圖，該圖只看得到報紙，看不出旗子做法。說明來自 Colombo Telegraph 文章對點子的敘述，未打開 Campaign Brief Asia（404）與 AdsSpot（403）。搜尋摘要中的銷量說法未寫入。 官方頁沒有全文。 2026-11-26 Opus 驗：事實抽查：重開 Colombo Telegraph 原文，作者 Malinda Seneviratne（The Nation 總編輯）、旗子做法（正反印國旗、剪下、捲鄰頁）、約 70 歲菜販的說法、Leo Burnett 稱幾小時賣完、文中沒有代理商回應，都與讀稿一致；屬「被指控造假」，【爭議】段保留，照收。"
  },
  {
   "id": "ltwm-05789",
@@ -328,19 +337,20 @@
   "awards_unverified": [],
   "idea_one_liner": "瑞士家具店 Micasa 推出同名折扣，名字和店裡某件商品一樣的人，買那件商品只要半價",
   "brand_display": "Micasa",
-  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜直效類銅獅 Direct Bronze Lion｜代理商：SPILLMANN/FELSER/LEO BURNETT Zürich\n\n【點子】Micasa 賣的家具與家飾很多是用人名命名。品牌拿這點做促銷：只要顧客的名字和某件商品同名，就能用半價買那件商品。\n\n【執行】根據 persoenlich.com 對 2013 年第三輪活動的報導，Leo Burnett Schweiz 為 Micasa 做這個「名字促銷」，用電視廣告、海報，以及在 Migros 多家分店的試用活動宣傳。第三輪新增一個 Facebook 連結的 App，會列出臉書好友中與 Micasa 商品同名的人，可以邀請他們一起到店購物；新型錄有超過 600 件商品，也能用名字搜尋。官方 case board 的畫面是一張白底的木製椅子。\n\n以上機制主要根據 2013 年第三輪報導，2012 年報名版本的細節沒有打開過的來源可確認。\n\n資料來源：\nhttps://www.persoenlich.com/kategorie-werbung/micasa-namenspromotion-geht-in-dritte-runde-309524\nhttps://www.lovethework.com/en/work/entries/names-promotion-222236",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜直效類銅獅 Direct Bronze Lion｜代理商：SPILLMANN/FELSER/LEO BURNETT Zürich\n\n【背景】依官方案例板，大型家具連鎖每年都用新品廣告轟炸消費者，Micasa 想找一個新方法，讓人仔細看看自家的家具與家飾。\n\n【點子】Micasa 賣的家具與家飾很多是用人名命名。品牌拿這點做促銷：只要顧客的名字和某件商品同名，就能用半價買那件商品，標語是「50% on items with the same name as you（和你同名的商品打五折）」。\n\n【執行】案例板上列出 William、Clara、Giulia、Joe、Henry、Aurelia、Jasmin、Virginia 等以人名命名的邊桌、椅子、櫃子、立燈、沙發；電視廣告畫面裡有顧客在店裡拿出護照證明自己的名字，看板寫著「50% auf den Artikel im neuen Katalog, der so heisst wie Sie（新型錄裡和您同名的商品打五折）」。根據 persoenlich.com 的報導，這個「名字促銷」後來辦到 2013 年第三輪，由 Leo Burnett Schweiz 操刀，用電視廣告、海報，以及在 Migros 多家分店的試用活動宣傳；第三輪新增一個 Facebook 連結的 App，會列出臉書好友中與 Micasa 商品同名的人，可以邀請他們一起到店購物，新型錄有超過 600 件商品。\n\n資料來源：\nhttps://www.sostav.ru/columns/canneslions2009/2012/winners_direct/\nhttps://www.persoenlich.com/kategorie-werbung/micasa-namenspromotion-geht-in-dritte-runde-309524\nhttps://www.lovethework.com/en/work/entries/names-promotion-222236",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 直效類, Direct, 銅獅, Bronze Lion, 零售與電商, Retail & E-Commerce, Micasa, 家具, 家飾, Furniture, 零售, 促銷, Promotion, 人名, 名字, 同名折扣, 半價, 折扣, Spillmann/Felser/Leo Burnett, Leo Burnett, Leo Burnett Zurich, 瑞士, Switzerland, 椅子, 電視廣告, 海報, Facebook",
   "category": "行銷案例",
   "references": [
+   "https://www.sostav.ru/columns/canneslions2009/2012/winners_direct/",
    "https://www.persoenlich.com/kategorie-werbung/micasa-namenspromotion-geht-in-dritte-runde-309524",
    "https://www.lovethework.com/en/work/entries/names-promotion-222236"
   ],
-  "image_url": "https://cdn.filespin.io/api/v1/conversion/54d6ad8104a944c4bbc85a7c8ec27671",
-  "image_shows": "官方 case board（影片畫面）：白底中央一張木製椅子，椅背有黑色交叉金屬條，上下為黑邊，右上角有坎城獅子 logo；看不到名字或折扣文字",
+  "image_url": "https://www.sostav.ru/cannes2012/direct/3/pics/5884.jpg",
+  "image_shows": "官方案例板（Sostav.ru，480×360）：標題「The names promotion – 50% on items with the same name as you」，下方一排標著人名的家具、電視廣告畫面與「同名打五折」看板",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Micasa Names Promotion Leo Burnett Cannes controversy OR fake OR withdrawn」，沒找到相關爭議。缺：2012 年報名時的官方全文；機制只來自 2013 年第三輪報導（persoenlich.com）。搜尋摘要另提到 2012 年報名文字「名字與庫存家具同名者半價」與 persoenlich 報導一致，但該摘要頁未打開，未寫入。圖片為 case board，只看得到一張椅子，看不出點子，其他圖找不到（YouTube 預覽為灰色預設圖）。另有同名但屬 Brand Experience 的入圍條目（entries/names-promotion-215864），本件獎項為 Direct 銅獅。"
+  "note": "已搜爭議：搜「Micasa Names Promotion Leo Burnett Cannes controversy OR fake OR withdrawn」，沒找到相關爭議。缺：2012 年報名時的官方全文；機制只來自 2013 年第三輪報導（persoenlich.com）。搜尋摘要另提到 2012 年報名文字「名字與庫存家具同名者半價」與 persoenlich 報導一致，但該摘要頁未打開，未寫入。圖片為 case board，只看得到一張椅子，看不出點子，其他圖找不到（YouTube 預覽為灰色預設圖）。另有同名但屬 Brand Experience 的入圍條目（entries/names-promotion-215864），本件獎項為 Direct 銅獅。 2026-11-26 Opus 驗：在 Sostav.ru 的 2012 坎城直效類得獎頁找到 2012 年報名的官方案例板，補上 2012 版的挑戰、做法與畫面，拿掉 uncertain。圖改用這張案例板：in 檔的官方 conversion 圖只是一張椅子的影片畫面，看不出點子，所以不用（程式會標「有官方 case board 沒用」，是有意的）；新圖 480×360 偏小。事實抽查：persoenlich.com 寫「同名商品半價、第三輪、TV／海報／Migros 試用、Facebook App、超過 600 件」，與讀稿一致。"
  },
  {
   "id": "ltwm-05791",
@@ -364,21 +374,21 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "瑞典電信 Telia 分析多年寬頻流量，預測一年中最沒新聞的一天，再向媒體公布，各小眾網站的流量漲跌",
+  "idea_one_liner": "瑞典電信 Telia 只用自家寬頻流量資料，預測 2011 年最沒新聞的一天，讓「沒新聞」本身變成新聞",
   "brand_display": "Telia",
-  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜公關類銅獅 PR Bronze Lion｜代理商：PRIME Stockholm\n\n【點子】本件資料不足。官方作品名為「No News Is Big News」，Prime Stockholm 為 Telia 做，官方卡片顯示的類別為 PR（Sectors & Services），獎項為銅獅。\n\n【執行】官方 lovethework 頁面只有標題、代理商與獎項，沒有文字說明；Vimeo 影片頁需要人機驗證，打不開。一句話的做法（用寬頻流量預測最平淡的新聞日、公布各網站流量變化）沒有任何打開過的來源可以確認，不寫進讀稿，待本機補查。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/no-news-is-big-news-211562\nhttps://lovethework.com/work-awards/entries/211742\nhttps://www.sostav.ru/columns/canneslions2009/2012/short_pr/",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜公關類銅獅 PR Bronze Lion｜代理商：PRIME Stockholm\n\n【背景】依官方案例板（解析度低，以下只寫看得清楚的部分），2011 年行動裝置大爆發，手機製造商開始搶著發表上網行為的看法，而這原本是電信業者的話題。Telia 的目標是在夏季月份拉高自己在媒體上的聲量，支援寬頻銷售。\n\n【點子】在資訊爆炸的社會裡，「沒有新聞」反而是大新聞（No News Is Big News）。\n\n【執行】Prime Stockholm 以「Telia Surfindex」為名，只用 Telia 的寬頻流量數據，預測 2011 年最平淡、最沒事發生的一天，並把流量數據按不同媒體類別分類，製造話題。這個內容每週推出一次，讓它保持時效：分析過去幾天哪些主題的流量上升、哪些下降，再對照同一期間全球發生的新聞，用兩者的關聯當報導素材。案例板右側貼滿報紙版面的剪報。\n\n資料來源：\nhttps://www.sostav.ru/columns/canneslions2009/2012/winners_pr/\nhttps://www.lovethework.com/en/work/entries/no-news-is-big-news-211562",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 公關類, PR, 銅獅, Bronze Lion, 企業溝通, Corporate Communication, Telia, 電信, 寬頻, Broadband, 網路流量, 新聞, 媒體公關, Media Relations, Prime, Prime PR, PRIME Stockholm, 瑞典, Sweden, 數據, 預測",
   "category": "行銷案例",
   "references": [
-   "https://www.lovethework.com/en/work/entries/no-news-is-big-news-211562",
-   "https://lovethework.com/work-awards/entries/211742",
-   "https://www.sostav.ru/columns/canneslions2009/2012/short_pr/"
+   "https://www.sostav.ru/columns/canneslions2009/2012/winners_pr/",
+   "https://www.lovethework.com/en/work/entries/no-news-is-big-news-211562"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://www.sostav.ru/cannes2012/pr/3/pics/14788.jpg",
+  "image_shows": "官方案例板（Sostav.ru，480×360）：深色格線底，標題「No News is Big News – Telia Surfindex」，上方是彩色流量曲線，左欄是說明與圖示，右欄是報紙剪報拼貼",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：搜「Telia No News Is Big News Prime PR controversy OR fake OR withdrawn」，沒找到本作爭議（出現的是 Telia 其他事件如 Bonnier 收購、零評級，不算）。缺：官方全文與任何打開過的說明頁。另有一筆同名 PR Technique 條目（entries/211742）官方頁寫「Shortlisted」，本件對應的是 211562 的銅獅（PR > Sectors & Services）；in 檔寫的子類別為 Corporate Communication，官方頁分類文字略有不同，請驗收員確認。一句話依搜尋摘要，未寫入讀稿。官方圖只有 240×180 不可用，找不到好圖。"
+  "note": "已搜爭議：搜「Telia No News Is Big News Prime PR controversy OR fake OR withdrawn」，沒找到本作爭議（出現的是 Telia 其他事件如 Bonnier 收購、零評級，不算）。缺：官方全文與任何打開過的說明頁。另有一筆同名 PR Technique 條目（entries/211742）官方頁寫「Shortlisted」，本件對應的是 211562 的銅獅（PR > Sectors & Services）；in 檔寫的子類別為 Corporate Communication，官方頁分類文字略有不同，請驗收員確認。一句話依搜尋摘要，未寫入讀稿。官方圖只有 240×180 不可用，找不到好圖。 2026-11-26 Opus 驗：在 Sostav.ru 的 2012 坎城公關類得獎頁找到官方案例板，依板上 Situation／Objective／Idea／Strategy／Implementation 重寫一句話與讀稿（板上小字解析度低，只寫看得清楚的部分，Results 段成效未寫入），補圖，拿掉 uncertain。子類別：in 檔 official 寫 Corporate Communication、官方卡片寫 Sectors & Services，【得獎】行只到「公關類銅獅」不受影響，awards 照 in 檔不改。舊一句話存 r0。",
+  "idea_one_liner_r0": "瑞典電信 Telia 分析多年寬頻流量，預測一年中最沒新聞的一天，再向媒體公布，各小眾網站的流量漲跌"
  }
 ]

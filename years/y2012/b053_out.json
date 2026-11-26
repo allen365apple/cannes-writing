@@ -21,18 +21,22 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "SAS 航空在瑞典家居雜誌的平板版，放一則互動廣告，用平板 GPS 找出發機場，依朝向顯示目的地票價並可訂票",
+  "idea_one_liner": "SAS 航空的平板雜誌廣告是一個指南針，畫面上方顯示目的地與票價，可以直接按下訂票",
   "brand_display": "SAS 北歐航空",
-  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜行動類銅獅 Mobile Bronze Lion｜代理商：CP+B Gothenburg\n\n【點子】本批只能確認這件作品的官方資料（行動類銅獅、CP+B Gothenburg 為 SAS 製作），頁面內容無法打開，詳細做法待補。\n",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜行動類銅獅 Mobile Bronze Lion｜代理商：CP+B Gothenburg\n\n【點子】CP+B Gothenburg 替北歐航空 SAS 做的平板廣告，把廣告畫面做成一個指南針，用「方向」帶出 SAS 能飛的目的地。\n\n【執行】官方展示圖是一個人在街上拿著平板，畫面中央是一個壓在地圖上的指南針，上方寫著目的地與票價「CHICAGO 7109:-」和訂票按鈕「Boka nu（立即訂票）」，左下標語是「FLEST DESTINATIONER 360°（最多目的地，360 度）」，右下是 SAS 標誌。指南針如何連動目的地、廣告刊在哪一本雜誌，目前沒有可打開的文字來源。\n\n資料來源：\nhttps://www.sostav.ru/columns/canneslions2009/2012/winners_mobile/\nhttps://www.sostav.ru/cannes2012/mobile/3/pics/5083.jpg",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 行動類, Mobile, 銅獅, Bronze Lion, SAS, Scandinavian Airlines, 北歐航空, CP+B Gothenburg, Crispin Porter + Bogusky, 航空, 旅遊, 平板, 平板廣告, 互動廣告, 雜誌廣告, 瑞典, Sweden, GPS, 指南針",
   "category": "行銷案例",
-  "references": [],
-  "image_url": "",
-  "image_shows": "",
+  "references": [
+   "https://www.sostav.ru/columns/canneslions2009/2012/winners_mobile/",
+   "https://www.sostav.ru/cannes2012/mobile/3/pics/5083.jpg"
+  ],
+  "image_url": "https://www.sostav.ru/cannes2012/mobile/3/pics/5083.jpg",
+  "image_shows": "官方展示圖（Sostav.ru，480×360）：街上一雙手拿著平板，畫面是地圖上的指南針，上方「CHICAGO 7109:-」與訂票按鈕，下方「FLEST DESTINATIONER 360°」",
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": false,
-  "note": "已搜爭議：SAS Point and Fly tablet ad controversy/fake/withdrawn，沒有找到相關指控（搜到的是 2020 年別支 SAS 廣告的風波，不算）。官方頁面（lovethework 無文字）、adsspot、AdForum、Vimeo 都打不開（403／驗證頁），沒有任何可打開的內容來源；一句話的做法（平板 GPS、指南針、瑞典家居雜誌 Sköna Hem 平板版、可直接訂票）只來自搜尋摘要轉述 AdForum 列表，未寫入讀稿，需本機補來源。搜尋摘要提到的點擊率數字未寫入。找不到可用圖。"
+  "note": "已搜爭議：SAS Point and Fly tablet ad controversy/fake/withdrawn，沒有找到相關指控（搜到的是 2020 年別支 SAS 廣告的風波，不算）。官方頁面（lovethework 無文字）、adsspot、AdForum、Vimeo 都打不開（403／驗證頁），沒有任何可打開的內容來源；一句話的做法（平板 GPS、指南針、瑞典家居雜誌 Sköna Hem 平板版、可直接訂票）只來自搜尋摘要轉述 AdForum 列表，未寫入讀稿，需本機補來源。搜尋摘要提到的點擊率數字未寫入。找不到可用圖。 2026-11-26 Opus 驗：在 Sostav.ru 的 2012 坎城行動類得獎頁找到官方展示圖，一句話與讀稿改成只寫圖上看得到的內容（指南針、目的地票價、訂票鈕、360° 標語），補圖。仍缺文字來源說明指南針怎麼運作、刊在哪裡，維持 uncertain。舊一句話存 r0。",
+  "idea_one_liner_r0": "SAS 航空在瑞典家居雜誌的平板版，放一則互動廣告，用平板 GPS 找出發機場，依朝向顯示目的地票價並可訂票"
  },
  {
   "id": "ltwm-05802",
@@ -65,20 +69,21 @@
   "awards_unverified": [],
   "idea_one_liner": "Steinway 與 Hilton 在藍儂夫婦 1969 年床上和平行動的飯店原房，邀全球網友線上彈白色鋼琴，傳遞和平訊息",
   "brand_display": "Steinway & Sons",
-  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜Cyber類銅獅 Cyber Bronze Lion、公關類銅獅 PR Bronze Lion｜代理商：DDB TRIBAL GROUP Düsseldorf\n\n【背景】1969 年 3 月，約翰藍儂與小野洋子新婚，在阿姆斯特丹 Hilton 飯店的房間裡舉行「床上和平行動（Bed-In）」，躺在床上對記者談和平。Steinway 的說法是，藍儂後來形容這是一支「和平的廣告」。2012 年，這場行動屆滿週年。\n\n【點子】Steinway & Sons、Hilton Amsterdam 與 DDB Tribal 合作，在同一間飯店、同一個房間辦一場音樂活動，主角是一架白色的 Steinway Imagine 系列限量平台鋼琴，用音樂當成和平的共通語言。DDB Tribal 創意長 Eric Schoeffler 說，目的是用現今的科技與社群網路，讓和平訊息重新被傳遞。\n\n【執行】活動網站 pianoforpeace.com 在 3 月 19 日上線。網友可在網站上「虛擬彈奏」放在飯店房間中央的白色大鋼琴，留下樂曲形式的和平訊息，投稿時間是 3 月 23 日到 25 日，樂曲於隔天播放，也可附上自己上傳的照片。3 月 26 日當天，曲子在限量鋼琴上演奏，每位演奏者的影像顯示在歷史性的那張床上方的螢幕上。製作公司 Markenfilm Crossing 打造了全自動的導播與直播系統，含自動切換鏡頭與插入標誌；活動後，這些曲子整理成媒體庫供人收聽。\n\n資料來源：\nhttps://www.steinway.com/news/articles/piano-for-peace\nhttps://www.horizont.net/agenturen/nachrichten/-Werbung-fuer-den-Frieden-DDB-Tribal-erinnert-an-John-Lennons-Flitterwochen-106462\nhttps://www.lovethework.com/en/work/entries/piano-for-peace-211470",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜Cyber類銅獅 Cyber Bronze Lion、公關類銅獅 PR Bronze Lion｜代理商：DDB TRIBAL GROUP Düsseldorf\n\n【背景】1969 年 3 月，約翰藍儂與小野洋子新婚，在阿姆斯特丹 Hilton 飯店的房間裡舉行「床上和平行動（Bed-In）」，躺在床上對記者談和平。Steinway 的說法是，藍儂後來形容這是一支「和平的廣告」。2012 年，這場行動屆滿週年。\n\n【點子】Steinway & Sons、Hilton Amsterdam 與 DDB Tribal 合作，在同一間飯店、同一個房間辦一場音樂活動，主角是一架白色的 Steinway Imagine 系列限量平台鋼琴，用音樂當成和平的共通語言。DDB Tribal 創意長 Eric Schoeffler 說，目的是用現今的科技與社群網路，讓和平訊息重新被傳遞。\n\n【執行】活動網站 pianoforpeace.com 在 3 月 19 日上線。網友可在網站上「虛擬彈奏」放在飯店房間中央的白色大鋼琴，留下樂曲形式的和平訊息，投稿時間是 3 月 23 日到 25 日，樂曲於隔天播放，也可附上自己上傳的照片。3 月 26 日當天，曲子在限量鋼琴上演奏，每位演奏者的影像顯示在歷史性的那張床上方的螢幕上。製作公司 Markenfilm Crossing 打造了全自動的導播與直播系統，含自動切換鏡頭與插入標誌；活動後，這些曲子整理成媒體庫供人收聽。\n\n資料來源：\nhttps://www.steinway.com/news/articles/piano-for-peace\nhttps://www.horizont.net/agenturen/nachrichten/-Werbung-fuer-den-Frieden-DDB-Tribal-erinnert-an-John-Lennons-Flitterwochen-106462\nhttps://www.lovethework.com/en/work/entries/piano-for-peace-211470\nhttps://www.sostav.ru/columns/canneslions2009/2012/winners_cyber/",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 公關類, PR, 銅獅, Bronze Lion, Steinway & Sons, Steinway, 施坦威, DDB Tribal, DDB Tribal Group Düsseldorf, 鋼琴, 樂器, 音樂, 數位公關, 互動網頁, 網站, 直播, 線上直播, 自動導播, 限量鋼琴, 白色鋼琴, 約翰藍儂, John Lennon, 小野洋子, Yoko Ono, 床上和平行動, Bed-In, 和平, 阿姆斯特丹, Amsterdam, Hilton, 德國, Germany, 荷蘭, Netherlands",
   "category": "行銷案例",
   "references": [
    "https://www.steinway.com/news/articles/piano-for-peace",
    "https://www.horizont.net/agenturen/nachrichten/-Werbung-fuer-den-Frieden-DDB-Tribal-erinnert-an-John-Lennons-Flitterwochen-106462",
-   "https://www.lovethework.com/en/work/entries/piano-for-peace-211470"
+   "https://www.lovethework.com/en/work/entries/piano-for-peace-211470",
+   "https://www.sostav.ru/columns/canneslions2009/2012/winners_cyber/"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://www.sostav.ru/cannes2012/interactive/3/pics/6166.jpg",
+  "image_shows": "官方展示圖（Sostav.ru，480×360）：飯店房間裡一架白色平台鋼琴，後方是白色大床與藍儂夫婦的黑白照片，窗上寫著 Piano for Peace、Hair Peace、Bed Peace",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：Steinway Piano for Peace Lennon bed-in campaign controversy/fake/criticism，沒有找到針對這個活動的爭議（搜到的是對 1969 年床上行動本身的批評，不算）。官方 lovethework 頁面無文字，內容依 Steinway 官網與 Horizont 整理。Steinway 官網寫 3 月 26 日，Horizont 寫投稿 3 月 23 至 25 日、隔天播放，兩者一致。官方兩獎項（PR、Cyber）作品名相同，是同一件。找不到可用圖：官方候選圖只有 148×111 縮圖（體檢標 ✗），image_url 留空，需本機補。"
+  "note": "已搜爭議：Steinway Piano for Peace Lennon bed-in campaign controversy/fake/criticism，沒有找到針對這個活動的爭議（搜到的是對 1969 年床上行動本身的批評，不算）。官方 lovethework 頁面無文字，內容依 Steinway 官網與 Horizont 整理。Steinway 官網寫 3 月 26 日，Horizont 寫投稿 3 月 23 至 25 日、隔天播放，兩者一致。官方兩獎項（PR、Cyber）作品名相同，是同一件。找不到可用圖：官方候選圖只有 148×111 縮圖（體檢標 ✗），image_url 留空，需本機補。 2026-11-26 Opus 驗：在 Sostav.ru 的 2012 坎城 Cyber 類得獎頁找到官方展示圖，補上圖（480×360 偏小）。"
  },
  {
   "id": "ltwm-05810",
@@ -109,21 +114,23 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "Corona 帶七位中國北方偏遠村民，走七千五百公里去看海，並做成互動紀錄片，讓觀眾用他們的視角體驗",
+  "idea_one_liner": "Corona 做了互動紀錄片網站，把一段約 7,500 公里的旅程畫成路線，觀眾沿著時間軸看沿途片段",
   "brand_display": "Corona",
-  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜Cyber類銅獅 Cyber Bronze Lion×2｜代理商：JWT SPAIN Madrid\n\n【點子】Corona 與 JWT Madrid 以「Pole of Inaccessibility（難抵達極點）」為題，拍成一支由 Salmon 製作的短片，導演是 Eivind Holmgren。這是目前能打開的頁面確認的資訊；故事內容與互動做法無法打開來源確認，詳細寫法待補。\n\n資料來源：\nhttps://shots.net/news/view/70018-corona-pole-of-inaccessibility\nhttps://lovethework.com/work-awards/entries/223770",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜Cyber類銅獅 Cyber Bronze Lion×2｜代理商：JWT SPAIN Madrid\n\n【點子】作品名 Pole of Inaccessibility（難抵達極點）指的是離海最遠的地點。Corona 與 JWT Madrid 把一段長途旅程拍成短片，再做成可以互動瀏覽的網站；Shots 記載短片由 Salmon 製作，導演是 Eivind Holmgren。\n\n【執行】官方展示圖是 Corona Extra 的網站「Experience the Extraordinary」，選單有 About、The Movie、Characters、The Music。畫面是一條穿過雪地荒原的公路，天空上畫著旅程路線，標出巴士、飛機等交通工具；右上角是大大的里程數「7.500km」（另一張是「7.488km」）、座標與地名 Bulin，以及 Facebook 打卡按鈕；底部是一排可點選的影片縮圖，其中一段標題是「The party before the journey（出發前的派對）」。旅程的主角是誰、終點在哪，目前沒有可打開的文字來源。\n\n資料來源：\nhttps://shots.net/news/view/70018-corona-pole-of-inaccessibility\nhttps://www.sostav.ru/columns/canneslions2009/2012/winners_cyber/\nhttps://lovethework.com/work-awards/entries/223770",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 銅獅, Bronze Lion, Corona, Corona Extra, 可樂娜, Gmodelo, JWT Madrid, JWT Spain, JWT, 啤酒, 酒類, 食品飲料, 互動介面, Interface & Navigation, 互動紀錄片, 紀錄片, 短片, 網站, 中國, China, 西班牙, Spain, 海",
   "category": "行銷案例",
   "references": [
    "https://shots.net/news/view/70018-corona-pole-of-inaccessibility",
+   "https://www.sostav.ru/columns/canneslions2009/2012/winners_cyber/",
    "https://lovethework.com/work-awards/entries/223770"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://www.sostav.ru/cannes2012/interactive/3/pics/3394.jpg",
+  "image_shows": "官方展示圖（Sostav.ru，480×360）：Corona Extra 網站畫面，雪地荒原公路上方畫著旅程路線，右上「7.488km」與地名 Bulin，底部一排影片縮圖",
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": false,
-  "note": "已搜爭議：Corona Pole of Inaccessibility campaign controversy/fake/staged，搜尋沒有找到相關結果（只有新冠假訊息），未發現造假指控。官方 lovethework 頁面無文字，shots 頁只有一句簡介與製作名單，adsspot、FWA、chinasmack 都打不開。一句話的內容（七位村民、七千五百公里、看海、第一人稱互動紀錄片、中國北方）只來自搜尋摘要，未寫入讀稿，需本機補來源。官方候選圖只有 148×111 縮圖，找不到可用圖。"
+  "note": "已搜爭議：Corona Pole of Inaccessibility campaign controversy/fake/staged，搜尋沒有找到相關結果（只有新冠假訊息），未發現造假指控。官方 lovethework 頁面無文字，shots 頁只有一句簡介與製作名單，adsspot、FWA、chinasmack 都打不開。一句話的內容（七位村民、七千五百公里、看海、第一人稱互動紀錄片、中國北方）只來自搜尋摘要，未寫入讀稿，需本機補來源。官方候選圖只有 148×111 縮圖，找不到可用圖。 2026-11-26 Opus 驗：在 Sostav.ru 的 2012 坎城 Cyber 類得獎頁找到兩張官方網站截圖，一句話與讀稿改成只寫看得到的內容（7,500 公里路線、時間軸影片），補圖。原一句話的「七位中國北方村民去看海」仍只有搜尋結果的轉述、沒有可打開的來源，未寫入，維持 uncertain。舊一句話存 r0。",
+  "idea_one_liner_r0": "Corona 帶七位中國北方偏遠村民，走七千五百公里去看海，並做成互動紀錄片，讓觀眾用他們的視角體驗"
  },
  {
   "id": "ltwm-05808",
@@ -155,20 +162,23 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "MTV 巴西台的形象短片，在昏暗的房間裡，一個人被朋友橫抱在身前，像一把吉他被彈奏",
+  "idea_one_liner": "MTV 巴西台的台呼短片：吉他手把真人當成吉他橫抱在身前，「彈」出經典搖滾吉他段落",
   "brand_display": "MTV Brasil",
-  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜影片類銅獅 Film Bronze Lion、影片工藝類銅獅 Film Craft Bronze Lion｜代理商：LODUCCA São Paulo\n\n【點子】官方報名的作品名是 PLAY RAMIREZ，官方獎項列了 PLAY MIGUEL、PLAY RAMIREZ、PLAY FABRICIO 三支（影片類）與 PLAY RAMIREZ 一支（影片工藝類，最佳音樂運用）。目前沒有打開任何文字說明，只能看官方案例板畫面：昏暗的房間裡，一個人像吉他一樣被另一人橫抱在胸前，被抱的人伸出手臂，手指放在琴頸的位置。更多內容待補。\n\n資料來源：\nhttps://cdn.filespin.io/api/v1/conversion/83b7f3ebae9d4cf5b7c870eef0311fe8",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜影片類銅獅 Film Bronze Lion、影片工藝類銅獅 Film Craft Bronze Lion｜代理商：LODUCCA São Paulo\n\n【點子】把「人」當成吉他。Loducca 替 MTV 巴西台拍的「Guitar Man」系列，D&AD 作品頁的說明是：吉他手在「吉他人」身上彈出經典的吉他段落（riff）。\n\n【執行】官方報名的影片有同系列三支：Play Miguel、Play Ramirez、Play Fabricio。D&AD 作品頁列出導演 Dulcidio Caldeira、製作公司 ParanoidBr，音樂用到 Black Sabbath、Jimi Hendrix、Dick Dale & His Del-Tones 的作品。官方案例板的畫面是昏暗的房間裡，一個年輕人把另一個人橫抱在身前，被抱的人身體打直、像一把橫放的吉他。\n\n資料來源：\nhttps://dandad.org/awards/professional/2013/film-advertising-crafts/20040/guitar-man\nhttps://www.sostav.ru/columns/canneslions2009/2012/winners_film/\nhttps://cdn.filespin.io/api/v1/conversion/83b7f3ebae9d4cf5b7c870eef0311fe8",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片類, Film, 影片工藝類, Film Craft, 銅獅, Bronze Lion, MTV Brasil, MTV 巴西, MTV, Loducca, 電視台, 頻道形象, 台標, Broadcast Idents, 電視, 音樂, 音樂運用, Best Use of Music, 吉他, 人體吉他, 搖滾, 巴西, Brazil, 聖保羅, São Paulo, 幽默",
   "category": "行銷案例",
   "references": [
+   "https://dandad.org/awards/professional/2013/film-advertising-crafts/20040/guitar-man",
+   "https://www.sostav.ru/columns/canneslions2009/2012/winners_film/",
    "https://cdn.filespin.io/api/v1/conversion/83b7f3ebae9d4cf5b7c870eef0311fe8"
   ],
   "image_url": "https://cdn.filespin.io/api/v1/conversion/83b7f3ebae9d4cf5b7c870eef0311fe8",
   "image_shows": "官方案例板截圖：昏暗房間裡，一個人橫躺著被另一人抱在身前，像一把吉他",
   "text_source_level": 3,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "依作品畫面解讀，無文字說明。已搜爭議：MTV Brasil Guitar Man Loducca controversy/plagiarism，沒有找到相關結果。官方作品名有三支（Miguel、Ramirez、Fabricio）同屬一個系列，本批只收 Ramirez；系列另外兩支是否各自有批次待主對話決定（疑似同系列重複）。搜尋摘要提到系列叫「Guitar Man」、由人用嘴練習吉他獨奏，但沒打開來源，未寫入讀稿。附註：in 檔連結（YouTube CBNews、adsspot Nectar 盒）與這件看來無關。"
+  "note": "依作品畫面解讀，無文字說明。已搜爭議：MTV Brasil Guitar Man Loducca controversy/plagiarism，沒有找到相關結果。官方作品名有三支（Miguel、Ramirez、Fabricio）同屬一個系列，本批只收 Ramirez；系列另外兩支是否各自有批次待主對話決定（疑似同系列重複）。搜尋摘要提到系列叫「Guitar Man」、由人用嘴練習吉他獨奏，但沒打開來源，未寫入讀稿。附註：in 檔連結（YouTube CBNews、adsspot Nectar 盒）與這件看來無關。 2026-11-26 Opus 驗：找到 D&AD 的「Guitar Man」作品頁（代理商 Loducca、巴西、三支影片、導演 Dulcidio Caldeira），說明「吉他手在吉他人身上彈經典 riff」與官方案例板畫面一致，Sostav.ru 影片類得獎頁也列出 MTV Brasil／Loducca 三支，據此重寫一句話與讀稿、拿掉 uncertain。只寫 D&AD 的說明，不寫它的獎。重複判斷：官方影片類把 Miguel／Ramirez／Fabricio 列在同一座獎下，2012 其他批也沒有這兩支，不是重複，讀稿以整個系列寫。舊一句話存 r0。",
+  "idea_one_liner_r0": "MTV 巴西台的形象短片，在昏暗的房間裡，一個人被朋友橫抱在身前，像一把吉他被彈奏"
  },
  {
   "id": "ltwm-05804",
@@ -192,9 +202,9 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "福特在巴黎街邊，把停車位變成真人彈珠台，用保險桿感應器計分，撞最兇的駕駛獲贈新車",
+  "idea_one_liner": "福特在巴黎街邊，把停車位變成真人彈珠台，保險桿感應器替擠車位的駕駛計分，最粗暴的人獲得「加球」",
   "brand_display": "Ford Park Assist",
-  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：OGILVY FRANCE Paris\n\n【背景】Ford 在歐洲要推廣新款 Focus 上的 Active Park Assist 停車輔助。巴黎的路邊停車位又窄，駕駛常常靠擦撞前後車的保險桿擠進去。\n\n【點子】把這種「用別人保險桿停車」的日常，變成一台真人彈珠台：駕駛擠進車位時，在前後車之間彈來彈去，擦撞得越粗魯，成績越「好」。\n\n【執行】Ogilvy Paris 在巴黎街頭準備好一個窄小的停車位，前後兩輛停放的車保險桿裝了感應器，並有隱藏攝影機記錄每一次碰撞，上方的大型看板即時顯示駕駛的分數，等級從「笨拙」到「粗暴」。一般駕駛來嘗試停進去；當天停得最粗暴的人被封為「當日最差駕駛」，獲得一次「加球」的機會，開著裝有 Active Park Assist 的 Ford Focus 停進同一個位置，並獲贈這輛車。這段過程拍成影片放上 YouTube 推廣這項功能。\n\n資料來源：\nhttps://www.torquenews.com/1084/brilliant-marketing-ford-turns-parking-life-size-pinball-game\nhttps://www.horizont.net/marketing/nachrichten/-Einparken--la-franaise-Ford-macht-Parkluecke-zum-Flipperautomaten-107407\nhttps://www.youtube.com/watch?v=6QMvXkTVaGA",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：OGILVY FRANCE Paris\n\n【背景】Ford 在歐洲要推廣新款 Focus 上的 Active Park Assist 停車輔助。巴黎的路邊停車位又窄，駕駛常常靠擦撞前後車的保險桿擠進去。\n\n【點子】把這種「用別人保險桿停車」的日常，變成一台真人彈珠台：駕駛擠進車位時，在前後車之間彈來彈去，擦撞得越粗魯，成績越「好」。\n\n【執行】Ogilvy Paris 在巴黎街頭準備好一個窄小的停車位，前後兩輛停放的車保險桿裝了感應器，並有隱藏攝影機記錄每一次碰撞，上方的大型看板即時顯示駕駛的分數，等級從「笨拙」到「粗暴」。一般駕駛來嘗試停進去；當天停得最粗暴的人被封為「當日最差駕駛」，獲得一次「加球」的機會，開著裝有 Active Park Assist 的 Ford Focus 停進同一個位置。這段過程拍成影片放上 YouTube 推廣這項功能。\n\n資料來源：\nhttps://www.torquenews.com/1084/brilliant-marketing-ford-turns-parking-life-size-pinball-game\nhttps://www.horizont.net/marketing/nachrichten/-Einparken--la-franaise-Ford-macht-Parkluecke-zum-Flipperautomaten-107407\nhttps://www.youtube.com/watch?v=6QMvXkTVaGA",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Promo & Activation類, Promo & Activation, 促銷與活化類, 銅獅, Bronze Lion, Ford, 福特, Ford Park Assist, Active Park Assist, Ford Focus, Ogilvy, Ogilvy Paris, Ogilvy & Mather Paris, 汽車, 停車輔助, 停車, 游擊行銷, Guerrilla Marketing, 街頭活動, 彈珠台, Pinball, 遊戲化, 隱藏攝影機, 感應器, 大型看板, 看板, 巴黎, Paris, 法國, France, 幽默, 整人",
   "category": "行銷案例",
   "references": [
@@ -207,7 +217,8 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：Ford Pinball Park Paris Ogilvy controversy/fake/staged，沒有找到指控；僅有一篇部落格質疑有多少駕駛是事先安排的，沒有證據，不算。各報導對細節略有出入（部分寫看板顯示分數、部分寫隱藏攝影機數量），讀稿只寫兩篇來源一致的部分。官方 case board 只有 240×180，改用官方 YouTube hqdefault（480×360）。作品名 PIN BALL，坊間又稱 Pinball Park。檢查程式標「圖太小（480×360）」：官方 case board 只有 240×180 更小，YouTube 無 maxres，本機可再找更大的圖。"
+  "note": "已搜爭議：Ford Pinball Park Paris Ogilvy controversy/fake/staged，沒有找到指控；僅有一篇部落格質疑有多少駕駛是事先安排的，沒有證據，不算。各報導對細節略有出入（部分寫看板顯示分數、部分寫隱藏攝影機數量），讀稿只寫兩篇來源一致的部分。官方 case board 只有 240×180，改用官方 YouTube hqdefault（480×360）。作品名 PIN BALL，坊間又稱 Pinball Park。檢查程式標「圖太小（480×360）」：官方 case board 只有 240×180 更小，YouTube 無 maxres，本機可再找更大的圖。 2026-11-26 Opus 驗：事實抽查：Torque News 與 Horizont 都只寫最差駕駛獲得一顆「加球（Freikugel）」、改開有 Active Park Assist 的 Focus 停車，沒寫送車，已刪掉「獲贈這輛車」，一句話同步改。舊一句話存 r0。",
+  "idea_one_liner_r0": "福特在巴黎街邊，把停車位變成真人彈珠台，用保險桿感應器計分，撞最兇的駕駛獲贈新車"
  },
  {
   "id": "ltwm-05805",
@@ -231,9 +242,9 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "Ballantine's 威士忌找西班牙製作人 Carlos Jean，與消費者一起創作原創歌曲，再在電視節目每週介紹新作",
+  "idea_one_liner": "Ballantine's 威士忌在西班牙推出的音樂企劃「Plan B」，官方只公開名稱與類別，做法待補",
   "brand_display": "Ballantine's 百齡罈",
-  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：OPTIMEDIA Madrid\n\n【點子】官方報名的作品名是 PLAN B - BALLANTINE'S，品牌是 Pernod Ricard 旗下的 Ballantine's 威士忌，代理商 Optimedia Madrid，獎項為品牌內容與娛樂類（音樂運用）銅獅。目前打開的官方頁面只有類別與得獎資料，沒有文字說明；官方案例板畫面是夜空下一塊紫色看板，上面亮著「Plan B」字樣。做法的詳細內容待補。\n\n資料來源：\nhttps://lovethework.com/work-awards/entries/208341\nhttps://cdn.filespin.io/api/v1/conversion/a9f9e263fa8c4a97a67c0b711ffdb75f",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜Branded Content & Entertainment類銅獅 Branded Content & Entertainment Bronze Lion｜代理商：OPTIMEDIA Madrid\n\n【點子】官方報名的作品名是 PLAN B - BALLANTINE'S，品牌是 Pernod Ricard 旗下的 Ballantine's 威士忌，代理商 Optimedia Madrid，報名類別是品牌內容與娛樂類的音樂運用。目前打開的官方頁面只有類別與得獎資料，沒有文字說明；官方案例板畫面是夜空下一塊紫色看板，上面亮著「Plan B」字樣。做法的詳細內容待補。\n\n資料來源：\nhttps://lovethework.com/work-awards/entries/208341\nhttps://cdn.filespin.io/api/v1/conversion/a9f9e263fa8c4a97a67c0b711ffdb75f",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 品牌內容與娛樂類, Branded Content & Entertainment, 銅獅, Bronze Lion, Ballantine's, Ballantine's Whisky, 百齡罈, Pernod Ricard, 保樂力加, Optimedia, Optimedia Madrid, 威士忌, 酒類, 烈酒, 音樂, 音樂運用, Best Use of Music, Plan B, 品牌內容, 看板, 西班牙, Spain, 馬德里, Madrid",
   "category": "行銷案例",
   "references": [
@@ -245,7 +256,8 @@
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": false,
-  "note": "已搜爭議：Ballantine's Plan B Carlos Jean campaign controversy/plagiarism，沒有找到相關結果。官方 lovethework 頁面無文字說明，adsspot 頁面打不開。一句話的內容（與製作人 Carlos Jean 合作、消費者參與創作原創歌曲、電視節目每週介紹）只來自搜尋摘要，未寫入讀稿，需本機補來源；搜尋摘要裡的認知度、市占數字也未寫入。官方作品名是 PLAN B - BALLANTINE'S。"
+  "note": "已搜爭議：Ballantine's Plan B Carlos Jean campaign controversy/plagiarism，沒有找到相關結果。官方 lovethework 頁面無文字說明，adsspot 頁面打不開。一句話的內容（與製作人 Carlos Jean 合作、消費者參與創作原創歌曲、電視節目每週介紹）只來自搜尋摘要，未寫入讀稿，需本機補來源；搜尋摘要裡的認知度、市占數字也未寫入。官方作品名是 PLAN B - BALLANTINE'S。 2026-11-26 Opus 驗：原一句話（Carlos Jean、消費者共創歌曲、電視節目每週介紹）沒有可打開的來源，依規則改成只寫確認過的事；讀稿刪掉內文重複的得獎敘述。Sostav.ru 的品牌內容類得獎頁只有名稱與名單、沒有圖。仍缺說明來源，維持 uncertain。舊一句話存 r0。",
+  "idea_one_liner_r0": "Ballantine's 威士忌找西班牙製作人 Carlos Jean，與消費者一起創作原創歌曲，再在電視節目每週介紹新作"
  },
  {
   "id": "ltwm-05806",
@@ -309,19 +321,20 @@
   "awards_unverified": [],
   "idea_one_liner": "T-Mobile 找演員扮停車管理員，在英國五座城市，發出夾著現金的假罰單，用隱藏攝影機拍下駕駛的反應",
   "brand_display": "T-Mobile",
-  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：SAATCHI & SAATCHI London\n\n【背景】T-Mobile 要推出 YouFix 資費方案：每月帳單金額固定，需要時再加值，結合預付與月租的好處。任務是在聖誕節前帶動銷售；方案內容複雜，必須放在「Life's for sharing」的品牌系列裡說清楚。\n\n【洞察】收到巨額帳單的震驚，和收到罰單的瞬間很像。\n\n【點子】重現收到罰單的震驚，但這些罰單裡面其實夾著錢，傳達「帳單不再有討厭的意外」。\n\n【執行】Saatchi & Saatchi London 在某一天，找演員和喜劇演員扮成 T-Mobile 的交通管理員，在英國五座大城市把這種罰單塞給駕駛，用隱藏攝影機拍下他們的反應，從被開罰單的憤怒到發現裡面有錢的欣喜。影片剪成兩分鐘的電視廣告，並延伸到平面、戶外、數位展示與社群媒體；來源沒有寫戶外版面的細節。\n\n資料來源：\nhttps://www.directnewideas.com/magazine/the_t_mobile_parking_ticket/?id=40\nhttps://www.transportxtra.com/publications/parking-review/news/28888/award-winning-ad-doesn-t-make-everyone-smile",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：SAATCHI & SAATCHI London\n\n【背景】T-Mobile 要推出 YouFix 資費方案：每月帳單金額固定，需要時再加值，結合預付與月租的好處。任務是在聖誕節前帶動銷售；方案內容複雜，必須放在「Life's for sharing」的品牌系列裡說清楚。\n\n【洞察】收到巨額帳單的震驚，和收到罰單的瞬間很像。\n\n【點子】重現收到罰單的震驚，但這些罰單裡面其實夾著錢，傳達「帳單不再有討厭的意外」。\n\n【執行】Saatchi & Saatchi London 在某一天，找演員和喜劇演員扮成 T-Mobile 的交通管理員，在英國五座大城市把這種罰單塞給駕駛，用隱藏攝影機拍下他們的反應，從被開罰單的憤怒到發現裡面有錢的欣喜。影片剪成兩分鐘的電視廣告，並延伸到平面、戶外、數位展示與社群媒體；來源沒有寫戶外版面的細節。官方案例板寫，YouFix 在 2011 年 9 月 12 日推出，活動對英國多個城市裡合法停放的車輛開出上千張停車罰單，但裡面放的不是罰款而是錢；板上看得到黃色的「Parking Notice Enclosed」罰單袋與一張 10 英鎊鈔票。\n\n資料來源：\nhttps://www.directnewideas.com/magazine/the_t_mobile_parking_ticket/?id=40\nhttps://www.transportxtra.com/publications/parking-review/news/28888/award-winning-ad-doesn-t-make-everyone-smile\nhttps://www.sostav.ru/columns/canneslions2009/2012/winners_outdoor/",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 戶外類, Outdoor, 銅獅, Bronze Lion, T-Mobile, 電信, 行動電話, 資費方案, YouFix, Life's for sharing, Saatchi & Saatchi, Saatchi & Saatchi London, 罰單, 停車罰單, 假罰單, 現金, 隱藏攝影機, 整人, Prank, 街頭活動, 電視廣告, 戶外廣告, 英國, United Kingdom, 倫敦, London, 幽默, 反差",
   "category": "行銷案例",
   "references": [
    "https://www.directnewideas.com/magazine/the_t_mobile_parking_ticket/?id=40",
-   "https://www.transportxtra.com/publications/parking-review/news/28888/award-winning-ad-doesn-t-make-everyone-smile"
+   "https://www.transportxtra.com/publications/parking-review/news/28888/award-winning-ad-doesn-t-make-everyone-smile",
+   "https://www.sostav.ru/columns/canneslions2009/2012/winners_outdoor/"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://www.sostav.ru/cannes2012/outdoor/3/pics/25444.jpg",
+  "image_shows": "官方案例板（Sostav.ru，480×360）：上方是黃色罰單袋與 10 英鎊鈔票，下方是假交通管理員把罰單夾在車窗、駕駛拿著鈔票笑、和管理員擁抱的照片",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：T-Mobile Parking Ticket fake fines complaint/controversy/ASA/withdrawn，沒有找到 ASA 裁決或下架；Parking Review 報導有停車業界人士不滿，只是一般評論，不算爭議，僅記於此。官方獎項是戶外類，但可打開的來源主要講整個活動（街頭發罰單與影片），戶外版面細節找不到，讀稿已寫明。Direct New Ideas 列的銷售成效未寫入。找不到可用圖：官方候選圖只有 148×105 縮圖，YouTube 縮圖 404，image_url 留空，需本機補。"
+  "note": "已搜爭議：T-Mobile Parking Ticket fake fines complaint/controversy/ASA/withdrawn，沒有找到 ASA 裁決或下架；Parking Review 報導有停車業界人士不滿，只是一般評論，不算爭議，僅記於此。官方獎項是戶外類，但可打開的來源主要講整個活動（街頭發罰單與影片），戶外版面細節找不到，讀稿已寫明。Direct New Ideas 列的銷售成效未寫入。找不到可用圖：官方候選圖只有 148×105 縮圖，YouTube 縮圖 404，image_url 留空，需本機補。 2026-11-26 Opus 驗：在 Sostav.ru 的 2012 坎城戶外類得獎頁找到官方案例板，補上推出日期與「合法停放的車」等細節，補圖（480×360 偏小）。事實抽查：Direct New Ideas 寫 YouFix、聖誕前、五座城市、演員與喜劇演員扮管理員、罰單夾錢、隱藏攝影機、兩分鐘電視廣告，與讀稿一致。"
  },
  {
   "id": "ltwm-05812",
@@ -345,21 +358,23 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "墨西哥紅十字會 065 急救專線每年有 60 萬通惡作劇電話，Saatchi & Saatchi 為此做了一支游擊式宣導",
+  "idea_one_liner": "為減少打到 065 的惡作劇電話，墨西哥紅十字會在街頭立紅十字架，寫著某人沒獲救，因為救護車去處理了惡作劇電話",
   "brand_display": "墨西哥紅十字會",
-  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：SAATCHI & SAATCHI MEXICO\n\n【背景】2011 年 7 月，墨西哥紅十字會宣布要推動宣導，減少打到緊急專線 065 的惡作劇電話。會長說，紅十字會每年接到約 160 萬通電話，其中 60 萬通是假的，而且只有一半能被辨識出來，其餘照樣派人處理；每一次不必要的出勤，成本最高可達 800 披索，也可能讓真正的傷患晚被救。另一篇媒體報導則說惡作劇電話占全部來電的 70%，並形容這是一場游擊式行銷。\n\n【點子】目前打開的來源沒有說明宣導的具體做法，詳細內容待補。官方作品名是 PRANK CALLS CAMPAIGN 065，代理商為 Saatchi & Saatchi Mexico，獎項為 Promo & Activation 類銅獅。\n\n資料來源：\nhttps://www.sinembargo.mx/9624/cruz-roja-lanza-campana-para-evitar-llamadas-en-falso/\nhttps://www.informabtl.com/3-campanas-mexicanas-de-marketing-social-premiadas-en-canneslions/",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜Promo & Activation類銅獅 Promo & Activation Bronze Lion｜代理商：SAATCHI & SAATCHI MEXICO\n\n【背景】依官方案例板，在墨西哥市，打到紅十字會急救專線 065 的電話，每 10 通就有 7 通是惡作劇；紅十字會每通都會出勤，既花錢，也可能賠上人命。2011 年 7 月紅十字會宣布推動宣導時，會長說每年約 160 萬通來電中有 60 萬通是假的，而且只有一半能被辨識出來，每一次不必要的出勤成本最高可達 800 披索，也可能讓真正的傷患晚被救。\n\n【點子】借用墨西哥常見的路邊十字架：發生致命車禍的地方會立起十字架，往往一放就是幾十年。紅十字會也做了自己的十字架，立在人潮最多的地方，寫上讓人無法忽視的話。\n\n【執行】Saatchi & Saatchi Mexico 把十字架漆成紅色，掛上紅十字會標誌與一塊牌子，牌上的話是：「Roberto Gómez 沒能獲救，因為我們去處理了一通惡作劇電話。每 10 通就有 7 通是惡作劇電話。別拿 065 開玩笑。」案例板上的照片是一支立在路邊、旁邊放著鮮花的紅色十字架，另有報紙與網路討論的截圖。\n\n資料來源：\nhttps://www.sinembargo.mx/9624/cruz-roja-lanza-campana-para-evitar-llamadas-en-falso/\nhttps://www.informabtl.com/3-campanas-mexicanas-de-marketing-social-premiadas-en-canneslions/\nhttps://www.sostav.ru/columns/canneslions2009/2012/winners_promo/",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Promo & Activation類, Promo & Activation, 促銷與活化類, 銅獅, Bronze Lion, 紅十字會, Cruz Roja, Cruz Roja Mexicana, Red Cross, Mexican Red Cross, Saatchi & Saatchi, Saatchi & Saatchi Mexico, 公益, 非營利組織, 急救專線, 065, 惡作劇電話, Prank Calls, 游擊行銷, Guerrilla Marketing, 社會議題, 墨西哥, Mexico",
   "category": "行銷案例",
   "references": [
    "https://www.sinembargo.mx/9624/cruz-roja-lanza-campana-para-evitar-llamadas-en-falso/",
-   "https://www.informabtl.com/3-campanas-mexicanas-de-marketing-social-premiadas-en-canneslions/"
+   "https://www.informabtl.com/3-campanas-mexicanas-de-marketing-social-premiadas-en-canneslions/",
+   "https://www.sostav.ru/columns/canneslions2009/2012/winners_promo/"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://www.sostav.ru/cannes2012/promo/3/pics/1019.jpg",
+  "image_shows": "官方案例板（Sostav.ru，480×360）：左上紅十字會標誌與標題「Prank Calls Campaign 065」，左下是路邊一支掛著牌子的紅色十字架與鮮花，右邊是報紙與網路報導截圖",
   "text_source_level": 3,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "已搜爭議：Cruz Roja 065 Prank Calls campaign Saatchi controversy/fake（西文也搜過），沒有找到相關指控。可打開的來源只有背景（SinEmbargo 2011/07/11 新聞稿、Informabtl 報導），沒有找到宣導做法的文字；搜尋摘要提到「在主要大道設置約 100 個十字架」，但沒有打開來源，未寫入讀稿與一句話，需本機補。Informabtl 稱減少 35% 假電話，只有單一來源且是成效，未寫入。官方候選圖只有 240×180，找不到可用圖。"
+  "note": "已搜爭議：Cruz Roja 065 Prank Calls campaign Saatchi controversy/fake（西文也搜過），沒有找到相關指控。可打開的來源只有背景（SinEmbargo 2011/07/11 新聞稿、Informabtl 報導），沒有找到宣導做法的文字；搜尋摘要提到「在主要大道設置約 100 個十字架」，但沒有打開來源，未寫入讀稿與一句話，需本機補。Informabtl 稱減少 35% 假電話，只有單一來源且是成效，未寫入。官方候選圖只有 240×180，找不到可用圖。 2026-11-26 Opus 驗：在 Sostav.ru 的 2012 坎城 Promo & Activation 得獎頁找到官方案例板，依板上 Situation／Task／Inspiration 寫出做法（板上小字解析度低，牌子上的話依可辨識的文字翻譯），補圖，拿掉 uncertain；板上 Results 段的成效未寫入。原「另一篇報導說占 70%」改用案例板的「10 通有 7 通」。舊一句話存 r0。",
+  "idea_one_liner_r0": "墨西哥紅十字會 065 急救專線每年有 60 萬通惡作劇電話，Saatchi & Saatchi 為此做了一支游擊式宣導"
  },
  {
   "id": "ltwm-05811",
@@ -383,7 +398,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "墨爾本國際影展的廣告，模仿外國冷門電影的預告，用來開外國片刻板印象的玩笑，畫面是戴毛帽的鬍子老人",
+  "idea_one_liner": "墨爾本國際影展的廣告，假裝是一部外國冷門電影的預告，拿觀眾對外國片的刻板印象開玩笑",
   "brand_display": "墨爾本國際影展",
   "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜影片工藝類銅獅 Film Craft Bronze Lion｜代理商：THE SWEET SHOP Melbourne\n\n【背景】Clemenger BBDO Melbourne 在 2011 年 6 月為新客戶墨爾本國際影展（MIFF）推出新的品牌形象與廣告。廣告的出發點是觀眾常覺得外國片「好壞參半」；系列廣告分別以中國與波蘭為背景，在墨爾本郊區找當地演員拍攝。\n\n【點子】Shots 把這支片形容為「絕對不會在墨爾本國際影展上映的電影」的預告，也就是拿外國藝術片的刻板印象開玩笑。\n\n【執行】導演是 Sweetshop 的 Steve Ayson，剪輯 The Butchery 的 Jack Hutchings，攝影 Bob Humphries。官方 YouTube 畫面是灰濛濛的天空下，兩位留鬍子、戴毛帽的老人面對面。劇情細節沒有打開的來源可確認，待補。\n\n資料來源：\nhttps://shots.net/news/view/70342-miff-the-potato-peelers\nhttps://mumbrella.com.au/melbourne-international-film-festival-plays-on-fear-of-dodgy-foreign-films-50244\nhttps://www.youtube.com/watch?v=m6235pICmsk",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片工藝類, Film Craft, 銅獅, Bronze Lion, Melbourne International Film Festival, MIFF, 墨爾本國際影展, 影展, Clemenger BBDO, Clemenger BBDO Melbourne, The Sweet Shop, Sweetshop, 電影, 預告片, 諷刺, 仿作, Parody, 外國片, 藝術電影, 馬鈴薯, 毛帽, 老人, 澳洲, Australia, 墨爾本, Melbourne, 幽默, 導演, 影片",
@@ -398,6 +413,7 @@
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": false,
-  "note": "已搜爭議：MIFF Potato Peelers ad controversy/complaint/offensive Poland，沒有找到相關結果。官方 lovethework 頁沒有文字；Shots 與 Mumbrella 只有簡介與製作名單，沒有劇情，故 uncertain。MIFF 系列廣告有中國、波蘭兩支，Mumbrella 沒寫哪一支是 Potato Peelers，讀稿未指定。官方報名代理商為 The Sweet Shop Melbourne，Shots 列廣告代理商為 Clemenger BBDO Melbourne。官方 case board 畫面（灰天空前一個戴兜帽的模糊人影疊在荒地上）看不出劇情，改用 YouTube maxresdefault。"
+  "note": "已搜爭議：MIFF Potato Peelers ad controversy/complaint/offensive Poland，沒有找到相關結果。官方 lovethework 頁沒有文字；Shots 與 Mumbrella 只有簡介與製作名單，沒有劇情，故 uncertain。MIFF 系列廣告有中國、波蘭兩支，Mumbrella 沒寫哪一支是 Potato Peelers，讀稿未指定。官方報名代理商為 The Sweet Shop Melbourne，Shots 列廣告代理商為 Clemenger BBDO Melbourne。官方 case board 畫面（灰天空前一個戴兜帽的模糊人影疊在荒地上）看不出劇情，改用 YouTube maxresdefault。 2026-11-26 Opus 驗：一句話重寫（原句逗號拆開主詞與動作／混入畫面描述），舊句存 r0。",
+  "idea_one_liner_r0": "墨爾本國際影展的廣告，模仿外國冷門電影的預告，用來開外國片刻板印象的玩笑，畫面是戴毛帽的鬍子老人"
  }
 ]
