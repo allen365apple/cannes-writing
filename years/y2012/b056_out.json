@@ -36,7 +36,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方卡片頁（lovethework）沒有文字，內容依 TED 部落格兩篇與 Vimeo 說明整理；官方案例板候選圖只有 480x360，太小不用，改用 Vimeo 官方縮圖（網址帶 region=us，若失效再換）。TED 部落格與 Vimeo 把創意代理商列為 WE ARE Pi（阿姆斯特丹），官方名單的代理商是 BIG PRODUCTION Paris，【得獎】行照官方，讀稿只寫製作公司。「一鏡到底」出自幕後花絮頁的一句話，沒有看到影片本身。已搜爭議：搜「TEDxSummit Power of X 影片 controversy／fake／plagiarism」，沒有相關爭議報導。"
+  "note": "官方卡片頁（lovethework）沒有文字，內容依 TED 部落格兩篇與 Vimeo 說明整理；官方案例板候選圖只有 480x360，太小不用，改用 Vimeo 官方縮圖（網址帶 region=us，若失效再換）。TED 部落格與 Vimeo 把創意代理商列為 WE ARE Pi（阿姆斯特丹），官方名單的代理商是 BIG PRODUCTION Paris，【得獎】行照官方，讀稿只寫製作公司。「一鏡到底」出自幕後花絮頁的一句話，沒有看到影片本身。已搜爭議：搜「TEDxSummit Power of X 影片 controversy／fake／plagiarism」，沒有相關爭議報導。 2026-11-26 Opus 驗：圖已下載打開，是紅白舞者的萬花筒畫面，vimeocdn 網址（region=us）2026-11-26 仍可開；官方 case board 480×360 太小，維持現圖。"
  },
  {
   "id": "ltwm-05855",
@@ -154,7 +154,7 @@
   "text_source_level": 1,
   "uncertain": true,
   "needs_audio": false,
-  "note": "缺：案例說明。lovethework 卡片頁與 sostav 清單只有名單與案名（sostav 是入圍名單，官方獎項以 in 檔為準：Cyber 銅獅），官方案例板候選圖只有 148x111，太小，改用官方 YouTube 影片的縮圖（hqdefault，maxresdefault 沒有）。搜尋摘要提到一篇 777interactive 的 2012 年部落格（案名「みんなの栞」、讀者線上書籤評論變成書店的「しおり POP」），但該頁連不上（503／404），沒有打開確認，搜尋摘要內容未寫入；摘要中的成效數字也不用。已搜爭議：搜「Kodansha Social Bookmark みんなのしおり controversy／fake／炎上」，沒有這件的爭議。"
+  "note": "缺：案例說明。lovethework 卡片頁與 sostav 清單只有名單與案名（sostav 是入圍名單，官方獎項以 in 檔為準：Cyber 銅獅），官方案例板候選圖只有 148x111，太小，改用官方 YouTube 影片的縮圖（hqdefault，maxresdefault 沒有）。搜尋摘要提到一篇 777interactive 的 2012 年部落格（案名「みんなの栞」、讀者線上書籤評論變成書店的「しおり POP」），但該頁連不上（503／404），沒有打開確認，搜尋摘要內容未寫入；摘要中的成效數字也不用。已搜爭議：搜「Kodansha Social Bookmark みんなのしおり controversy／fake／炎上」，沒有這件的爭議。 2026-11-26 Opus 驗：再搜「みんなの栞／みんなのしおり 講談社 書店 しおりPOP」仍找不到可開的說明；Wayback 有 minnanoshiori.jp 2011-12 的存檔，但雲端連不上，建議本機打開 http://web.archive.org/web/20111215054336/http://minnanoshiori.jp/ 補寫。維持 uncertain。"
  },
  {
   "id": "ltwm-05845",
@@ -218,7 +218,7 @@
   "awards_unverified": [],
   "idea_one_liner": "阿根廷 TEDxBuenosAires 請六十多位美髮師，進劇院聽一整天演講，再回店裡把點子講給客人聽",
   "brand_display": "TED（TEDxBuenosAires）",
-  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜媒體類銅獅 Media Bronze Lion｜代理商：OGILVY & MATHER ARGENTINA Buenos Aires\n\n【背景】TEDxBuenosAires 辦到第三屆，主題是「Ideas worth spreading」（值得散播的點子）。前一屆活動留下一句承諾：「Hairdressers coming soon on TEDx 2012」（美髮師即將來到 2012 年的 TEDx），這件作品就是兌現那句承諾。\n\n【洞察】這些演講與點子還沒傳到一般人手上，需要擅長說話的傳話者，把點子帶到劇院容量以外的地方。\n\n【點子】找美髮師來當傳話者。美髮師整天和客人面對面聊天，文章把美髮店形容成一座新的講堂。\n\n【執行】2012 年 5 月，Ogilvy & Mather Argentina 邀請超過 60 位美髮師到 Teatro San Martín，一整天聽不同的講者演講，之後他們回到自己的理髮店與美容院，把活動裡的點子分享給客人。影片由 Rebolución 製作，導演是 Nicolas Nubile。\n\n資料來源：\nhttps://www.directnewideas.com/magazine/ogilvy_and_mather_argentina_hairdressers/?id=1078\nhttps://www.lovethework.com/en/work/entries/tedx-hairdressers-217601",
+  "full_text": "【得獎】2012 坎城獅子獎（Cannes Lions 2012）｜媒體類銅獅 Media Bronze Lion｜代理商：OGILVY & MATHER ARGENTINA Buenos Aires\n\n【背景】TEDxBuenosAires 辦到第三屆，主題是「Ideas worth spreading」（值得散播的點子）。前一屆活動留下一句承諾：「Hairdressers coming soon on TEDx 2012」（美髮師即將來到 2012 年的 TEDx），這件作品就是兌現那句承諾。\n\n【洞察】這些演講與點子還沒傳到一般人手上，需要擅長說話的傳話者，把點子帶到劇院容量以外的地方。\n\n【點子】找美髮師來當傳話者。美髮師整天和客人面對面聊天，文章把美髮店形容成一座新的講堂。\n\n【執行】2012 年 5 月，Ogilvy & Mather Argentina 邀請超過 60 位美髮師到 Teatro San Martín，一整天聽不同的講者演講，之後他們回到自己的理髮店與美容院，把活動裡的點子分享給客人。影片由 Rebolution 製作，導演是 Nicolas Nubile。\n\n資料來源：\nhttps://www.directnewideas.com/magazine/ogilvy_and_mather_argentina_hairdressers/?id=1078\nhttps://www.lovethework.com/en/work/entries/tedx-hairdressers-217601",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2012, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 媒體類, Media, 銅獅, Bronze Lion, TED, TEDx, TEDxBuenosAires, OGILVY & MATHER ARGENTINA, Ogilvy, 奧美, 非營利, 演講活動, Ideas Worth Spreading, 美髮師, 理髮師, Hairdressers, 美髮店, 理髮店, 美容院, 口耳相傳, 傳話者, 活動邀請, 劇院, Teatro San Martín, 活動, 影片, 紀錄影片, 阿根廷, Argentina, 布宜諾斯艾利斯, Buenos Aires",
   "category": "行銷案例",
   "references": [
@@ -230,7 +230,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方案例板（Cannes 影片截圖，已打開看過）只是一名男子在深藍背景前說話，看不出點子；改用 Direct New Ideas 文章頁的圖（TEDxBuenosAires 舞台，不是美髮師畫面）。lovethework 卡片頁沒有說明，Ads of the World 該頁是另一件 2013 年的 TEDxBuenosAires，只有名單，內容只依 Direct New Ideas 整理，所以 references 只放前兩個。搜尋摘要提到的 2011 年計程車司機版與傳播數字，沒有打開來源確認，未寫入。已搜爭議：搜「Ogilvy Argentina TEDx Hairdressers scam ad／fake／controversy」，沒有相關爭議。"
+  "note": "官方案例板（Cannes 影片截圖，已打開看過）只是一名男子在深藍背景前說話，看不出點子；改用 Direct New Ideas 文章頁的圖（TEDxBuenosAires 舞台，不是美髮師畫面）。lovethework 卡片頁沒有說明，Ads of the World 該頁是另一件 2013 年的 TEDxBuenosAires，只有名單，內容只依 Direct New Ideas 整理，所以 references 只放前兩個。搜尋摘要提到的 2011 年計程車司機版與傳播數字，沒有打開來源確認，未寫入。已搜爭議：搜「Ogilvy Argentina TEDx Hairdressers scam ad／fake／controversy」，沒有相關爭議。 2026-11-26 Opus 驗：事實抽查 Direct New Ideas：60 多位美髮師、Teatro San Martín、2012 年 5 月、第三屆、導演 Nicolas Nubile 皆相符；製作公司拼法改為來源寫的 Rebolution。官方 case board 已下載看過，是一位演講者在台上說話，看不出美髮師的點子，維持現圖。"
  },
  {
   "id": "ltwm-05854",
@@ -269,7 +269,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "廣播作品，沒有找到音檔（lovethework 卡片頁只有名單），內容依 D&AD 與 Red Dot 頁面的文字整理，不需轉寫。圖是 Red Dot 頁面上的同組平面稿（網址是該站的縮圖處理路徑，若失效請換），不是廣播本身。Red Dot 與 D&AD 提到的其他獎項不寫；讀稿刻意不寫信箱完整網址。官方代理商為 Ogilvy Germany Frankfurt，Red Dot 寫 Ogilvy Deutschland，指同一家。已搜爭議：搜「Absolute Pitch HMTM Hannover Ogilvy radio scam ad／fake／controversy」，沒有這件的爭議。"
+  "note": "廣播作品，沒有找到音檔（lovethework 卡片頁只有名單），內容依 D&AD 與 Red Dot 頁面的文字整理，不需轉寫。圖是 Red Dot 頁面上的同組平面稿（網址是該站的縮圖處理路徑，若失效請換），不是廣播本身。Red Dot 與 D&AD 提到的其他獎項不寫；讀稿刻意不寫信箱完整網址。官方代理商為 Ogilvy Germany Frankfurt，Red Dot 寫 Ogilvy Deutschland，指同一家。已搜爭議：搜「Absolute Pitch HMTM Hannover Ogilvy radio scam ad／fake／controversy」，沒有這件的爭議。 2026-11-26 Opus 驗：事實抽查 Red Dot：目標族群小而特定、德文音名拼出信箱、第一個以電台進行的報名程序、創意總監 Manuel Rentz 皆相符。圖已下載打開，是同組平面稿，網址 2026-11-26 仍可開。"
  },
  {
   "id": "ltwm-05848",
@@ -308,7 +308,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方作品名是 SPERM VISUALIZER（Cyber 類、社群與創作者工藝），打開的來源描述的是影片版「SPERM DANCE 60 Sec Ver」，兩者可能是同一創意的影片與互動版；讀稿只寫看得到的影片與製作方式，互動功能沒寫。lovethework 搜尋摘要提到「可選 Vimeo 歌曲看精子跳舞」，卡片頁沒有這段文字，未寫入。官方案例板候選圖只有 148x111，太小，圖用 Vimeo 官方縮圖（1280 寬，網址帶 region=us，若失效再換）。縮圖右下角的小字（測試對象、播放音樂、放大倍率）看起來是影片或互動版的畫面設計，但沒有來源說明運作方式，讀稿只照抄文字。Dezeen 文提到廣告帶有 MINI Cooper S Countryman，讀稿不寫。題材為精子，依規則照收。已搜爭議：搜「Space Shower Sperm Dance／Sperm Visualizer PARTY Kawamura controversy／fake／withdrawn」，沒有相關爭議。"
+  "note": "官方作品名是 SPERM VISUALIZER（Cyber 類、社群與創作者工藝），打開的來源描述的是影片版「SPERM DANCE 60 Sec Ver」，兩者可能是同一創意的影片與互動版；讀稿只寫看得到的影片與製作方式，互動功能沒寫。lovethework 搜尋摘要提到「可選 Vimeo 歌曲看精子跳舞」，卡片頁沒有這段文字，未寫入。官方案例板候選圖只有 148x111，太小，圖用 Vimeo 官方縮圖（1280 寬，網址帶 region=us，若失效再換）。縮圖右下角的小字（測試對象、播放音樂、放大倍率）看起來是影片或互動版的畫面設計，但沒有來源說明運作方式，讀稿只照抄文字。Dezeen 文提到廣告帶有 MINI Cooper S Countryman，讀稿不寫。題材為精子，依規則照收。已搜爭議：搜「Space Shower Sperm Dance／Sperm Visualizer PARTY Kawamura controversy／fake／withdrawn」，沒有相關爭議。 2026-11-26 Opus 驗：vimeocdn 圖網址 2026-11-26 仍可開（image/jpeg）。"
  },
  {
   "id": "ltwm-05844",
@@ -385,6 +385,6 @@
   "text_source_level": 1,
   "uncertain": true,
   "needs_audio": false,
-  "note": "缺：這項贊助實際怎麼做的任何說明。打開過的 lovethework 卡片頁、sostav 入圍清單（類別 A08 Best Use of Branded Content & Sponsorship，entrant Starcom Sweden）、瑞典 Stockholm Media Award 提名清單，都只有案名與名單；官方案例板縮圖只有 240x180，找不到更好的圖。搜尋摘要提到挪威裁判贊助與瑞典球迷區贊助的舊文章，是別件或不確定相關，未寫入。提名清單的其他獎項不寫進讀稿。已搜爭議：搜「Synsam Offside sponsorship Starcom Cannes controversy／fake／withdrawn」，沒有相關爭議。"
+  "note": "缺：這項贊助實際怎麼做的任何說明。打開過的 lovethework 卡片頁、sostav 入圍清單（類別 A08 Best Use of Branded Content & Sponsorship，entrant Starcom Sweden）、瑞典 Stockholm Media Award 提名清單，都只有案名與名單；官方案例板縮圖只有 240x180，找不到更好的圖。搜尋摘要提到挪威裁判贊助與瑞典球迷區贊助的舊文章，是別件或不確定相關，未寫入。提名清單的其他獎項不寫進讀稿。已搜爭議：搜「Synsam Offside sponsorship Starcom Cannes controversy／fake／withdrawn」，沒有相關爭議。 2026-11-26 Opus 驗：再搜「Synsam offside sponsring Allsvenskan」仍無做法說明，維持 uncertain，需本機看案例影片。"
  }
 ]

@@ -159,3 +159,13 @@
 - 仍 uncertain 9：b053 05809 POINT AND FLY、05810 POLE OF INACCESSIBILITY、05805 PLAN B BALLANTINE（三件只寫看得到的內容，缺做法說明）、05811 POTATO PEELERS（缺劇情）；b054 05817 PUNISHMENT（廣播，YouTube ApRaZS9x5sM 已確認是本件，待轉逐字稿）、05819（不收件）；b055 05827 SAVE AN ORCHESTRA（缺歌名藝人）、05834 SIR SNEAKY（無來源直接寫到此名）、05840 SMS IS KING（缺流程）。
 - 其他參考：b052 05795 Open Book Project 活動 2011 年 3–4 月；b052 05796 官方 Open Up with Andre Agassi，寫系列整體；b053 05811 代理商 The Sweet Shop（製作）vs Clemenger BBDO；b054 05824 品牌身分借自同品牌另一作品頁；in 檔 b055 05826 標題 IHAZA 應為 LHAZA。
 - 圖不理想：沒有圖 05817、05827（另不收件 05819、05831）；多件新圖只有 480×360，官方 240×180 案例板太小沒用。待本機補。
+
+## 2026-11-27 雲端第 1 輪 b056–b058（Sonnet 寫、Opus 驗）
+- 不收待決 3（decision 沒動，請本機決定；都不是撤獎）：b057 ltwm-05867 THE LIFE SAVER T-SHIRT（Olay）驗收員建議改收，找到 InformaBTL 2012 西班牙語報導寫了 QR T 恤怎麼運作（網址在 note），改收後要補寫一句話、讀稿、圖；b057 ltwm-05859 THE ENTEGA ENERGY SAVING SPOT（廣播，做法只在搜尋摘要，建議本機找音檔，needs_audio）；b058 ltwm-05888 KBC TODAY'S YOUTH FOR YESTERDAY'S YOUTH（影片已移除、案例文字只在搜尋摘要，建議本機補查）。
+- 禁播參考（不算【爭議】）：b057 05866 Nando's 在辛巴威遭威脅後撤下。
+- 代理商寫法參考：b058 05880 SMURF VILLAGE 客戶 Sony、代理商官方 BUNGALOW25，讀稿不衝突；b056 05853 TED 頁代理商 WE ARE Pi、官方 BIG PRODUCTION，【得獎】行照官方。
+- 驗收員補強：b057 05858 Dewarists、05868 BBVA 提款機小人拿掉 uncertain（05868 捐款流程仍無來源）；05864、05866 補來源；b056 05852 製作公司拼法改 Rebolution；b058 05892 一句話縮到 55 字。
+- 仍 uncertain 5（待本機看影片補寫）：b056 05843 SOCIAL BOOKMARK 講談社（活動網站有 2011 年存檔，網址在 note）、05851 SYNSAM OFFSIDE SPONSORSHIP（做法完全沒有）；b057 05870 THE MOST CREATIVE COUNTRY（缺劇情，Film Craft 劇本）；b058 05882 SWEDISH TRUCK DRIVERS、05887 T-MAN（缺劇情）。
+- 來源偏少（參考）：b056 05845 Absynthe Minded 只有一篇越南語部落格、05848 SPERM VISUALIZER 互動版沒寫、05841 Panasonic 官方四件只看到三張（缺 Fired）；b057 05865、05862 單一報導；b058 05872 只有 artdaily；b058 05873 JCDecaux 頁寫 2013 年，讀稿不寫日期。
+- 圖不理想：沒有圖 b057 05866、05870（另不收件 05859、05867、05888）；偏弱 05858（Google 搜尋畫面）、05865（字卡）、05880（維基村景照）、05885、05879、05872（看不出點子）、05892 偏小。待本機補。
+- 【爭議】0；撤獎 0；重複 0。
