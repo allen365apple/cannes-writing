@@ -30,3 +30,4 @@
 - 2026-11-26 14:09 開工：b045 b046 b047 b048 b049 b050 b051（雲端 2026-11-26 第 2 輪）
 - 2026-11-26 雲端第 2 輪收尾：寫完並驗完 b045–b051（7 批 70 件：收 66、不收 4（b046 05702、b047 05710、05708 找不到內容；b050 05759 ABS 查無得獎），都不是撤獎）。驗收員把 b051 05768 GAME SIGNATURES 從不收改為收（查到 Outdoor 銅獅，待本機補官方預填）、b051 05763 品牌欄改 GOOD NEIGHBORS；補強拿掉 uncertain 3 件（05719、05755、05775），仍 uncertain 18 件。2012 累計 51／60 批。待決新增約 30 條（不收待決 4、改收確認 2、品牌欄確認 1、仍 uncertain 18、其餘參考）；【爭議】0、撤獎 0、重複 0。圖：沒圖約 19 件（不含不收件）、偏弱十多件，待本機補。連不上：adsspot、adforum、Behance、LBB、Shots、iF Design、Hypebeast、WARC、businesswire、strategyonline（403/404）、campaigncanada（402）、Commarts（503）、Vimeo 人機驗證、YouTube 頁沒內文、lovethework 頁沒內文。沒撞額度。
 - 問題：程式檢查兩組都沒掃到違規（無 rm、無自加標頭），寫手都自報沒刪檔、沒 git。b045–b048 驗收員自報中途跑了一次唯讀的 git diff --stat（違反「不要執行 git」的指示，沒改到東西）。b048、b050 寫手自報沒逐件人工重讀，已請驗收員加強重讀。開工時本機是分離 HEAD，已切回 main 對齊 origin（沒 force push）。寫作中途多次 commit「寫作中暫存（未驗）」。
+- 2026-11-26 14:42 回報已寫進 years/last_report.txt。
