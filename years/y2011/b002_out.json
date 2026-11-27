@@ -192,7 +192,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "沒找到可用的圖：候選圖只有 120×90 縮圖（✗）；AKQA 作品頁的 og:image 對應後來的新版 App，不是 2011 年得獎的版本，未使用。TechCrunch 圖檔 404。官方全文需登入，內容依 TechCrunch（2010/12/22）與 AKQA 作品頁整理；lovethework 頁只有得獎資料。AKQA 頁描述的是新版（100 多個課程），讀稿只採 TechCrunch 的上架版本。已搜爭議：搜「Nike Training Club AKQA Cannes 2011 controversy / fake / fraud / withdrawn」，沒有相關報導。"
+  "note": "沒找到可用的圖：候選圖只有 120×90 縮圖（✗）；AKQA 作品頁的 og:image 對應後來的新版 App，不是 2011 年得獎的版本，未使用。TechCrunch 圖檔 404。官方全文需登入，內容依 TechCrunch（2010/12/22）與 AKQA 作品頁整理；lovethework 頁只有得獎資料。AKQA 頁描述的是新版（100 多個課程），讀稿只採 TechCrunch 的上架版本。已搜爭議：搜「Nike Training Club AKQA Cannes 2011 controversy / fake / fraud / withdrawn」，沒有相關報導。 2026-11-27 Opus 驗：驗收時再找圖（D&AD 2010 作品頁、AKQA、搜尋）仍沒有 2010 版 App 畫面可用，image_url 維持空白，待本機補。"
  },
  {
   "id": "ltwm-05044",
@@ -221,22 +221,24 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "Nike 請 Robert Rodriguez 拍 Kobe Bryant 打殭屍球員的短片，R/GA 做網站用推文解鎖內容",
+  "idea_one_liner": "Nike 請導演 Rodriguez 拍 Kobe 大戰殭屍球員的短片，R/GA 另做網站，推文累積夠多，Kobe 就變身黑曼巴",
   "brand_display": "Nike Basketball「The Black Mamba」",
-  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜Cyber類銅獅 Cyber Bronze Lion、影片工藝類銅獅 Film Craft Bronze Lion｜代理商：WIEDEN+KENNEDY, Portland / R/GA, New York\n\n【背景】2011 年 2 月，Nike 為 Kobe Bryant 的 Nike Air Zoom Kobe VI 球鞋做宣傳，核心是他的外號「Black Mamba（黑曼巴）」。\n\n【點子】把「黑曼巴」做成一部荒誕的電影：導演 Robert Rodriguez 向 Kobe 推銷一個以他為英雄的故事，並由 R/GA 做一個帶有社群互動的網站。\n\n【執行】短片由 Robert Rodriguez 一手包辦導演、拍攝與剪輯，Kobe Bryant、Kanye West、Danny Trejo 與 Bruce Willis 都以自己或角色身分出演。影片的形式是 Rodriguez 對 Kobe 口頭「提案」一部電影：Kobe 先和被變成怪物的 Danny Trejo 打，再遇上 Bruce Willis 演的「Mr. Suave」，最後對抗由 Kanye West 帶頭的殭屍籃球員。影片 2011 年 2 月 19 日在網路上線，也在洛杉磯幾家戲院放映，包括 Mann's Chinese Theatre。Adweek 提到 R/GA 為這個企劃做了有社群功能的網站；官方 YouTube 案例影片的畫面上，網站出現「TWEETS/HR REACHED（每小時推文數）」計數器，與「#AGILITY UNLOCKED! VISIT #NIKEBASKETBALL NOW TO SEE EXCLUSIVE CONTENT」的訊息，旁邊有「TWEET IT」與 Facebook 按鈕。網站的完整玩法，來源沒有文字說明。\n\n資料來源：\nhttps://en.wikipedia.org/wiki/The_Black_Mamba_(film)\nhttps://www.adweek.com/?p=11658\nhttps://www.lovethework.com/en/work/entries/the-black-mamba-84978",
+  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜Cyber類銅獅 Cyber Bronze Lion、影片工藝類銅獅 Film Craft Bronze Lion｜代理商：WIEDEN+KENNEDY, Portland / R/GA, New York\n\n【背景】2011 年 2 月，Nike 為 Kobe Bryant 的 Nike Air Zoom Kobe VI 球鞋做宣傳，核心是他的外號「Black Mamba（黑曼巴）」。\n\n【點子】把「黑曼巴」做成一部荒誕的電影：導演 Robert Rodriguez 向 Kobe 推銷一個以他為英雄的故事，並由 R/GA 做一個帶有社群互動的網站。\n\n【執行】短片由 Robert Rodriguez 一手包辦導演、拍攝與剪輯，Kobe Bryant、Kanye West、Danny Trejo 與 Bruce Willis 都以自己或角色身分出演。影片的形式是 Rodriguez 對 Kobe 口頭「提案」一部電影：Kobe 先和被變成怪物的 Danny Trejo 打，再遇上 Bruce Willis 演的「Mr. Suave」，最後對抗由 Kanye West 帶頭的殭屍籃球員。影片 2011 年 2 月 19 日在網路上線，也在洛杉磯幾家戲院放映，包括 Mann's Chinese Theatre。網站部分由 R/GA 製作，2011 年 1 月上線，主題是「Unlock the Black Mamba」：用一套推特演算法監測社群上的相關對話，推文累積越多，Kobe 體內那條黑色的蛇就長得越大，達到每小時 600 則的門檻時，網站上的 Kobe 就變身成「Mamba」。解鎖後粉絲可以看六小時的 Kobe 獨家內容，並有機會抽限量版 Kobe VI 球鞋。案例影片的畫面上，網站有「TWEETS/HR REACHED（每小時推文數）」計數器、「#AGILITY UNLOCKED! VISIT #NIKEBASKETBALL NOW TO SEE EXCLUSIVE CONTENT」的訊息，旁邊有「TWEET IT」與 Facebook 按鈕。\n\n資料來源：\nhttps://en.wikipedia.org/wiki/The_Black_Mamba_(film)\nhttps://www.adweek.com/?p=11658\nhttps://mygoodbuzz.blogspot.com/search/label/Basketball\nhttps://www.lovethework.com/en/work/entries/the-black-mamba-84978",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2011, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 影片工藝類, Film Craft, 銅獅, Bronze Lion, 網站與微型網站, Nike, 耐吉, Nike Basketball, R/GA, R/GA New York, Wieden+Kennedy, Wieden+Kennedy Portland, 運動用品, 籃球鞋, 球鞋, Nike Zoom Kobe VI, Kobe Bryant, Black Mamba, 黑曼巴, Robert Rodriguez, Kanye West, Danny Trejo, Bruce Willis, 短片, 影片, 殭屍, 幽默, 荒誕, 名人, 社群網站, Twitter, 推特, Facebook, 推文, 解鎖, 互動, 美國, United States",
   "category": "行銷案例",
   "references": [
    "https://en.wikipedia.org/wiki/The_Black_Mamba_(film)",
    "https://www.adweek.com/?p=11658",
-   "https://www.lovethework.com/en/work/entries/the-black-mamba-84978"
+   "https://www.lovethework.com/en/work/entries/the-black-mamba-84978",
+   "https://mygoodbuzz.blogspot.com/search/label/Basketball"
   ],
   "image_url": "https://i.ytimg.com/vi/HHIaQBFrDTM/hqdefault.jpg",
   "image_shows": "Nike 官方案例影片的畫面：黃框裡有跑馬燈「…ERMAMA: HTTP://BIT.LY/FPK3PD #MAMBA…」，下方是「1750 TWEETS/HR REACHED」與「#MAMBAMOMENT #AGILITY UNLOCKED! … SEE EXCLUSIVE CONTENT」的對話框與「TWEET IT」按鈕",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入。影片內容依 Wikipedia；網站部分只有 Adweek 摘要（付費牆，只看到「R/GA 做網站、有社群成分」）與案例影片截圖，網站的完整機制缺文字來源（搜尋摘要提到「用推文讓 Kobe 變身 Mamba」「六小時獨家內容」「抽限量球鞋」，未寫入）。官方獎項分兩座：Cyber 銅獅（網站，R/GA）與影片工藝銅獅（影片，W+K）。圖為 YouTube hqdefault（沒有 maxresdefault，僅 480×360，程式會標太小；Wikipedia 海報更小，沒有更好的圖）。已搜爭議：搜「Nike Black Mamba R/GA Cannes controversy / fake / fraud / withdrawn」，沒有相關報導（結果多為 2017 年另一支 Mamba Day）。"
+  "note": "官方全文需登入。影片內容依 Wikipedia；網站部分只有 Adweek 摘要（付費牆，只看到「R/GA 做網站、有社群成分」）與案例影片截圖，網站的完整機制缺文字來源（搜尋摘要提到「用推文讓 Kobe 變身 Mamba」「六小時獨家內容」「抽限量球鞋」，未寫入）。官方獎項分兩座：Cyber 銅獅（網站，R/GA）與影片工藝銅獅（影片，W+K）。圖為 YouTube hqdefault（沒有 maxresdefault，僅 480×360，程式會標太小；Wikipedia 海報更小，沒有更好的圖）。已搜爭議：搜「Nike Black Mamba R/GA Cannes controversy / fake / fraud / withdrawn」，沒有相關報導（結果多為 2017 年另一支 Mamba Day）。 2026-11-27 Opus 驗：補到網站機制的文字來源（mygoodbuzz 部落格 2011/1/26「NIKE Basketball lets fans Unlock the Black Mamba using Twitter (by R/GA)」：演算法監測社群對話、600/hr 門檻、六小時獨家內容、抽限量 Kobe VI），與案例影片畫面一致，改寫執行段與一句話（舊句存 r0），拿掉 uncertain。「600/hr」原文沒寫單位，依案例影片的 TWEETS/HR 計數器寫成每小時推文數。圖維持 YouTube hqdefault（網站推文計數畫面，看得出機制）。",
+  "idea_one_liner_r0": "Nike 請 Robert Rodriguez 拍 Kobe Bryant 打殭屍球員的短片，R/GA 做網站用推文解鎖內容"
  },
  {
   "id": "ltwm-05045",
@@ -274,7 +276,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入；lovethework 頁只有得獎資料（標題「FREE」，Cyber 銅獅，R/GA New York）。內容依 One Show 的「Nike Free Arena」條目（2012 年 Merit，同一個 R/GA 網站）與其網站截圖整理；clios 連結 404。圖來自 One Show 資料庫（cloudfront），不是官方 case board，非 2011 年 Cannes 資料，若本機有更合適的官方圖可換。官方報名名稱「FREE」與「Free Arena」是否同一作品，靠 in 檔的 Clio 連結與 One Show 同為 R/GA 作品推斷，請驗收員留意。已搜爭議：搜「Nike Free Arena R/GA controversy / fake / fraud / withdrawn」，沒有相關報導。"
+  "note": "官方全文需登入；lovethework 頁只有得獎資料（標題「FREE」，Cyber 銅獅，R/GA New York）。內容依 One Show 的「Nike Free Arena」條目（2012 年 Merit，同一個 R/GA 網站）與其網站截圖整理；clios 連結 404。圖來自 One Show 資料庫（cloudfront），不是官方 case board，非 2011 年 Cannes 資料，若本機有更合適的官方圖可換。官方報名名稱「FREE」與「Free Arena」是否同一作品，靠 in 檔的 Clio 連結與 One Show 同為 R/GA 作品推斷，請驗收員留意。已搜爭議：搜「Nike Free Arena R/GA controversy / fake / fraud / withdrawn」，沒有相關報導。 2026-11-27 Opus 驗：核對：官方 LTW 卡片「FREE」的 og:image 縮圖（cyber/thumbs/02702.jpg，120×90）版面與 One Show 的 Free Arena 截圖相同（藍底、兩位運動員對戰、VOTE 鈕、SHOW US YOUR MOVES 影片列），確認是同一件作品。"
  },
  {
   "id": "ltwm-05114",
@@ -299,7 +301,7 @@
   "awards_unverified": [],
   "idea_one_liner": "Nike 在紐約球場搭綠幕半場，拍下小球員的招牌動作，約 20 分鐘內用程式拆成連續分格，印成他本人的個人海報",
   "brand_display": "Nike The Film Room",
-  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：R/GA, New York\n\n【背景】2010 年 Nike 世界籃球節（World Basketball Festival）在紐約舉行，Nike 要找一個方法，讓小球員學會職業籃球員那些複雜的招式。\n\n【點子】不是示範，而是把每個孩子自己的動作拍下來、分解成教學，再變成一張屬於他的海報。\n\n【執行】R/GA 做了一個新的平台 Film Room：由組合式舞台、高畫質攝影機、自製演算法與大尺寸印表機組成。舞台是以綠幕為底的半場籃球場（地點在 Rucker Park）。每個孩子在鏡頭前做出一個招牌動作，攝影機拍下後，程式把球員與背景分開，逐格分析並拆解動作，依此設計出 18 x 24 英寸的 Nike 海報，海報上是連續分格的孩子身影沿著一條紅色緞帶展開，並印著他的名字與動作名稱。案例板上寫著，孩子做完動作約 20 分鐘後，就拿著自己的海報離開。\n\n資料來源：\nhttps://www.dandad.org/awards/professional/2011/branding/18312/the-nike-film-room/\nhttps://portal-assets.imgix.net/archive/2011/stitched/2c082f7e5ce836c8a58232ff467e637f.jpg",
+  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜戶外類銅獅 Outdoor Bronze Lion｜代理商：R/GA, New York\n\n【背景】2010 年 Nike 世界籃球節（World Basketball Festival）在紐約舉行，Nike 要找一個方法，讓小球員學會職業籃球員那些複雜的招式。\n\n【點子】不是示範，而是把每個孩子自己的動作拍下來、分解成教學，再變成一張屬於他的海報。\n\n【執行】R/GA 做了一個新的平台 Film Room：由組合式舞台、高畫質攝影機、自製演算法與大尺寸印表機組成。舞台是以綠幕為底的半場籃球場，樣張海報上印著「RUCKER PARK, NYC」。每個孩子在鏡頭前做出一個招牌動作，攝影機拍下後，程式把球員與背景分開，逐格分析並拆解動作，依此設計出 18 x 24 英寸的 Nike 海報，海報上是連續分格的孩子身影沿著一條紅色緞帶展開，並印著他的名字與動作名稱。案例板上寫著，孩子做完動作約 20 分鐘後，就拿著自己的海報離開。\n\n資料來源：\nhttps://www.dandad.org/awards/professional/2011/branding/18312/the-nike-film-room/\nhttps://portal-assets.imgix.net/archive/2011/stitched/2c082f7e5ce836c8a58232ff467e637f.jpg",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2011, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 戶外類, Outdoor, 特技與現場廣告, Stunts & Live Advertising, 銅獅, Bronze Lion, Nike, 耐吉, R/GA, R/GA New York, 運動用品, 籃球, Basketball, 世界籃球節, World Basketball Festival, 紐約, New York, Rucker Park, 球場, 綠幕, Green Screen, 攝影機, 演算法, 動作分析, 即時印刷, 個人化海報, 客製化, 海報, 紅色緞帶, 教學, 小球員, 孩子, 籃球招式, Signature Moves, 美國, United States",
   "category": "行銷案例",
   "references": [
@@ -311,7 +313,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依 D&AD 頁與官方案例板整理；案例板上的成效（人數、後續計畫）未寫入。「約 20 分鐘」「18x24 英寸」出自案例板。Rucker Park 出自海報上的字樣。已搜爭議：搜「Nike Film Room R/GA Rucker Park posters controversy / fake / fraud / withdrawn」，沒有相關報導。"
+  "note": "官方全文需登入，內容依 D&AD 頁與官方案例板整理；案例板上的成效（人數、後續計畫）未寫入。「約 20 分鐘」「18x24 英寸」出自案例板。Rucker Park 出自海報上的字樣。已搜爭議：搜「Nike Film Room R/GA Rucker Park posters controversy / fake / fraud / withdrawn」，沒有相關報導。 2026-11-27 Opus 驗：核對案例板：2010 World Basketball Festival、18x24 英寸、約 20 分鐘皆相符；「地點在 Rucker Park」只出自海報字樣，改寫成看得到的描述。"
  },
  {
   "id": "ltwm-05043",
@@ -349,7 +351,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依官方案例板（英文）、Exame 與 Ads of the World（只有製作名單）整理；成效（發出的證件、媒體價值、被俱樂部採用等）與 Saatchi 內部獎項未寫入。「2010 年 9 月 1 日交綬帶給盧拉」出自 Exame；官方獎項名稱為 REPÚBLICA POPULAR DO CORINTHIANS，in 檔標題為 LOCKER ROOM CORINTHIANS（Behance 連結為此作品），以官方名稱為準。Behance 與 lovethework 全文打不開。已搜爭議：搜「Nike República Popular do Corinthians controversy / fake / fraud / withdrawn / polêmica」，沒有關於本作的爭議（只有 2025 年俱樂部與 Nike 合約風波，不相關）。盧拉為政治人物，作品只呈現他接受象徵性職位，沒有政治表態，照收。"
+  "note": "官方全文需登入，內容依官方案例板（英文）、Exame 與 Ads of the World（只有製作名單）整理；成效（發出的證件、媒體價值、被俱樂部採用等）與 Saatchi 內部獎項未寫入。「2010 年 9 月 1 日交綬帶給盧拉」出自 Exame；官方獎項名稱為 REPÚBLICA POPULAR DO CORINTHIANS，in 檔標題為 LOCKER ROOM CORINTHIANS（Behance 連結為此作品），以官方名稱為準。Behance 與 lovethework 全文打不開。已搜爭議：搜「Nike República Popular do Corinthians controversy / fake / fraud / withdrawn / polêmica」，沒有關於本作的爭議（只有 2025 年俱樂部與 Nike 合約風波，不相關）。盧拉為政治人物，作品只呈現他接受象徵性職位，沒有政治表態，照收。 2026-11-27 Opus 驗：核對：in 檔 Behance 連結即 República Popular do Corinthians，與官方 entry 同一件，標題差異不影響，通過。"
  },
  {
   "id": "ltwm-05121",
@@ -386,7 +388,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入。只打開了一篇西班牙文部落格（2010/12/27，描述廣告內容與標語）與官方案例板圖（只有一張字卡，說播出時間在國王耶誕演說前）；lovethework 頁只有得獎資料；adsspot 403、diariocritico 403。所以讀稿的資料偏少，「全國主要頻道」引自字卡英文原文 all the country 的 major TV channels。搜尋摘要說影片有「經濟危機」背景與預告片，但沒打開原頁，未寫入。圖用 YouTube maxresdefault（來源在搜尋結果裡，頁面本身沒打開）；官方 case board 只是一張黑底英文字卡，看不出點子，故沒用（程式會標「有 case board 沒用」）。已搜爭議：搜「Nike Shine Nadal Gasol Iniesta anuncio polémica / controversy / fake / withdrawn」，沒有相關報導。"
+  "note": "官方全文需登入。只打開了一篇西班牙文部落格（2010/12/27，描述廣告內容與標語）與官方案例板圖（只有一張字卡，說播出時間在國王耶誕演說前）；lovethework 頁只有得獎資料；adsspot 403、diariocritico 403。所以讀稿的資料偏少，「全國主要頻道」引自字卡英文原文 all the country 的 major TV channels。搜尋摘要說影片有「經濟危機」背景與預告片，但沒打開原頁，未寫入。圖用 YouTube maxresdefault（來源在搜尋結果裡，頁面本身沒打開）；官方 case board 只是一張黑底英文字卡，看不出點子，故沒用（程式會標「有 case board 沒用」）。已搜爭議：搜「Nike Shine Nadal Gasol Iniesta anuncio polémica / controversy / fake / withdrawn」，沒有相關報導。 2026-11-27 Opus 驗：核對：case board 只是黑底英文字卡；YouTube 圖 oEmbed 標題為「Nadal, Gasol, Iniesta. Anuncio Nike. Brilla. Ilumina tu país.」，確認是本支，保留。"
  },
  {
   "id": "ltwm-05111",

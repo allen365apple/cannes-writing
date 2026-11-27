@@ -40,12 +40,12 @@
    "https://www.dandad.org/awards/professional/2011/music-videos/18563/the-wilderness-downtown/",
    "https://www.lovethework.com/en/work/entries/the-wilderness-downtown-87928"
   ],
-  "image_url": "https://lh6.ggpht.com/SwosvzMfFmy1e3KBosbuDEKfp4XBzcXBMk5FV39MXGKX7kNXH4fedfooGidR5tQNGk-XVsGPfYuAbwphUDHSh4BQmQdPQGSdamw",
-  "image_shows": "專案網站的開場畫面：米白底色上用手繪線條寫著 Arcade Fire、THE WILDERNESS DOWNTOWN，下方小字是 An interactive film by Chris Milk、Built in HTML5（只是開場字卡，看不出互動玩法）",
+  "image_url": "https://docubase.mit.edu/wp-content/uploads/2013/11/wilderness-downtown-800x500.jpg",
+  "image_shows": "專案網站的開場畫面：米白底色上用手繪線條寫著 Arcade Fire、THE WILDERNESS DOWNTOWN，下方是輸入框「Enter the address of the home where you grew up」與 SEARCH 鈕，周圍有飛鳥剪影",
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依 Google Chrome 與 Google Maps 官方部落格、D&AD 作品說明與維基百科整理。圖是 Google Experiments 網站分享圖（開場字卡），官方案例板找不到可用大圖。已搜爭議：「Wilderness Downtown Cannes Lions controversy fraud withdrawn」，只見得獎報導，沒有造假、抄襲或撤獎指控。"
+  "note": "官方全文需登入，內容依 Google Chrome 與 Google Maps 官方部落格、D&AD 作品說明與維基百科整理。圖是 MIT Docubase 頁面的網站截圖（開場畫面、有輸入老家地址的欄位），官方案例板找不到可用大圖。已搜爭議：「Wilderness Downtown Cannes Lions controversy fraud withdrawn」，只見得獎報導，沒有造假、抄襲或撤獎指控。"
  },
  {
   "id": "ltwm-04729",
@@ -181,9 +181,9 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "新加坡電信 StarHub 的線上音樂店，在 42 間服飾店試衣間裝 RFID，帶進哪件衣服就播配合那件風格的歌",
+  "idea_one_liner": "新加坡電信 StarHub 的線上音樂店，在 42 間服飾店試衣間裝 RFID，帶進哪件衣服，就播配合那件風格的歌",
   "brand_display": "Musical Fitting Rooms（StarHub 線上音樂店）",
-  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜Promo & Activation類金獅 Promo & Activation Gold Lion、媒體類銀獅 Media Silver Lion、Promo & Activation類銀獅 Promo & Activation Silver Lion、直效類銅獅 Direct Bronze Lion｜代理商：DDB SINGAPORE\n\n【背景】StarHub 線上音樂店想吸引年輕人，次要目標是帶動網站流量與音樂下載。StarHub 是新加坡電信業者，2011 年 7 月才進入線上音樂市場。\n\n【洞察】案例板寫的洞察是：年輕人用聽的音樂和穿的衣服來定義自己，音樂與時尚是兩種很有力的自我表達方式。\n\n【點子】把兩件事合在一起：衣服決定配樂。試衣間會依年輕人手上這件衣服的風格推薦歌曲，讓他們聽到符合自己穿搭的音樂，也知道這家音樂店跟他們的生活有關。\n\n【執行】DDB Singapore 在 42 間年輕客人多的服飾店實施。案例板用六個步驟說明：（1）把 RFID 晶片掛在衣服上；（2）在試衣間裝 RFID 讀取器；（3）搭配指向性喇叭；（4）衣服一帶進試衣間，晶片觸發讀取器，播放與衣服風格相符的歌；（5）歌曲開始播放時，讀取器透過近距離簡訊傳到顧客手機；（6）活動涵蓋 16 種曲風、一萬多首歌。Trend Hunter 的報導提到，簡訊裡有歌名與購買的機會。案例板圖上有一名女孩站在試衣間裡，另有衣服掛著晶片、手機收到簡訊的示意。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/musical-fitting-rooms-248535\nhttps://www.lovethework.com/en/work/entries/musical-fitting-rooms-250828\nhttps://www.trendhunter.com/trends/starhub-music-store",
+  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜Promo & Activation類金獅 Promo & Activation Gold Lion、媒體類銀獅 Media Silver Lion、Promo & Activation類銀獅 Promo & Activation Silver Lion、直效類銅獅 Direct Bronze Lion｜代理商：DDB SINGAPORE\n\n【背景】StarHub 線上音樂店想吸引年輕人，次要目標是帶動網站流量與音樂下載。StarHub 是新加坡的電信業者。\n\n【洞察】案例板寫的洞察是：年輕人用聽的音樂和穿的衣服來定義自己，音樂與時尚是兩種很有力的自我表達方式。\n\n【點子】把兩件事合在一起：衣服決定配樂。試衣間會依年輕人手上這件衣服的風格推薦歌曲，讓他們聽到符合自己穿搭的音樂，也知道這家音樂店跟他們的生活有關。\n\n【執行】DDB Singapore 在 42 間年輕客人多的服飾店實施。案例板用六個步驟說明：（1）把 RFID 晶片掛在衣服上；（2）在試衣間裝 RFID 讀取器；（3）搭配指向性喇叭；（4）衣服一帶進試衣間，晶片觸發讀取器，播放與衣服風格相符的歌；（5）歌曲開始播放時，讀取器透過近距離簡訊傳到顧客手機；（6）活動涵蓋 16 種曲風、一萬多首歌。Trend Hunter 的報導提到，簡訊裡有歌名與購買的機會。案例板圖上有一名女孩站在試衣間裡，另有衣服掛著晶片、手機收到簡訊的示意。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/musical-fitting-rooms-248535\nhttps://www.lovethework.com/en/work/entries/musical-fitting-rooms-250828\nhttps://www.trendhunter.com/trends/starhub-music-store",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2011, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 推廣與活化類, Promo & Activation, 媒體類, Media, 直效類, Direct, 金獅, Gold Lion, 銀獅, Silver Lion, 銅獅, Bronze Lion, StarHub, StarHub Online Music Store, 線上音樂店, Online Music Store, 電信, DDB Singapore, DDB, 新加坡, Singapore, 音樂, 時尚, 服飾店, 零售, Retail, 試衣間, Fitting Room, 裝置, RFID, RFID 晶片, RFID 讀取器, 指向性喇叭, Directional Speaker, 簡訊, SMS, 近距離簡訊, 年輕人, Youth, 互動, 個人化, 風格配對",
   "category": "行銷案例",
   "references": [
@@ -196,7 +196,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依官方案例板與 Trend Hunter 整理。案例板上印的成效數字（推薦歌曲數、點擊率、下載成長）未寫入。官方報名名稱 MUSICAL FITTING ROOMS（in 檔標題 ROOS 為截斷）。WebSearch 摘要提到簡訊用於促成購買，Trend Hunter 說簡訊含歌名與購買機會，兩者與案例板一致，但搜尋摘要未寫入。已搜爭議：「StarHub Musical Fitting Rooms controversy fake withdrawn」，沒有造假、抄襲或撤獎指控。"
+  "note": "官方全文需登入，內容依官方案例板與 Trend Hunter 整理。案例板上印的成效數字（推薦歌曲數、點擊率、下載成長）未寫入。官方報名名稱 MUSICAL FITTING ROOMS（in 檔標題 ROOS 為截斷）。簡訊內容依 Trend Hunter（歌名與購買機會），搜尋摘要的其他說法未寫入。已搜爭議：「StarHub Musical Fitting Rooms controversy fake withdrawn」，沒有造假、抄襲或撤獎指控。"
  },
  {
   "id": "ltwm-04778",
@@ -222,7 +222,7 @@
   "awards_unverified": [],
   "idea_one_liner": "Google 把 17 間知名美術館搬上網：用推車拍下館內 360 度街景，再配上超高解析度名畫，在家就能逛",
   "brand_display": "Google Art Project",
-  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜Cyber類金獅 Cyber Gold Lion｜代理商：GOOGLE, Mountain View\n\n【背景】Google 的街景（Street View）一直是用車子拍街道，大家想看的地點越來越廣。這個專案由一群愛藝術的 Google 員工發起，起初是工程師的「20% 專案」（公司給的自由發想時間），做了約 18 個月。\n\n【點子】把街景技術帶進室內，和全球 17 間重要美術館合作，讓人不用出門就能逛展，也能把名畫放大到看見筆觸。\n\n【執行】車子裝不進美術館，團隊改做一台小型推車，暱稱 Trolley，上面有全景相機拍 360 度畫面、雷射測量與牆面的距離、動態感測器記錄位置，再配硬碟與筆電。拍好的畫面接起來，做出超過 385 個展間的導覽，可以在 Google 地圖拖曳小人進入館內，也能從館外街景走進去。Art Project 網站另外放了 1000 多件高解析度作品；每間美術館各挑一件作品用「十億畫素級」（gigapixel）技術拍攝，TechCrunch 報導每張約 70 億畫素，可以看到肉眼看不到的筆觸細節。網站還有「建立自己的藝術收藏」功能：把任一件作品的某個視角存起來、加上評論並分享。參與的館包括 MoMA、大都會藝術博物館、烏菲茲美術館、泰特、凡高美術館、凡爾賽宮等。\n\n資料來源：\nhttps://maps.googleblog.com/2011/02/street-view-takes-you-inside-museums.html\nhttps://techcrunch.com/2011/02/01/google-goes-high-brow-unveils-museum-art-project-powered-by-street-view-indoor-tech-2\nhttps://www.lovethework.com/en/work/entries/art-project-87927",
+  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜Cyber類金獅 Cyber Gold Lion｜代理商：GOOGLE, Mountain View\n\n【背景】Google 的街景（Street View）一直是用車子拍街道，大家想看的地點越來越廣。這個專案由一群愛藝術的 Google 員工發起，起初是工程師的「20% 專案」（公司給的自由發想時間），做了約 18 個月。\n\n【點子】把街景技術帶進室內，和全球 17 間重要美術館合作，讓人不用出門就能逛展，也能把名畫放大到看見筆觸。\n\n【執行】街景平常靠車頂裝設備的車子拍，進不了美術館，團隊改做一台小型推車，暱稱 Trolley，上面有全景相機拍 360 度畫面、雷射測量與牆面的距離、動態感測器記錄位置，再配硬碟與筆電。拍好的畫面接起來，做出超過 385 個展間的導覽，可以在 Google 地圖拖曳小人進入館內，也能從館外街景走進去。Art Project 網站另外放了 1000 多件高解析度作品；每間美術館各挑一件作品用「十億畫素級」（gigapixel）技術拍攝，TechCrunch 報導每張約 70 億畫素，可以看到肉眼看不到的筆觸細節。網站還有「建立自己的藝術收藏」功能：把任一件作品的某個視角存起來、加上評論並分享。參與的館包括 MoMA、大都會藝術博物館、烏菲茲美術館、泰特、凡高美術館、凡爾賽宮等。\n\n資料來源：\nhttps://maps.googleblog.com/2011/02/street-view-takes-you-inside-museums.html\nhttps://techcrunch.com/2011/02/01/google-goes-high-brow-unveils-museum-art-project-powered-by-street-view-indoor-tech-2\nhttps://www.lovethework.com/en/work/entries/art-project-87927",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2011, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 金獅, Gold Lion, Cyber Gold Lion, Google, Google Art Project, Google Geo, 藝術, 美術館, Museum, 博物館, 名畫, 數位典藏, Street View, 街景, Google Maps, Google 地圖, 室內街景, 推車, Trolley, 360 度全景, 全景相機, 雷射, gigapixel, 十億畫素, 高解析度, 超高解析度圖片, 網站, 互動網頁, 虛擬導覽, Virtual Tour, 20% 專案, MoMA, 大都會藝術博物館, 烏菲茲美術館, Uffizi, 泰特, Tate, 凡高美術館, 凡爾賽宮, 美國, United States",
   "category": "行銷案例",
   "references": [
@@ -268,7 +268,7 @@
   "awards_unverified": [],
   "idea_one_liner": "泰國 Shieldtox 殺蟲噴霧的平面廣告，手捏著青蛙、變色龍，牠們的長舌頭像噴霧一樣射向遠處",
   "brand_display": "Shieldtox Naturgard（Chameleon、Frog 平面廣告）",
-  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜Press類金獅 Press Gold Lion、戶外類銀獅 Outdoor Silver Lion｜代理商：EURO RSCG BANGKOK\n\n【得獎資料】此作品只找到圖片與基本資料，沒有找到官方文字說明，以下依作品畫面解讀。\n\n【點子】青蛙、變色龍都是靠長舌頭抓蟲的天敵。廣告拿牠們來比喻產品：Shieldtox Naturgard 殺蟲噴霧，標語是「Natural Protection」。\n\n【執行】兩張平面廣告同一構圖，淺灰色背景。一張是一隻手從畫面左邊握住青蛙，指頭壓著牠的頭、捏著身體，青蛙嘴巴張開，粉紅色的舌頭筆直地朝右邊伸出一長條，舌尖微微捲起；另一張是同樣的手握著綠色的變色龍，尾巴捲成螺旋，舌頭同樣筆直伸出。兩張畫面右下角都是斜體字「Natural Protection」，旁邊是綠色的 Shieldtox 噴霧罐。舌頭射出的樣子像噴罐噴出的一道線，手握住動物的姿勢也像握著噴罐。\n\n資料來源：\nhttps://www.oneclub.org/awards/theoneshow/-award/13212/frog/\nhttps://www.sostav.ru/columns/canneslions2009/2011/0027/\nhttps://www.adsoftheworld.com/campaigns/frog-25a04554-fc24-4f28-a8dd-991b24b53614\nhttps://www.lovethework.com/en/work/entries/frog-261069\nhttps://www.lovethework.com/en/work/entries/chameleon-261100",
+  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜Press類金獅 Press Gold Lion、戶外類銀獅 Outdoor Silver Lion｜代理商：EURO RSCG BANGKOK\n\n【點子】（依畫面解讀）青蛙、變色龍都以長舌頭捕捉昆蟲。廣告拿牠們的舌頭來比喻產品，Shieldtox Naturgard 殺蟲噴霧，標語是「Natural Protection」。\n\n【執行】兩張平面廣告同一構圖，淺灰色背景。一張是一隻手從畫面左邊握住青蛙，指頭壓著牠的頭、捏著身體，青蛙嘴巴張開，粉紅色的舌頭筆直地朝右邊伸出一長條，舌尖微微捲起；另一張是同樣的手握著綠色的變色龍，尾巴捲成螺旋，舌頭同樣筆直伸出。兩張畫面右下角都是斜體字「Natural Protection」，旁邊是綠色的 Shieldtox 噴霧罐。舌頭射出的樣子像噴罐噴出的一道線，手握住動物的姿勢也像握著噴罐。\n\n資料來源：\nhttps://www.oneclub.org/awards/theoneshow/-award/13212/frog/\nhttps://www.sostav.ru/columns/canneslions2009/2011/0027/\nhttps://www.adsoftheworld.com/campaigns/frog-25a04554-fc24-4f28-a8dd-991b24b53614\nhttps://www.lovethework.com/en/work/entries/frog-261069\nhttps://www.lovethework.com/en/work/entries/chameleon-261100",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2011, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 報刊類, Press, 戶外類, Outdoor, 金獅, Gold Lion, 銀獅, Silver Lion, Press Gold Lion, Outdoor Silver Lion, Shieldtox, Shieldtox Naturgard, Reckitt Benckiser, 殺蟲劑, 殺蟲噴霧, Insect Repellent, 居家用品, Euro RSCG, Euro RSCG Bangkok, Havas, 泰國, Thailand, 曼谷, Bangkok, 平面廣告, 海報, Print, 攝影, 青蛙, Frog, 變色龍, Chameleon, 舌頭, 手, 噴霧罐, 天敵, 視覺比喻, Natural Protection, 天然防護",
   "category": "行銷案例",
   "references": [
@@ -323,12 +323,12 @@
   "awards_unverified": [],
   "idea_one_liner": "綠色和平香港的無車日海報，用兩道平行的輪胎印畫成插畫：一道是開車的樂趣，一道是氣候災難的毀滅",
   "brand_display": "綠色和平（Greenpeace）香港無車日",
-  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜Press類金獅 Press Gold Lion、Press類銀獅 Press Silver Lion、戶外類銅獅 Outdoor Bronze Lion｜代理商：LEO BURNETT, Hong Kong\n\n【背景】汽車是溫室氣體的主要來源之一，地球越熱，極端天氣越常發生，會威脅各地人的生命。綠色和平每年都推廣無車日（9 月 22 日），希望人們停開一天車；他們從 2009 年起把無車日帶進香港。\n\n【策略】要讓人明白「開車」與「氣候變遷」是連在一起的。\n\n【點子】用一組平行的輪胎印當畫面：一條輪胎印裡畫的是開車能帶來的樂趣，另一條輪胎印裡畫的是氣候變遷帶來的死亡與破壞。同一個動作，兩種結果。\n\n【執行】Leo Burnett Hong Kong 做成黑白手繪風的平面海報。官方報名的作品名有 Melt、Drought、Flood 三張，這裡看過的是水災那一張：畫面上半部是一道斜斜的輪胎印，印紋裡畫著公路、一輛輛車、咖啡店、精品店、民宅、餐廳和汽車旅館；下半部同一種輪胎印，印紋變成翻騰的巨浪，把房子和雜物沖毀。海報左上角是綠色和平的標誌與無車日網址；下方用繁體字寫著「一路駕駛，同時一路摧毀。每天，私家車排放二氧化碳高達 2992 噸，加劇氣候暖化，引致水患成災。9.22 支持無車日」。\n\n資料來源：\nhttps://www.dandad.org/work/d-ad-awards-archive/melt\nhttps://www.greenpeace.org/hongkong/issues/climate/update/40015/世界無車日由來與歷史？香港如何實現綠色交通？/\nhttps://www.lovethework.com/en/work/entries/flood-261070\nhttps://www.lovethework.com/en/work/entries/drought-261099",
+  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜Press類金獅 Press Gold Lion、Press類銀獅 Press Silver Lion、戶外類銅獅 Outdoor Bronze Lion｜代理商：LEO BURNETT, Hong Kong\n\n【背景】汽車是溫室氣體的主要來源之一，地球越熱，極端天氣越常發生，會威脅各地人的生命。綠色和平每年都推廣無車日（9 月 22 日），希望人們停開一天車；他們從 2009 年起把無車日帶進香港。\n\n【策略】要讓人明白「開車」與「氣候變遷」是連在一起的。\n\n【點子】用一組平行的輪胎印當畫面：一條輪胎印裡畫的是開車能帶來的樂趣，另一條輪胎印裡畫的是氣候變遷帶來的死亡與破壞。同一個動作，兩種結果。\n\n【執行】Leo Burnett Hong Kong 做成黑白手繪風的平面海報。官方報名的作品名有 Melt、Drought、Flood 三張，這裡看過的是水災那一張：畫面上半部是一道斜斜的輪胎印，印紋裡畫著公路、一輛輛車、咖啡店、精品店、民宅、餐廳和汽車旅館；下半部同一種輪胎印，印紋變成翻騰的巨浪，把房子和雜物沖毀。海報左上角是綠色和平的標誌與無車日網址；下方用繁體字寫著「一路駕駛，同時一路摧毀。每天，私家車排放二氧化碳高達 2992 噸，加劇氣候暖化，引致水患成災。9.22 支持無車日」。\n\n資料來源：\nhttps://www.dandad.org/work/d-ad-awards-archive/melt\nhttps://www.greenpeace.org/hongkong/issues/climate/update/40015/%E4%B8%96%E7%95%8C%E7%84%A1%E8%BB%8A%E6%97%A5%E7%94%B1%E4%BE%86%E8%88%87%E6%AD%B7%E5%8F%B2%EF%BC%9F%E9%A6%99%E6%B8%AF%E5%A6%82%E4%BD%95%E5%AF%A6%E7%8F%BE%E7%B6%A0%E8%89%B2%E4%BA%A4%E9%80%9A%EF%BC%9F/\nhttps://www.lovethework.com/en/work/entries/flood-261070\nhttps://www.lovethework.com/en/work/entries/drought-261099",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2011, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 報刊類, Press, 戶外類, Outdoor, 金獅, Gold Lion, 銀獅, Silver Lion, 銅獅, Bronze Lion, Greenpeace, 綠色和平, 無車日, Car Free Day, Leo Burnett, Leo Burnett Hong Kong, 香港, Hong Kong, 公益, 環保, 非營利組織, NGO, 氣候變遷, 氣候暖化, Climate Change, 二氧化碳, 碳排放, 汽車, 開車, 平面廣告, 海報, Print, 插畫, 黑白插畫, 手繪, 輪胎印, 輪胎痕, Tire Track, 對比, 水災, 洪水, 乾旱, 融冰",
   "category": "行銷案例",
   "references": [
    "https://www.dandad.org/work/d-ad-awards-archive/melt",
-   "https://www.greenpeace.org/hongkong/issues/climate/update/40015/世界無車日由來與歷史？香港如何實現綠色交通？/",
+   "https://www.greenpeace.org/hongkong/issues/climate/update/40015/%E4%B8%96%E7%95%8C%E7%84%A1%E8%BB%8A%E6%97%A5%E7%94%B1%E4%BE%86%E8%88%87%E6%AD%B7%E5%8F%B2%EF%BC%9F%E9%A6%99%E6%B8%AF%E5%A6%82%E4%BD%95%E5%AF%A6%E7%8F%BE%E7%B6%A0%E8%89%B2%E4%BA%A4%E9%80%9A%EF%BC%9F/",
    "https://www.lovethework.com/en/work/entries/flood-261070",
    "https://www.lovethework.com/en/work/entries/drought-261099"
   ],
@@ -382,7 +382,7 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "綠色和平把新造的彩虹勇士號拆成約 40 萬件零件，開網站賣給民眾，買家拿到一張擁有該零件的證書",
+  "idea_one_liner": "綠色和平把新船彩虹勇士號拆成約 40 萬件零件，開網站賣給民眾，買家拿到一張擁有該零件的證書",
   "brand_display": "綠色和平（Greenpeace）A New Warrior",
   "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜Cyber類銀獅 Cyber Silver Lion、Promo & Activation類銀獅 Promo & Activation Silver Lion×2、公關類銅獅 PR Bronze Lion｜代理商：DDB PARIS\n\n【背景】1978 年起，彩虹勇士號幫綠色和平在許多環保行動中立下戰績。這艘船已用到壽命盡頭，組織需要一艘專為環保行動打造的新船。難題是綠色和平不收政府與企業的捐款，要蓋新船只能向各國的一般人募款。\n\n【點子】讓支持者「買下並擁有」新船的一小塊：把整艘船拆成零件上架，從 1 歐元的叉子到 7000 歐元的海水淡化機都有，把捐款變成像逛購物網站一樣的事。\n\n【執行】DDB Paris 與網站製作公司 Les 84 做了電商網站 anewwarrior.com，約 40 萬件零件上架，價格 1 歐元到 7000 歐元。網站讓訪客用鏡頭做整艘船的虛擬導覽，配有海洋與船隻的音效；可以看船的設計圖，也透過德國造船廠的網路攝影機看施工進度。船的立體圖會顯示目前捐了多少、還缺哪些，讓人看得到自己的錢買到什麼。付款後買家收到所有權證書，名字也會出現在真船上的「貢獻牆」。Cool Hunting 的報導把這種賣船方式形容為「大富翁式」的出售。\n\n資料來源：\nhttps://www.directnewideas.com/magazine/a_new_warrior/?id=166\nhttps://www.dandad.org/awards/professional/2012/direct/19047/a-new-warrior/\nhttps://coolhunting.com/tech/rainbow-warrior\nhttps://www.complex.com/sports/2011/03/build-a-boat-the-rainbow-warrior-takes-shape\nhttps://www.lovethework.com/en/work/entries/a-new-warrior-252589",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2011, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 推廣與活化類, Promo & Activation, 公關類, PR, 銀獅, Silver Lion, 銅獅, Bronze Lion, Greenpeace, 綠色和平, 彩虹勇士號, Rainbow Warrior, DDB Paris, DDB, Les 84, 法國, France, 公益, 環保, 非營利組織, NGO, 募款, Fundraising, 捐款, 電商, E-Commerce, 網站, 互動網頁, 虛擬導覽, 3D, 所有權證書, 證書, Certificate, 社群分享, 船, 造船, 網路攝影機, Webcam, 貢獻牆",
@@ -394,12 +394,12 @@
    "https://www.complex.com/sports/2011/03/build-a-boat-the-rainbow-warrior-takes-shape",
    "https://www.lovethework.com/en/work/entries/a-new-warrior-252589"
   ],
-  "image_url": "",
-  "image_shows": "（無圖）",
+  "image_url": "https://assets.directnewideas.com/3687h.jpg",
+  "image_shows": "作品網站截圖：綠色的彩虹勇士號停在海面上，左上角寫著建造進度百分比，右上有「GO TO E-SHOP AND BUY A PIECE」按鈕，下方有 ABOUT、LIVE CONSTRUCTION、THE CONTRIBUTORS 選單",
   "text_source_level": 3,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方全文需登入，內容依 Direct New Ideas（作品資料）、D&AD 說明、Cool Hunting 與 Complex 的報導整理。沒有找到好圖：in 檔候選圖只有 120×90 縮圖；Vimeo 預告片縮圖是別的畫面（橡皮艇突襲鏡頭）、Cool Hunting 圖已被換掉，所以 image_url 留空，需要本機補圖。成效數字（造訪、售出件數、募得金額）未寫入。已搜爭議：「Greenpeace A New Warrior donation website controversy criticism misleading certificate」，只見組織其他事件的批評，沒有針對這個作品的造假、抄襲或撤獎指控。"
+  "note": "官方全文需登入，內容依 Direct New Ideas（作品資料）、D&AD 說明、Cool Hunting 與 Complex 的報導整理。官方案例板找不到可用圖（in 檔候選圖只有 120×90 縮圖，Vimeo 縮圖是別的畫面），圖用 Direct New Ideas 頁面上的作品網站截圖，尺寸不大。成效數字（造訪、售出件數、募得金額）未寫入。已搜爭議：「Greenpeace A New Warrior donation website controversy criticism misleading certificate」，只見組織其他事件的批評，沒有針對這個作品的造假、抄襲或撤獎指控。"
  },
  {
   "id": "ltwm-04885",
@@ -432,7 +432,7 @@
   "awards_unverified": [],
   "idea_one_liner": "Google 辦網站讓兩支產品示範影片對打、網友投票，示範拍得像短片，如沙發加投影機在客廳開完 66 號公路",
   "brand_display": "Google Demo Slam",
-  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜影片類金獅 Film Gold Lion、Cyber類銀獅 Cyber Silver Lion｜代理商：JOHANNES LEONARDO, New York\n\n【背景】Google 有很多產品功能，一般人覺得是工具、不好玩。Demo Slam 的目標之一是改變 Chrome 與街景只是實用工具的印象，讓人看到它們有趣的一面。\n\n【點子】把產品示範變成比賽：網站上兩支示範影片並排播放，大家投票選出比較好的一支。有些影片是 Google 工程師做的，任何人也能投稿，想當「Demo Slam 冠軍」。\n\n【執行】站在 2010 年 10 月上線，之後陸續出現各種創意示範。官方報名的有 Rushmore、Extra Spicy、Route 66 等幾支。Rushmore 是四個人扮成總統山的樣子，演得太像，連 Google Goggles（用相機拍照辨識物體的功能）都把他們認成真的總統山。Extra Spicy 是兩位女生用 Google Translate 讓電腦用印度語幫她們點印度菜。Route 66 是在客廳放兩張沙發、一台筆電和一台投影機，朋友們一格一格點 Google Street View，把芝加哥到聖塔莫尼卡碼頭這條 2448 英里的 66 號公路「開」完（導演 Tim Abshire，Rabbit Content 製作）。\n\n資料來源：\nhttps://techcrunch.com/?p=248650\nhttps://www.selfstorming.com/tools/libraries/campaigns/google-chrome-s-demo-slam-route-66\nhttps://www.lovethework.com/en/work/entries/google-demo-slam-87929\nhttps://www.lovethework.com/en/work/entries/demo-slam-chubby-bunny-87896",
+  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜影片類金獅 Film Gold Lion、Cyber類銀獅 Cyber Silver Lion｜代理商：JOHANNES LEONARDO, New York\n\n【背景】Google 有很多產品功能，一般人覺得是工具、不好玩。Demo Slam 的目標之一是改變 Chrome 與街景只是實用工具的印象，讓人看到它們有趣的一面。\n\n【點子】把產品示範變成比賽：網站上兩支示範影片並排播放，大家投票選出比較好的一支。有些影片是 Google 工程師做的，任何人也能投稿，想當「Demo Slam 冠軍」。\n\n【執行】網站在 2010 年 10 月上線，之後陸續出現各種創意示範。官方報名的有 Rushmore、Extra Spicy、Route 66 等幾支。Rushmore 是四個人扮成總統山的樣子，演得太像，連 Google Goggles（用相機拍照辨識物體的功能）都把他們認成真的總統山。Extra Spicy 是兩位女生用 Google Translate 讓電腦用印度語幫她們點印度菜。Route 66 是在客廳放兩張沙發、一台筆電和一台投影機，朋友們一格一格點 Google Street View，把芝加哥到聖塔莫尼卡碼頭這條 2448 英里的 66 號公路「開」完（導演 Tim Abshire，Rabbit Content 製作）。\n\n資料來源：\nhttps://techcrunch.com/?p=248650\nhttps://www.selfstorming.com/tools/libraries/campaigns/google-chrome-s-demo-slam-route-66\nhttps://www.lovethework.com/en/work/entries/google-demo-slam-87929\nhttps://www.lovethework.com/en/work/entries/demo-slam-chubby-bunny-87896",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2011, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片類, Film, Cyber類, Cyber, 金獅, Gold Lion, 銀獅, Silver Lion, Google, Google Innovations, Demo Slam, Johannes Leonardo, 美國, United States, 紐約, New York, 科技, 網站, 互動網頁, 投票, 網友投稿, 對決, 產品示範, Product Demo, 短片, 網路影片, Google Chrome, Street View, 街景, Google Goggles, Google Translate, 總統山, Mount Rushmore, 66 號公路, Route 66, 沙發, 投影機, 公路旅行, 遊戲化, Gamification",
   "category": "行銷案例",
   "references": [
@@ -472,7 +472,7 @@
   "awards_unverified": [],
   "idea_one_liner": "Google 借民謠歌手 Bob Dylan 舉字卡唱歌的老影片，每句歌詞都在 Google Instant 邊打字邊跳出搜尋結果",
   "brand_display": "Google Instant × Bob Dylan",
-  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜影片類銅獅 Film Bronze Lion｜代理商：JOHANNES LEONARDO, New York\n\n【背景】Google 在 2010 年 9 月的搜尋發表會上推出 Google Instant（輸入的同時就即時顯示搜尋結果的功能）。Marissa Mayer 在發表會上播放了這支影片。\n\n【點子】Bob Dylan 有一支著名的音樂片段：他一邊唱〈Subterranean Homesick Blues〉，一邊把寫著歌詞關鍵字的手寫字卡一張張丟下。字卡呈現的就是他正在唱的字，跟 Google Instant 邊打字邊顯示結果很像，所以用它來示範這個功能。\n\n【執行】影片約 45 秒，在 Dylan 的影片片段與一個人用 Google Instant 查詢歌詞的畫面間切換：Dylan 唱什麼，畫面上的搜尋框就打出那句歌詞，打到一半建議結果已經跳出來，下方出現這首歌的搜尋結果。案例板上的畫面是搜尋框打著「I'm on the pavement」，自動補全成「thinking about the government」，結果顯示 Bob Dylan 的〈Subterranean Homesick Blues〉。Dylan 的原始片段出自 D.A. Pennebaker 1967 年的紀錄片《Don't Look Back》。\n\n資料來源：\nhttps://techcrunch.com/2010/09/08/google-instant-bob-dylan-ad/amp/\nhttps://www.openculture.com/2010/09/bob_dylan_in_a_google_instant.html\nhttps://www.lovethework.com/en/work/entries/google-instant-with-bob-dylan-87909",
+  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜影片類銅獅 Film Bronze Lion｜代理商：JOHANNES LEONARDO, New York\n\n【背景】Google 在 2010 年 9 月的搜尋發表會上推出 Google Instant（輸入的同時就即時顯示搜尋結果的功能）。Marissa Mayer 在發表會上播放了這支影片。\n\n【點子】Bob Dylan 有一支著名的音樂片段：他一邊唱〈Subterranean Homesick Blues〉，一邊翻動寫著歌詞關鍵字的手寫字卡。字卡呈現的就是他正在唱的字，跟 Google Instant 邊打字邊顯示結果很像，所以用它來示範這個功能。\n\n【執行】影片約 45 秒，在 Dylan 的影片片段與一個人用 Google Instant 查詢歌詞的畫面間切換：Dylan 唱什麼，畫面上的搜尋框就打出那句歌詞，打到一半建議結果已經跳出來，下方出現這首歌的搜尋結果。案例板上的畫面是搜尋框打著「I'm on the pavement」，自動補全成「thinking about the government」，結果顯示 Bob Dylan 的〈Subterranean Homesick Blues〉。Dylan 的原始片段出自 D.A. Pennebaker 1967 年的紀錄片《Don't Look Back》。\n\n資料來源：\nhttps://techcrunch.com/2010/09/08/google-instant-bob-dylan-ad/amp/\nhttps://www.openculture.com/2010/09/bob_dylan_in_a_google_instant.html\nhttps://www.lovethework.com/en/work/entries/google-instant-with-bob-dylan-87909",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2011, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片類, Film, 銅獅, Bronze Lion, Film Bronze Lion, Google, Google Instant, Google Instant Search, 搜尋, 搜尋引擎, Search, 即時搜尋, Bob Dylan, Subterranean Homesick Blues, 音樂, 歌詞, 字卡, Flash Card, 致敬, Don't Look Back, D.A. Pennebaker, 紀錄片, Johannes Leonardo, 美國, United States, 紐約, New York, 電視廣告, TVC, 產品示範, 科技, 網路, 打字",
   "category": "行銷案例",
   "references": [
@@ -509,9 +509,9 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "綠色和平把 84000 雙用過的免洗筷搭成樹林，放在北京商圈，讓路人看到免洗筷原來就是砍掉的樹",
+  "idea_one_liner": "綠色和平把 84000 雙用過的免洗筷搭成樹林，放在北京商圈，讓路人看到，免洗筷原來就是砍掉的樹",
   "brand_display": "綠色和平（Greenpeace）Disposable Forest",
-  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜設計類銅獅 Design Bronze Lion｜代理商：OGILVY BEIJING\n\n【背景】中國每十秒就有一棵樹被砍，供應全國每天對免洗筷的需求。Adobo 報導寫：2009 年中國用掉 230 億雙免洗木筷，相當於 150 萬棵樹，而中國每人平均的林地排名全球第 139 名。\n\n【點子】既然免洗筷是樹變來的，就把用過的筷子變回樹。\n\n【執行】Ogilvy Beijing 與綠色和平，加上在地藝術家徐銀海（Yinhai Xu）和來自 20 所大學的 200 多名志工，從餐廳收集用過、消毒過的免洗木筷（案例板寫 84000 雙），拼成約 5 公尺高的一片筷子樹林。2010 年 12 月 18 到 20 日放在北京的商場「The Place」外面。現場有一塊木牌，請人簽名承諾拒用免洗筷，也發了數百雙可重複使用的環保筷；案例板的小圖裡還有樹墩造型、頂上有投筷孔的箱子。Ogilvy 另外做了一個網站，每有一個人在網站上承諾，網上的樹就會長出一片綠葉。\n\n資料來源：\nhttps://www.adobomagazine.com/?p=6192\nhttps://www.commarts.com/project/15128/greenpeace\nhttps://www.campaignasia.com/article/greenpeace-plants-disposable-forest-in-beijing-in-new-campaign/mdjd68nxdo5hiaydgr5nmj3t7g\nhttps://www.lovethework.com/en/work/entries/disposable-forest-243009",
+  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜設計類銅獅 Design Bronze Lion｜代理商：OGILVY BEIJING\n\n【背景】中國每十秒就有一棵樹被砍，供應全國每天對免洗筷的需求。Adobo 報導寫：2009 年中國用掉 230 億雙免洗木筷，相當於 150 萬棵樹，而中國每人平均的林地排名全球第 139 名。\n\n【點子】既然免洗筷是樹變來的，就把用過的筷子變回樹。\n\n【執行】Ogilvy Beijing 與綠色和平，加上在地藝術家徐銀海（Yinhai Xu）和來自 20 所大學的 200 多名志工，從餐廳收集用過、消毒過的免洗木筷（案例板寫 84000 雙），拼成約 5 公尺高的一片筷子樹林。2010 年 12 月 18 到 20 日放在北京的商場「The Place」外面。現場有板子，請人簽名承諾拒用免洗筷，也發了數百雙可重複使用的環保筷；案例板的小圖裡還有樹墩造型、頂上有投筷孔的箱子。Ogilvy 另外做了一個網站，每有一個人在網站上承諾，網上的樹就會長出一片綠葉。\n\n資料來源：\nhttps://www.adobomagazine.com/?p=6192\nhttps://www.commarts.com/project/15128/greenpeace\nhttps://www.campaignasia.com/article/greenpeace-plants-disposable-forest-in-beijing-in-new-campaign/mdjd68nxdo5hiaydgr5nmj3t7g\nhttps://www.lovethework.com/en/work/entries/disposable-forest-243009",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2011, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 設計類, Design, 環境設計, Environmental Design, 銅獅, Bronze Lion, Design Bronze Lion, Greenpeace, 綠色和平, Ogilvy, Ogilvy Beijing, 北京, Beijing, 中國, China, 公益, 環保, 非營利組織, NGO, 森林, 砍樹, 免洗筷, Disposable Chopsticks, 筷子, 筷子樹, 裝置, 裝置藝術, 戶外裝置, 回收, 再利用, Recycle, 樹, 商圈, 簽名承諾, Pledge, 環保筷, 志工, 藝術家, 網站, 綠葉",
   "category": "行銷案例",
   "references": [
