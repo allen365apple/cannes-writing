@@ -13,7 +13,7 @@
 - 沒有圖
 
 ## b059 ltwm-05899 URBAN ART GALLERY
-- uncertain：unter 所說的與 Citroën 合辦導覽、非法塗鴉減少屬後續成效，未寫入。官方 case board 圖是影片截圖（海線大橋與紅綠燈），看不出點子，沒用。
+- uncertain： Hunter 所說的與 Citroën 合辦導覽、非法塗鴉減少屬後續成效，未寫入。官方 case board 圖是影片截圖（大橋與紅綠燈），看不出點子，沒用。
 - 沒有圖
 
 ## b059 ltwm-05903 VOLVO ON CALL
@@ -24,6 +24,5 @@
 - 沒有圖
 
 ## b059 ltwm-05905 WALKERS KILL COUNT
-- 一句話連續中文 16 字
 - 沒有圖
 
