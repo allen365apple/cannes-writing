@@ -169,3 +169,10 @@
 - 來源偏少（參考）：b056 05845 Absynthe Minded 只有一篇越南語部落格、05848 SPERM VISUALIZER 互動版沒寫、05841 Panasonic 官方四件只看到三張（缺 Fired）；b057 05865、05862 單一報導；b058 05872 只有 artdaily；b058 05873 JCDecaux 頁寫 2013 年，讀稿不寫日期。
 - 圖不理想：沒有圖 b057 05866、05870（另不收件 05859、05867、05888）；偏弱 05858（Google 搜尋畫面）、05865（字卡）、05880（維基村景照）、05885、05879、05872（看不出點子）、05892 偏小。待本機補。
 - 【爭議】0；撤獎 0；重複 0。
+
+## 2026-11-27 雲端第 2 輪 b059–b060（Sonnet 寫、Opus 驗）
+- 仍 uncertain 4（待本機）：b059 ltwm-05898 UNUSUALLY WIRELESS SOUND（廣播，needs_audio，adsspot 403）；b059 05899 URBAN ART GALLERY（缺實際做法細節，只有 Trend Hunter 短文）；b060 05909 XFM Naked Breakfast（廣播，needs_audio，官方 Ad Break 1–3 三則）；b060 05910 Ford GPS（廣播，needs_audio，音檔 https://www.youtube.com/watch?v=eyyHBlygkBA）。
+- 驗收員補強：b059 05903 VOLVO ON CALL 補 mobiforge 確認 Mobiento 做 App，拿掉 uncertain；05904 VW 橘子箱／檸檬箱兩說並列；05894 Tuborg 刪推測句；b060 05913 AT&T、05908 失蹤兒童補來源。
+- 參考：b059 05893 Mr. Pizza 韓國觀眾誤以為真紀錄片（寫手、驗收員都判斷不算爭議）；05894 in 檔標題 Tuborg Bottle Easy Open，官方 TUBORG BOTTLE；05901 in 檔品牌欄空白，用官方 Vårdapoteket；05903 in 檔同作品兩座 Mobile 銅獅列兩次，照原樣；05895 類別 in 檔 Best Use of Digital Media vs 官方媒體類，照 in 檔。
+- 圖不理想：沒有圖 b059 05895 Turkcell、05896 Twix、05898、05899、05903 Volvo、05905 Walking Dead；b060 05906 Wi-Fiction、05909、05910、05913 AT&T（官方只有 logo 已拿掉）；偏弱 b060 05907 Sour Patch Kids、05908。待本機補。
+- 【爭議】0；撤獎 0；重複 0。
