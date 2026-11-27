@@ -1,0 +1,530 @@
+[
+ {
+  "id": "ltwm-04720",
+  "year": 2011,
+  "tier": "GRAND PRIX / TITANIUM",
+  "categories": [],
+  "title": "THE WILDERNESS DOWNTOWN",
+  "brand": "GOOGLE CREATIVE LAB",
+  "agency": "GOOGLE CREATIVE LAB CALIFORNIA",
+  "links": [
+   "https://www.dandad.org/awards/professional/2011/digital-design/18364/the-wilderness-downtown/"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Grand Prix",
+    "category": "Cyber",
+    "subcategory": "Publications & Media",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Cyber",
+    "subcategory": "Best Use of Video",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "Google 與樂團 Arcade Fire 做互動音樂短片，觀眾先輸入童年老家地址，片中多個視窗就帶你跑過那條街",
+  "brand_display": "The Wilderness Downtown（Google × Arcade Fire）",
+  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜Cyber類全場大獎 Cyber Grand Prix、Cyber類金獅 Cyber Gold Lion｜代理商：GOOGLE CREATIVE LAB, New York\n\n【背景】這是 Google Creative Lab 為 Chrome 瀏覽器做的實驗：用寫作導演 Chris Milk、樂團 Arcade Fire 與 Google 一起發展的網頁音樂體驗，展示當時最新的網頁技術。配樂是 Arcade Fire 專輯 The Suburbs 裡的新歌〈We Used to Wait〉。\n\n【洞察】Google Creative Lab 的 Aaron Koblin 寫道，有些人現在住得離長大的地方很遠，看著以前住過的街道照片，會有一種懷舊又帶點惆悵的感覺。\n\n【點子】把這種懷舊做成一支「每個人看到的都不一樣」的音樂短片：觀眾回到自己長大的街道，在歌聲裡跑過去。\n\n【執行】片子開始前，網頁請觀眾輸入自己童年老家的地址。接著短片在瀏覽器裡播放，故事分散在多個編排好的瀏覽器視窗：視窗一個接一個彈出、在螢幕上移動，各自呈現新的場景。畫面用 Google Street View 與地圖資料，把觀眾老家附近的街景帶進片中，所以每個人看到的街道不同。網站同時用 HTML5 的 canvas（畫布）、音訊與影片，並有一個讓觀眾自己動手畫的互動繪圖工具。片尾邀請觀眾填一張虛擬明信片。整個專案為 Chrome 而做，建議用 Chrome 或支援 HTML5 的新版瀏覽器觀看。\n\n資料來源：\nhttps://en.wikipedia.org/wiki/The_Wilderness_Downtown\nhttps://chrome.googleblog.com/2010/08/arcade-fire-html5-and-chrome.html\nhttps://maps.googleblog.com/2010/08/street-view-and-wilderness-downtown.html\nhttps://www.dandad.org/awards/professional/2011/music-videos/18563/the-wilderness-downtown/\nhttps://www.lovethework.com/en/work/entries/the-wilderness-downtown-87928",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2011, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 全場大獎, Grand Prix, Cyber Grand Prix, 金獅, Gold Lion, Cyber Gold Lion, Google, Google Creative Lab, Arcade Fire, 音樂人, 樂團, 音樂, 音樂短片, 互動音樂短片, Music Video, 互動影片, Interactive Film, Chris Milk, 網站, 互動網頁, HTML5, Chrome, Google Chrome, 瀏覽器, 瀏覽器實驗, Google Maps, Google 地圖, Street View, 街景, 個人化, Personalization, 童年, 老家, 懷舊, Nostalgia, 多視窗, 瀏覽器視窗, 互動繪圖, 明信片, We Used to Wait, The Suburbs, 美國, United States",
+  "category": "行銷案例",
+  "references": [
+   "https://en.wikipedia.org/wiki/The_Wilderness_Downtown",
+   "https://chrome.googleblog.com/2010/08/arcade-fire-html5-and-chrome.html",
+   "https://maps.googleblog.com/2010/08/street-view-and-wilderness-downtown.html",
+   "https://www.dandad.org/awards/professional/2011/music-videos/18563/the-wilderness-downtown/",
+   "https://www.lovethework.com/en/work/entries/the-wilderness-downtown-87928"
+  ],
+  "image_url": "https://lh6.ggpht.com/SwosvzMfFmy1e3KBosbuDEKfp4XBzcXBMk5FV39MXGKX7kNXH4fedfooGidR5tQNGk-XVsGPfYuAbwphUDHSh4BQmQdPQGSdamw",
+  "image_shows": "專案網站的開場畫面：米白底色上用手繪線條寫著 Arcade Fire、THE WILDERNESS DOWNTOWN，下方小字是 An interactive film by Chris Milk、Built in HTML5（只是開場字卡，看不出互動玩法）",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入，內容依 Google Chrome 與 Google Maps 官方部落格、D&AD 作品說明與維基百科整理。圖是 Google Experiments 網站分享圖（開場字卡），官方案例板找不到可用大圖。已搜爭議：「Wilderness Downtown Cannes Lions controversy fraud withdrawn」，只見得獎報導，沒有造假、抄襲或撤獎指控。"
+ },
+ {
+  "id": "ltwm-04729",
+  "year": 2011,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "SPEED TESTS",
+  "brand": "GOOGLE CHROME",
+  "agency": "BBH NEW YORK",
+  "links": [
+   "https://www.dandad.org/awards/professional/2011/film-advertising-crafts/18835/google-chrome-speed-tests/"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Bronze",
+    "category": "Integrated",
+    "subcategory": "Titanium and Integrated",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Film",
+    "subcategory": "Internet Film",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Film",
+    "subcategory": "Commercial Public Services",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Film Craft",
+    "subcategory": "Production Design",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Film Craft",
+    "subcategory": "Sound Design",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Cyber",
+    "subcategory": "Best Digitally Led Integrated Campaign",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Cyber",
+    "subcategory": "Games",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Cyber",
+    "subcategory": "Viral Video",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "要證明 Chrome 很快，Google 用高速攝影機拍網頁載入，讓它和馬鈴薯槍、閃電、聲音比速度",
+  "brand_display": "Chrome Speed Tests（Google Chrome）",
+  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜Cyber類金獅 Cyber Gold Lion、影片類金獅 Film Gold Lion、Cyber類銀獅 Cyber Silver Lion×2、影片類銀獅 Film Silver Lion、影片工藝類銅獅 Film Craft Bronze Lion×2、Integrated類銅獅 Integrated Bronze Lion｜代理商：BBH, New York\n\n【背景】Google 在 2010 年 5 月推出新版 Chrome beta，主打瀏覽器速度。速度本來是工程師用測試分數講的事，一般人很難有感覺。\n\n【點子】不講分數，把「快」放進大家熟悉的快東西旁邊比：拿 Chrome 載入網頁的瞬間，去對比馬鈴薯槍射出的馬鈴薯、閃電、聲音，用肉眼看得懂的方式展現速度。\n\n【執行】BBH New York 與 Google Creative Lab 做成一支網路影片，一系列「不尋常的速度測試」。每個測試都搭了類似連鎖反應機關的裝置，讓 Chrome 和比賽對象同時被觸發。有一組是 Chrome 對馬鈴薯槍：馬鈴薯射出的同時載入網頁；據製作團隊說，這一幕拍了 51 次才成功。其他測試包括一個把壓克力顏料潑濺出去的鼓，以及電（含特斯拉線圈的放電）；Chrome 對聲音則是載入 Pandora 的藝人頁面。拍攝用 Phantom v640 高速攝影機，每秒最高可拍 2700 格，並把螢幕倒轉 180 度、換上大型鎢絲燈來避開陰影，所以慢動作裡能看到網頁一塊一塊畫出來的細節。官方案例板上的畫面是一個裝在支架上、轉動的 Chrome 圖案圓盤，下面貼著寫有「CHROME BY GOOGLE」與網址的紙膠帶。\n\n資料來源：\nhttps://www.themarginalian.org/2010/05/06/google-chrome-speed-tests/\nhttps://www.usecue.com/blog/chrome-speed-tests/\nhttps://fortune.com/2010/05/04/chrome-faster-than-a-speeding-potato/\nhttps://www.adsoftheworld.com/media/film/google_chrome_speed_tests\nhttps://chrome.googleblog.com/2010/05/potato-gun-lightning-and-sonic-magic.html",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2011, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 影片類, Film, 影片工藝類, Film Craft, Integrated, 金獅, Gold Lion, 銀獅, Silver Lion, 銅獅, Bronze Lion, Google, Google Chrome, Chrome, 瀏覽器, Browser, BBH, BBH New York, 科技, 軟體, 網路影片, Internet Film, 病毒影片, Viral Video, 速度測試, Speed Test, 高速攝影, Phantom 高速攝影機, 慢動作, 馬鈴薯槍, Potato Gun, 閃電, 特斯拉線圈, Tesla Coil, 聲音, 連鎖反應機關, Rube Goldberg, 美國, United States, 紐約, New York",
+  "category": "行銷案例",
+  "references": [
+   "https://www.themarginalian.org/2010/05/06/google-chrome-speed-tests/",
+   "https://www.usecue.com/blog/chrome-speed-tests/",
+   "https://fortune.com/2010/05/04/chrome-faster-than-a-speeding-potato/",
+   "https://www.adsoftheworld.com/media/film/google_chrome_speed_tests",
+   "https://chrome.googleblog.com/2010/05/potato-gun-lightning-and-sonic-magic.html",
+   "https://www.lovethework.com/en/work/entries/chrome-speed-tests-87974"
+  ],
+  "image_url": "https://cdn.filespin.io/api/v1/conversion/e280cc7acbfa4ba7a9ad629f38d5808f",
+  "image_shows": "官方案例板：磚牆前的桌上，支架上固定著一個 Chrome 圖案的彩色圓盤，下方貼著手寫「CHROME BY GOOGLE」「GOOGLE.COM/CHROME」的紙膠帶",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入，內容依 Marginalian、Usecue（轉載 YouTube 影片說明）、Fortune、Ads of the World 與 Chrome 官方部落格整理。官方報名的作品名有 CHROME SPEED TESTS（影片）、CHROME SPEED TESTS: POTATO 3D、CHROME FAST（整合）、CHROME FASTBALL（遊戲）；本篇寫主影片 Chrome Speed Tests，Fastball 遊戲與 Potato 3D 沒找到說明、未寫。Marginalian 評論「瀏覽器速度對實際上網體驗影響有限」屬一般評論、未寫入讀稿。已搜爭議：「Chrome Speed Tests BBH controversy fake misleading」，沒有造假或撤獎指控。"
+ },
+ {
+  "id": "ltwm-04727",
+  "year": 2011,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "MUSICAL FITTING ROOS",
+  "brand": "STARHUB",
+  "agency": "DDB SINGAPORE",
+  "links": [
+   "https://www.youtube.com/watch?v=IJkRtnfNCo4&ab_channel=ElPoderdelasIdeas"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Media",
+    "subcategory": "Best Use of Audio",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "Direct",
+    "subcategory": "Direct Response Digital: Other Digital Platforms",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Gold",
+    "category": "Promo & Activation",
+    "subcategory": "Best Temporary In-Store Displays in a Promotional Campaign",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Promo & Activation",
+    "subcategory": "Best Use of Ambient in a Promotional Campaign",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "新加坡電信 StarHub 的線上音樂店，在 42 間服飾店試衣間裝 RFID，帶進哪件衣服就播配合那件風格的歌",
+  "brand_display": "Musical Fitting Rooms（StarHub 線上音樂店）",
+  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜Promo & Activation類金獅 Promo & Activation Gold Lion、媒體類銀獅 Media Silver Lion、Promo & Activation類銀獅 Promo & Activation Silver Lion、直效類銅獅 Direct Bronze Lion｜代理商：DDB SINGAPORE\n\n【背景】StarHub 線上音樂店想吸引年輕人，次要目標是帶動網站流量與音樂下載。StarHub 是新加坡電信業者，2011 年 7 月才進入線上音樂市場。\n\n【洞察】案例板寫的洞察是：年輕人用聽的音樂和穿的衣服來定義自己，音樂與時尚是兩種很有力的自我表達方式。\n\n【點子】把兩件事合在一起：衣服決定配樂。試衣間會依年輕人手上這件衣服的風格推薦歌曲，讓他們聽到符合自己穿搭的音樂，也知道這家音樂店跟他們的生活有關。\n\n【執行】DDB Singapore 在 42 間年輕客人多的服飾店實施。案例板用六個步驟說明：（1）把 RFID 晶片掛在衣服上；（2）在試衣間裝 RFID 讀取器；（3）搭配指向性喇叭；（4）衣服一帶進試衣間，晶片觸發讀取器，播放與衣服風格相符的歌；（5）歌曲開始播放時，讀取器透過近距離簡訊傳到顧客手機；（6）活動涵蓋 16 種曲風、一萬多首歌。Trend Hunter 的報導提到，簡訊裡有歌名與購買的機會。案例板圖上有一名女孩站在試衣間裡，另有衣服掛著晶片、手機收到簡訊的示意。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/musical-fitting-rooms-248535\nhttps://www.lovethework.com/en/work/entries/musical-fitting-rooms-250828\nhttps://www.trendhunter.com/trends/starhub-music-store",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2011, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 推廣與活化類, Promo & Activation, 媒體類, Media, 直效類, Direct, 金獅, Gold Lion, 銀獅, Silver Lion, 銅獅, Bronze Lion, StarHub, StarHub Online Music Store, 線上音樂店, Online Music Store, 電信, DDB Singapore, DDB, 新加坡, Singapore, 音樂, 時尚, 服飾店, 零售, Retail, 試衣間, Fitting Room, 裝置, RFID, RFID 晶片, RFID 讀取器, 指向性喇叭, Directional Speaker, 簡訊, SMS, 近距離簡訊, 年輕人, Youth, 互動, 個人化, 風格配對",
+  "category": "行銷案例",
+  "references": [
+   "https://www.lovethework.com/en/work/entries/musical-fitting-rooms-248535",
+   "https://www.lovethework.com/en/work/entries/musical-fitting-rooms-250828",
+   "https://www.trendhunter.com/trends/starhub-music-store"
+  ],
+  "image_url": "https://portal-assets.imgix.net/archive/2011/stitched/956407d56c97e1389b3d08f90fdb68f8.jpg",
+  "image_shows": "案例圖板：黑底，左上大字 MUSICAL FITTING ROOMS 與挑戰、點子文字；右側黃色環狀流程圖用六步驟（RFID 晶片、讀取器、指向性喇叭、音樂、簡訊）說明做法；左下一名女孩站在試衣間裡",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入，內容依官方案例板與 Trend Hunter 整理。案例板上印的成效數字（推薦歌曲數、點擊率、下載成長）未寫入。官方報名名稱 MUSICAL FITTING ROOMS（in 檔標題 ROOS 為截斷）。WebSearch 摘要提到簡訊用於促成購買，Trend Hunter 說簡訊含歌名與購買機會，兩者與案例板一致，但搜尋摘要未寫入。已搜爭議：「StarHub Musical Fitting Rooms controversy fake withdrawn」，沒有造假、抄襲或撤獎指控。"
+ },
+ {
+  "id": "ltwm-04778",
+  "year": 2011,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "ART PROJECT",
+  "brand": "GOOGLE",
+  "agency": "GOOGLE IN HOUSE",
+  "links": [
+   "https://www.youtube.com/watch?v=4ZdCByYeNRU&feature=emb_title&ab_channel=GoogleArts%26Culture"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Gold",
+    "category": "Cyber",
+    "subcategory": "Travel, Entertainment & Leisure",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "Google 把 17 間知名美術館搬上網：用推車拍下館內 360 度街景，再配上超高解析度名畫，在家就能逛",
+  "brand_display": "Google Art Project",
+  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜Cyber類金獅 Cyber Gold Lion｜代理商：GOOGLE, Mountain View\n\n【背景】Google 的街景（Street View）一直是用車子拍街道，大家想看的地點越來越廣。這個專案由一群愛藝術的 Google 員工發起，起初是工程師的「20% 專案」（公司給的自由發想時間），做了約 18 個月。\n\n【點子】把街景技術帶進室內，和全球 17 間重要美術館合作，讓人不用出門就能逛展，也能把名畫放大到看見筆觸。\n\n【執行】車子裝不進美術館，團隊改做一台小型推車，暱稱 Trolley，上面有全景相機拍 360 度畫面、雷射測量與牆面的距離、動態感測器記錄位置，再配硬碟與筆電。拍好的畫面接起來，做出超過 385 個展間的導覽，可以在 Google 地圖拖曳小人進入館內，也能從館外街景走進去。Art Project 網站另外放了 1000 多件高解析度作品；每間美術館各挑一件作品用「十億畫素級」（gigapixel）技術拍攝，TechCrunch 報導每張約 70 億畫素，可以看到肉眼看不到的筆觸細節。網站還有「建立自己的藝術收藏」功能：把任一件作品的某個視角存起來、加上評論並分享。參與的館包括 MoMA、大都會藝術博物館、烏菲茲美術館、泰特、凡高美術館、凡爾賽宮等。\n\n資料來源：\nhttps://maps.googleblog.com/2011/02/street-view-takes-you-inside-museums.html\nhttps://techcrunch.com/2011/02/01/google-goes-high-brow-unveils-museum-art-project-powered-by-street-view-indoor-tech-2\nhttps://www.lovethework.com/en/work/entries/art-project-87927",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2011, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 金獅, Gold Lion, Cyber Gold Lion, Google, Google Art Project, Google Geo, 藝術, 美術館, Museum, 博物館, 名畫, 數位典藏, Street View, 街景, Google Maps, Google 地圖, 室內街景, 推車, Trolley, 360 度全景, 全景相機, 雷射, gigapixel, 十億畫素, 高解析度, 超高解析度圖片, 網站, 互動網頁, 虛擬導覽, Virtual Tour, 20% 專案, MoMA, 大都會藝術博物館, 烏菲茲美術館, Uffizi, 泰特, Tate, 凡高美術館, 凡爾賽宮, 美國, United States",
+  "category": "行銷案例",
+  "references": [
+   "https://maps.googleblog.com/2011/02/street-view-takes-you-inside-museums.html",
+   "https://techcrunch.com/2011/02/01/google-goes-high-brow-unveils-museum-art-project-powered-by-street-view-indoor-tech-2",
+   "https://www.lovethework.com/en/work/entries/art-project-87927"
+  ],
+  "image_url": "https://i.ytimg.com/vi/4ZdCByYeNRU/maxresdefault.jpg",
+  "image_shows": "Google Arts & Culture 頻道的 Art Project 影片縮圖：整面牆掛滿畫框，每幅畫都是眼睛的特寫（含蒙娜麗莎式的龜裂畫面），左下有大字 Explore the Art Project",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入，內容依 Google 地圖官方部落格與 TechCrunch 整理。官方案例板與 lovethework 卡片找不到可用大圖，圖用官方 Google Arts & Culture YouTube 影片縮圖（後來改版的宣傳影片，不是當年案例板），看得到畫框與畫作特寫、但看不出街景導覽。畫素數各來源說法不同（TechCrunch 稱約 70 億），讀稿採 TechCrunch 並標明來源。已搜爭議：「Google Art Project Cannes Lions controversy fraud withdrawn」，沒有造假、抄襲或撤獎指控。"
+ },
+ {
+  "id": "ltwm-04733",
+  "year": 2011,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "CHAMELEON, FROG",
+  "brand": "SHIELDTOX",
+  "agency": "HAVAS BANGKOK",
+  "links": [
+   "https://www.adsoftheworld.com/media/print/shieldtox_frog"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Gold",
+    "category": "Press",
+    "subcategory": "Household: Other",
+    "count": 1,
+    "source_count": 2
+   },
+   {
+    "level": "Silver",
+    "category": "Outdoor",
+    "subcategory": "Household",
+    "count": 1,
+    "source_count": 2
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "泰國 Shieldtox 殺蟲噴霧的平面廣告，手捏著青蛙、變色龍，牠們的長舌頭像噴霧一樣射向遠處",
+  "brand_display": "Shieldtox Naturgard（Chameleon、Frog 平面廣告）",
+  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜Press類金獅 Press Gold Lion、戶外類銀獅 Outdoor Silver Lion｜代理商：EURO RSCG BANGKOK\n\n【得獎資料】此作品只找到圖片與基本資料，沒有找到官方文字說明，以下依作品畫面解讀。\n\n【點子】青蛙、變色龍都是靠長舌頭抓蟲的天敵。廣告拿牠們來比喻產品：Shieldtox Naturgard 殺蟲噴霧，標語是「Natural Protection」。\n\n【執行】兩張平面廣告同一構圖，淺灰色背景。一張是一隻手從畫面左邊握住青蛙，指頭壓著牠的頭、捏著身體，青蛙嘴巴張開，粉紅色的舌頭筆直地朝右邊伸出一長條，舌尖微微捲起；另一張是同樣的手握著綠色的變色龍，尾巴捲成螺旋，舌頭同樣筆直伸出。兩張畫面右下角都是斜體字「Natural Protection」，旁邊是綠色的 Shieldtox 噴霧罐。舌頭射出的樣子像噴罐噴出的一道線，手握住動物的姿勢也像握著噴罐。\n\n資料來源：\nhttps://www.oneclub.org/awards/theoneshow/-award/13212/frog/\nhttps://www.sostav.ru/columns/canneslions2009/2011/0027/\nhttps://www.adsoftheworld.com/campaigns/frog-25a04554-fc24-4f28-a8dd-991b24b53614\nhttps://www.lovethework.com/en/work/entries/frog-261069\nhttps://www.lovethework.com/en/work/entries/chameleon-261100",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2011, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 報刊類, Press, 戶外類, Outdoor, 金獅, Gold Lion, 銀獅, Silver Lion, Press Gold Lion, Outdoor Silver Lion, Shieldtox, Shieldtox Naturgard, Reckitt Benckiser, 殺蟲劑, 殺蟲噴霧, Insect Repellent, 居家用品, Euro RSCG, Euro RSCG Bangkok, Havas, 泰國, Thailand, 曼谷, Bangkok, 平面廣告, 海報, Print, 攝影, 青蛙, Frog, 變色龍, Chameleon, 舌頭, 手, 噴霧罐, 天敵, 視覺比喻, Natural Protection, 天然防護",
+  "category": "行銷案例",
+  "references": [
+   "https://www.oneclub.org/awards/theoneshow/-award/13212/frog/",
+   "https://www.sostav.ru/columns/canneslions2009/2011/0027/",
+   "https://www.adsoftheworld.com/campaigns/frog-25a04554-fc24-4f28-a8dd-991b24b53614",
+   "https://www.lovethework.com/en/work/entries/frog-261069",
+   "https://www.lovethework.com/en/work/entries/chameleon-261100"
+  ],
+  "image_url": "https://portal-assets.imgix.net/archive/2011/stitched/9880b9e1292cce0ceb3a1ac014796d5d.jpg",
+  "image_shows": "Frog 平面廣告：淺灰背景，一隻手從左邊握住青蛙，青蛙舌頭筆直伸向右邊，右下角斜體字 Natural Protection 與綠色 Shieldtox 噴霧罐",
+  "text_source_level": 3,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "依作品畫面解讀，無文字說明（ad 網站與一些賽事頁只有名稱與頁面資料）。Chameleon 另一張圖（https://portal-assets.imgix.net/archive/2011/stitched/8c127beb01a934609bdc4e6421464175.jpg）已打開看，構圖相同、主角換成變色龍。官方資料的品牌是 Reckitt Benckiser 的 Shieldtox Naturgard，agency Euro RSCG Bangkok。已搜爭議：「Shieldtox Naturgard Frog Chameleon ad controversy plagiarism」，沒有相關報導。"
+ },
+ {
+  "id": "ltwm-04723",
+  "year": 2011,
+  "tier": "GOLD",
+  "categories": [],
+  "title": "CAR FREE DAY",
+  "brand": "GREENPEACE",
+  "agency": "LEO BURNETT HONG KONG",
+  "links": [
+   "https://www.adsoftheworld.com/campaign/greenpeace-leo-burnett-07-2011"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Gold",
+    "category": "Press",
+    "subcategory": "Fundraising & Appeals",
+    "count": 1,
+    "source_count": 3
+   },
+   {
+    "level": "Silver",
+    "category": "Press",
+    "subcategory": "Illustration",
+    "count": 1,
+    "source_count": 3
+   },
+   {
+    "level": "Bronze",
+    "category": "Outdoor",
+    "subcategory": "Fundraising & Appeals",
+    "count": 1,
+    "source_count": 3
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "綠色和平香港的無車日海報，用兩道平行的輪胎印畫成插畫：一道是開車的樂趣，一道是氣候災難的毀滅",
+  "brand_display": "綠色和平（Greenpeace）香港無車日",
+  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜Press類金獅 Press Gold Lion、Press類銀獅 Press Silver Lion、戶外類銅獅 Outdoor Bronze Lion｜代理商：LEO BURNETT, Hong Kong\n\n【背景】汽車是溫室氣體的主要來源之一，地球越熱，極端天氣越常發生，會威脅各地人的生命。綠色和平每年都推廣無車日（9 月 22 日），希望人們停開一天車；他們從 2009 年起把無車日帶進香港。\n\n【策略】要讓人明白「開車」與「氣候變遷」是連在一起的。\n\n【點子】用一組平行的輪胎印當畫面：一條輪胎印裡畫的是開車能帶來的樂趣，另一條輪胎印裡畫的是氣候變遷帶來的死亡與破壞。同一個動作，兩種結果。\n\n【執行】Leo Burnett Hong Kong 做成黑白手繪風的平面海報。官方報名的作品名有 Melt、Drought、Flood 三張，這裡看過的是水災那一張：畫面上半部是一道斜斜的輪胎印，印紋裡畫著公路、一輛輛車、咖啡店、精品店、民宅、餐廳和汽車旅館；下半部同一種輪胎印，印紋變成翻騰的巨浪，把房子和雜物沖毀。海報左上角是綠色和平的標誌與無車日網址；下方用繁體字寫著「一路駕駛，同時一路摧毀。每天，私家車排放二氧化碳高達 2992 噸，加劇氣候暖化，引致水患成災。9.22 支持無車日」。\n\n資料來源：\nhttps://www.dandad.org/work/d-ad-awards-archive/melt\nhttps://www.greenpeace.org/hongkong/issues/climate/update/40015/世界無車日由來與歷史？香港如何實現綠色交通？/\nhttps://www.lovethework.com/en/work/entries/flood-261070\nhttps://www.lovethework.com/en/work/entries/drought-261099",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2011, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 報刊類, Press, 戶外類, Outdoor, 金獅, Gold Lion, 銀獅, Silver Lion, 銅獅, Bronze Lion, Greenpeace, 綠色和平, 無車日, Car Free Day, Leo Burnett, Leo Burnett Hong Kong, 香港, Hong Kong, 公益, 環保, 非營利組織, NGO, 氣候變遷, 氣候暖化, Climate Change, 二氧化碳, 碳排放, 汽車, 開車, 平面廣告, 海報, Print, 插畫, 黑白插畫, 手繪, 輪胎印, 輪胎痕, Tire Track, 對比, 水災, 洪水, 乾旱, 融冰",
+  "category": "行銷案例",
+  "references": [
+   "https://www.dandad.org/work/d-ad-awards-archive/melt",
+   "https://www.greenpeace.org/hongkong/issues/climate/update/40015/世界無車日由來與歷史？香港如何實現綠色交通？/",
+   "https://www.lovethework.com/en/work/entries/flood-261070",
+   "https://www.lovethework.com/en/work/entries/drought-261099"
+  ],
+  "image_url": "https://portal-assets.imgix.net/archive/2011/stitched/e7d902ab38efbe077fa2f1e9381b04c7.jpg",
+  "image_shows": "海報（水災版）：兩道斜向的黑白輪胎印插畫，上半部印紋裡是公路、車、房屋與商店，下半部印紋變成巨浪沖毀房子；左上綠色和平標誌與無車日網址，下方小字繁體中文標語",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入，內容依 D&AD 作品說明（Melt）、綠色和平香港網站與海報畫面整理；海報文字是照圖讀出。官方作品名 MELT、DROUGHT、FLOOD 三張，只看過 Flood 的圖，Melt 與 Drought 的畫面沒有看過，讀稿不寫其內容。已搜爭議：「Greenpeace Car Free Day Leo Burnett Hong Kong controversy」與相關搜尋，沒有造假、抄襲或撤獎指控（搜尋摘要有代理商自述成效，未寫入）。"
+ },
+ {
+  "id": "ltwm-04830",
+  "year": 2011,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "A NEW WARRIOR",
+  "brand": "GREENPEACE",
+  "agency": "DDB PARIS",
+  "links": [
+   "https://vimeo.com/24225361"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Silver",
+    "category": "Cyber",
+    "subcategory": "Charities, Public Health & Safety, Public Awareness Messages",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Promo & Activation",
+    "subcategory": "Best Online Advertising in a Promotional Campaign",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Silver",
+    "category": "Promo & Activation",
+    "subcategory": "Charities",
+    "count": 1,
+    "source_count": 1
+   },
+   {
+    "level": "Bronze",
+    "category": "PR",
+    "subcategory": "Best Use of Digital PR",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "綠色和平把新造的彩虹勇士號拆成約 40 萬件零件，開網站賣給民眾，買家拿到一張擁有該零件的證書",
+  "brand_display": "綠色和平（Greenpeace）A New Warrior",
+  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜Cyber類銀獅 Cyber Silver Lion、Promo & Activation類銀獅 Promo & Activation Silver Lion×2、公關類銅獅 PR Bronze Lion｜代理商：DDB PARIS\n\n【背景】1978 年起，彩虹勇士號幫綠色和平在許多環保行動中立下戰績。這艘船已用到壽命盡頭，組織需要一艘專為環保行動打造的新船。難題是綠色和平不收政府與企業的捐款，要蓋新船只能向各國的一般人募款。\n\n【點子】讓支持者「買下並擁有」新船的一小塊：把整艘船拆成零件上架，從 1 歐元的叉子到 7000 歐元的海水淡化機都有，把捐款變成像逛購物網站一樣的事。\n\n【執行】DDB Paris 與網站製作公司 Les 84 做了電商網站 anewwarrior.com，約 40 萬件零件上架，價格 1 歐元到 7000 歐元。網站讓訪客用鏡頭做整艘船的虛擬導覽，配有海洋與船隻的音效；可以看船的設計圖，也透過德國造船廠的網路攝影機看施工進度。船的立體圖會顯示目前捐了多少、還缺哪些，讓人看得到自己的錢買到什麼。付款後買家收到所有權證書，名字也會出現在真船上的「貢獻牆」。Cool Hunting 的報導把這種賣船方式形容為「大富翁式」的出售。\n\n資料來源：\nhttps://www.directnewideas.com/magazine/a_new_warrior/?id=166\nhttps://www.dandad.org/awards/professional/2012/direct/19047/a-new-warrior/\nhttps://coolhunting.com/tech/rainbow-warrior\nhttps://www.complex.com/sports/2011/03/build-a-boat-the-rainbow-warrior-takes-shape\nhttps://www.lovethework.com/en/work/entries/a-new-warrior-252589",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2011, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber類, Cyber, 推廣與活化類, Promo & Activation, 公關類, PR, 銀獅, Silver Lion, 銅獅, Bronze Lion, Greenpeace, 綠色和平, 彩虹勇士號, Rainbow Warrior, DDB Paris, DDB, Les 84, 法國, France, 公益, 環保, 非營利組織, NGO, 募款, Fundraising, 捐款, 電商, E-Commerce, 網站, 互動網頁, 虛擬導覽, 3D, 所有權證書, 證書, Certificate, 社群分享, 船, 造船, 網路攝影機, Webcam, 貢獻牆",
+  "category": "行銷案例",
+  "references": [
+   "https://www.directnewideas.com/magazine/a_new_warrior/?id=166",
+   "https://www.dandad.org/awards/professional/2012/direct/19047/a-new-warrior/",
+   "https://coolhunting.com/tech/rainbow-warrior",
+   "https://www.complex.com/sports/2011/03/build-a-boat-the-rainbow-warrior-takes-shape",
+   "https://www.lovethework.com/en/work/entries/a-new-warrior-252589"
+  ],
+  "image_url": "",
+  "image_shows": "（無圖）",
+  "text_source_level": 3,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入，內容依 Direct New Ideas（作品資料）、D&AD 說明、Cool Hunting 與 Complex 的報導整理。沒有找到好圖：in 檔候選圖只有 120×90 縮圖；Vimeo 預告片縮圖是別的畫面（橡皮艇突襲鏡頭）、Cool Hunting 圖已被換掉，所以 image_url 留空，需要本機補圖。成效數字（造訪、售出件數、募得金額）未寫入。已搜爭議：「Greenpeace A New Warrior donation website controversy criticism misleading certificate」，只見組織其他事件的批評，沒有針對這個作品的造假、抄襲或撤獎指控。"
+ },
+ {
+  "id": "ltwm-04885",
+  "year": 2011,
+  "tier": "SILVER",
+  "categories": [],
+  "title": "GOOGLE DEMO SLAM",
+  "brand": "GOOGLE",
+  "agency": "JOHANNES LEONARDO NEW YORK",
+  "links": [
+   "https://clios.com/awards/winner/film/google-demo-slam-extra-spicy-13746"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Gold",
+    "category": "Film",
+    "subcategory": "Internet Film",
+    "count": 1,
+    "source_count": 5
+   },
+   {
+    "level": "Silver",
+    "category": "Cyber",
+    "subcategory": "Business Products & Services",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "Google 辦網站讓兩支產品示範影片對打、網友投票，示範拍得像短片，如沙發加投影機在客廳開完 66 號公路",
+  "brand_display": "Google Demo Slam",
+  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜影片類金獅 Film Gold Lion、Cyber類銀獅 Cyber Silver Lion｜代理商：JOHANNES LEONARDO, New York\n\n【背景】Google 有很多產品功能，一般人覺得是工具、不好玩。Demo Slam 的目標之一是改變 Chrome 與街景只是實用工具的印象，讓人看到它們有趣的一面。\n\n【點子】把產品示範變成比賽：網站上兩支示範影片並排播放，大家投票選出比較好的一支。有些影片是 Google 工程師做的，任何人也能投稿，想當「Demo Slam 冠軍」。\n\n【執行】站在 2010 年 10 月上線，之後陸續出現各種創意示範。官方報名的有 Rushmore、Extra Spicy、Route 66 等幾支。Rushmore 是四個人扮成總統山的樣子，演得太像，連 Google Goggles（用相機拍照辨識物體的功能）都把他們認成真的總統山。Extra Spicy 是兩位女生用 Google Translate 讓電腦用印度語幫她們點印度菜。Route 66 是在客廳放兩張沙發、一台筆電和一台投影機，朋友們一格一格點 Google Street View，把芝加哥到聖塔莫尼卡碼頭這條 2448 英里的 66 號公路「開」完（導演 Tim Abshire，Rabbit Content 製作）。\n\n資料來源：\nhttps://techcrunch.com/?p=248650\nhttps://www.selfstorming.com/tools/libraries/campaigns/google-chrome-s-demo-slam-route-66\nhttps://www.lovethework.com/en/work/entries/google-demo-slam-87929\nhttps://www.lovethework.com/en/work/entries/demo-slam-chubby-bunny-87896",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2011, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片類, Film, Cyber類, Cyber, 金獅, Gold Lion, 銀獅, Silver Lion, Google, Google Innovations, Demo Slam, Johannes Leonardo, 美國, United States, 紐約, New York, 科技, 網站, 互動網頁, 投票, 網友投稿, 對決, 產品示範, Product Demo, 短片, 網路影片, Google Chrome, Street View, 街景, Google Goggles, Google Translate, 總統山, Mount Rushmore, 66 號公路, Route 66, 沙發, 投影機, 公路旅行, 遊戲化, Gamification",
+  "category": "行銷案例",
+  "references": [
+   "https://techcrunch.com/?p=248650",
+   "https://www.selfstorming.com/tools/libraries/campaigns/google-chrome-s-demo-slam-route-66",
+   "https://www.lovethework.com/en/work/entries/google-demo-slam-87929",
+   "https://www.lovethework.com/en/work/entries/demo-slam-chubby-bunny-87896"
+  ],
+  "image_url": "https://i.ytimg.com/vi/PTeCqnBuDdU/maxresdefault.jpg",
+  "image_shows": "Route 66 示範影片縮圖：客廳裡四個人擠在沙發後面自拍，牆面被投影成海岸公路的街景",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入，內容依 TechCrunch（2010-11）與 Selfstorming 案例頁整理。官方報名的作品名有 DEMO SLAM: CHUBBY BUNNY、REALTIME KARAOKE、EXTRA SPICY、ROUTE 66、RUSHMORE 與總作品 GOOGLE DEMO SLAM；Chubby Bunny 與 Realtime Karaoke 只在搜尋摘要見到片段、沒有打開可靠頁面，未寫入。Selfstorming 頁面把案子歸給 BBH、與官方代理商 Johannes Leonardo 不同，只取作品內容；該頁的成效數字未寫入。官方案例板找不到大圖，圖用 Route 66 示範影片的 YouTube 縮圖（單支示範、非總案）。已搜爭議：「Google Demo Slam Cannes Lions controversy fraud withdrawn」，沒有造假、抄襲或撤獎指控。"
+ },
+ {
+  "id": "ltwm-05101",
+  "year": 2011,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "GOOGLE INSTANT WITH BOB DYLAN",
+  "brand": "GOOGLE",
+  "agency": "JOHANNES LEONARDO NEW YORK",
+  "links": [
+   "https://www.youtube.com/watch?v=qcm0rG8EKXI&t=1s&ab_channel=Google"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Bronze",
+    "category": "Film",
+    "subcategory": "Commercial Public Services",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "Google 借民謠歌手 Bob Dylan 舉字卡唱歌的老影片，每句歌詞都在 Google Instant 邊打字邊跳出搜尋結果",
+  "brand_display": "Google Instant × Bob Dylan",
+  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜影片類銅獅 Film Bronze Lion｜代理商：JOHANNES LEONARDO, New York\n\n【背景】Google 在 2010 年 9 月的搜尋發表會上推出 Google Instant（輸入的同時就即時顯示搜尋結果的功能）。Marissa Mayer 在發表會上播放了這支影片。\n\n【點子】Bob Dylan 有一支著名的音樂片段：他一邊唱〈Subterranean Homesick Blues〉，一邊把寫著歌詞關鍵字的手寫字卡一張張丟下。字卡呈現的就是他正在唱的字，跟 Google Instant 邊打字邊顯示結果很像，所以用它來示範這個功能。\n\n【執行】影片約 45 秒，在 Dylan 的影片片段與一個人用 Google Instant 查詢歌詞的畫面間切換：Dylan 唱什麼，畫面上的搜尋框就打出那句歌詞，打到一半建議結果已經跳出來，下方出現這首歌的搜尋結果。案例板上的畫面是搜尋框打著「I'm on the pavement」，自動補全成「thinking about the government」，結果顯示 Bob Dylan 的〈Subterranean Homesick Blues〉。Dylan 的原始片段出自 D.A. Pennebaker 1967 年的紀錄片《Don't Look Back》。\n\n資料來源：\nhttps://techcrunch.com/2010/09/08/google-instant-bob-dylan-ad/amp/\nhttps://www.openculture.com/2010/09/bob_dylan_in_a_google_instant.html\nhttps://www.lovethework.com/en/work/entries/google-instant-with-bob-dylan-87909",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2011, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片類, Film, 銅獅, Bronze Lion, Film Bronze Lion, Google, Google Instant, Google Instant Search, 搜尋, 搜尋引擎, Search, 即時搜尋, Bob Dylan, Subterranean Homesick Blues, 音樂, 歌詞, 字卡, Flash Card, 致敬, Don't Look Back, D.A. Pennebaker, 紀錄片, Johannes Leonardo, 美國, United States, 紐約, New York, 電視廣告, TVC, 產品示範, 科技, 網路, 打字",
+  "category": "行銷案例",
+  "references": [
+   "https://techcrunch.com/2010/09/08/google-instant-bob-dylan-ad/amp/",
+   "https://www.openculture.com/2010/09/bob_dylan_in_a_google_instant.html",
+   "https://www.lovethework.com/en/work/entries/google-instant-with-bob-dylan-87909"
+  ],
+  "image_url": "https://i.ytimg.com/vi/qcm0rG8EKXI/maxresdefault.jpg",
+  "image_shows": "影片畫面：Google 搜尋框打著「I'm on the pavement」，灰字自動補全 thinking about the government，下方是 Subterranean Homesick Blues by Bob Dylan 的搜尋結果與歌曲資訊",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入，內容依 TechCrunch、Open Culture 與官方 YouTube 影片畫面整理。官方案例板（in 檔候選圖）只是一張白底字卡，圖改用官方 YouTube 縮圖（maxresdefault，是 Google 頻道上傳）。已搜爭議：「Google Instant Bob Dylan ad controversy」，只見 TechCrunch 與 Gawker 的玩笑式評論，沒有造假、抄襲或撤獎指控。"
+ },
+ {
+  "id": "ltwm-05053",
+  "year": 2011,
+  "tier": "BRONZE",
+  "categories": [],
+  "title": "DISPOSABLE FOREST",
+  "brand": "GREENPEACE",
+  "agency": "OGILVY BEIJING",
+  "links": [
+   "https://www.behance.net/gallery/8728565/Disposable-Forest-Greenpeace"
+  ],
+  "decision": "收",
+  "awards": [
+   {
+    "level": "Bronze",
+    "category": "Design",
+    "subcategory": "Public Spaces",
+    "count": 1,
+    "source_count": 1
+   }
+  ],
+  "awards_unverified": [],
+  "idea_one_liner": "綠色和平把 84000 雙用過的免洗筷搭成樹林，放在北京商圈，讓路人看到免洗筷原來就是砍掉的樹",
+  "brand_display": "綠色和平（Greenpeace）Disposable Forest",
+  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜設計類銅獅 Design Bronze Lion｜代理商：OGILVY BEIJING\n\n【背景】中國每十秒就有一棵樹被砍，供應全國每天對免洗筷的需求。Adobo 報導寫：2009 年中國用掉 230 億雙免洗木筷，相當於 150 萬棵樹，而中國每人平均的林地排名全球第 139 名。\n\n【點子】既然免洗筷是樹變來的，就把用過的筷子變回樹。\n\n【執行】Ogilvy Beijing 與綠色和平，加上在地藝術家徐銀海（Yinhai Xu）和來自 20 所大學的 200 多名志工，從餐廳收集用過、消毒過的免洗木筷（案例板寫 84000 雙），拼成約 5 公尺高的一片筷子樹林。2010 年 12 月 18 到 20 日放在北京的商場「The Place」外面。現場有一塊木牌，請人簽名承諾拒用免洗筷，也發了數百雙可重複使用的環保筷；案例板的小圖裡還有樹墩造型、頂上有投筷孔的箱子。Ogilvy 另外做了一個網站，每有一個人在網站上承諾，網上的樹就會長出一片綠葉。\n\n資料來源：\nhttps://www.adobomagazine.com/?p=6192\nhttps://www.commarts.com/project/15128/greenpeace\nhttps://www.campaignasia.com/article/greenpeace-plants-disposable-forest-in-beijing-in-new-campaign/mdjd68nxdo5hiaydgr5nmj3t7g\nhttps://www.lovethework.com/en/work/entries/disposable-forest-243009",
+  "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2011, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 設計類, Design, 環境設計, Environmental Design, 銅獅, Bronze Lion, Design Bronze Lion, Greenpeace, 綠色和平, Ogilvy, Ogilvy Beijing, 北京, Beijing, 中國, China, 公益, 環保, 非營利組織, NGO, 森林, 砍樹, 免洗筷, Disposable Chopsticks, 筷子, 筷子樹, 裝置, 裝置藝術, 戶外裝置, 回收, 再利用, Recycle, 樹, 商圈, 簽名承諾, Pledge, 環保筷, 志工, 藝術家, 網站, 綠葉",
+  "category": "行銷案例",
+  "references": [
+   "https://www.adobomagazine.com/?p=6192",
+   "https://www.commarts.com/project/15128/greenpeace",
+   "https://www.campaignasia.com/article/greenpeace-plants-disposable-forest-in-beijing-in-new-campaign/mdjd68nxdo5hiaydgr5nmj3t7g",
+   "https://www.lovethework.com/en/work/entries/disposable-forest-243009"
+  ],
+  "image_url": "https://portal-assets.imgix.net/archive/2011/stitched/6d8ffa3802b11f330901c701de97546f.jpg",
+  "image_shows": "案例圖板：北京廣場上三棵由木筷拼成的白色大樹，路人在樹旁仰望；下方一排小圖有樹墩造型的投筷箱、成堆的筷子、志工組裝樹枝與媒體採訪；右下是寫有說明文字的白色立牌",
+  "text_source_level": 2,
+  "uncertain": false,
+  "needs_audio": false,
+  "note": "官方全文需登入，內容依官方案例板、Adobo、Communication Arts 與 Campaign Asia 標題整理；案例板與 Communication Arts 上的成效（承諾人數、停用餐廳數）未寫入。筷子數量案例板與 Communication Arts 寫 84000 雙，Adobo 寫 8 萬多雙，讀稿用案例板數字。已搜爭議：「Greenpeace Disposable Forest Beijing chopsticks Ogilvy controversy fake withdrawn」，沒有造假、抄襲或撤獎指控。"
+ }
+]
