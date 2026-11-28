@@ -1,10 +1,10 @@
-*坎城雲端寫稿｜2012 收尾＋2011 第 1 輪（11/27 14:36）*
-• 這輪寫完並驗收：2012 b059–b060、2011 b001–b005，共 7 批 66 件（全收）
-• 這輪寫到的作品（舉 5 件）：Old Spice〈Response Campaign〉、Google〈The Wilderness Downtown〉、Nike〈The Black Mamba〉、Mercedes-Benz〈Tramp a Benz〉、Volvo〈Volvo On Call〉
-• 2012 進度：60／60 批全部寫完驗完，等本機收尾
-• 2011 進度：已完成 5／52 批，剩 47 批
-• 待決新增：約 18 件（爭議 2：Rainy Days 被英國廣告標準局判促銷不公平、Tramp a Benz 被指偽裝成藝術行動；重複候選 1：Scope 兩支廣播；仍 uncertain 7，其中 6 件是廣播待聽音檔；撤獎 0）
+*坎城雲端寫稿｜2011 第 2 輪（11/28 14:36）*
+• 這輪寫完並驗收：2011 b006–b012，共 7 批 70 件（全收）
+• 這輪寫到的作品（舉 5 件）：Volkswagen〈The Force〉、Gillette〈Women Against Lazy Stubble〉、Dead Island〈Dead Island Trailer〉、NTT Docomo〈Xylophone〉、Pictionary〈Wrestler, Jet Fighter, T-Rex〉
+• 2011 進度：已完成 12／52 批，剩 40 批
+• 待決新增：約 12 件（重複候選 1：福斯 Translator 影片與 Puppets 海報同一個點子；爭議確認 1：Dead Island 批評判為一般評論已刪段；仍 uncertain 9，多是缺影片劇情、1 件廣播待音檔；撤獎 0）
 • 問題：
-  • 多個參考網站擋爬蟲或連不上（adsspot、AdForum、Behance、The Drum、Shots 等），收的件有 14 件沒圖、數件圖偏弱，待本機補
-  • 一位寫手誤打一次 git 查看指令，被系統擋下沒執行；程式檢查沒掃到違規
-• 預計：照一天 14 批，2011 剩下約 3.5 天寫完（12/01 左右），隊伍裡沒有更早的年份，接著等本機做前置
+  • 今天 02:00 那輪沒有任何紀錄，疑似沒跑，這輪照常接續
+  • 多個參考網站擋爬蟲或連不上（adsspot、AdForum、The Drum、Behance、YouTube、Vimeo 等），4 件沒圖、十多件圖偏弱，待本機補
+  • 一位寫手跑過一次只讀的 git 查看指令（沒改檔）；另一位沒逐件重讀，驗收員已補看；程式檢查沒掃到違規
+• 預計：照一天 14 批，2011 剩下約 3 天寫完（12/01 左右），隊伍裡沒有更早的年份，接著等本機做前置
