@@ -85,7 +85,7 @@
     "text_source_level": 2,
     "uncertain": false,
     "needs_audio": false,
-    "note": "uncertain：「Cat」這支影片實際演什麼，打開過的官方頁、Ads of the World、YouTube、adland 都沒有描述（YouTube 只讀到標題），所以讀稿只寫系列的觸碰螢幕做法與案例板畫面；需要看片補寫。官方獎項：Cyber 類 Viral Video 與 Film 類 Internet Film 兩座金獅，報名作品名為 CAT（Film 類另有 CAGE COP、HITCHHIKER，in 檔不要求寫）。搜尋摘要提到的成效與製作細節未寫入。已搜爭議：搜「Skittles Touch the Rainbow cat BBDO Toronto controversy／fake／fraud／withdrawn」，沒有找到造假、抄襲或撤獎的報導。 2026-11-28 Opus 驗：補到片中內容：The Next Web（2011-03-31）與 Foodbeast 都寫觀眾的手指先被貓舔、再換成扮貓的男人，據此補寫【執行】、改一句話（原句把 Skittles 寫成加拿大品牌，不正確），拿掉 uncertain。兩篇的觀看數屬成效，未寫入。",
+    "note": "uncertain：「Cat」這支影片實際演什麼，打開過的官方頁、Ads of the World、YouTube、adland 都沒有描述（YouTube 只讀到標題），所以讀稿只寫系列的觸碰螢幕做法與案例板畫面；需要看片補寫。官方獎項：Cyber 類 Viral Video 與 Film 類 Internet Film 兩座金獅，報名作品名為 CAT（Film 類另有 CAGE COP、HITCHHIKER，in 檔不要求寫）。搜尋摘要提到的成效與製作細節未寫入。已搜爭議：搜「Skittles Touch the Rainbow cat BBDO Toronto controversy／fake／fraud／withdrawn」，沒有找到造假、抄襲或撤獎的報導。 2026-11-28 Opus 驗：補到片中內容：The Next Web（2011-03-31）與 Foodbeast 都寫觀眾的手指先被貓舔、再換成扮貓的男人，據此補寫【執行】、改一句話（原句把 Skittles 寫成加拿大品牌，不正確），拿掉 uncertain。兩篇的觀看數屬成效，未寫入。 2026-11-28 Opus 驗：程式檢查標 The Next Web 網址 404，我用 curl 重抓是 200、WebFetch 也讀得到內文，判斷是檢查程式那邊被擋，保留。",
     "idea_one_liner_r0": "加拿大糖果品牌 Skittles 的 YouTube 互動廣告，請觀眾把手指放上螢幕的紅色糖果，手指就成了廣告主角"
   },
   {
