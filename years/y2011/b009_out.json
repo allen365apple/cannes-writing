@@ -50,7 +50,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方三個頁面（lovethework 影片、Cyber 條目）只有標題與獎項，沒有案例文字；內容依 Wikipedia 與 Streaming Media 整理。官方報名名稱 FORCE（影片類、影片工藝類）與 THE FORCE（Cyber 類）同一支廣告。圖用 YouTube（Greatest Ads 頻道轉載）的 1280×720 畫面，是影片截圖不是案例板。成效數字（觀看數、排名）依規則未寫。「遙控器發動車子」依 Wikipedia 描述，來源未用「遠端啟動功能」一詞，故未寫。已搜爭議：「Volkswagen The Force Super Bowl ad controversy complaint fake misleading lawsuit」，找到的是 2016 年柴油車（Clean Diesel）廣告的 FTC 訴訟，不是這支；另有一篇 Shoot 標題「VW super bowl spot stirs controversy online」未打開，疑似是別支（Get Happy）。這支沒找到造假、抄襲或撤獎指控。"
+  "note": "官方三個頁面（lovethework 影片、Cyber 條目）只有標題與獎項，沒有案例文字；內容依 Wikipedia 與 Streaming Media 整理。官方報名名稱 FORCE（影片類、影片工藝類）與 THE FORCE（Cyber 類）同一支廣告。圖用 YouTube（Greatest Ads 頻道轉載）的 1280×720 畫面，是影片截圖不是案例板。成效數字（觀看數、排名）依規則未寫。「遙控器發動車子」依 Wikipedia 描述，來源未用「遠端啟動功能」一詞，故未寫。已搜爭議：「Volkswagen The Force Super Bowl ad controversy complaint fake misleading lawsuit」，找到的是 2016 年柴油車（Clean Diesel）廣告的 FTC 訴訟，不是這支；另有一篇 Shoot 標題「VW super bowl spot stirs controversy online」未打開，疑似是別支（Get Happy）。這支沒找到造假、抄襲或撤獎指控。 2026-11-28 Opus 驗：事實抽查 Wikipedia：Lance Acord、Park Pictures、Max Page、Imperial March、超級盃前一週上 YouTube、2011-02-06 播出、線上 60 秒／電視 30 秒、洗衣機烘衣機狗玩偶、爸爸用遙控器發動相符。"
  },
  {
   "id": "ltwm-04878",
@@ -89,7 +89,7 @@
   "text_source_level": 3,
   "uncertain": true,
   "needs_audio": false,
-  "note": "官方頁面、Ads of the World 與 YouTube 頁面都沒有劇情說明。搜尋摘要提到「手語翻譯員其實就是駕駛、全片在自動停車」，但沒有可打開的來源佐證，未寫入；一句話與讀稿只寫看得到的畫面，故 uncertain。缺：這支影片的文字說明或可讀來源（lareclame.fr 回 403、YouTube 頁面沒有說明文字）。已搜爭議：「AlmapBBDO Volkswagen Tiguan Translator 2011 Cannes controversy fake plagiarism withdrawn」，沒有找到相關指控。"
+  "note": "官方頁面、Ads of the World 與 YouTube 頁面都沒有劇情說明。搜尋摘要提到「手語翻譯員其實就是駕駛、全片在自動停車」，但沒有可打開的來源佐證，未寫入；一句話與讀稿只寫看得到的畫面，故 uncertain。缺：這支影片的文字說明或可讀來源（lareclame.fr 回 403、YouTube 頁面沒有說明文字）。已搜爭議：「AlmapBBDO Volkswagen Tiguan Translator 2011 Cannes controversy fake plagiarism withdrawn」，沒有找到相關指控。 2026-11-28 Opus 驗：再搜兩次：搜尋摘要都引 Cannes 頁面說「比手語的翻譯員其實就是駕駛，整段都在用 Park Assist 停車」，但 lovethework 頁面、entries 頁都抓不到這段文字，lareclame 403，仍未寫入、維持 uncertain。與 b009 ltwm-04971（Tiguan 免手停車海報 PUPPETS）是同一個點子（Park Assist 停車時雙手空著拿來做別的事）的影片版與戶外版，列重複候選交主對話。"
  },
  {
   "id": "ltwm-04939",
@@ -151,22 +151,23 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "福斯卡車平面系列以紙、PVC 塑膠、塑膠袋和鋁箔捲四種包材為題，官方標為福斯卡車廣告",
+  "idea_one_liner": "福斯外送卡車平面系列，把卡車圖印在紙捲、保鮮膜、鋁箔與塑膠袋捲上，像包材要多長撕多長，標語「尺寸剛好合用」",
   "brand_display": "福斯卡車（Volkswagen Trucks）",
-  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜Press類銀獅 Press Silver Lion｜代理商：ALMAPBBDO, São Paulo\n\n【背景】這是巴西 AlmapBBDO 為福斯卡車（Volkswagen Trucks）做的平面系列，官方品牌欄寫 MAN。官方報名名稱共四個：PAPER、ROLL OF ALUMINIUM、PVC PLASTIC、PLASTIC BAG，獲平面類銀獅。Ads of the World 登載發行時間是 2011 年 6 月、巴西，攝影師是 Mario Daloia。\n\n【執行】官方頁面與 Ads of the World 都只有標題、作者名單與圖，沒有說明文字，也找不到可打開的作品圖，所以無法描述畫面與標語，這裡不推測。四件作品的名稱都是日常包裝材料。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/plastic-bag-260777\nhttps://www.adsoftheworld.com/campaigns/plastic-bag",
+  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜Press類銀獅 Press Silver Lion｜代理商：ALMAPBBDO, São Paulo\n\n【背景】這是巴西 AlmapBBDO 為福斯卡車（Volkswagen Trucks）做的平面系列，官方品牌欄寫 MAN。官方報名名稱共四個：PAPER、ROLL OF ALUMINIUM、PVC PLASTIC、PLASTIC BAG。Ads of the World 登載發行時間是 2011 年 6 月、巴西，攝影師是 Mario Daloia。\n\n【點子】把福斯外送卡車印在各種「可以撕下需要長度」的捲狀包材上：包材本來就是用多少撕多少，卡車也一樣，可以挑剛好合用的大小。每張右下角都寫著「Volkswagen Delivery Trucks. The right size for your needs.」（福斯外送卡車，尺寸剛好符合你的需要）。\n\n【執行】四張海報都把卡車的側面圖印在一捲包材上，擺在會用到這種包材的店家或廚房裡。Paper：五金行木櫃台上的一捲牛皮紙，紙上印著卡車，旁邊擺著銅管與銅接頭。Plastic Bag：水果攤的萊姆與柳橙堆中間，一捲撕取式塑膠袋上印著卡車，旁邊是寫著價格的手寫牌子。PVC Plastic：不鏽鋼營業廚房裡掛著的一捲保鮮膜，膜上印著卡車，下面是一大盆生菜和一碗雞蛋。Roll of Aluminium：木頭流理台上拉開一段鋁箔，鋁箔上印著卡車，旁邊是放在烤盤裡、等著包起來的整條魚。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/plastic-bag-260777\nhttps://www.adsoftheworld.com/campaigns/plastic-bag\nhttps://image.adsoftheworld.com/t2tfclnodm6imyi46kpbjnikw0h5",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2011, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Press, 平面廣告, 平面, 印刷廣告, 其他車輛與汽車用品, Other Vehicles Auto Products & Services, 銀獅, Silver Lion, Volkswagen Trucks, 福斯卡車, 卡車, MAN, AlmapBBDO, BBDO, 紙, 塑膠袋, 鋁箔, PVC, 包裝, 巴西, Brazil, 聖保羅, São Paulo",
   "category": "行銷案例",
   "references": [
    "https://www.lovethework.com/en/work/entries/plastic-bag-260777",
    "https://www.adsoftheworld.com/campaigns/plastic-bag",
-   "https://www.adsoftheworld.com/campaign/volkswagen-bbdo-06-2011_0"
+   "https://image.adsoftheworld.com/t2tfclnodm6imyi46kpbjnikw0h5"
   ],
-  "image_url": "",
-  "image_shows": "",
+  "image_url": "https://image.adsoftheworld.com/t2tfclnodm6imyi46kpbjnikw0h5",
+  "image_shows": "平面廣告：五金行木櫃台上一捲牛皮紙，紙上印著福斯卡車側面，旁邊是銅管與銅接頭，右下角寫「Volkswagen Delivery Trucks. The right size for your needs.」",
   "text_source_level": 3,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "官方頁面只有標題、類別與獎項；Ads of the World 只有名單與四張圖、沒有說明文字；Trend Hunter 回 403；D&AD 2011 的 Volkswagen Trucks 頁（dandad.org/awards/professional/2011/press-advertising/18670）說是「量尺複製卡車駕駛室」的客製概念，但無法確認和這四件是同一組，未寫入。一句話只寫得出四個作品名稱，沒有看到作品圖，無法判斷巧思，故 uncertain。缺：四件作品的圖或說明。圖：候選只有預留 SVG，找不到可用圖，image_url 留空，待本機補。已搜爭議：「AlmapBBDO Volkswagen Trucks 2011 Cannes controversy fake plagiarism withdrawn」，沒有找到相關指控。搜尋摘要未寫入。"
+  "note": "官方頁面只有標題、類別與獎項；Ads of the World 只有名單與四張圖、沒有說明文字；Trend Hunter 回 403；D&AD 2011 的 Volkswagen Trucks 頁（dandad.org/awards/professional/2011/press-advertising/18670）說是「量尺複製卡車駕駛室」的客製概念，但無法確認和這四件是同一組，未寫入。一句話只寫得出四個作品名稱，沒有看到作品圖，無法判斷巧思，故 uncertain。缺：四件作品的圖或說明。圖：候選只有預留 SVG，找不到可用圖，image_url 留空，待本機補。已搜爭議：「AlmapBBDO Volkswagen Trucks 2011 Cannes controversy fake plagiarism withdrawn」，沒有找到相關指控。搜尋摘要未寫入。 2026-11-28 Opus 驗：Ads of the World 頁（WebFetch 開得到）有四張作品圖（gzht76…、t2tfcl…、c7oefk…、6dr7gd…），已下載逐張打開看：卡車印在塑膠袋捲、牛皮紙捲、保鮮膜、鋁箔上，標語 The right size for your needs. 依作品畫面解讀，無文字說明；改寫一句話與讀稿、補圖，拿掉 uncertain。",
+  "idea_one_liner_r0": "福斯卡車平面系列以紙、PVC 塑膠、塑膠袋和鋁箔捲四種包材為題，官方標為福斯卡車廣告"
  },
  {
   "id": "ltwm-04971",
@@ -205,7 +206,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方頁面沒有案例文字；concept 句取自 D&AD「Hands-free parking system」頁，Ads of the World「Hands-free parking」（2011 年 6 月、AlmapBBDO）標題與海報標語相同，判斷為同一組海報，但兩頁沒有出現 Puppets／Magic／Origami 字樣，無法 100% 確認。官方三個報名名稱只看到 Puppets 一張圖，Magic 與 Origami 未見，讀稿未描述。畫面上「鱷魚」是依綠色布偶外形稱呼，來源沒有說明是什麼動物。依作品畫面解讀細節，無逐張文字說明。已搜爭議：「AlmapBBDO Volkswagen Tiguan Puppets 2011 Cannes controversy fake plagiarism withdrawn」，沒有找到相關指控。"
+  "note": "官方頁面沒有案例文字；concept 句取自 D&AD「Hands-free parking system」頁，Ads of the World「Hands-free parking」（2011 年 6 月、AlmapBBDO）標題與海報標語相同，判斷為同一組海報，但兩頁沒有出現 Puppets／Magic／Origami 字樣，無法 100% 確認。官方三個報名名稱只看到 Puppets 一張圖，Magic 與 Origami 未見，讀稿未描述。畫面上「鱷魚」是依綠色布偶外形稱呼，來源沒有說明是什麼動物。依作品畫面解讀細節，無逐張文字說明。已搜爭議：「AlmapBBDO Volkswagen Tiguan Puppets 2011 Cannes controversy fake plagiarism withdrawn」，沒有找到相關指控。 2026-11-28 Opus 驗：與 ltwm-04878 TRANSLATOR 同一個 Park Assist「免手停車、手拿來做別的事」點子（影片版／海報版），列重複候選交主對話，decision 未動。"
  },
  {
   "id": "ltwm-05092",
@@ -231,7 +232,7 @@
   "awards_unverified": [],
   "idea_one_liner": "荷蘭福斯 Golf 廣告，爸爸陪兒子買第一輛二手 Golf，賣家是老太太，閃回卻透出她開車很猛",
   "brand_display": "福斯（Volkswagen）",
-  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜影片類銅獅 Film Bronze Lion｜代理商：DDB AMSTERDAM\n\n【背景】這是荷蘭 DDB Amsterdam 為福斯車商 Pon's Automobielhandel 做的 Golf 廣告，片名 Old Lady（老太太）。Ads of the World 登載的導演是 Bart Timmer，製作公司 Czar.nl。\n\n【點子】賣二手車時，大家最信任的賣家形象就是「開得很小心的老太太」。這支廣告先照這個想像鋪陳，再用閃回畫面推翻。結尾標語翻成中文是「不是每個老太太都值得信任，好在每輛 Golf 都是」（Not every old lady is trustworthy – luckily every Golf is）。\n\n【執行】一位爸爸陪著十幾歲的兒子去買他的第一輛車，一輛三代（Mk3）Golf。看到賣家是位年長的女士，爸爸顯得很放心。車子看起來沒問題，但賣家腦中閃過的畫面暗示她以前把這輛車開得相當猛。官方案例板的畫面是一名穿深色毛衣的男人站在磚牆住宅門口回頭看，前景有模糊的年輕人與紅色車身。\n\n資料來源：\nhttps://retrorides.com.au/?p=7401\nhttps://www.adsoftheworld.com/campaigns/old-lady\nhttps://www.marketingdirecto.com/marketing-general/anciana-protagoniza-comico-spot-volkswagen\nhttps://www.lovethework.com/en/work/entries/old-lady-265378",
+  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜影片類銅獅 Film Bronze Lion｜代理商：DDB AMSTERDAM\n\n【背景】這是荷蘭 DDB Amsterdam 為福斯車商 Pon's Automobielhandel 做的 Golf 廣告，片名 Old Lady（老太太）。Ads of the World 登載的導演是 Bart Timmer，製作公司 Czar.nl。\n\n【點子】片中的爸爸看到賣家是老太太就放心了，廣告先順著這份信任鋪陳，再用閃回畫面推翻。結尾標語翻成中文是「不是每個老太太都值得信任，好在每輛 Golf 都是」（Not every old lady is trustworthy – luckily every Golf is）。\n\n【執行】一位爸爸陪著十幾歲的兒子去買他的第一輛車，一輛三代（Mk3）Golf。看到賣家是位年長的女士，爸爸顯得很放心。車子看起來沒問題，但賣家腦中閃過的畫面暗示她以前把這輛車開得相當猛。官方案例板的畫面是一名穿深色毛衣的男人站在磚牆住宅門口回頭看，前景有模糊的年輕人與紅色車身。\n\n資料來源：\nhttps://retrorides.com.au/?p=7401\nhttps://www.adsoftheworld.com/campaigns/old-lady\nhttps://www.marketingdirecto.com/marketing-general/anciana-protagoniza-comico-spot-volkswagen\nhttps://www.lovethework.com/en/work/entries/old-lady-265378",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2011, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Film, 影片, 汽車, Cars, 銅獅, Bronze Lion, Volkswagen, 福斯, VW, Golf, VW Golf, Mk3, 二手車, Pon's Automobielhandel, DDB, DDB Amsterdam, 老太太, 老奶奶, 反差, 幽默, 閃回, 賣車, 荷蘭, Netherlands, 阿姆斯特丹, Amsterdam, 父子",
   "category": "行銷案例",
   "references": [
@@ -245,7 +246,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方頁面沒有案例文字；劇情依 Retro Rides 對 2010 年原片的描述，標語依 Marketing Directo（2022 續集報導）引述原片標語，Ads of the World 只有名單。「賣家是老太太」「爸爸放心」「閃回暗示她開得猛」來自 Retro Rides，未看到影片本身，細節（例如閃回具體內容）未寫。「賣二手車最信任老太太」的說法是改寫標語的推論，非來源原文，驗收員請酌。各來源對上線年份說法不一（2010 或 2011 年 7 月），讀稿未寫日期。已搜爭議：「Volkswagen Golf Old Lady DDB Amsterdam controversy」，沒有找到造假、抄襲或撤獎指控（2022 年續集的演員不同，屬續集資訊，未寫）。搜尋摘要未寫入。"
+  "note": "官方頁面沒有案例文字；劇情依 Retro Rides 對 2010 年原片的描述，標語依 Marketing Directo（2022 續集報導）引述原片標語，Ads of the World 只有名單。「賣家是老太太」「爸爸放心」「閃回暗示她開得猛」來自 Retro Rides，未看到影片本身，細節（例如閃回具體內容）未寫。「賣二手車最信任老太太」的說法是改寫標語的推論，非來源原文，驗收員請酌。各來源對上線年份說法不一（2010 或 2011 年 7 月），讀稿未寫日期。已搜爭議：「Volkswagen Golf Old Lady DDB Amsterdam controversy」，沒有找到造假、抄襲或撤獎指控（2022 年續集的演員不同，屬續集資訊，未寫）。搜尋摘要未寫入。 2026-11-28 Opus 驗：刪掉「賣二手車大家最信任老太太」這句來源沒有的推論，改成 Retro Rides 有寫的「爸爸看到老太太就放心」。"
  },
  {
   "id": "ltwm-05081",
@@ -310,7 +311,7 @@
   "awards_unverified": [],
   "idea_one_liner": "福斯為破除車價貴的印象，做互動小村莊網站，逛家庭、食物、假期等場景，粗估一輩子開銷",
   "brand_display": "福斯（Volkswagen）",
-  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：DDB UK, London\n\n【背景】很多人認為福斯的車比其他品牌貴。Matt & Bren 的作品頁寫，這個網站就是針對這個印象做的。\n\n【點子】用「真實生活成本」（true life cost）的觀念：把一個東西在一段時間內所有的花費加總起來看。福斯想說的是，車以外的日常開銷累積起來也很驚人，放在一起比，車價就不再是最可怕的那一項。\n\n【執行】DDB London 的網站是一座可以互動逛的小模型村莊。訪客走進村裡不同的角落，就能大致估出人生各面向的長期花費：家庭、休閒、假期、食物、住家，以及一輛福斯汽車。官方網站標題是 TRUE LIFE COSTS，獲 Cyber 類銅獅。圖是這座模型村莊的畫面：草地、道路與彩色房屋。\n\n資料來源：\nhttps://www.mattandbren.com/truelifecosts\nhttps://www.lovethework.com/en/work/entries/true-life-costs-95089",
+  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜Cyber類銅獅 Cyber Bronze Lion｜代理商：DDB UK, London\n\n【背景】很多人認為福斯的車比其他品牌貴。Matt & Bren 的作品頁寫，這個網站就是針對這個印象做的。\n\n【點子】用「真實生活成本」（true life cost）的觀念：把一個東西在一段時間內所有的花費加總起來看。網站把一輛福斯汽車和人生其他開銷放在一起估算，用來回應「福斯比較貴」的印象。\n\n【執行】DDB London 的網站是一座可以互動逛的小模型村莊。訪客走進村裡不同的角落，就能大致估出人生各面向的長期花費：家庭、休閒、假期、食物、住家，以及一輛福斯汽車。官方網站標題是 TRUE LIFE COSTS，獲 Cyber 類銅獅。圖是這座模型村莊的畫面：草地、道路與彩色房屋。\n\n資料來源：\nhttps://www.mattandbren.com/truelifecosts\nhttps://www.lovethework.com/en/work/entries/true-life-costs-95089",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2011, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Cyber, 網站, 微型網站, Websites & Microsites, 互動網頁, 互動, 汽車產品與服務, Automotive Products & Services, 銅獅, Bronze Lion, Volkswagen, 福斯, VW, Volkswagen Value, DDB, DDB UK, DDB London, Matt & Bren, 成本, 開銷, 生活成本, 價格印象, 小村莊, 模型, 微縮, 英國, United Kingdom, 倫敦, London",
   "category": "行銷案例",
   "references": [
@@ -322,7 +323,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方頁面的案例描述欄是空的；內容依 Matt & Bren 作品頁（只有概述，沒有操作細節）。Future Laboratory 報導頁只有標題。「車價不再是最可怕的那一項」是對概念的詮釋句，非來源原文，請驗收員酌。圖是 500×281 的 GIF（作品頁圖），解析度偏低，但看得出模型村莊；圖主機網址經 301 轉址後的 squarespace-cdn。已搜爭議：「Volkswagen True Life Costs DDB London controversy」，沒有找到造假、抄襲或撤獎指控。搜尋摘要未寫入。"
+  "note": "官方頁面的案例描述欄是空的；內容依 Matt & Bren 作品頁（只有概述，沒有操作細節）。Future Laboratory 報導頁只有標題。「車價不再是最可怕的那一項」是對概念的詮釋句，非來源原文，請驗收員酌。圖是 500×281 的 GIF（作品頁圖），解析度偏低，但看得出模型村莊；圖主機網址經 301 轉址後的 squarespace-cdn。已搜爭議：「Volkswagen True Life Costs DDB London controversy」，沒有找到造假、抄襲或撤獎指控。搜尋摘要未寫入。 2026-11-28 Opus 驗：刪掉「車價不再是最可怕的那一項」這句詮釋，改成作品頁有的說法。圖 500×281 偏小，列圖不理想。"
  },
  {
   "id": "ltwm-04998",
@@ -361,7 +362,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方頁面沒有案例文字，內容依案例板文字與 Direct New Ideas 整理。案例板與來源的成效數字（參與人數、頁面瀏覽、試駕報名）依規則未寫。案例板寫「7 tracks that professional were competing on」，故「七條賽道是真實賽事用的」有來源。雜誌名稱只依封面可見字樣寫。已搜爭議：「Volkswagen Scirocco Cup AR Ogilvy Beijing controversy fake fraud withdrawn」，沒有找到相關指控（找到的是別支 Audi 與 Golf 廣告爭議，未採用）。搜尋摘要未寫入。"
+  "note": "官方頁面沒有案例文字，內容依案例板文字與 Direct New Ideas 整理。案例板與來源的成效數字（參與人數、頁面瀏覽、試駕報名）依規則未寫。案例板寫「7 tracks that professional were competing on」，故「七條賽道是真實賽事用的」有來源。雜誌名稱只依封面可見字樣寫。已搜爭議：「Volkswagen Scirocco Cup AR Ogilvy Beijing controversy fake fraud withdrawn」，沒有找到相關指控（找到的是別支 Audi 與 Golf 廣告爭議，未採用）。搜尋摘要未寫入。 2026-11-28 Opus 驗：事實抽查 Direct New Ideas：Ogilvy Beijing、Axis 3D、雜誌插頁當 AR 方向盤、七條賽道、Scirocco Camp 相符；選車色只見於案例板。"
  },
  {
   "id": "ltwm-05006",

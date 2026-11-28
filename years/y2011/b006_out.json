@@ -96,7 +96,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方案例頁只有標題，內容依 Transmission 與 BEA World Festival 報導整理；圖用 YouTube 遊戲影片的 hqdefault（只有 480×360，沒有 maxres，且上傳頻道是否為官方未確認）。成效（參加人數、移動距離、銷量）未寫入。獎項類別以 in 檔為準。已搜爭議：搜 Getaway Stockholm controversy／fake／withdrawn，只有正面報導，沒有爭議。"
+  "note": "官方案例頁只有標題，內容依 Transmission 與 BEA World Festival 報導整理；圖用 YouTube 遊戲影片的 hqdefault（只有 480×360，沒有 maxres，且上傳頻道是否為官方未確認）。成效（參加人數、移動距離、銷量）未寫入。獎項類別以 in 檔為準。已搜爭議：搜 Getaway Stockholm controversy／fake／withdrawn，只有正面報導，沒有爭議。 2026-11-28 Opus 驗：圖：官方候選只是 cyber 縮圖，YouTube 無 maxres，480×360 暫用，列圖不理想。"
  },
  {
   "id": "ltwm-04771",
@@ -181,7 +181,7 @@
   "text_source_level": 2,
   "uncertain": false,
   "needs_audio": false,
-  "note": "官方 case board 只有 480×360（體檢標太小），改用 YouTube 影片 6P5iWfze6kY 的 maxresdefault（頻道 BlueBell Group，是否為官方未確認）。報導沒有劇情描述，讀稿只寫報導與截圖看得到的內容，不寫車子分身的情節。已搜爭議：搜 Flow BSUR commercial controversy／fake／plagiarism，沒有相關爭議。"
+  "note": "官方 case board 只有 480×360（體檢標太小），改用 YouTube 影片 6P5iWfze6kY 的 maxresdefault（頻道 BlueBell Group，是否為官方未確認）。報導沒有劇情描述，讀稿只寫報導與截圖看得到的內容，不寫車子分身的情節。已搜爭議：搜 Flow BSUR commercial controversy／fake／plagiarism，沒有相關爭議。 2026-11-28 Opus 驗：官方 case board 下載確認只有 20KB、480×360，改用的 maxres 截圖（已打開）確實是同一支片的多輛紅色 Countryman 畫面，維持。"
  },
  {
   "id": "ltwm-04905",
@@ -368,14 +368,15 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "新加坡政府為推動孝道，請 Leo Burnett 拍父子主題影片，案例圖用的是醫院監視器畫面",
+  "idea_one_liner": "新加坡社會發展、青年及體育部推動孝道的全國運動，請 Leo Burnett 拍成父子主題的電視廣告",
   "brand_display": "新加坡社會發展部",
-  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜影片類銅獅 Film Bronze Lion｜代理商：LEO BURNETT GROUP SINGAPORE\n\n【背景】新加坡社會發展、青年及體育部（MCYS）推出一項全國性的運動，向家庭推廣孝道。（Campaign Asia 報導標題與開頭一句，內文需登入。）\n\n【執行】官方作品名稱是「Father & Son」，代理商是 Leo Burnett Singapore。官方案例圖是一格偏暗的醫院畫面，能看到心電監視器，螢幕上心率 40、血氧 72，並有低心率警示；右上角是坎城獅子標誌。除此之外找不到可以打開的劇情說明，所以這裡不寫影片的故事。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/father-son-267909\nhttps://www.campaignasia.com/article/mcys-launches-national-drive-to-spark-filial-piety-in-singapore/215766\nhttps://cdn.filespin.io/api/v1/conversion/412ab22ebcc744eb8a53231d35f1d05b",
+  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜影片類銅獅 Film Bronze Lion｜代理商：LEO BURNETT GROUP SINGAPORE\n\n【背景】新加坡社會發展、青年及體育部（MCYS）推出一項全國性的運動，向家庭推廣孝道。（Campaign Asia 報導標題與開頭一句，內文需登入。）Adobo Magazine 的報導寫明，Leo Burnett Singapore 的「Father & Son」電視廣告就是為 MCYS 孝道運動（Filial Piety campaign）製作的。\n\n【執行】官方作品名稱是「Father & Son」，代理商是 Leo Burnett Singapore。官方案例圖是一格偏暗的醫院畫面，能看到心電監視器，螢幕上心率 40、血氧 72，並有低心率警示；右上角是坎城獅子標誌。除此之外找不到可以打開的劇情說明，所以這裡不寫影片的故事。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/father-son-267909\nhttps://www.campaignasia.com/article/mcys-launches-national-drive-to-spark-filial-piety-in-singapore/215766\nhttps://www.adobomagazine.com/?p=6687\nhttps://cdn.filespin.io/api/v1/conversion/412ab22ebcc744eb8a53231d35f1d05b",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2011, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, 影片類銅獅, Film Bronze, 新加坡社會發展、青年及體育部, Ministry of Community Development, MCYS, Leo Burnett Singapore, 新加坡, Singapore, 孝道, filial piety, 家庭, 公共服務, 政府, 影片, 電視廣告, cinema, 醫院, 心電圖, 監視器, 父子, Father & Son, 公益, 情感",
   "category": "行銷案例",
   "references": [
    "https://www.lovethework.com/en/work/entries/father-son-267909",
    "https://www.campaignasia.com/article/mcys-launches-national-drive-to-spark-filial-piety-in-singapore/215766",
+   "https://www.adobomagazine.com/?p=6687",
    "https://cdn.filespin.io/api/v1/conversion/412ab22ebcc744eb8a53231d35f1d05b"
   ],
   "image_url": "https://cdn.filespin.io/api/v1/conversion/412ab22ebcc744eb8a53231d35f1d05b",
@@ -383,7 +384,8 @@
   "text_source_level": 2,
   "uncertain": true,
   "needs_audio": false,
-  "note": "缺文字來源：YouTube、Campaign Asia 都打不開內文（登入牆／429），lovethework 頁面只有標題。搜尋摘要提到劇情（兒子講父親照顧臨終的難相處母親）與其他獎項，只出現在搜尋摘要，未打開原文，未寫入；也不確定該作品是否就是這支。需要本機補劇情，建議找得到影片說明或完整報導再寫。已搜爭議：搜 MCYS Father & Son Leo Burnett controversy／fake／withdrawn，沒有相關爭議（只有 Leo Burnett 2016 年另一支 Petronas 影片的抄襲指控，不同作品，不算）。"
+  "note": "缺文字來源：YouTube、Campaign Asia 都打不開內文（登入牆／429），lovethework 頁面只有標題。搜尋摘要提到劇情（兒子講父親照顧臨終的難相處母親）與其他獎項，只出現在搜尋摘要，未打開原文，未寫入；也不確定該作品是否就是這支。需要本機補劇情，建議找得到影片說明或完整報導再寫。已搜爭議：搜 MCYS Father & Son Leo Burnett controversy／fake／withdrawn，沒有相關爭議（只有 Leo Burnett 2016 年另一支 Petronas 影片的抄襲指控，不同作品，不算）。 2026-11-28 Opus 驗：Adobo Magazine（已打開）確認「Father & Son」就是 MCYS 孝道運動的電視廣告，「是不是這支」的疑問解除；一句話改掉「案例圖用醫院監視器畫面」這種非點子描述。劇情仍只有搜尋摘要（兒子講父親照顧難相處的臨終祖母、閃回祖母年輕時送他就醫，導演 David Tsui），superadrianme、Campaign Asia 內文 403／登入牆打不開，未寫入，仍 uncertain。",
+  "idea_one_liner_r0": "新加坡政府為推動孝道，請 Leo Burnett 拍父子主題影片，案例圖用的是醫院監視器畫面"
  },
  {
   "id": "ltwm-05070",
@@ -407,9 +409,9 @@
    }
   ],
   "awards_unverified": [],
-  "idea_one_liner": "泰國 Mini 助聽器平面廣告，把鴨子畫成壺、卡車、吸塵管等怪模樣，重聽者把「duck」聽成別的東西",
+  "idea_one_liner": "泰國 Mini 助聽器平面廣告畫一排鴨子，中間幾隻走樣成鴨嘴水壺、卡車、瓢蟲，標語「說鴨，聽到的也是鴨」",
   "brand_display": "Mini 助聽器",
-  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜Press類銅獅 Press Bronze Lion｜代理商：MONDAY, Bangkok\n\n【點子】一組黑白線稿的平面廣告。打開看到的一張，是在白紙背景上畫了六個怪異的生物：第一隻與最後一隻是普通的鴨子，中間分別是有鴨嘴的水壺、鴨嘴的貨車、鴨嘴加長舌頭的吸塵管形狀、鴨嘴的瓢蟲。右下角有手寫的標語，看起來是「Said \"Duck\" Heard \"Duck\"」，旁邊是一個貼著助聽器的耳朵與 Mini Hearing Aid 的標誌。\n\n【執行】官方報名作品名稱是 Dog、Man、Duck 三張，我只看到 Duck 這一張。依畫面推測，這組廣告想表現「說的是同一個詞，聽的人聽到的卻是各種走樣的東西」，Mini 助聽器則是讓聽到的聲音不走樣；但沒有文字說明可以確認這個解讀。廣告由曼谷的 Monday 製作。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/duck-263499\nhttps://www.adsoftheworld.com/campaign/mini-hearing-aid-monday-01-2011\nhttps://www.adsoftheworld.com/campaigns/man-977d1b5a-d3f7-4818-8c70-94d3e6720fa8\nhttps://portal-assets.imgix.net/archive/2011/stitched/13df74510373ce17944f42d9dbafe07e.jpg",
+  "full_text": "【得獎】2011 坎城獅子獎（Cannes Lions 2011）｜Press類銅獅 Press Bronze Lion｜代理商：MONDAY, Bangkok\n\n【點子】一組黑白線稿的平面廣告。打開看到的一張，是在白紙背景上畫了六個怪異的生物：第一隻與最後一隻是普通的鴨子，中間分別是有鴨嘴的水壺、鴨嘴的貨車、鴨嘴加長舌頭的吸塵管形狀、鴨嘴的瓢蟲。右下角有手寫的標語「Said \"Duck.\" Heard \"Duck.\"」（說的是鴨，聽到的也是鴨），旁邊是一個貼著助聽器的耳朵與 Mini Hearing Aid 的標誌。\n\n【執行】官方報名作品名稱是 Dog、Man、Duck 三張，我只看到 Duck 這一張。依畫面解讀：中間那幾隻走樣的鴨，像是把「duck」聽成了別的東西；頭尾兩隻正常的鴨，對上標語「說鴨，聽到的也是鴨」，也就是聽得準。來源沒有文字說明，這段是依作品畫面解讀。廣告由曼谷的 Monday 製作。\n\n資料來源：\nhttps://www.lovethework.com/en/work/entries/duck-263499\nhttps://www.adsoftheworld.com/campaign/mini-hearing-aid-monday-01-2011\nhttps://www.adsoftheworld.com/campaigns/man-977d1b5a-d3f7-4818-8c70-94d3e6720fa8\nhttps://portal-assets.imgix.net/archive/2011/stitched/13df74510373ce17944f42d9dbafe07e.jpg",
   "tags": "得獎創意案例, 坎城獅子獎, 坎城獅子獎 2011, 坎城, 坎城創意節, Cannes Lions, 坎城案例, 坎城廣告獎, Press類銅獅, Press Bronze, Mini Hearing Aid, Mini 助聽器, 助聽器, hearing aid, Monday, Monday Bangkok, 泰國, Thailand, 曼谷, 平面廣告, 海報, print, 系列, 插畫, 線稿, 手繪, 黑白, 鴨子, duck, 聽錯, 重聽, 聽力, 醫療, 電子產品, 幽默, Dog, Man, Duck",
   "category": "行銷案例",
   "references": [
@@ -419,10 +421,11 @@
    "https://portal-assets.imgix.net/archive/2011/stitched/13df74510373ce17944f42d9dbafe07e.jpg"
   ],
   "image_url": "https://portal-assets.imgix.net/archive/2011/stitched/13df74510373ce17944f42d9dbafe07e.jpg",
-  "image_shows": "平面廣告：白底黑線手繪，六個鴨嘴怪物並排（鴨子、壺、貨車、吸塵管、瓢蟲、鴨子），右下角手寫標語與貼著助聽器的耳朵",
+  "image_shows": "平面廣告：白底黑線手繪，六個鴨嘴怪物並排（鴨子、壺、貨車、吸塵管、瓢蟲、鴨子），右下角手寫標語「Said \"Duck.\" Heard \"Duck.\"」與貼著助聽器的耳朵、Mini Hearing Aid 標誌",
   "text_source_level": 2,
-  "uncertain": true,
+  "uncertain": false,
   "needs_audio": false,
-  "note": "依作品畫面解讀，無文字說明（Ads of the World 只有 credits，沒有文字；原網址 /campaign/mini-hearing-aid-monday-01-2011 為 404，改用 /campaigns/man-… 頁，只有標題與 credits）。手寫標語看不太清楚，讀成 Said \"Duck\" Heard \"Duck\" 是推測，因此 uncertain，缺官方文字說明或高清圖確認。只看到 Duck 一張，Dog、Man 未見。已搜爭議：搜 Mini Hearing Aid Monday Bangkok duck controversy／fake，沒有相關爭議。"
+  "note": "依作品畫面解讀，無文字說明（Ads of the World 只有 credits，沒有文字；原網址 /campaign/mini-hearing-aid-monday-01-2011 為 404，改用 /campaigns/man-… 頁，只有標題與 credits）。手寫標語看不太清楚，讀成 Said \"Duck\" Heard \"Duck\" 是推測，因此 uncertain，缺官方文字說明或高清圖確認。只看到 Duck 一張，Dog、Man 未見。已搜爭議：搜 Mini Hearing Aid Monday Bangkok duck controversy／fake，沒有相關爭議。 2026-11-28 Opus 驗：下載原圖（3000×1310）打開看，右下角標語清楚可讀為 Said \"Duck.\" Heard \"Duck.\"，已改正讀稿與一句話、拿掉 uncertain；巧思依作品畫面解讀，無文字說明。Dog、Man 兩張仍未見。",
+  "idea_one_liner_r0": "泰國 Mini 助聽器平面廣告，把鴨子畫成壺、卡車、吸塵管等怪模樣，重聽者把「duck」聽成別的東西"
  }
 ]

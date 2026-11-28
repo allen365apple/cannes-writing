@@ -16,3 +16,11 @@
 - 參考：b004 04885 Demo Slam 有來源歸給 BBH，官方代理商 Johannes Leonardo；04729 Chrome Speed Tests 官方另含 Fastball、Potato 3D 未寫；04733 Shieldtox 無文字來源、依畫面解讀；b004 04723、b005 05194、05195 系列只找到一張圖。
 - 圖不理想：沒有圖 b005 04721；b004 05101 官方 case board 只是白底字卡改用 YouTube 縮圖；04885 只是單支示範影片縮圖。待本機補。
 - 撤獎 0；重複 0。
+
+## 2026-11-28 雲端第 2 輪 b006–b009（Sonnet 寫、Opus 驗）
+- 重複候選 1：b009 ltwm-04878 TRANSLATOR（影片）與 ltwm-04971 PUPPETS（海報）同是「Tiguan 自動停車、駕駛空出雙手做別的事」，驗收員判斷是同一點子兩個版本，請決定要不要只收一筆（decision 沒動）。
+- 仍 uncertain 7：b006 05231 Father & Son（缺劇情）；b007 04734 Axe Premature Perspiration（缺劇情）、04803 IKEA Holidays（廣播缺音檔）、05086 IKEA 上鋪（缺劇情）；b008 05112 Change Rooms（缺劇情）；b009 04878 TRANSLATOR（「比手語的人就是駕駛」只在搜尋摘要，原文打不開）、04939 Original Parts（完全沒有內容說明）。
+- 驗收員補強：b006 05070 看原圖確認標語、拿掉 uncertain；05231 確認是孝道運動那支；b008 04744 改正推出單位、04743 拿掉 uncertain；b009 04959 找到 4 張作品圖重寫、拿掉 uncertain；05092、04997 刪無來源推論句。
+- 參考：b007 04734 四個片名同一座金獅、同系列；b008 05112 CHANGE ROOMS 是 Pleasure Before Business 活動其中一支；04739 WELCOME BACK／HOME 同一場機場行動；04738 in 檔代理商 THJNK、官方 KEMPERTRAUTMANN；b006 04725／04826 同屬 MINI Getaway、04730／04905 同屬 Gillette 印度活動，驗收員判斷各自點子不同、不算重複；b006 05042、b007 05046 in 檔候選圖是別件作品，已棄用。
+- 圖不理想：沒圖 b007 04735、04774、04803、b008 04740；太小 b006 04725、b008 05105、04743、b009 04997、05006；b008 04738 是 Demodern 2014 年版本不是 2011 原版；只有字卡或暗景 b007 05086、b008 05112、b009 05081。待本機補。
+- 【爭議】0、撤獎 0。
