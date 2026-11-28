@@ -1,10 +1,9 @@
-*坎城雲端寫稿｜2011 第 2 輪（11/28 14:36）*
-• 這輪寫完並驗收：2011 b006–b012，共 7 批 70 件（全收）
-• 這輪寫到的作品（舉 5 件）：Volkswagen〈The Force〉、Gillette〈Women Against Lazy Stubble〉、Dead Island〈Dead Island Trailer〉、NTT Docomo〈Xylophone〉、Pictionary〈Wrestler, Jet Fighter, T-Rex〉
-• 2011 進度：已完成 12／52 批，剩 40 批
-• 待決新增：約 12 件（重複候選 1：福斯 Translator 影片與 Puppets 海報同一個點子；爭議確認 1：Dead Island 批評判為一般評論已刪段；仍 uncertain 9，多是缺影片劇情、1 件廣播待音檔；撤獎 0）
+*坎城雲端寫稿｜2011 第 3 輪（11/29 02:30）*
+• 這輪寫完並驗收：2011 b013–b019，共 7 批 70 件（收 69、不收 1）
+• 這輪寫到的作品（舉 5 件）：Skittles〈Touch the Rainbow〉、Tipp-Ex〈獵人與熊〉、FedEx〈Exchange Student〉、Kaizers Orchestra〈Heartbreaker〉、BBC〈Almost Extinct〉
+• 2011 進度：已完成 19／52 批，剩 33 批
+• 待決新增：13 件（爭議確認 1：揚愛 Despair Whirlpool 畫面與藝術家楊業欣 2010 年行為藝術雷同；重複候選 1：Samroc 兩支廣播；漏收候選 1：FedEx CHANGE；不收待決 1：雷諾 Whirlwind of Change 缺內容；仍 uncertain 9，多為廣播缺音檔或缺影片劇情）
 • 問題：
-  • 今天 02:00 那輪沒有任何紀錄，疑似沒跑，這輪照常接續
-  • 多個參考網站擋爬蟲或連不上（adsspot、AdForum、The Drum、Behance、YouTube、Vimeo 等），4 件沒圖、十多件圖偏弱，待本機補
-  • 一位寫手跑過一次只讀的 git 查看指令（沒改檔）；另一位沒逐件重讀，驗收員已補看；程式檢查沒掃到違規
+  • 一位驗收員自報有一次抓網頁時把瀏覽器識別欄設成空白，違反「不自加標頭」，只有單次、沒存成腳本；程式檢查沒掃到其他違規
+  • 多個參考網站擋爬蟲或連不上（adsspot、AdForum、The Drum、Vimeo、YouTube 等），6 件廣播沒圖、約 9 張圖偏小或看不出點子，待本機補
 • 預計：照一天 14 批，2011 剩下約 3 天寫完（12/01 左右），隊伍裡沒有更早的年份，接著等本機做前置
