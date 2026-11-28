@@ -24,3 +24,11 @@
 - 參考：b007 04734 四個片名同一座金獅、同系列；b008 05112 CHANGE ROOMS 是 Pleasure Before Business 活動其中一支；04739 WELCOME BACK／HOME 同一場機場行動；04738 in 檔代理商 THJNK、官方 KEMPERTRAUTMANN；b006 04725／04826 同屬 MINI Getaway、04730／04905 同屬 Gillette 印度活動，驗收員判斷各自點子不同、不算重複；b006 05042、b007 05046 in 檔候選圖是別件作品，已棄用。
 - 圖不理想：沒圖 b007 04735、04774、04803、b008 04740；太小 b006 04725、b008 05105、04743、b009 04997、05006；b008 04738 是 Demodern 2014 年版本不是 2011 原版；只有字卡或暗景 b007 05086、b008 05112、b009 05081。待本機補。
 - 【爭議】0、撤獎 0。
+
+## 2026-11-28 雲端第 2 輪 b010–b012（Sonnet 寫、Opus 驗）
+- 【爭議】請確認 1：b010 ltwm-04752 Dead Island，寫手原加【爭議】段（批評太血腥、預告沒有遊戲畫面），驗收員判斷屬一般評論、已刪段改寫進 note。
+- 仍 uncertain 2：b010 04753 OFFICE（情節只有 selfstorming 一個來源，缺影片或官方說明）；b011 04759 SHOELACES（缺 Shoe Laces 那支的劇情，稿以同系列 Classroom Craft 舉例）。
+- 驗收員補強：b010 04861 CHOIR 確認是 Santo 為可口可樂做的《Coro》、05240 改正三張圖描述，都拿掉 uncertain；b011 04754 找到三張作品圖、拿掉 uncertain，05036 三張圖對應確認；b011 全批 awards 補上 entry_titles。
+- 參考：b012 THE MISSING CHILD 與 GERMANY'S BIGGEST SEARCH FOR MISSING CHILDREN 是同一筆的兩個報名名稱，不算重複；b012 WRESTLER, JET FIGHTER, T-REX 依畫面解讀；b010 04753 in 標題 CRASH、官方 OFFICE。
+- 圖不理想：b010 04749 KILLER BEES、04861 CHOIR 只有字卡；04752 有 IGN 浮水印；b011 04759 人物截圖看不出點子；b012 LIFE IN A DAY 只有 220×326、SNEAKERPEDIA 看不到網站介面。待本機補。
+- 重複 0、撤獎 0。
