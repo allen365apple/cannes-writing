@@ -32,3 +32,12 @@
 - 參考：b012 THE MISSING CHILD 與 GERMANY'S BIGGEST SEARCH FOR MISSING CHILDREN 是同一筆的兩個報名名稱，不算重複；b012 WRESTLER, JET FIGHTER, T-REX 依畫面解讀；b010 04753 in 標題 CRASH、官方 OFFICE。
 - 圖不理想：b010 04749 KILLER BEES、04861 CHOIR 只有字卡；04752 有 IGN 浮水印；b011 04759 人物截圖看不出點子；b012 LIFE IN A DAY 只有 220×326、SNEAKERPEDIA 看不到網站介面。待本機補。
 - 重複 0、撤獎 0。
+
+## 2026-11-29 雲端第 1 輪 b017–b019（Sonnet 寫、Opus 驗）
+- 重複候選 1：b017 ltwm-04818 AWESOME LIGHT（金獅）／ltwm-04985 BUST UP（銀獅），都是 Lowe Singapore 替 Samroc 做的廣播，同年同類別，疑同一系列；建議等音檔轉逐字稿後判斷點子是否相同。
+- 漏收候選 1：b019 ltwm-04841 的影片類銅獅作品 CHANGE，是 BBDO Canada 替 FedEx 做的另一支（Non-Rush Shipping 活動），與 BBDO New York 的 EXCHANGE STUDENT 不同支，全年 in 檔沒有它自己一筆；建議決定是否另收。
+- 仍 uncertain 6：b017 04817 CHRISTMAS TREE、04818、04985、04813 GLENDA（廣播缺腳本，needs_audio，adsspot 音檔 403）；b018 05197 PASSION／BABY（只找到一張海報）；b019 05249 EPIPHANY（廣播缺逐字稿，音檔 vimeo.com/58507075）。
+- 驗收員補強：b017 13754 找到 Ad Age 轉載補寫三支廣播、拿掉 uncertain（並移除講別年作品的 PRODU 來源）；04820 對 D&AD 確認概念、拿掉 uncertain；b018 04823 依 Direct News 補寫、拿掉 uncertain；04825「12-sheet」改正為海報尺寸；04832 刪成效句與留言區內容；05197 網址拼字改正；b019 05237 對 One Show 確認同一件、修正圖說。
+- 參考（不算重複）：04842 KADDAFI 是同組報紙廣告的報名名稱；04825 BELTS／SHOES 同活動；04838 官方名 IT'S 'FACE' TIME!；04813 BRAD、GAV 併在同筆；04819 Tipp-Ex in 檔 brand／title 對調。
+- 圖不理想：沒圖 b017 廣播 5 件（04817、13754、04818、04813、04985）、b019 05249；太小 b017 04819（480×360）、b018 04827 MONET（120×90）；看不出點子 b018 04823；b019 04841 有第三方浮水印、04853 非官方截圖。待本機補。
+- 【爭議】0、撤獎 0。
